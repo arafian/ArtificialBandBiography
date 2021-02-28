@@ -17,5 +17,5 @@ for a in soup.find_all("a", href=True):
 		subresponse = requests.get(suburl)
 		subsoup = BeautifulSoup(subresponse.content, "html.parser")
 		first_sentence = subsoup.select("p")[0].getText().split(".")[0]
-		if re.search(r'\bband\b', first_sentence):
+		if re.search(r'\bband\b', first_sentence) and not re.search(r'\balbum\b', first_sentence):
 			print(suburl)
