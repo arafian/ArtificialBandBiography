@@ -78,7 +78,6 @@ def createSections(soup):
         maxDepth = num.count('.')
 
     bandData["Sections"] = sectionTitles
-    bandData["Title"] = soup.title.string
     bandData["Summary"] = {}
     for i in range(0, maxDepth+1):
       # Create nested section structure in our json data
@@ -99,6 +98,8 @@ def insertSectionText(soup):
   parent = bandData
   currentHeader = "Summary"
   sectionParas = []
+  coreData = []
+  numParagraphs = 4
   for c in children:
     if re.match('^h[2-6]$', c.name):
       name = re.sub("[\[].*?[\]]", "", c.getText().lstrip().rstrip())
@@ -113,20 +114,28 @@ def insertSectionText(soup):
         if len(sectionParas):
           bandData[currentHeader] = {}
           bandData[currentHeader]['text'] = sectionParas
+          bandData["Sections"].append(currentHeader)
 
         currentHeader = name
         sectionParas = []
     if c.name == 'p':
       sectionParas.append(c.getText())
+      if numParagraphs > 0:
+        if (c.getText() != "\n"):
+          coreData.append(c.getText())
+          numParagraphs-=1
+  bandData["coreData"] = coreData
 
 numToTitle = {}
 bandData = {}
+allBandNames = []
 
 def createJSONData(url):
   """Create JSON object representing wikipedia article"""
   html = urlopen(url) 
   soup = BeautifulSoup(html, 'html.parser')
-
+  bandData["Name"] = soup.title.string[:-12]
+  allBandNames.append(bandData["Name"])
   
   createSections(soup)
   insertSectionText(soup)
@@ -138,8 +147,9 @@ for url in urls:
   createJSONData(url)
   
   with open('./data/'+str(fileNum)+'.json', 'w', encoding="utf-8") as outfile:
-     json.dump(bandData, outfile, sort_keys = True, indent = 3,
+     json.dump(bandData, outfile, indent = 3,
                ensure_ascii = False)
 
   fileNum = fileNum + 1
 
+print(allBandNames)
