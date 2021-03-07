@@ -1,4 +1,22 @@
 {
+   "Name": "Leviticus (band)",
+   "Sections": [
+      "1 Background",
+      "2 Side projects",
+      "3 Members",
+      "3.1 Current members",
+      "3.2 Former Members",
+      "4 Discography",
+      "5 References",
+      "5.1 Notes",
+      "5.2 Citations",
+      "6 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Leviticus was a Christian metal band from Sweden. The band formed in 1981 and was led by Bjorn Stigsson. They released four albums before breaking up in 1990.\n"
+      ]
+   },
    "Background": {
       "text": [
          "The band's early releases were metal with symphonic influences using the Roland synthesizer guitar and Moog Taurus pedals.[1][2] Knights of Heaven showed a move toward a more melodic rock based sound.[3]\n",
@@ -12,8 +30,12 @@
          "In 2011, Leviticus celebrated their 30 years anniversary with a concert, on May 7, 2011, at Valhall in Skövde, Sweden. The line-up was the same as on Bobfest, 2003, with only one exception: Håkan Andersson replaced Niklas Franklin on the bass guitar, and also performed vocals.[9] They have continued to play since.[10]\n"
       ]
    },
-   "Discography": {},
-   "External links": {},
+   "Side projects": {
+      "text": [
+         "Gomer and Haw joined with drummer Little George to form Jet Circus in 1988.[11] Jet Circus's first album, Step On It (1991), had a proto-rapcore sound.[3] It was distributed in Europe by Pila Records, and introduced to the United States by Doug Van Pelt, Editor of HM Magazine.[4] Despite quality issues due to its mastering[4] Van Pelt dubbed it \"the most creative release in Christian metal in 1990.\"[12] After a long hiatus the band released No Mercy For The Living Dead in 2003. Ez also released a solo album – which became a Jet Circus album, when Terry left the band – entitled Look At Death Now in 2005. This album features artists including Mikkey Dee of Motörhead, Stefan Elmgren of HammerFall, and The Swedish Radio Symphony Orchestra.[13] They have since released a remix album entitled Dance or Die.\n",
+         "Following the end of Leviticus, Stigsson formed XT with Sonny Larson. XT released three albums.[14] Stigsson also released a solo project in 1987 entitled Together With Friends.[3][6]\n"
+      ]
+   },
    "Members": {
       "Current members": {},
       "Former Members": {
@@ -22,32 +44,16 @@
          ]
       }
    },
+   "Discography": {},
    "References": {
-      "Citations": {},
-      "Notes": {}
+      "Notes": {},
+      "Citations": {}
    },
-   "Sections": [
-      "1 Background",
-      "2 Side projects",
-      "3 Members",
-      "3.1 Current members",
-      "3.2 Former Members",
-      "4 Discography",
-      "5 References",
-      "5.1 Notes",
-      "5.2 Citations",
-      "6 External links"
-   ],
-   "Side projects": {
-      "text": [
-         "Gomer and Haw joined with drummer Little George to form Jet Circus in 1988.[11] Jet Circus's first album, Step On It (1991), had a proto-rapcore sound.[3] It was distributed in Europe by Pila Records, and introduced to the United States by Doug Van Pelt, Editor of HM Magazine.[4] Despite quality issues due to its mastering[4] Van Pelt dubbed it \"the most creative release in Christian metal in 1990.\"[12] After a long hiatus the band released No Mercy For The Living Dead in 2003. Ez also released a solo album – which became a Jet Circus album, when Terry left the band – entitled Look At Death Now in 2005. This album features artists including Mikkey Dee of Motörhead, Stefan Elmgren of HammerFall, and The Swedish Radio Symphony Orchestra.[13] They have since released a remix album entitled Dance or Die.\n",
-         "Following the end of Leviticus, Stigsson formed XT with Sonny Larson. XT released three albums.[14] Stigsson also released a solo project in 1987 entitled Together With Friends.[3][6]\n"
-      ]
-   },
-   "Summary": {
-      "text": [
-         "Leviticus was a Christian metal band from Sweden. The band formed in 1981 and was led by Bjorn Stigsson. They released four albums before breaking up in 1990.\n"
-      ]
-   },
-   "Title": "Leviticus (band) - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "Leviticus was a Christian metal band from Sweden. The band formed in 1981 and was led by Bjorn Stigsson. They released four albums before breaking up in 1990.\n",
+      "The band's early releases were metal with symphonic influences using the Roland synthesizer guitar and Moog Taurus pedals.[1][2] Knights of Heaven showed a move toward a more melodic rock based sound.[3]\n",
+      "In 1986 the band went through lineup changes: Ez Gomér was brought in to replace Håkan Andersson on bass, and Terry Haw joined.[4] Both were with the band through Setting Fire to the Earth (1987),[5] then left to form Jet Circus.[4] With this lineup they toured extensively in Europe throughout 1986–1987.\n",
+      "They played the Greenbelt festival in England three times, 1984, 1985, and 1987, and the Scandinavium in Gothenburg twice (1985, 1987). The second appearance at the Scandinavium was with a festival, and was filmed by Sveriges Television.\n"
+   ]
 }

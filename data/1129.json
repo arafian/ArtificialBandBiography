@@ -1,10 +1,19 @@
 {
-   "Discography": {
-      "EPs": {},
-      "Singles": {},
-      "Studio albums": {}
+   "Name": "Autolux",
+   "Sections": [
+      "1 History",
+      "2 Discography",
+      "2.1 Studio albums",
+      "2.2 EPs",
+      "2.3 Singles",
+      "3 References",
+      "4 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Autolux is an American alternative rock band consisting of Eugene Goreshter (vocals, bass), Greg Edwards (vocals, guitar, piano) and Carla Azar (drums, vocals). The trio formed in 2001 and have released three full-length albums, Future Perfect (2004), Transit Transit (2010)  and Pussy's Dead (2016). Their eclectic sound draws from post-punk, electronic music and krautrock.[1][2]\n"
+      ]
    },
-   "External links": {},
    "History": {
       "text": [
          "Autolux was formed in 2001 in Los Angeles, California. Goreshter and Azar met while writing the score for Nobel Prize-winner Dario Fo's play Accidental Death of an Anarchist. Azar met Edwards when he was on tour with his band, Failure.[1] In August 2001, Autolux made their live debut, playing two shows at The Fold in Silverlake Lounge. In March 2001, the band released a self-released EP, Demonstration. It contained five songs recorded on an 8-track in their rehearsal space.[3]\n",
@@ -27,20 +36,17 @@
          "On January 19, 2016, Autolux announced the April 1 release of their third album, Pussy's Dead, produced by artist and producer Boots, who had previously produced Run the Jewels, FKA Twigs and Beyoncé.[21][22] The band was included in the Coachella Festival's 2016 line-up.\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 EPs",
-      "2.3 Singles",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Autolux is an American alternative rock band consisting of Eugene Goreshter (vocals, bass), Greg Edwards (vocals, guitar, piano) and Carla Azar (drums, vocals). The trio formed in 2001 and have released three full-length albums, Future Perfect (2004), Transit Transit (2010)  and Pussy's Dead (2016). Their eclectic sound draws from post-punk, electronic music and krautrock.[1][2]\n"
-      ]
+   "Discography": {
+      "Studio albums": {},
+      "EPs": {},
+      "Singles": {}
    },
-   "Title": "Autolux - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Autolux is an American alternative rock band consisting of Eugene Goreshter (vocals, bass), Greg Edwards (vocals, guitar, piano) and Carla Azar (drums, vocals). The trio formed in 2001 and have released three full-length albums, Future Perfect (2004), Transit Transit (2010)  and Pussy's Dead (2016). Their eclectic sound draws from post-punk, electronic music and krautrock.[1][2]\n",
+      "Autolux was formed in 2001 in Los Angeles, California. Goreshter and Azar met while writing the score for Nobel Prize-winner Dario Fo's play Accidental Death of an Anarchist. Azar met Edwards when he was on tour with his band, Failure.[1] In August 2001, Autolux made their live debut, playing two shows at The Fold in Silverlake Lounge. In March 2001, the band released a self-released EP, Demonstration. It contained five songs recorded on an 8-track in their rehearsal space.[3]\n",
+      "T-Bone Burnett signed Autolux to DMZ, a small label created by Burnett and the Coen Brothers, and \"nurtured\" the band.[1][3]\n",
+      "In November 2002, Autolux entered the studio to record their first full-length album, Future Perfect, and finished primary recording in January 2003. In contrast to the 8-track recording method employed during the making of Demonstration, Burnett wished to capture the band's live sound on the album. Following the initial recording, the band continued recording and overdubbing additional music at Space 23 (the band's studio in their rehearsal room) to flesh out the songs.[3] The song \"Asleep at the Trigger\" was completely recorded at Space 23.[4] At the beginning of 2003, the album was mixed by Dave Sardy. The album was released September 21, 2004, and was generally met with critical praise.[1]\n"
+   ]
 }

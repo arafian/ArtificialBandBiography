@@ -1,4 +1,8 @@
 {
+   "Name": "Uncle Monk",
+   "Sections": [
+      "Summary"
+   ],
    "Summary": {
       "text": [
          "Uncle Monk was an American bluegrass band.\n",
@@ -6,5 +10,11 @@
          "Uncle Monk released one album, also named Uncle Monk (March 2006). Tommy Ramone wrote to Jari-Pekka Laitio-Ramone in 2012-2014, that Uncle Monk are working with their second album. Tommy wrote: \"Yes, Claudia and I are finishing up the next record. There will be indie songs, bluegrass songs, old-time songs, romantic songs, and unclassifiable songs\", Tommy explained to Jari-Pekka who run Ramones' page http://www.ramonesheaven.com.[2]\n",
          "Ramone died at his home in Queens, New York City, on July 11, 2014, aged 65.[3]\n"
       ]
-   }
+   },
+   "coreData": [
+      "Uncle Monk was an American bluegrass band.\n",
+      "The band's two members were Tommy Ramone, an original member of the Ramones, and Claudia Tienan, a guitarist, bassist and vocalist formerly with an alternative band, the Simplistics.[1]\n",
+      "Uncle Monk released one album, also named Uncle Monk (March 2006). Tommy Ramone wrote to Jari-Pekka Laitio-Ramone in 2012-2014, that Uncle Monk are working with their second album. Tommy wrote: \"Yes, Claudia and I are finishing up the next record. There will be indie songs, bluegrass songs, old-time songs, romantic songs, and unclassifiable songs\", Tommy explained to Jari-Pekka who run Ramones' page http://www.ramonesheaven.com.[2]\n",
+      "Ramone died at his home in Queens, New York City, on July 11, 2014, aged 65.[3]\n"
+   ]
 }

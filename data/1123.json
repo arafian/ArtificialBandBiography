@@ -1,15 +1,21 @@
 {
-   "Band members": {
+   "Name": "Angeles (band)",
+   "Sections": [
+      "1 History",
+      "1.1 Early history (1975–1983)",
+      "1.2 First three albums (1984-1991)",
+      "1.3 Reunion and recent activities (1994-present)",
+      "2 Discography",
+      "2.1 Albums",
+      "3 Band members",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
       "text": [
-         "Current members\n",
-         "Former members\n",
-         "Timeline\n"
+         "Angeles is an American rock band from Los Angeles, United States, formed in 1977 by Dale Lytle. They were signed to Mystic Records, who released their debut album in 1984.  As of 2020, Angeles has released thirteen albums.[1]\n"
       ]
    },
-   "Discography": {
-      "Albums": {}
-   },
-   "External links": {},
    "History": {
       "Early history (1975–1983)": {
          "text": [
@@ -29,22 +35,22 @@
          ]
       }
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Early history (1975–1983)",
-      "1.2 First three albums (1984-1991)",
-      "1.3 Reunion and recent activities (1994-present)",
-      "2 Discography",
-      "2.1 Albums",
-      "3 Band members",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
+   "Discography": {
+      "Albums": {}
+   },
+   "Band members": {
       "text": [
-         "Angeles is an American rock band from Los Angeles, United States, formed in 1977 by Dale Lytle. They were signed to Mystic Records, who released their debut album in 1984.  As of 2020, Angeles has released thirteen albums.[1]\n"
+         "Current members\n",
+         "Former members\n",
+         "Timeline\n"
       ]
    },
-   "Title": "Angeles (band) - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Angeles is an American rock band from Los Angeles, United States, formed in 1977 by Dale Lytle. They were signed to Mystic Records, who released their debut album in 1984.  As of 2020, Angeles has released thirteen albums.[1]\n",
+      "The roots of Angeles can be traced to 1975 when Dale Lytle and Dave Raudman started the band “Avante-Gard”, the band's name was changed to “English” in 1976, before finally settling with “Angeles” in mid-1977.[2]  The initial line-up of Angeles was a five-piece: Dale Lytle on guitar, Dave Raudman on vocals, Terrell Hill on drums, Frank Galante on Bass, and Jen Nicia Alcivar on keyboard. On October 4th, 1980 Angeles headlined the Fall Rock Festival at Devonshire Downs; Ron Bushy, the original drummer of Iron Butterfly, joined the band onstage.  [3] On August 1, 1981, Angeles and Mötley Crüe co-headlined two concerts at The Troubadour.[4]\n",
+      "After signing to Mystic Records in 1984, they released their debut album We're no Angels; Hit Parader described the album as \"a tight powerful collection of metal anthems\" that \"manages to elicit plenty of excitement on tracks such as 'Nasty Girls' and 'No Sugar Tonight'.\"[5] In 1984, Angeles opened up for Bon Jovi at the Reseda Country Club.  Their second album Give It Up was released on the infamous Azra Records in 1986.[6]  In 1989, their third album Give It Up was released on Ace Records.  The band broke up in 1991, after releasing three albums.\n",
+      "In 1994, Angeles reformed with new singer Bryan Potter, Rhythm Guitarist Pat Schea (Schee), Bass Guitarist Marty Nelson and Drummer Chuck Landon \"Isquith\" in 1996, Potter was replaced with lead vocalist Brian LeBoeuf, Bass duties went to AJ Zalampous (Dimitri Antoniades) and drum duties to former Angeles Drummer from earlier years John Merritt RIP. They then soon released their fourth album, No Limits, which was their first release in eight years.[7]\n"
+   ]
 }

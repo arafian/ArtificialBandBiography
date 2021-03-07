@@ -1,7 +1,15 @@
 {
-   "Band name": {
+   "Name": "Union Carbide Productions",
+   "Sections": [
+      "Summary",
+      "History",
+      "Band name"
+   ],
+   "Summary": {
       "text": [
-         "The name Union Carbide Productions originates from the company name Union Carbide Corporation that was written on a battery that Björn Olsson had, and that was involved in the Bhopal disaster in 1984.\n"
+         "Union Carbide Productions was a Swedish rock band formed by Ebbot Lundberg (vocals), Patrik Caganis, Björn Olsson, Per Helm and Henrik Rylander in 1986.\n",
+         "Their music can be described as a fusion of psychedelic rock and raw Stooges-esque rock 'n' roll—and a bit angrier than The Soundtrack of Our Lives (the band that emerged from the ashes of Union Carbide Productions).\n",
+         "Though never really commercially successful, the band has received praise from artists like Kurt Cobain, R.E.M. and Sonic Youth. After the success of The Soundtrack of Our Lives, a compilation CD was released in 2004.\n"
       ]
    },
    "History": {
@@ -21,11 +29,15 @@
          "In 2003, they made a temporary reunion and returned to Hultsfredsfestivalen, sixteen years after their first appearance there. The band's entire back catalogue was re-mastered and re-released on vinyl in a limited edition of 500 each by Ebbot Lundberg in 2013.\n"
       ]
    },
-   "Summary": {
+   "Band name": {
       "text": [
-         "Union Carbide Productions was a Swedish rock band formed by Ebbot Lundberg (vocals), Patrik Caganis, Björn Olsson, Per Helm and Henrik Rylander in 1986.\n",
-         "Their music can be described as a fusion of psychedelic rock and raw Stooges-esque rock 'n' roll—and a bit angrier than The Soundtrack of Our Lives (the band that emerged from the ashes of Union Carbide Productions).\n",
-         "Though never really commercially successful, the band has received praise from artists like Kurt Cobain, R.E.M. and Sonic Youth. After the success of The Soundtrack of Our Lives, a compilation CD was released in 2004.\n"
+         "The name Union Carbide Productions originates from the company name Union Carbide Corporation that was written on a battery that Björn Olsson had, and that was involved in the Bhopal disaster in 1984.\n"
       ]
-   }
+   },
+   "coreData": [
+      "Union Carbide Productions was a Swedish rock band formed by Ebbot Lundberg (vocals), Patrik Caganis, Björn Olsson, Per Helm and Henrik Rylander in 1986.\n",
+      "Their music can be described as a fusion of psychedelic rock and raw Stooges-esque rock 'n' roll—and a bit angrier than The Soundtrack of Our Lives (the band that emerged from the ashes of Union Carbide Productions).\n",
+      "Though never really commercially successful, the band has received praise from artists like Kurt Cobain, R.E.M. and Sonic Youth. After the success of The Soundtrack of Our Lives, a compilation CD was released in 2004.\n",
+      "In 1981 Ebbot Lundberg met Patrik Caganis at a U.K. Subs gig. They shared a common musical taste in hardcore music, and the friendship that followed produced the forming of a punk band—\"Sure Tråkings Trio\".\n"
+   ]
 }

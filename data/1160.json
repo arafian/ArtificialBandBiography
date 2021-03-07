@@ -1,4 +1,18 @@
 {
+   "Name": "A Cursive Memory",
+   "Sections": [
+      "1 Biography",
+      "2 Discography",
+      "2.1 EPs",
+      "2.2 LPs",
+      "3 References",
+      "4 External links"
+   ],
+   "Summary": {
+      "text": [
+         "A Cursive Memory was an American rock band, from Southern California who released an EP and two albums in the period 2006 to 2012.\n"
+      ]
+   },
    "Biography": {
       "text": [
          "The band originally formed under the name 'Sincerely Me' in 2003 after band members met at a birthday party.[1] They started off playing covers of some of their favorite bands, such as blink-182 and Jimmy Eat World, but eventually grew to write their own original songs and adopted the name A Cursive Memory.[1]\n",
@@ -13,20 +27,12 @@
       "EPs": {},
       "LPs": {}
    },
-   "External links": {},
    "References": {},
-   "Sections": [
-      "1 Biography",
-      "2 Discography",
-      "2.1 EPs",
-      "2.2 LPs",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "A Cursive Memory was an American rock band, from Southern California who released an EP and two albums in the period 2006 to 2012.\n"
-      ]
-   },
-   "Title": "A Cursive Memory - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "A Cursive Memory was an American rock band, from Southern California who released an EP and two albums in the period 2006 to 2012.\n",
+      "The band originally formed under the name 'Sincerely Me' in 2003 after band members met at a birthday party.[1] They started off playing covers of some of their favorite bands, such as blink-182 and Jimmy Eat World, but eventually grew to write their own original songs and adopted the name A Cursive Memory.[1]\n",
+      "Over the course of the next few years, the band built up a small local fan base and self-released their first EP, A Cursive Memory. It featured the original version of The Piano Song. In 2005 the band self-released the Lights, Camera, Action EP. Although they did not tour outside of their local scene, as all of the members were still in high school, they were signed by Bunim/Murray Productions.[1] The song Club Revolution Remix was featured on an episode of The Real World.\n",
+      "The band spent 2006 and 2007 writing new material for their debut album, Changes. They were also featured in an episode of The Simple Life where a clip of their song \"Perfect Company\" was played.[1] In the spring of 2007, the band was featured on the season finale of The Simple Life where they played the song 'Perfect Company'. They also joined Hellogoodbye as support on some of their west coast tour dates.[2] Soon after, Bolen left the band to start his own band Enter the Paradox.[3] Upon graduation, the remaining three-piece signed with Santa Monica-based Vagrant Records.[4] In October 2007, they put out the Respeck! EP, which featured four new songs and a remix of Perfect Company.[5] Eventually, the band recruited Dillan Wheeler on drums, while the former drummer moved to rhythm guitar.[1]\n"
+   ]
 }

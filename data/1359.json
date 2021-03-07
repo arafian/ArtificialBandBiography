@@ -1,8 +1,20 @@
 {
-   "Discography": {
-      "Music videos": {}
+   "Name": "Stahlmann",
+   "Sections": [
+      "1 History",
+      "1.1 Formation debut album (2008-2010)",
+      "1.2 Lineup changes Quecksilber and Adamant (2011-2013)",
+      "2 Discography",
+      "2.1 Music videos",
+      "3 Reviews",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Stahlmann (literally \"Steelman\") is a Neue Deutsche Härte band that formed in 2008 in Göttingen, Germany\n"
+      ]
    },
-   "External links": {},
    "History": {
       "Formation debut album (2008-2010)": {
          "text": [
@@ -21,22 +33,16 @@
          ]
       }
    },
-   "References": {},
-   "Reviews": {},
-   "Sections": [
-      "1 History",
-      "1.1 Formation debut album (2008-2010)",
-      "1.2 Lineup changes Quecksilber and Adamant (2011-2013)",
-      "2 Discography",
-      "2.1 Music videos",
-      "3 Reviews",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Stahlmann (literally \"Steelman\") is a Neue Deutsche Härte band that formed in 2008 in Göttingen, Germany\n"
-      ]
+   "Discography": {
+      "Music videos": {}
    },
-   "Title": "Stahlmann - Wikipedia"
+   "Reviews": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Stahlmann (literally \"Steelman\") is a Neue Deutsche Härte band that formed in 2008 in Göttingen, Germany\n",
+      "Martin Soer met Alexander Scharfe in 2008 and formed the band Stahlmann later that year, writing their own songs. Soon after Tobi B joined and in 2009, the debut EP Herzschlag was released which entered the top 20 of the Deutsche Alternative Charts for four weeks.\nFollowing Herzschlag Stahlmann performed with well-known artists such as Doro, In Extremo and Saltatio Mortis.\n",
+      "Dirk \"Fire-Abend\" Feierabend and Oliver \"O-Lee\" Schmidt joined in 2009. Stahlmann went on a tour in 2010 presented by the music magazine Zillo. The single \"Hass Mich ...Lieb Mich\" and debut album Stahlmann were released in September 2010 on AFM Records. At the same time the band began a tour supporting for Eisbrecher in Germany, Austria and Switzerland.\n",
+      "For personal reasons Alex left the band, but he still occasionally performs with the group in concert. In late 2011, the group added a new bassist, Ablation (AblaZ). Also performing in live performances were guitarists Sid Armageddon (Sid Armageddon), Mueller Mathis (Mathis Müller), Nicklas Kaalam (Niklas Kahl), and Dimitrios Gatsios (Dimitrios Tacki Gatsios).\n"
+   ]
 }

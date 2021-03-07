@@ -1,13 +1,23 @@
 {
+   "Name": "Kush (band)",
+   "Sections": [
+      "Summary",
+      "History"
+   ],
+   "Summary": {
+      "text": [
+         "Kush was an American rap metal band formed in 2000 by rapper B-Real, Deftones guitarist Stephen Carpenter, and former Fear Factory members Raymond Herrera and Christian Olde Wolbers.\n"
+      ]
+   },
    "History": {
       "text": [
          "The project was first announced in 2000.[1] \"Dr. Kush\" was chosen as an alternate name in case the original band name was already in use.[2] In November 2000, it was reported that seven tracks had been completed.[3] In 2001, B-Real expressed an interest in releasing the band's debut album by the following year or in 2003.[4] Kush performed at the fifth annual Cypress Hill Smoke Out in 2002, opening with a song entitled \"Psycho Killer\", one of ten completed tracks that were prepared for an eventual album.[5][6] B-Real stated that the band's music is \"unlike any other rap-metal type stuff. It's a little bit more aggressive. And the way I attack it from a lyrical standpoint is totally different from what I do with Cypress. Cypress is more street-orientated. With Kush, it's a little bit of everything.\"[6] In April 2002, it was reported that Kush had completed its debut album, but that it would be difficult to release because all of the band members were signed to different labels.[7] In November 2002, it was reported that the album was not completed, but that it was getting close to completion.[6] To date, no material from the band has been released officially, but demos have been leaked on various file sharing sites.\n",
          "In 2014, during a Reddit AMA, B-Real indicated the project was stalled by \"record labels fighting\".[8]\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "Kush was an American rap metal band formed in 2000 by rapper B-Real, Deftones guitarist Stephen Carpenter, and former Fear Factory members Raymond Herrera and Christian Olde Wolbers.\n"
-      ]
-   }
+   "coreData": [
+      "Kush was an American rap metal band formed in 2000 by rapper B-Real, Deftones guitarist Stephen Carpenter, and former Fear Factory members Raymond Herrera and Christian Olde Wolbers.\n",
+      "The project was first announced in 2000.[1] \"Dr. Kush\" was chosen as an alternate name in case the original band name was already in use.[2] In November 2000, it was reported that seven tracks had been completed.[3] In 2001, B-Real expressed an interest in releasing the band's debut album by the following year or in 2003.[4] Kush performed at the fifth annual Cypress Hill Smoke Out in 2002, opening with a song entitled \"Psycho Killer\", one of ten completed tracks that were prepared for an eventual album.[5][6] B-Real stated that the band's music is \"unlike any other rap-metal type stuff. It's a little bit more aggressive. And the way I attack it from a lyrical standpoint is totally different from what I do with Cypress. Cypress is more street-orientated. With Kush, it's a little bit of everything.\"[6] In April 2002, it was reported that Kush had completed its debut album, but that it would be difficult to release because all of the band members were signed to different labels.[7] In November 2002, it was reported that the album was not completed, but that it was getting close to completion.[6] To date, no material from the band has been released officially, but demos have been leaked on various file sharing sites.\n",
+      "In 2014, during a Reddit AMA, B-Real indicated the project was stalled by \"record labels fighting\".[8]\n"
+   ]
 }

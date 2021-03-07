@@ -1,34 +1,5 @@
 {
-   "Discography": {
-      "Albums": {}
-   },
-   "External link": {},
-   "History": {
-      "text": [
-         "The band was originally formed as the Renegades in April 1983 in San Francisco; its members had met while attending San Francisco State University.[1] The original lineup featured Kevin Hunter (vocals, guitar), Kurt Herr (vocals, guitar), Anders Rundblad (bass guitar, vocals) and Federico Gil-Sola (drums). Rundblad had previously played with the Swedish bands Motvind and Gary T'To Band.[2]\n",
-         "In June 1983, Wire Train signed to the local 415 Records label, also home to acts like Translator, Red Rockers and Romeo Void, all of which found themselves with national distribution when 415 entered into a deal with Columbia Records.[3]\n",
-         "Wire Train's debut, In a Chamber, produced by David Kahne at The Automatt in San Francisco, was released late in 1983. It achieved success on the U.S. college charts during 1984, and the band toured as openers for Big Country.\n",
-         "Brian MacLeod replaced Gil-Sola prior to their second album, Between Two Words, and Herr left during its recording, replaced by Jeff Trott (ex-the Lifers). The album, produced in Vienna by Peter Maunu, was released in 1985. The band's third album, Ten Women, was released in 1987, and featured a guest appearance by the Alarm guitarist Dave Sharp on \"Breakwater Days\".[4]\n",
-         "After a 1987 European tour, the band went on a two-year hiatus, extricating themselves from their contract with Columbia. Trott played with World Party.[5] and McLeod with Toy Matinee.\n",
-         "Wire Train (1990) and No Soul No Strain (1992) were issued by MCA Records. The latter, produced by Bill Bottrell, was their fourth album to chart, peaking at No. 43 on the Billboard 200.[6]\n",
-         "In 1993, MCA rejected their next effort, Snug, as \"too weird\".[7] It was later released digitally in April 2009.\n",
-         "In 1996, Columbia released a compilation CD, Last Perfect Thing... A Retrospective. The first pressings mistakenly included an uncredited \"Half a Lifetime\", substituted on later pressings with the correct track, \"Last Perfect Thing\".[8]\n",
-         "In 2009, Hunter, MacLeod, Trott and Rundblad reunited for a three-gig tour in California, in part, to commemorate the digital release of Snug. Hunter claimed that the band had also recorded some new songs. No new album was planned at the time.[9]\n"
-      ]
-   },
-   "In popular culture": {
-      "text": [
-         "\"I Will Not Fall\" appeared on the soundtrack for the film Point Break (1991), \"I'll Do You\" appeared in the game Scarface: The World Is Yours (2006) and \"Chamber of Hellos\" appeared in the episode \"Limbo\" (2015) of Halt and Catch Fire.\n",
-         "The band the Action Design covered two Wire Train songs (\"I'll Do You\" and \"Chamber of Hellos\") for the soundtrack to Endless Bummer (2009).\n"
-      ]
-   },
-   "Other projects": {
-      "text": [
-         "McLeod, Trott and Rundblad all later played with Sheryl Crow.[10]\n",
-         "After leaving Wire Train, Gil-Sola returned to his native Argentina, where he was a member of Divididos from 1990–1995.\n"
-      ]
-   },
-   "References": {},
+   "Name": "Wire Train",
    "Sections": [
       "1 History",
       "2 Other projects",
@@ -43,5 +14,40 @@
          "Wire Train was a San Francisco-based alternative rock band, who released six albums in the 1980s and 1990s.\n"
       ]
    },
-   "Title": "Wire Train - Wikipedia"
+   "History": {
+      "text": [
+         "The band was originally formed as the Renegades in April 1983 in San Francisco; its members had met while attending San Francisco State University.[1] The original lineup featured Kevin Hunter (vocals, guitar), Kurt Herr (vocals, guitar), Anders Rundblad (bass guitar, vocals) and Federico Gil-Sola (drums). Rundblad had previously played with the Swedish bands Motvind and Gary T'To Band.[2]\n",
+         "In June 1983, Wire Train signed to the local 415 Records label, also home to acts like Translator, Red Rockers and Romeo Void, all of which found themselves with national distribution when 415 entered into a deal with Columbia Records.[3]\n",
+         "Wire Train's debut, In a Chamber, produced by David Kahne at The Automatt in San Francisco, was released late in 1983. It achieved success on the U.S. college charts during 1984, and the band toured as openers for Big Country.\n",
+         "Brian MacLeod replaced Gil-Sola prior to their second album, Between Two Words, and Herr left during its recording, replaced by Jeff Trott (ex-the Lifers). The album, produced in Vienna by Peter Maunu, was released in 1985. The band's third album, Ten Women, was released in 1987, and featured a guest appearance by the Alarm guitarist Dave Sharp on \"Breakwater Days\".[4]\n",
+         "After a 1987 European tour, the band went on a two-year hiatus, extricating themselves from their contract with Columbia. Trott played with World Party.[5] and McLeod with Toy Matinee.\n",
+         "Wire Train (1990) and No Soul No Strain (1992) were issued by MCA Records. The latter, produced by Bill Bottrell, was their fourth album to chart, peaking at No. 43 on the Billboard 200.[6]\n",
+         "In 1993, MCA rejected their next effort, Snug, as \"too weird\".[7] It was later released digitally in April 2009.\n",
+         "In 1996, Columbia released a compilation CD, Last Perfect Thing... A Retrospective. The first pressings mistakenly included an uncredited \"Half a Lifetime\", substituted on later pressings with the correct track, \"Last Perfect Thing\".[8]\n",
+         "In 2009, Hunter, MacLeod, Trott and Rundblad reunited for a three-gig tour in California, in part, to commemorate the digital release of Snug. Hunter claimed that the band had also recorded some new songs. No new album was planned at the time.[9]\n"
+      ]
+   },
+   "Other projects": {
+      "text": [
+         "McLeod, Trott and Rundblad all later played with Sheryl Crow.[10]\n",
+         "After leaving Wire Train, Gil-Sola returned to his native Argentina, where he was a member of Divididos from 1990–1995.\n"
+      ]
+   },
+   "In popular culture": {
+      "text": [
+         "\"I Will Not Fall\" appeared on the soundtrack for the film Point Break (1991), \"I'll Do You\" appeared in the game Scarface: The World Is Yours (2006) and \"Chamber of Hellos\" appeared in the episode \"Limbo\" (2015) of Halt and Catch Fire.\n",
+         "The band the Action Design covered two Wire Train songs (\"I'll Do You\" and \"Chamber of Hellos\") for the soundtrack to Endless Bummer (2009).\n"
+      ]
+   },
+   "External link": {},
+   "Discography": {
+      "Albums": {}
+   },
+   "References": {},
+   "coreData": [
+      "Wire Train was a San Francisco-based alternative rock band, who released six albums in the 1980s and 1990s.\n",
+      "The band was originally formed as the Renegades in April 1983 in San Francisco; its members had met while attending San Francisco State University.[1] The original lineup featured Kevin Hunter (vocals, guitar), Kurt Herr (vocals, guitar), Anders Rundblad (bass guitar, vocals) and Federico Gil-Sola (drums). Rundblad had previously played with the Swedish bands Motvind and Gary T'To Band.[2]\n",
+      "In June 1983, Wire Train signed to the local 415 Records label, also home to acts like Translator, Red Rockers and Romeo Void, all of which found themselves with national distribution when 415 entered into a deal with Columbia Records.[3]\n",
+      "Wire Train's debut, In a Chamber, produced by David Kahne at The Automatt in San Francisco, was released late in 1983. It achieved success on the U.S. college charts during 1984, and the band toured as openers for Big Country.\n"
+   ]
 }

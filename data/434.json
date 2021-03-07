@@ -1,25 +1,5 @@
 {
-   "American Idol": {
-      "text": [
-         "Mark Labriola, the group's lead singer, made an appearance on Fox's American Idol in 2010.  He was dismissed in the coveted \"Hollywood Week.\"\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {}
-   },
-   "External links": {},
-   "Farewell Tour – May 2008": {},
-   "History": {
-      "text": [
-         "The band took their name from 1 Corinthians 1:27–29 \"God chose the foolish things of the world to shame the wise\".[1]\n",
-         "The band won the coveted Music in the Rockies competition for unknown Christian artists in 2000.[1]\n",
-         "They had been putting out demo CDs and EPs for many years when they released a much anticipated full-length album titled Let's Not Forget the Story on July 18, 2006.[2]\n",
-         "After 10 years of working together, during their tour, they announced that they would be disbanding.\n",
-         "Upon releasing their second full-length album in early 2008, the band played their last show in Denver on May 15, 2008 at the Gothic Theatre.\n"
-      ]
-   },
-   "Members": {},
-   "References": {},
+   "Name": "Foolish Things",
    "Sections": [
       "1 History",
       "2 Farewell Tour – May 2008",
@@ -31,11 +11,37 @@
       "7 References",
       "8 External links"
    ],
-   "Singles": {},
    "Summary": {
       "text": [
          "Foolish Things is a rock/alternative rock/Christian rock band previously signed with Inpop Records.\n"
       ]
    },
-   "Title": "Foolish Things - Wikipedia"
+   "History": {
+      "text": [
+         "The band took their name from 1 Corinthians 1:27–29 \"God chose the foolish things of the world to shame the wise\".[1]\n",
+         "The band won the coveted Music in the Rockies competition for unknown Christian artists in 2000.[1]\n",
+         "They had been putting out demo CDs and EPs for many years when they released a much anticipated full-length album titled Let's Not Forget the Story on July 18, 2006.[2]\n",
+         "After 10 years of working together, during their tour, they announced that they would be disbanding.\n",
+         "Upon releasing their second full-length album in early 2008, the band played their last show in Denver on May 15, 2008 at the Gothic Theatre.\n"
+      ]
+   },
+   "Farewell Tour – May 2008": {},
+   "American Idol": {
+      "text": [
+         "Mark Labriola, the group's lead singer, made an appearance on Fox's American Idol in 2010.  He was dismissed in the coveted \"Hollywood Week.\"\n"
+      ]
+   },
+   "Members": {},
+   "Discography": {
+      "Albums": {}
+   },
+   "Singles": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Foolish Things is a rock/alternative rock/Christian rock band previously signed with Inpop Records.\n",
+      "The band took their name from 1 Corinthians 1:27–29 \"God chose the foolish things of the world to shame the wise\".[1]\n",
+      "The band won the coveted Music in the Rockies competition for unknown Christian artists in 2000.[1]\n",
+      "They had been putting out demo CDs and EPs for many years when they released a much anticipated full-length album titled Let's Not Forget the Story on July 18, 2006.[2]\n"
+   ]
 }

@@ -1,4 +1,25 @@
 {
+   "Name": "Love/Hate (band)",
+   "Sections": [
+      "1 1985–88 unsigned",
+      "2 1989–1991 Blackout in the Red Room",
+      "3 1991–1992 Wasted in America",
+      "3.1 Live concerts",
+      "3.2 Hollywood Sign stunt",
+      "4 1993–1999",
+      "5 2002–present",
+      "6 Members",
+      "6.1 Former members",
+      "7 Discography",
+      "7.1 Albums",
+      "7.2 Singles",
+      "8 References"
+   ],
+   "Summary": {
+      "text": [
+         "Love/Hate is a Los Angeles, California based hard rock band.\n"
+      ]
+   },
    "1985–88 unsigned": {
       "text": [
          "Love/Hate was formed in 1985, when Jizzy Pearl (real name Jim Wilkinson) joined Jon E. Love, Skid Rose, and Joey Gold, in a 1980s influenced electronica band called Dataclan, after their previous lead singer walked out while playing in Japan. They lived together in a Los Angeles warehouse called SoulHouse, and in the first year put out a four track EP and played a short and not very well received tour of Mexico. At this time the band had a very 'glam' look, wearing make up.\n",
@@ -15,15 +36,15 @@
       ]
    },
    "1991–1992 Wasted in America": {
+      "Live concerts": {
+         "text": [
+            "Love/Hate are known for their high energy performances. At their gigs in the early 1990s, the band's bass player Skid would often kick off the gig with a wild dance using a cross made out of Budweiser cans. They played the sort of venues where stage diving and crowd surfing made for a frenetic atmosphere.\n"
+         ]
+      },
       "Hollywood Sign stunt": {
          "text": [
             "On June 1, 1992 Jizzy performed his legendary publicity stunt to try to help album sales. This involved Jizzy, with the help of the band and a few others, successfully erecting a cross on the letter 'Y' of the Hollywood Sign and performing a mock crucifixion on it, with a camera crew in a helicopter to film it.[2] The band had assumed the authorities would quickly notice the stunt, but in the event Jizzy was stuck on the cross, 60 ft in the air, for several hours. Eventually a TV news helicopter spotted him and the police and fire dept were called to bring him down. He spent a few hours in jail and made headline news. However, Columbia were furious at the stunt and the publicity quickly faded with no noticeable impact on record sales. It did however, lead to the introduction of motion sensors on the sign.\n",
             "The band were offered a support slot with Black Sabbath, but the label refused to support them. They also cancelled a marketing campaign planned around the single \"Miss America\". The band were then formally dropped by Columbia. Immediately following this, guitarist Jon E. Love quit the band. Six months later a new guitarist, Darren Housholder, was hired, whose style was very different from Jon.\n"
-         ]
-      },
-      "Live concerts": {
-         "text": [
-            "Love/Hate are known for their high energy performances. At their gigs in the early 1990s, the band's bass player Skid would often kick off the gig with a wild dance using a cross made out of Budweiser cans. They played the sort of venues where stage diving and crowd surfing made for a frenetic atmosphere.\n"
          ]
       },
       "text": [
@@ -60,33 +81,18 @@
          "In April 2020, it was announced that Goldon Robot Records had signed Jizzy Pearl's Love/Hate with a new record due later the same year. As part of this announcement, the band is also expected to play the Black out in the Red Room (1990) album in its entirety to celebrate its 30 year anniversary.[13]\n"
       ]
    },
+   "Members": {
+      "Former members": {}
+   },
    "Discography": {
       "Albums": {},
       "Singles": {}
    },
-   "Members": {
-      "Former members": {}
-   },
    "References": {},
-   "Sections": [
-      "1 1985–88 unsigned",
-      "2 1989–1991 Blackout in the Red Room",
-      "3 1991–1992 Wasted in America",
-      "3.1 Live concerts",
-      "3.2 Hollywood Sign stunt",
-      "4 1993–1999",
-      "5 2002–present",
-      "6 Members",
-      "6.1 Former members",
-      "7 Discography",
-      "7.1 Albums",
-      "7.2 Singles",
-      "8 References"
-   ],
-   "Summary": {
-      "text": [
-         "Love/Hate is a Los Angeles, California based hard rock band.\n"
-      ]
-   },
-   "Title": "Love/Hate (band) - Wikipedia"
+   "coreData": [
+      "Love/Hate is a Los Angeles, California based hard rock band.\n",
+      "Love/Hate was formed in 1985, when Jizzy Pearl (real name Jim Wilkinson) joined Jon E. Love, Skid Rose, and Joey Gold, in a 1980s influenced electronica band called Dataclan, after their previous lead singer walked out while playing in Japan. They lived together in a Los Angeles warehouse called SoulHouse, and in the first year put out a four track EP and played a short and not very well received tour of Mexico. At this time the band had a very 'glam' look, wearing make up.\n",
+      "In 1986 the band renamed themselves as Love/Hate from a song they played at the time called Love and Hate. They also changed their look and style to a more gothic image, having been influenced by the release of the album Love by The Cult. For the next couple of years they tried various styles of music and were pitched to many record companies in an attempt to get signed.\n",
+      "1987, the band settled on the rock genre, and had some limited success, when one of their songs was used on the soundtrack for Critters 2 and an early version of \"She's an Angel\" featured in the movie A Nightmare on Elm Street 4: The Dream Master.[1] Around this time they briefly employed guitarist Tracy G, who would later play in Dio. After seeing a video of a drunken performance, lead singer Jizzy resolved to turn himself around.\n"
+   ]
 }

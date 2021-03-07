@@ -1,4 +1,8 @@
 {
+   "Name": "Liberty N' Justice",
+   "Sections": [
+      "Summary"
+   ],
    "Summary": {
       "text": [
          "Liberty N' Justice (LNJ) is a Christian hard rock band started in 1991 by Justin Murr and Patrick Marchand with band mates: Robert Earl Sliger; Angie Beckett; Kim; and James Beckett. In 2002, Murr continued with the Liberty N' Justice name, contacting several well-known artists to join him in creating the new album Welcome to the Revolution.   They have continued through the past two decades, collaborating with such special guest vocalists such as:  Lou Gramm of Foreigner, Chris Jericho of Fozzy, Phil Collen of Def Leppard, Sebastian Bach, Leif Garrett, Michael Sweet of Stryper, C J  Snare of Firehouse, Rubicon Cross, Jack Russell of Great White, Kip Winger of Winger, and various others.[citation needed]\n",
@@ -6,5 +10,11 @@
          "Christian Metal Central raved \"with an impressive lineup of musicians and vocalists the like never seen on a Christian rock compilation CD...(Liberty N' Justice) has earned a place in...history.\"\n",
          "In 2011, LNJ released \"Sin,\" the final song recorded by Jani Lane before he died.\n"
       ]
-   }
+   },
+   "coreData": [
+      "Liberty N' Justice (LNJ) is a Christian hard rock band started in 1991 by Justin Murr and Patrick Marchand with band mates: Robert Earl Sliger; Angie Beckett; Kim; and James Beckett. In 2002, Murr continued with the Liberty N' Justice name, contacting several well-known artists to join him in creating the new album Welcome to the Revolution.   They have continued through the past two decades, collaborating with such special guest vocalists such as:  Lou Gramm of Foreigner, Chris Jericho of Fozzy, Phil Collen of Def Leppard, Sebastian Bach, Leif Garrett, Michael Sweet of Stryper, C J  Snare of Firehouse, Rubicon Cross, Jack Russell of Great White, Kip Winger of Winger, and various others.[citation needed]\n",
+      "This roster inspired MelodicRock.com to praise LNJ for \"moments of greatness...(with) great melodies and lead vocal performances to bridge the gap between modern and traditional hard rock.\"[citation needed]\n",
+      "Christian Metal Central raved \"with an impressive lineup of musicians and vocalists the like never seen on a Christian rock compilation CD...(Liberty N' Justice) has earned a place in...history.\"\n",
+      "In 2011, LNJ released \"Sin,\" the final song recorded by Jani Lane before he died.\n"
+   ]
 }

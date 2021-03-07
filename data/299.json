@@ -1,6 +1,19 @@
 {
-   "Discography": {},
-   "External links": {},
+   "Name": "Archspire",
+   "Sections": [
+      "1 History",
+      "2 Members",
+      "2.1 Current members",
+      "2.2 Former members",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Archspire is a Canadian technical death metal band from Vancouver, British Columbia. They are currently signed to Season of Mist.[1] The group has released three studio albums.[2]\n"
+      ]
+   },
    "History": {
       "text": [
          "The band was formed in 2007 as Defenestrated, but changed their name to Archspire in 2009.[3]\n",
@@ -20,20 +33,13 @@
          ]
       }
    },
+   "Discography": {},
    "References": {},
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "2.1 Current members",
-      "2.2 Former members",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Archspire is a Canadian technical death metal band from Vancouver, British Columbia. They are currently signed to Season of Mist.[1] The group has released three studio albums.[2]\n"
-      ]
-   },
-   "Title": "Archspire - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "Archspire is a Canadian technical death metal band from Vancouver, British Columbia. They are currently signed to Season of Mist.[1] The group has released three studio albums.[2]\n",
+      "The band was formed in 2007 as Defenestrated, but changed their name to Archspire in 2009.[3]\n",
+      "In April 2011, Trendkill Recordings released All Shall Align, the band's first album. It was recorded between May and December 2010 working with producer Stuart McKillop at The Hive studios[4]\n",
+      "In early 2013, founding bassist Jaron Evil suffered an unexpected stroke at age 31.[5] He returned to the band for a brief period after recovering, but eventually parted ways.\n"
+   ]
 }

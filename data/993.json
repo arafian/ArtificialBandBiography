@@ -1,26 +1,5 @@
 {
-   "Band members": {
-      "Current members": {},
-      "Former members": {}
-   },
-   "Discography": {
-      "Live albums": {},
-      "Studio albums": {}
-   },
-   "External links": {},
-   "History": {
-      "text": [
-         "Lettuce began in the summer of 1992, when all of its members attended a music program at Berklee College of Music in Boston, MA as teenagers.[1] Brought together by the influence of various funk bands including Herbie Hancock, Earth, Wind and Fire, and Tower of Power, the band jammed throughout that summer before going their separate ways.\n",
-         "In the fall of 1994, the band reconvened as undergrads at Berklee and attempted to play at various Boston jazz clubs, walking in and asking the club owners and other musicians if they would \"let us play\", giving birth to the name Lettuce.[2] Matt Butler played keyboards with the band early on and then Jeff Bhasker took on the role. When he left, Neal Evans joined.[3]\n",
-         "Mainly from word of mouth, Lettuce began developing strong followings in New York City, San Francisco, Chicago, and Tokyo. They released their first CD, Outta Here in 2002, followed by their Live in Tokyo album recorded at the Blue Note in 2003.\n",
-         "In 2008, Lettuce released their second album, entitled Rage!. Drawing heavily from many of the leaders of the 1970s funk movement, Rage! features covers of Curtis Mayfield's \"Move on Up\" and Charles Wright & the Watts 103rd Street Rhythm Band's \"Express Yourself\".\n",
-         "In 2011, Lettuce played on the Royal Family Ball tour with their brother band, Soulive and accompanied on select shows by Rashawn Ross of the Dave Matthews Band. During this tour, they began playing new songs that would be featured on the band's next album Fly! in 2012.[2]\n",
-         "Many of Lettuce's members have had success in other areas of the music industry. Krasno and Evans are members of the jazz/organ trio Soulive. Zoidis is a former and founding member of the Rustic Overtones. Coomes is a session bass player and has toured with Britney Spears and The Game. Deitch is a producer who also plays with Break Science, and he has worked with of John Scofield and Wyclef Jean. Smirnoff has toured with Lady Gaga and Robert Randolph & the Family Band. In addition to playing with Lettuce, Ross has been a full-time member of Dave Matthews Band since 2010.\n",
-         "Lettuce played with the Soul Rebels Brass Band on Jam Cruise 2013. The band's album, Crush, was released in November 2015 and reached number one on U.S. Jazz Albums chart.[4]\n",
-         "In 2020,  Lettuce’s album ‘’Elevate’’ was nominated at Grammy’s for Instrumental Album of the Year.\n"
-      ]
-   },
-   "References": {},
+   "Name": "Lettuce (band)",
    "Sections": [
       "1 History",
       "2 Band members",
@@ -37,5 +16,32 @@
          "Lettuce is a funk band that originated in Boston, Massachusetts in 1992. Its members are guitarist Adam \"Shmeeans\" Smirnoff, Nigel Hall (keyboards, Hammond B-3 organ, piano, vocals), Adam Deitch (drums/percussion), Erick \"Jesus\" Coomes (bass), Ryan Zoidis (saxophone) and trumpeter Eric \"Benny\" Bloom.\n"
       ]
    },
-   "Title": "Lettuce (band) - Wikipedia"
+   "History": {
+      "text": [
+         "Lettuce began in the summer of 1992, when all of its members attended a music program at Berklee College of Music in Boston, MA as teenagers.[1] Brought together by the influence of various funk bands including Herbie Hancock, Earth, Wind and Fire, and Tower of Power, the band jammed throughout that summer before going their separate ways.\n",
+         "In the fall of 1994, the band reconvened as undergrads at Berklee and attempted to play at various Boston jazz clubs, walking in and asking the club owners and other musicians if they would \"let us play\", giving birth to the name Lettuce.[2] Matt Butler played keyboards with the band early on and then Jeff Bhasker took on the role. When he left, Neal Evans joined.[3]\n",
+         "Mainly from word of mouth, Lettuce began developing strong followings in New York City, San Francisco, Chicago, and Tokyo. They released their first CD, Outta Here in 2002, followed by their Live in Tokyo album recorded at the Blue Note in 2003.\n",
+         "In 2008, Lettuce released their second album, entitled Rage!. Drawing heavily from many of the leaders of the 1970s funk movement, Rage! features covers of Curtis Mayfield's \"Move on Up\" and Charles Wright & the Watts 103rd Street Rhythm Band's \"Express Yourself\".\n",
+         "In 2011, Lettuce played on the Royal Family Ball tour with their brother band, Soulive and accompanied on select shows by Rashawn Ross of the Dave Matthews Band. During this tour, they began playing new songs that would be featured on the band's next album Fly! in 2012.[2]\n",
+         "Many of Lettuce's members have had success in other areas of the music industry. Krasno and Evans are members of the jazz/organ trio Soulive. Zoidis is a former and founding member of the Rustic Overtones. Coomes is a session bass player and has toured with Britney Spears and The Game. Deitch is a producer who also plays with Break Science, and he has worked with of John Scofield and Wyclef Jean. Smirnoff has toured with Lady Gaga and Robert Randolph & the Family Band. In addition to playing with Lettuce, Ross has been a full-time member of Dave Matthews Band since 2010.\n",
+         "Lettuce played with the Soul Rebels Brass Band on Jam Cruise 2013. The band's album, Crush, was released in November 2015 and reached number one on U.S. Jazz Albums chart.[4]\n",
+         "In 2020,  Lettuce’s album ‘’Elevate’’ was nominated at Grammy’s for Instrumental Album of the Year.\n"
+      ]
+   },
+   "Band members": {
+      "Current members": {},
+      "Former members": {}
+   },
+   "Discography": {
+      "Studio albums": {},
+      "Live albums": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Lettuce is a funk band that originated in Boston, Massachusetts in 1992. Its members are guitarist Adam \"Shmeeans\" Smirnoff, Nigel Hall (keyboards, Hammond B-3 organ, piano, vocals), Adam Deitch (drums/percussion), Erick \"Jesus\" Coomes (bass), Ryan Zoidis (saxophone) and trumpeter Eric \"Benny\" Bloom.\n",
+      "Lettuce began in the summer of 1992, when all of its members attended a music program at Berklee College of Music in Boston, MA as teenagers.[1] Brought together by the influence of various funk bands including Herbie Hancock, Earth, Wind and Fire, and Tower of Power, the band jammed throughout that summer before going their separate ways.\n",
+      "In the fall of 1994, the band reconvened as undergrads at Berklee and attempted to play at various Boston jazz clubs, walking in and asking the club owners and other musicians if they would \"let us play\", giving birth to the name Lettuce.[2] Matt Butler played keyboards with the band early on and then Jeff Bhasker took on the role. When he left, Neal Evans joined.[3]\n",
+      "Mainly from word of mouth, Lettuce began developing strong followings in New York City, San Francisco, Chicago, and Tokyo. They released their first CD, Outta Here in 2002, followed by their Live in Tokyo album recorded at the Blue Note in 2003.\n"
+   ]
 }

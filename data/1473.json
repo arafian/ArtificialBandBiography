@@ -1,7 +1,14 @@
 {
+   "Name": "Manchester Pipe Band",
+   "Sections": [
+      "Summary"
+   ],
    "Summary": {
       "text": [
          "The Manchester Pipe Band is a grade two pipe band from Manchester, Connecticut. It was founded in 1914 and is the second oldest pipe band in continuous existence in the United States, after the Holyoke Caledonian Pipe Band which inspired its founding.[1][2] Currently, the band competes in grade 3 of the Eastern United States Pipe Band Association. The band has previously been in Grade 2, in which it took second place in 2007 and first place in 2009.[3]\n"
       ]
-   }
+   },
+   "coreData": [
+      "The Manchester Pipe Band is a grade two pipe band from Manchester, Connecticut. It was founded in 1914 and is the second oldest pipe band in continuous existence in the United States, after the Holyoke Caledonian Pipe Band which inspired its founding.[1][2] Currently, the band competes in grade 3 of the Eastern United States Pipe Band Association. The band has previously been in Grade 2, in which it took second place in 2007 and first place in 2009.[3]\n"
+   ]
 }

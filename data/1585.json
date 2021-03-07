@@ -1,4 +1,14 @@
 {
+   "Name": "Family (Spanish band)",
+   "Sections": [
+      "Summary",
+      "Family – Un Soplo en el Corazón (track list)"
+   ],
+   "Summary": {
+      "text": [
+         "Family was a cult band from Spain in the 1990s. Although initially unsuccessful, Family gradually acquired a fanbase and is now highly recognised in the Spanish underground pop scene. Their only album, Un Soplo en el Corazón has been praised for its poetic lyrics, inspired music and elegant artwork.[1][2] A tribute CD was published by the magazine Rockdelux in 2003 which featured acts including Fangoria, La Casa Azul and Los Planetas.[3][4][5][6][7][8]\n"
+      ]
+   },
    "Family – Un Soplo en el Corazón (track list)": {
       "text": [
          "1. La Noche Inventada (2:24)\n",
@@ -18,9 +28,10 @@
          "\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "Family was a cult band from Spain in the 1990s. Although initially unsuccessful, Family gradually acquired a fanbase and is now highly recognised in the Spanish underground pop scene. Their only album, Un Soplo en el Corazón has been praised for its poetic lyrics, inspired music and elegant artwork.[1][2] A tribute CD was published by the magazine Rockdelux in 2003 which featured acts including Fangoria, La Casa Azul and Los Planetas.[3][4][5][6][7][8]\n"
-      ]
-   }
+   "coreData": [
+      "Family was a cult band from Spain in the 1990s. Although initially unsuccessful, Family gradually acquired a fanbase and is now highly recognised in the Spanish underground pop scene. Their only album, Un Soplo en el Corazón has been praised for its poetic lyrics, inspired music and elegant artwork.[1][2] A tribute CD was published by the magazine Rockdelux in 2003 which featured acts including Fangoria, La Casa Azul and Los Planetas.[3][4][5][6][7][8]\n",
+      "1. La Noche Inventada (2:24)\n",
+      "2. Nadadora (2:57)\n",
+      "3. Como un Aviador (3:19)\n"
+   ]
 }

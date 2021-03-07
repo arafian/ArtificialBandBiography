@@ -1,16 +1,5 @@
 {
-   "Discography": {},
-   "Musicians": {
-      "Rhythm": {},
-      "Sax/Woodwinds": {},
-      "Trombones & Tuba": {},
-      "Trumpets": {},
-      "Vocals": {},
-      "text": [
-         "For Aardvark's 2018 Christmas concert, the musicians performing were:[2]\n"
-      ]
-   },
-   "References": {},
+   "Name": "Aardvark Jazz Orchestra",
    "Sections": [
       "1 Musicians",
       "1.1 Sax/Woodwinds",
@@ -22,11 +11,26 @@
       "3 See also",
       "4 References"
    ],
-   "See also": {},
    "Summary": {
       "text": [
          "Aardvark Jazz Orchestra is an eclectic big band founded in 1973 by bandleader and trumpeter Mark Harvey. The orchestra plays music from across the jazz tradition with specialties in Ellingtonia and the original postmodern compositions of music director Mark Harvey. The group has won various awards, including one for Jazz Song at The 1st Annual Independent Music Awards (\"Scamology\"), and has released at least eight albums since 1993.[1]\n"
       ]
    },
-   "Title": "Aardvark Jazz Orchestra - Wikipedia"
+   "Musicians": {
+      "Sax/Woodwinds": {},
+      "Trumpets": {},
+      "Trombones & Tuba": {},
+      "Rhythm": {},
+      "Vocals": {},
+      "text": [
+         "For Aardvark's 2018 Christmas concert, the musicians performing were:[2]\n"
+      ]
+   },
+   "Discography": {},
+   "See also": {},
+   "References": {},
+   "coreData": [
+      "Aardvark Jazz Orchestra is an eclectic big band founded in 1973 by bandleader and trumpeter Mark Harvey. The orchestra plays music from across the jazz tradition with specialties in Ellingtonia and the original postmodern compositions of music director Mark Harvey. The group has won various awards, including one for Jazz Song at The 1st Annual Independent Music Awards (\"Scamology\"), and has released at least eight albums since 1993.[1]\n",
+      "For Aardvark's 2018 Christmas concert, the musicians performing were:[2]\n"
+   ]
 }

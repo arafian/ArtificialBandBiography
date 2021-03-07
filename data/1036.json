@@ -1,9 +1,9 @@
 {
-   "Formation": {
-      "text": [
-         "Schools and Joseph met and discovered their compatibility as songwriters. While Widespread Panic took a break, Schools and Joseph toured Europe because Schools wanted to be productive. The two continued to write songs together.[2]\n"
-      ]
-   },
+   "Name": "Stockholm Syndrome (band)",
+   "Sections": [
+      "Summary",
+      "Formation"
+   ],
    "Summary": {
       "text": [
          "Stockholm Syndrome is an American rock music band formed in Athens, Georgia, as a collaboration between Dave Schools of Widespread Panic and Jerry Joseph of Jerry Joseph and the Jackmormons.  The two enlisted Los Angeles drummer Wally Ingram (Jackson Browne and Sheryl Crow), San Francisco guitarist Eric McFadden (who had previously worked with Keb' Mo', Primus, Les Claypool,  and the P Funk All Stars), and German keyboardist Danny Dziuk. Dziuk however, has since been replaced on tour by Gov't Mule keyboardist Danny Louis.\n",
@@ -11,5 +11,16 @@
          "As the band allows audience members to tape their shows, many of their concert recordings can be found at the Internet Archive.[1]\n",
          "The band's second album, Apollo, was released on February 15, 2011. Schools and Joseph wrote the songs after sitting on a porch looking at redwood trees in California. The band recorded in \" a converted chicken coop\" to achieve \"a low-fi garage [sound]\".[2] From the recording sessions, they produced a two-track vinyl record to sell at concerts.[2]\n"
       ]
-   }
+   },
+   "Formation": {
+      "text": [
+         "Schools and Joseph met and discovered their compatibility as songwriters. While Widespread Panic took a break, Schools and Joseph toured Europe because Schools wanted to be productive. The two continued to write songs together.[2]\n"
+      ]
+   },
+   "coreData": [
+      "Stockholm Syndrome is an American rock music band formed in Athens, Georgia, as a collaboration between Dave Schools of Widespread Panic and Jerry Joseph of Jerry Joseph and the Jackmormons.  The two enlisted Los Angeles drummer Wally Ingram (Jackson Browne and Sheryl Crow), San Francisco guitarist Eric McFadden (who had previously worked with Keb' Mo', Primus, Les Claypool,  and the P Funk All Stars), and German keyboardist Danny Dziuk. Dziuk however, has since been replaced on tour by Gov't Mule keyboardist Danny Louis.\n",
+      "Originally intended as a one-time studio side-project for the musicians, the band released an album in 2004, Holy Happy Hour, and then went on a nationwide tour in support of the album. The band has toured intermittently since then and on February 16, 2010 they released a live EP, \"Stockholm Syndrome Live at Streetlight Records,\" which was recorded during an in-store performance at Streetlight Records in Santa Cruz in September 2009. The band has said that they have gotten another full-length album ready for release.\n",
+      "As the band allows audience members to tape their shows, many of their concert recordings can be found at the Internet Archive.[1]\n",
+      "The band's second album, Apollo, was released on February 15, 2011. Schools and Joseph wrote the songs after sitting on a porch looking at redwood trees in California. The band recorded in \" a converted chicken coop\" to achieve \"a low-fi garage [sound]\".[2] From the recording sessions, they produced a two-track vinyl record to sell at concerts.[2]\n"
+   ]
 }

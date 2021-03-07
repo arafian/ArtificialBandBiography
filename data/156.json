@@ -1,4 +1,17 @@
 {
+   "Name": "The Loading Zone",
+   "Sections": [
+      "1 Career",
+      "2 Discography",
+      "2.1 Albums",
+      "3 References",
+      "4 External links"
+   ],
+   "Summary": {
+      "text": [
+         "\nThe Loading Zone[1] was an American rock band of the late 1960s and early 1970s.  They issued two albums worth of material, with differing band lineups, before disbanding in 1971.\n"
+      ]
+   },
    "Career": {
       "text": [
          "They were formed in Berkeley, California in 1966 by singer-keyboardist Paul Fauerso, following the dissolution of his jazz group The Tom Paul Trio. The original lineup was Fauerso, bassist Bob Kridle, drummer Ted Kozlowski (replaced by George Newcom), and guitarists Peter Shapiro and Steve Dowler,[2] both formerly of Berkeley psychedelic rock band The Marbles, who had supported Jefferson Airplane at the historic \"Tribute to Dr. Strange\", the inaugural Family Dog promotion concert held at San Francisco's Longshoreman's Hall in October 1965.\n",
@@ -14,19 +27,12 @@
    "Discography": {
       "Albums": {}
    },
-   "External links": {},
    "References": {},
-   "Sections": [
-      "1 Career",
-      "2 Discography",
-      "2.1 Albums",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "\nThe Loading Zone[1] was an American rock band of the late 1960s and early 1970s.  They issued two albums worth of material, with differing band lineups, before disbanding in 1971.\n"
-      ]
-   },
-   "Title": "The Loading Zone - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "\nThe Loading Zone[1] was an American rock band of the late 1960s and early 1970s.  They issued two albums worth of material, with differing band lineups, before disbanding in 1971.\n",
+      "They were formed in Berkeley, California in 1966 by singer-keyboardist Paul Fauerso, following the dissolution of his jazz group The Tom Paul Trio. The original lineup was Fauerso, bassist Bob Kridle, drummer Ted Kozlowski (replaced by George Newcom), and guitarists Peter Shapiro and Steve Dowler,[2] both formerly of Berkeley psychedelic rock band The Marbles, who had supported Jefferson Airplane at the historic \"Tribute to Dr. Strange\", the inaugural Family Dog promotion concert held at San Francisco's Longshoreman's Hall in October 1965.\n",
+      "The Loading Zone's first major concert was the Trips Festival at the Longshoreman's Hall in January 1966.[3] Although primarily an R&B band, The Loading Zone added contemporary psychedelic influences and soon became a popular attraction on the burgeoning Bay Area music scene. The Loading Zone was based at the Berkeley venue The New Orleans House, but performed numerous times at major venues including the Fillmore West.\n",
+      "Although The Loading Zone occasionally headlined, the group is better known for supporting some of the biggest acts of the period including Cream, The Who, The Byrds, Big Brother & the Holding Company, Grateful Dead, Howlin' Wolf, Sam & Dave, Chuck Berry and Buddy Miles.[4][3]\n"
+   ]
 }

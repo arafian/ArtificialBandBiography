@@ -1,13 +1,26 @@
 {
+   "Name": "Slick Shoes",
+   "Sections": [
+      "1 2004-2008",
+      "2 Post-2017",
+      "3 Style and influences",
+      "4 Discography",
+      "5 References",
+      "6 External links",
+      "6.1 Archived links"
+   ],
+   "Summary": {
+      "text": [
+         "Slick Shoes is an American punk rock band from Antelope Valley, California, United States. Their name comes from the hit 1985 movie, The Goonies, 'slick shoes' being one of the character Data's many gadgets. The band formed in 1994 and made their first release as a self-titled EP in 1997. They released six full-length CDs, four of them on Seattle-based Tooth & Nail Records. They also released an EP, a split with Autopilot Off and a greatest hits CD entitled The Biggest & The Best, featuring three previously unreleased songs.\n",
+         "The band had gone through numerous line-up changes over the years, but singer Ryan Kepke and Joe Nixon (drums) performed on every release, while Jeremiah Brown (bass) played on all except their final album, Far From Nowhere. This was their first release without Tooth and Nail Records. Far From Nowhere was released on SideOneDummy Records in the summer of 2003.\n",
+         "The band was particularly successful in the Christian punk scene in the late 1990s and early 2000s and toured alongside their peers, both secular and Christian (most notably bands such as Face to Face and MxPx, respectively). They also played certain legs of the Vans Warped Tour in 2003.\n"
+      ]
+   },
    "2004-2008": {
       "text": [
          "Since touring in 2003 and early 2004 in support of Far From Nowhere, Slick Shoes was very inactive (even their website was taken down), and on October 7, 2006 the band issued a statement through their MySpace page saying that they had begun a side project called Sigmund, and that Slick Shoes was on an \"indefinite hiatus\".  Then, 15 months later on January 3, 2008, the band announced through MySpace that they had reunited:[2]\n",
          "\"Hey Everyone,\nGood news. Slick Shoes is back together with original members Ryan Kepke, Jackson Mould, Joe Nixon, and Jeremiah Brown. We also added guitarist Jordan Mould . Although we will not be touring extensively we will be playing shows and hope to record a new record in the near future. Don't forget to tell your friends.\"[citation needed]\n"
       ]
-   },
-   "Discography": {},
-   "External links": {
-      "Archived links": {}
    },
    "Post-2017": {
       "text": [
@@ -19,27 +32,20 @@
          "October 24, 2019, Slick Shoes Announced they were rejoining Tooth and Nail Records with \"Broadcasting Live\" and a new album, \"Rotation & Frequency\", released in September 2020.\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 2004-2008",
-      "2 Post-2017",
-      "3 Style and influences",
-      "4 Discography",
-      "5 References",
-      "6 External links",
-      "6.1 Archived links"
-   ],
    "Style and influences": {
       "text": [
          "Slick Shoes has been described as punk rock,[3][4][5] pop punk,[3][4][6][7] and skate punk.[3][4] Slick Shoes has been compared to MxPx,[4] Blink-182[3] and Green Day.[8] The band's influences include Germs, Descendents, Lagwagon, Angelic Upstarts and Circle Jerks.[9][10]\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "Slick Shoes is an American punk rock band from Antelope Valley, California, United States. Their name comes from the hit 1985 movie, The Goonies, 'slick shoes' being one of the character Data's many gadgets. The band formed in 1994 and made their first release as a self-titled EP in 1997. They released six full-length CDs, four of them on Seattle-based Tooth & Nail Records. They also released an EP, a split with Autopilot Off and a greatest hits CD entitled The Biggest & The Best, featuring three previously unreleased songs.\n",
-         "The band had gone through numerous line-up changes over the years, but singer Ryan Kepke and Joe Nixon (drums) performed on every release, while Jeremiah Brown (bass) played on all except their final album, Far From Nowhere. This was their first release without Tooth and Nail Records. Far From Nowhere was released on SideOneDummy Records in the summer of 2003.\n",
-         "The band was particularly successful in the Christian punk scene in the late 1990s and early 2000s and toured alongside their peers, both secular and Christian (most notably bands such as Face to Face and MxPx, respectively). They also played certain legs of the Vans Warped Tour in 2003.\n"
-      ]
+   "Discography": {},
+   "References": {},
+   "External links": {
+      "Archived links": {}
    },
-   "Title": "Slick Shoes - Wikipedia"
+   "coreData": [
+      "Slick Shoes is an American punk rock band from Antelope Valley, California, United States. Their name comes from the hit 1985 movie, The Goonies, 'slick shoes' being one of the character Data's many gadgets. The band formed in 1994 and made their first release as a self-titled EP in 1997. They released six full-length CDs, four of them on Seattle-based Tooth & Nail Records. They also released an EP, a split with Autopilot Off and a greatest hits CD entitled The Biggest & The Best, featuring three previously unreleased songs.\n",
+      "The band had gone through numerous line-up changes over the years, but singer Ryan Kepke and Joe Nixon (drums) performed on every release, while Jeremiah Brown (bass) played on all except their final album, Far From Nowhere. This was their first release without Tooth and Nail Records. Far From Nowhere was released on SideOneDummy Records in the summer of 2003.\n",
+      "The band was particularly successful in the Christian punk scene in the late 1990s and early 2000s and toured alongside their peers, both secular and Christian (most notably bands such as Face to Face and MxPx, respectively). They also played certain legs of the Vans Warped Tour in 2003.\n",
+      "Since touring in 2003 and early 2004 in support of Far From Nowhere, Slick Shoes was very inactive (even their website was taken down), and on October 7, 2006 the band issued a statement through their MySpace page saying that they had begun a side project called Sigmund, and that Slick Shoes was on an \"indefinite hiatus\".  Then, 15 months later on January 3, 2008, the band announced through MySpace that they had reunited:[2]\n"
+   ]
 }

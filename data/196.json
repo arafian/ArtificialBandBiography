@@ -1,13 +1,19 @@
 {
-   "Discography": {
-      "Album": {
-         "text": [
-            "\n"
-         ]
-      },
-      "Singles": {}
+   "Name": "Syndicate of Sound",
+   "Sections": [
+      "1 History",
+      "2 Little Girl",
+      "3 Discography",
+      "3.1 Singles",
+      "3.2 Album",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "The Syndicate of Sound was an American garage rock band formed in San Jose, California that was first active between 1964 and 1970. Through their national hit \"Little Girl\", the band developed a raw sound, and became forerunners in the psychedelic rock genre. The group managed to produce two other charting singles and, after their initial breakup in 1970, have since reformed with a new lineup.[1]\n"
+      ]
    },
-   "External links": {},
    "History": {
       "text": [
          "The line-up formed in 1964, when Don Baskin (October 9, 1946–October 22, 2019; vocalist, guitar) and Bob Gonzalez (bass guitar), both originally from the outfit Lenny Lee and the Nightmen, united with a local group called the Pharaohs. The resulting band, the Syndicate of Sound, which, along with Baskin and Gonzalez, included John Sharkey (keyboards), Larry Ray (lead guitar), and John Duckworth (drums). Several other stand-ins performed with the band, most notably Dr. Kelly E. Hejtmancik Sr. (bass guitar) of Galveston TX during the band's Galveston filming of \"Little Girl\".\nIn the beginning stages of the band's existence, the group was influenced by R&B music, specifically the early musical styles of The Rolling Stones and The Beatles. After the group won a Bay Area \"Battle of the Bands\" against 100 other competing bands, the Syndicate of Sound earned a recording contract with Del-Fi Records. The band released a single, \"Prepare For Love\", which received local airplay, but ultimately failed to make an impact.[2][3] Though the record was unsuccessful, it established the band's sound, combining striking vocal harmonies and innovative psychedelic instrumentals.[1]\n",
@@ -24,20 +30,20 @@
          "The song \"Little Girl\" was also recognized by the Rock and Roll Hall of Fame Museum in Cleveland, Ohio since the day it was opened, where it is on permanent rotation in the One-hit Wonder section.\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Little Girl",
-      "3 Discography",
-      "3.1 Singles",
-      "3.2 Album",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Syndicate of Sound was an American garage rock band formed in San Jose, California that was first active between 1964 and 1970. Through their national hit \"Little Girl\", the band developed a raw sound, and became forerunners in the psychedelic rock genre. The group managed to produce two other charting singles and, after their initial breakup in 1970, have since reformed with a new lineup.[1]\n"
-      ]
+   "Discography": {
+      "Singles": {},
+      "Album": {
+         "text": [
+            "\n"
+         ]
+      }
    },
-   "Title": "Syndicate of Sound - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Syndicate of Sound was an American garage rock band formed in San Jose, California that was first active between 1964 and 1970. Through their national hit \"Little Girl\", the band developed a raw sound, and became forerunners in the psychedelic rock genre. The group managed to produce two other charting singles and, after their initial breakup in 1970, have since reformed with a new lineup.[1]\n",
+      "The line-up formed in 1964, when Don Baskin (October 9, 1946–October 22, 2019; vocalist, guitar) and Bob Gonzalez (bass guitar), both originally from the outfit Lenny Lee and the Nightmen, united with a local group called the Pharaohs. The resulting band, the Syndicate of Sound, which, along with Baskin and Gonzalez, included John Sharkey (keyboards), Larry Ray (lead guitar), and John Duckworth (drums). Several other stand-ins performed with the band, most notably Dr. Kelly E. Hejtmancik Sr. (bass guitar) of Galveston TX during the band's Galveston filming of \"Little Girl\".\nIn the beginning stages of the band's existence, the group was influenced by R&B music, specifically the early musical styles of The Rolling Stones and The Beatles. After the group won a Bay Area \"Battle of the Bands\" against 100 other competing bands, the Syndicate of Sound earned a recording contract with Del-Fi Records. The band released a single, \"Prepare For Love\", which received local airplay, but ultimately failed to make an impact.[2][3] Though the record was unsuccessful, it established the band's sound, combining striking vocal harmonies and innovative psychedelic instrumentals.[1]\n",
+      "Baskin, Gonzalez and Sharkey continued to write new material and came up with \"Little Girl\" and \"You\" which the band recorded for Hush Records in San Francisco, on January 9, 1966. \"Little Girl\" became a regional hit after San Jose radio station KLIV latched onto it. From there it attracted the attention of Bill Gavin's tip sheet and then executives at Bell Records in New York. Bell released it nationally and offered the group a contract for an album.  Replacing Larry Ray with lead guitarist Jim Sawyers, they wrote and recorded the LP in three weeks. They then began a national tour appearing with other hit acts such as: Paul Revere & the Raiders, the Young Rascals, and the Yardbirds. \"Little Girl\" peaked at #8 on the Billboard Hot 100 on 9–16 July 1966 and #5 on Cashbox. The follow-up \"Rumors\" also hit the Hot 100 and peaked at #55 on 1 October 1966.[4]\n",
+      "In an attempt to sustain their success, the band released two more singles, \"Keep It Up\" and \"Mary\", but none of them charted.  By this time John Duckworth had been drafted into the U.S. Army for the Vietnam war and was replaced by Carl Scott on drums, and John Sharkey had left the group soon after \"Mary\" was released. Another single, \"Brown Paper Bag\" reached #73 on the Hot 100, on 25 April 1970.[4] Afterward Baskin and Gonzalez made a failed attempt to record another album for Capitol Records in 1970. They disbanded shortly after.[5]\n"
+   ]
 }

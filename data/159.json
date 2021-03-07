@@ -1,9 +1,20 @@
 {
-   "Discography": {
-      "Albums": {},
-      "Singles": {}
+   "Name": "Maldroid",
+   "Sections": [
+      "1 History",
+      "1.1 \"He Said, She Said\" video",
+      "1.2 Post rise",
+      "2 Discography",
+      "2.1 Albums",
+      "2.2 Singles",
+      "3 References",
+      "4 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Maldroid was an electropop band based in Oakland, California. They gained fame for winning YouTube's first music contest, \"The Youtube Underground\", for their music video  \"He Said, She Said\".\n"
+      ]
    },
-   "External links": {},
    "History": {
       "\"He Said, She Said\" video": {
          "text": [
@@ -30,21 +41,16 @@
          "We're so technology-based that I feel like we've become robots, doing the same thing day in and day out. We're the bad droid, the black sheep, and we're going to break out of that conformity.[3]"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 \"He Said, She Said\" video",
-      "1.2 Post rise",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 Singles",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Maldroid was an electropop band based in Oakland, California. They gained fame for winning YouTube's first music contest, \"The Youtube Underground\", for their music video  \"He Said, She Said\".\n"
-      ]
+   "Discography": {
+      "Albums": {},
+      "Singles": {}
    },
-   "Title": "Maldroid - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Maldroid was an electropop band based in Oakland, California. They gained fame for winning YouTube's first music contest, \"The Youtube Underground\", for their music video  \"He Said, She Said\".\n",
+      "Maldroid was founded in 2006 by lead singer Ryan Hayford, who used the stage name Ryan Divine.[1] Born and raised in Santa Cruz, Divine founded Maldroid in March 2006, picking musicians he had worked with from defunct Bay Area bands Solemite, Soundboy, and The K.G.B.[1][2] The band made its first EP Malfunction later that year produced by guitarist Johnny Genius. Divine and Genius had both worked as music producers for other Bay Area bands.[2]\n",
+      "Divine said the name \"Maldroid\" comes from the term for a \"malfunctioning robot\":\n",
+      "We're so technology-based that I feel like we've become robots, doing the same thing day in and day out. We're the bad droid, the black sheep, and we're going to break out of that conformity.[3]"
+   ]
 }

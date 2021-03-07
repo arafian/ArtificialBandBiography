@@ -1,13 +1,22 @@
 {
-   "Discography": {
-      "Compilation albums": {},
-      "Compilation appearances": {},
-      "Live albums": {},
-      "Singles and EPs": {},
-      "Studio albums": {},
-      "as Jazz": {}
+   "Name": "The Names (band)",
+   "Sections": [
+      "1 History",
+      "2 Discography",
+      "2.1 Studio albums",
+      "2.2 Live albums",
+      "2.3 Compilation albums",
+      "2.4 Singles and EPs",
+      "2.5 Compilation appearances",
+      "2.6 as Jazz",
+      "3 References",
+      "4 External links"
+   ],
+   "Summary": {
+      "text": [
+         "The Names are a Belgian post-punk band from Brussels, Belgium, formed in 1978 around bassist, vocalist and songwriter Michel Sordinia.\n"
+      ]
    },
-   "External links": {},
    "History": {
       "text": [
          "The early lineup of the band featured Sordinia, guitarist Marc Deprez and drummer/keyboard player Christophe Den Tandt; Robert Frankson and singer Isabelle Hanrez were briefly also members.[1][2] After local gigs as The Passengers, they changed their name in time for their debut single, \"Spectators of Life\", released by WEA in 1979 to test the market for homegrown new wave music.\n",
@@ -26,23 +35,20 @@
          "Another compilation, In Mutation, was issued in 2016 by Les Disques du Crépuscule, including a 1981 solo cassette single by Deprez and a 1982 live set.[10]\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Live albums",
-      "2.3 Compilation albums",
-      "2.4 Singles and EPs",
-      "2.5 Compilation appearances",
-      "2.6 as Jazz",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Names are a Belgian post-punk band from Brussels, Belgium, formed in 1978 around bassist, vocalist and songwriter Michel Sordinia.\n"
-      ]
+   "Discography": {
+      "Studio albums": {},
+      "Live albums": {},
+      "Compilation albums": {},
+      "Singles and EPs": {},
+      "Compilation appearances": {},
+      "as Jazz": {}
    },
-   "Title": "The Names (band) - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Names are a Belgian post-punk band from Brussels, Belgium, formed in 1978 around bassist, vocalist and songwriter Michel Sordinia.\n",
+      "The early lineup of the band featured Sordinia, guitarist Marc Deprez and drummer/keyboard player Christophe Den Tandt; Robert Frankson and singer Isabelle Hanrez were briefly also members.[1][2] After local gigs as The Passengers, they changed their name in time for their debut single, \"Spectators of Life\", released by WEA in 1979 to test the market for homegrown new wave music.\n",
+      "The band were keen to sign to a British label, and connected with Factory Records at a Joy Division gig at the Plan K venue in Brussels.[2] The Names, augmented by new drummer Luc Capelle, recorded \"Nightshift\" in Manchester in August 1980 with producer Martin Hannett.[1] The single was representative of their overall sound: dark, controlled modern rock in the mould of Magazine, Comsat Angels and Joy Division/early New Order. It peaked at No. 35 on the UK Indie Chart.[3] In February 1982, the band recorded a session for John Peel's BBC Radio 1 show,[4] later released in 2009 as the Radio Session 1982 digital EP.\n",
+      "The Names enjoyed a long and rewarding relationship with mercurial producer Hannett, who also oversaw their next single, \"Calcutta\" (Factory Benelux, 1981) and debut album Swimming (Les Disques du Crepuscule, 1982).[2]\n"
+   ]
 }

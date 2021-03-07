@@ -1,12 +1,23 @@
 {
-   "Discography": {
-      "EPs": {
-         "text": [
-            "Singles\n"
-         ]
-      },
-      "Music videos": {},
-      "Studio albums": {}
+   "Name": "Butcher Babies",
+   "Sections": [
+      "1 History",
+      "1.1 First release and rise (2011–2012)",
+      "1.2 Goliath and Take It Like a Man (2013–2017)",
+      "1.3 Lilith (2017)",
+      "1.4 Upcoming fourth studio album (2019–present)",
+      "2 Musical style and influences",
+      "3 Members",
+      "4 Discography",
+      "4.1 Studio albums",
+      "4.2 EPs",
+      "4.3 Music videos",
+      "5 References"
+   ],
+   "Summary": {
+      "text": [
+         "Butcher Babies is an American heavy metal band from Los Angeles, California, consisting of frontwomen Heidi Shepherd and Carla Harvey, guitarist Henry Flury (Amen), bassist Ricky Bonazza, and drummer Chase Brickenden. Their debut album, Goliath, was released on July 9, 2013 via Century Media Records. It sold 3,300 copies in the US during its first week of release and charted at No. 3 on the Billboard Heatseeker chart and No. 112 on the Billboard 200.[1][2]\n"
+      ]
    },
    "History": {
       "First release and rise (2011–2012)": {
@@ -39,12 +50,6 @@
          ]
       }
    },
-   "Members": {
-      "text": [
-         "Current members\n",
-         "Former members\n"
-      ]
-   },
    "Musical style and influences": {
       "text": [
          "Butcher Babies' music has been described as heavy metal,[24] groove metal,[25][26] and thrash metal.[27] The band has cited artists and bands such as Pantera, Guns N' Roses, Marilyn Manson, Slayer, and Slipknot as their influences.[28][29] However, the band Plasmatics had the biggest influence on the band. In an interview, they stated \"We are big fans of Wendy O. Williams. We took the name from the Plasmatics Song \"Butcher Baby\". Wendy was a bad ass… she didn't give a fuck what anyone thought… we share that spirit\".[30] In an interview with Revolver Magazine, Harvey said: \"As a biracial kid growing up in the Detroit area, I got a lot of shit for loving hard rock and metal, and seeing musicians that were also African American playing the music I loved made me strong enough to say, \"Fuck you, I'm going to like what I want.\"[7]\nWhile Shepherd had said \"My heroes are Slipknot, Wendy O. Williams, Gwen Stefani, and Joan Jett. Most of them being females that defy the male dominance in music!\"[7] They also stated in an interview, they are heavily influenced by horror films such as The Texas Chain Saw Massacre, House of 1000 Corpses, and The Devil's Rejects.[30]\n",
@@ -52,25 +57,26 @@
          "The Butcher Babies are formally known for their aggressive stage appeal, such as wearing nipple tape. This attire is heavily influenced by Wendy O. Williams of the Plasmatics. Shepherd stated in an interview that \"Wendy O. Williams was the first female in heavy metal. She had that single, 'Butcher Baby', hence the name BUTCHER BABIES, and she was the first female to just really go all out. She didn't care what anyone told her. She was going to be the performer she wanted to be without anyone telling her 'No'. We were both hugely influenced by her, and that's where the attire came from.\"[14]\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 First release and rise (2011–2012)",
-      "1.2 Goliath and Take It Like a Man (2013–2017)",
-      "1.3 Lilith (2017)",
-      "1.4 Upcoming fourth studio album (2019–present)",
-      "2 Musical style and influences",
-      "3 Members",
-      "4 Discography",
-      "4.1 Studio albums",
-      "4.2 EPs",
-      "4.3 Music videos",
-      "5 References"
-   ],
-   "Summary": {
+   "Members": {
       "text": [
-         "Butcher Babies is an American heavy metal band from Los Angeles, California, consisting of frontwomen Heidi Shepherd and Carla Harvey, guitarist Henry Flury (Amen), bassist Ricky Bonazza, and drummer Chase Brickenden. Their debut album, Goliath, was released on July 9, 2013 via Century Media Records. It sold 3,300 copies in the US during its first week of release and charted at No. 3 on the Billboard Heatseeker chart and No. 112 on the Billboard 200.[1][2]\n"
+         "Current members\n",
+         "Former members\n"
       ]
    },
-   "Title": "Butcher Babies - Wikipedia"
+   "Discography": {
+      "Studio albums": {},
+      "EPs": {
+         "text": [
+            "Singles\n"
+         ]
+      },
+      "Music videos": {}
+   },
+   "References": {},
+   "coreData": [
+      "Butcher Babies is an American heavy metal band from Los Angeles, California, consisting of frontwomen Heidi Shepherd and Carla Harvey, guitarist Henry Flury (Amen), bassist Ricky Bonazza, and drummer Chase Brickenden. Their debut album, Goliath, was released on July 9, 2013 via Century Media Records. It sold 3,300 copies in the US during its first week of release and charted at No. 3 on the Billboard Heatseeker chart and No. 112 on the Billboard 200.[1][2]\n",
+      "The Butcher Babies formed by vocalists Heidi Shepherd and Carla Harvey in 2010. The band self-released their first EP in 2011. In July 2011, they released a comic book at the Comic-Con in San Diego on July 23 and 24.[3] The comic book was written by Harvey and illustrated by Anthony Winn.[4] Rock journalist Keith Valcourt stated in his review of one of the band's shows: \"The Butcher Babies deliver a loud crashing blend of heavy metal, punk and thrash that recalls Pantera, adding their stage show embodies the horror antics of Alice Cooper and Rob Zombie. Carla and Heidi don't merely sing: they assault the crowd with a blinding flash of aggression and abuse. And the crowd loves them for it.\"[5] They gained a lot of attention from their YouTube video of them performing \"Fucking Hostile\" by Pantera.[6]\n",
+      "On January 6, 2012, the Butcher Babies premiered a new song, \"Mr. Slowdeath\".[7] On May 24, they released their first music video for \"Mr. Slowdeath\", which was produced by Mudrock (Avenged Sevenfold, Godsmack), which is from the band's self-released EP.[8]\n",
+      "The band signed a worldwide deal with Century Media Records in November 2012, and a month later embarked on a North American tour from January to February with Marilyn Manson.[9] Only days after wrapping the tour in the City Of Sin, the band was in an L.A. studio with producer Josh Wilbur (Gojira, Lamb of God, Hatebreed) recording their debut album, Goliath.[10]\n"
+   ]
 }

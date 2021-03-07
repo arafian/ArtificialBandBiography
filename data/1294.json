@@ -1,6 +1,26 @@
 {
-   "Band members": {
-      "Timeline": {}
+   "Name": "Strawberry Alarm Clock",
+   "Sections": [
+      "1 Career",
+      "1.1 1966–1967: Formation and early success",
+      "1.2 1968–1969: Lineup changes",
+      "1.3 1970–1981: Breakup and brief reunion",
+      "1.4 1982–2001: Reunion and alternate lineup",
+      "1.5 2001–present: New album",
+      "2 Band members",
+      "2.1 Timeline",
+      "3 Television and films",
+      "4 Discography",
+      "4.1 Studio albums",
+      "4.2 Compilation albums",
+      "4.3 Singles",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Strawberry Alarm Clock is a psychedelic rock band formed in 1967 with origins in Glendale, California,[1] a city near Los Angeles. They are best known for their 1967 hit single \"Incense and Peppermints\".[2] Strawberry Alarm Clock, who have been also categorized as acid rock, psychedelic pop,[3][4][5] and sunshine pop,[6] charted five songs, including two Top 40 hits.\n"
+      ]
    },
    "Career": {
       "1966–1967: Formation and early success": {
@@ -57,34 +77,8 @@
          ]
       }
    },
-   "Discography": {
-      "Compilation albums": {},
-      "Singles": {},
-      "Studio albums": {}
-   },
-   "External links": {},
-   "References": {},
-   "Sections": [
-      "1 Career",
-      "1.1 1966–1967: Formation and early success",
-      "1.2 1968–1969: Lineup changes",
-      "1.3 1970–1981: Breakup and brief reunion",
-      "1.4 1982–2001: Reunion and alternate lineup",
-      "1.5 2001–present: New album",
-      "2 Band members",
-      "2.1 Timeline",
-      "3 Television and films",
-      "4 Discography",
-      "4.1 Studio albums",
-      "4.2 Compilation albums",
-      "4.3 Singles",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Strawberry Alarm Clock is a psychedelic rock band formed in 1967 with origins in Glendale, California,[1] a city near Los Angeles. They are best known for their 1967 hit single \"Incense and Peppermints\".[2] Strawberry Alarm Clock, who have been also categorized as acid rock, psychedelic pop,[3][4][5] and sunshine pop,[6] charted five songs, including two Top 40 hits.\n"
-      ]
+   "Band members": {
+      "Timeline": {}
    },
    "Television and films": {
       "text": [
@@ -93,5 +87,17 @@
          "The band's second movie appearance was in 1970's Beyond the Valley of the Dolls, where they played \"Incense and Peppermints\", \"I'm Comin' Home\", and \"Girl from the City\".\n"
       ]
    },
-   "Title": "Strawberry Alarm Clock - Wikipedia"
+   "Discography": {
+      "Studio albums": {},
+      "Compilation albums": {},
+      "Singles": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Strawberry Alarm Clock is a psychedelic rock band formed in 1967 with origins in Glendale, California,[1] a city near Los Angeles. They are best known for their 1967 hit single \"Incense and Peppermints\".[2] Strawberry Alarm Clock, who have been also categorized as acid rock, psychedelic pop,[3][4][5] and sunshine pop,[6] charted five songs, including two Top 40 hits.\n",
+      "A history of the band written by George Bunnell stated that \"The Strawberry Alarm Clock came about by parts of two bands, Thee Sixpence and Waterfyrd Traene, morphing into one.\"[7] The group originally named Thee Sixpence initially consisted of Ed King (lead guitar, vocals), Michael Luciano (vocals), Lee Freeman (rhythm guitar, harmonica, vocals), Gary Lovetro (bass), Steve Rabe (guitar, vocals), and Gene Gunnels (drums). Randy Seol (drums, vibes, percussion, vocals) and Mark Weitz (keyboards, vocals) joined to replace the departing Gunnels, Rabe, and Luciano just as the name change to Strawberry Alarm Clock (SAC) was occurring. Seol eventually brought in songwriters Bunnell and Steve Bartek, who participated in the writing and recording of SAC's first album.\n",
+      "The inception of Strawberry Alarm Clock aside from Thee Sixpence is not well documented, largely because none of the other band's recordings (subsequently lost) were released. However, according to Bunnell, many SAC songs came from the band he had formed previously with Seol, Bartek, Randy Zacuto, Fred Schwartz, and Criss Jay, which performed under the names Waterfyrd Traene (pre-SAC), Public Bubble (during SAC), and Buffington Rhodes (post-SAC). There were two recording sessions with some of these personnel, one with Dave Hassinger at the Recording Factory and one with Bill Lazarus at Sunset Sound. There were probably 10 songs in all that were recorded but Bunnell stated that both masters were stolen. The post-SAC incarnation broke up before any success was realized.\n",
+      "The first and most famous SAC single was \"Incense and Peppermints\", produced by Frank Slay and initially released by Thee Sixpence on All American Records, owned by Bill Holmes, the band's manager and producer. The band was not impressed by songwriter John Carter's singing, so Slay chose Greg Munford, a 16-year-old friend of the band who was from another group called Shapes of Sound, to sing lead on the track.[8] The song reached No. 1 on the Billboard Hot 100 during the week ending November 25, 1967. The band made a cameo appearance performing the song in the Richard Rush film Psych-Out.\n"
+   ]
 }

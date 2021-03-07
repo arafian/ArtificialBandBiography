@@ -1,12 +1,19 @@
 {
-   "Citations": {
+   "Name": "Primitive Calculators",
+   "Sections": [
+      "1 History",
+      "1.1 First era",
+      "1.2 Second era",
+      "2 Personal lives",
+      "3 References",
+      "4 Citations",
+      "5 External links"
+   ],
+   "Summary": {
       "text": [
-         "McFarlane, Ian (1999). The Encyclopedia of Australian rock and pop. St Leonards, N.S.W: Allen & Unwin.\n",
-         "Spencer, Chris (1989). Who’s who of Australian rock. Fitzroy, Vic.: Five Mile Press.\n",
-         "Walker, Clinton (1996). Stranded: The Secret History of Australian Independent Music 1977–1991. Sydney: Pan Macmillan.\n"
+         "The Primitive Calculators are an Australian post-punk band, formed in Melbourne, Victoria in 1978. Described by British critic Everett True as sounding like \"a very aggressive Suicide\",[1] the band is known for its mix of harsh guitar noise, fast and repetitive drum machine beats, and abrasive synthesizers. Along with fellow Melbourne act Whirlywirld, the Primitive Calculators played a leading role in founding the experimental Little Band Scene in the late 1970s, wherein both bands and numerous other acts formed large numbers of short-lived bands by frequently swapping members and inviting non-musicians to join in at live shows.\n"
       ]
    },
-   "External links": {},
    "History": {
       "First era": {
          "text": [
@@ -34,19 +41,18 @@
       ]
    },
    "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 First era",
-      "1.2 Second era",
-      "2 Personal lives",
-      "3 References",
-      "4 Citations",
-      "5 External links"
-   ],
-   "Summary": {
+   "Citations": {
       "text": [
-         "The Primitive Calculators are an Australian post-punk band, formed in Melbourne, Victoria in 1978. Described by British critic Everett True as sounding like \"a very aggressive Suicide\",[1] the band is known for its mix of harsh guitar noise, fast and repetitive drum machine beats, and abrasive synthesizers. Along with fellow Melbourne act Whirlywirld, the Primitive Calculators played a leading role in founding the experimental Little Band Scene in the late 1970s, wherein both bands and numerous other acts formed large numbers of short-lived bands by frequently swapping members and inviting non-musicians to join in at live shows.\n"
+         "McFarlane, Ian (1999). The Encyclopedia of Australian rock and pop. St Leonards, N.S.W: Allen & Unwin.\n",
+         "Spencer, Chris (1989). Who’s who of Australian rock. Fitzroy, Vic.: Five Mile Press.\n",
+         "Walker, Clinton (1996). Stranded: The Secret History of Australian Independent Music 1977–1991. Sydney: Pan Macmillan.\n"
       ]
    },
-   "Title": "Primitive Calculators - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "The Primitive Calculators are an Australian post-punk band, formed in Melbourne, Victoria in 1978. Described by British critic Everett True as sounding like \"a very aggressive Suicide\",[1] the band is known for its mix of harsh guitar noise, fast and repetitive drum machine beats, and abrasive synthesizers. Along with fellow Melbourne act Whirlywirld, the Primitive Calculators played a leading role in founding the experimental Little Band Scene in the late 1970s, wherein both bands and numerous other acts formed large numbers of short-lived bands by frequently swapping members and inviting non-musicians to join in at live shows.\n",
+      "They met as teenagers in Springvale, a working-class outer suburb of Melbourne,[2] and moved together in 1977 to St Kilda, then the centre of the punk rock scene. The band in its initial form was Denise Rosenberg, Dave Light, Frank Lovece and Stuart Grant. Despite socialising with the likes of Nick Cave from The Boys Next Door they remained outsiders to this scene (most of which consisted of people from middle-class backgrounds with private-school educations), and in 1978 moved to Fitzroy.\n",
+      "In Fitzroy, they settled on a four-piece lineup for recording and found like-minded friends, such as Ollie Olsen and John Murphy of Whirlywirld. They drew influence from proto-punk acts like The Godz and The Velvet Underground, Texan 1960s psychedelic punk, James Brown, and The Silver Apples, as well as Australian bands like Billy Thorpe and the Aztecs.\n",
+      "The band were instrumental in organising a series of gigs named \"Little Band nights\", where hastily formed bands would play for 15 minutes each; this led to the recording of a compilation EP. They became known for their use of a screeching Mosrite Ventures model guitar, primitive synthesizers (a Wasp and Roland SH2), an electronic organ played through effects pedals and an extra fast drum machine (Roland CR-78).\n"
+   ]
 }

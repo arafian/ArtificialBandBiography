@@ -1,23 +1,5 @@
 {
-   "Band members": {},
-   "Discography": {
-      "Extended plays": {},
-      "Live albums": {},
-      "Music videos": {},
-      "Singles": {},
-      "Studio albums": {}
-   },
-   "External links": {},
-   "Music career": {
-      "text": [
-         "Blackberry Smoke was formed in Atlanta, Georgia in 2000, and released their debut album, Bad Luck Ain't No Crime, in 2003. They have performed throughout the United States both as headliner and as the supporting act for artists such as Zac Brown Band, Eric Church, ZZ Top and Lynyrd Skynyrd.  Their second album released in 2009, Little Piece of Dixie. has been featured by Paste magazine and other publications.[1][2]\n",
-         "The band had their first chart success with their third album, The Whippoorwill, which was released in August 2012 and reached top 40 on Billboard 200.[3]  The album was released under the Southern Ground record label.[4] On August 26, 2012, they performed at a charity benefit called the Boot Ride with the cast of Sons of Anarchy, partnered with The Boot Campaign at the Happy Ending Bar and Grill in Hollywood, California.[5][6]\n",
-         "They moved to Rounder Records in 2014,[7]  and released Holding All the Roses produced by Brendan O'Brien in early 2015.[8] The album reached No. 1 on Billboard's Country Albums chart. The band spent much of the summer of 2016 on tour with Gov't Mule. \n",
-         "Blackberry Smoke released their fifth studio album, Like an Arrow, featuring Gregg Allman, on October 14, 2016 via their own record label, 3 Legged Records.[9] The album landed at No. 1 on the US Billboard Country[10] and Americana/Folk[11] charts as well as the UK Rock[12] and Independent Albums[13] charts during release week.  The band released its 6th studio album, Find A Light, on December 19, 2018.[14]\n",
-         "In 2019, the band released via Earache Records a live album and a film Homecoming: Live In Atlanta, recorded at their annual Brothers And Sisters Holiday Homecoming event at the Tabernacle in Atlanta in November 2018.[15]\n"
-      ]
-   },
-   "References": {},
+   "Name": "Blackberry Smoke",
    "Sections": [
       "1 Music career",
       "2 Band members",
@@ -35,5 +17,29 @@
          "Blackberry Smoke is an American rock band from Atlanta, Georgia, United States. The lineup consists of Charlie Starr (lead vocals, guitar), Richard Turner (bass, vocals), Brit Turner (drums), Paul Jackson (guitar, vocals), Brandon Still (keyboards), in 2020 they added touring personnel Benji Shanks ( guitar), and Preston Holcomb (percussion). They have released six studio albums, two live albums and five extended play recordings. A 7th studio album is set to be released in 2021.\n"
       ]
    },
-   "Title": "Blackberry Smoke - Wikipedia"
+   "Music career": {
+      "text": [
+         "Blackberry Smoke was formed in Atlanta, Georgia in 2000, and released their debut album, Bad Luck Ain't No Crime, in 2003. They have performed throughout the United States both as headliner and as the supporting act for artists such as Zac Brown Band, Eric Church, ZZ Top and Lynyrd Skynyrd.  Their second album released in 2009, Little Piece of Dixie. has been featured by Paste magazine and other publications.[1][2]\n",
+         "The band had their first chart success with their third album, The Whippoorwill, which was released in August 2012 and reached top 40 on Billboard 200.[3]  The album was released under the Southern Ground record label.[4] On August 26, 2012, they performed at a charity benefit called the Boot Ride with the cast of Sons of Anarchy, partnered with The Boot Campaign at the Happy Ending Bar and Grill in Hollywood, California.[5][6]\n",
+         "They moved to Rounder Records in 2014,[7]  and released Holding All the Roses produced by Brendan O'Brien in early 2015.[8] The album reached No. 1 on Billboard's Country Albums chart. The band spent much of the summer of 2016 on tour with Gov't Mule. \n",
+         "Blackberry Smoke released their fifth studio album, Like an Arrow, featuring Gregg Allman, on October 14, 2016 via their own record label, 3 Legged Records.[9] The album landed at No. 1 on the US Billboard Country[10] and Americana/Folk[11] charts as well as the UK Rock[12] and Independent Albums[13] charts during release week.  The band released its 6th studio album, Find A Light, on December 19, 2018.[14]\n",
+         "In 2019, the band released via Earache Records a live album and a film Homecoming: Live In Atlanta, recorded at their annual Brothers And Sisters Holiday Homecoming event at the Tabernacle in Atlanta in November 2018.[15]\n"
+      ]
+   },
+   "Band members": {},
+   "Discography": {
+      "Studio albums": {},
+      "Live albums": {},
+      "Extended plays": {},
+      "Singles": {},
+      "Music videos": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Blackberry Smoke is an American rock band from Atlanta, Georgia, United States. The lineup consists of Charlie Starr (lead vocals, guitar), Richard Turner (bass, vocals), Brit Turner (drums), Paul Jackson (guitar, vocals), Brandon Still (keyboards), in 2020 they added touring personnel Benji Shanks ( guitar), and Preston Holcomb (percussion). They have released six studio albums, two live albums and five extended play recordings. A 7th studio album is set to be released in 2021.\n",
+      "Blackberry Smoke was formed in Atlanta, Georgia in 2000, and released their debut album, Bad Luck Ain't No Crime, in 2003. They have performed throughout the United States both as headliner and as the supporting act for artists such as Zac Brown Band, Eric Church, ZZ Top and Lynyrd Skynyrd.  Their second album released in 2009, Little Piece of Dixie. has been featured by Paste magazine and other publications.[1][2]\n",
+      "The band had their first chart success with their third album, The Whippoorwill, which was released in August 2012 and reached top 40 on Billboard 200.[3]  The album was released under the Southern Ground record label.[4] On August 26, 2012, they performed at a charity benefit called the Boot Ride with the cast of Sons of Anarchy, partnered with The Boot Campaign at the Happy Ending Bar and Grill in Hollywood, California.[5][6]\n",
+      "They moved to Rounder Records in 2014,[7]  and released Holding All the Roses produced by Brendan O'Brien in early 2015.[8] The album reached No. 1 on Billboard's Country Albums chart. The band spent much of the summer of 2016 on tour with Gov't Mule. \n"
+   ]
 }

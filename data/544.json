@@ -1,13 +1,5 @@
 {
-   "Bibliography": {},
-   "Discography": {},
-   "History": {
-      "text": [
-         "The Brotherhood of Breath included many members of the South African expatriate community resident in London, including McGregor himself, Louis Moholo, Harry Miller, Mongezi Feza, Dudu Pukwana, (occasionally) Johnny Dyani; and many of the free jazz musicians who were based in London at the same time. The group also included Lol Coxhill, Evan Parker, Paul Rutherford, Harry Beckett, Marc Charig, Alan Skidmore, Jim Dvorak, Mike Osborne, Elton Dean, Nick Evans, and John Surman.\n",
-         "The original Brotherhood Of Breath ended in the late-1970s, with the deaths of Mongezi Feza and Harry Miller (whose label, Ogun Records, released some of the Brotherhood's albums.)  McGregor formed a second version of the group in France in the early-1980s, adding European musicians, including a number of French jazz musicians (François Jeanneau, Louis Sclavis, Jean-Claude Montredon, Didier Levallet).[1] In 1987, a third edition was formed with African and British musicians such as Annie Whitehead. In this incarnation the music was more tightly arranged and controlled, with less free improvisation.\n"
-      ]
-   },
-   "References": {},
+   "Name": "Brotherhood of Breath",
    "Sections": [
       "1 History",
       "2 Discography",
@@ -19,5 +11,18 @@
          "The Brotherhood of Breath was an English-South African big band established in the late-1960s by South African pianist and composer Chris McGregor, an extension of McGregor's previous band, The Blue Notes.\n"
       ]
    },
-   "Title": "Brotherhood of Breath - Wikipedia"
+   "History": {
+      "text": [
+         "The Brotherhood of Breath included many members of the South African expatriate community resident in London, including McGregor himself, Louis Moholo, Harry Miller, Mongezi Feza, Dudu Pukwana, (occasionally) Johnny Dyani; and many of the free jazz musicians who were based in London at the same time. The group also included Lol Coxhill, Evan Parker, Paul Rutherford, Harry Beckett, Marc Charig, Alan Skidmore, Jim Dvorak, Mike Osborne, Elton Dean, Nick Evans, and John Surman.\n",
+         "The original Brotherhood Of Breath ended in the late-1970s, with the deaths of Mongezi Feza and Harry Miller (whose label, Ogun Records, released some of the Brotherhood's albums.)  McGregor formed a second version of the group in France in the early-1980s, adding European musicians, including a number of French jazz musicians (François Jeanneau, Louis Sclavis, Jean-Claude Montredon, Didier Levallet).[1] In 1987, a third edition was formed with African and British musicians such as Annie Whitehead. In this incarnation the music was more tightly arranged and controlled, with less free improvisation.\n"
+      ]
+   },
+   "Discography": {},
+   "References": {},
+   "Bibliography": {},
+   "coreData": [
+      "The Brotherhood of Breath was an English-South African big band established in the late-1960s by South African pianist and composer Chris McGregor, an extension of McGregor's previous band, The Blue Notes.\n",
+      "The Brotherhood of Breath included many members of the South African expatriate community resident in London, including McGregor himself, Louis Moholo, Harry Miller, Mongezi Feza, Dudu Pukwana, (occasionally) Johnny Dyani; and many of the free jazz musicians who were based in London at the same time. The group also included Lol Coxhill, Evan Parker, Paul Rutherford, Harry Beckett, Marc Charig, Alan Skidmore, Jim Dvorak, Mike Osborne, Elton Dean, Nick Evans, and John Surman.\n",
+      "The original Brotherhood Of Breath ended in the late-1970s, with the deaths of Mongezi Feza and Harry Miller (whose label, Ogun Records, released some of the Brotherhood's albums.)  McGregor formed a second version of the group in France in the early-1980s, adding European musicians, including a number of French jazz musicians (François Jeanneau, Louis Sclavis, Jean-Claude Montredon, Didier Levallet).[1] In 1987, a third edition was formed with African and British musicians such as Annie Whitehead. In this incarnation the music was more tightly arranged and controlled, with less free improvisation.\n"
+   ]
 }

@@ -1,21 +1,27 @@
 {
-   "Band members": {},
-   "Discography": {
-      "EPs": {},
-      "Live albums/DVDs": {},
-      "Singles": {},
-      "Studio albums": {}
-   },
-   "External links": {},
-   "Further reading": {},
-   "Gallery": {
+   "Name": "Slightly Stoopid",
+   "Sections": [
+      "1 History",
+      "1.1 Founding, early releases",
+      "1.2 Live touring",
+      "1.3 Stoopid Records, live albums",
+      "1.4 Top of the World and Meanwhile...Back At The Lab (2012-Present)",
+      "2 Musical influences",
+      "3 Band members",
+      "4 Discography",
+      "4.1 Studio albums",
+      "4.2 Live albums/DVDs",
+      "4.3 EPs",
+      "4.4 Singles",
+      "5 Summer tours",
+      "6 Gallery",
+      "7 References",
+      "8 External links",
+      "9 Further reading"
+   ],
+   "Summary": {
       "text": [
-         "Flagstaff, AZ show 2007\n",
-         "Slightly Stoopid in concert\n",
-         "Bassist Kyle McDonald crowdsurfing\n",
-         "New Year's Eve 2007 at the House of Blues, Anaheim, CA\n",
-         "Group picture\n",
-         "New Years 2014\n"
+         "Slightly Stoopid is an American band based in the Ocean Beach neighborhood of San Diego, California, who describe their music as \"a fusion of folk, rock, reggae and blues with hip-hop, funk, metal and punk.\" As a band, they have released thirteen albums (four live), with their ninth studio album entitled Everyday Life, Everyday People on July 13, 2018. The band was originally signed by Bradley Nowell from the band Sublime to his label Skunk Records while still in high school.\n"
       ]
    },
    "History": {
@@ -54,31 +60,31 @@
          "The band has also experimented with hip-hop on their more recent albums.  The song \"The Otherside\" off the album Chronchitis features the late rapper Guru. They note hip hop influences NWA and Eazy-E, Wu-Tang Clan, and Gang Starr. \nKyle McDonald’s vocal style in particular references reggae legends Eek a Mouse, Pinchers, and Tenor Saw quite often.\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Founding, early releases",
-      "1.2 Live touring",
-      "1.3 Stoopid Records, live albums",
-      "1.4 Top of the World and Meanwhile...Back At The Lab (2012-Present)",
-      "2 Musical influences",
-      "3 Band members",
-      "4 Discography",
-      "4.1 Studio albums",
-      "4.2 Live albums/DVDs",
-      "4.3 EPs",
-      "4.4 Singles",
-      "5 Summer tours",
-      "6 Gallery",
-      "7 References",
-      "8 External links",
-      "9 Further reading"
-   ],
-   "Summary": {
-      "text": [
-         "Slightly Stoopid is an American band based in the Ocean Beach neighborhood of San Diego, California, who describe their music as \"a fusion of folk, rock, reggae and blues with hip-hop, funk, metal and punk.\" As a band, they have released thirteen albums (four live), with their ninth studio album entitled Everyday Life, Everyday People on July 13, 2018. The band was originally signed by Bradley Nowell from the band Sublime to his label Skunk Records while still in high school.\n"
-      ]
+   "Band members": {},
+   "Discography": {
+      "Studio albums": {},
+      "Live albums/DVDs": {},
+      "EPs": {},
+      "Singles": {}
    },
    "Summer tours": {},
-   "Title": "Slightly Stoopid - Wikipedia"
+   "Gallery": {
+      "text": [
+         "Flagstaff, AZ show 2007\n",
+         "Slightly Stoopid in concert\n",
+         "Bassist Kyle McDonald crowdsurfing\n",
+         "New Year's Eve 2007 at the House of Blues, Anaheim, CA\n",
+         "Group picture\n",
+         "New Years 2014\n"
+      ]
+   },
+   "References": {},
+   "External links": {},
+   "Further reading": {},
+   "coreData": [
+      "Slightly Stoopid is an American band based in the Ocean Beach neighborhood of San Diego, California, who describe their music as \"a fusion of folk, rock, reggae and blues with hip-hop, funk, metal and punk.\" As a band, they have released thirteen albums (four live), with their ninth studio album entitled Everyday Life, Everyday People on July 13, 2018. The band was originally signed by Bradley Nowell from the band Sublime to his label Skunk Records while still in high school.\n",
+      "In 1994 Slightly Stoopid was formed in Ocean Beach, California by Miles Doughty and Kyle McDonald, both childhood friends, as well as high school friend and drummer Adam Bausch. Soon after, Sublime frontman Bradley Nowell discovered the band, asking them to perform in Long Beach, California at the Foot Hill Tavern. Nowell shortly after signed them to his label Skunk Records while the members were still attending high school.[2] In 1996 the band released their first studio album, the punk-tinged Slightly $toopid[3] (featuring a guest appearance by Nowell on the song \"Prophet\" – later covered by Sublime and released on their box set, Everything Under the Sun) and 1998's surf-inspired The Longest Barrel Ride.[4]\n",
+      "The group self-released 2001's Acoustic Roots: Live & Direct (a 40-minute acoustic set, captured live at San Diego 's 91X radio station) – the first for their own label, Stoopid Records,[3] before issuing 2003's Everything You Need on Surfdog Records (a musical departure for the band,[3] that sold more than 185,000 copies).\n",
+      "Adam Bausch left the band shortly after recording and releasing The Longest Barrel Ride. Slightly Stoopid had fourteen drummers between Adam Bausch and their current drummer, Ryan 'RyMo' Moran. These drummers include: Kelly Vargas (of Sublime / Dissension), Dan Lancelot, Damion Ramirez (of Capitol Eye / Long Beach Shortbus), and Paul Vrieling (who is pictured in the background on the cover of the Everything You Need album.) After solidifying a new line-up with first the removal of Bausch, due to personal differences, then with the additions of Ryan 'RyMo' Moran (drums), as well as Oguer 'OG' Ocon (congas, percussion, harp, vocals), C-Money (trumpet, keyboard) and Dela (saxophone) from John Brown's Body, the band began to mix even more different musical styles on 2005's Closer to the Sun. The album featured collaborations with well-known reggae names such as Barrington Levy and Scientist. Closer to the Sun impressively debuted in the Billboard Top 200 and sold nearly 25,000 copies in its first two months of release.[5]\n"
+   ]
 }

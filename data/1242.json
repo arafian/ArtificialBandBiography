@@ -1,24 +1,5 @@
 {
-   "Band members": {
-      "Current members": {},
-      "Former members": {},
-      "Music videos": {},
-      "Studio albums": {}
-   },
-   "External links": {},
-   "History": {
-      "2004–2011": {
-         "text": [
-            "Nude formed in the Los Angeles County city Hollywood in 2004. They met at the Musicians Institute in Hollywood.\n"
-         ]
-      },
-      "2009–2011 and Fearless Generation": {
-         "text": [
-            "They started writing their latest album \"Fearless Generation\" late 2009. Tony Karlsson and Bobby Amaro were in the studio day and night for many months at the time. \"Fearless Generation\" was released February 10, 2011.\n"
-         ]
-      }
-   },
-   "References": {},
+   "Name": "Nude (band)",
    "Sections": [
       "1 History",
       "1.1 2004–2011",
@@ -36,5 +17,29 @@
          "Nude is an American rock band, based in La Habra, California, United States. They formed in 2004 in Hollywood, with Swedish singer and guitarist Tony Karlsson, drummer Bobby Amaro, and original bassist Kevin Brown. They are at the moment unsigned, having previously released 3 full length albums and 1 extended play record.  Their most recent studio album, Fearless Generation, was released in February 2011.\n[1]\n"
       ]
    },
-   "Title": "Nude (band) - Wikipedia"
+   "History": {
+      "2004–2011": {
+         "text": [
+            "Nude formed in the Los Angeles County city Hollywood in 2004. They met at the Musicians Institute in Hollywood.\n"
+         ]
+      },
+      "2009–2011 and Fearless Generation": {
+         "text": [
+            "They started writing their latest album \"Fearless Generation\" late 2009. Tony Karlsson and Bobby Amaro were in the studio day and night for many months at the time. \"Fearless Generation\" was released February 10, 2011.\n"
+         ]
+      }
+   },
+   "Band members": {
+      "Current members": {},
+      "Former members": {},
+      "Studio albums": {},
+      "Music videos": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Nude is an American rock band, based in La Habra, California, United States. They formed in 2004 in Hollywood, with Swedish singer and guitarist Tony Karlsson, drummer Bobby Amaro, and original bassist Kevin Brown. They are at the moment unsigned, having previously released 3 full length albums and 1 extended play record.  Their most recent studio album, Fearless Generation, was released in February 2011.\n[1]\n",
+      "Nude formed in the Los Angeles County city Hollywood in 2004. They met at the Musicians Institute in Hollywood.\n",
+      "They started writing their latest album \"Fearless Generation\" late 2009. Tony Karlsson and Bobby Amaro were in the studio day and night for many months at the time. \"Fearless Generation\" was released February 10, 2011.\n"
+   ]
 }

@@ -1,14 +1,17 @@
 {
-   "Discography": {
+   "Name": "High on Fire",
+   "Sections": [
+      "1 History",
+      "2 Personnel",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
       "text": [
-         "Studio albums\n",
-         "Live albums\n",
-         "Singles, EPs and splits\n",
-         "Singles\n",
-         "Music videos\n"
+         "High on Fire is an American heavy metal band from Oakland, California,[4] that was formed in 1998. Matt Pike, the band's frontman and founder, also plays guitar for doom metal band Sleep. High on Fire won the 2019 Grammy Award for Best Metal Performance with their song \"Electric Messiah\".\n"
       ]
    },
-   "External links": {},
    "History": {
       "text": [
          "High on Fire was founded in 1998 by Sleep guitarist Matt Pike, drummer Des Kensel, and bassist George Rice (from Dear Deceased, who originally auditioned to be the band's vocalist). The band's first full-length album The Art of Self Defense was released on 12th Records, and released later on Man's Ruin Records. (The album would later be re-released by Tee Pee Records, with two bonus tracks, as Man's Ruin Records had become defunct.)\n",
@@ -35,18 +38,21 @@
          "Timeline\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Personnel",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
+   "Discography": {
       "text": [
-         "High on Fire is an American heavy metal band from Oakland, California,[4] that was formed in 1998. Matt Pike, the band's frontman and founder, also plays guitar for doom metal band Sleep. High on Fire won the 2019 Grammy Award for Best Metal Performance with their song \"Electric Messiah\".\n"
+         "Studio albums\n",
+         "Live albums\n",
+         "Singles, EPs and splits\n",
+         "Singles\n",
+         "Music videos\n"
       ]
    },
-   "Title": "High on Fire - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "High on Fire is an American heavy metal band from Oakland, California,[4] that was formed in 1998. Matt Pike, the band's frontman and founder, also plays guitar for doom metal band Sleep. High on Fire won the 2019 Grammy Award for Best Metal Performance with their song \"Electric Messiah\".\n",
+      "High on Fire was founded in 1998 by Sleep guitarist Matt Pike, drummer Des Kensel, and bassist George Rice (from Dear Deceased, who originally auditioned to be the band's vocalist). The band's first full-length album The Art of Self Defense was released on 12th Records, and released later on Man's Ruin Records. (The album would later be re-released by Tee Pee Records, with two bonus tracks, as Man's Ruin Records had become defunct.)\n",
+      "In 2001, High on Fire signed a record deal with Relapse Records[5] and recorded the album Surrounded by Thieves. The album was released on May 28, 2002. After the tours promoting Surrounded by Thieves, bassist George Rice left the band and was replaced by ex-Melvins/Thrones bassist Joe Preston.\n",
+      "The band's next album, 2005's Blessed Black Wings, was largely written by Pike and Kensel before the recording of the album took place. The album was produced by Steve Albini, and was released on February 1, 2005. A music video was produced for the song \"Devilution.\"[6] While touring with Goatwhore and Watch Them Die to promote Blessed Black Wings, Joe Preston left the band for undisclosed reasons, and was temporarily replaced by Zeke bassist Jeff Matz.[7] Matz finished the tour with High on Fire and became a full-time member during the recording of Death Is This Communion. Death Is This Communion was released on September 18, 2007 (September 10, in Europe).\n"
+   ]
 }

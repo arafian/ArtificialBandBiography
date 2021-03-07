@@ -1,8 +1,19 @@
 {
-   "Discography": {
-      "Compilation albums": {}
+   "Name": "Marea (band)",
+   "Sections": [
+      "1 Members",
+      "2 History",
+      "3 Discography",
+      "3.1 Compilation albums",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Marea are a Spanish rock band from Berriozar, Navarre formed in 1997 by Kutxi Romero. So far they have released six studio albums, a collection boxset and a live record.\n"
+      ]
    },
-   "External links": {},
+   "Members": {},
    "History": {
       "text": [
          "In 1997, after having been a member of 9 different punk bands, Kutxi Romero decided to form a rock group.[1]\n",
@@ -19,20 +30,15 @@
          "In 2011 they released their sixth studio album En mi hambre mando yo' mixed in Canada by Mike Fraser'.\n"
       ]
    },
-   "Members": {},
-   "References": {},
-   "Sections": [
-      "1 Members",
-      "2 History",
-      "3 Discography",
-      "3.1 Compilation albums",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Marea are a Spanish rock band from Berriozar, Navarre formed in 1997 by Kutxi Romero. So far they have released six studio albums, a collection boxset and a live record.\n"
-      ]
+   "Discography": {
+      "Compilation albums": {}
    },
-   "Title": "Marea (band) - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Marea are a Spanish rock band from Berriozar, Navarre formed in 1997 by Kutxi Romero. So far they have released six studio albums, a collection boxset and a live record.\n",
+      "In 1997, after having been a member of 9 different punk bands, Kutxi Romero decided to form a rock group.[1]\n",
+      "He called Alen Ayerdi - former drummer of Begira - who didn't hesitate to join Kutxi's project. He then contacted Edu Beaumont \"Piñas\", whom he had met one year before. Piñas hadn't played previously in any other band, but Kutxi - who was a very good friend of his - persuaded him to join as bassist. Piñas accepted and introduced Kutxi to César Ramallo, who would become one of Marea's guitarists. David Díaz, aka Kolibrí, also a guitarist, also joined the band.[1]\n",
+      "The band was initially called \"La Patera\" but as a band with the same name already existed they adopted the name Marea, that was supposed to be the title of their first album that they instead named La Patera.[1]\n"
+   ]
 }

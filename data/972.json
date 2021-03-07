@@ -1,10 +1,25 @@
 {
-   "Discography": {
+   "Name": "Gov't Mule",
+   "Sections": [
+      "1 History",
+      "1.1 1990s",
+      "1.2 2000–2003",
+      "1.3 2004–2008",
+      "1.4 2009",
+      "1.5 2010–2014",
+      "1.6 2017",
+      "2 Members",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
       "text": [
-         "Following is a listing of Gov't Mule's major releases. Nearly every concert that Gov't Mule plays is recorded and sold online in both high- and low-resolution MP3 format, and in the lossless FLAC format.[26]\n"
+         "\n",
+         "Gov't Mule (pronounced Government Mule) is an American Southern rock jam band, formed in 1994 as a side project of The Allman Brothers Band by guitarist Warren Haynes and bassist Allen Woody.  Fans often refer to Gov't Mule simply as Mule.\n",
+         "The band released their debut album, Gov't Mule, in 1995, and have since released an additional nine studio albums, plus numerous EPs and live releases. Gov't Mule has become a staple act at music festivals across North America, with both its members and frequent guests boasting members from other notable bands, adding various funk and blues rock elements to the band's sound.\n"
       ]
    },
-   "External links": {},
    "History": {
       "1990s": {
          "text": [
@@ -61,26 +76,17 @@
          "Timeline\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 1990s",
-      "1.2 2000–2003",
-      "1.3 2004–2008",
-      "1.4 2009",
-      "1.5 2010–2014",
-      "1.6 2017",
-      "2 Members",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
+   "Discography": {
       "text": [
-         "\n",
-         "Gov't Mule (pronounced Government Mule) is an American Southern rock jam band, formed in 1994 as a side project of The Allman Brothers Band by guitarist Warren Haynes and bassist Allen Woody.  Fans often refer to Gov't Mule simply as Mule.\n",
-         "The band released their debut album, Gov't Mule, in 1995, and have since released an additional nine studio albums, plus numerous EPs and live releases. Gov't Mule has become a staple act at music festivals across North America, with both its members and frequent guests boasting members from other notable bands, adding various funk and blues rock elements to the band's sound.\n"
+         "Following is a listing of Gov't Mule's major releases. Nearly every concert that Gov't Mule plays is recorded and sold online in both high- and low-resolution MP3 format, and in the lossless FLAC format.[26]\n"
       ]
    },
-   "Title": "Gov't Mule - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Gov't Mule (pronounced Government Mule) is an American Southern rock jam band, formed in 1994 as a side project of The Allman Brothers Band by guitarist Warren Haynes and bassist Allen Woody.  Fans often refer to Gov't Mule simply as Mule.\n",
+      "The band released their debut album, Gov't Mule, in 1995, and have since released an additional nine studio albums, plus numerous EPs and live releases. Gov't Mule has become a staple act at music festivals across North America, with both its members and frequent guests boasting members from other notable bands, adding various funk and blues rock elements to the band's sound.\n",
+      "When The Allman Brothers Band reformed in 1989, partially in response to the popularity of their Dreams box set, Warren Haynes was added as a permanent lead guitarist and vocalist, and Allen Woody was recruited as bass guitarist. The two shared a love for 1960s power trios like Cream, The Jimi Hendrix Experience, the James Gang, and Mountain.[1][2] Haynes, Woody, and drummer Matt Abts, who played with Haynes in Dickey Betts' band, came together as Gov't Mule during Allman Brothers breaks. They released their debut album Gov't Mule, produced by Michael Barbiero, in 1995.  Live at Roseland Ballroom was released in 1996, consisting of their 1995 New Year's Eve set opening for Blues Traveler.\n",
+      "When The Allman Brothers Band were not forthcoming with any new material, Haynes and Woody left to concentrate full-time on Gov't Mule in 1997. Their second studio effort, Dose, also produced by Barbiero, was released in early 1998. They were joined by members of the Allman Brothers, the Black Crowes, Parliament/Funkadelic and The Derek Trucks Band for their 1998 New Year's Eve concert, released both in a two and four CD version as Live... With a Little Help from Our Friends. The performances exposed some of the bands' influences, covering Neil Young, Free, Traffic, Jimi Hendrix, Little Feat, Humble Pie and Black Sabbath.\n"
+   ]
 }

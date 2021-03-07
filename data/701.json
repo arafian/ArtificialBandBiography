@@ -1,14 +1,5 @@
 {
-   "Discography": {
-      "text": [
-         "Albums\n",
-         "EPs and singles\n"
-      ]
-   },
-   "Personnel": {},
-   "References": {
-      "Notes": {}
-   },
+   "Name": "The Micragirls",
    "Sections": [
       "1 Story",
       "1.1 Beginning, 2001–2002",
@@ -20,6 +11,11 @@
       "5 References",
       "5.1 Notes"
    ],
+   "Summary": {
+      "text": [
+         "The Micragirls were an all-female Finnish garage rock band. They were active from 2001 to 2010, gaining a cult following both in Finland and abroad. The band released two albums and several EPs and singles. The Micragirls did over 250 concerts, of which some 100 outside Finland. The band's principal line-up was a trio: drums, electric guitar and combo organ, with all band members singing.\n"
+      ]
+   },
    "Story": {
       "Beginning, 2001–2002": {
          "text": [
@@ -55,10 +51,20 @@
          "There was a strong contrast between the looks and the sound of The Micragirls, especially during their fast-paced songs and notably when all the ladies were screaming simultaneously.[7] The group usually wore 60s style uniforms on stage. The Micragirls are often compared to the Japanese band The 5.6.7.8's.[17][18][19]\n"
       ]
    },
-   "Summary": {
+   "Personnel": {},
+   "Discography": {
       "text": [
-         "The Micragirls were an all-female Finnish garage rock band. They were active from 2001 to 2010, gaining a cult following both in Finland and abroad. The band released two albums and several EPs and singles. The Micragirls did over 250 concerts, of which some 100 outside Finland. The band's principal line-up was a trio: drums, electric guitar and combo organ, with all band members singing.\n"
+         "Albums\n",
+         "EPs and singles\n"
       ]
    },
-   "Title": "The Micragirls - Wikipedia"
+   "References": {
+      "Notes": {}
+   },
+   "coreData": [
+      "The Micragirls were an all-female Finnish garage rock band. They were active from 2001 to 2010, gaining a cult following both in Finland and abroad. The band released two albums and several EPs and singles. The Micragirls did over 250 concerts, of which some 100 outside Finland. The band's principal line-up was a trio: drums, electric guitar and combo organ, with all band members singing.\n",
+      "The Micragirls got started during Provinssirock outdoor rock festival in June 2001. Four young ladies from Kuopio listened to garage rock compilation cassettes for the whole weekend in a Nissan Micra car, and decided to form a band. Their friends' band Aavikko, while performing at the festival, had dedicated one of their songs to \"Micratytöt\". This was then translated to the English name of the newborn group.[1]\n",
+      "Right after coming home from the festival the ladies walked into the rehearsal room of their friends and selected their instruments. Kristiina Haapalainen took on the drums as she had sat behind a drum kit a couple of times, her sister Katariina Haapalainen chose a career with keyboards, and petite Elina Hakkarainen picked up the bass guitar. Mari Halonen became the guitar player and lead vocalist, being the only one with any previous musical experience – on violin.[2]\n",
+      "The first private gig of The Micragirls was already that August, and they had seven public performances during 2001.[3] Their first concerts abroad were in Saint Petersburg, Russia, before the group had published any records.[1] The band members had been enthusiastic music consumers and had even organized some gigs for other groups. This had provided them with good contacts within the Finnish music circles, and it was easy for The Micragirls to get gigs.[2] With help from the band Aavikko they also got the chance to make their first record.[4]\n"
+   ]
 }

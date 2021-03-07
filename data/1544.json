@@ -1,4 +1,14 @@
 {
+   "Name": "Ichiyo Izawa",
+   "Sections": [
+      "Summary",
+      "Biography"
+   ],
+   "Summary": {
+      "text": [
+         "Keitaro Izawa (伊澤 啓太郎, Izawa Keitarō, born July 4, 1976), better known by his stage name Ichiyo Izawa (伊澤 一葉, Izawa Ichiyō) is a Japanese pianist, vocalist and songwriter, best known for his work in the Ringo Sheena-helmed band Tokyo Jihen. He is also the lead vocalist and pianist of the band Appa.\n"
+      ]
+   },
    "Biography": {
       "text": [
          "Izawa was born in 1976 in Kurashiki City, Okayama Prefecture. His father Masanobu Izawa is the president of Kurabun Corporation.\n",
@@ -10,9 +20,10 @@
          "Appa released their second full-length album, Mantra, on August 29, 2012.\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "Keitaro Izawa (伊澤 啓太郎, Izawa Keitarō, born July 4, 1976), better known by his stage name Ichiyo Izawa (伊澤 一葉, Izawa Ichiyō) is a Japanese pianist, vocalist and songwriter, best known for his work in the Ringo Sheena-helmed band Tokyo Jihen. He is also the lead vocalist and pianist of the band Appa.\n"
-      ]
-   }
+   "coreData": [
+      "Keitaro Izawa (伊澤 啓太郎, Izawa Keitarō, born July 4, 1976), better known by his stage name Ichiyo Izawa (伊澤 一葉, Izawa Ichiyō) is a Japanese pianist, vocalist and songwriter, best known for his work in the Ringo Sheena-helmed band Tokyo Jihen. He is also the lead vocalist and pianist of the band Appa.\n",
+      "Izawa was born in 1976 in Kurashiki City, Okayama Prefecture. His father Masanobu Izawa is the president of Kurabun Corporation.\n",
+      "Izawa began studying piano at the age of four, and by the age of 14 had also learned to play the guitar and was active in several bands in which he also served as the vocalist. After graduating from Kurashiki's Seiryo Senior High School, he entered the composers' program at the Kunitachi College of Music; however, he left the college two years later before graduation because he felt he would not be able to study and compose music seriously at the same time. He formed a band with Kunitachi classmate H Zhett M soon after, although they dissolved three months later.\n",
+      "He formed the band Appa in 2004 along with bassist Hideaki Hotta and drummer Kazuto Sato. Izawa serves as the band's leader, pianist and vocalist in addition to writing and arranging most of their songs. After two small-run independent EP releases, Appa released their full-length debut album, Rashipoki, on November 5, 2008.[1]\n"
+   ]
 }

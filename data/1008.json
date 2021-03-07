@@ -1,10 +1,20 @@
 {
-   "Discography": {
-      "Albums": {},
-      "Singles": {},
-      "Videos": {}
+   "Name": "Particle (band)",
+   "Sections": [
+      "1 History",
+      "2 Musical style",
+      "3 Discography",
+      "3.1 Albums",
+      "3.2 Videos",
+      "3.3 Singles",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Particle is an American jam band formed in Los Angeles in 2000.\n"
+      ]
    },
-   "External links": {},
    "History": {
       "text": [
          "The band formed in 2000 and the original members were Dave Simmons (guitar), Steve Molitz (keyboard), Eric Gould (bass), and Darren Pujalet (drums).[3]  Simmons died shortly after the formation of the band due to a sudden illness.[4]  Guitarist Charlie Hitchcock joined shortly thereafter.[4] Along with The Disco Biscuits, Sound Tribe Sector 9, and Lotus the group was among the first to blend rock, jazz, funk, and electronica into the milieu of what has been dubbed livetronica (a subgenre of the jam band movement where live bands blend the structures of DJ-produced sequenced electronic music into a more traditional live band setting). Prior to 2006, the band's repertoire consisted entirely of instrumental material.[5]\n",
@@ -23,21 +33,17 @@
          "The band is regarded as a jam-band with progressive rock roots.[18] They have described their music as \"space porn funk\", a term coined by one of their early fans, and \"funktronic\".[1][10][14][19][20] Allmusic writer Hal Horowitz, reviewing Launchpad described their music as having \"a loose '70s feel that mixes elements of Pink Floyd's prog rock and Return to Forever-styled jazz fusion with insistent dance beats that shift from funk to near disco\".[11] Philip Booth, reviewing Launchpad for CMJ New Music Monthly described their music as \"fusion in the non-jazz sense\", commenting on the \"trance, house, and drum 'n' bass rhythms heard throughout\", and calling the album an \"unstoppable blast of gritty electronic jam\".[10] A review by Nicole Keiper in The Tennessean described the band's sound as \" jam-rock standards that make smart use of dance music's lush textures and well-placed, good-and-solid dancefloor thumps\".[21] Chris Nelson of The New York Times described them as \"disco-flavored, instrumental jam music\".[7]\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Musical style",
-      "3 Discography",
-      "3.1 Albums",
-      "3.2 Videos",
-      "3.3 Singles",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Particle is an American jam band formed in Los Angeles in 2000.\n"
-      ]
+   "Discography": {
+      "Albums": {},
+      "Videos": {},
+      "Singles": {}
    },
-   "Title": "Particle (band) - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Particle is an American jam band formed in Los Angeles in 2000.\n",
+      "The band formed in 2000 and the original members were Dave Simmons (guitar), Steve Molitz (keyboard), Eric Gould (bass), and Darren Pujalet (drums).[3]  Simmons died shortly after the formation of the band due to a sudden illness.[4]  Guitarist Charlie Hitchcock joined shortly thereafter.[4] Along with The Disco Biscuits, Sound Tribe Sector 9, and Lotus the group was among the first to blend rock, jazz, funk, and electronica into the milieu of what has been dubbed livetronica (a subgenre of the jam band movement where live bands blend the structures of DJ-produced sequenced electronic music into a more traditional live band setting). Prior to 2006, the band's repertoire consisted entirely of instrumental material.[5]\n",
+      "The group made a name for itself and built an enthusiastic fan base, known as Particle People,[6] by performing energetic late-night sets at festivals such as Bonnaroo, where they played a set of over five hours to 20,000 people.[7][8][9] They played up to 140 shows a year, often to large audiences.[7] Reliance on word of mouth from fans, rather than advertising, allowed this group to sell out venues such as the Bowery Ballroom in New York City before they finally released their much anticipated first album, Launchpad, in early 2004, on which they worked with producer Tom Rothrock.[4][7][10][11] In April and May 2005 the group toured with former Grateful Dead drummer Mickey Hart as Hydra;[3][12][13] the tour received mixed reviews from many Deadheads who were unaccustomed to Particle's electronic-based approach. Bassist Phil Lesh, also of the Grateful Dead, sat in with the band that summer.\n",
+      "They followed Launchpad with the EP Launchpad Remixes, featuring tracks from the album remixed by members of Groove Armada and Sugar Daddy.[14] In 2005 the band toured Europe for the first time.[14]\n"
+   ]
 }

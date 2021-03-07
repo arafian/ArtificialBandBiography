@@ -1,9 +1,23 @@
 {
-   "Band members": {
-      "Timeline": {}
+   "Name": "Envy on the Coast",
+   "Sections": [
+      "1 History",
+      "1.1 2003–2005: Formation",
+      "1.2 2006-2008: Self-titled EP and Lucy Gray",
+      "1.3 2009–2010: Lowcountry",
+      "1.4 2010–2014: Breakup, hiatus and new projects",
+      "1.5 2016-2020: Reincarnation",
+      "2 Band members",
+      "2.1 Timeline",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Envy on the Coast are a post-hardcore band from Long Island, New York.[3] They released their second full length, Lowcountry, in March 2010.\n"
+      ]
    },
-   "Discography": {},
-   "External links": {},
    "History": {
       "2003–2005: Formation": {
          "text": [
@@ -53,24 +67,16 @@
          ]
       }
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 2003–2005: Formation",
-      "1.2 2006-2008: Self-titled EP and Lucy Gray",
-      "1.3 2009–2010: Lowcountry",
-      "1.4 2010–2014: Breakup, hiatus and new projects",
-      "1.5 2016-2020: Reincarnation",
-      "2 Band members",
-      "2.1 Timeline",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Envy on the Coast are a post-hardcore band from Long Island, New York.[3] They released their second full length, Lowcountry, in March 2010.\n"
-      ]
+   "Band members": {
+      "Timeline": {}
    },
-   "Title": "Envy on the Coast - Wikipedia"
+   "Discography": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Envy on the Coast are a post-hardcore band from Long Island, New York.[3] They released their second full length, Lowcountry, in March 2010.\n",
+      "The members of Envy on the Coast began playing together in 2003, though not under that name. Initially, Ryan Hunter replaced Brian Byrne after Brian left New York to study at Berklee College of Music. In 2005, the band recruited drummer Dan Gluszak, and played their first official show in July 2005.\n",
+      "The band caught the ear of producer Bryan Russell, who recorded a five-song, self-titled EP with Envy on the Coast, which was officially released on September 19, 2006, on Photo Finish Records.[4]\n",
+      "Envy on the Coast spent 2006 supporting their EP on tour with Saosin, 30 Seconds to Mars,[5] and Angels and Airwaves, before retreating to Windham, NY to begin writing their first full-length record.\n"
+   ]
 }

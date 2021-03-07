@@ -1,11 +1,5 @@
 {
-   "Band members": {},
-   "Discography": {
-      "Live album": {},
-      "Studio albums": {}
-   },
-   "External links": {},
-   "References": {},
+   "Name": "SouthGang",
    "Sections": [
       "1 Band members",
       "2 Discography",
@@ -15,7 +9,6 @@
       "4 References",
       "5 External links"
    ],
-   "Singles": {},
    "Summary": {
       "text": [
          "SouthGang was a Los Angeles-based rock band composed of lead vocalist Jesse Harte, guitarist Butch Walker, bassist Jayce Fincher, and drummer Mitch \"Slug\" McLee, active in the late 1980s and early 1990s.  The band's original name was Byte the Bullet, which was changed to SouthGang before they released their first album, Tainted Angel. They had a similar style to many of the other \"hair bands\" of the era. The band is best remembered for their 1991 single \"Tainted Angel,\" which received some MTV airplay, especially during Headbanger's Ball.\n",
@@ -27,5 +20,18 @@
          "Jayce Fincher is married to Christina Lloree-Fincher with a couple of children.  He is working at a church in Atlanta as the musical production \"go to\" person.  He also works with the middle school ministry.\n"
       ]
    },
-   "Title": "SouthGang - Wikipedia"
+   "Band members": {},
+   "Discography": {
+      "Studio albums": {},
+      "Live album": {}
+   },
+   "Singles": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "SouthGang was a Los Angeles-based rock band composed of lead vocalist Jesse Harte, guitarist Butch Walker, bassist Jayce Fincher, and drummer Mitch \"Slug\" McLee, active in the late 1980s and early 1990s.  The band's original name was Byte the Bullet, which was changed to SouthGang before they released their first album, Tainted Angel. They had a similar style to many of the other \"hair bands\" of the era. The band is best remembered for their 1991 single \"Tainted Angel,\" which received some MTV airplay, especially during Headbanger's Ball.\n",
+      "Tainted Angel was produced by Howard Benson and Desmond Child.\n",
+      "After the band's breakup in the mid-1990s, Butch Walker, Jayce Fincher, and Mitch McLee went on to form power pop band Marvelous 3, scoring a minor hit with \"Freak of the Week\" in 1998.\n",
+      "More recently, Butch Walker has had a successful solo music career, as well as written and produced hits for many of today's pop and rock artists such as Fall Out Boy, Panic! at the Disco & Bowling for Soup.\n"
+   ]
 }

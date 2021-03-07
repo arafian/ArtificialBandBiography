@@ -1,5 +1,31 @@
 {
-   "Band members": {},
+   "Name": "The Drums",
+   "Sections": [
+      "1 Formation",
+      "2 Career",
+      "3 Influences",
+      "4 Solo projects",
+      "5 Band members",
+      "6 Discography",
+      "6.1 Studio albums",
+      "6.2 Extended plays",
+      "6.3 Singles",
+      "6.4 Guest appearances",
+      "7 Music videos",
+      "8 References",
+      "9 External links"
+   ],
+   "Summary": {
+      "text": [
+         "The Drums are an American indie pop band from New York City.\n"
+      ]
+   },
+   "Formation": {
+      "text": [
+         "Founding members Jonathan (Jonny) Pierce and Jacob Graham became friends as children, having met at Bible camp at age 11 or 12.[citation needed] Some years later, they formed a short-lived electro-pop group initially named Goat Explosion, eventually renamed Elkland. They released one album, Golden, in 2005 and garnered interest with the single \"Apart\".\n",
+         "In 2008, Pierce and Graham came up with the concept for The Drums, and Pierce moved to Kissimmee, Florida, where Graham resided at the time, so that they could more readily collaborate. They then moved to Brooklyn, in the spring of 2009, where drummer Connor Hanwick and former Elkland guitarist Adam Kessler joined the band to complete their live sound. The band had their first gig within a week of arriving in Brooklyn at Cake Shop NYC as part of the NYC Pop Fest.[4] In October 2009, the band released their first EP, Summertime!.\n"
+      ]
+   },
    "Career": {
       "text": [
          "In December 2009 the band was shortlisted as one of the 15 music acts for the BBC Sound of 2010. Subsequently, they placed at No. 5 in this list on 4 January 2010.  In NME's first issue of 2010 they were named number 1 in the magazine's top tips for the year as well as in Clash Magazine's Tips for 2010. The Drums were also voted \"Best Hope for 2010\" in Pitchfork's 2009 Readers' Poll.[5] They won the Hall Radar Award[6] for 2010 and were the most Shazamed band of 2009.[7]\n",
@@ -19,54 +45,34 @@
          "On December 11, 2020 The Drums released a 3 track titled \"Ambulance\" \nwith Johnny Pierce appearing as a single artist.\n"
       ]
    },
-   "Discography": {
-      "Extended plays": {},
-      "Guest appearances": {
-         "text": [
-            "Notes:\n"
-         ]
-      },
-      "Singles": {},
-      "Studio albums": {}
-   },
-   "External links": {},
-   "Formation": {
-      "text": [
-         "Founding members Jonathan (Jonny) Pierce and Jacob Graham became friends as children, having met at Bible camp at age 11 or 12.[citation needed] Some years later, they formed a short-lived electro-pop group initially named Goat Explosion, eventually renamed Elkland. They released one album, Golden, in 2005 and garnered interest with the single \"Apart\".\n",
-         "In 2008, Pierce and Graham came up with the concept for The Drums, and Pierce moved to Kissimmee, Florida, where Graham resided at the time, so that they could more readily collaborate. They then moved to Brooklyn, in the spring of 2009, where drummer Connor Hanwick and former Elkland guitarist Adam Kessler joined the band to complete their live sound. The band had their first gig within a week of arriving in Brooklyn at Cake Shop NYC as part of the NYC Pop Fest.[4] In October 2009, the band released their first EP, Summertime!.\n"
-      ]
-   },
    "Influences": {
       "text": [
          "The band cite their major influences as The Wake, The Smiths, Joy Division/New Order, The Tough Alliance, The Legends, The Shangri-las, Starflyer 59, Joy Electric, The Embassy and Orange Juice.[14]\nGraham also mentions that reverb in general has played a major role in their sound: \"...If reverb didn't exist we wouldn't have bothered trying to start a band.\"[15]\n"
       ]
    },
-   "Music videos": {},
-   "References": {},
-   "Sections": [
-      "1 Formation",
-      "2 Career",
-      "3 Influences",
-      "4 Solo projects",
-      "5 Band members",
-      "6 Discography",
-      "6.1 Studio albums",
-      "6.2 Extended plays",
-      "6.3 Singles",
-      "6.4 Guest appearances",
-      "7 Music videos",
-      "8 References",
-      "9 External links"
-   ],
    "Solo projects": {
       "text": [
          "Both members of The Drums have announced solo records in the works for release in 2013. Jonathan under the name Jonny Pierce, and Jacob as Cascading Slopes. In December, Pierce said in an interview with NME \"I wanted to be as self-indulgent as possible with this album. This is pop done the way I think it should be done.\"[16] The album was never completed  however. Instead, Jonny Pierce announced that The Drums had entered the studio and wanted to release a Drums record instead. Cascading Slopes completed the album Towards a Quaker View of Synthesizers in 2013 and it was released in the fall through Plastiq Musiq. Graham described the musical approach on that album, saying \"The concept is to write very simple, personal, folk songs but to do it with only old, analog synthesizers\".[17]\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "The Drums are an American indie pop band from New York City.\n"
-      ]
+   "Band members": {},
+   "Discography": {
+      "Studio albums": {},
+      "Extended plays": {},
+      "Singles": {},
+      "Guest appearances": {
+         "text": [
+            "Notes:\n"
+         ]
+      }
    },
-   "Title": "The Drums - Wikipedia"
+   "Music videos": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Drums are an American indie pop band from New York City.\n",
+      "Founding members Jonathan (Jonny) Pierce and Jacob Graham became friends as children, having met at Bible camp at age 11 or 12.[citation needed] Some years later, they formed a short-lived electro-pop group initially named Goat Explosion, eventually renamed Elkland. They released one album, Golden, in 2005 and garnered interest with the single \"Apart\".\n",
+      "In 2008, Pierce and Graham came up with the concept for The Drums, and Pierce moved to Kissimmee, Florida, where Graham resided at the time, so that they could more readily collaborate. They then moved to Brooklyn, in the spring of 2009, where drummer Connor Hanwick and former Elkland guitarist Adam Kessler joined the band to complete their live sound. The band had their first gig within a week of arriving in Brooklyn at Cake Shop NYC as part of the NYC Pop Fest.[4] In October 2009, the band released their first EP, Summertime!.\n",
+      "In December 2009 the band was shortlisted as one of the 15 music acts for the BBC Sound of 2010. Subsequently, they placed at No. 5 in this list on 4 January 2010.  In NME's first issue of 2010 they were named number 1 in the magazine's top tips for the year as well as in Clash Magazine's Tips for 2010. The Drums were also voted \"Best Hope for 2010\" in Pitchfork's 2009 Readers' Poll.[5] They won the Hall Radar Award[6] for 2010 and were the most Shazamed band of 2009.[7]\n"
+   ]
 }

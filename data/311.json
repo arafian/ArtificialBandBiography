@@ -1,14 +1,20 @@
 {
-   "Discography": {
-      "Albums": {
-         "text": [
-            "As The Collectors (Pre-Chilliwack)\n",
-            "Chilliwack\n"
-         ]
-      },
-      "Singles": {}
+   "Name": "Chilliwack (band)",
+   "Sections": [
+      "1 History",
+      "1.1 Headpins",
+      "2 Discography",
+      "2.1 Albums",
+      "2.2 Singles",
+      "3 See also",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Chilliwack is a Canadian rock band centered on the singer and guitarist Bill Henderson, which started off with a more progressive rock sound that incorporated elements of folk, indigenous, jazz and blues, before moving towards a more straight-ahead hard rock/pop rock sound by the mid-70s. They were active from 1970 to 1988. Henderson reformed the band in 1997. Their six best-selling songs were \"My Girl (Gone, Gone, Gone)\",[3] \"I Believe\", \"Whatcha Gonna Do\", \"Fly at Night\", \"Crazy Talk\", and \"Lonesome Mary\".  The band's lineup has changed many times while they have continued to tour across Canada.\n"
+      ]
    },
-   "External links": {},
    "History": {
       "Headpins": {
          "text": [
@@ -44,22 +50,22 @@
          "Matt Bryant, son of former Chilliwack bass player Ab Bryant, is the singer/songwriter and founding member of Canadian roots/folk band Headwater.\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Headpins",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 Singles",
-      "3 See also",
-      "4 References",
-      "5 External links"
-   ],
-   "See also": {},
-   "Summary": {
-      "text": [
-         "Chilliwack is a Canadian rock band centered on the singer and guitarist Bill Henderson, which started off with a more progressive rock sound that incorporated elements of folk, indigenous, jazz and blues, before moving towards a more straight-ahead hard rock/pop rock sound by the mid-70s. They were active from 1970 to 1988. Henderson reformed the band in 1997. Their six best-selling songs were \"My Girl (Gone, Gone, Gone)\",[3] \"I Believe\", \"Whatcha Gonna Do\", \"Fly at Night\", \"Crazy Talk\", and \"Lonesome Mary\".  The band's lineup has changed many times while they have continued to tour across Canada.\n"
-      ]
+   "Discography": {
+      "Albums": {
+         "text": [
+            "As The Collectors (Pre-Chilliwack)\n",
+            "Chilliwack\n"
+         ]
+      },
+      "Singles": {}
    },
-   "Title": "Chilliwack (band) - Wikipedia"
+   "See also": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Chilliwack is a Canadian rock band centered on the singer and guitarist Bill Henderson, which started off with a more progressive rock sound that incorporated elements of folk, indigenous, jazz and blues, before moving towards a more straight-ahead hard rock/pop rock sound by the mid-70s. They were active from 1970 to 1988. Henderson reformed the band in 1997. Their six best-selling songs were \"My Girl (Gone, Gone, Gone)\",[3] \"I Believe\", \"Whatcha Gonna Do\", \"Fly at Night\", \"Crazy Talk\", and \"Lonesome Mary\".  The band's lineup has changed many times while they have continued to tour across Canada.\n",
+      "The band originated in Vancouver, British Columbia.   The members of the C-FUN Classics[4] changed the band's name to The Collectors when Bill Henderson joined in 1966.[5] Their psychedelic self-titled debut album yielded the minor hit \"Lydia Purple\". Their second album was based on the musical score written by the band for a stage play by Canadian playwright George Ryga, Grass and Wild Strawberries.\n",
+      "Vocalist Howie Vickers left the Collectors in 1969; the remaining members formed the band Chilliwack in 1970,[6][7] Chilliwack being a Salish term meaning \"valley of many streams\" and the name of a city east of Vancouver in the Fraser River valley.\n",
+      "Lead guitarist Bill Henderson led the remaining former Collectors members: Glenn Miller (bass, guitar, backing vocals), Ross Turney (drums) and Claire Lawrence (flute, saxophone, keyboards, backing vocals);[8] while he provided most of the vocals and did most of the composing. During 1970, Miller briefly left the band, who were joined on the road by Robbie King (keyboards, bass) and played at Expo '70 in Japan and other gigs across Canada.\n"
+   ]
 }

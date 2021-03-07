@@ -1,44 +1,5 @@
 {
-   "Appearances in Media": {
-      "Advertisements[20]": {},
-      "Film": {},
-      "Radio": {
-         "text": [
-            "The band was featured on NPR's \"World Cafe: Next\" in July 2010.[23] \"Mr. Hangman\" off Bears & Bulls was in Power Rotation on X103.9 Phoenix,[24] and Bears & Bulls peaked at No. 4 on FMQB's Sub Modern albums chart, with single \"Stomp\" coming in at No. 7.[25]\n"
-         ]
-      },
-      "TV": {},
-      "Video Games": {}
-   },
-   "Current members[19]": {
-      "Past members": {}
-   },
-   "Discography": {
-      "Albums": {},
-      "Compilation albums": {},
-      "Cover versions": {},
-      "Singles": {}
-   },
-   "External links": {},
-   "History": {
-      "text": [
-         "The Stone Foxes originated in the sleepy foothills of California’s Central Valley where founding members Aaron Mort and brothers Spence Koehler (guitar) and Shannon Koehler (drums, vocals) grew up.[1] After high school, they went to college at San Francisco State University.\n",
-         "A couple of years later, after living with the three founding members and discovering their similar musical tastes, Avi Vinocur (guitar, bass) joined the band.[2]\n",
-         "Formed in late 2005, The Stone Foxes spent their first few years together working on balancing out their musical style. The end product (for now) is a style infused with country, rock, blues, and a touch of San Francisco.[3] The group’s songs are full of classic blues structures and shout-along moments.[4]\n",
-         "In April 2011, keyboardist Elliott Peltzman joined the band. Later that year, they opened for Cage The Elephant and Grammy winners The Black Keys at Mesa Amphitheatre in Phoenix, Arizona. Their cover of Slim Harpo's \"I'm A King Bee\" was featured in the national ad campaign for Jack Daniel's Tennessee Honey.[5]\n",
-         "In 2013, following the departures of Aaron Mort and Avi Vinocur, the band underwent a major change in personnel marked by the additions of multi-instrumentalist Brian Bakalian, singer/guitarist/bassist Vince Dewald, and guitarist/violinist Ben Andrews.[6] The new lineup released the album Small Fires that same year, featuring the singles \"Everybody Knows,\" Ulysses Jones,\" and \"Cotto.\"\n",
-         "On their fourth album, The Stone Foxes took a different approach to releasing their new music, launching Foxes First Friday.[7] Beginning with \"Locomotion\" on September 5, 2014, the band detailed plans to release a new song for free on the first Friday of every month. Coupled with live versions, bonus tracks, and photos from the road, each song was compiled into an album titled Twelve Spells, which was released in August 2015.[8][9] That same year, the band was covered in Forbes for their DIY success that came without the help of a record label.[10]\n",
-         "In February 2016 The Stone Foxes embarked on their first UK tour with Bath-based, Zambian brother duo Bite The Buffalo. Most dates on the tour sold out.[11]\n",
-         "In 2017, the band released the Visalia EP, a collection of songs they created while camping in the town of the same name.[12] Singles included \"Fight,\" \"Shake Like Buddy Holly,\" and the autobiographical \"If I Die Tonight,\" about lead singer/drummer Shannon Koehler's lifelong struggle with a congenital heart condition.[13]\n",
-         "On September 18, 2018 the band announced members Elliott Peltzman, Brian Bakalian, and Vince Dewald would be leaving the band. The band will continue with a new lineup.[14]\n"
-      ]
-   },
-   "Philanthropy": {
-      "text": [
-         "The Stone Foxes have founded the Goodnight Moon Project[15] to combat homelessness.[16][17] The band has also partnered with SuperFood Drive to collect and donate healthy food at their shows to those locally in need.[18]\n"
-      ]
-   },
-   "References": {},
+   "Name": "The Stone Foxes",
    "Sections": [
       "1 History",
       "2 Philanthropy",
@@ -63,5 +24,50 @@
          "The Stone Foxes is an American rock and roll band based in San Francisco, California, United States.\n"
       ]
    },
-   "Title": "The Stone Foxes - Wikipedia"
+   "History": {
+      "text": [
+         "The Stone Foxes originated in the sleepy foothills of California’s Central Valley where founding members Aaron Mort and brothers Spence Koehler (guitar) and Shannon Koehler (drums, vocals) grew up.[1] After high school, they went to college at San Francisco State University.\n",
+         "A couple of years later, after living with the three founding members and discovering their similar musical tastes, Avi Vinocur (guitar, bass) joined the band.[2]\n",
+         "Formed in late 2005, The Stone Foxes spent their first few years together working on balancing out their musical style. The end product (for now) is a style infused with country, rock, blues, and a touch of San Francisco.[3] The group’s songs are full of classic blues structures and shout-along moments.[4]\n",
+         "In April 2011, keyboardist Elliott Peltzman joined the band. Later that year, they opened for Cage The Elephant and Grammy winners The Black Keys at Mesa Amphitheatre in Phoenix, Arizona. Their cover of Slim Harpo's \"I'm A King Bee\" was featured in the national ad campaign for Jack Daniel's Tennessee Honey.[5]\n",
+         "In 2013, following the departures of Aaron Mort and Avi Vinocur, the band underwent a major change in personnel marked by the additions of multi-instrumentalist Brian Bakalian, singer/guitarist/bassist Vince Dewald, and guitarist/violinist Ben Andrews.[6] The new lineup released the album Small Fires that same year, featuring the singles \"Everybody Knows,\" Ulysses Jones,\" and \"Cotto.\"\n",
+         "On their fourth album, The Stone Foxes took a different approach to releasing their new music, launching Foxes First Friday.[7] Beginning with \"Locomotion\" on September 5, 2014, the band detailed plans to release a new song for free on the first Friday of every month. Coupled with live versions, bonus tracks, and photos from the road, each song was compiled into an album titled Twelve Spells, which was released in August 2015.[8][9] That same year, the band was covered in Forbes for their DIY success that came without the help of a record label.[10]\n",
+         "In February 2016 The Stone Foxes embarked on their first UK tour with Bath-based, Zambian brother duo Bite The Buffalo. Most dates on the tour sold out.[11]\n",
+         "In 2017, the band released the Visalia EP, a collection of songs they created while camping in the town of the same name.[12] Singles included \"Fight,\" \"Shake Like Buddy Holly,\" and the autobiographical \"If I Die Tonight,\" about lead singer/drummer Shannon Koehler's lifelong struggle with a congenital heart condition.[13]\n",
+         "On September 18, 2018 the band announced members Elliott Peltzman, Brian Bakalian, and Vince Dewald would be leaving the band. The band will continue with a new lineup.[14]\n"
+      ]
+   },
+   "Philanthropy": {
+      "text": [
+         "The Stone Foxes have founded the Goodnight Moon Project[15] to combat homelessness.[16][17] The band has also partnered with SuperFood Drive to collect and donate healthy food at their shows to those locally in need.[18]\n"
+      ]
+   },
+   "Current members[19]": {
+      "Past members": {}
+   },
+   "Appearances in Media": {
+      "TV": {},
+      "Film": {},
+      "Advertisements[20]": {},
+      "Video Games": {},
+      "Radio": {
+         "text": [
+            "The band was featured on NPR's \"World Cafe: Next\" in July 2010.[23] \"Mr. Hangman\" off Bears & Bulls was in Power Rotation on X103.9 Phoenix,[24] and Bears & Bulls peaked at No. 4 on FMQB's Sub Modern albums chart, with single \"Stomp\" coming in at No. 7.[25]\n"
+         ]
+      }
+   },
+   "Discography": {
+      "Albums": {},
+      "Compilation albums": {},
+      "Singles": {},
+      "Cover versions": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Stone Foxes is an American rock and roll band based in San Francisco, California, United States.\n",
+      "The Stone Foxes originated in the sleepy foothills of California’s Central Valley where founding members Aaron Mort and brothers Spence Koehler (guitar) and Shannon Koehler (drums, vocals) grew up.[1] After high school, they went to college at San Francisco State University.\n",
+      "A couple of years later, after living with the three founding members and discovering their similar musical tastes, Avi Vinocur (guitar, bass) joined the band.[2]\n",
+      "Formed in late 2005, The Stone Foxes spent their first few years together working on balancing out their musical style. The end product (for now) is a style infused with country, rock, blues, and a touch of San Francisco.[3] The group’s songs are full of classic blues structures and shout-along moments.[4]\n"
+   ]
 }

@@ -1,24 +1,5 @@
 {
-   "Band members": {
-      "text": [
-         "Current touring members\n",
-         "Former touring members\n"
-      ]
-   },
-   "Discography": {
-      "EPs": {},
-      "Singles": {},
-      "Studio albums": {}
-   },
-   "External links": {},
-   "Reception": {
-      "text": [
-         "Girlpool's eponymous EP received generally favorable reviews from critics, with a weighted average score of 79 on Metacritic.[6] In his review of this EP, Chris Conaton compared their sound to \"an angrier, socially conscious Kimya Dawson.\"[7]\n",
-         "Before the World Was Big also received generally favorable reviews from critics, with a 79 out of 100 score on Metacritic.[8] For example, Pitchfork Media's Jayson Greene gave it a score of 7.8 out of 10 and described it as \"a quiet album of uncommon intensity.\"[9]\n",
-         "Their second LP, Powerplant, received an 8.3 by Jillian Mapes on Pitchfork. Mapes described their new sounds as \"echoing second-wave emo sourness (“Your Heart”), Britpop jangle (“She Goes By”), and classic alt-rock loud-quiet-loudness throughout\".[10]\n"
-      ]
-   },
-   "References": {},
+   "Name": "Girlpool",
    "Sections": [
       "1 Reception",
       "2 Band members",
@@ -34,5 +15,30 @@
          "Girlpool is an indie rock band from Los Angeles, California, formed by friends Avery Tucker and Harmony Tividad.[2][3] Their self-titled debut EP was posted on their Bandcamp account in February 2014, and re-released on Wichita Recordings later that year.[4] The band released its debut album, Before the World Was Big, in June 2015, also on Wichita Recordings.[5] Their second album, Powerplant, was released in May 2017, via Anti-.\n"
       ]
    },
-   "Title": "Girlpool - Wikipedia"
+   "Reception": {
+      "text": [
+         "Girlpool's eponymous EP received generally favorable reviews from critics, with a weighted average score of 79 on Metacritic.[6] In his review of this EP, Chris Conaton compared their sound to \"an angrier, socially conscious Kimya Dawson.\"[7]\n",
+         "Before the World Was Big also received generally favorable reviews from critics, with a 79 out of 100 score on Metacritic.[8] For example, Pitchfork Media's Jayson Greene gave it a score of 7.8 out of 10 and described it as \"a quiet album of uncommon intensity.\"[9]\n",
+         "Their second LP, Powerplant, received an 8.3 by Jillian Mapes on Pitchfork. Mapes described their new sounds as \"echoing second-wave emo sourness (“Your Heart”), Britpop jangle (“She Goes By”), and classic alt-rock loud-quiet-loudness throughout\".[10]\n"
+      ]
+   },
+   "Band members": {
+      "text": [
+         "Current touring members\n",
+         "Former touring members\n"
+      ]
+   },
+   "Discography": {
+      "Studio albums": {},
+      "EPs": {},
+      "Singles": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Girlpool is an indie rock band from Los Angeles, California, formed by friends Avery Tucker and Harmony Tividad.[2][3] Their self-titled debut EP was posted on their Bandcamp account in February 2014, and re-released on Wichita Recordings later that year.[4] The band released its debut album, Before the World Was Big, in June 2015, also on Wichita Recordings.[5] Their second album, Powerplant, was released in May 2017, via Anti-.\n",
+      "Girlpool's eponymous EP received generally favorable reviews from critics, with a weighted average score of 79 on Metacritic.[6] In his review of this EP, Chris Conaton compared their sound to \"an angrier, socially conscious Kimya Dawson.\"[7]\n",
+      "Before the World Was Big also received generally favorable reviews from critics, with a 79 out of 100 score on Metacritic.[8] For example, Pitchfork Media's Jayson Greene gave it a score of 7.8 out of 10 and described it as \"a quiet album of uncommon intensity.\"[9]\n",
+      "Their second LP, Powerplant, received an 8.3 by Jillian Mapes on Pitchfork. Mapes described their new sounds as \"echoing second-wave emo sourness (“Your Heart”), Britpop jangle (“She Goes By”), and classic alt-rock loud-quiet-loudness throughout\".[10]\n"
+   ]
 }

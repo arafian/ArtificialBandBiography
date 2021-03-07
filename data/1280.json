@@ -1,16 +1,5 @@
 {
-   "Band members": {
-      "text": [
-         "[2]\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "Compilation albums": {},
-      "Singles and EPs": {}
-   },
-   "External links": {},
-   "References": {},
+   "Name": "Shattered Faith",
    "Sections": [
       "1 Band members",
       "2 Discography",
@@ -25,5 +14,20 @@
          "Shattered Faith is an American punk rock band from Southern California, United States. Formed in 1978 by Kerry Martinez, currently guitarist for U.S. Bombs, and Spencer Bartsch, now lead vocalist for Firecracker 500, the group featured songs with a political and biblical bent. Shattered Faith emerged from the Southern California punk scene, among the more notable bands China White and The Vandals, along with other SoCal punk rock bands.[1]\n"
       ]
    },
-   "Title": "Shattered Faith - Wikipedia"
+   "Band members": {
+      "text": [
+         "[2]\n"
+      ]
+   },
+   "Discography": {
+      "Albums": {},
+      "Singles and EPs": {},
+      "Compilation albums": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Shattered Faith is an American punk rock band from Southern California, United States. Formed in 1978 by Kerry Martinez, currently guitarist for U.S. Bombs, and Spencer Bartsch, now lead vocalist for Firecracker 500, the group featured songs with a political and biblical bent. Shattered Faith emerged from the Southern California punk scene, among the more notable bands China White and The Vandals, along with other SoCal punk rock bands.[1]\n",
+      "[2]\n"
+   ]
 }

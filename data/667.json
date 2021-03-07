@@ -1,14 +1,23 @@
 {
-   "Band members": {
+   "Name": "Go Betty Go",
+   "Sections": [
+      "1 History",
+      "1.1 Early years",
+      "1.2 Lineup changes",
+      "1.3 Recent events",
+      "2 Notability",
+      "2.1 American Idol",
+      "3 Band members",
+      "4 Discography",
+      "5 See also",
+      "6 References",
+      "7 External links"
+   ],
+   "Summary": {
       "text": [
-         "Current members\n",
-         "\n",
-         "Former members\n",
-         "\n"
+         "Go Betty Go is an all-female pop punk band from Los Angeles that, along with bands such as Union 13, Los Abandoned, The Dollyrots,  and Left Alone, have been prominent in the Southern California Chicano Punk scene that started in the mid-2000s and continues today.[1][2]\n"
       ]
    },
-   "Discography": {},
-   "External links": {},
    "History": {
       "Early years": {
          "text": [
@@ -40,25 +49,22 @@
          "Featured Works:\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Early years",
-      "1.2 Lineup changes",
-      "1.3 Recent events",
-      "2 Notability",
-      "2.1 American Idol",
-      "3 Band members",
-      "4 Discography",
-      "5 See also",
-      "6 References",
-      "7 External links"
-   ],
-   "See also": {},
-   "Summary": {
+   "Band members": {
       "text": [
-         "Go Betty Go is an all-female pop punk band from Los Angeles that, along with bands such as Union 13, Los Abandoned, The Dollyrots,  and Left Alone, have been prominent in the Southern California Chicano Punk scene that started in the mid-2000s and continues today.[1][2]\n"
+         "Current members\n",
+         "\n",
+         "Former members\n",
+         "\n"
       ]
    },
-   "Title": "Go Betty Go - Wikipedia"
+   "Discography": {},
+   "See also": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Go Betty Go is an all-female pop punk band from Los Angeles that, along with bands such as Union 13, Los Abandoned, The Dollyrots,  and Left Alone, have been prominent in the Southern California Chicano Punk scene that started in the mid-2000s and continues today.[1][2]\n",
+      "The band formed in Glendale, California on January 1, 2000 and originally consisted of Nicolette Vilar (lead vocals), Betty Cisneros (guitar), Aixa Vilar (drums), and Michelle Rangel (bass). Nicolette and Aixa are sisters.[3] The name originates from a phrase the band used to chant to try to get guitarist, Betty Cisneros, to start a song.[4][5]\n",
+      "The band released two CDs for SideOneDummy Records.  The first was \"Worst Enemy\"[6] in 2004. The second was \"Nothing Is More\", produced by Flogging Molly’s Ted Hutt,[7][8] in 2005.  They also took part in the Warped Tours of 2004 and 2005.[9][10][11][12][13]\n",
+      "In February 2006, lead vocalist Nicolette Vilar left the band, causing them to cancel the end of their current tour.[14]  After holding auditions, in May 2006 a replacement was found in Emily Wynne-Hughes.[15][16]\n"
+   ]
 }

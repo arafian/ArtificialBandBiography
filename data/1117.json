@@ -1,4 +1,22 @@
 {
+   "Name": "Agent Steel",
+   "Sections": [
+      "1 Biography",
+      "1.1 Early years and split (1984–1988)",
+      "1.2 First reformation (1998–2009)",
+      "1.3 Reunion with John Cyriis and second hiatus (2010–2011)",
+      "1.4 Second reformation (2018–present)",
+      "2 Discography",
+      "3 Members",
+      "3.1 Current Members",
+      "3.2 Former Members",
+      "4 References"
+   ],
+   "Summary": {
+      "text": [
+         "Agent Steel is an American speed metal band from Los Angeles, California, United States, formed in 1984 by vocalist John Cyriis with drummer Chuck Profus. The band released two full-length albums, and one EP before disbanding in 1988. They were most notable for Cyriis' high-pitched vocals, catchy songs, melodic riffs, and fast tempos mixed in with interest in UFOs. Agent Steel reformed in 1998 (without Cyriis, although he would return to the band in 2010, only to leave again in 2011) and released three more full-length albums before going on hiatus in 2011. The band reformed again in 2018, this time with Cyriis returning as the vocalist and without the previous members, and they will release their first studio album in 14 years, No Other Godz Before Me, in 2021.[1]\n"
+      ]
+   },
    "Biography": {
       "Early years and split (1984–1988)": {
          "text": [
@@ -50,22 +68,10 @@
       }
    },
    "References": {},
-   "Sections": [
-      "1 Biography",
-      "1.1 Early years and split (1984–1988)",
-      "1.2 First reformation (1998–2009)",
-      "1.3 Reunion with John Cyriis and second hiatus (2010–2011)",
-      "1.4 Second reformation (2018–present)",
-      "2 Discography",
-      "3 Members",
-      "3.1 Current Members",
-      "3.2 Former Members",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "Agent Steel is an American speed metal band from Los Angeles, California, United States, formed in 1984 by vocalist John Cyriis with drummer Chuck Profus. The band released two full-length albums, and one EP before disbanding in 1988. They were most notable for Cyriis' high-pitched vocals, catchy songs, melodic riffs, and fast tempos mixed in with interest in UFOs. Agent Steel reformed in 1998 (without Cyriis, although he would return to the band in 2010, only to leave again in 2011) and released three more full-length albums before going on hiatus in 2011. The band reformed again in 2018, this time with Cyriis returning as the vocalist and without the previous members, and they will release their first studio album in 14 years, No Other Godz Before Me, in 2021.[1]\n"
-      ]
-   },
-   "Title": "Agent Steel - Wikipedia"
+   "coreData": [
+      "Agent Steel is an American speed metal band from Los Angeles, California, United States, formed in 1984 by vocalist John Cyriis with drummer Chuck Profus. The band released two full-length albums, and one EP before disbanding in 1988. They were most notable for Cyriis' high-pitched vocals, catchy songs, melodic riffs, and fast tempos mixed in with interest in UFOs. Agent Steel reformed in 1998 (without Cyriis, although he would return to the band in 2010, only to leave again in 2011) and released three more full-length albums before going on hiatus in 2011. The band reformed again in 2018, this time with Cyriis returning as the vocalist and without the previous members, and they will release their first studio album in 14 years, No Other Godz Before Me, in 2021.[1]\n",
+      "[2]\n",
+      "Agent Steel was formed by John Cyriis shortly after his firing from Megadeth in 1984, as guitarist and now lead vocalist Dave Mustaine was against the idea of playing the “Aliens Card.”[3] In all actuality, however, Agent Steel does not exclusively touch upon subjective matter relating to the possibility of life existing on other galaxies — but instead the philosophical format of the band was presented in a form of a polemic.\n",
+      "The first legal registration of the name Agent Steel was registered by Cyriis on July 23, 1984 as a DBA at the Los Angeles County Clerk's Office. Beforehand, however, Agent Steel was initially named Sanctuary.\n"
+   ]
 }

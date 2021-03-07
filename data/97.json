@@ -1,16 +1,5 @@
 {
-   "Band members": {},
-   "Discography": {},
-   "External links": {},
-   "History": {
-      "text": [
-         "Psychefunkapus formed in the San Geronimo Valley, in California, in 1986 and achieved a rise to prominence in San Francisco clubs by 1988. The Deftones' first gig was opening for Psychefunkapus, and other well-known artists such as Green Day and No Doubt have opened for them as well. Psychefunkapus in turn has opened for Pearl Jam, The Sugarcubes, Was Not Was, Steel Pole Bathtub, The Beatnigs, The Charlatans, and The Vandals.[2]\n",
-         "Their first, self-titled album featured a dual vocal lineup consisting of Gene Genie and Manny Martinez. Their second album, Skin featured only Manny Martinez on vocals. That album was produced by Jerry Harrison at Studio D in Sausalito and the Record Plant in California. Dick Dale and Bernie Worrell both contributed tracks to several songs on the album.[2]\n",
-         "The band toured the U.S. after recording their second album.[2]\n",
-         "Psychefunkapus reunited to raise funds for L.A.'s City of Hope Cancer Center January 2, 2010 at Slim's in San Francisco.\n"
-      ]
-   },
-   "References": {},
+   "Name": "Psychefunkapus",
    "Sections": [
       "1 History",
       "2 Band members",
@@ -23,5 +12,22 @@
          "Psychefunkapus was a funk metal band from the San Francisco Bay Area that released two albums for Atlantic Records in the early nineties. They got their name from their love of psychedelic music and a reference to a P-Funk song warning the coming of the \"Funkapus\".\n"
       ]
    },
-   "Title": "Psychefunkapus - Wikipedia"
+   "History": {
+      "text": [
+         "Psychefunkapus formed in the San Geronimo Valley, in California, in 1986 and achieved a rise to prominence in San Francisco clubs by 1988. The Deftones' first gig was opening for Psychefunkapus, and other well-known artists such as Green Day and No Doubt have opened for them as well. Psychefunkapus in turn has opened for Pearl Jam, The Sugarcubes, Was Not Was, Steel Pole Bathtub, The Beatnigs, The Charlatans, and The Vandals.[2]\n",
+         "Their first, self-titled album featured a dual vocal lineup consisting of Gene Genie and Manny Martinez. Their second album, Skin featured only Manny Martinez on vocals. That album was produced by Jerry Harrison at Studio D in Sausalito and the Record Plant in California. Dick Dale and Bernie Worrell both contributed tracks to several songs on the album.[2]\n",
+         "The band toured the U.S. after recording their second album.[2]\n",
+         "Psychefunkapus reunited to raise funds for L.A.'s City of Hope Cancer Center January 2, 2010 at Slim's in San Francisco.\n"
+      ]
+   },
+   "Band members": {},
+   "Discography": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Psychefunkapus was a funk metal band from the San Francisco Bay Area that released two albums for Atlantic Records in the early nineties. They got their name from their love of psychedelic music and a reference to a P-Funk song warning the coming of the \"Funkapus\".\n",
+      "Psychefunkapus formed in the San Geronimo Valley, in California, in 1986 and achieved a rise to prominence in San Francisco clubs by 1988. The Deftones' first gig was opening for Psychefunkapus, and other well-known artists such as Green Day and No Doubt have opened for them as well. Psychefunkapus in turn has opened for Pearl Jam, The Sugarcubes, Was Not Was, Steel Pole Bathtub, The Beatnigs, The Charlatans, and The Vandals.[2]\n",
+      "Their first, self-titled album featured a dual vocal lineup consisting of Gene Genie and Manny Martinez. Their second album, Skin featured only Manny Martinez on vocals. That album was produced by Jerry Harrison at Studio D in Sausalito and the Record Plant in California. Dick Dale and Bernie Worrell both contributed tracks to several songs on the album.[2]\n",
+      "The band toured the U.S. after recording their second album.[2]\n"
+   ]
 }

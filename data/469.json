@@ -1,4 +1,8 @@
 {
+   "Name": "Mu5tard",
+   "Sections": [
+      "Summary"
+   ],
    "Summary": {
       "text": [
          "Mu5tard is a Christian rock band best known for their song \"Resilient\" that charted in Christian rock radio in 2004. The band was formed in 1998 by brothers Mark Gove and Cole Gove (a.k.a. Manley Cole Gove Jr.). The band released two albums Time Will Tell in 1999 and \"Electra Glide\" in 2003.\n",
@@ -6,5 +10,11 @@
          "In 2001 at Kingdom Bound Festival in Darien Lake, New York, they were in the \"Battle of the Bands\" receiving 2nd place. Mu5tard was also invited to take part in Atlanta Fest's \"Battle of the Bands\" in 2001.\n",
          "Mu5tard toured extensively in the northeast and up and down the east coast from 1998 to 2005. The band performed at the Inside Out Soul Festival (now known as the Soul Festival) from 1998 to 2001 and again in 2003 and 2004.  The band toured nationally as part of the Extreme Tour in 2004 sharing the stage with acts such as Dizmas, Rock and Roll Worship Circus, Spoken and many others. Due to the departure of bassist Moses Lizotte in 2001, and guitarists Aaron X (a.k.a. Aaron Weeden) and Jeremy Buckley in 2004, brothers Kevin and Kyle Brennan of OneWallRoom were brought in on bass and guitar.\n"
       ]
-   }
+   },
+   "coreData": [
+      "Mu5tard is a Christian rock band best known for their song \"Resilient\" that charted in Christian rock radio in 2004. The band was formed in 1998 by brothers Mark Gove and Cole Gove (a.k.a. Manley Cole Gove Jr.). The band released two albums Time Will Tell in 1999 and \"Electra Glide\" in 2003.\n",
+      "Michael Sweet (from Stryper) produced their album Electra Glide and also performed on the album.  \n",
+      "In 2001 at Kingdom Bound Festival in Darien Lake, New York, they were in the \"Battle of the Bands\" receiving 2nd place. Mu5tard was also invited to take part in Atlanta Fest's \"Battle of the Bands\" in 2001.\n",
+      "Mu5tard toured extensively in the northeast and up and down the east coast from 1998 to 2005. The band performed at the Inside Out Soul Festival (now known as the Soul Festival) from 1998 to 2001 and again in 2003 and 2004.  The band toured nationally as part of the Extreme Tour in 2004 sharing the stage with acts such as Dizmas, Rock and Roll Worship Circus, Spoken and many others. Due to the departure of bassist Moses Lizotte in 2001, and guitarists Aaron X (a.k.a. Aaron Weeden) and Jeremy Buckley in 2004, brothers Kevin and Kyle Brennan of OneWallRoom were brought in on bass and guitar.\n"
+   ]
 }

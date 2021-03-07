@@ -1,13 +1,23 @@
 {
-   "Band members": {
-      "Timeline": {},
+   "Name": "Chatmonchy",
+   "Sections": [
+      "1 History",
+      "1.1 2000–2004: Band formation",
+      "1.2 2005–2008: Albums",
+      "1.3 2009–2018",
+      "2 Band members",
+      "2.1 Timeline",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
       "text": [
-         "\n",
-         "\n"
+         "chatmonchy (チャットモンチー, chattomonchī) was a three-piece all-female rock band which consisted of Eriko Hashimoto (guitar, vocals), Akiko Fukuoka (bass, chorus), and formerly Kumiko Takahashi (drums, chorus) who are from Tokushima Prefecture on the island of Shikoku, Japan.[1]\n",
+         "Since 2005, they were signed to Sony Music Japan's Ki/oon Records record label. In November 2017, the band announced that they were disbanding.[2]\n",
+         "The band had their final one-man concert on July 4, 2018, at the Nippon Budokan, and held their last \"Konason Fest\" on July 21 and 22.[3][4]\n"
       ]
    },
-   "Discography": {},
-   "External links": {},
    "History": {
       "2000–2004: Band formation": {
          "text": [
@@ -37,24 +47,20 @@
          ]
       }
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 2000–2004: Band formation",
-      "1.2 2005–2008: Albums",
-      "1.3 2009–2018",
-      "2 Band members",
-      "2.1 Timeline",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
+   "Band members": {
+      "Timeline": {},
       "text": [
-         "chatmonchy (チャットモンチー, chattomonchī) was a three-piece all-female rock band which consisted of Eriko Hashimoto (guitar, vocals), Akiko Fukuoka (bass, chorus), and formerly Kumiko Takahashi (drums, chorus) who are from Tokushima Prefecture on the island of Shikoku, Japan.[1]\n",
-         "Since 2005, they were signed to Sony Music Japan's Ki/oon Records record label. In November 2017, the band announced that they were disbanding.[2]\n",
-         "The band had their final one-man concert on July 4, 2018, at the Nippon Budokan, and held their last \"Konason Fest\" on July 21 and 22.[3][4]\n"
+         "\n",
+         "\n"
       ]
    },
-   "Title": "Chatmonchy - Wikipedia"
+   "Discography": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "chatmonchy (チャットモンチー, chattomonchī) was a three-piece all-female rock band which consisted of Eriko Hashimoto (guitar, vocals), Akiko Fukuoka (bass, chorus), and formerly Kumiko Takahashi (drums, chorus) who are from Tokushima Prefecture on the island of Shikoku, Japan.[1]\n",
+      "Since 2005, they were signed to Sony Music Japan's Ki/oon Records record label. In November 2017, the band announced that they were disbanding.[2]\n",
+      "The band had their final one-man concert on July 4, 2018, at the Nippon Budokan, and held their last \"Konason Fest\" on July 21 and 22.[3][4]\n",
+      "In 2000, Hashimoto formed chatmonchy in the city of Tokushima, Tokushima Prefecture. Having been to see her brother perform at the first concert she attended, she became keen on forming a trio. Although part of a brass band throughout junior high and high school, her brother began teaching her guitar.[1]\n"
+   ]
 }

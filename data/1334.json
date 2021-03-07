@@ -1,20 +1,5 @@
 {
-   "Discography": {
-      "Albums": {},
-      "EPs": {}
-   },
-   "History": {
-      "text": [
-         "Petrol Girls formed and played their first show in 2012, after just two practises, at a house party hosted by founding member Ren Aldridge (vocals) to celebrate International Women’s Day. Retaining original bassist Liepa Kuraitė, who had never played before Aldridge invited her to join, they eventually recruited Joe York (guitar) and Zock Astpai (drums) to complete a sustainable lineup.[2][1]\n",
-         "Aldridge took the name from a group of 19th century French revolutionaries, les Pétroleuses, after hearing them mentioned by Laurie Penny.[2][1]\n",
-         "After two EPs, their eponymous self released 7\" from 2014 and Some Thing from 2016, the band released their debut album Talk of Violence on Bomber Music in 2017.[2][1][3]\n",
-         "In April 2018 the band released single \"Survivor\" and announced they had signed to Hassle Records for their next release - EP The Future Is Dark released on 14 September.[5]\n",
-         "Their second full length album Cut & Stitch was released on 24 May 2019. It received positive reviews from  NPR,[4] The Skinny,[6] and Kerrang![7] - who in June also called it 'one of the best albums of the year so far'.[8]\n",
-         "In July 2019 it emerged that Aldridge is one of several musicians being sued by singer/rapper Jonny \"Itch\" Fox, seeking aggravated damages and an injunction for alleged libel.[9] The defendants are fundraising towards their legal costs.[10]\n",
-         "On 6 November 2019 Kuraitė posted a statement on Facebook stating she was going to leave the band by the end of the year.[11]\n"
-      ]
-   },
-   "References": {},
+   "Name": "Petrol Girls",
    "Sections": [
       "1 History",
       "2 Discography",
@@ -27,5 +12,26 @@
          "Petrol Girls is an English punk rock band formed in London in 2012 by Ren Aldridge and Liepa Kuraitė, with Joe York and Zock Astpai joining later. The band is named after the historical Pétroleuses[1][2] and is outspokenly feminist. They have received media coverage from The Independent, Kerrang!, NPR and Vice Media[2][1][3][4]\n"
       ]
    },
-   "Title": "Petrol Girls - Wikipedia"
+   "History": {
+      "text": [
+         "Petrol Girls formed and played their first show in 2012, after just two practises, at a house party hosted by founding member Ren Aldridge (vocals) to celebrate International Women’s Day. Retaining original bassist Liepa Kuraitė, who had never played before Aldridge invited her to join, they eventually recruited Joe York (guitar) and Zock Astpai (drums) to complete a sustainable lineup.[2][1]\n",
+         "Aldridge took the name from a group of 19th century French revolutionaries, les Pétroleuses, after hearing them mentioned by Laurie Penny.[2][1]\n",
+         "After two EPs, their eponymous self released 7\" from 2014 and Some Thing from 2016, the band released their debut album Talk of Violence on Bomber Music in 2017.[2][1][3]\n",
+         "In April 2018 the band released single \"Survivor\" and announced they had signed to Hassle Records for their next release - EP The Future Is Dark released on 14 September.[5]\n",
+         "Their second full length album Cut & Stitch was released on 24 May 2019. It received positive reviews from  NPR,[4] The Skinny,[6] and Kerrang![7] - who in June also called it 'one of the best albums of the year so far'.[8]\n",
+         "In July 2019 it emerged that Aldridge is one of several musicians being sued by singer/rapper Jonny \"Itch\" Fox, seeking aggravated damages and an injunction for alleged libel.[9] The defendants are fundraising towards their legal costs.[10]\n",
+         "On 6 November 2019 Kuraitė posted a statement on Facebook stating she was going to leave the band by the end of the year.[11]\n"
+      ]
+   },
+   "Discography": {
+      "Albums": {},
+      "EPs": {}
+   },
+   "References": {},
+   "coreData": [
+      "Petrol Girls is an English punk rock band formed in London in 2012 by Ren Aldridge and Liepa Kuraitė, with Joe York and Zock Astpai joining later. The band is named after the historical Pétroleuses[1][2] and is outspokenly feminist. They have received media coverage from The Independent, Kerrang!, NPR and Vice Media[2][1][3][4]\n",
+      "Petrol Girls formed and played their first show in 2012, after just two practises, at a house party hosted by founding member Ren Aldridge (vocals) to celebrate International Women’s Day. Retaining original bassist Liepa Kuraitė, who had never played before Aldridge invited her to join, they eventually recruited Joe York (guitar) and Zock Astpai (drums) to complete a sustainable lineup.[2][1]\n",
+      "Aldridge took the name from a group of 19th century French revolutionaries, les Pétroleuses, after hearing them mentioned by Laurie Penny.[2][1]\n",
+      "After two EPs, their eponymous self released 7\" from 2014 and Some Thing from 2016, the band released their debut album Talk of Violence on Bomber Music in 2017.[2][1][3]\n"
+   ]
 }

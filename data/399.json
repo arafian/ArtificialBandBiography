@@ -1,18 +1,5 @@
 {
-   "Band members": {
-      "text": [
-         "The most notable band members were guitarist Randy Thomas, formerly of the Jesus music group Sweet Comfort Band and vocalist Bob Carlisle.[2] Carlisle went on to pursue a solo career and recorded the hit song \"Butterfly Kisses\", which was co-written with Randy.\n",
-         "Sam Scott and Jimmy Erickson were both formerly of Psalm 150.\n"
-      ]
-   },
-   "Discography": {},
-   "History": {
-      "text": [
-         "Thomas formed the act in San Bernardino, California in 1984 by bringing together members of two of his former acts: he had been with Carlisle and Jimmy Erickson in Psalm 150 and was also at one time in the Band Sonrise with Sam Scott and Matt Chapman. (Scott was also part of Psalm 150 though not at the same time as Thomas.)\n",
-         "Light Records signed the group before they recorded a demo.[3] The self-titled album, released in 1985, took the band name at face value as the group appeared on the album jacket in military fatigues.\n"
-      ]
-   },
-   "References": {},
+   "Name": "Allies (band)",
    "Sections": [
       "1 Band members",
       "2 History",
@@ -24,5 +11,24 @@
          "Allies was a Christian rock band. They released six albums during the 1980s and early 1990s.[1]\n"
       ]
    },
-   "Title": "Allies (band) - Wikipedia"
+   "Band members": {
+      "text": [
+         "The most notable band members were guitarist Randy Thomas, formerly of the Jesus music group Sweet Comfort Band and vocalist Bob Carlisle.[2] Carlisle went on to pursue a solo career and recorded the hit song \"Butterfly Kisses\", which was co-written with Randy.\n",
+         "Sam Scott and Jimmy Erickson were both formerly of Psalm 150.\n"
+      ]
+   },
+   "History": {
+      "text": [
+         "Thomas formed the act in San Bernardino, California in 1984 by bringing together members of two of his former acts: he had been with Carlisle and Jimmy Erickson in Psalm 150 and was also at one time in the Band Sonrise with Sam Scott and Matt Chapman. (Scott was also part of Psalm 150 though not at the same time as Thomas.)\n",
+         "Light Records signed the group before they recorded a demo.[3] The self-titled album, released in 1985, took the band name at face value as the group appeared on the album jacket in military fatigues.\n"
+      ]
+   },
+   "Discography": {},
+   "References": {},
+   "coreData": [
+      "Allies was a Christian rock band. They released six albums during the 1980s and early 1990s.[1]\n",
+      "The most notable band members were guitarist Randy Thomas, formerly of the Jesus music group Sweet Comfort Band and vocalist Bob Carlisle.[2] Carlisle went on to pursue a solo career and recorded the hit song \"Butterfly Kisses\", which was co-written with Randy.\n",
+      "Sam Scott and Jimmy Erickson were both formerly of Psalm 150.\n",
+      "Thomas formed the act in San Bernardino, California in 1984 by bringing together members of two of his former acts: he had been with Carlisle and Jimmy Erickson in Psalm 150 and was also at one time in the Band Sonrise with Sam Scott and Matt Chapman. (Scott was also part of Psalm 150 though not at the same time as Thomas.)\n"
+   ]
 }

@@ -1,4 +1,18 @@
 {
+   "Name": "Esta Livio",
+   "Sections": [
+      "1 About the band",
+      "2 Music",
+      "3 Notable works",
+      "4 Notable live performances",
+      "5 See also",
+      "6 References"
+   ],
+   "Summary": {
+      "text": [
+         "Esta Livio (Urdu: ایسٹا لیویو‎) is a Pakistani Alternative rock band from Lahore, Punjab. The band's name literally means \"It's alive\".[1]\n"
+      ]
+   },
    "About the band": {
       "text": [
          "The band was created by lead singer Hasan Shahid in 2006 in the UK while bass guitarist Hamza Maqsood, lead guitarist Rehan Akhtar and rhythm guitarist Sheraz Arif joined the band when Hasan moved to Pakistan in 2009.[2] \nSince its inception, the band has been recording original music and has performed all over Lahore and on a number of notable radio channels including BBC Radio,[3] Radio1 FM91[4] and Radio Pakistan in the country while they have appeared on radio channels in the US and Middle East.[5] The band has also appeared numerous times on TV channels including PTV World, Dunya TV and A-Plus Entertainment.[6]\n"
@@ -9,22 +23,13 @@
          "The band's first single 'Aakheya See' was launched with a video in March 2014 and received heavy radio play while being broadcast on heavy rotation on major television channels in Pakistan.[7] \nOther music from the band that has gained popularity due to live performances includes original tracks like Jogiya, Poocho, Wekh Tamasha, Akhiyaan and Kya Chahtey Ho while the band is also known for performing unique covers of mainstream artists like Lady Gaga and Britney Spears.[8]\n"
       ]
    },
-   "Notable live performances": {},
    "Notable works": {},
-   "References": {},
-   "Sections": [
-      "1 About the band",
-      "2 Music",
-      "3 Notable works",
-      "4 Notable live performances",
-      "5 See also",
-      "6 References"
-   ],
+   "Notable live performances": {},
    "See also": {},
-   "Summary": {
-      "text": [
-         "Esta Livio (Urdu: ایسٹا لیویو‎) is a Pakistani Alternative rock band from Lahore, Punjab. The band's name literally means \"It's alive\".[1]\n"
-      ]
-   },
-   "Title": "Esta Livio - Wikipedia"
+   "References": {},
+   "coreData": [
+      "Esta Livio (Urdu: ایسٹا لیویو‎) is a Pakistani Alternative rock band from Lahore, Punjab. The band's name literally means \"It's alive\".[1]\n",
+      "The band was created by lead singer Hasan Shahid in 2006 in the UK while bass guitarist Hamza Maqsood, lead guitarist Rehan Akhtar and rhythm guitarist Sheraz Arif joined the band when Hasan moved to Pakistan in 2009.[2] \nSince its inception, the band has been recording original music and has performed all over Lahore and on a number of notable radio channels including BBC Radio,[3] Radio1 FM91[4] and Radio Pakistan in the country while they have appeared on radio channels in the US and Middle East.[5] The band has also appeared numerous times on TV channels including PTV World, Dunya TV and A-Plus Entertainment.[6]\n",
+      "The band's first single 'Aakheya See' was launched with a video in March 2014 and received heavy radio play while being broadcast on heavy rotation on major television channels in Pakistan.[7] \nOther music from the band that has gained popularity due to live performances includes original tracks like Jogiya, Poocho, Wekh Tamasha, Akhiyaan and Kya Chahtey Ho while the band is also known for performing unique covers of mainstream artists like Lady Gaga and Britney Spears.[8]\n"
+   ]
 }

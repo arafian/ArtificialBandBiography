@@ -1,6 +1,18 @@
 {
-   "Awards": {},
-   "Band members": {},
+   "Name": "The Warning (Mexican band)",
+   "Sections": [
+      "1 Biography",
+      "2 Band members",
+      "3 Discography",
+      "4 Awards",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
+      "text": [
+         "The Warning is a rock band from Monterrey, México formed in 2012 by three sisters.[1] Daniela (guitar, lead vocals), Paulina (drums, vocals, piano), and Alejandra Villarreal (bass guitar, piano, backing vocals) first gained attention for their 2014 cover of Metallica's \"Enter Sandman\" on their YouTube page,[2][3][4][5][6][7][8] which has reached over 22 million views as of February 2021.[8]\n"
+      ]
+   },
    "Biography": {
       "text": [
          "Drummer Paulina Villarreal Vélez was interviewed by Tom Tom Magazine a year before The Warning's cover of \"Enter Sandman\" became popular.[9] Metallica lead guitarist Kirk Hammett praised Pau's performance on the song, stating \"The drummer kicks maximum ass!\"[5][10]\n",
@@ -15,6 +27,7 @@
          "They have finished their 3rd studio Album, produced by David Bendeth to be released in 2021.\n"
       ]
    },
+   "Band members": {},
    "Discography": {
       "text": [
          "Studio albums\n",
@@ -22,20 +35,13 @@
          "Singles\n"
       ]
    },
-   "External links": {},
+   "Awards": {},
    "References": {},
-   "Sections": [
-      "1 Biography",
-      "2 Band members",
-      "3 Discography",
-      "4 Awards",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Warning is a rock band from Monterrey, México formed in 2012 by three sisters.[1] Daniela (guitar, lead vocals), Paulina (drums, vocals, piano), and Alejandra Villarreal (bass guitar, piano, backing vocals) first gained attention for their 2014 cover of Metallica's \"Enter Sandman\" on their YouTube page,[2][3][4][5][6][7][8] which has reached over 22 million views as of February 2021.[8]\n"
-      ]
-   },
-   "Title": "The Warning (Mexican band) - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "The Warning is a rock band from Monterrey, México formed in 2012 by three sisters.[1] Daniela (guitar, lead vocals), Paulina (drums, vocals, piano), and Alejandra Villarreal (bass guitar, piano, backing vocals) first gained attention for their 2014 cover of Metallica's \"Enter Sandman\" on their YouTube page,[2][3][4][5][6][7][8] which has reached over 22 million views as of February 2021.[8]\n",
+      "Drummer Paulina Villarreal Vélez was interviewed by Tom Tom Magazine a year before The Warning's cover of \"Enter Sandman\" became popular.[9] Metallica lead guitarist Kirk Hammett praised Pau's performance on the song, stating \"The drummer kicks maximum ass!\"[5][10]\n",
+      "In 2015, The Warning raised enough money on GoFundMe to release an EP of six original songs, titled Escape the Mind.[11] The popularity of The Warning's cover of Enter Sandman led to a guest appearance on The Ellen DeGeneres Show on April 24, 2015.[3][12] In addition to their GoFundMe page, they received funding by The Ellen Show and Target in order to attend a 5-week long summer program at Berklee College of Music.\n",
+      "The video game Rock Band was a major influence in the trio's formation of the band,[13] and two of their original songs are featured in the fourth game;[13] a song from their EP, Free Falling, is featured in the video game Rock Band 4,[14] and a song from their debut album, Survive, was released as a free downloadable song as a part of the \"Rivals\" expansion in 2016.[15][16]\n"
+   ]
 }

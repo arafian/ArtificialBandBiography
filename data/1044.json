@@ -1,19 +1,5 @@
 {
-   "External links": {},
-   "Other manifestations": {
-      "Games": {},
-      "Sampler / remixes": {},
-      "Soundtrack": {}
-   },
-   "Publications": {
-      "CDs": {
-         "text": [
-            " Studio \n",
-            " Live \n"
-         ]
-      },
-      "DVDs": {}
-   },
+   "Name": "Trigon (German band)",
    "Sections": [
       "1 Publications",
       "1.1 DVDs",
@@ -29,5 +15,24 @@
          "Trigon is a German based fusion band, and their history is carved by the numerous changes in line-up which contributed to Trigon's creative potential, as the band draws heavily on jamming as a source for their music.[citation needed] The band has also become a regular attraction at various music festivals. These include the Art-Rock Festival, on the \"ProgParade\", several times on the Burg Herzberg Festival, and at the Zappanale. Internationally, they were for example at the \"BajaProg Festival\" in Mexicali (Baja California, México) and at the Festival Crescendo near Bordeaux in France. In 2005 they accompanied Nektar at their European tour.\n"
       ]
    },
-   "Title": "Trigon (German band) - Wikipedia"
+   "Publications": {
+      "DVDs": {},
+      "CDs": {
+         "text": [
+            " Studio \n",
+            " Live \n"
+         ]
+      }
+   },
+   "Other manifestations": {
+      "Soundtrack": {},
+      "Sampler / remixes": {},
+      "Games": {}
+   },
+   "External links": {},
+   "coreData": [
+      "Trigon is a German based fusion band, and their history is carved by the numerous changes in line-up which contributed to Trigon's creative potential, as the band draws heavily on jamming as a source for their music.[citation needed] The band has also become a regular attraction at various music festivals. These include the Art-Rock Festival, on the \"ProgParade\", several times on the Burg Herzberg Festival, and at the Zappanale. Internationally, they were for example at the \"BajaProg Festival\" in Mexicali (Baja California, México) and at the Festival Crescendo near Bordeaux in France. In 2005 they accompanied Nektar at their European tour.\n",
+      " Studio \n",
+      " Live \n"
+   ]
 }

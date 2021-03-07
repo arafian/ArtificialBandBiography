@@ -1,26 +1,5 @@
 {
-   "Discography": {
-      "Albums": {},
-      "Compilations": {
-         "text": [
-            "Moncton N.B.\" (No label, SSSCD 197-2, released independently by Rick White)\n"
-         ]
-      },
-      "EPs/cassettes": {},
-      "Splits": {}
-   },
-   "External links": {},
-   "History": {
-      "text": [
-         "Eric's Trip formed in 1990 when musicians Rick White and Chris Thompson joined Julie Doiron and Ed Vaughan (who was later replaced by Mark Gaudet). They took their name from a Sonic Youth song[3] and developed a unique sound which fused elements of the distorted guitar of Dinosaur Jr., the folk leanings of Neil Young, and the lo-fi aesthetic of Sebadoh. White described their sound as \"sappy melodic pop music on top of thick distortion.\" Gaudet's description was more succinct: \"dreamy punk\".[citation needed]\n",
-         "The band released their first album, Love Tara, in 1993.[4]\n",
-         "Eric's Trip went on indefinite hiatus in 1996 and reunited in 2001. They played at the Sappy Records Festival in Sackville, New Brunswick from 2006-2009.[5][6]  In 2010 both White and Doiron played separate sets at SappyFest.[7][8] Eric's Trip also played a series of shows in 2007, including a show at the 2007 Halifax Pop Explosion.[9]\n",
-         "Doiron currently has a successful solo career; in 1999, she recorded the album Julie Doiron and the Wooden Stars with the Ottawa band Wooden Stars, which won a Juno Award for Best Alternative Album of the Year,[10] and from 2003 to 2007 she performed with Shotgun & Jaybird. White and Gaudet play in Elevator, and White has also released three solo albums under the name Rick White Album, The Rick White Album, Memoreaper and 137. Thompson enjoyed some fame as Moon Socket, and currently plays in The Memories Attack with Ron Bates of Moncton band Orange Glass.\n",
-         "White produced Doiron's solo albums Woke Myself Up (2007) and I Can Wonder What You Did with Your Day (2009). Woke Myself Up features three tracks on which the entire Eric's Trip lineup contributed to the recording, their first studio collaboration since the band's 1996 breakup, while I Can Wonder has been described by critics as directly revisiting the sound and style of Eric's Trip for the first time in Doiron's solo career.\n"
-      ]
-   },
-   "Personnel": {},
-   "References": {},
+   "Name": "Eric's Trip",
    "Sections": [
       "1 History",
       "2 Personnel",
@@ -33,11 +12,38 @@
       "5 References",
       "6 External links"
    ],
-   "See also": {},
    "Summary": {
       "text": [
          "Eric's Trip was a Canadian indie rock band from Moncton, New Brunswick. Eric's Trip achieved prominence as the first Canadian band to be signed to Seattle's flagship grunge label Sub Pop in the early 1990s.[2] The band had a minor hit in alternative circles with the single \"View Master\", from the 1994 album Forever Again.\n"
       ]
    },
-   "Title": "Eric's Trip - Wikipedia"
+   "History": {
+      "text": [
+         "Eric's Trip formed in 1990 when musicians Rick White and Chris Thompson joined Julie Doiron and Ed Vaughan (who was later replaced by Mark Gaudet). They took their name from a Sonic Youth song[3] and developed a unique sound which fused elements of the distorted guitar of Dinosaur Jr., the folk leanings of Neil Young, and the lo-fi aesthetic of Sebadoh. White described their sound as \"sappy melodic pop music on top of thick distortion.\" Gaudet's description was more succinct: \"dreamy punk\".[citation needed]\n",
+         "The band released their first album, Love Tara, in 1993.[4]\n",
+         "Eric's Trip went on indefinite hiatus in 1996 and reunited in 2001. They played at the Sappy Records Festival in Sackville, New Brunswick from 2006-2009.[5][6]  In 2010 both White and Doiron played separate sets at SappyFest.[7][8] Eric's Trip also played a series of shows in 2007, including a show at the 2007 Halifax Pop Explosion.[9]\n",
+         "Doiron currently has a successful solo career; in 1999, she recorded the album Julie Doiron and the Wooden Stars with the Ottawa band Wooden Stars, which won a Juno Award for Best Alternative Album of the Year,[10] and from 2003 to 2007 she performed with Shotgun & Jaybird. White and Gaudet play in Elevator, and White has also released three solo albums under the name Rick White Album, The Rick White Album, Memoreaper and 137. Thompson enjoyed some fame as Moon Socket, and currently plays in The Memories Attack with Ron Bates of Moncton band Orange Glass.\n",
+         "White produced Doiron's solo albums Woke Myself Up (2007) and I Can Wonder What You Did with Your Day (2009). Woke Myself Up features three tracks on which the entire Eric's Trip lineup contributed to the recording, their first studio collaboration since the band's 1996 breakup, while I Can Wonder has been described by critics as directly revisiting the sound and style of Eric's Trip for the first time in Doiron's solo career.\n"
+      ]
+   },
+   "Personnel": {},
+   "Discography": {
+      "EPs/cassettes": {},
+      "Albums": {},
+      "Splits": {},
+      "Compilations": {
+         "text": [
+            "Moncton N.B.\" (No label, SSSCD 197-2, released independently by Rick White)\n"
+         ]
+      }
+   },
+   "See also": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Eric's Trip was a Canadian indie rock band from Moncton, New Brunswick. Eric's Trip achieved prominence as the first Canadian band to be signed to Seattle's flagship grunge label Sub Pop in the early 1990s.[2] The band had a minor hit in alternative circles with the single \"View Master\", from the 1994 album Forever Again.\n",
+      "Eric's Trip formed in 1990 when musicians Rick White and Chris Thompson joined Julie Doiron and Ed Vaughan (who was later replaced by Mark Gaudet). They took their name from a Sonic Youth song[3] and developed a unique sound which fused elements of the distorted guitar of Dinosaur Jr., the folk leanings of Neil Young, and the lo-fi aesthetic of Sebadoh. White described their sound as \"sappy melodic pop music on top of thick distortion.\" Gaudet's description was more succinct: \"dreamy punk\".[citation needed]\n",
+      "The band released their first album, Love Tara, in 1993.[4]\n",
+      "Eric's Trip went on indefinite hiatus in 1996 and reunited in 2001. They played at the Sappy Records Festival in Sackville, New Brunswick from 2006-2009.[5][6]  In 2010 both White and Doiron played separate sets at SappyFest.[7][8] Eric's Trip also played a series of shows in 2007, including a show at the 2007 Halifax Pop Explosion.[9]\n"
+   ]
 }

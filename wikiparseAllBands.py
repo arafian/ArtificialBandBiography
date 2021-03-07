@@ -129,12 +129,12 @@ def insertSectionText(soup):
 numToTitle = {}
 bandData = {}
 allBandNames = []
-
 def createJSONData(url):
   """Create JSON object representing wikipedia article"""
   html = urlopen(url) 
   soup = BeautifulSoup(html, 'html.parser')
   bandData["Name"] = soup.title.string[:-12]
+  bandData["Sections"] = []
   allBandNames.append(bandData["Name"])
   
   createSections(soup)

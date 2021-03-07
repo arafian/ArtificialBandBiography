@@ -1,16 +1,5 @@
 {
-   "Discography": {
-      "Compilations": {},
-      "Main albums": {}
-   },
-   "External links": {},
-   "Founding": {
-      "text": [
-         "Vocalist/producer Mörizen Föche originally created and directed Thrasher Magazine's Skate Rock compilation series, and was ultimately responsible for identifying the musical phenomenon in a series of magazine articles, and is credited with coining the term \"Skate Rock\".[1] In 1983, MoFo approached the members of the seminal San Jose skate punk band Los Olvidados about forming a new band. MoFo suggested the group don Indian masks.\n"
-      ]
-   },
-   "Members": {},
-   "References": {},
+   "Name": "Drunk Injuns",
    "Sections": [
       "1 Founding",
       "2 Members",
@@ -25,5 +14,20 @@
          "The Drunk Injuns is an American skate punk band formed in 1983. The band members wear masks that resemble Indian ghost warriors. They claim to believe the masks allow them to channel the spirit world to gain control of their bodies and play better music.\n"
       ]
    },
-   "Title": "Drunk Injuns - Wikipedia"
+   "Founding": {
+      "text": [
+         "Vocalist/producer Mörizen Föche originally created and directed Thrasher Magazine's Skate Rock compilation series, and was ultimately responsible for identifying the musical phenomenon in a series of magazine articles, and is credited with coining the term \"Skate Rock\".[1] In 1983, MoFo approached the members of the seminal San Jose skate punk band Los Olvidados about forming a new band. MoFo suggested the group don Indian masks.\n"
+      ]
+   },
+   "Members": {},
+   "Discography": {
+      "Main albums": {},
+      "Compilations": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Drunk Injuns is an American skate punk band formed in 1983. The band members wear masks that resemble Indian ghost warriors. They claim to believe the masks allow them to channel the spirit world to gain control of their bodies and play better music.\n",
+      "Vocalist/producer Mörizen Föche originally created and directed Thrasher Magazine's Skate Rock compilation series, and was ultimately responsible for identifying the musical phenomenon in a series of magazine articles, and is credited with coining the term \"Skate Rock\".[1] In 1983, MoFo approached the members of the seminal San Jose skate punk band Los Olvidados about forming a new band. MoFo suggested the group don Indian masks.\n"
+   ]
 }

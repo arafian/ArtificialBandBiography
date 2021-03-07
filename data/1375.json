@@ -1,4 +1,8 @@
 {
+   "Name": "The Coachmen (New York band)",
+   "Sections": [
+      "Summary"
+   ],
    "Summary": {
       "text": [
          "The Coachmen were a lower-Manhattan punk rock/new wave band that performed from early 1978 to their final gig at White Columns in August, 1980. The line-up included guitarists Thurston Moore and J. D. King, bassist Bob Pullin, and Danny Walworth on drums, who was replaced by Dave Keay (ex-Harry Toledo). Briefly, Mary Lemley was vocalist. The Coachmen was Moore's first band; their live performances were his first times performing in N.Y.C. clubs in an artistic milieu.\n",
@@ -11,5 +15,11 @@
          "The band is now known as  J. D. King & The Coachmen, renamed to differentiate it from other bands, old and current, with the same name. The band name was King's idea, an ironic homage to a typical 1960s garage-rock band name.\n",
          "Dave Keay is the drummer for the avant-rock band The Day Care Centre. Their double LP, A Jumpin' Jackpot of Melody, was released in 2007.\n"
       ]
-   }
+   },
+   "coreData": [
+      "The Coachmen were a lower-Manhattan punk rock/new wave band that performed from early 1978 to their final gig at White Columns in August, 1980. The line-up included guitarists Thurston Moore and J. D. King, bassist Bob Pullin, and Danny Walworth on drums, who was replaced by Dave Keay (ex-Harry Toledo). Briefly, Mary Lemley was vocalist. The Coachmen was Moore's first band; their live performances were his first times performing in N.Y.C. clubs in an artistic milieu.\n",
+      "They played at CBGB, Max's Kansas City, Tier 3, A's (curated by Arleen Schloss), The Botany Talk House, The 80's, S.N.A.F.U., and loft parties thrown by Jenny Holzer.\n",
+      "Their penultimate performance was at Giorgio Gomelsky's N.Y.C. loft. It was there that Thurston Moore met Kim Gordon.\n",
+      "Some simpatico bands The Coachmen were billed with were The Green Scene, Paul McMahon's A Band, Phoebe Legere's Monad, Harry Toledo, and the Fluks, a band that included guitarist Lee Ranaldo who would wind up in Sonic Youth with Moore.\n"
+   ]
 }

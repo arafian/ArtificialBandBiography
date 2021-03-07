@@ -1,25 +1,39 @@
 {
-   "Discography": {
-      "DVDs": {},
-      "Demos": {},
-      "EPS": {},
-      "Reissue": {},
-      "Studio albums": {}
+   "Name": "Vio-lence",
+   "Sections": [
+      "1 History",
+      "1.1 Initial career",
+      "1.2 Breakup",
+      "1.3 Reunion",
+      "2 Members",
+      "2.1 Timeline",
+      "3 Discography",
+      "3.1 Studio albums",
+      "3.2 EPS",
+      "3.3 Demos",
+      "3.4 Reissue",
+      "3.5 DVDs",
+      "4 References"
+   ],
+   "Summary": {
+      "text": [
+         "Vio-lence is an American thrash metal band formed in 1985 in the San Francisco Bay Area. Throughout its existence, they released demo tapes, one EP and three studio albums. Vio-lence is best-known for their association with the 1980s Bay Area thrash metal scene, and often credited as one of the leading lights of the second wave of the genre, along with Pantera, Sepultura, Sacred Reich, Dark Angel, Annihilator and Flotsam and Jetsam as well as their Bay Area counterparts Testament, Death Angel and Forbidden.[1][2][3][4][5] Their most stable line-up was Phil Demmel and Robb Flynn on guitars, Deen Dell on bass, Perry Strickland on drums and Sean Killian on vocals; this lineup recorded all their studio albums. After breaking up in 1994 and reforming for occasional live performances from 2001 to 2003, the members of Vio-Lence reunited in January 2018 for a benefit of Killian, who was battling with liver cirrhosis.[6] The band announced their third reunion in January 2019.[7][8]\n"
+      ]
    },
    "History": {
-      "Breakup": {
-         "text": [
-            "After an attempt to make a fourth album, and performing what would be their final show for eight years on December 18, 1993 with a new lineup in San Francisco, Vio-lence split up.[9][10][11]\n",
-            "Phil Demmel, Deen Dell, Ray Vegas and Mark Hernandez formed a groove/thrash metal band called Torque which disbanded after releasing a studio album and playing several live shows. Demmel then went to form Technocracy.\n",
-            "Robb Flynn has been the guitarist and singer of Machine Head since its inception in 1991. Demmel joined Machine Head in 2003, first as a session guitarist and later becoming a full-time member of the band; he would stay in Machine Head until his departure in 2018.[14]\n"
-         ]
-      },
       "Initial career": {
          "text": [
             "Vio-lence, then-called Death Penalty, was formed in 1985 with the line-up of Jerry Birr (vocals), Phil Demmel (guitar), Troy Fua (guitar), Eddie Billy (bass – brother of musicians Andy and Chuck Billy) and Perry Strickland (drums).[9] Not long after playing their first gig, which reportedly took place at a house party, Death Penalty changed their name to Violence and eventually then to Vio-lence, as the former was taken by another band. After recording two demos in 1986, they parted ways with Birr, Fua and Billy, who were replaced by Sean Killian, Robb Flynn (formerly of Forbidden Evil) and Deen Dell respectively. Their live success at local clubs in Northern California – opening for bands like D.R.I., Voivod, Kreator, Dark Angel, Suicidal Tendencies and the Mentors, as well as their Bay Area thrash metal peers Testament, Exodus, Death Angel, Lȧȧz Rockit and Heathen – allowed Vio-lence to record another demo, this time for major labels, including MCA Records' sister label Mechanic, who offered them a recording contract.[9][10][11]\n",
             "From February to April 1988, Vio-lence recorded their debut album, Eternal Nightmare, at two studios: The Music Grinder in Los Angeles and Alpha & Omega in San Francisco. The album received mostly positive reviews upon its release in the summer of 1988, and peaked at number 154 on the Billboard 200, becoming the band's only album to enter that chart;[12][13] this can be attributed to the album selling over 30,000 copies.[9] Vio-lence toured throughout 1988 and 1989 in support of Eternal Nightmare, with bands such as Testament, Voivod, Death Angel, Sanctuary, Nuclear Assault, D.R.I., M.O.D. and the Cro-Mags.[9][10][11] The underground success of the album also caught the attention of several labels, including Megaforce Records (then-home to bands such as Testament, M.O.D., Anthrax, and Overkill), who eventually signed the band.[9][10]\n",
             "In December 1989, Vio-lence entered the studio to record what would be their second album and only release on Megaforce (distributed by Atlantic) Oppressing the Masses; however, the album faced multiple delays until its release in the summer of 1990.[9][10][11] Although the album's success did not match that of Eternal Nightmare, it received some positive reviews and a video for the song \"World in a World\" was released. Oppressing the Masses also generated some controversy, when the original album (which reportedly sold only 20,000 copies) was destroyed because of Atlantic's objection to the lyrical content of \"Torture Tactics\";[9][10] as a result, the album was reprinted without this track. Vio-lence toured in support of the album for about a year, with bands such as Overkill, Exodus, Forbidden, Flotsam and Jetsam, Prong, Defiance and Rigor Mortis.[11]\n",
             "In 1991, after being dropped from Atlantic/Megaforce, Vio-lence released an EP Torture Tactics, which included three studio songs (recorded in 1989 during the sessions of Oppressing the Masses) and one \"live\" track from 1988. Internal conflicts in 1992 resulted in the departure of Robb Flynn who would move on to form groove metal band Machine Head.[9] A year later, Vio-lence released their third and final album, Nothing to Gain, which was actually recorded in 1990. They never toured in support of that album, and Strickland left the band after its release.[9]\n"
+         ]
+      },
+      "Breakup": {
+         "text": [
+            "After an attempt to make a fourth album, and performing what would be their final show for eight years on December 18, 1993 with a new lineup in San Francisco, Vio-lence split up.[9][10][11]\n",
+            "Phil Demmel, Deen Dell, Ray Vegas and Mark Hernandez formed a groove/thrash metal band called Torque which disbanded after releasing a studio album and playing several live shows. Demmel then went to form Technocracy.\n",
+            "Robb Flynn has been the guitarist and singer of Machine Head since its inception in 1991. Demmel joined Machine Head in 2003, first as a session guitarist and later becoming a full-time member of the band; he would stay in Machine Head until his departure in 2018.[14]\n"
          ]
       },
       "Reunion": {
@@ -48,26 +62,18 @@
          "\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Initial career",
-      "1.2 Breakup",
-      "1.3 Reunion",
-      "2 Members",
-      "2.1 Timeline",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 EPS",
-      "3.3 Demos",
-      "3.4 Reissue",
-      "3.5 DVDs",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "Vio-lence is an American thrash metal band formed in 1985 in the San Francisco Bay Area. Throughout its existence, they released demo tapes, one EP and three studio albums. Vio-lence is best-known for their association with the 1980s Bay Area thrash metal scene, and often credited as one of the leading lights of the second wave of the genre, along with Pantera, Sepultura, Sacred Reich, Dark Angel, Annihilator and Flotsam and Jetsam as well as their Bay Area counterparts Testament, Death Angel and Forbidden.[1][2][3][4][5] Their most stable line-up was Phil Demmel and Robb Flynn on guitars, Deen Dell on bass, Perry Strickland on drums and Sean Killian on vocals; this lineup recorded all their studio albums. After breaking up in 1994 and reforming for occasional live performances from 2001 to 2003, the members of Vio-Lence reunited in January 2018 for a benefit of Killian, who was battling with liver cirrhosis.[6] The band announced their third reunion in January 2019.[7][8]\n"
-      ]
+   "Discography": {
+      "Studio albums": {},
+      "EPS": {},
+      "Demos": {},
+      "Reissue": {},
+      "DVDs": {}
    },
-   "Title": "Vio-lence - Wikipedia"
+   "References": {},
+   "coreData": [
+      "Vio-lence is an American thrash metal band formed in 1985 in the San Francisco Bay Area. Throughout its existence, they released demo tapes, one EP and three studio albums. Vio-lence is best-known for their association with the 1980s Bay Area thrash metal scene, and often credited as one of the leading lights of the second wave of the genre, along with Pantera, Sepultura, Sacred Reich, Dark Angel, Annihilator and Flotsam and Jetsam as well as their Bay Area counterparts Testament, Death Angel and Forbidden.[1][2][3][4][5] Their most stable line-up was Phil Demmel and Robb Flynn on guitars, Deen Dell on bass, Perry Strickland on drums and Sean Killian on vocals; this lineup recorded all their studio albums. After breaking up in 1994 and reforming for occasional live performances from 2001 to 2003, the members of Vio-Lence reunited in January 2018 for a benefit of Killian, who was battling with liver cirrhosis.[6] The band announced their third reunion in January 2019.[7][8]\n",
+      "Vio-lence, then-called Death Penalty, was formed in 1985 with the line-up of Jerry Birr (vocals), Phil Demmel (guitar), Troy Fua (guitar), Eddie Billy (bass – brother of musicians Andy and Chuck Billy) and Perry Strickland (drums).[9] Not long after playing their first gig, which reportedly took place at a house party, Death Penalty changed their name to Violence and eventually then to Vio-lence, as the former was taken by another band. After recording two demos in 1986, they parted ways with Birr, Fua and Billy, who were replaced by Sean Killian, Robb Flynn (formerly of Forbidden Evil) and Deen Dell respectively. Their live success at local clubs in Northern California – opening for bands like D.R.I., Voivod, Kreator, Dark Angel, Suicidal Tendencies and the Mentors, as well as their Bay Area thrash metal peers Testament, Exodus, Death Angel, Lȧȧz Rockit and Heathen – allowed Vio-lence to record another demo, this time for major labels, including MCA Records' sister label Mechanic, who offered them a recording contract.[9][10][11]\n",
+      "From February to April 1988, Vio-lence recorded their debut album, Eternal Nightmare, at two studios: The Music Grinder in Los Angeles and Alpha & Omega in San Francisco. The album received mostly positive reviews upon its release in the summer of 1988, and peaked at number 154 on the Billboard 200, becoming the band's only album to enter that chart;[12][13] this can be attributed to the album selling over 30,000 copies.[9] Vio-lence toured throughout 1988 and 1989 in support of Eternal Nightmare, with bands such as Testament, Voivod, Death Angel, Sanctuary, Nuclear Assault, D.R.I., M.O.D. and the Cro-Mags.[9][10][11] The underground success of the album also caught the attention of several labels, including Megaforce Records (then-home to bands such as Testament, M.O.D., Anthrax, and Overkill), who eventually signed the band.[9][10]\n",
+      "In December 1989, Vio-lence entered the studio to record what would be their second album and only release on Megaforce (distributed by Atlantic) Oppressing the Masses; however, the album faced multiple delays until its release in the summer of 1990.[9][10][11] Although the album's success did not match that of Eternal Nightmare, it received some positive reviews and a video for the song \"World in a World\" was released. Oppressing the Masses also generated some controversy, when the original album (which reportedly sold only 20,000 copies) was destroyed because of Atlantic's objection to the lyrical content of \"Torture Tactics\";[9][10] as a result, the album was reprinted without this track. Vio-lence toured in support of the album for about a year, with bands such as Overkill, Exodus, Forbidden, Flotsam and Jetsam, Prong, Defiance and Rigor Mortis.[11]\n"
+   ]
 }

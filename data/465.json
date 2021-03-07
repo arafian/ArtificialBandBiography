@@ -1,30 +1,5 @@
 {
-   "Band members": {},
-   "Discography": {},
-   "External links": {},
-   "History": {
-      "Disbanding": {
-         "text": [
-            "According to founding member Derek Stipe's website, the band broke up despite their success because their label shut down.[6] Afterwards, Derek Stipe and Kevin Stipe joined with Dan Ruiz to form the Stipe Brothers group and play music at festivals and breweries in their home region of North Carolina. Their former Monday Morning colleague Kent Rector, bassist Jeff Hinkle,[7] and Eric Congdon have joined the group for some events.[8] In 2018 Derek Stipe recorded a solo EP, The Sinking Ship.[6]\n"
-         ]
-      },
-      "Fool's Paradise": {
-         "text": [
-            "The band's first major studio album, Fool's Paradise, was released on August 30, 2005.[4] \"Wonder of It All (Next Year)\" was released as a single, and reached No. 1 on R&R's Christian CHR chart. It was the No. 9 most played song of 2006 on that format.[5]\n"
-         ]
-      },
-      "text": [
-         "In high school, lead vocalist Derek Stipe met Kent Rector, who played drums. Soon Rector, Stipe and his brother Kevin began jamming together. After playing with a few other people, the group eventually narrowed down to four members: the Stipe brothers, Rector, and Justin Blythe who they knew from their church.[1] Lead singer Stipe said, \"We thought we kinda had something special, so we started playing out, getting better, and it just exploded from there.\"[1]\n",
-         "They decided on a band name, \"Monday Morning\", because it was \"a dose of reality.\" Stipe noted, \"When you confront the world, yourself, and everything around you. No more games, masks, or half truths. That is the boldness we want our music to have.\"[1] In 2001 they released the three-track Monday Morning EP,[2] followed by Blind in 2002.[3]\n",
-         "\n"
-      ]
-   },
-   "Musical style": {
-      "text": [
-         "The band cites their biggest influences as U2, Silverchair, Pearl Jam, Led Zeppelin, Butch Walker and Our Lady Peace.[1]\n"
-      ]
-   },
-   "References": {},
+   "Name": "Monday Morning (band)",
    "Sections": [
       "1 History",
       "1.1 Fool's Paradise",
@@ -40,5 +15,36 @@
          "Monday Morning is a Christian alternative rock band from North Carolina, U.S. In 2005 they released their major label debut through Selectric Records, Fool's Paradise, and are known for their number 1 hit song \"Wonder of It All (Next Year)\".\n"
       ]
    },
-   "Title": "Monday Morning (band) - Wikipedia"
+   "History": {
+      "Fool's Paradise": {
+         "text": [
+            "The band's first major studio album, Fool's Paradise, was released on August 30, 2005.[4] \"Wonder of It All (Next Year)\" was released as a single, and reached No. 1 on R&R's Christian CHR chart. It was the No. 9 most played song of 2006 on that format.[5]\n"
+         ]
+      },
+      "Disbanding": {
+         "text": [
+            "According to founding member Derek Stipe's website, the band broke up despite their success because their label shut down.[6] Afterwards, Derek Stipe and Kevin Stipe joined with Dan Ruiz to form the Stipe Brothers group and play music at festivals and breweries in their home region of North Carolina. Their former Monday Morning colleague Kent Rector, bassist Jeff Hinkle,[7] and Eric Congdon have joined the group for some events.[8] In 2018 Derek Stipe recorded a solo EP, The Sinking Ship.[6]\n"
+         ]
+      },
+      "text": [
+         "In high school, lead vocalist Derek Stipe met Kent Rector, who played drums. Soon Rector, Stipe and his brother Kevin began jamming together. After playing with a few other people, the group eventually narrowed down to four members: the Stipe brothers, Rector, and Justin Blythe who they knew from their church.[1] Lead singer Stipe said, \"We thought we kinda had something special, so we started playing out, getting better, and it just exploded from there.\"[1]\n",
+         "They decided on a band name, \"Monday Morning\", because it was \"a dose of reality.\" Stipe noted, \"When you confront the world, yourself, and everything around you. No more games, masks, or half truths. That is the boldness we want our music to have.\"[1] In 2001 they released the three-track Monday Morning EP,[2] followed by Blind in 2002.[3]\n",
+         "\n"
+      ]
+   },
+   "Musical style": {
+      "text": [
+         "The band cites their biggest influences as U2, Silverchair, Pearl Jam, Led Zeppelin, Butch Walker and Our Lady Peace.[1]\n"
+      ]
+   },
+   "Band members": {},
+   "Discography": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Monday Morning is a Christian alternative rock band from North Carolina, U.S. In 2005 they released their major label debut through Selectric Records, Fool's Paradise, and are known for their number 1 hit song \"Wonder of It All (Next Year)\".\n",
+      "In high school, lead vocalist Derek Stipe met Kent Rector, who played drums. Soon Rector, Stipe and his brother Kevin began jamming together. After playing with a few other people, the group eventually narrowed down to four members: the Stipe brothers, Rector, and Justin Blythe who they knew from their church.[1] Lead singer Stipe said, \"We thought we kinda had something special, so we started playing out, getting better, and it just exploded from there.\"[1]\n",
+      "They decided on a band name, \"Monday Morning\", because it was \"a dose of reality.\" Stipe noted, \"When you confront the world, yourself, and everything around you. No more games, masks, or half truths. That is the boldness we want our music to have.\"[1] In 2001 they released the three-track Monday Morning EP,[2] followed by Blind in 2002.[3]\n",
+      "The band's first major studio album, Fool's Paradise, was released on August 30, 2005.[4] \"Wonder of It All (Next Year)\" was released as a single, and reached No. 1 on R&R's Christian CHR chart. It was the No. 9 most played song of 2006 on that format.[5]\n"
+   ]
 }

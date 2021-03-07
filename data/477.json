@@ -1,25 +1,19 @@
 {
-   "Awards and recognition": {
+   "Name": "Random Hero (band)",
+   "Sections": [
+      "1 History",
+      "2 Band members",
+      "3 Discography",
+      "4 Awards and recognition",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
       "text": [
-         "National Billboard Mainstream Rock Chart National Airplay Chart\n",
-         "Christian Festival Association National Talent Competition\n",
-         "KBPI Best Band in Denver Competition\n",
-         "United States Air Force's Guardian Challenge\n",
-         "National BDS Christian Rock Radio Charts National Airplay Chart'\n"
+         "Random Hero is an American rock band formed in Denver, Colorado, United States. Random Hero is Aaron Watkins (Vocals), And Rob “Los” McDonough (Bass). Earning a #1 Christian Rock single, for eight weeks straight, with Tension, two Top 25 Billboard Mainstream Rock singles, along with six Top 5 Billboard Christian rock singles. The band has worked with Kellen McGregor (Memphis May Fire), Josiah Prince (Disciple), Ben Kasica (Skillet), co-headlined two major European festivals; Loud & Proud & Christmas Rock Night, featured on the \"Today In Nashville Show\",  MTV's “Made,” multiple stops on the Vans Warped Tour and Christian music’s top rock outing, the City Rock Fest Tour. Random Hero continues to be a mainstay on national tours and festivals around the country and internationally.\n",
+         "Discography includes The Breakdown EP, Carry Me, Bury Me, Oceans of Change and The Covering. Their latest release Tension (Rockfest Records) is the band’s largest release to date, providing a musical foundation squarely focused on elevating Random Hero’s urgent message of hope and healing.\n"
       ]
    },
-   "Band members": {
-      "text": [
-         "Current\n",
-         "\nFormer\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "This is a list of major releases only. Additional releases including live albums, singles, compilation albums and videos may be found at the full discography article.\n"
-      ]
-   },
-   "External links": {},
    "History": {
       "text": [
          "Random Hero started in 2005. With original members Joshua Bertrand, Derek Arosemena, Robert Higdon (Drums), Nick Pearson (Keyboards) and Kat Barnes (Vocalist).  In the early years, the band was gaining a lot of recognition, being compared to Evanescence due to Kat Barnes' haunting vocals, alongside Nick Pearson and Josh Bertrand's orchestral- based powerhouse writing.\n",
@@ -47,20 +41,32 @@
          "On December 2, 2019, Tension was nominated for the 8th Annual We Love Christian Music Awards, \"Amp Award\" (Rock/Alternative Album of the year) along side, Skillet, Disciple, Manafest and Seventh Day Slumber. \n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Band members",
-      "3 Discography",
-      "4 Awards and recognition",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
+   "Band members": {
       "text": [
-         "Random Hero is an American rock band formed in Denver, Colorado, United States. Random Hero is Aaron Watkins (Vocals), And Rob “Los” McDonough (Bass). Earning a #1 Christian Rock single, for eight weeks straight, with Tension, two Top 25 Billboard Mainstream Rock singles, along with six Top 5 Billboard Christian rock singles. The band has worked with Kellen McGregor (Memphis May Fire), Josiah Prince (Disciple), Ben Kasica (Skillet), co-headlined two major European festivals; Loud & Proud & Christmas Rock Night, featured on the \"Today In Nashville Show\",  MTV's “Made,” multiple stops on the Vans Warped Tour and Christian music’s top rock outing, the City Rock Fest Tour. Random Hero continues to be a mainstay on national tours and festivals around the country and internationally.\n",
-         "Discography includes The Breakdown EP, Carry Me, Bury Me, Oceans of Change and The Covering. Their latest release Tension (Rockfest Records) is the band’s largest release to date, providing a musical foundation squarely focused on elevating Random Hero’s urgent message of hope and healing.\n"
+         "Current\n",
+         "\nFormer\n"
       ]
    },
-   "Title": "Random Hero (band) - Wikipedia"
+   "Discography": {
+      "text": [
+         "This is a list of major releases only. Additional releases including live albums, singles, compilation albums and videos may be found at the full discography article.\n"
+      ]
+   },
+   "Awards and recognition": {
+      "text": [
+         "National Billboard Mainstream Rock Chart National Airplay Chart\n",
+         "Christian Festival Association National Talent Competition\n",
+         "KBPI Best Band in Denver Competition\n",
+         "United States Air Force's Guardian Challenge\n",
+         "National BDS Christian Rock Radio Charts National Airplay Chart'\n"
+      ]
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Random Hero is an American rock band formed in Denver, Colorado, United States. Random Hero is Aaron Watkins (Vocals), And Rob “Los” McDonough (Bass). Earning a #1 Christian Rock single, for eight weeks straight, with Tension, two Top 25 Billboard Mainstream Rock singles, along with six Top 5 Billboard Christian rock singles. The band has worked with Kellen McGregor (Memphis May Fire), Josiah Prince (Disciple), Ben Kasica (Skillet), co-headlined two major European festivals; Loud & Proud & Christmas Rock Night, featured on the \"Today In Nashville Show\",  MTV's “Made,” multiple stops on the Vans Warped Tour and Christian music’s top rock outing, the City Rock Fest Tour. Random Hero continues to be a mainstay on national tours and festivals around the country and internationally.\n",
+      "Discography includes The Breakdown EP, Carry Me, Bury Me, Oceans of Change and The Covering. Their latest release Tension (Rockfest Records) is the band’s largest release to date, providing a musical foundation squarely focused on elevating Random Hero’s urgent message of hope and healing.\n",
+      "Random Hero started in 2005. With original members Joshua Bertrand, Derek Arosemena, Robert Higdon (Drums), Nick Pearson (Keyboards) and Kat Barnes (Vocalist).  In the early years, the band was gaining a lot of recognition, being compared to Evanescence due to Kat Barnes' haunting vocals, alongside Nick Pearson and Josh Bertrand's orchestral- based powerhouse writing.\n",
+      "In April 2006, now lead vocalist, Aaron Watkins, replaced Kat Barnes.\n"
+   ]
 }

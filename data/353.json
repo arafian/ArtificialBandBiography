@@ -1,8 +1,18 @@
 {
-   "Awards and nominations": {},
-   "Discography": {
-      "Singles": {},
-      "Studio releases": {}
+   "Name": "The Tourist Company",
+   "Sections": [
+      "1 History",
+      "2 Touring",
+      "3 Awards and nominations",
+      "4 Discography",
+      "4.1 Studio releases",
+      "4.2 Singles",
+      "5 References"
+   ],
+   "Summary": {
+      "text": [
+         "The Tourist Company (or Tourist Company) is a Canadian, Vancouver-based alternative rock band, formed in 2013 by Taylor Swindells.\n"
+      ]
    },
    "History": {
       "text": [
@@ -18,26 +28,22 @@
          "On May 15, 2020, the band released their sophomore record St.Helens.[19][20] An ambient accompaniment to the record was released on December 4, 2020.\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Touring",
-      "3 Awards and nominations",
-      "4 Discography",
-      "4.1 Studio releases",
-      "4.2 Singles",
-      "5 References"
-   ],
-   "Summary": {
-      "text": [
-         "The Tourist Company (or Tourist Company) is a Canadian, Vancouver-based alternative rock band, formed in 2013 by Taylor Swindells.\n"
-      ]
-   },
-   "Title": "The Tourist Company - Wikipedia",
    "Touring": {
       "text": [
          "Tourist Company toured across Canada in 2014 and throughout 2015.[21] In the fall of 2015, they opened for Dear Rouge and Rah Rah on select dates of the Black to Gold Tour.[22][23] In the fall of 2016, they toured from Vancouver to Charlottetown, supporting their debut record Apollo. Over 2017 and 2018, the band performed select dates and festivals, and showcased in Hamburg, Germany, and Guadalajara, Mexico. They capped off 2018 as the headliners at Vancouver's New Years Eve. The band then toured across Canada in early 2019,[24] and throughout Mexico in July 2019, before heading east to play Festival d'été de Québec.[25]\n",
          "They've also opened for artists like Said The Whale, We Are the City, The Zolas, and Dragonette.[26][27] and played numerous festivals such as Canadian Music Week in Toronto, Reeperbahn in Hamburg, Germany,[28] Upstream Music Fest + Summit and Bumbershoot in Seattle, Washington,[29][30] and Rifflandia Music Festival in Victoria, BC.[31][32]\n"
       ]
-   }
+   },
+   "Awards and nominations": {},
+   "Discography": {
+      "Studio releases": {},
+      "Singles": {}
+   },
+   "References": {},
+   "coreData": [
+      "The Tourist Company (or Tourist Company) is a Canadian, Vancouver-based alternative rock band, formed in 2013 by Taylor Swindells.\n",
+      "Tourist Company formed after meeting at summer camp in 2013. After that they teamed up with singer-songwriter Jordan Klassen to produce and record their EP Space Race, which they released in May 2014.[1][2]\n",
+      "In June 2014, the band was accepted into the Peak Performance Project.[3] In November of that year, they won the $50,000 3rd place prize.[4]\n",
+      "The band toured and recorded throughout 2015. Their debut single \"Shouldn't Believe\" was released and sent to radio on September 14, 2015.[5]\nOn April 29, 2016, the group released Mercury EP.[6]\n"
+   ]
 }

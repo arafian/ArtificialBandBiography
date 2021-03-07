@@ -1,19 +1,35 @@
 {
-   "Discography": {
-      "Studio albums": {}
+   "Name": "DarkSun",
+   "Sections": [
+      "1 History",
+      "1.1 El Legado (2002-2005)",
+      "1.2 El Lado Oscuro (2005-2007)",
+      "1.3 Libera Me (2007-present)",
+      "2 Members",
+      "2.1 Current",
+      "2.2 Past",
+      "3 Discography",
+      "3.1 Studio albums",
+      "4 See also",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
+      "text": [
+         "DarkSun is a Spanish power metal band from Asturias, Spain. Formed in 2002 after the split of Nörthwind, the band has since released six studio albums.[1] DarkSun has often cited Blind Guardian, Helloween, Angra, and Rage as their biggest and most important influences.\n"
+      ]
    },
-   "External links": {},
    "History": {
-      "El Lado Oscuro (2005-2007)": {
-         "text": [
-            "When the tour on support of El Legado ended, DarkSun entered the studios once again to record their new album. On the middle of the composition, arrangements, and production of the new album, the band hired Pinto's replacement, Víctor Fernández, who performed keyboard duties. This album was recorded in Germany, with Ingo Cjavkoski in the production. This time the band had Dennis Ward on mixings. (who was better known for his work with Angra), and Lars Ratz (from Metalium) assisted on the vocals production. Once again the reviews were as good as they could possibly be, like \"...it's a varied work, where power and heavy metal alternate and mix\", and \"El Lado Oscuro is a really good power metal album\". Peavy Wagner (of Rage fame) performed vocals on a song, which was released as a bonus track on the album, entitled \"Prisoners of Fate\".\n",
-            "The band released an English version of El Lado Oscuro, titled The Dark Side and was released in September 2007 through FC Metal Recordings.[2] The critics were as good as the Spanish version, like \"the album can be defined with one word: brilliant!\". The band collaborated on Rage's album Speak of the Dead, with a Spanish version of the song \"Full Moon\" entitled \"La Luna Reine,\" which appeared as a bonus track. Just after the release of The Dark Side drummer Rafael Yugueros left DarkSun to form part of power metal band WarCry replacing former drummer Alberto Ardines. Yugueros had already worked with WarCry on their 1997's demo Demon 97. The band re-recruited Daniel Cabal who worked on what would become the band's new album. Keyboardist Víctor Fernández left the band on the summer of 2007, being replaced by Ana Fernandes, who had previously played for Spanish band Stormrider. On the summer of 2008 DarkSun announced that Cabal was leaving the band, all these occurred in a professional and friendly way. On the same announcement the band presented new drummer Jose Ojeda, who had performed drums on Spanish bands like Rivendel Lords, Killian, among others.\n"
-         ]
-      },
       "El Legado (2002-2005)": {
          "text": [
             "After the split of power metal band Nörthwind, three of the members formed heavy metal band Vendaval. The rest of the members, guitarists Tino Hevia and Daniel Gonzalez, and keyboardist Helena Pinto, formed DarkSun. The band recruited bassist Pedro Junquera and drummer Daniel Cabal, who had also worked with Relative Silence along with Helena Pinto. They decided to record an album after recruiting all the members to have a stable lineup.\n",
             "In the middle of 2003, DarkSun went to Germany to record what would become their debut album. It was recorded at VPS Studios, produced by Ingo Cjavkoski (better known as Rage's producer), and mixed at House of Music Studios by Achim Köhler (mixer who had worked for bands like Primal Fear and Sinner). El Legado was the debut album by the band, released in July 2004. Professional reviews were incredibly good, stating that El Legado, was \"one of the best Spanish metal albums of the year [...] from an excellent band\". DarkSun toured Spain for a whole year to support the album, and had \"tickets-sold-out\" posters in most of the venues. The critics and live-reviews about this new band were incredibly good. In the middle of the tour, drummer Daniel Cabal left the band. The rest of the members had to cancel some concerts before introducing Cabal's replacement, drummer Rafael Yugueros who was at that time known for his work on power metal band Darna, on their first and second album and left after the band's breakup in 2004. Keyboardist Helena Pinto left the band at the end of 2004.\n"
+         ]
+      },
+      "El Lado Oscuro (2005-2007)": {
+         "text": [
+            "When the tour on support of El Legado ended, DarkSun entered the studios once again to record their new album. On the middle of the composition, arrangements, and production of the new album, the band hired Pinto's replacement, Víctor Fernández, who performed keyboard duties. This album was recorded in Germany, with Ingo Cjavkoski in the production. This time the band had Dennis Ward on mixings. (who was better known for his work with Angra), and Lars Ratz (from Metalium) assisted on the vocals production. Once again the reviews were as good as they could possibly be, like \"...it's a varied work, where power and heavy metal alternate and mix\", and \"El Lado Oscuro is a really good power metal album\". Peavy Wagner (of Rage fame) performed vocals on a song, which was released as a bonus track on the album, entitled \"Prisoners of Fate\".\n",
+            "The band released an English version of El Lado Oscuro, titled The Dark Side and was released in September 2007 through FC Metal Recordings.[2] The critics were as good as the Spanish version, like \"the album can be defined with one word: brilliant!\". The band collaborated on Rage's album Speak of the Dead, with a Spanish version of the song \"Full Moon\" entitled \"La Luna Reine,\" which appeared as a bonus track. Just after the release of The Dark Side drummer Rafael Yugueros left DarkSun to form part of power metal band WarCry replacing former drummer Alberto Ardines. Yugueros had already worked with WarCry on their 1997's demo Demon 97. The band re-recruited Daniel Cabal who worked on what would become the band's new album. Keyboardist Víctor Fernández left the band on the summer of 2007, being replaced by Ana Fernandes, who had previously played for Spanish band Stormrider. On the summer of 2008 DarkSun announced that Cabal was leaving the band, all these occurred in a professional and friendly way. On the same announcement the band presented new drummer Jose Ojeda, who had performed drums on Spanish bands like Rivendel Lords, Killian, among others.\n"
          ]
       },
       "Libera Me (2007-present)": {
@@ -30,26 +46,16 @@
          ]
       }
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 El Legado (2002-2005)",
-      "1.2 El Lado Oscuro (2005-2007)",
-      "1.3 Libera Me (2007-present)",
-      "2 Members",
-      "2.1 Current",
-      "2.2 Past",
-      "3 Discography",
-      "3.1 Studio albums",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "See also": {},
-   "Summary": {
-      "text": [
-         "DarkSun is a Spanish power metal band from Asturias, Spain. Formed in 2002 after the split of Nörthwind, the band has since released six studio albums.[1] DarkSun has often cited Blind Guardian, Helloween, Angra, and Rage as their biggest and most important influences.\n"
-      ]
+   "Discography": {
+      "Studio albums": {}
    },
-   "Title": "DarkSun - Wikipedia"
+   "See also": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "DarkSun is a Spanish power metal band from Asturias, Spain. Formed in 2002 after the split of Nörthwind, the band has since released six studio albums.[1] DarkSun has often cited Blind Guardian, Helloween, Angra, and Rage as their biggest and most important influences.\n",
+      "After the split of power metal band Nörthwind, three of the members formed heavy metal band Vendaval. The rest of the members, guitarists Tino Hevia and Daniel Gonzalez, and keyboardist Helena Pinto, formed DarkSun. The band recruited bassist Pedro Junquera and drummer Daniel Cabal, who had also worked with Relative Silence along with Helena Pinto. They decided to record an album after recruiting all the members to have a stable lineup.\n",
+      "In the middle of 2003, DarkSun went to Germany to record what would become their debut album. It was recorded at VPS Studios, produced by Ingo Cjavkoski (better known as Rage's producer), and mixed at House of Music Studios by Achim Köhler (mixer who had worked for bands like Primal Fear and Sinner). El Legado was the debut album by the band, released in July 2004. Professional reviews were incredibly good, stating that El Legado, was \"one of the best Spanish metal albums of the year [...] from an excellent band\". DarkSun toured Spain for a whole year to support the album, and had \"tickets-sold-out\" posters in most of the venues. The critics and live-reviews about this new band were incredibly good. In the middle of the tour, drummer Daniel Cabal left the band. The rest of the members had to cancel some concerts before introducing Cabal's replacement, drummer Rafael Yugueros who was at that time known for his work on power metal band Darna, on their first and second album and left after the band's breakup in 2004. Keyboardist Helena Pinto left the band at the end of 2004.\n",
+      "When the tour on support of El Legado ended, DarkSun entered the studios once again to record their new album. On the middle of the composition, arrangements, and production of the new album, the band hired Pinto's replacement, Víctor Fernández, who performed keyboard duties. This album was recorded in Germany, with Ingo Cjavkoski in the production. This time the band had Dennis Ward on mixings. (who was better known for his work with Angra), and Lars Ratz (from Metalium) assisted on the vocals production. Once again the reviews were as good as they could possibly be, like \"...it's a varied work, where power and heavy metal alternate and mix\", and \"El Lado Oscuro is a really good power metal album\". Peavy Wagner (of Rage fame) performed vocals on a song, which was released as a bonus track on the album, entitled \"Prisoners of Fate\".\n"
+   ]
 }

@@ -1,31 +1,5 @@
 {
-   "Band members": {},
-   "Discography": {
-      "EPs and splits": {},
-      "Studio albums": {
-         "text": [
-            "Track listing\n",
-            "Track listing\n",
-            "\nAll tracks are written by Ronald Petzke, Dennis Pleckham, Nick Dellacroce.",
-            "Track listing\n",
-            "Original track listing\n",
-            "LP track listing\n",
-            "Track listing\n",
-            "Track listing\n",
-            "Track listing\n"
-         ]
-      }
-   },
-   "History": {
-      "text": [
-         "Bongripper began in 2006 with the self-release of their first album titled The Great Barrier Reefer,[1] which is composed of a single 79-minute piece created with the intention of being longer than Sleep's Dopesmoker. In 2007, the band self-released their second studio album titled Hippie Killer[1] and their third studio album titled Heroin. In 2008, the band self-released its fourth studio album titled Hate Ashbury[2] and a collaborative EP with Winters in Osaka.[3]  This was followed by the band self releasing their album Satan Worshipping Doom in 2010.\n",
-         "In 2013, Bongripper released two split EPs via Great Barrier Records; one with Hate and another one with Conan.[4]\n",
-         "In 2014, the band released their sixth studio album titled Miserable via Great Barrier Records.[5]\n",
-         "Their seventh album titled Terminal was released on July 6, 2018.[6]\n",
-         "In May 2020, the band released Glaciers, an EP recorded in 2009 and left unreleased for 11 years.[7]\n"
-      ]
-   },
-   "References": {},
+   "Name": "Bongripper",
    "Sections": [
       "1 History",
       "2 Band members",
@@ -39,5 +13,37 @@
          "Bongripper is an American doom metal band from Chicago, Illinois, United States.\n"
       ]
    },
-   "Title": "Bongripper - Wikipedia"
+   "History": {
+      "text": [
+         "Bongripper began in 2006 with the self-release of their first album titled The Great Barrier Reefer,[1] which is composed of a single 79-minute piece created with the intention of being longer than Sleep's Dopesmoker. In 2007, the band self-released their second studio album titled Hippie Killer[1] and their third studio album titled Heroin. In 2008, the band self-released its fourth studio album titled Hate Ashbury[2] and a collaborative EP with Winters in Osaka.[3]  This was followed by the band self releasing their album Satan Worshipping Doom in 2010.\n",
+         "In 2013, Bongripper released two split EPs via Great Barrier Records; one with Hate and another one with Conan.[4]\n",
+         "In 2014, the band released their sixth studio album titled Miserable via Great Barrier Records.[5]\n",
+         "Their seventh album titled Terminal was released on July 6, 2018.[6]\n",
+         "In May 2020, the band released Glaciers, an EP recorded in 2009 and left unreleased for 11 years.[7]\n"
+      ]
+   },
+   "Band members": {},
+   "Discography": {
+      "Studio albums": {
+         "text": [
+            "Track listing\n",
+            "Track listing\n",
+            "\nAll tracks are written by Ronald Petzke, Dennis Pleckham, Nick Dellacroce.",
+            "Track listing\n",
+            "Original track listing\n",
+            "LP track listing\n",
+            "Track listing\n",
+            "Track listing\n",
+            "Track listing\n"
+         ]
+      },
+      "EPs and splits": {}
+   },
+   "References": {},
+   "coreData": [
+      "Bongripper is an American doom metal band from Chicago, Illinois, United States.\n",
+      "Bongripper began in 2006 with the self-release of their first album titled The Great Barrier Reefer,[1] which is composed of a single 79-minute piece created with the intention of being longer than Sleep's Dopesmoker. In 2007, the band self-released their second studio album titled Hippie Killer[1] and their third studio album titled Heroin. In 2008, the band self-released its fourth studio album titled Hate Ashbury[2] and a collaborative EP with Winters in Osaka.[3]  This was followed by the band self releasing their album Satan Worshipping Doom in 2010.\n",
+      "In 2013, Bongripper released two split EPs via Great Barrier Records; one with Hate and another one with Conan.[4]\n",
+      "In 2014, the band released their sixth studio album titled Miserable via Great Barrier Records.[5]\n"
+   ]
 }

@@ -1,6 +1,24 @@
 {
-   "Discography": {},
-   "External links": {},
+   "Name": "Because of Ghosts",
+   "Sections": [
+      "1 Members",
+      "2 History",
+      "3 Discography",
+      "4 External links",
+      "5 Notes and references"
+   ],
+   "Summary": {
+      "text": [
+         "Because of Ghosts is a three-piece post-rock band based in Melbourne, Australia.\n",
+         "They are often compared to bands such as Dirty Three[1] or Godspeed You! Black Emperor.[2][3]\n",
+         "The band is known for their unique take on instrumental rock and their (often handmade) CD artwork illustrated by guitarist Reuben Stanton.[4][5]\n"
+      ]
+   },
+   "Members": {
+      "text": [
+         "All three members of the band are related. Domenic and Reuben are brothers. Jacob is their younger half-brother (maternal). This relationship is often confused and misconstrued in media stories and interviews.[6]\n"
+      ]
+   },
    "History": {
       "text": [
          "Because of Ghosts formed in 2002 when half brothers Jacob Pearce and Reuben Stanton began experimenting with looped guitars, casio toys, found tapes, field recordings and various percussion instruments. Jacob and Reuben independently recorded and released \"No More Reason, No More Doubt\" and \"Because of Ghosts EP\" in late 2002 / early 2003.\n",
@@ -18,25 +36,13 @@
          "Domenic plays bass for Melbourne grunge-rock group Needleburner and on occasion for Melbourne gothic-folk artist Wayward Breed\n"
       ]
    },
-   "Members": {
-      "text": [
-         "All three members of the band are related. Domenic and Reuben are brothers. Jacob is their younger half-brother (maternal). This relationship is often confused and misconstrued in media stories and interviews.[6]\n"
-      ]
-   },
+   "Discography": {},
+   "External links": {},
    "Notes and references": {},
-   "Sections": [
-      "1 Members",
-      "2 History",
-      "3 Discography",
-      "4 External links",
-      "5 Notes and references"
-   ],
-   "Summary": {
-      "text": [
-         "Because of Ghosts is a three-piece post-rock band based in Melbourne, Australia.\n",
-         "They are often compared to bands such as Dirty Three[1] or Godspeed You! Black Emperor.[2][3]\n",
-         "The band is known for their unique take on instrumental rock and their (often handmade) CD artwork illustrated by guitarist Reuben Stanton.[4][5]\n"
-      ]
-   },
-   "Title": "Because of Ghosts - Wikipedia"
+   "coreData": [
+      "Because of Ghosts is a three-piece post-rock band based in Melbourne, Australia.\n",
+      "They are often compared to bands such as Dirty Three[1] or Godspeed You! Black Emperor.[2][3]\n",
+      "The band is known for their unique take on instrumental rock and their (often handmade) CD artwork illustrated by guitarist Reuben Stanton.[4][5]\n",
+      "All three members of the band are related. Domenic and Reuben are brothers. Jacob is their younger half-brother (maternal). This relationship is often confused and misconstrued in media stories and interviews.[6]\n"
+   ]
 }

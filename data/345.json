@@ -1,4 +1,14 @@
 {
+   "Name": "Rymes with Orange",
+   "Sections": [
+      "Summary",
+      "History"
+   ],
+   "Summary": {
+      "text": [
+         "Rymes with Orange is a Canadian alternative rock band which formed in 1991 in Vancouver, British Columbia, Canada. This independent band have released four albums: Peel (1992), Trapped in the Machine (1994), Crash (1999) and One More Mile (2003). They have had three Top 10 singles on Canadian Rock Radio, with sales of over 70,000 units worldwide, and have toured Canada, New Zealand, the U.S. and the U.K., all while maintaining independent status.[1]\n"
+      ]
+   },
    "History": {
       "text": [
          "The band originated in the early 1990s in Prince George, British Columbia, as The Night Watchmen, by original drummer and songwriter Alex (Julien) Dias, and writing partner, guitarist Rob Lulic. Vancouver based keyboardist Bob D'Eith later joined the band. It was when lead singer Jimmy Gilmore, subsequently a member of The Silencers from Scotland, decided to leave the band to go back to Scotland, Dias, Lulic and D'Eith continued, with what would eventually become Rymes with Orange.\n",
@@ -31,9 +41,10 @@
          "On November 4, 2017, Rymes With Orange reunite for the first time in 21 years, with Trapped in the Machine lineup; Lyndon Johnson, Rob Lulic, Steeve Hennessy and Nelson Sinclair. Original Trapped in the Machine drummer Niko Quintal, who couldn't attend the private event in Vancouver, is also rumored to be returning to the project for future recordings.\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "Rymes with Orange is a Canadian alternative rock band which formed in 1991 in Vancouver, British Columbia, Canada. This independent band have released four albums: Peel (1992), Trapped in the Machine (1994), Crash (1999) and One More Mile (2003). They have had three Top 10 singles on Canadian Rock Radio, with sales of over 70,000 units worldwide, and have toured Canada, New Zealand, the U.S. and the U.K., all while maintaining independent status.[1]\n"
-      ]
-   }
+   "coreData": [
+      "Rymes with Orange is a Canadian alternative rock band which formed in 1991 in Vancouver, British Columbia, Canada. This independent band have released four albums: Peel (1992), Trapped in the Machine (1994), Crash (1999) and One More Mile (2003). They have had three Top 10 singles on Canadian Rock Radio, with sales of over 70,000 units worldwide, and have toured Canada, New Zealand, the U.S. and the U.K., all while maintaining independent status.[1]\n",
+      "The band originated in the early 1990s in Prince George, British Columbia, as The Night Watchmen, by original drummer and songwriter Alex (Julien) Dias, and writing partner, guitarist Rob Lulic. Vancouver based keyboardist Bob D'Eith later joined the band. It was when lead singer Jimmy Gilmore, subsequently a member of The Silencers from Scotland, decided to leave the band to go back to Scotland, Dias, Lulic and D'Eith continued, with what would eventually become Rymes with Orange.\n",
+      "In 1991, after The Night Watchmen split-up, Dias, Lulic and D'Eith joined up with UK-born lead singer Lyndon Johnson, to form Rymes With Orange in Vancouver.[1] As The Night Watchmen, the band had a more conventional alternative rock sound, while as Rymes With Orange, their style evolved more towards a Madchester-influenced dance rock alternative rock sound.[2]\n",
+      "That same year, the band was a semi-finalist in Vancouver's local Demo Listen Derby competition in 1991.[3] Around this time, the band joked in promotional interviews that the apparently missing letter \"h\" in their name had been donated to the band hHead.[4]\n"
+   ]
 }

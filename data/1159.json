@@ -1,7 +1,25 @@
 {
-   "Covers": {
+   "Name": "Cruzados",
+   "Sections": [
+      "1 Formation and success",
+      "2 Disbandment",
+      "3 Covers",
+      "4 Personnel",
+      "5 Discography",
+      "6 See also",
+      "7 References",
+      "8 External links"
+   ],
+   "Summary": {
       "text": [
-         "Jenny Morris included a cover of the Cruzados song \"Rising Sun\" on her 1987 album, Body and Soul.\n"
+         "The   Cruzados  were a 1980s rock band from Los Angeles, California.\n"
+      ]
+   },
+   "Formation and success": {
+      "text": [
+         "The Cruzados were formed in 1984 by the third incarnation of The Plugz, featuring members Tito Larriva, Steven Hufsteter, Chalo Quintana and Tony Marsico. They were picked as \"the next big thing\" by both their musical peers and music critics[who?], and they received praise from the likes of Bob Dylan, John Fogerty, David Byrne, Brian Setzer, and Billy Joel.[citation needed] The Cruzados would record three albums for Arista Records but only two would be released.[1]\n",
+         "The band's self-titled album, Cruzados, was released in 1985.\n",
+         "Following the release of Cruzados, Hufsteter left the band. He was replaced by Dino's Revenge guitarist Marshall Rohner,[2] who would record on the second album After Dark, released in 1987. The Cruzados also performed the song \"Don't Throw Stones\" at the beginning of the 1989 movie Road House.\n"
       ]
    },
    "Disbandment": {
@@ -13,13 +31,9 @@
          "In 1991, Quintana became the drummer for Izzy Stradlin & the JuJu Hounds and was the drummer for Social Distortion from 2000 to 2009 and Mike Ness's solo touring band. Quintana died in 2018.  Marsico became bassist for Matthew Sweet in 1993 until present and recorded sessions with Bob Dylan, Neil Young, Roger Daltrey and Marianne Faithfull, among others. Rohner became a guitarist for the band T.S.O.L. but died in October 2005 of AIDS-related causes.\n"
       ]
    },
-   "Discography": {},
-   "External links": {},
-   "Formation and success": {
+   "Covers": {
       "text": [
-         "The Cruzados were formed in 1984 by the third incarnation of The Plugz, featuring members Tito Larriva, Steven Hufsteter, Chalo Quintana and Tony Marsico. They were picked as \"the next big thing\" by both their musical peers and music critics[who?], and they received praise from the likes of Bob Dylan, John Fogerty, David Byrne, Brian Setzer, and Billy Joel.[citation needed] The Cruzados would record three albums for Arista Records but only two would be released.[1]\n",
-         "The band's self-titled album, Cruzados, was released in 1985.\n",
-         "Following the release of Cruzados, Hufsteter left the band. He was replaced by Dino's Revenge guitarist Marshall Rohner,[2] who would record on the second album After Dark, released in 1987. The Cruzados also performed the song \"Don't Throw Stones\" at the beginning of the 1989 movie Road House.\n"
+         "Jenny Morris included a cover of the Cruzados song \"Rising Sun\" on her 1987 album, Body and Soul.\n"
       ]
    },
    "Personnel": {
@@ -27,22 +41,14 @@
          "Jimmy Amason - lead guitar\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 Formation and success",
-      "2 Disbandment",
-      "3 Covers",
-      "4 Personnel",
-      "5 Discography",
-      "6 See also",
-      "7 References",
-      "8 External links"
-   ],
+   "Discography": {},
    "See also": {},
-   "Summary": {
-      "text": [
-         "The   Cruzados  were a 1980s rock band from Los Angeles, California.\n"
-      ]
-   },
-   "Title": "Cruzados - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The   Cruzados  were a 1980s rock band from Los Angeles, California.\n",
+      "The Cruzados were formed in 1984 by the third incarnation of The Plugz, featuring members Tito Larriva, Steven Hufsteter, Chalo Quintana and Tony Marsico. They were picked as \"the next big thing\" by both their musical peers and music critics[who?], and they received praise from the likes of Bob Dylan, John Fogerty, David Byrne, Brian Setzer, and Billy Joel.[citation needed] The Cruzados would record three albums for Arista Records but only two would be released.[1]\n",
+      "The band's self-titled album, Cruzados, was released in 1985.\n",
+      "Following the release of Cruzados, Hufsteter left the band. He was replaced by Dino's Revenge guitarist Marshall Rohner,[2] who would record on the second album After Dark, released in 1987. The Cruzados also performed the song \"Don't Throw Stones\" at the beginning of the 1989 movie Road House.\n"
+   ]
 }

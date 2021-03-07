@@ -1,9 +1,22 @@
 {
-   "Band members": {
-      "Timeline": {}
+   "Name": "Forbidden (band)",
+   "Sections": [
+      "1 History",
+      "1.1 Initial career (1985–1997)",
+      "1.2 Reunions and Omega Wave (2001–2010)",
+      "1.3 Switching drummers and hiatus (2011–present)",
+      "2 Band members",
+      "2.1 Timeline",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Forbidden was a thrash metal band from the San Francisco Bay Area, California. Formed in 1985 as Forbidden Evil, the group was founded by Jim Pittman and guitarist Robb Flynn. Since their formation, Forbidden have broken up and reformed twice with numerous line-up changes. The most recent line-up of the band was Russ Anderson (vocals), Craig Locicero (guitar), Matt Camacho (bass), Steve Smyth (guitar) and Sasha Horn (drums). After breaking up for the first time in 1997 and briefly returning in 2001, Forbidden reunited once again in 2007 but has been on an indefinite hiatus since 2012.\n",
+         "Along with Death Angel, Vio-lence, Defiance, Testament and Exodus (the latter of the two had featured original Forbidden drummer Paul Bostaph), they were one of the most successful Bay Area thrash metal bands and earned a loyal fanbase in the underground music community and critical acclaim, with their debut album Forbidden Evil (1988) regarded by critics as a classic thrash metal album and the follow-up, Twisted into Form (1990), as something of a masterpiece within the “tech-thrash” genre. Their earlier style was technical thrash metal, but the band later experimented with alternative and groove metal elements on their fourth album Green (1997).\n"
+      ]
    },
-   "Discography": {},
-   "External links": {},
    "History": {
       "Initial career (1985–1997)": {
          "text": [
@@ -28,23 +41,16 @@
          ]
       }
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Initial career (1985–1997)",
-      "1.2 Reunions and Omega Wave (2001–2010)",
-      "1.3 Switching drummers and hiatus (2011–present)",
-      "2 Band members",
-      "2.1 Timeline",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Forbidden was a thrash metal band from the San Francisco Bay Area, California. Formed in 1985 as Forbidden Evil, the group was founded by Jim Pittman and guitarist Robb Flynn. Since their formation, Forbidden have broken up and reformed twice with numerous line-up changes. The most recent line-up of the band was Russ Anderson (vocals), Craig Locicero (guitar), Matt Camacho (bass), Steve Smyth (guitar) and Sasha Horn (drums). After breaking up for the first time in 1997 and briefly returning in 2001, Forbidden reunited once again in 2007 but has been on an indefinite hiatus since 2012.\n",
-         "Along with Death Angel, Vio-lence, Defiance, Testament and Exodus (the latter of the two had featured original Forbidden drummer Paul Bostaph), they were one of the most successful Bay Area thrash metal bands and earned a loyal fanbase in the underground music community and critical acclaim, with their debut album Forbidden Evil (1988) regarded by critics as a classic thrash metal album and the follow-up, Twisted into Form (1990), as something of a masterpiece within the “tech-thrash” genre. Their earlier style was technical thrash metal, but the band later experimented with alternative and groove metal elements on their fourth album Green (1997).\n"
-      ]
+   "Band members": {
+      "Timeline": {}
    },
-   "Title": "Forbidden (band) - Wikipedia"
+   "Discography": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Forbidden was a thrash metal band from the San Francisco Bay Area, California. Formed in 1985 as Forbidden Evil, the group was founded by Jim Pittman and guitarist Robb Flynn. Since their formation, Forbidden have broken up and reformed twice with numerous line-up changes. The most recent line-up of the band was Russ Anderson (vocals), Craig Locicero (guitar), Matt Camacho (bass), Steve Smyth (guitar) and Sasha Horn (drums). After breaking up for the first time in 1997 and briefly returning in 2001, Forbidden reunited once again in 2007 but has been on an indefinite hiatus since 2012.\n",
+      "Along with Death Angel, Vio-lence, Defiance, Testament and Exodus (the latter of the two had featured original Forbidden drummer Paul Bostaph), they were one of the most successful Bay Area thrash metal bands and earned a loyal fanbase in the underground music community and critical acclaim, with their debut album Forbidden Evil (1988) regarded by critics as a classic thrash metal album and the follow-up, Twisted into Form (1990), as something of a masterpiece within the “tech-thrash” genre. Their earlier style was technical thrash metal, but the band later experimented with alternative and groove metal elements on their fourth album Green (1997).\n",
+      "Forbidden Evil was formed in early 1985 by drummer Jim Pittman and guitarist Robb Flynn (later of Vio-lence and Machine Head), with the original lineup being completed by Craig Locicero (guitar), Russ Anderson (vocals) and John Tegio (bass). Flynn named the band after a song by the Chicago band War Cry that was featured on the Metal Massacre 4 compilation.[1]  They recorded demo tapes and appeared on the now-out-of-print live album The Eastern Front – Live At Ruthie's Inn. By 1986, Jim Pittman, John Tegio, and Robb Flynn left the band and were replaced by Paul Bostaph (drums), Matt Camacho (bass) and Glen Alvelais (guitar). The band's name was shortened to Forbidden in order to prevent the band from being mistakenly perceived as a black metal band.[2]\n",
+      "After considering offers from several record labels, the band signed with Combat Records in 1988 and released their debut album Forbidden Evil in September of that year.[2] The album included three songs written by former guitarist Robb Flynn (\"Chalice Of Blood\", \"Forbidden Evil\", and \"As Good As Dead\"). The album was promoted by touring the U.S. and Europe for the remainder of 1988 and into 1989, sharing the stage with the likes of Testament, Exodus, Holy Moses, Sepultura, Death Angel, Sacred Reich, Voivod, Savatage, Vio-lence, Dark Angel and Pestilence (not to be confused with the Dutch death metal band of the same name).[2] When the Forbidden Evil tour ended, Alvelais left the band and was replaced by guitarist Tim Calvert. The bands only live album Raw Evil - Live at the Dynamo EP, was also released in 1989.[2]\n"
+   ]
 }

@@ -1,27 +1,5 @@
 {
-   "Discography": {
-      "Compilation appearances": {},
-      "Full length albums and EPs": {
-         "text": [
-            "Studio albums\n",
-            "Compilation albums\n",
-            "EPs\n",
-            "Singles\n"
-         ]
-      }
-   },
-   "External links": {},
-   "History": {
-      "text": [
-         "Numb was founded by Don Gordon, David Hall and Sean Stubbs in 1986.[2][3] The band issued their self-titled debut studio album Numb in 1987 on Edge and World Records.[4] Their second album Christmeister was released by Lively Art in 1989.[5][6][7]\n",
-         "The band's third album Death on the Installment Plan, released in 1993, featured weird electronic tape-loops overlaid with heavily distorted vocals.[8] The 1994 album Wasted Sky used some of the same techniques, but with a darker feel and more technically varied approach.[9][10]\n",
-         "Singer David Collins joined the band in 1995; the band released its fifth album, Blood Meridian, which contained strong, violent electronic sound but no guitar music, in 1997.[11][12][13] Two years later, Numb recorded the electronic dance album Language of Silence, released through Metropolis.[14]  The tracks on this album were somewhat quieter and darkly intense.[15][16][17][18][19]\n",
-         "Following the release of one final single, \"Suspended\", Numb disbanded in 1998, and Gordon moved to Vietnam to live with his wife.[20]\n",
-         "After what was considered by many to be a retirement of the project and Don Gordon from the music scene in general, an album of new material was made available via Bandcamp on August 23, 2019 titled Mortal Geometry.\n"
-      ]
-   },
-   "Members": {},
-   "References": {},
+   "Name": "Numb (band)",
    "Sections": [
       "1 History",
       "2 Members",
@@ -32,11 +10,39 @@
       "5 References",
       "6 External links"
    ],
-   "Side projects": {},
    "Summary": {
       "text": [
          "Numb is a Canadian electro-industrial band that is based in Vancouver, British Columbia, Canada.[1]\n"
       ]
    },
-   "Title": "Numb (band) - Wikipedia"
+   "History": {
+      "text": [
+         "Numb was founded by Don Gordon, David Hall and Sean Stubbs in 1986.[2][3] The band issued their self-titled debut studio album Numb in 1987 on Edge and World Records.[4] Their second album Christmeister was released by Lively Art in 1989.[5][6][7]\n",
+         "The band's third album Death on the Installment Plan, released in 1993, featured weird electronic tape-loops overlaid with heavily distorted vocals.[8] The 1994 album Wasted Sky used some of the same techniques, but with a darker feel and more technically varied approach.[9][10]\n",
+         "Singer David Collins joined the band in 1995; the band released its fifth album, Blood Meridian, which contained strong, violent electronic sound but no guitar music, in 1997.[11][12][13] Two years later, Numb recorded the electronic dance album Language of Silence, released through Metropolis.[14]  The tracks on this album were somewhat quieter and darkly intense.[15][16][17][18][19]\n",
+         "Following the release of one final single, \"Suspended\", Numb disbanded in 1998, and Gordon moved to Vietnam to live with his wife.[20]\n",
+         "After what was considered by many to be a retirement of the project and Don Gordon from the music scene in general, an album of new material was made available via Bandcamp on August 23, 2019 titled Mortal Geometry.\n"
+      ]
+   },
+   "Members": {},
+   "Discography": {
+      "Full length albums and EPs": {
+         "text": [
+            "Studio albums\n",
+            "Compilation albums\n",
+            "EPs\n",
+            "Singles\n"
+         ]
+      },
+      "Compilation appearances": {}
+   },
+   "Side projects": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Numb is a Canadian electro-industrial band that is based in Vancouver, British Columbia, Canada.[1]\n",
+      "Numb was founded by Don Gordon, David Hall and Sean Stubbs in 1986.[2][3] The band issued their self-titled debut studio album Numb in 1987 on Edge and World Records.[4] Their second album Christmeister was released by Lively Art in 1989.[5][6][7]\n",
+      "The band's third album Death on the Installment Plan, released in 1993, featured weird electronic tape-loops overlaid with heavily distorted vocals.[8] The 1994 album Wasted Sky used some of the same techniques, but with a darker feel and more technically varied approach.[9][10]\n",
+      "Singer David Collins joined the band in 1995; the band released its fifth album, Blood Meridian, which contained strong, violent electronic sound but no guitar music, in 1997.[11][12][13] Two years later, Numb recorded the electronic dance album Language of Silence, released through Metropolis.[14]  The tracks on this album were somewhat quieter and darkly intense.[15][16][17][18][19]\n"
+   ]
 }

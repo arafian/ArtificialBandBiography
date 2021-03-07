@@ -1,12 +1,22 @@
 {
-   "Discography": {},
-   "External links": {},
+   "Name": "4-4-1",
+   "Sections": [
+      "1 History",
+      "1.1 Formation and breakthrough",
+      "1.2 National exposure",
+      "1.3 Breakup",
+      "1.4 Sacrifice",
+      "2 Reunion",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "4-4-1 (also written as \"441\") are an alternative-pop Christian rock band who played primarily in the 1980s.  4-4-1 consisted of lead singer/guitarist John McNamara, drummer Steve Giali, lead guitarist John Giali and bassist/keyboardist Glenn Holland.\n"
+      ]
+   },
    "History": {
-      "Breakup": {
-         "text": [
-            "With the failure of their label and new priorities for several of the members, 4-4-1 consequently chose to end their run as a group in mid-1987.  4-4-1 played their last concert at Knott's Berry Farm on May 1, 1987.\n"
-         ]
-      },
       "Formation and breakthrough": {
          "text": [
             "Formed in 1983, 4-4-1 discovered their blend of catchy beats and melodies capped with insightful lyrics in Glenn's parents’ garage in Arcadia, California, the hometown of all four members.\n",
@@ -24,6 +34,11 @@
             "Blue Collar Records declared bankruptcy in 1987 based on non-payment of record sales from its distributor, leaving the band (as well as Undercover and Adam Again) looking for a home.\n"
          ]
       },
+      "Breakup": {
+         "text": [
+            "With the failure of their label and new priorities for several of the members, 4-4-1 consequently chose to end their run as a group in mid-1987.  4-4-1 played their last concert at Knott's Berry Farm on May 1, 1987.\n"
+         ]
+      },
       "Sacrifice": {
          "text": [
             "John McNamara and Glenn Holland, the songwriters for the band, continued writing.  At the same time, Ojo Taylor (Undercover) and Gene Eugene (Adam Again) were reviving Maranantha!’s Broken Records and with it, production company Brainstorm Artists International.  Subsequently, the duo came to agreement with Broken for a third 4-4-1 album, with the other two members’ blessing to use the name of the band.\n",
@@ -33,27 +48,18 @@
          ]
       }
    },
-   "References": {},
    "Reunion": {
       "text": [
          "In 2005, after a long period of inactivity, the group once again began to play some concerts in southern California, including the Broken Reunion show on August 19, 2005 with Undercover, The Choir, The Altar Boys and Crumbächer.  4-4-1 also played the Spirit West Coast festival in Del Mar, California in May, 2006.  As of November 2006, the band is working on new material for a possible album project in 2007.\nA week before their breakout reunion in 2005, Bassist Glenn Holland was diagnosed with cancer. This album relives the tough times that the band was dealing with through their hits such as \"Break Out\", \"Mourning Into Dancing\" and the heartfelt \"Is It Enough\".\nThey performed in a concert at Mission Hills Church in Orange County, California on March 28, 2009. They played with up and coming band, Sun From Shadows.\n"
       ]
    },
-   "Sections": [
-      "1 History",
-      "1.1 Formation and breakthrough",
-      "1.2 National exposure",
-      "1.3 Breakup",
-      "1.4 Sacrifice",
-      "2 Reunion",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "4-4-1 (also written as \"441\") are an alternative-pop Christian rock band who played primarily in the 1980s.  4-4-1 consisted of lead singer/guitarist John McNamara, drummer Steve Giali, lead guitarist John Giali and bassist/keyboardist Glenn Holland.\n"
-      ]
-   },
-   "Title": "4-4-1 - Wikipedia"
+   "Discography": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "4-4-1 (also written as \"441\") are an alternative-pop Christian rock band who played primarily in the 1980s.  4-4-1 consisted of lead singer/guitarist John McNamara, drummer Steve Giali, lead guitarist John Giali and bassist/keyboardist Glenn Holland.\n",
+      "Formed in 1983, 4-4-1 discovered their blend of catchy beats and melodies capped with insightful lyrics in Glenn's parents’ garage in Arcadia, California, the hometown of all four members.\n",
+      "The band recorded their first demo tape of four songs (Judgment Game, Love's Irony, Mom & Dad and Break Out) in the garage and sent it to youth pastors around southern California.  Randy Ziegler, who ran the very popular concert series at Calvary Chapel Costa Mesa, responded with enthusiasm and immediately met with the band and set in motion high-profile concerts as well as discussions with record labels.\n",
+      "4-4-1's first performances were as an opening act for a standing-room-only shows for Benny Hester and Undercover and the band was met with great enthusiasm from the crowds.\n"
+   ]
 }

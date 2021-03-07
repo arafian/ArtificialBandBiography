@@ -1,5 +1,29 @@
 {
-   "Band members": {},
+   "Name": "Cub (band)",
+   "Sections": [
+      "1 History",
+      "2 Discography",
+      "2.1 Albums",
+      "2.2 Singles/EPs",
+      "2.3 Appearances",
+      "3 In popular culture",
+      "4 Band members",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Cub (also stylized cub) was an indie pop band from Vancouver, British Columbia that formed in 1992 and disbanded in 1997. They played a melodic, jangly form of pop punk that was dubbed \"cuddlecore\" by some music critics.\n"
+      ]
+   },
+   "History": {
+      "text": [
+         "The group was emblematic of the twee pop and cuddlecore style. At their cozy, casual live shows, they sometimes played in their pajamas, and gave out presents to audience members.[2]\n",
+         "The group's original drummer, Valeria Fellini, was replaced by Lisa G. in 1994.\n",
+         "Neko Case played drums on some early recordings and on tour in later years. Notably, she sang live in front of an audience for the first time ever during a cub show in Ohio, singing the song \"So Far Apart\". Years later she would go on to form her own all-female three piece Vancouver band, Maow.\n",
+         "After the group's dissolution, Robynn Iwata co-formed I Am Spoonbender in 1997 in San Francisco. Lisa Marr and Lisa G. started Buck in 1998 after moving to California from their native Vancouver.\n"
+      ]
+   },
    "Discography": {
       "Albums": {
          "text": [
@@ -19,39 +43,21 @@
             "Lisa Marr - Vocals, Bass\n"
          ]
       },
-      "Appearances": {},
-      "Singles/EPs": {}
-   },
-   "External links": {},
-   "History": {
-      "text": [
-         "The group was emblematic of the twee pop and cuddlecore style. At their cozy, casual live shows, they sometimes played in their pajamas, and gave out presents to audience members.[2]\n",
-         "The group's original drummer, Valeria Fellini, was replaced by Lisa G. in 1994.\n",
-         "Neko Case played drums on some early recordings and on tour in later years. Notably, she sang live in front of an audience for the first time ever during a cub show in Ohio, singing the song \"So Far Apart\". Years later she would go on to form her own all-female three piece Vancouver band, Maow.\n",
-         "After the group's dissolution, Robynn Iwata co-formed I Am Spoonbender in 1997 in San Francisco. Lisa Marr and Lisa G. started Buck in 1998 after moving to California from their native Vancouver.\n"
-      ]
+      "Singles/EPs": {},
+      "Appearances": {}
    },
    "In popular culture": {
       "text": [
          "The song \"Freaky\" from the album Box of Hair was used in the first episode of Battlestar Galactica spinoff Caprica.\nTheir song \"New York City\" from the album Come Out Come Out was covered by They Might Be Giants on their album Factory Showroom.\nThe song \"Little Star\" from the album Betti-Cola was covered by Washington's Sicko on their album, Laugh While You Can Monkey Boy.\n"
       ]
    },
+   "Band members": {},
    "References": {},
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 Singles/EPs",
-      "2.3 Appearances",
-      "3 In popular culture",
-      "4 Band members",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Cub (also stylized cub) was an indie pop band from Vancouver, British Columbia that formed in 1992 and disbanded in 1997. They played a melodic, jangly form of pop punk that was dubbed \"cuddlecore\" by some music critics.\n"
-      ]
-   },
-   "Title": "Cub (band) - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "Cub (also stylized cub) was an indie pop band from Vancouver, British Columbia that formed in 1992 and disbanded in 1997. They played a melodic, jangly form of pop punk that was dubbed \"cuddlecore\" by some music critics.\n",
+      "The group was emblematic of the twee pop and cuddlecore style. At their cozy, casual live shows, they sometimes played in their pajamas, and gave out presents to audience members.[2]\n",
+      "The group's original drummer, Valeria Fellini, was replaced by Lisa G. in 1994.\n",
+      "Neko Case played drums on some early recordings and on tour in later years. Notably, she sang live in front of an audience for the first time ever during a cub show in Ohio, singing the song \"So Far Apart\". Years later she would go on to form her own all-female three piece Vancouver band, Maow.\n"
+   ]
 }

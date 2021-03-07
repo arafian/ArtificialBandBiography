@@ -1,36 +1,5 @@
 {
-   "Biography": {
-      "Rabies, the hiatus and the present (2008−present)": {
-         "text": [
-            "Ruoska's fifth album Rabies was released on April 9, 2008.\n"
-         ]
-      },
-      "Radium and Amortem (2004−2007)": {
-         "text": [
-            "In 2005, Radium was released. \n",
-            "Ruoska recorded Amortem in 2006.  The singles \"Mies yli Laidan\" and \"Alasin\" were turned into music videos.[citation needed]  The album itself debuted at sixth place in Finnish radio charts for almost 10 weeks.[citation needed]\n"
-         ]
-      },
-      "The beginnings, Kuori and Riisu (2002−2003)": {
-         "text": [
-            "Ruoska was formed in 2002 with some of the same members from the comedy rock band Natsipaska. They released their debut album Kuori the same year. \n"
-         ]
-      }
-   },
-   "Discography": {
-      "Albums": {},
-      "Music videos": {},
-      "Singles": {}
-   },
-   "External links": {},
-   "Members": {
-      "Current members": {},
-      "Former members": {
-         "text": [
-            "Note: Kai Ahvenranta still does some studio work with the band.\n"
-         ]
-      }
-   },
+   "Name": "Ruoska",
    "Sections": [
       "1 Biography",
       "1.1 The beginnings, Kuori and Riisu (2002−2003)",
@@ -50,5 +19,42 @@
          "Ruoska (In Finnish \"whip\") is a Finnish metal band from the Juva municipality. \n"
       ]
    },
-   "Title": "Ruoska - Wikipedia"
+   "Biography": {
+      "The beginnings, Kuori and Riisu (2002−2003)": {
+         "text": [
+            "Ruoska was formed in 2002 with some of the same members from the comedy rock band Natsipaska. They released their debut album Kuori the same year. \n"
+         ]
+      },
+      "Radium and Amortem (2004−2007)": {
+         "text": [
+            "In 2005, Radium was released. \n",
+            "Ruoska recorded Amortem in 2006.  The singles \"Mies yli Laidan\" and \"Alasin\" were turned into music videos.[citation needed]  The album itself debuted at sixth place in Finnish radio charts for almost 10 weeks.[citation needed]\n"
+         ]
+      },
+      "Rabies, the hiatus and the present (2008−present)": {
+         "text": [
+            "Ruoska's fifth album Rabies was released on April 9, 2008.\n"
+         ]
+      }
+   },
+   "Members": {
+      "Current members": {},
+      "Former members": {
+         "text": [
+            "Note: Kai Ahvenranta still does some studio work with the band.\n"
+         ]
+      }
+   },
+   "Discography": {
+      "Albums": {},
+      "Singles": {},
+      "Music videos": {}
+   },
+   "External links": {},
+   "coreData": [
+      "Ruoska (In Finnish \"whip\") is a Finnish metal band from the Juva municipality. \n",
+      "Ruoska was formed in 2002 with some of the same members from the comedy rock band Natsipaska. They released their debut album Kuori the same year. \n",
+      "In 2005, Radium was released. \n",
+      "Ruoska recorded Amortem in 2006.  The singles \"Mies yli Laidan\" and \"Alasin\" were turned into music videos.[citation needed]  The album itself debuted at sixth place in Finnish radio charts for almost 10 weeks.[citation needed]\n"
+   ]
 }

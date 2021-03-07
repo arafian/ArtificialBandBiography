@@ -1,17 +1,24 @@
 {
-   "Discography": {},
-   "External links": {},
+   "Name": "Rank and File (band)",
+   "Sections": [
+      "1 History",
+      "1.1 Formation",
+      "1.2 Recording history",
+      "1.3 Stylistic trendsetters",
+      "1.4 Later projects",
+      "2 Discography",
+      "3 References",
+      "4 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Rank and File was an American country rock band established in 1981 in Austin, Texas by Chip Kinman and Tony Kinman, a pair of brothers who had been members of the seminal California band The Dils. The band were forerunners in combining the musical rawness and Do It Yourself punk aesthetic with the style and ambience of country and western music, helping to create a subgenre known as cowpunk. After releasing three albums, the band terminated in 1987.\n"
+      ]
+   },
    "History": {
       "Formation": {
          "text": [
             "In 1981, the brothers Chip and Tony Kinman split up their influential political punk band The Dils, based in Carlsbad, California, and departed for the East. After a brief time in New York City, the brothers landed in the musical mecca of Austin, Texas, to start a new band.[1] There they joined forces with guitarist Alejandro Escovedo of The Nuns to form Rank and File.[2]\n"
-         ]
-      },
-      "Later projects": {
-         "text": [
-            "The Kinmans' next project was the synthpop, guitar and drum-machine based, Blackbird. They would return to the cowpunk subgenre with another band, a minimalistic three-piece band called Cowboy Nation that released its debut album in January 1997 on Shock Records from Australia.[5]\nIn 2018, The Kinman brothers reunited for Chip's new band Ford Madox Ford. Released by Porterhouse records, Ford Madox Ford's debut album \"This American Blues\" features Chip on vocals and guitar, Matt Littell on bass, S. Scott Aguero on drums, Dewey Peak on lead guitar and Tony Kinman as producer.\n",
-            "Alejandro Escovedo formed the True Believers with his brother Javier, before launching a solo songwriting and recording career.\n",
-            "Tony Kinman died on May 4, 2018.[6]\n"
          ]
       },
       "Recording history": {
@@ -29,23 +36,22 @@
             "\"We're brave, we're not afraid to do stuff, most people are. They're deathly afraid to do anything different. ... [W]hen everybody else was talking about how stupid country music was, country music was the last thing to like, if you wore a cowboy hat you were a redneck, you know, we decided go say, 'Yeah, we play country music, it's fun.'\n\n\"Up in San Francisco, KUSF Wave, their magazine, did the first review Rank and File ever got, live review. They said we sucked, and then they said, 'What are these guys trying to do, start a trend?' Well, that's the way it worked out, but only because we were brave enough and smart enough to do it first. That's how you get to be influential—if you're brave enough to do something different and you're smart enough to do it right. Otherwise you're just another dumb-ass band.\"[3]\n",
             "The band appeared on PBS's nationally broadcast country music showcase Austin City Limits.[4]\n"
          ]
+      },
+      "Later projects": {
+         "text": [
+            "The Kinmans' next project was the synthpop, guitar and drum-machine based, Blackbird. They would return to the cowpunk subgenre with another band, a minimalistic three-piece band called Cowboy Nation that released its debut album in January 1997 on Shock Records from Australia.[5]\nIn 2018, The Kinman brothers reunited for Chip's new band Ford Madox Ford. Released by Porterhouse records, Ford Madox Ford's debut album \"This American Blues\" features Chip on vocals and guitar, Matt Littell on bass, S. Scott Aguero on drums, Dewey Peak on lead guitar and Tony Kinman as producer.\n",
+            "Alejandro Escovedo formed the True Believers with his brother Javier, before launching a solo songwriting and recording career.\n",
+            "Tony Kinman died on May 4, 2018.[6]\n"
+         ]
       }
    },
+   "Discography": {},
    "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Formation",
-      "1.2 Recording history",
-      "1.3 Stylistic trendsetters",
-      "1.4 Later projects",
-      "2 Discography",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Rank and File was an American country rock band established in 1981 in Austin, Texas by Chip Kinman and Tony Kinman, a pair of brothers who had been members of the seminal California band The Dils. The band were forerunners in combining the musical rawness and Do It Yourself punk aesthetic with the style and ambience of country and western music, helping to create a subgenre known as cowpunk. After releasing three albums, the band terminated in 1987.\n"
-      ]
-   },
-   "Title": "Rank and File (band) - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "Rank and File was an American country rock band established in 1981 in Austin, Texas by Chip Kinman and Tony Kinman, a pair of brothers who had been members of the seminal California band The Dils. The band were forerunners in combining the musical rawness and Do It Yourself punk aesthetic with the style and ambience of country and western music, helping to create a subgenre known as cowpunk. After releasing three albums, the band terminated in 1987.\n",
+      "In 1981, the brothers Chip and Tony Kinman split up their influential political punk band The Dils, based in Carlsbad, California, and departed for the East. After a brief time in New York City, the brothers landed in the musical mecca of Austin, Texas, to start a new band.[1] There they joined forces with guitarist Alejandro Escovedo of The Nuns to form Rank and File.[2]\n",
+      "Rank and File released three albums—two on prominent Los Angeles label Slash Records and a third on the offbeat, retro-oriented Rhino Records.\n",
+      "The band's debut album, Sundown, was released in June 1982 on Slash Records.\n"
+   ]
 }

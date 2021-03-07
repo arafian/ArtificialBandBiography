@@ -1,7 +1,19 @@
 {
-   "Band members": {},
-   "Discography": {},
-   "External links": {},
+   "Name": "Décima Víctima",
+   "Sections": [
+      "1 History",
+      "1.1 Early Years",
+      "1.2 Quartet",
+      "1.3 The End",
+      "2 Discography",
+      "3 Band members",
+      "4 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Decima Victima (English: Tenth Victim) was a band formed by two Swedes and two Spaniards. During their short career between 1981 and 1984 they released two LPs, a maxisingle, two EPs and three singles.\n"
+      ]
+   },
    "History": {
       "Early Years": {
          "text": [
@@ -25,19 +37,13 @@
          ]
       }
    },
-   "Sections": [
-      "1 History",
-      "1.1 Early Years",
-      "1.2 Quartet",
-      "1.3 The End",
-      "2 Discography",
-      "3 Band members",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Decima Victima (English: Tenth Victim) was a band formed by two Swedes and two Spaniards. During their short career between 1981 and 1984 they released two LPs, a maxisingle, two EPs and three singles.\n"
-      ]
-   },
-   "Title": "Décima Víctima - Wikipedia"
+   "Discography": {},
+   "Band members": {},
+   "External links": {},
+   "coreData": [
+      "Decima Victima (English: Tenth Victim) was a band formed by two Swedes and two Spaniards. During their short career between 1981 and 1984 they released two LPs, a maxisingle, two EPs and three singles.\n",
+      "In 1981, brothers Lars and Per Mertanen formed the instrumental duo Cláusula Tenebrosa. After a show they started talking about the possibility of rehearsing with Carlos Entrena, a friend at the time and ex-singer of the recently split Ejecutivos Agresivos.\n",
+      "In 1981, with some friends, they started the independent label Grabaciones Accidentales (GASA), so they could release their own records.\n",
+      "In 1982, they decided to replace the drum machine by real drums and Jose Brena joined the band.\n"
+   ]
 }

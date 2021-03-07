@@ -1,16 +1,31 @@
 {
-   "Awards and nominations": {},
-   "Discography": {
-      "Albums": {
-         "Studio albums": {}
-      },
-      "Other appearances": {},
-      "Singles": {
-         "As lead artist": {},
-         "Featured singles": {}
-      }
+   "Name": "El Sueño de Morfeo",
+   "Sections": [
+      "1 History",
+      "1.1 2002: Beginnings as Xemá",
+      "1.2 2003-2006: \"1+1 son 7\" and El Sueño de Morfeo",
+      "1.3 2007-2008: Nos vemos en el camino",
+      "1.4 2009-2010: Cosas que nos hacen sentir bien",
+      "1.5 2011-2012: Buscamos sonrisas",
+      "1.6 2013: Eurovision Song Contest and Todos tenemos un sueño",
+      "2 Members",
+      "3 Discography",
+      "3.1 Albums",
+      "3.1.1 Studio albums",
+      "3.2 Singles",
+      "3.2.1 As lead artist",
+      "3.2.2 Featured singles",
+      "3.3 Other appearances",
+      "4 Music videos",
+      "5 Awards and nominations",
+      "6 References",
+      "7 External links"
+   ],
+   "Summary": {
+      "text": [
+         "El Sueño de Morfeo (English: Morpheus' Dream) was a Spanish band from Asturias. Their musical style is pop rock fused with Celtic, folk rock and indie pop elements.[2] \nThey represented Spain at Eurovision Song Contest 2013 with the song \"Contigo hasta el final (With you until the end)\".\n"
+      ]
    },
-   "External links": {},
    "History": {
       "2002: Beginnings as Xemá": {
          "text": [
@@ -50,33 +65,24 @@
       }
    },
    "Members": {},
-   "Music videos": {},
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 2002: Beginnings as Xemá",
-      "1.2 2003-2006: \"1+1 son 7\" and El Sueño de Morfeo",
-      "1.3 2007-2008: Nos vemos en el camino",
-      "1.4 2009-2010: Cosas que nos hacen sentir bien",
-      "1.5 2011-2012: Buscamos sonrisas",
-      "1.6 2013: Eurovision Song Contest and Todos tenemos un sueño",
-      "2 Members",
-      "3 Discography",
-      "3.1 Albums",
-      "3.1.1 Studio albums",
-      "3.2 Singles",
-      "3.2.1 As lead artist",
-      "3.2.2 Featured singles",
-      "3.3 Other appearances",
-      "4 Music videos",
-      "5 Awards and nominations",
-      "6 References",
-      "7 External links"
-   ],
-   "Summary": {
-      "text": [
-         "El Sueño de Morfeo (English: Morpheus' Dream) was a Spanish band from Asturias. Their musical style is pop rock fused with Celtic, folk rock and indie pop elements.[2] \nThey represented Spain at Eurovision Song Contest 2013 with the song \"Contigo hasta el final (With you until the end)\".\n"
-      ]
+   "Discography": {
+      "Albums": {
+         "Studio albums": {}
+      },
+      "Singles": {
+         "As lead artist": {},
+         "Featured singles": {}
+      },
+      "Other appearances": {}
    },
-   "Title": "El Sueño de Morfeo - Wikipedia"
+   "Music videos": {},
+   "Awards and nominations": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "El Sueño de Morfeo (English: Morpheus' Dream) was a Spanish band from Asturias. Their musical style is pop rock fused with Celtic, folk rock and indie pop elements.[2] \nThey represented Spain at Eurovision Song Contest 2013 with the song \"Contigo hasta el final (With you until the end)\".\n",
+      "The band was originally formed in 2002 under the name Xemá, with a clear influence of Asturian folk music.[2] Their debut album, Del interior, was released that same year, but failed to generate commercial success. This album was recorded while David Feito, from Asturias himself, and Raquel del Rosario, from the Canary Islands, were at the Colegio Internacional Meres in Siero, Asturias, together with teachers Andrés Alonso (keyboard and accordion) and Antón Fernández (bass guitar and guitar). After the launch of this first album, the band had to decide if they would go on as Xemá or create a new project, opting for the latter.\n",
+      "After Juan Luis Suárez joined David and Raquel in 2003, they decided to find a new name for the band. They considered names like \"Pupitre Azul\" (Blue Desk) or \"La Hija del Caos\" (The Daughter of Chaos), and eventually chose El Sueño de Morfeo.\n",
+      "In 2004, Raquel auditioned for the Spanish TV series Los Serrano and gave a demo of their songs. The production company Globomedia asked them to cover the theme song of the series, \"1+1 son 7\", together with Fran Perea in an episode that would air on 30 July 2004. The group received a significant push in their career from this appearance. They received a recording deal from the music branch of the production company, Globomedia Música.[3]\n"
+   ]
 }

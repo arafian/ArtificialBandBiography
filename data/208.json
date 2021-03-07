@@ -1,19 +1,37 @@
 {
-   "Achievements and awards": {
+   "Name": "Malignant Tumour",
+   "Sections": [
+      "1 History",
+      "1.1 1991–1997: Formative years",
+      "1.2 1997–2001: \"Equality!?\"",
+      "1.3 2001–2003: Relocation to the Netherlands and \"Dawn of the New Age\"",
+      "1.4 2003–2007: \"Burninhell\"",
+      "1.5 2007–2012: \"In Full Swing\" and \"Earthshaker\"",
+      "1.6 2012-present: \"Overdose&Overdrive\" and \"The Metallist\"",
+      "2 Members",
+      "2.1 Current line-up",
+      "2.2 Past members",
+      "2.3 Timeline",
+      "3 Discography",
+      "3.1 Albums",
+      "3.1.1 full",
+      "3.1.2 split",
+      "3.2 EP",
+      "3.2.1 full",
+      "3.2.2 split",
+      "3.3 Demos",
+      "4 Videography",
+      "4.1 Videoclips",
+      "4.2 Live videoclips",
+      "4.3 DVD",
+      "4.4 Others",
+      "5 Achievements and awards",
+      "6 References"
+   ],
+   "Summary": {
       "text": [
-         "They have played over a thousand performances on three continents.[7] In 2010, Malignant Tumour's Earthshaker won the Anděl Award for Album of the Year in the category of Hard&Heavy. In 2008 the band won the Břitva Czech music polls for album of the year, thanks to their third album In Full Swing,[8] and Břitva Czech music polls in 2008 as live band of the year[8] and in 2010 music video Earthshaker won as music video of the year.[9]\n"
+         "Malignant Tumour is a Czech rock band formed in 1991 in Ostrava.\n"
       ]
-   },
-   "Discography": {
-      "Albums": {
-         "full": {},
-         "split": {}
-      },
-      "Demos": {},
-      "EP": {
-         "full": {},
-         "split": {}
-      }
    },
    "History": {
       "1991–1997: Formative years": {
@@ -55,45 +73,33 @@
       "Past members": {},
       "Timeline": {}
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 1991–1997: Formative years",
-      "1.2 1997–2001: \"Equality!?\"",
-      "1.3 2001–2003: Relocation to the Netherlands and \"Dawn of the New Age\"",
-      "1.4 2003–2007: \"Burninhell\"",
-      "1.5 2007–2012: \"In Full Swing\" and \"Earthshaker\"",
-      "1.6 2012-present: \"Overdose&Overdrive\" and \"The Metallist\"",
-      "2 Members",
-      "2.1 Current line-up",
-      "2.2 Past members",
-      "2.3 Timeline",
-      "3 Discography",
-      "3.1 Albums",
-      "3.1.1 full",
-      "3.1.2 split",
-      "3.2 EP",
-      "3.2.1 full",
-      "3.2.2 split",
-      "3.3 Demos",
-      "4 Videography",
-      "4.1 Videoclips",
-      "4.2 Live videoclips",
-      "4.3 DVD",
-      "4.4 Others",
-      "5 Achievements and awards",
-      "6 References"
-   ],
-   "Summary": {
+   "Discography": {
+      "Albums": {
+         "full": {},
+         "split": {}
+      },
+      "EP": {
+         "full": {},
+         "split": {}
+      },
+      "Demos": {}
+   },
+   "Videography": {
+      "Videoclips": {},
+      "Live videoclips": {},
+      "DVD": {},
+      "Others": {}
+   },
+   "Achievements and awards": {
       "text": [
-         "Malignant Tumour is a Czech rock band formed in 1991 in Ostrava.\n"
+         "They have played over a thousand performances on three continents.[7] In 2010, Malignant Tumour's Earthshaker won the Anděl Award for Album of the Year in the category of Hard&Heavy. In 2008 the band won the Břitva Czech music polls for album of the year, thanks to their third album In Full Swing,[8] and Břitva Czech music polls in 2008 as live band of the year[8] and in 2010 music video Earthshaker won as music video of the year.[9]\n"
       ]
    },
-   "Title": "Malignant Tumour - Wikipedia",
-   "Videography": {
-      "DVD": {},
-      "Live videoclips": {},
-      "Others": {},
-      "Videoclips": {}
-   }
+   "References": {},
+   "coreData": [
+      "Malignant Tumour is a Czech rock band formed in 1991 in Ostrava.\n",
+      "Malignant Tumour was formed in Ostrava, Czech Republic, in the fall of 1991, by Martin \"Bilos\" Bílek and Roman Restel, at the ages of fifteen and fourteen, respectively.[1]\nDuring the first few years of the band the members would constantly changed instrument, and became labelled as noisecore.\n",
+      "When drummer Libor Šmakal entered the band in 1992, their style changed to be more influenced by the work of the British grindcore band Carcass.[2] In this line-up they recorded their early demo tapes Cadaveric Incubator of Endo-Parasites (in 1993), Symphonies for Pathologist (in 1994) and Analyse of Pathological Conceptions (in 1995). In late 1995, Šmakal was replaced by Michal \"Cichoň\" Cichý, leading to Restel departing from the band, being replaced by Otto Beran and the band releasing a split EP with Decomposed titled Malignus Morbus with Decomposed and then three the next year with Immured, Mastic Scum and In Growning called Forensic Clinicism – The Sanguine Article, Sick Sinus Syndrome and Swarming of Virulency.\n",
+      "In 1997, the band released a compilation split EP entitled Hungry Urinary Urn with Negligent Collateral Collapse, C.S.S.O. and Catasexual Urge Motivation and released their split LP Eat the Flesh...and Vomica with Squash Bowels. After the recording the album, Cichý and Beran left the band to focus on their other projects Cerebral Turbulency and Needful Things.\n"
+   ]
 }

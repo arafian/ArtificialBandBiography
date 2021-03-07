@@ -1,13 +1,22 @@
 {
-   "Band members": {
-      "Current line-up": {},
-      "Former members": {},
-      "Live/session members": {
-         "Timeline": {}
-      }
+   "Name": "Sacramentum (band)",
+   "Sections": [
+      "1 History",
+      "2 Musical style and influences",
+      "3 Band members",
+      "3.1 Current line-up",
+      "3.2 Former members",
+      "3.3 Live/session members",
+      "3.3.1 Timeline",
+      "4 Discography",
+      "5 External links",
+      "6 Notes and references"
+   ],
+   "Summary": {
+      "text": [
+         "Sacramentum is a melodic black metal band from Falköping, Sweden, formed by Nisse Karlén (vocals/guitar) in the summer of 1990 under the name of Tumulus.[3] The band released three full-length studio albums and two demos. They are best known for their debut album Far Away From The Sun, which is often considered one of the best early melodic black metal releases.[4]\n"
+      ]
    },
-   "Discography": {},
-   "External links": {},
    "History": {
       "text": [
          "\nShortly thereafter, Anders Brolycke joined as a second guitarist. The group's first official recordings were made in the end of 1992; just before the release of the demo tape, called Sedes Impiorum, the band name was changed to Sacramentum.[5] In February 1994, Sacramentum went to Unisound Studio to record the self-financed five-track EP Finis Malorum, which was re-released by Adipocere Records a year later.[5] Following the release of this EP, Nicklas Rudolfsson (now also in Runemagick, Swordmaster and Deathwitch) joined in on drums, and Karlén shifted from guitar to bass. According to Karlén,",
@@ -26,23 +35,20 @@
          "On the band's first album they performed a style of melodic black metal that has been compared to bands such as Dissection and Unanimated, which involved \"a mixture of Black Metal's atmosphere and speed with the technicality and arrangement normally found in Death Metal\".[4] Over time the band began to move towards the kind of melodic death metal sound many of their contemporaries in Gothenburg were pioneering.[4] Nisse Karlén has said that \"Our influences comes mostly from old heavy Metal bands and a lot of speed and thrash bands where we have our roots. A lot also comes from within ourselves, moods and so on.\"[6] Anders Brolycke has cited Bathory, Destruction, Coroner, Slayer, Autopsy, Death, and Metallica as influences.[13] He also said that \"The lyrics are held on a personal level and deal with thoughts and reflections about life and death. They are often about a longing away from this earthly prison.\"[13]\n"
       ]
    },
-   "Notes and references": {},
-   "Sections": [
-      "1 History",
-      "2 Musical style and influences",
-      "3 Band members",
-      "3.1 Current line-up",
-      "3.2 Former members",
-      "3.3 Live/session members",
-      "3.3.1 Timeline",
-      "4 Discography",
-      "5 External links",
-      "6 Notes and references"
-   ],
-   "Summary": {
-      "text": [
-         "Sacramentum is a melodic black metal band from Falköping, Sweden, formed by Nisse Karlén (vocals/guitar) in the summer of 1990 under the name of Tumulus.[3] The band released three full-length studio albums and two demos. They are best known for their debut album Far Away From The Sun, which is often considered one of the best early melodic black metal releases.[4]\n"
-      ]
+   "Band members": {
+      "Current line-up": {},
+      "Former members": {},
+      "Live/session members": {
+         "Timeline": {}
+      }
    },
-   "Title": "Sacramentum (band) - Wikipedia"
+   "Discography": {},
+   "External links": {},
+   "Notes and references": {},
+   "coreData": [
+      "Sacramentum is a melodic black metal band from Falköping, Sweden, formed by Nisse Karlén (vocals/guitar) in the summer of 1990 under the name of Tumulus.[3] The band released three full-length studio albums and two demos. They are best known for their debut album Far Away From The Sun, which is often considered one of the best early melodic black metal releases.[4]\n",
+      "\nShortly thereafter, Anders Brolycke joined as a second guitarist. The group's first official recordings were made in the end of 1992; just before the release of the demo tape, called Sedes Impiorum, the band name was changed to Sacramentum.[5] In February 1994, Sacramentum went to Unisound Studio to record the self-financed five-track EP Finis Malorum, which was re-released by Adipocere Records a year later.[5] Following the release of this EP, Nicklas Rudolfsson (now also in Runemagick, Swordmaster and Deathwitch) joined in on drums, and Karlén shifted from guitar to bass. According to Karlén,",
+      "When we started it was just because we wanted to make extreme music, violent music. We had no ambitions whatsoever. Then thing started to happen. A lot of people liked the stuff we made. So we became more serious and after we had recorded the MCD “Finis Malorum” we realized that we could really achieve something. So we kicked out the unserious members and started rehearse more often and that’s the way it is. I think that everything we could dream about then has been fulfilled but we will carry on for many years to spread our message of hatred.[6]",
+      "With this three-piece line-up Sacramentum went back to Unisound Studio in June 1995 to record their full-length debut, entitled Far Away from the Sun. Finally released in June 1996, the album was hailed in some circles as a masterpiece. The band then embarked on a tour of Europe with Ancient Rites, Bewitched and Enthroned.[5]\n"
+   ]
 }

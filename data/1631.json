@@ -1,12 +1,21 @@
 {
+   "Name": "Savia (band)",
+   "Sections": [
+      "Summary",
+      "History"
+   ],
+   "Summary": {
+      "text": [
+         "Savia was a Spanish alternative rock band formed in 2005 by Carlos Escobedo, the lead singer of Sôber,  with the help of Alberto Madrid, who was at that time drummer of the same band, but passed died in a car accident. Savia stayed active until year 2009.\n"
+      ]
+   },
    "History": {
       "text": [
          "Carlos Escobedo's idea to form Savia started in 2004 on tour for Sôber's last album: Reddo. Because of Sôber's huge popularity at the time, Carlos Escobedo had the idea to form a new musical project and start over. The group formed in 2005 while Sôber was on hiatus. They decided to call themselves Savia, because, as Carlos Escobeda said in an interview, the definition says it all \"that which gives energy\".\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "Savia was a Spanish alternative rock band formed in 2005 by Carlos Escobedo, the lead singer of Sôber,  with the help of Alberto Madrid, who was at that time drummer of the same band, but passed died in a car accident. Savia stayed active until year 2009.\n"
-      ]
-   }
+   "coreData": [
+      "Savia was a Spanish alternative rock band formed in 2005 by Carlos Escobedo, the lead singer of Sôber,  with the help of Alberto Madrid, who was at that time drummer of the same band, but passed died in a car accident. Savia stayed active until year 2009.\n",
+      "Carlos Escobedo's idea to form Savia started in 2004 on tour for Sôber's last album: Reddo. Because of Sôber's huge popularity at the time, Carlos Escobedo had the idea to form a new musical project and start over. The group formed in 2005 while Sôber was on hiatus. They decided to call themselves Savia, because, as Carlos Escobeda said in an interview, the definition says it all \"that which gives energy\".\n"
+   ]
 }

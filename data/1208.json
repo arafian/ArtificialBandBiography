@@ -1,18 +1,22 @@
 {
-   "Band members": {
+   "Name": "House of Lords (band)",
+   "Sections": [
+      "1 History",
+      "2 Band members",
+      "3 Discography",
+      "3.1 Studio albums",
+      "3.2 Singles",
+      "3.3 Compilation albums",
+      "3.4 Live albums",
+      "3.5 Billboard chart",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
       "text": [
-         "Current members\n",
-         "Former Members:\n"
+         "House of Lords is a rock band based out of Connecticut, with members in New Jersey and Florida.\n"
       ]
    },
-   "Discography": {
-      "Billboard chart": {},
-      "Compilation albums": {},
-      "Live albums": {},
-      "Singles": {},
-      "Studio albums": {}
-   },
-   "External links": {},
    "History": {
       "text": [
          "House of Lords was formed in 1987 by former Angel member and keyboardist Gregg Giuffria after his solo project Giuffria. After listening to demos – originally intended for Giuffria's third record – a record deal with Gene Simmons' company Simmons Records was agreed upon, on two conditions that the band's name be changed (to House of Lords) and a new lead singer recruited (firing David Glen Eisley in the process).[2] James Christian thus replaced Eisley, after Christian was suggested by ex-Giuffria and Quiet Riot bassist Chuck Wright,[3] after having worked together in L.A. Rocks.\n",
@@ -37,23 +41,25 @@
          "In January 2017 it was announced that House of Lords eleventh studio album Saint Of The Lost Souls would be released on March 24. According to a Frontiers press release the album was recorded with essentially the same line-up as previous albums, the only change being Chris Tristram replacing Chris McCarvill on bass guitar.[12]\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Band members",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 Singles",
-      "3.3 Compilation albums",
-      "3.4 Live albums",
-      "3.5 Billboard chart",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
+   "Band members": {
       "text": [
-         "House of Lords is a rock band based out of Connecticut, with members in New Jersey and Florida.\n"
+         "Current members\n",
+         "Former Members:\n"
       ]
    },
-   "Title": "House of Lords (band) - Wikipedia"
+   "Discography": {
+      "Studio albums": {},
+      "Singles": {},
+      "Compilation albums": {},
+      "Live albums": {},
+      "Billboard chart": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "House of Lords is a rock band based out of Connecticut, with members in New Jersey and Florida.\n",
+      "House of Lords was formed in 1987 by former Angel member and keyboardist Gregg Giuffria after his solo project Giuffria. After listening to demos – originally intended for Giuffria's third record – a record deal with Gene Simmons' company Simmons Records was agreed upon, on two conditions that the band's name be changed (to House of Lords) and a new lead singer recruited (firing David Glen Eisley in the process).[2] James Christian thus replaced Eisley, after Christian was suggested by ex-Giuffria and Quiet Riot bassist Chuck Wright,[3] after having worked together in L.A. Rocks.\n",
+      "House of Lords' eponymous debut was released in 1988, featuring a heavier sound than Giuffria with a lower keyboard mix. The album received critical acclaim and the band toured with Cheap Trick, Ozzy Osbourne and the Scorpions in 1989.\n",
+      "The album featured one minor hit, \"I Wanna Be Loved\" (Hot 100 No. 58). The Stan Bush penned \"Love Don't Lie\" was the second single but despite MTV airplay, failed to chart. After touring, original guitarist Lanny Cordola left in 1990, replaced by ex Shark Island's Michael Guy.\n"
+   ]
 }

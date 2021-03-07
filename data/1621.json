@@ -1,9 +1,19 @@
 {
-   "Discography": {
-      "Albums": {},
-      "In other media": {}
+   "Name": "Platero y Tú",
+   "Sections": [
+      "1 History",
+      "2 Members",
+      "3 Discography",
+      "3.1 Albums",
+      "3.2 In other media",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Platero y Tú (Spanish pronunciation: [plaˈteɾo i ˈtu]) was a Spanish rock and roll and blues rock band formed in Bilbao in the 1980s, and disbanded in 2001. Their lyrics mainly deal about drugs, bar issues and love, and their style, being mainly influenced by bands such as Status Quo, AC/DC or Leño, and guitarists like John Fogerty from Creedence Clearwater Revival, broke with the Basque Radical Rock trend of the moment.[2]\n"
+      ]
    },
-   "External links": {},
    "History": {
       "text": [
          "Platero y Tú was formed in Bilbao, in the late 80s. Juantxu and Uoho were the first ones to practice together, after their former band, Ke, broke up.[3] Maguila joined later, as a drummer. One day Juantxu invited Fito, his neighbor, to a practicing session, and he ended up joining the group as singer and guitarist.[2]\n",
@@ -19,20 +29,16 @@
       ]
    },
    "Members": {},
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "3 Discography",
-      "3.1 Albums",
-      "3.2 In other media",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Platero y Tú (Spanish pronunciation: [plaˈteɾo i ˈtu]) was a Spanish rock and roll and blues rock band formed in Bilbao in the 1980s, and disbanded in 2001. Their lyrics mainly deal about drugs, bar issues and love, and their style, being mainly influenced by bands such as Status Quo, AC/DC or Leño, and guitarists like John Fogerty from Creedence Clearwater Revival, broke with the Basque Radical Rock trend of the moment.[2]\n"
-      ]
+   "Discography": {
+      "Albums": {},
+      "In other media": {}
    },
-   "Title": "Platero y Tú - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Platero y Tú (Spanish pronunciation: [plaˈteɾo i ˈtu]) was a Spanish rock and roll and blues rock band formed in Bilbao in the 1980s, and disbanded in 2001. Their lyrics mainly deal about drugs, bar issues and love, and their style, being mainly influenced by bands such as Status Quo, AC/DC or Leño, and guitarists like John Fogerty from Creedence Clearwater Revival, broke with the Basque Radical Rock trend of the moment.[2]\n",
+      "Platero y Tú was formed in Bilbao, in the late 80s. Juantxu and Uoho were the first ones to practice together, after their former band, Ke, broke up.[3] Maguila joined later, as a drummer. One day Juantxu invited Fito, his neighbor, to a practicing session, and he ended up joining the group as singer and guitarist.[2]\n",
+      "They recorded their first demo in the Arion studios in Pamplona with the money from their first performances, and took the name \"Platero y Tú\" that would become definitive. The demo, which they called Burrok'n'Roll, was edited with only a few copies, and now it constitutes a collector's item.[2]\n",
+      "In 1991 the Barcelonan label Welcome Records contacted them to record their first disc, Voy a acabar borracho in just one day at the Lin studios.[4] The disc would not reach a high popularity, but nevertheless awarded them the attention from the multinational label DRO, with whom they produced Burrock'n'roll as their second album, in 1992.\n"
+   ]
 }
