@@ -1,4 +1,16 @@
 {
+   "Name": "Grass It Up",
+   "Sections": [
+      "1 History",
+      "2 Members",
+      "3 Recordings",
+      "4 References"
+   ],
+   "Summary": {
+      "text": [
+         "\nGrass It Up is an American bluegrass music band[1] based in Colorado Springs, Colorado.\n"
+      ]
+   },
    "History": {
       "text": [
          "Grass It Up began in 2004 with singer-songwriter David Jeffrey (guitar, mandolin) and Jon Bross (bass) playing progressive bluegrass at the Front Range Barbeque, a restaurant in Colorado Springs. On Wednesdays musicians from the region would sit in with the duo. Shannon Carr (banjo, guitar) joined the band in 2005.[2] The band has appeared at public and private events at The Broadmoor resort since 2006.\n",
@@ -23,16 +35,10 @@
    },
    "Recordings": {},
    "References": {},
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "3 Recordings",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "\nGrass It Up is an American bluegrass music band[1] based in Colorado Springs, Colorado.\n"
-      ]
-   },
-   "Title": "Grass It Up - Wikipedia"
+   "coreData": [
+      "\nGrass It Up is an American bluegrass music band[1] based in Colorado Springs, Colorado.\n",
+      "Grass It Up began in 2004 with singer-songwriter David Jeffrey (guitar, mandolin) and Jon Bross (bass) playing progressive bluegrass at the Front Range Barbeque, a restaurant in Colorado Springs. On Wednesdays musicians from the region would sit in with the duo. Shannon Carr (banjo, guitar) joined the band in 2005.[2] The band has appeared at public and private events at The Broadmoor resort since 2006.\n",
+      "The trio released its first album, Goin’ to Colorado, in October 2006. They performed at the Keystone Bluegrass and Brews Festival and the Happy Ass Ranch Bluegrass Festival beginning in 2007. They organized and performed at Lavapalooza at Lago Arenal, Costa Rica, in 2007 and 2008 and in both those years competed in band contests at Telluride Bluegrass Festival and Rocky Grass.\n",
+      "Grass It Up released its second album, Shoot the Moon in April 2008; that year Danny Karpel began playing piano on stage with the band.  They performed at the newly founded MeadowGrass music festival in 2009 and annually thereafter, as well as at The Black Rose Acoustic Society and at the Grapes & Grass Festival in Guerneville, California in 2009 and 2011. The band was included in the 2009 \"best of\" survey of the Colorado Springs Gazette.\n"
+   ]
 }

@@ -1,16 +1,25 @@
 {
-   "Band members": {},
-   "Discography": {
-      "Albums": {},
-      "DVDs": {},
-      "Live Albums": {
-         "text": [
-            "Sound Design Albums\n"
-         ]
-      },
-      "Singles": {}
+   "Name": "Globus (music)",
+   "Sections": [
+      "1 History",
+      "1.1 Foundation",
+      "1.1.1 Later years",
+      "2 Musical style",
+      "3 Discography",
+      "3.1 Singles",
+      "3.2 Albums",
+      "3.3 Live Albums",
+      "3.4 DVDs",
+      "4 Band members",
+      "5 See also",
+      "6 References",
+      "7 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Globus is a Santa Monica-based movie trailer music-inspired band consisting of a mix of producers, musicians, and vocalists.[1][2] The band is lead by composers Yoav Goren and Jeffrey Fayman.\n"
+      ]
    },
-   "External links": {},
    "History": {
       "Foundation": {
          "Later years": {
@@ -32,31 +41,28 @@
          "Globus is considered to have been a pioneer of the then relatively young Epic Music genre. As a result, their musical style range from orchestral arrangements to symphonic rock with elements of world music  and symphonic metal. Some of their compositions have been used as trailer music, such as Preliator, which was featured in the trailers for Spider-Man 2 and The Dukes of Hazzard as well as the \"Epic\" promo for PlayStation Move.  A portion of their Epicon \"Preliator\" track was used for the final sinking of the Japanese warship \"Yamato\" feature (2005).\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Foundation",
-      "1.1.1 Later years",
-      "2 Musical style",
-      "3 Discography",
-      "3.1 Singles",
-      "3.2 Albums",
-      "3.3 Live Albums",
-      "3.4 DVDs",
-      "4 Band members",
-      "5 See also",
-      "6 References",
-      "7 External links"
-   ],
+   "Discography": {
+      "Singles": {},
+      "Albums": {},
+      "Live Albums": {
+         "text": [
+            "Sound Design Albums\n"
+         ]
+      },
+      "DVDs": {}
+   },
+   "Band members": {},
    "See also": {
       "text": [
          "For more orchestral bands related to Globus (music), see the Trailer music article.\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "Globus is a Santa Monica-based movie trailer music-inspired band consisting of a mix of producers, musicians, and vocalists.[1][2] The band is lead by composers Yoav Goren and Jeffrey Fayman.\n"
-      ]
-   },
-   "Title": "Globus (music) - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Globus is a Santa Monica-based movie trailer music-inspired band consisting of a mix of producers, musicians, and vocalists.[1][2] The band is lead by composers Yoav Goren and Jeffrey Fayman.\n",
+      "Globus was founded as a result of increasing demand for Immediate Music to make their work available for a wider audience. The band's live world premiere took place in The Grand Hall, Wembley, London, on 26 July 2006 and their first album, Epicon, was released in August of that same year.  Feeder's Mark Richardson is featured on drums with guest performances by vocalist Scott Ciscon.\n",
+      "In 2011 Globus released their second album, Break From This World, with Ciscon returning for some performances together with Dutch singer Anneke van Giesbergen. The latter also actively participated in the album's development, helping write some of the lyrics for the song Mighty Rivers Run.\n",
+      "A sound design album,  Violations, was released in 2012.\n"
+   ]
 }

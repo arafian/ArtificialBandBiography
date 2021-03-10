@@ -1,4 +1,20 @@
 {
+   "Name": "Live Tour 2005 \"Dynamite!\"",
+   "Sections": [
+      "1 Background",
+      "2 Concert synopsis",
+      "3 Recordings",
+      "3.1 Promotion",
+      "4 Set list",
+      "5 Tour dates",
+      "6 Personnel",
+      "7 Notes"
+   ],
+   "Summary": {
+      "text": [
+         "Live Tour 2005 \"Dynamite!\" is the first concert tour by Japanese band Tokyo Jihen. The tour supported the band's debut studio album, Kyōiku (2004). It was the only tour to feature the band's original members Mikio Hirama and H Zetto M. The concert was released in the form of two video albums, a documentary, Dynamite In, on July 13, 2005, and a concert video, Dynamite Out, released on August 17, 2005.\n"
+      ]
+   },
    "Background": {
       "text": [
          "After the release of vocalist Ringo Sheena's third album, Kalk Samen Kuri no Hana in 2003, Sheena embarked on a nationwide tour entitled Sugoroku Ecstasy. Sheena asked the backing members well in advance to perform for the tour, so that her first choices would not be double-booked.[1] These members were dubbed Tokyo Jihen, a name that was publicised during the tour.[2] During the tour, the song \"Ringo no Uta\" was briefly performed, which was released as a single by Sheena on November 25, 2003.[3] Tokyo Jihen was officially announced as Sheena's main musical unit on May 31, 2004, and first performed at a series of summer music festivals: 0724 Yamabikari at Kobe Chicken George on July 24, Meet the World Beat on July 25, 2004 in Suita, Osaka, the Fuji Rock Festival in Niigata Prefecture on July 30 and the SunSet Live 2004 festival in Fukuoka Prefecture on September 3.[4][5]\n",
@@ -13,8 +29,6 @@
          "Three unpublished songs that would be included on their second album, Adult (2006), were performed during the concerts: \"Himitsu\", \"Super Star\" and \"Tōmei Ningen\".\n"
       ]
    },
-   "Notes": {},
-   "Personnel": {},
    "Recordings": {
       "Promotion": {
          "text": [
@@ -26,22 +40,14 @@
          "\"Himitsu\" was a song not present on the Dynamite Out video release. However, it was included in the Pour Homme special edition of the band's second album, Adult, in January 2006. The audio from the performances of \"Super Star\", \"Gunjō Biyori\" and \"Yume no Ato\" were included on the band's Tokyo Collection live compilation album, released in February 2012. For the band's video album Chin Play Kō Play released on August 29, 2012, the recordings of \"Ringo no Uta\", \"Kurumaya-san\" and \"Koi no Urikomi (I'm Gonna Knock On Your Door)\" were included for the section detailing the Dynamite! tour.\n"
       ]
    },
-   "Sections": [
-      "1 Background",
-      "2 Concert synopsis",
-      "3 Recordings",
-      "3.1 Promotion",
-      "4 Set list",
-      "5 Tour dates",
-      "6 Personnel",
-      "7 Notes"
-   ],
    "Set list": {},
-   "Summary": {
-      "text": [
-         "Live Tour 2005 \"Dynamite!\" is the first concert tour by Japanese band Tokyo Jihen. The tour supported the band's debut studio album, Kyōiku (2004). It was the only tour to feature the band's original members Mikio Hirama and H Zetto M. The concert was released in the form of two video albums, a documentary, Dynamite In, on July 13, 2005, and a concert video, Dynamite Out, released on August 17, 2005.\n"
-      ]
-   },
-   "Title": "Live Tour 2005 \"Dynamite!\" - Wikipedia",
-   "Tour dates": {}
+   "Tour dates": {},
+   "Personnel": {},
+   "Notes": {},
+   "coreData": [
+      "Live Tour 2005 \"Dynamite!\" is the first concert tour by Japanese band Tokyo Jihen. The tour supported the band's debut studio album, Kyōiku (2004). It was the only tour to feature the band's original members Mikio Hirama and H Zetto M. The concert was released in the form of two video albums, a documentary, Dynamite In, on July 13, 2005, and a concert video, Dynamite Out, released on August 17, 2005.\n",
+      "After the release of vocalist Ringo Sheena's third album, Kalk Samen Kuri no Hana in 2003, Sheena embarked on a nationwide tour entitled Sugoroku Ecstasy. Sheena asked the backing members well in advance to perform for the tour, so that her first choices would not be double-booked.[1] These members were dubbed Tokyo Jihen, a name that was publicised during the tour.[2] During the tour, the song \"Ringo no Uta\" was briefly performed, which was released as a single by Sheena on November 25, 2003.[3] Tokyo Jihen was officially announced as Sheena's main musical unit on May 31, 2004, and first performed at a series of summer music festivals: 0724 Yamabikari at Kobe Chicken George on July 24, Meet the World Beat on July 25, 2004 in Suita, Osaka, the Fuji Rock Festival in Niigata Prefecture on July 30 and the SunSet Live 2004 festival in Fukuoka Prefecture on September 3.[4][5]\n",
+      "The concert tour was first announced in September 2004, before the release of the band's first single, \"Gunjō Biyori\".[6] The band released a second single in October, \"Sōnan\", followed by their full-length album Kyōiku in December.\n",
+      "After the concerts, members Mikio Hirama and H Zetto M decided to leave the band; Hirama to focus on his solo work and H Zetto M to focus on performing as a member of Pe'z. These announcements were made together on July 1, 2005, before the release of the Dynamite In and Dynamite Out video albums.[7]\n"
+   ]
 }

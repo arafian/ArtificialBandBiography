@@ -1,19 +1,5 @@
 {
-   "Album": {
-      "text": [
-         "In 1999, The Other Ones released The Strange Remain, a two-disc CD recorded live during their 1998 Furthur Festival tour.\n"
-      ]
-   },
-   "Continuing the legacy": {
-      "text": [
-         "The Other Ones continued the musical legacy of the Grateful Dead after Jerry Garcia died in 1995, playing many Grateful Dead songs and utilizing a similar jam band style that emphasized musical improvisation.  The name of the band was taken from the title of the Grateful Dead song \"That's It for the Other One\", from 1968's Anthem of the Sun.\n"
-      ]
-   },
-   "External links": {},
-   "Personnel": {
-      "Timeline": {}
-   },
-   "References": {},
+   "Name": "The Other Ones",
    "Sections": [
       "1 Continuing the legacy",
       "2 Album",
@@ -27,5 +13,24 @@
          "The Other Ones was an American rock band formed in 1998 by former Grateful Dead members Bob Weir, Phil Lesh, and Mickey Hart, along with part-time Grateful Dead collaborator Bruce Hornsby.[1] In 2000, Bill Kreutzmann, another Grateful Dead alumnus, joined the group, while Phil Lesh dropped out.[2]  In 2002, Lesh rejoined the band, and Hornsby left.[3]  At different times the shifting lineup of The Other Ones also included Mark Karan, Steve Kimock, John Molo, Dave Ellis, Alphonso Johnson, Jimmy Herring, Rob Barraco, Jeff Chimenti, and Susan Tedeschi.  In 2003, The Other Ones changed their name to The Dead.[4]\n"
       ]
    },
-   "Title": "The Other Ones - Wikipedia"
+   "Continuing the legacy": {
+      "text": [
+         "The Other Ones continued the musical legacy of the Grateful Dead after Jerry Garcia died in 1995, playing many Grateful Dead songs and utilizing a similar jam band style that emphasized musical improvisation.  The name of the band was taken from the title of the Grateful Dead song \"That's It for the Other One\", from 1968's Anthem of the Sun.\n"
+      ]
+   },
+   "Album": {
+      "text": [
+         "In 1999, The Other Ones released The Strange Remain, a two-disc CD recorded live during their 1998 Furthur Festival tour.\n"
+      ]
+   },
+   "Personnel": {
+      "Timeline": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Other Ones was an American rock band formed in 1998 by former Grateful Dead members Bob Weir, Phil Lesh, and Mickey Hart, along with part-time Grateful Dead collaborator Bruce Hornsby.[1] In 2000, Bill Kreutzmann, another Grateful Dead alumnus, joined the group, while Phil Lesh dropped out.[2]  In 2002, Lesh rejoined the band, and Hornsby left.[3]  At different times the shifting lineup of The Other Ones also included Mark Karan, Steve Kimock, John Molo, Dave Ellis, Alphonso Johnson, Jimmy Herring, Rob Barraco, Jeff Chimenti, and Susan Tedeschi.  In 2003, The Other Ones changed their name to The Dead.[4]\n",
+      "The Other Ones continued the musical legacy of the Grateful Dead after Jerry Garcia died in 1995, playing many Grateful Dead songs and utilizing a similar jam band style that emphasized musical improvisation.  The name of the band was taken from the title of the Grateful Dead song \"That's It for the Other One\", from 1968's Anthem of the Sun.\n",
+      "In 1999, The Other Ones released The Strange Remain, a two-disc CD recorded live during their 1998 Furthur Festival tour.\n"
+   ]
 }

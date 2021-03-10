@@ -1,27 +1,34 @@
 {
-   "Discography": {
-      "Compilation albums": {},
-      "Extended plays": {},
-      "Live albums": {
-         "text": [
-            "^ I Sound of Impact is an authorized bootleg released through a subsidiary imprint of Blast First.[80]\n"
-         ]
-      },
-      "Other appearances": {
-         "text": [
-            "The following Big Black songs were released on compilation albums. This is not an exhaustive list; songs that were first released on the band's albums, EPs, and singles are not included.\n"
-         ]
-      },
-      "Singles": {
-         "text": [
-            "^ I \"Rema-Rema\" is a Rema-Rema cover included as a one-sided single with issue No. 9 of Forced Exposure, and limited to 500 copies.\n",
-            "^ II \"In My House\" is a Mary Jane Girls cover that was included with copies of the Pigpile video.[68]\n"
-         ]
-      },
-      "Studio albums": {},
-      "Video albums": {},
+   "Name": "Big Black",
+   "Sections": [
+      "1 History",
+      "1.1 1981–82: Formation and Lungs",
+      "1.2 1983: Full lineup and Bulldozer",
+      "1.3 1984: Touring and label signing",
+      "1.4 1985–86: Racer-X and Atomizer",
+      "1.5 1987: Headache, Songs About Fucking, and breakup",
+      "1.6 Post-Big Black",
+      "2 Style",
+      "2.1 Music",
+      "2.2 Lyrics",
+      "2.3 Live performances",
+      "3 Influence",
+      "4 Members",
+      "5 Discography",
+      "5.1 Studio albums",
+      "5.2 Live albums",
+      "5.3 Compilation albums",
+      "5.4 Extended plays",
+      "5.5 Singles",
+      "5.6 Video albums",
+      "5.7 Other appearances",
+      "6 References"
+   ],
+   "Summary": {
       "text": [
-         "The discography of Big Black consists of two studio albums, two live albums, two compilation albums, four EPs, five singles, and one video album.\n"
+         "Big Black was an American punk rock band from Evanston, Illinois, active from 1981 to 1987. Founded by singer and guitarist Steve Albini, the band's initial lineup also included guitarist Santiago Durango and bassist Jeff Pezzati, both of Naked Raygun. In 1985, Pezzati was replaced by Dave Riley, who played on Big Black's two full-length studio albums, Atomizer (1986) and Songs About Fucking (1987).\n",
+         "Big Black's aggressive and abrasive music was characterized by distinctively clanky guitars and the use of a drum machine rather than a drum kit, elements that foreshadowed industrial rock. The band's lyrics flouted commonly held taboos and dealt frankly—and often explicitly—with politically and culturally loaded topics including murder, rape, child sexual abuse, arson, racism, and misogyny. Though the band's lyrics contained controversial material, the lyrics were meant to serve as a commentary or a display of distaste for the subject matter. They were staunchly critical of the commercial nature of rock, shunning the mainstream music industry and insisting on complete control over all aspects of their career. At the height of their success, they booked their own tours, paid for their own recordings, refused to sign contracts, and eschewed many of the traditional corporate trappings of rock bands. In doing so, they had a significant impact on the aesthetic and political development of independent and underground rock music.\n",
+         "In addition to two studio albums, Big Black released two live albums, two compilation albums, four EPs, and five singles, all through independent record labels. Most of the band's catalog was kept in print through Touch and Go Records for years following their breakup.\n"
       ]
    },
    "History": {
@@ -75,6 +82,30 @@
          ]
       }
    },
+   "Style": {
+      "Music": {
+         "text": [
+            "Big Black's music challenged convention, pursuing an abrasive sound that was more aggressive than contemporary punk rock. Albini explained that the band strove for intensity, stating that their goal was to make \"something that felt intense when we went through it, rather than something that had little coded indicators of intensity. Heavy metal and stuff like that didn't really seem intense to me, it seemed comical to me. Hardcore punk didn't really seem intense most of the time — most of the time it just seemed childish. I guess that's how I would differentiate what we were doing from what other people were doing.\"[60] Both Albini and Riley described Big Black as a punk rock band.[20][61][62] AllMusic has associated their sound with both hardcore and post-punk and described them as influential to indie rock[2] as well as pioneers of noise rock[63] and post-hardcore.[64]\n",
+            "A major component of Big Black's music was the drum machine. Rather than attempt to make it emulate the sound of a normal drum kit, the band chose to exploit the idiosyncrasies of its synthetic sounds.[14] On many songs Albini programmed it to accent the first and third beats of the bar, rather than the second and fourth beats typically accented in rock music.[14] \"The effect was a monolithic pummeling, an attack\", says Michael Azerrad, \"their groove, normally the most human aspect of a rock band, became its most inhuman; it only made them sound more insidious, its relentlessness downright tyrannical.\"[14] On tour, the sound engineers at many rock clubs were befuddled by the drum machine, afraid that it would not work with their sound system or would blow out their speakers, and the band would have to coerce the club owner or threaten to cancel the show in order to get them to put the drum machine through the monitors.[31]\n",
+            "The band's guitar sound was also unconventional. Albini was determined to avoid the \"standard rock stud guitar sound\", and achieved a signature \"clanky\" sound by using metal guitar picks notched with sheet metal snips; the notch causing the pick to hit each string twice, creating the effect of two simultaneous guitar picks.[9][14] Durango remarked: \"I always thought that our guitar playing was not so much playing guitars, but assembling noises created by guitars.\"[14] He and Albini respectively billed their guitars as \"vroom\" and \"skinng\" in the liner notes for Atomizer.[28] Mark Deming of Allmusic remarks that \"The group's guitars alternately sliced like a machete and ground like a dentist's drill, creating a groundbreaking and monolithic dissonance in the process.\"[2]\n",
+            "Big Black's music was influenced by a number of genres and artists. Albini was a fan of punk rock bands including Suicide, the Ramones, the Stooges, and Naked Raygun.[2][4] When Riley joined the band in 1985 he brought with him a funk background, having worked at a Detroit studio where George Clinton and Sly Stone had recorded.[65] During their career Big Black recorded cover versions of songs from a number of styles including post-punk, new wave, funk, hard rock, synthpop, and R&B; these included Rema-Rema's \"Rema-Rema\", James Brown's \"The Payback\",[66] Wire's \"Heartbeat\",[67] Cheap Trick's \"He's a Whore\",[43] Kraftwerk's \"The Model\",[43] and the Mary Jane Girls' \"In My House\".[66][68] The sound that Big Black forged for themselves, however, was wholly original: Azerrad remarks that \"the band's music — jagged, brutal, loud, and nasty — was original to a downright confrontational degree. Big Black distilled years of post-punk and hardcore down to a sound resembling a singing saw blade mercillesly tearing through sheet metal. No one had made records that sounded so harsh.\"[69]\n"
+         ]
+      },
+      "Lyrics": {
+         "text": [
+            "Big Black's songs explored the dark side of American culture in unforgiving detail, acknowledging no taboos.[2][70] Albini's lyrics openly dealt with such topics as mutilation, murder, rape, child abuse, arson, immolation, racism, and misogyny.[2] \"That's just what was interesting to me as a postcollegiate bohemian\", he later remarked. \"We didn't have a manifesto. Nothing was off-limits; it's just that that's what came up most of the time.\"[71] Many of his songs told miniature short stories of sociopaths doing evil things that the average person might merely contemplate.[29][60] Some, such as \"Cables\", \"Pigeon Kill\", and \"Jordan, Minnesota\", were based on real events, or things that Albini had witnessed during his midwest upbringing.[16][29] He compared the stories to Ripley's Believe It or Not!, saying that \"If you stumble across something like this, you think 'This can't be!' But it turns out to be true, and that makes it even wilder.\"[60]\n",
+            "–Steve Albini\n",
+            "Albini's lyrics drew criticism for apparent racism and homophobia. Racism was a frequent theme in Big Black songs, influenced partly by the sharp racial divisions present in Chicago at the time.[72] The word \"darkie\" appeared in the first line of the Lungs EP, but Albini defended its use as a comical term, saying \"in a way that's a play on the concept of a hateful word. Can a word that's so inherently hilarious be hateful? I don't know.\"[72] He similarly defended his use of gay jokes and the word \"fag\": \"Given how intermingled the gay and punk subcultures were, it was assumed by anyone involved that open-mindedness, if not free-form experimentation, was the norm. With that assumption under your belt, joke all you like. The word 'fag' isn't just a gay term, it's funny on its own — phonetically — like the words 'hockey puck,' 'mukluks,' 'gefilte fish,' and 'Canada.'\"[73] Some critics viewed these defenses as mere justifications for actual deep-seated racism, homophobia, and misogyny on Albini's part, given his level of familiarity with the subject matter, but he insisted that he was not a prejudiced person and was merely satirizing those impulses that rational, civilized persons normally suppress in the course of social interaction:[2][19] \"So once that's given, once you know what you think, there's no reason to be ginger about what you say. A lot of people, they're very careful not to say things that might offend certain people or do anything that might be misinterpreted. But what they don't realize is that the point of all this is to change the way you live your life, not the way you speak.\"[74]\n",
+            "Albini also emphasized that the songs' lyrics were not the focal point of Big Black, and that the vocals were only there out of necessity: \"It seemed like, as instrumental music, it didn't have enough emotional intensity at times, so there would be vocals. But the vocals were not intended to be the center of attention — the interaction within the band and the chaotic nature of the music, that was the important part.\"[71] However, he did enjoy testing the tolerance of the white liberal hipsters in his audience and provoking reactions out of listeners, stating that one of the band's goals was \"to have pointedly offensive records\".[61][62][72] Terri Sutton of Puncture magazine wrote that the band's stark presentation of evil, deep-seated human impulses bolstered their work against criticism: \"The topics are so deliberately loaded that you can't criticize their 'art' without looking like some fucking puritan.\"[29]\n"
+         ]
+      },
+      "Live performances": {
+         "text": [
+            "Onstage, Big Black presented an intense spectacle to match their music. Albini would set off a brick of firecrackers onstage before the band played, a tradition he carried on from their earliest performances through their dissolution and revived for their 2006 reunion set, and would count in most songs by yelling \"One, two, fuck you!\"[58][75] While playing, the band members would slam their hands against their steel guitar strings so hard that they would draw blood, often needing to put adhesive bandages on their fingers.[31] Albini used a specially-made hip-slung guitar strap worn around his waist like a belt, and would \"prowl the stage like a spindly gunslinger\", according to Azerrad.[76] Gerard Cosloy recalls that \"It looked like someone had plugged Steve into the amp [...] he was pretty scary to watch onstage.\"[76]\n",
+            "During performances of \"Jordan, Minnesota\", the band would reach a point where they would prolong a discordant, creepy noise while Albini would perform an intense pantomime as though he were one of the children from the song's lyrics being raped.[76] \"It was actually very disturbing to watch\", says Durango, \"It would really get people unsettled.\"[76] The band would respond to hecklers with acidic comebacks or deliberately offensive jokes.[76] Describing the intensity of a January 1987 Big Black performance in Forced Exposure, Lydia Lunch remarked that \"I was pulverized into near oblivion as wall after wall of frustration, heartache, hatred, death, disease, dis-use, disgust, mistrust, & maelstrom stormed the stage waging war with military precision insistently invading every open orifice with the strength of ten thousand bulls\".[40]\n"
+         ]
+      }
+   },
    "Influence": {
       "text": [
          "–Michael Azerrad\n",
@@ -87,61 +118,36 @@
          "^ I The band's drum machine is credited as \"Roland\" on their releases.[13]\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 1981–82: Formation and Lungs",
-      "1.2 1983: Full lineup and Bulldozer",
-      "1.3 1984: Touring and label signing",
-      "1.4 1985–86: Racer-X and Atomizer",
-      "1.5 1987: Headache, Songs About Fucking, and breakup",
-      "1.6 Post-Big Black",
-      "2 Style",
-      "2.1 Music",
-      "2.2 Lyrics",
-      "2.3 Live performances",
-      "3 Influence",
-      "4 Members",
-      "5 Discography",
-      "5.1 Studio albums",
-      "5.2 Live albums",
-      "5.3 Compilation albums",
-      "5.4 Extended plays",
-      "5.5 Singles",
-      "5.6 Video albums",
-      "5.7 Other appearances",
-      "6 References"
-   ],
-   "Style": {
-      "Live performances": {
+   "Discography": {
+      "Studio albums": {},
+      "Live albums": {
          "text": [
-            "Onstage, Big Black presented an intense spectacle to match their music. Albini would set off a brick of firecrackers onstage before the band played, a tradition he carried on from their earliest performances through their dissolution and revived for their 2006 reunion set, and would count in most songs by yelling \"One, two, fuck you!\"[58][75] While playing, the band members would slam their hands against their steel guitar strings so hard that they would draw blood, often needing to put adhesive bandages on their fingers.[31] Albini used a specially-made hip-slung guitar strap worn around his waist like a belt, and would \"prowl the stage like a spindly gunslinger\", according to Azerrad.[76] Gerard Cosloy recalls that \"It looked like someone had plugged Steve into the amp [...] he was pretty scary to watch onstage.\"[76]\n",
-            "During performances of \"Jordan, Minnesota\", the band would reach a point where they would prolong a discordant, creepy noise while Albini would perform an intense pantomime as though he were one of the children from the song's lyrics being raped.[76] \"It was actually very disturbing to watch\", says Durango, \"It would really get people unsettled.\"[76] The band would respond to hecklers with acidic comebacks or deliberately offensive jokes.[76] Describing the intensity of a January 1987 Big Black performance in Forced Exposure, Lydia Lunch remarked that \"I was pulverized into near oblivion as wall after wall of frustration, heartache, hatred, death, disease, dis-use, disgust, mistrust, & maelstrom stormed the stage waging war with military precision insistently invading every open orifice with the strength of ten thousand bulls\".[40]\n"
+            "^ I Sound of Impact is an authorized bootleg released through a subsidiary imprint of Blast First.[80]\n"
          ]
       },
-      "Lyrics": {
+      "Compilation albums": {},
+      "Extended plays": {},
+      "Singles": {
          "text": [
-            "Big Black's songs explored the dark side of American culture in unforgiving detail, acknowledging no taboos.[2][70] Albini's lyrics openly dealt with such topics as mutilation, murder, rape, child abuse, arson, immolation, racism, and misogyny.[2] \"That's just what was interesting to me as a postcollegiate bohemian\", he later remarked. \"We didn't have a manifesto. Nothing was off-limits; it's just that that's what came up most of the time.\"[71] Many of his songs told miniature short stories of sociopaths doing evil things that the average person might merely contemplate.[29][60] Some, such as \"Cables\", \"Pigeon Kill\", and \"Jordan, Minnesota\", were based on real events, or things that Albini had witnessed during his midwest upbringing.[16][29] He compared the stories to Ripley's Believe It or Not!, saying that \"If you stumble across something like this, you think 'This can't be!' But it turns out to be true, and that makes it even wilder.\"[60]\n",
-            "–Steve Albini\n",
-            "Albini's lyrics drew criticism for apparent racism and homophobia. Racism was a frequent theme in Big Black songs, influenced partly by the sharp racial divisions present in Chicago at the time.[72] The word \"darkie\" appeared in the first line of the Lungs EP, but Albini defended its use as a comical term, saying \"in a way that's a play on the concept of a hateful word. Can a word that's so inherently hilarious be hateful? I don't know.\"[72] He similarly defended his use of gay jokes and the word \"fag\": \"Given how intermingled the gay and punk subcultures were, it was assumed by anyone involved that open-mindedness, if not free-form experimentation, was the norm. With that assumption under your belt, joke all you like. The word 'fag' isn't just a gay term, it's funny on its own — phonetically — like the words 'hockey puck,' 'mukluks,' 'gefilte fish,' and 'Canada.'\"[73] Some critics viewed these defenses as mere justifications for actual deep-seated racism, homophobia, and misogyny on Albini's part, given his level of familiarity with the subject matter, but he insisted that he was not a prejudiced person and was merely satirizing those impulses that rational, civilized persons normally suppress in the course of social interaction:[2][19] \"So once that's given, once you know what you think, there's no reason to be ginger about what you say. A lot of people, they're very careful not to say things that might offend certain people or do anything that might be misinterpreted. But what they don't realize is that the point of all this is to change the way you live your life, not the way you speak.\"[74]\n",
-            "Albini also emphasized that the songs' lyrics were not the focal point of Big Black, and that the vocals were only there out of necessity: \"It seemed like, as instrumental music, it didn't have enough emotional intensity at times, so there would be vocals. But the vocals were not intended to be the center of attention — the interaction within the band and the chaotic nature of the music, that was the important part.\"[71] However, he did enjoy testing the tolerance of the white liberal hipsters in his audience and provoking reactions out of listeners, stating that one of the band's goals was \"to have pointedly offensive records\".[61][62][72] Terri Sutton of Puncture magazine wrote that the band's stark presentation of evil, deep-seated human impulses bolstered their work against criticism: \"The topics are so deliberately loaded that you can't criticize their 'art' without looking like some fucking puritan.\"[29]\n"
+            "^ I \"Rema-Rema\" is a Rema-Rema cover included as a one-sided single with issue No. 9 of Forced Exposure, and limited to 500 copies.\n",
+            "^ II \"In My House\" is a Mary Jane Girls cover that was included with copies of the Pigpile video.[68]\n"
          ]
       },
-      "Music": {
+      "Video albums": {},
+      "Other appearances": {
          "text": [
-            "Big Black's music challenged convention, pursuing an abrasive sound that was more aggressive than contemporary punk rock. Albini explained that the band strove for intensity, stating that their goal was to make \"something that felt intense when we went through it, rather than something that had little coded indicators of intensity. Heavy metal and stuff like that didn't really seem intense to me, it seemed comical to me. Hardcore punk didn't really seem intense most of the time — most of the time it just seemed childish. I guess that's how I would differentiate what we were doing from what other people were doing.\"[60] Both Albini and Riley described Big Black as a punk rock band.[20][61][62] AllMusic has associated their sound with both hardcore and post-punk and described them as influential to indie rock[2] as well as pioneers of noise rock[63] and post-hardcore.[64]\n",
-            "A major component of Big Black's music was the drum machine. Rather than attempt to make it emulate the sound of a normal drum kit, the band chose to exploit the idiosyncrasies of its synthetic sounds.[14] On many songs Albini programmed it to accent the first and third beats of the bar, rather than the second and fourth beats typically accented in rock music.[14] \"The effect was a monolithic pummeling, an attack\", says Michael Azerrad, \"their groove, normally the most human aspect of a rock band, became its most inhuman; it only made them sound more insidious, its relentlessness downright tyrannical.\"[14] On tour, the sound engineers at many rock clubs were befuddled by the drum machine, afraid that it would not work with their sound system or would blow out their speakers, and the band would have to coerce the club owner or threaten to cancel the show in order to get them to put the drum machine through the monitors.[31]\n",
-            "The band's guitar sound was also unconventional. Albini was determined to avoid the \"standard rock stud guitar sound\", and achieved a signature \"clanky\" sound by using metal guitar picks notched with sheet metal snips; the notch causing the pick to hit each string twice, creating the effect of two simultaneous guitar picks.[9][14] Durango remarked: \"I always thought that our guitar playing was not so much playing guitars, but assembling noises created by guitars.\"[14] He and Albini respectively billed their guitars as \"vroom\" and \"skinng\" in the liner notes for Atomizer.[28] Mark Deming of Allmusic remarks that \"The group's guitars alternately sliced like a machete and ground like a dentist's drill, creating a groundbreaking and monolithic dissonance in the process.\"[2]\n",
-            "Big Black's music was influenced by a number of genres and artists. Albini was a fan of punk rock bands including Suicide, the Ramones, the Stooges, and Naked Raygun.[2][4] When Riley joined the band in 1985 he brought with him a funk background, having worked at a Detroit studio where George Clinton and Sly Stone had recorded.[65] During their career Big Black recorded cover versions of songs from a number of styles including post-punk, new wave, funk, hard rock, synthpop, and R&B; these included Rema-Rema's \"Rema-Rema\", James Brown's \"The Payback\",[66] Wire's \"Heartbeat\",[67] Cheap Trick's \"He's a Whore\",[43] Kraftwerk's \"The Model\",[43] and the Mary Jane Girls' \"In My House\".[66][68] The sound that Big Black forged for themselves, however, was wholly original: Azerrad remarks that \"the band's music — jagged, brutal, loud, and nasty — was original to a downright confrontational degree. Big Black distilled years of post-punk and hardcore down to a sound resembling a singing saw blade mercillesly tearing through sheet metal. No one had made records that sounded so harsh.\"[69]\n"
+            "The following Big Black songs were released on compilation albums. This is not an exhaustive list; songs that were first released on the band's albums, EPs, and singles are not included.\n"
          ]
-      }
-   },
-   "Summary": {
+      },
       "text": [
-         "Big Black was an American punk rock band from Evanston, Illinois, active from 1981 to 1987. Founded by singer and guitarist Steve Albini, the band's initial lineup also included guitarist Santiago Durango and bassist Jeff Pezzati, both of Naked Raygun. In 1985, Pezzati was replaced by Dave Riley, who played on Big Black's two full-length studio albums, Atomizer (1986) and Songs About Fucking (1987).\n",
-         "Big Black's aggressive and abrasive music was characterized by distinctively clanky guitars and the use of a drum machine rather than a drum kit, elements that foreshadowed industrial rock. The band's lyrics flouted commonly held taboos and dealt frankly—and often explicitly—with politically and culturally loaded topics including murder, rape, child sexual abuse, arson, racism, and misogyny. Though the band's lyrics contained controversial material, the lyrics were meant to serve as a commentary or a display of distaste for the subject matter. They were staunchly critical of the commercial nature of rock, shunning the mainstream music industry and insisting on complete control over all aspects of their career. At the height of their success, they booked their own tours, paid for their own recordings, refused to sign contracts, and eschewed many of the traditional corporate trappings of rock bands. In doing so, they had a significant impact on the aesthetic and political development of independent and underground rock music.\n",
-         "In addition to two studio albums, Big Black released two live albums, two compilation albums, four EPs, and five singles, all through independent record labels. Most of the band's catalog was kept in print through Touch and Go Records for years following their breakup.\n"
+         "The discography of Big Black consists of two studio albums, two live albums, two compilation albums, four EPs, five singles, and one video album.\n"
       ]
    },
-   "Title": "Big Black - Wikipedia"
+   "References": {},
+   "coreData": [
+      "Big Black was an American punk rock band from Evanston, Illinois, active from 1981 to 1987. Founded by singer and guitarist Steve Albini, the band's initial lineup also included guitarist Santiago Durango and bassist Jeff Pezzati, both of Naked Raygun. In 1985, Pezzati was replaced by Dave Riley, who played on Big Black's two full-length studio albums, Atomizer (1986) and Songs About Fucking (1987).\n",
+      "Big Black's aggressive and abrasive music was characterized by distinctively clanky guitars and the use of a drum machine rather than a drum kit, elements that foreshadowed industrial rock. The band's lyrics flouted commonly held taboos and dealt frankly—and often explicitly—with politically and culturally loaded topics including murder, rape, child sexual abuse, arson, racism, and misogyny. Though the band's lyrics contained controversial material, the lyrics were meant to serve as a commentary or a display of distaste for the subject matter. They were staunchly critical of the commercial nature of rock, shunning the mainstream music industry and insisting on complete control over all aspects of their career. At the height of their success, they booked their own tours, paid for their own recordings, refused to sign contracts, and eschewed many of the traditional corporate trappings of rock bands. In doing so, they had a significant impact on the aesthetic and political development of independent and underground rock music.\n",
+      "In addition to two studio albums, Big Black released two live albums, two compilation albums, four EPs, and five singles, all through independent record labels. Most of the band's catalog was kept in print through Touch and Go Records for years following their breakup.\n",
+      "Big Black was founded by Steve Albini in 1981 during his second year of college at Northwestern University.[1][2][3] Albini had become a fan of punk rock during his high school years in Missoula, Montana, and taught himself to play bass guitar in the fall of 1979, his senior year, while recuperating from a badly broken leg resulting from being struck by a car while riding his motorcycle.[2][4] Moving to Evanston, Illinois the following year to pursue a journalism degree and fine art minor at Northwestern, Albini immersed himself in the fledgling Chicago punk scene and became a devoted fan of the post-punk band Naked Raygun.[1][2] He also DJ'd for the campus radio station, from which he was repeatedly fired for playing loud and abrasive music during the morning time slot as well as not completing the required logs.[5][6] He also wrote a controversial column titled \"Tired of Ugly Fat?\" for the Chicago zine Matter, publishing confrontational rants about the local music scene which polarized readers into either respecting or hating him.[2][5]\n"
+   ]
 }

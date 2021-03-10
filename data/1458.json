@@ -1,4 +1,14 @@
 {
+   "Name": "Clan MacRae Society Pipe Band",
+   "Sections": [
+      "Summary",
+      "History"
+   ],
+   "Summary": {
+      "text": [
+         "The Clan MacRae Society Pipe Band was a pipe band based in Glasgow. \n"
+      ]
+   },
    "History": {
       "text": [
          "The civilian City of Glasgow Pipe Band was established by Farquhar MacRae in January 1914, who had previously led the pipe band of the 7th (Blythswood) Battalion Highland Light Infantry, a reserve battalion.[1] The pipe band of the 7th Battalion won the World Pipe Band Championships in 1913, and MacRae resigned along with much of his band after the annual camp of 1913.[1] The first time the City of Glasgow Pipe Band entered the World Championships in 1914 it won second place.[2][1]\n",
@@ -9,9 +19,10 @@
          "The band was downgraded to Grade 2, but won the Grade 2 World Championships under Pipe Major John Finlay.[4]\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "The Clan MacRae Society Pipe Band was a pipe band based in Glasgow. \n"
-      ]
-   }
+   "coreData": [
+      "The Clan MacRae Society Pipe Band was a pipe band based in Glasgow. \n",
+      "The civilian City of Glasgow Pipe Band was established by Farquhar MacRae in January 1914, who had previously led the pipe band of the 7th (Blythswood) Battalion Highland Light Infantry, a reserve battalion.[1] The pipe band of the 7th Battalion won the World Pipe Band Championships in 1913, and MacRae resigned along with much of his band after the annual camp of 1913.[1] The first time the City of Glasgow Pipe Band entered the World Championships in 1914 it won second place.[2][1]\n",
+      "When World War I broke out the band was disbanded, but was reformed under the leadership of William Fergusson in 1920.[1] MacRae died in 1916, and the name of the band was changed to the Clan MacRae Society Pipe Band at some point in the 1920s.[2] At one point under Ferguson's leadership, the band contained six qualified Pipe majors.[2]\n",
+      "William Fergusson led the band to victory at the World Championships in 1921, 1922, 1923 and 1925.[3] Ferguson was a prolific composer, and wrote tunes such as the 2/4 marches \"Clan MacRae Society Pipe Band\" and \"The Atholl and Breadalbane Gathering.\"[3]\n"
+   ]
 }

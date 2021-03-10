@@ -1,13 +1,23 @@
 {
+   "Name": "If These Trees Could Talk",
+   "Sections": [
+      "Summary",
+      "Discography"
+   ],
+   "Summary": {
+      "text": [
+         "If These Trees Could Talk is an instrumental post-rock band from Akron, Ohio.[1] The band self-released their self-titled debut EP in 2006. Independent record label The Mylene Sheath re-released the EP on vinyl in 2007,[2] and went on to release the band's debut studio album, Above the Earth, Below the Sky, on vinyl also, in 2009.[3] The band self-released their second album Red Forest in March 2012, whilst the album's vinyl release went through Science of Silence Records. They went on to follow up the release of \"Red Forest\"[4] with a self-promoted tour throughout Europe in April 2012.[5] The band released its third album, The Bones of a Dying World, in June, 2016 on Metal Blade Records.[6]\n"
+      ]
+   },
    "Discography": {
       "text": [
          "Studio albums\n",
          "EPs\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "If These Trees Could Talk is an instrumental post-rock band from Akron, Ohio.[1] The band self-released their self-titled debut EP in 2006. Independent record label The Mylene Sheath re-released the EP on vinyl in 2007,[2] and went on to release the band's debut studio album, Above the Earth, Below the Sky, on vinyl also, in 2009.[3] The band self-released their second album Red Forest in March 2012, whilst the album's vinyl release went through Science of Silence Records. They went on to follow up the release of \"Red Forest\"[4] with a self-promoted tour throughout Europe in April 2012.[5] The band released its third album, The Bones of a Dying World, in June, 2016 on Metal Blade Records.[6]\n"
-      ]
-   }
+   "coreData": [
+      "If These Trees Could Talk is an instrumental post-rock band from Akron, Ohio.[1] The band self-released their self-titled debut EP in 2006. Independent record label The Mylene Sheath re-released the EP on vinyl in 2007,[2] and went on to release the band's debut studio album, Above the Earth, Below the Sky, on vinyl also, in 2009.[3] The band self-released their second album Red Forest in March 2012, whilst the album's vinyl release went through Science of Silence Records. They went on to follow up the release of \"Red Forest\"[4] with a self-promoted tour throughout Europe in April 2012.[5] The band released its third album, The Bones of a Dying World, in June, 2016 on Metal Blade Records.[6]\n",
+      "Studio albums\n",
+      "EPs\n"
+   ]
 }

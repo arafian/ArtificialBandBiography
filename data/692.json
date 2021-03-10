@@ -1,41 +1,5 @@
 {
-   "Discography": {
-      "Compilations": {},
-      "Extended plays": {},
-      "Singles": {},
-      "Studio albums": {}
-   },
-   "External links": {},
-   "History": {
-      "Are You Thinking What I'm Thinking?": {
-         "text": [
-            "The Like released their first album, Are You Thinking What I'm Thinking?, through Geffen on September 13, 2005. The album is a combination of reworked songs previously released on their independent EPs as well as new material. The reviews were generally positive.[4] Krissi Murison of the NME had praise for such songs as \"June Gloom\" and \"(So I'll Sit Here) Waiting\", but criticized the \"over-polished approach\" of producer Wendy Melvoin.[5]\n",
-            "The band performed at the Coachella Valley Music and Arts Festival in April 2006 and at the Wireless Festival in Hyde Park, London in June 2006. In September 2006, the Like supported Muse on a short string of tour dates in the U.S., before heading to Europe to support UK band Razorlight.\n"
-         ]
-      },
-      "Formation and early years": {
-         "text": [
-            "The Like were formed in September 2001 by Z Berg (vocals/guitar), Charlotte Froom (bass/vocals) and Tennessee Thomas (drums) at the ages of 15, 15 and 16, respectively. All three are daughters of music industry veterans; Berg's father is former Geffen Records A&R exec/record producer Tony Berg, Froom's father is producer Mitchell Froom and Thomas' father is Pete Thomas, longtime drummer for Elvis Costello.[2] From childhood, Froom, Berg and Thomas were immersed in classic rock, and all three took piano lessons before teaching themselves their current instruments.\n",
-            "They formed when the parents of childhood friends Thomas and Froom learned that Berg had been writing songs and showed interest in forming a band. Froom learned bass two weeks before joining, and the three began working together, getting fast results. Thomas's mother came up with the name in recognition of how often the girls used the word \"like\".[3]\n",
-            "Over a period of three years, the band independently released three EPs (I Like The Like, ... and The Like, and Like It or Not), which they sold at shows and on their website. Their song \"(So I'll Sit Here) Waiting\" was featured on the soundtrack of the film Thirteen. They toured with Phantom Planet and Kings of Leon. In 2004, the Like signed to Geffen Records.\n"
-         ]
-      },
-      "Hiatus": {
-         "text": [
-            "On May 25, 2011, the band posted the following message on its official Facebook page: \"The Like have cancelled all their upcoming shows, and the band is currently on an indefinite hiatus. There is no further statement from the band at this time.\"[16]\n",
-            "On October 20, 2013, without officially acknowledging the status of their hiatus, the band posted via Twitter that on October 25 they will be playing a show at the Liquid Room in Tokyo, Japan.[17]\n"
-         ]
-      },
-      "Lineup changes and Release Me": {
-         "text": [
-            "Berg and Thomas went to Brooklyn, New York to record the Like's second album. (Froom had recently left the band.)[6] They worked with producer Mark Ronson, as well as Alex Greenwald and various members of Sharon Jones & The Dap-Kings. Departing from the sound of Are You Thinking What I'm Thinking?, they were inspired by the music of classic girl groups, British invasion acts, and 1960s female songwriters.[7] Greenwald played the bass guitar on all tracks.\n",
-            "On September 17, 2009, the band posted a message entitled \"The Like 2.0\" on their MySpace blog. The message announced a new lineup: founding members Berg and Thomas, plus new members Reni Lane and Laena Geronimo.[8] This lineup toured with Arctic Monkeys in September and October 2009.[9] Reni Lane has since left the band and been replaced by current band member Annie Monroe.\n",
-            "Downtown Records released the album, entitled Release Me, on June 15, 2010. USA Today called it a \"vast improvement\" over Are You Thinking What I'm Thinking?[10] Los Angeles magazine noted that the band \"has gone retro-fab, with Farfisa organ, jangly Brit-pop guitar, and hand claps.\"[11] Jon Pareles of The New York Times wrote, \"The tough girl group is hardly a new concept—ask Blondie or the Donnas—but done right, like this, it's irresistible.\"[12]\n",
-            "The band starred in a short film commissioned by designer Zac Posen as a way to promote his Target fashion collection. The film shows the band hanging out in a hotel room and then performing the single \"Fair Game\". The film was directed by Gia Coppola (granddaughter of Francis Ford Coppola).[13] The Like also appeared as themselves in an October 2010 episode of the TV series 90210,[14] and in issue 3 of The Li'l Depressed Boy comic book.[15]\n"
-         ]
-      }
-   },
-   "References": {},
+   "Name": "The Like",
    "Sections": [
       "1 History",
       "1.1 Formation and early years",
@@ -55,5 +19,47 @@
          "The Like was an alternative rock band from Los Angeles, California. Its final lineup consisted of Z Berg (vocals and guitar), Tennessee Thomas (drums), Laena Geronimo (bass), and Annie Monroe (organ). The band released three extended plays (EPs) and two studio albums.\n"
       ]
    },
-   "Title": "The Like - Wikipedia"
+   "History": {
+      "Formation and early years": {
+         "text": [
+            "The Like were formed in September 2001 by Z Berg (vocals/guitar), Charlotte Froom (bass/vocals) and Tennessee Thomas (drums) at the ages of 15, 15 and 16, respectively. All three are daughters of music industry veterans; Berg's father is former Geffen Records A&R exec/record producer Tony Berg, Froom's father is producer Mitchell Froom and Thomas' father is Pete Thomas, longtime drummer for Elvis Costello.[2] From childhood, Froom, Berg and Thomas were immersed in classic rock, and all three took piano lessons before teaching themselves their current instruments.\n",
+            "They formed when the parents of childhood friends Thomas and Froom learned that Berg had been writing songs and showed interest in forming a band. Froom learned bass two weeks before joining, and the three began working together, getting fast results. Thomas's mother came up with the name in recognition of how often the girls used the word \"like\".[3]\n",
+            "Over a period of three years, the band independently released three EPs (I Like The Like, ... and The Like, and Like It or Not), which they sold at shows and on their website. Their song \"(So I'll Sit Here) Waiting\" was featured on the soundtrack of the film Thirteen. They toured with Phantom Planet and Kings of Leon. In 2004, the Like signed to Geffen Records.\n"
+         ]
+      },
+      "Are You Thinking What I'm Thinking?": {
+         "text": [
+            "The Like released their first album, Are You Thinking What I'm Thinking?, through Geffen on September 13, 2005. The album is a combination of reworked songs previously released on their independent EPs as well as new material. The reviews were generally positive.[4] Krissi Murison of the NME had praise for such songs as \"June Gloom\" and \"(So I'll Sit Here) Waiting\", but criticized the \"over-polished approach\" of producer Wendy Melvoin.[5]\n",
+            "The band performed at the Coachella Valley Music and Arts Festival in April 2006 and at the Wireless Festival in Hyde Park, London in June 2006. In September 2006, the Like supported Muse on a short string of tour dates in the U.S., before heading to Europe to support UK band Razorlight.\n"
+         ]
+      },
+      "Lineup changes and Release Me": {
+         "text": [
+            "Berg and Thomas went to Brooklyn, New York to record the Like's second album. (Froom had recently left the band.)[6] They worked with producer Mark Ronson, as well as Alex Greenwald and various members of Sharon Jones & The Dap-Kings. Departing from the sound of Are You Thinking What I'm Thinking?, they were inspired by the music of classic girl groups, British invasion acts, and 1960s female songwriters.[7] Greenwald played the bass guitar on all tracks.\n",
+            "On September 17, 2009, the band posted a message entitled \"The Like 2.0\" on their MySpace blog. The message announced a new lineup: founding members Berg and Thomas, plus new members Reni Lane and Laena Geronimo.[8] This lineup toured with Arctic Monkeys in September and October 2009.[9] Reni Lane has since left the band and been replaced by current band member Annie Monroe.\n",
+            "Downtown Records released the album, entitled Release Me, on June 15, 2010. USA Today called it a \"vast improvement\" over Are You Thinking What I'm Thinking?[10] Los Angeles magazine noted that the band \"has gone retro-fab, with Farfisa organ, jangly Brit-pop guitar, and hand claps.\"[11] Jon Pareles of The New York Times wrote, \"The tough girl group is hardly a new concept—ask Blondie or the Donnas—but done right, like this, it's irresistible.\"[12]\n",
+            "The band starred in a short film commissioned by designer Zac Posen as a way to promote his Target fashion collection. The film shows the band hanging out in a hotel room and then performing the single \"Fair Game\". The film was directed by Gia Coppola (granddaughter of Francis Ford Coppola).[13] The Like also appeared as themselves in an October 2010 episode of the TV series 90210,[14] and in issue 3 of The Li'l Depressed Boy comic book.[15]\n"
+         ]
+      },
+      "Hiatus": {
+         "text": [
+            "On May 25, 2011, the band posted the following message on its official Facebook page: \"The Like have cancelled all their upcoming shows, and the band is currently on an indefinite hiatus. There is no further statement from the band at this time.\"[16]\n",
+            "On October 20, 2013, without officially acknowledging the status of their hiatus, the band posted via Twitter that on October 25 they will be playing a show at the Liquid Room in Tokyo, Japan.[17]\n"
+         ]
+      }
+   },
+   "Discography": {
+      "Studio albums": {},
+      "Extended plays": {},
+      "Singles": {},
+      "Compilations": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Like was an alternative rock band from Los Angeles, California. Its final lineup consisted of Z Berg (vocals and guitar), Tennessee Thomas (drums), Laena Geronimo (bass), and Annie Monroe (organ). The band released three extended plays (EPs) and two studio albums.\n",
+      "The Like were formed in September 2001 by Z Berg (vocals/guitar), Charlotte Froom (bass/vocals) and Tennessee Thomas (drums) at the ages of 15, 15 and 16, respectively. All three are daughters of music industry veterans; Berg's father is former Geffen Records A&R exec/record producer Tony Berg, Froom's father is producer Mitchell Froom and Thomas' father is Pete Thomas, longtime drummer for Elvis Costello.[2] From childhood, Froom, Berg and Thomas were immersed in classic rock, and all three took piano lessons before teaching themselves their current instruments.\n",
+      "They formed when the parents of childhood friends Thomas and Froom learned that Berg had been writing songs and showed interest in forming a band. Froom learned bass two weeks before joining, and the three began working together, getting fast results. Thomas's mother came up with the name in recognition of how often the girls used the word \"like\".[3]\n",
+      "Over a period of three years, the band independently released three EPs (I Like The Like, ... and The Like, and Like It or Not), which they sold at shows and on their website. Their song \"(So I'll Sit Here) Waiting\" was featured on the soundtrack of the film Thirteen. They toured with Phantom Planet and Kings of Leon. In 2004, the Like signed to Geffen Records.\n"
+   ]
 }

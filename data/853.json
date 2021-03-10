@@ -1,4 +1,18 @@
 {
+   "Name": "Cougar (band)",
+   "Sections": [
+      "1 Discography",
+      "1.1 Law",
+      "1.2 Patriot",
+      "2 Resources",
+      "3 See also",
+      "4 References"
+   ],
+   "Summary": {
+      "text": [
+         "Cougar is an instrumental post-rock band from Madison, Wisconsin formed in 2003. Formerly on the Madison-based record label Layered Music (the label of Youngblood Brass Band, of which drummer D.H. Skogen is also a member), Cougar is now signed to London label Ninja Tune.[1] Cougar toured the United States, Europe and the UK on the release of their debut album Law during early 2007, including a well-received show in Madison.[2]\n"
+      ]
+   },
    "Discography": {
       "Law": {
          "text": [
@@ -17,25 +31,17 @@
          ]
       }
    },
-   "References": {},
    "Resources": {
       "text": [
          "MySpace\nOfficial web site\n"
       ]
    },
-   "Sections": [
-      "1 Discography",
-      "1.1 Law",
-      "1.2 Patriot",
-      "2 Resources",
-      "3 See also",
-      "4 References"
-   ],
    "See also": {},
-   "Summary": {
-      "text": [
-         "Cougar is an instrumental post-rock band from Madison, Wisconsin formed in 2003. Formerly on the Madison-based record label Layered Music (the label of Youngblood Brass Band, of which drummer D.H. Skogen is also a member), Cougar is now signed to London label Ninja Tune.[1] Cougar toured the United States, Europe and the UK on the release of their debut album Law during early 2007, including a well-received show in Madison.[2]\n"
-      ]
-   },
-   "Title": "Cougar (band) - Wikipedia"
+   "References": {},
+   "coreData": [
+      "Cougar is an instrumental post-rock band from Madison, Wisconsin formed in 2003. Formerly on the Madison-based record label Layered Music (the label of Youngblood Brass Band, of which drummer D.H. Skogen is also a member), Cougar is now signed to London label Ninja Tune.[1] Cougar toured the United States, Europe and the UK on the release of their debut album Law during early 2007, including a well-received show in Madison.[2]\n",
+      "Law is Cougar's début album. It was recorded at Layered Studios in Madison and released by Layered Music in Europe in February 2006, and in America release was one year later, on February 20, 2007.[3] It was distributed by Play It Again Sam.\n",
+      "All tracks written by Cougar.\n",
+      "Reviews\n"
+   ]
 }

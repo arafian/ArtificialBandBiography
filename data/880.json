@@ -1,5 +1,17 @@
 {
-   "Band members": {},
+   "Name": "Kinski (band)",
+   "Sections": [
+      "1 Career",
+      "2 Band members",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Kinski is an American rock band from Seattle, Washington. They have released eight albums, a number of split albums and EP.[1]\n"
+      ]
+   },
    "Career": {
       "text": [
          "They formed in 1998 in a pub, when bartender and drummer Dave Weeks overheard a conversation between two customers, Chris Martin (guitar) and Lucy Atkinson (bassist)  about analog recording. Weeks joined the discussion, and they found they also shared mutual musical interests, and hence agreed to form a band. They started playing live the same year.\n",
@@ -16,20 +28,14 @@
          "In August 2018, it was announced that for Kinski's 20th anniversary as a band, they would be releasing a vinyl reissue of Be Gentle With the Warm Turtle as well as releasing a new album titled Accustomed To Your Face, with both albums being released on Kill Rock Stars on October 12th, 2018. [10]\n"
       ]
    },
+   "Band members": {},
    "Discography": {},
-   "External links": {},
    "References": {},
-   "Sections": [
-      "1 Career",
-      "2 Band members",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Kinski is an American rock band from Seattle, Washington. They have released eight albums, a number of split albums and EP.[1]\n"
-      ]
-   },
-   "Title": "Kinski (band) - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "Kinski is an American rock band from Seattle, Washington. They have released eight albums, a number of split albums and EP.[1]\n",
+      "They formed in 1998 in a pub, when bartender and drummer Dave Weeks overheard a conversation between two customers, Chris Martin (guitar) and Lucy Atkinson (bassist)  about analog recording. Weeks joined the discussion, and they found they also shared mutual musical interests, and hence agreed to form a band. They started playing live the same year.\n",
+      "Near the end of 1999, guitarist/keyboardist/flautist Matthew Reid Schwartz was added to the line-up. Kinski issued its first record Space Launch for Frenchie earlier that same year consisting of six tracks running for 45 minutes. The band went on their first US tour with Mainliner from Japan, where they befriended Kawabata Makoto, also of Acid Mothers Temple.\n",
+      "Tours throughout the US would follow the next two years with such bands as Hovercraft, Silkworm, and Primordial Undermind.  Their second album, Be Gentle With the Warm Turtle, came out on Pacifico in 2001.[2] The band also toured Japan with Acid Mothers Temple in late 2001.\n"
+   ]
 }

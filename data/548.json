@@ -1,22 +1,5 @@
 {
-   "Awards": {
-      "text": [
-         "In 2004, the Hard Rubber Orchestra won the C$60,000 Alcan Performing Arts Award. This funded their February 2005 work, Enter/Exit, a multidisciplinary theatre piece featuring compositions by John Korsrud, Giorgio Magnanensi, and Brad Turner. Videographers HoneyBee Visuals, set designer Andreas Kahre, and director Kim Collier also contributed.[5]\n"
-      ]
-   },
-   "External links": {},
-   "History": {
-      "text": [
-         "The Hard Rubber Orchestra was founded in 1990 by John Korsrud.  It had instrumentation similar to a big band, but the music was \"an unholy mashup of minimalism, free jazz, noise, and funk\".[1]\n",
-         "In 1992, a non-profit \"Hard Rubber Music Society\" was created as a vehicle for funding the orchestra. It operates with a mix of private donations, city funding, and Canada Council grants.[2][3]\n"
-      ]
-   },
-   "Notable commissions": {
-      "text": [
-         "The Hard Rubber Orchestra is characteristically open to new music. It has commissioned over 40 works from 30 contemporary jazz and classical composers.[4] Here are some highlights.\n"
-      ]
-   },
-   "References": {},
+   "Name": "Hard Rubber Orchestra",
    "Sections": [
       "1 History",
       "2 Notable commissions",
@@ -29,5 +12,28 @@
          "The Hard Rubber Orchestra is a jazz band led by composer and trumpeter John Korsrud in Vancouver, British Columbia, Canada. Founded in 1990, it has a shifting membership of 15-30 musicians. It is known for spotlighting work by contemporary composers and won the Alcan Performing Arts Award in 2004.\n"
       ]
    },
-   "Title": "Hard Rubber Orchestra - Wikipedia"
+   "History": {
+      "text": [
+         "The Hard Rubber Orchestra was founded in 1990 by John Korsrud.  It had instrumentation similar to a big band, but the music was \"an unholy mashup of minimalism, free jazz, noise, and funk\".[1]\n",
+         "In 1992, a non-profit \"Hard Rubber Music Society\" was created as a vehicle for funding the orchestra. It operates with a mix of private donations, city funding, and Canada Council grants.[2][3]\n"
+      ]
+   },
+   "Notable commissions": {
+      "text": [
+         "The Hard Rubber Orchestra is characteristically open to new music. It has commissioned over 40 works from 30 contemporary jazz and classical composers.[4] Here are some highlights.\n"
+      ]
+   },
+   "Awards": {
+      "text": [
+         "In 2004, the Hard Rubber Orchestra won the C$60,000 Alcan Performing Arts Award. This funded their February 2005 work, Enter/Exit, a multidisciplinary theatre piece featuring compositions by John Korsrud, Giorgio Magnanensi, and Brad Turner. Videographers HoneyBee Visuals, set designer Andreas Kahre, and director Kim Collier also contributed.[5]\n"
+      ]
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Hard Rubber Orchestra is a jazz band led by composer and trumpeter John Korsrud in Vancouver, British Columbia, Canada. Founded in 1990, it has a shifting membership of 15-30 musicians. It is known for spotlighting work by contemporary composers and won the Alcan Performing Arts Award in 2004.\n",
+      "The Hard Rubber Orchestra was founded in 1990 by John Korsrud.  It had instrumentation similar to a big band, but the music was \"an unholy mashup of minimalism, free jazz, noise, and funk\".[1]\n",
+      "In 1992, a non-profit \"Hard Rubber Music Society\" was created as a vehicle for funding the orchestra. It operates with a mix of private donations, city funding, and Canada Council grants.[2][3]\n",
+      "The Hard Rubber Orchestra is characteristically open to new music. It has commissioned over 40 works from 30 contemporary jazz and classical composers.[4] Here are some highlights.\n"
+   ]
 }

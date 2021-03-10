@@ -1,4 +1,14 @@
 {
+   "Name": "The Table (punk band)",
+   "Sections": [
+      "Summary",
+      "History"
+   ],
+   "Summary": {
+      "text": [
+         "The Table were a punk rock band from Cardiff, Wales, best known for their 1977 single \"Do The Standing Still (Classics Illustrated)\". The band originally comprised Russell Young (vocals, guitar, keyboards, bass), Tony Barnes (guitars, bass), Len Lewis (drums) and Mickey O'Connor (guitars).[1][2]\n"
+      ]
+   },
    "History": {
       "text": [
          "Young and Barnes met at Cathays High School in Cardiff, and started writing and playing songs together.  They performed together from 1971 in the band John Stabber, and formed Do You Want This Table (later shortened to The Table) in 1972.  The band was named after an overheard random comment by a stranger, and originally intended being a studio-only recording group.[2]\n",
@@ -11,9 +21,10 @@
          "\"Do the Standing Still\" has subsequently appeared on several punk compilation albums.[3][2] Cardiff band Boy Azooga recorded a cover version of \"Do The Standing Still\" in 2018.[5]\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "The Table were a punk rock band from Cardiff, Wales, best known for their 1977 single \"Do The Standing Still (Classics Illustrated)\". The band originally comprised Russell Young (vocals, guitar, keyboards, bass), Tony Barnes (guitars, bass), Len Lewis (drums) and Mickey O'Connor (guitars).[1][2]\n"
-      ]
-   }
+   "coreData": [
+      "The Table were a punk rock band from Cardiff, Wales, best known for their 1977 single \"Do The Standing Still (Classics Illustrated)\". The band originally comprised Russell Young (vocals, guitar, keyboards, bass), Tony Barnes (guitars, bass), Len Lewis (drums) and Mickey O'Connor (guitars).[1][2]\n",
+      "Young and Barnes met at Cathays High School in Cardiff, and started writing and playing songs together.  They performed together from 1971 in the band John Stabber, and formed Do You Want This Table (later shortened to The Table) in 1972.  The band was named after an overheard random comment by a stranger, and originally intended being a studio-only recording group.[2]\n",
+      "Although they performed at the Windsor Free Festival in 1974,[3] publicity material at the time stated that they did not own any musical instruments, refused to tour, and said that they were not a \"real\" band and had no future in the music industry.  Despite this, they were signed to Virgin Records in a one-off deal, and released \"Do The Standing Still (Classics Illustrated)\", first recorded as a demo in 1975.[1]  The single was an NME 'Single Of The Week',[3] rapidly becoming a cult favourite.[1]  The lyrics were a collection of lines from comic books,[3][2] and \"people used to rush the dance floor and stand still for the duration of the song when it came on in clubs.\"[4]\n",
+      "\nAccording to Barnes: "
+   ]
 }

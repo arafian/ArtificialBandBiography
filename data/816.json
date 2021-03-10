@@ -1,16 +1,5 @@
 {
-   "Band members": {},
-   "Discography": {
-      "EPs and singles": {},
-      "Studio albums": {}
-   },
-   "History": {
-      "text": [
-         "Westkust began in 2010 without a consistent lineup or sound. In 2011, the band added Hugo Randulv and Gustav Andersson of the post-punk band Makthaverskan and finalized their lineup. They released their first EP, titled Junk EP in 2012 via Luxury. The following year, they released a 7\" titled Summer 3D/Weekends.[1]\n",
-         "On March 2, 2015, Westkust premiered their single Swirl from their then upcoming debut studio album.[2] The album, titled Last Forever, was released on April 22, 2015 in Scandinavia and was released in the United States on July 10, 2015 via Run For Cover.[3][4][5] On March 1, 2019, Westkust released their self titled second studio album.\n"
-      ]
-   },
-   "References": {},
+   "Name": "Westkust",
    "Sections": [
       "1 History",
       "2 Band members",
@@ -24,5 +13,21 @@
          "Westkust is a Swedish rock band from Gothenburg, Sweden.\n"
       ]
    },
-   "Title": "Westkust - Wikipedia"
+   "History": {
+      "text": [
+         "Westkust began in 2010 without a consistent lineup or sound. In 2011, the band added Hugo Randulv and Gustav Andersson of the post-punk band Makthaverskan and finalized their lineup. They released their first EP, titled Junk EP in 2012 via Luxury. The following year, they released a 7\" titled Summer 3D/Weekends.[1]\n",
+         "On March 2, 2015, Westkust premiered their single Swirl from their then upcoming debut studio album.[2] The album, titled Last Forever, was released on April 22, 2015 in Scandinavia and was released in the United States on July 10, 2015 via Run For Cover.[3][4][5] On March 1, 2019, Westkust released their self titled second studio album.\n"
+      ]
+   },
+   "Band members": {},
+   "Discography": {
+      "Studio albums": {},
+      "EPs and singles": {}
+   },
+   "References": {},
+   "coreData": [
+      "Westkust is a Swedish rock band from Gothenburg, Sweden.\n",
+      "Westkust began in 2010 without a consistent lineup or sound. In 2011, the band added Hugo Randulv and Gustav Andersson of the post-punk band Makthaverskan and finalized their lineup. They released their first EP, titled Junk EP in 2012 via Luxury. The following year, they released a 7\" titled Summer 3D/Weekends.[1]\n",
+      "On March 2, 2015, Westkust premiered their single Swirl from their then upcoming debut studio album.[2] The album, titled Last Forever, was released on April 22, 2015 in Scandinavia and was released in the United States on July 10, 2015 via Run For Cover.[3][4][5] On March 1, 2019, Westkust released their self titled second studio album.\n"
+   ]
 }

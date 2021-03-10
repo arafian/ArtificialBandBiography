@@ -1,20 +1,5 @@
 {
-   "Discography": {
-      "Demos": {},
-      "Extended plays (EPs)": {},
-      "Singles": {},
-      "Studio albums": {}
-   },
-   "External links": {},
-   "Members": {
-      "Current members": {},
-      "Past members": {
-         "text": [
-            "Timeline\n"
-         ]
-      }
-   },
-   "References": {},
+   "Name": "Exmortus",
    "Sections": [
       "1 Members",
       "1.1 Current members",
@@ -32,5 +17,24 @@
          "Exmortus is an American extreme metal band formed in 2002, whose lyrics mostly deal with battles and war.[1]\n"
       ]
    },
-   "Title": "Exmortus - Wikipedia"
+   "Members": {
+      "Current members": {},
+      "Past members": {
+         "text": [
+            "Timeline\n"
+         ]
+      }
+   },
+   "Discography": {
+      "Studio albums": {},
+      "Extended plays (EPs)": {},
+      "Singles": {},
+      "Demos": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Exmortus is an American extreme metal band formed in 2002, whose lyrics mostly deal with battles and war.[1]\n",
+      "Timeline\n"
+   ]
 }

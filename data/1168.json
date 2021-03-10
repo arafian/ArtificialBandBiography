@@ -1,12 +1,24 @@
 {
-   "Discography": {
-      "Compilation albums": {},
-      "DVDs": {},
-      "EPs": {},
-      "Live albums": {},
-      "Studio albums": {}
+   "Name": "The Dream Syndicate",
+   "Sections": [
+      "1 History",
+      "1.1 Formation and early years (1981–1983)",
+      "1.2 Post-Kendra Smith years (1984–1989)",
+      "1.3 Reunion (2012–present)",
+      "2 Discography",
+      "2.1 Studio albums",
+      "2.2 EPs",
+      "2.3 Live albums",
+      "2.4 Compilation albums",
+      "2.5 DVDs",
+      "3 References",
+      "4 External links"
+   ],
+   "Summary": {
+      "text": [
+         "The Dream Syndicate is an American alternative rock[1] band from Los Angeles, California, originally active from 1981 to 1989, and reunited since 2012. The band is associated with neo-psychedelia and the Paisley Underground music movement;[1] of the bands in that movement, according to the Los Angeles Times, the Dream Syndicate \"rocked with the highest degree of unbridled passion and conviction.\"[2] Though never commercially successful, the band met with considerable acclaim, especially for its songwriting and guitar playing. Bandleader Steve Wynn reformed the band in 2012, and a fifth studio album was released in February 2017.[3]\n"
+      ]
    },
-   "External links": {},
    "History": {
       "Formation and early years (1981–1983)": {
          "text": [
@@ -38,25 +50,19 @@
          ]
       }
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Formation and early years (1981–1983)",
-      "1.2 Post-Kendra Smith years (1984–1989)",
-      "1.3 Reunion (2012–present)",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 EPs",
-      "2.3 Live albums",
-      "2.4 Compilation albums",
-      "2.5 DVDs",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Dream Syndicate is an American alternative rock[1] band from Los Angeles, California, originally active from 1981 to 1989, and reunited since 2012. The band is associated with neo-psychedelia and the Paisley Underground music movement;[1] of the bands in that movement, according to the Los Angeles Times, the Dream Syndicate \"rocked with the highest degree of unbridled passion and conviction.\"[2] Though never commercially successful, the band met with considerable acclaim, especially for its songwriting and guitar playing. Bandleader Steve Wynn reformed the band in 2012, and a fifth studio album was released in February 2017.[3]\n"
-      ]
+   "Discography": {
+      "Studio albums": {},
+      "EPs": {},
+      "Live albums": {},
+      "Compilation albums": {},
+      "DVDs": {}
    },
-   "Title": "The Dream Syndicate - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Dream Syndicate is an American alternative rock[1] band from Los Angeles, California, originally active from 1981 to 1989, and reunited since 2012. The band is associated with neo-psychedelia and the Paisley Underground music movement;[1] of the bands in that movement, according to the Los Angeles Times, the Dream Syndicate \"rocked with the highest degree of unbridled passion and conviction.\"[2] Though never commercially successful, the band met with considerable acclaim, especially for its songwriting and guitar playing. Bandleader Steve Wynn reformed the band in 2012, and a fifth studio album was released in February 2017.[3]\n",
+      "While attending the University of California, Davis, Steve Wynn and Kendra Smith played together (with future True West members Russ Tolman and Gavin Blair) in a band called the Suspects, regarded as the first new wave-influenced band in the Davis, California, music scene. Wynn also recorded a 1981 single with a trio that he called 15 Minutes, which included members of Alternate Learning.\n",
+      "After Wynn moved back to Los Angeles, while rehearsing in a band called Goat Deity (with future Wednesday Week sisters Kelly and Kristi Callan), Wynn met Karl Precoda, who had answered an ad for a bass player, and the two formed a new group, with Precoda switching to guitar. Smith joined on bass and brought in drummer Dennis Duck (Mehaffey), who had played in the locally successful Pasadena-based band Human Hands.\n",
+      "Duck suggested the name \"the Dream Syndicate\" in reference to Tony Conrad's early 1960s New York experimental ensemble (better known as the Theatre of Eternal Music), whose members included John Cale.\n"
+   ]
 }

@@ -1,22 +1,5 @@
 {
-   "Discography": {
-      "Albums": {},
-      "Singles": {}
-   },
-   "External links": {},
-   "History": {
-      "text": [
-         "The group was founded in Granada in 1983 by Manuel España (voice), Enrique Moreno \"Conejo\" (bass guitar) and Carlos Gilabert (keyboard), with the initial name of \"La guardia del Cardenal Richelieu\" (\"Cardinal Richelieu's Guard\"). They were only teenagers and they adopted this name because they used to rehearse in the afternoons after they watched Dogtanian and the Three Muskehounds on TV.[2]\n",
-         "Under this name they released a first single with techno and mod sounds. After this, Gilabert left the band, and Joaquín Almendros (guitar) and Emilio Muñoz (drums) joined it, giving birth to the band's most famous line-up. They moved to Madrid, where the Movida was still ebullient, looking for broader success, and in 1985, they recorded an EP, now as La Guardia, after winning the Villablanca pop-rock festival in the town of Fuengirola.\n",
-         "In 1986 they travelled to London to record their first full album Noches como esta; but it's in 1988, with the album Vámonos, when they achieved major success, thanks mostly to the hugely successful single \"Mil calles llevan hacia ti\", which reached #1 in the Spanish 40 Principales chart in 1989,[3] and which became the band's signature song. Manuel España said he had written the song while walking through the streets of the Albayzín in Granada to his grandmother's house. Vámonos went on to become a multi-platinum album, selling over 250.000 copies, and the band performed on a tour with more than 100 dates.\n",
-         "In 1990 came their second album, Cuando Brille El Sol, with its same-titled and successful single, which kept them at the top of the Spanish pop-rock scene.\n",
-         "Al Otro Lado (1991), Contra reloj (1993) and Acento del sur (1994) were their next works, all three produced by Dusty Wakeman. The latter was recorded in Los Angeles at Mad Dog Studios. Shortly after this experience, Enrique Moreno died from a coronary disease, and this tragic event ultimately caused the group to disband in 1997.\n",
-         "Later, after he had been working for a few years on another band called Chamaco, España tried to revive La Guardia without the involvement of Almendros, which caused the latter to present two lawsuits.[4] Finally, España won the rights to use the name for his new project and in 2003 he released Ahora!, an acoustic record produced by Carlos Goñi, from the band Revólver.\n",
-         "In 2007, with a new record company (Vale Music), La Guardia recorded Sobre ruedas, an album of country rock sounds, which sold just over 20.000 copies.\n",
-         "In 2008 the band celebrated their 25th anniversary with the album 25 años no es nada, in which Manuel España performed the band's hits with the collaboration of other artists such as La Mari (of Chambao), Álvaro Urquijo, Mikel Erentxun, Ariel Rot or Raimundo Amador.\n"
-      ]
-   },
-   "References": {},
+   "Name": "La Guardia (band)",
    "Sections": [
       "1 History",
       "2 Discography",
@@ -30,5 +13,28 @@
          "La Guardia is a Spanish pop-rock band. They were especially famous in the late 1980s and early 1990s, although they are still active today (after a hiatus). They have sold more than 2 million records.[1]\n"
       ]
    },
-   "Title": "La Guardia (band) - Wikipedia"
+   "History": {
+      "text": [
+         "The group was founded in Granada in 1983 by Manuel España (voice), Enrique Moreno \"Conejo\" (bass guitar) and Carlos Gilabert (keyboard), with the initial name of \"La guardia del Cardenal Richelieu\" (\"Cardinal Richelieu's Guard\"). They were only teenagers and they adopted this name because they used to rehearse in the afternoons after they watched Dogtanian and the Three Muskehounds on TV.[2]\n",
+         "Under this name they released a first single with techno and mod sounds. After this, Gilabert left the band, and Joaquín Almendros (guitar) and Emilio Muñoz (drums) joined it, giving birth to the band's most famous line-up. They moved to Madrid, where the Movida was still ebullient, looking for broader success, and in 1985, they recorded an EP, now as La Guardia, after winning the Villablanca pop-rock festival in the town of Fuengirola.\n",
+         "In 1986 they travelled to London to record their first full album Noches como esta; but it's in 1988, with the album Vámonos, when they achieved major success, thanks mostly to the hugely successful single \"Mil calles llevan hacia ti\", which reached #1 in the Spanish 40 Principales chart in 1989,[3] and which became the band's signature song. Manuel España said he had written the song while walking through the streets of the Albayzín in Granada to his grandmother's house. Vámonos went on to become a multi-platinum album, selling over 250.000 copies, and the band performed on a tour with more than 100 dates.\n",
+         "In 1990 came their second album, Cuando Brille El Sol, with its same-titled and successful single, which kept them at the top of the Spanish pop-rock scene.\n",
+         "Al Otro Lado (1991), Contra reloj (1993) and Acento del sur (1994) were their next works, all three produced by Dusty Wakeman. The latter was recorded in Los Angeles at Mad Dog Studios. Shortly after this experience, Enrique Moreno died from a coronary disease, and this tragic event ultimately caused the group to disband in 1997.\n",
+         "Later, after he had been working for a few years on another band called Chamaco, España tried to revive La Guardia without the involvement of Almendros, which caused the latter to present two lawsuits.[4] Finally, España won the rights to use the name for his new project and in 2003 he released Ahora!, an acoustic record produced by Carlos Goñi, from the band Revólver.\n",
+         "In 2007, with a new record company (Vale Music), La Guardia recorded Sobre ruedas, an album of country rock sounds, which sold just over 20.000 copies.\n",
+         "In 2008 the band celebrated their 25th anniversary with the album 25 años no es nada, in which Manuel España performed the band's hits with the collaboration of other artists such as La Mari (of Chambao), Álvaro Urquijo, Mikel Erentxun, Ariel Rot or Raimundo Amador.\n"
+      ]
+   },
+   "Discography": {
+      "Albums": {},
+      "Singles": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "La Guardia is a Spanish pop-rock band. They were especially famous in the late 1980s and early 1990s, although they are still active today (after a hiatus). They have sold more than 2 million records.[1]\n",
+      "The group was founded in Granada in 1983 by Manuel España (voice), Enrique Moreno \"Conejo\" (bass guitar) and Carlos Gilabert (keyboard), with the initial name of \"La guardia del Cardenal Richelieu\" (\"Cardinal Richelieu's Guard\"). They were only teenagers and they adopted this name because they used to rehearse in the afternoons after they watched Dogtanian and the Three Muskehounds on TV.[2]\n",
+      "Under this name they released a first single with techno and mod sounds. After this, Gilabert left the band, and Joaquín Almendros (guitar) and Emilio Muñoz (drums) joined it, giving birth to the band's most famous line-up. They moved to Madrid, where the Movida was still ebullient, looking for broader success, and in 1985, they recorded an EP, now as La Guardia, after winning the Villablanca pop-rock festival in the town of Fuengirola.\n",
+      "In 1986 they travelled to London to record their first full album Noches como esta; but it's in 1988, with the album Vámonos, when they achieved major success, thanks mostly to the hugely successful single \"Mil calles llevan hacia ti\", which reached #1 in the Spanish 40 Principales chart in 1989,[3] and which became the band's signature song. Manuel España said he had written the song while walking through the streets of the Albayzín in Granada to his grandmother's house. Vámonos went on to become a multi-platinum album, selling over 250.000 copies, and the band performed on a tour with more than 100 dates.\n"
+   ]
 }

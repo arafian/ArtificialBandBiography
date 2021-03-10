@@ -1,19 +1,5 @@
 {
-   "Discography": {
-      "Live": {},
-      "Studio": {}
-   },
-   "Kickstarter campaign": {
-      "text": [
-         "Roster used Kickstarter to jumpstart its latest album Through Space & Time. Through an innovative campaign that included live streaming the recording process, the band raised over $10,000 from fans to complete the album.[5]\n"
-      ]
-   },
-   "Name-your-price downloads": {
-      "text": [
-         "In an homage to Radiohead,[6] the band provides their albums as \"name-your-price\" downloads on their website.[7]\n"
-      ]
-   },
-   "References": {},
+   "Name": "Roster McCabe",
    "Sections": [
       "1 Kickstarter campaign",
       "2 Name-your-price downloads",
@@ -27,5 +13,25 @@
          "Roster McCabe was an American rock band noted for its tight, high energy dance shows, exploration of music across genres and devoted fan base. Named by Billboard Magazine as one of \"five up-and-coming jam bands that could draw audiences to the festivals of tomorrow\",[1][2] Roster has toured nationally and played over 550 gigs in the last four years.[3] The band's music blends elements of a wide variety of genres, including reggae, rock, funk, and jazz,[4] although the band describes its sound as \"Funky Reggae Dance Rock\".  After the departure of founding member Drew Preiner, the band renamed themselves \"Night Phoenix.\" Night Phoenix (Steele, Mullenburg, Peterson, and Daum) played a handful of shows in the winter of 2013–2014, before breaking up in early-mid 2014. Their final show was performed on May 10, 2014, and was held at The Popcorn in La Crosse, Wisconsin.\n"
       ]
    },
-   "Title": "Roster McCabe - Wikipedia"
+   "Kickstarter campaign": {
+      "text": [
+         "Roster used Kickstarter to jumpstart its latest album Through Space & Time. Through an innovative campaign that included live streaming the recording process, the band raised over $10,000 from fans to complete the album.[5]\n"
+      ]
+   },
+   "Name-your-price downloads": {
+      "text": [
+         "In an homage to Radiohead,[6] the band provides their albums as \"name-your-price\" downloads on their website.[7]\n"
+      ]
+   },
+   "Discography": {
+      "Studio": {},
+      "Live": {}
+   },
+   "References": {},
+   "coreData": [
+      "Roster McCabe was an American rock band noted for its tight, high energy dance shows, exploration of music across genres and devoted fan base. Named by Billboard Magazine as one of \"five up-and-coming jam bands that could draw audiences to the festivals of tomorrow\",[1][2] Roster has toured nationally and played over 550 gigs in the last four years.[3] The band's music blends elements of a wide variety of genres, including reggae, rock, funk, and jazz,[4] although the band describes its sound as \"Funky Reggae Dance Rock\".  After the departure of founding member Drew Preiner, the band renamed themselves \"Night Phoenix.\" Night Phoenix (Steele, Mullenburg, Peterson, and Daum) played a handful of shows in the winter of 2013–2014, before breaking up in early-mid 2014. Their final show was performed on May 10, 2014, and was held at The Popcorn in La Crosse, Wisconsin.\n",
+      "Roster used Kickstarter to jumpstart its latest album Through Space & Time. Through an innovative campaign that included live streaming the recording process, the band raised over $10,000 from fans to complete the album.[5]\n",
+      "In an homage to Radiohead,[6] the band provides their albums as \"name-your-price\" downloads on their website.[7]\n",
+      "This article on a United States rock music band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

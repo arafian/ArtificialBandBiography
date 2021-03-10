@@ -1,8 +1,17 @@
 {
+   "Name": "The Woodbox Gang",
+   "Sections": [
+      "Summary"
+   ],
    "Summary": {
       "text": [
          "The Woodbox Gang is a band formerly based in Herod, Illinois, then out of Makanda, Illinois. They play an eclectic, unique style of bluegrass music labeled by some as \"insurgent Americana,\" \"jug-punk,\" \"y'allternative,\" and \"funk-a-billy;\" though they prefer the terms \"caustic acoustic\" and \"trashcan Americana\" (also the name of one of their albums).\n",
          "The band originated as the trio of dobro player Brad Bolin and the brothers Hugh (guitar, kazoo, and vocals) and Brian (bass) DeNeal in 1999. Bolin soon left the band, but rejoined in 2000 along with Alex Kirt (assorted jug percussion, washboard, banjo, kazoo, harmonica, didgeridoo, slide resonator guitar, drum, vocals, stompboard, and gutbucket), however Bolin left once again. They were later joined by Greg Edwards (bass), Ratliff Dean Thiebaud (guitar and vocals), and  Dan Goett (banjo, mandolin, dobro, guitar).\n"
       ]
-   }
+   },
+   "coreData": [
+      "The Woodbox Gang is a band formerly based in Herod, Illinois, then out of Makanda, Illinois. They play an eclectic, unique style of bluegrass music labeled by some as \"insurgent Americana,\" \"jug-punk,\" \"y'allternative,\" and \"funk-a-billy;\" though they prefer the terms \"caustic acoustic\" and \"trashcan Americana\" (also the name of one of their albums).\n",
+      "The band originated as the trio of dobro player Brad Bolin and the brothers Hugh (guitar, kazoo, and vocals) and Brian (bass) DeNeal in 1999. Bolin soon left the band, but rejoined in 2000 along with Alex Kirt (assorted jug percussion, washboard, banjo, kazoo, harmonica, didgeridoo, slide resonator guitar, drum, vocals, stompboard, and gutbucket), however Bolin left once again. They were later joined by Greg Edwards (bass), Ratliff Dean Thiebaud (guitar and vocals), and  Dan Goett (banjo, mandolin, dobro, guitar).\n",
+      "This article on a United States country music band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

@@ -1,13 +1,29 @@
 {
-   "Band members": {
-      "Current members": {},
-      "Former members": {}
+   "Name": "Punch Brothers",
+   "Sections": [
+      "1 History",
+      "1.1 2006–2007: Beginnings",
+      "1.2 2007–2009: \"The Blind Leaving the Blind\" and Punch",
+      "1.3 2010: Antifogmatic",
+      "1.4 2011: How to Grow A Band documentary",
+      "1.5 2012: Who's Feeling Young Now?",
+      "1.6 2015: The Phosphorescent Blues and The Wireless",
+      "1.7 2018: All Ashore",
+      "2 Band members",
+      "2.1 Current members",
+      "2.2 Former members",
+      "3 Discography",
+      "3.1 Albums",
+      "3.2 Music videos",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Punch Brothers is an American band consisting of Chris Thile (mandolin), Gabe Witcher (fiddle/violin), Noam Pikelny (banjo), Chris Eldridge (guitar), and Paul Kowert (bass). Their style has been described as \"bluegrass instrumentation and spontaneity in the structures of modern classical\"[1] as well as \"American country-classical chamber music\".[2]\n",
+         "The band's most recent album, 2018's All Ashore was awarded the Grammy Award for Best Folk Album at the 61st Grammy Awards on February 10, 2019.[3]\n"
+      ]
    },
-   "Discography": {
-      "Albums": {},
-      "Music videos": {}
-   },
-   "External links": {},
    "History": {
       "2006–2007: Beginnings": {
          "text": [
@@ -51,30 +67,20 @@
          ]
       }
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 2006–2007: Beginnings",
-      "1.2 2007–2009: \"The Blind Leaving the Blind\" and Punch",
-      "1.3 2010: Antifogmatic",
-      "1.4 2011: How to Grow A Band documentary",
-      "1.5 2012: Who's Feeling Young Now?",
-      "1.6 2015: The Phosphorescent Blues and The Wireless",
-      "1.7 2018: All Ashore",
-      "2 Band members",
-      "2.1 Current members",
-      "2.2 Former members",
-      "3 Discography",
-      "3.1 Albums",
-      "3.2 Music videos",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Punch Brothers is an American band consisting of Chris Thile (mandolin), Gabe Witcher (fiddle/violin), Noam Pikelny (banjo), Chris Eldridge (guitar), and Paul Kowert (bass). Their style has been described as \"bluegrass instrumentation and spontaneity in the structures of modern classical\"[1] as well as \"American country-classical chamber music\".[2]\n",
-         "The band's most recent album, 2018's All Ashore was awarded the Grammy Award for Best Folk Album at the 61st Grammy Awards on February 10, 2019.[3]\n"
-      ]
+   "Band members": {
+      "Current members": {},
+      "Former members": {}
    },
-   "Title": "Punch Brothers - Wikipedia"
+   "Discography": {
+      "Albums": {},
+      "Music videos": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Punch Brothers is an American band consisting of Chris Thile (mandolin), Gabe Witcher (fiddle/violin), Noam Pikelny (banjo), Chris Eldridge (guitar), and Paul Kowert (bass). Their style has been described as \"bluegrass instrumentation and spontaneity in the structures of modern classical\"[1] as well as \"American country-classical chamber music\".[2]\n",
+      "The band's most recent album, 2018's All Ashore was awarded the Grammy Award for Best Folk Album at the 61st Grammy Awards on February 10, 2019.[3]\n",
+      "Thile formed the band in 2006 to record the album How to Grow a Woman from the Ground. In an interview with the Nashville City Paper, Thile described the formation of the band:\n",
+      "We got together one night just to drop a ton of money, drink too much wine, eat steaks, and commiserate about our failed relationships. We had gotten to play together a few days before and we had said that we needed to do something musical together. With our hearts smashed to pieces, it became more urgent — our lives had gone the same way for so long. I knew I wanted to have a band with Gabe [Witcher], but I didn’t know if it would be a rock ensemble, an ambitious acoustic classical thing or a bluegrass group. We played, and there was a serious, instantaneous connection. Then I knew I wanted to put together a bluegrass band — one with a lot of range, but aesthetically a bluegrass band.[4]\n"
+   ]
 }

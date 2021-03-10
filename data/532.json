@@ -1,17 +1,5 @@
 {
-   "Discography": {
-      "Compilations": {},
-      "Singles": {},
-      "Studio albums": {}
-   },
-   "History": {
-      "text": [
-         "The group was assembled by guitarist Vincent McCusker in early 1971 in Belfast, and consisted primarily of classically trained musicians Peter Farrelly (bass guitar and lead vocals), Stephen Houston (keyboards and oboe), and Martin Foye (drums and percussion). After two years of performing, they created a demo tape, and were signed by Pye Records for their underground music and progressive rock label Dawn Records.[1] Between 1973 and 1975, the group released four studio albums and three singles. Despite having played hundreds of concerts in the United Kingdom and mainland Europe during that time, no live output had yet been released, although audience bootleg recordings of live shows in England and Ireland do exist.[2][3] A concert at the Friars Aylesbury club played on 6 December 1975 was recorded using a mobile unit for a possible album Live at Friars Aylesbury, but the master tapes were later destroyed by fire in a flat the musicians shared in Peckham, London.\n",
-         "In January 1975, Stephen Houston left the band and became a clergyman. He was replaced by John Mason, with whom Fruupp recorded their last album, Modern Masquerades (1975), produced by multi-instrumentalist Ian McDonald, best known as a founder of King Crimson and Foreigner. Although the band was working on the fifth album Doctor Wilde's Twilight Adventure in 1976, poor record sales along with the advent of the punk/new wave movement caused Fruupp to break up in the end of the year.[4]\n"
-      ]
-   },
-   "Personnel": {},
-   "References": {},
+   "Name": "Fruupp",
    "Sections": [
       "1 History",
       "2 Personnel",
@@ -26,5 +14,22 @@
          "Fruupp were a 1970s progressive rock band, which originated in Belfast, Northern Ireland, but developed a fan base in Great Britain. They were relatively popular, particularly on the student scene and as a supporting act, opening for such bands as Genesis, Queen, and King Crimson.\n"
       ]
    },
-   "Title": "Fruupp - Wikipedia"
+   "History": {
+      "text": [
+         "The group was assembled by guitarist Vincent McCusker in early 1971 in Belfast, and consisted primarily of classically trained musicians Peter Farrelly (bass guitar and lead vocals), Stephen Houston (keyboards and oboe), and Martin Foye (drums and percussion). After two years of performing, they created a demo tape, and were signed by Pye Records for their underground music and progressive rock label Dawn Records.[1] Between 1973 and 1975, the group released four studio albums and three singles. Despite having played hundreds of concerts in the United Kingdom and mainland Europe during that time, no live output had yet been released, although audience bootleg recordings of live shows in England and Ireland do exist.[2][3] A concert at the Friars Aylesbury club played on 6 December 1975 was recorded using a mobile unit for a possible album Live at Friars Aylesbury, but the master tapes were later destroyed by fire in a flat the musicians shared in Peckham, London.\n",
+         "In January 1975, Stephen Houston left the band and became a clergyman. He was replaced by John Mason, with whom Fruupp recorded their last album, Modern Masquerades (1975), produced by multi-instrumentalist Ian McDonald, best known as a founder of King Crimson and Foreigner. Although the band was working on the fifth album Doctor Wilde's Twilight Adventure in 1976, poor record sales along with the advent of the punk/new wave movement caused Fruupp to break up in the end of the year.[4]\n"
+      ]
+   },
+   "Personnel": {},
+   "Discography": {
+      "Studio albums": {},
+      "Compilations": {},
+      "Singles": {}
+   },
+   "References": {},
+   "coreData": [
+      "Fruupp were a 1970s progressive rock band, which originated in Belfast, Northern Ireland, but developed a fan base in Great Britain. They were relatively popular, particularly on the student scene and as a supporting act, opening for such bands as Genesis, Queen, and King Crimson.\n",
+      "The group was assembled by guitarist Vincent McCusker in early 1971 in Belfast, and consisted primarily of classically trained musicians Peter Farrelly (bass guitar and lead vocals), Stephen Houston (keyboards and oboe), and Martin Foye (drums and percussion). After two years of performing, they created a demo tape, and were signed by Pye Records for their underground music and progressive rock label Dawn Records.[1] Between 1973 and 1975, the group released four studio albums and three singles. Despite having played hundreds of concerts in the United Kingdom and mainland Europe during that time, no live output had yet been released, although audience bootleg recordings of live shows in England and Ireland do exist.[2][3] A concert at the Friars Aylesbury club played on 6 December 1975 was recorded using a mobile unit for a possible album Live at Friars Aylesbury, but the master tapes were later destroyed by fire in a flat the musicians shared in Peckham, London.\n",
+      "In January 1975, Stephen Houston left the band and became a clergyman. He was replaced by John Mason, with whom Fruupp recorded their last album, Modern Masquerades (1975), produced by multi-instrumentalist Ian McDonald, best known as a founder of King Crimson and Foreigner. Although the band was working on the fifth album Doctor Wilde's Twilight Adventure in 1976, poor record sales along with the advent of the punk/new wave movement caused Fruupp to break up in the end of the year.[4]\n"
+   ]
 }

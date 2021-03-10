@@ -1,9 +1,27 @@
 {
-   "Discography": {
-      "Compilations": {},
-      "Studio and live albums": {}
+   "Name": "Rough Cutt",
+   "Sections": [
+      "1 History",
+      "2 Line-ups",
+      "2.1 Mk. 1 (1982-1983)",
+      "2.2 Mk. 2 (1983-1984)",
+      "2.3 Mk. 3 (1984-1987) (2016-2019)",
+      "2.4 Mk. 4 (1987)",
+      "2.5 Mk. 5 (2000)",
+      "2.6 Mk. 6 (2019)",
+      "3 Discography",
+      "3.1 Studio and live albums",
+      "3.2 Compilations",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Rough Cutt is an American heavy metal band from Los Angeles, California, United States, who released two studio albums on Warner Bros. Records in the mid-1980s.[1]  Rough Cutt never achieved the commercial success enjoyed by many other Los Angeles bands of that time but various members went on to success in other groups, including Jake E. Lee with Ozzy Osbourne, Amir Derakh with Orgy, Paul Shortino with Quiet Riot, and Craig Goldy and Claude Schnell with Dio.\n",
+         "After the end of their work with Warner Brothers, Rough Cutt signed with Virgin Records in the early 1990s. The band released its fourth studio album, Lapsed On My Own (1993), and toured steadily, playing festivals in the United States, United Kingdom, Germany.\n",
+         "The current line-up of Rough Cutt, which debuted on November 29, 2019 at the Bossanova Ballroom in Portland, Oregon is drummer Dave Alford, first guitarist Chris Hager, second guitarist Darren Housholder (Shrapnel Records recording artist, Love/Hate, War & Peace), bassist Jeff Buehner (The Loyal Order), and lead vocalist Steven St. James.\n"
+      ]
    },
-   "External links": {},
    "History": {
       "text": [
          "The first Rough Cutt line-up featured vocalist Paul Shortino, drummer Dave Alford, guitarist Jake E. Lee, keyboardist Claude Schnell, and bassist Joey Cristofanilli.[1] Both Lee and Alford had also previously been in another Los Angeles band, Ratt. Both Schnell and Cristofanilli had previously been in the band Magic.[2]\n",
@@ -31,28 +49,16 @@
       "Mk. 5 (2000)": {},
       "Mk. 6 (2019)": {}
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Line-ups",
-      "2.1 Mk. 1 (1982-1983)",
-      "2.2 Mk. 2 (1983-1984)",
-      "2.3 Mk. 3 (1984-1987) (2016-2019)",
-      "2.4 Mk. 4 (1987)",
-      "2.5 Mk. 5 (2000)",
-      "2.6 Mk. 6 (2019)",
-      "3 Discography",
-      "3.1 Studio and live albums",
-      "3.2 Compilations",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Rough Cutt is an American heavy metal band from Los Angeles, California, United States, who released two studio albums on Warner Bros. Records in the mid-1980s.[1]  Rough Cutt never achieved the commercial success enjoyed by many other Los Angeles bands of that time but various members went on to success in other groups, including Jake E. Lee with Ozzy Osbourne, Amir Derakh with Orgy, Paul Shortino with Quiet Riot, and Craig Goldy and Claude Schnell with Dio.\n",
-         "After the end of their work with Warner Brothers, Rough Cutt signed with Virgin Records in the early 1990s. The band released its fourth studio album, Lapsed On My Own (1993), and toured steadily, playing festivals in the United States, United Kingdom, Germany.\n",
-         "The current line-up of Rough Cutt, which debuted on November 29, 2019 at the Bossanova Ballroom in Portland, Oregon is drummer Dave Alford, first guitarist Chris Hager, second guitarist Darren Housholder (Shrapnel Records recording artist, Love/Hate, War & Peace), bassist Jeff Buehner (The Loyal Order), and lead vocalist Steven St. James.\n"
-      ]
+   "Discography": {
+      "Studio and live albums": {},
+      "Compilations": {}
    },
-   "Title": "Rough Cutt - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Rough Cutt is an American heavy metal band from Los Angeles, California, United States, who released two studio albums on Warner Bros. Records in the mid-1980s.[1]  Rough Cutt never achieved the commercial success enjoyed by many other Los Angeles bands of that time but various members went on to success in other groups, including Jake E. Lee with Ozzy Osbourne, Amir Derakh with Orgy, Paul Shortino with Quiet Riot, and Craig Goldy and Claude Schnell with Dio.\n",
+      "After the end of their work with Warner Brothers, Rough Cutt signed with Virgin Records in the early 1990s. The band released its fourth studio album, Lapsed On My Own (1993), and toured steadily, playing festivals in the United States, United Kingdom, Germany.\n",
+      "The current line-up of Rough Cutt, which debuted on November 29, 2019 at the Bossanova Ballroom in Portland, Oregon is drummer Dave Alford, first guitarist Chris Hager, second guitarist Darren Housholder (Shrapnel Records recording artist, Love/Hate, War & Peace), bassist Jeff Buehner (The Loyal Order), and lead vocalist Steven St. James.\n",
+      "The first Rough Cutt line-up featured vocalist Paul Shortino, drummer Dave Alford, guitarist Jake E. Lee, keyboardist Claude Schnell, and bassist Joey Cristofanilli.[1] Both Lee and Alford had also previously been in another Los Angeles band, Ratt. Both Schnell and Cristofanilli had previously been in the band Magic.[2]\n"
+   ]
 }

@@ -1,17 +1,21 @@
 {
-   "Discography": {
+   "Name": "Djam Karet",
+   "Sections": [
+      "1 Personnel",
+      "1.1 Guests",
+      "2 History",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
       "text": [
-         "Discography of Major Releases: \n",
-         "Minor Releases, Compilations, CD-rs & EPs: \n",
-         "Solo Albums and Side-Projects:\n",
-         "Ellett:\n",
-         "Oken/Ellett:\n",
-         "Henderson/Oken:\n",
-         "Henderson:\n",
-         "Henderson/Kenyon:\n"
+         "Djam Karet is an instrumental progressive rock band based in Topanga, California.  The band was founded in 1984 by guitarists Gayle Ellett and Mike Henderson, bassist Henry J. Osborne, and drummer Chuck Oken, Jr..  The band's name is an old spelling of an Indonesian word (pronounced by English speakers as 'jum car-RAT) that translates loosely as \"elastic time\".\n"
       ]
    },
-   "External links": {},
+   "Personnel": {
+      "Guests": {}
+   },
    "History": {
       "text": [
          "Djam Karet was founded at Pitzer College in 1984 by guitarists Gayle Ellett and Mike Henderson, bassist Henry J. Osborne, and drummer Chuck Oken, Jr. They've created 18 instrumental albums so far, and have played on an additional 26 compilations, EPs, and limited-edition CD-rs. They chose as the band's name an Indonesian word (pronounced 'jam Kah-ret[1]) that translates loosely as \"elastic time\". Early Djam Karet was a proto-\"jam band\" whose live, totally improvised performances on the southern California/LA area college circuit featured a free-form mixture of guitar-dominated instrumental rock and textural Eastern drone music, as on their 1985 release No Commercial Potential. Djam Karet's mode of working and repertoire gradually expanded beyond improvisation to include compositional elements, field recordings, and studio work. In 1987 the band released The Ritual Continues, which was chosen \"Number 2 Album Of The Year\" by ELECTRONIC MUSICIAN magazine. Two years later, they released Reflections From The Firepool (now available from Cuneiform Records), which received ROLLING STONE's accolade of \" Number 2 Independent Album Of The Year\".\n",
@@ -27,22 +31,24 @@
          "In 2017 they released their most melodic album: Sonic Celluloid. Relating to the idea of \"sound as cinema\", this collection of 10 tracks demonstrates the group's ability to create \"mini-movies in your mind\". With more acoustic instruments, and more minimoogs and mellotrons then on any previous album, Sonic Celluloid is their best produced and best sounding album to date.\n"
       ]
    },
-   "Personnel": {
-      "Guests": {}
-   },
-   "References": {},
-   "Sections": [
-      "1 Personnel",
-      "1.1 Guests",
-      "2 History",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
+   "Discography": {
       "text": [
-         "Djam Karet is an instrumental progressive rock band based in Topanga, California.  The band was founded in 1984 by guitarists Gayle Ellett and Mike Henderson, bassist Henry J. Osborne, and drummer Chuck Oken, Jr..  The band's name is an old spelling of an Indonesian word (pronounced by English speakers as 'jum car-RAT) that translates loosely as \"elastic time\".\n"
+         "Discography of Major Releases: \n",
+         "Minor Releases, Compilations, CD-rs & EPs: \n",
+         "Solo Albums and Side-Projects:\n",
+         "Ellett:\n",
+         "Oken/Ellett:\n",
+         "Henderson/Oken:\n",
+         "Henderson:\n",
+         "Henderson/Kenyon:\n"
       ]
    },
-   "Title": "Djam Karet - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Djam Karet is an instrumental progressive rock band based in Topanga, California.  The band was founded in 1984 by guitarists Gayle Ellett and Mike Henderson, bassist Henry J. Osborne, and drummer Chuck Oken, Jr..  The band's name is an old spelling of an Indonesian word (pronounced by English speakers as 'jum car-RAT) that translates loosely as \"elastic time\".\n",
+      "Djam Karet was founded at Pitzer College in 1984 by guitarists Gayle Ellett and Mike Henderson, bassist Henry J. Osborne, and drummer Chuck Oken, Jr. They've created 18 instrumental albums so far, and have played on an additional 26 compilations, EPs, and limited-edition CD-rs. They chose as the band's name an Indonesian word (pronounced 'jam Kah-ret[1]) that translates loosely as \"elastic time\". Early Djam Karet was a proto-\"jam band\" whose live, totally improvised performances on the southern California/LA area college circuit featured a free-form mixture of guitar-dominated instrumental rock and textural Eastern drone music, as on their 1985 release No Commercial Potential. Djam Karet's mode of working and repertoire gradually expanded beyond improvisation to include compositional elements, field recordings, and studio work. In 1987 the band released The Ritual Continues, which was chosen \"Number 2 Album Of The Year\" by ELECTRONIC MUSICIAN magazine. Two years later, they released Reflections From The Firepool (now available from Cuneiform Records), which received ROLLING STONE's accolade of \" Number 2 Independent Album Of The Year\".\n",
+      "In 1991, the band released two separate CDs at the same time: Burning The Hard City and Suspension & Displacement which \"show-cased the band's two extreme split personalities...The former was a bone-crushing excursion into heavy power rock with anarchistic guitar solos, and the latter was a brilliant diary of dark, eerie ambient soundscapes.\" (EXPOSE'). Three years later in 1994, Djam Karet released the CD Collaborator, with guests musicians: Jeff Greinke, Kit Watkins, Marc Anderson, Steve Roach, Carl Weingarten, and many others.\n",
+      "As the 20th century drew to a close, Djam Karet signed with Cuneiform Records, working on new releases for Cuneiform and initiated a program to repackage and reissue their back catalog.  Djam Karet also began playing live on the festival circuit: live shows were performed at Day Zero for 1999's ProgDay (San Francisco); at NEARfest 2001, progressive rock's premier US showcase; ProgWest 2001 (Claremont), 2002's ProgDay (North Carolina), 2009's The Immersion Festival, and they headlined the three-day Progressive Rock festival in France called the Crescendo Festival. Throughout the years they have also contributed music to more than 20 compilation releases, both here and in Europe. Many of those tunes are available nowhere else.\n"
+   ]
 }

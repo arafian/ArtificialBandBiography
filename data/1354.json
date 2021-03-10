@@ -1,25 +1,5 @@
 {
-   "Band members by album": {
-      "text": [
-         "Gary Wheeler (vocals), Thomas Schuler (guitar), Peter Karolyi (bass), and Michael Stocker (Drums).\n",
-         "Georgij Alexandrowitsch Makazaria (vocals), Thomas Schuler (guitar), Peter Karolyi (bass), and Michael Stocker(Drums).\n",
-         "Georgij Alexandrowitsch Makazaria (vocals), Conrad Schrenk (guitar), Peter Karolyi (bass), and Michael Stocker (Drums).\n",
-         "Gary Wheeler (vocals), Niko Stössl (guitar), Peter Karolyi (bass), and Michael Stocker (Drums).\n",
-         "Gary Wheeler (vocals, guitar), Peter Karolyi (bass), and Michael Stocker (Drums).\n",
-         "Gary Wheeler (vocals, guitar), Peter Karolyi (bass), and Geoff Dugmore (Drums).\n"
-      ]
-   },
-   "Discography": {},
-   "External links": {},
-   "History": {
-      "text": [
-         "Stahlhammer is one of the most popular bands to ever come out of Austria. The band name was originally going to be \"Eisenherz\", but copyright laws for the German \"Prince Valiant\" stories prohibited this, though this later became the name of their fourth album. Their first album Killer Instinkt, released in 1995, became widely known throughout Austria and Germany due to the success of their video for the Pink Floyd cover \"Another Brick In The Wall\". Among Stahlhammer's several covers is a metal styled version of M.C. Hammer's famous hit U Can't Touch This.\n"
-      ]
-   },
-   "Line-up": {
-      "Current members": {},
-      "Former members": {}
-   },
+   "Name": "Stahlhammer",
    "Sections": [
       "1 History",
       "2 Line-up",
@@ -34,5 +14,31 @@
          "Stahlhammer (German for \"Steel Hammer\") is a Neue Deutsche Härte band from Austria that formed in 1992. They incorporate elements from hardcore, groove metal, industrial metal and symphonic metal into their songs. The band has to this date produced six albums, where the majority of songs are in German. Their latest album is Opera Noir, which was released in March 2006.\n"
       ]
    },
-   "Title": "Stahlhammer - Wikipedia"
+   "History": {
+      "text": [
+         "Stahlhammer is one of the most popular bands to ever come out of Austria. The band name was originally going to be \"Eisenherz\", but copyright laws for the German \"Prince Valiant\" stories prohibited this, though this later became the name of their fourth album. Their first album Killer Instinkt, released in 1995, became widely known throughout Austria and Germany due to the success of their video for the Pink Floyd cover \"Another Brick In The Wall\". Among Stahlhammer's several covers is a metal styled version of M.C. Hammer's famous hit U Can't Touch This.\n"
+      ]
+   },
+   "Line-up": {
+      "Current members": {},
+      "Former members": {}
+   },
+   "Discography": {},
+   "Band members by album": {
+      "text": [
+         "Gary Wheeler (vocals), Thomas Schuler (guitar), Peter Karolyi (bass), and Michael Stocker (Drums).\n",
+         "Georgij Alexandrowitsch Makazaria (vocals), Thomas Schuler (guitar), Peter Karolyi (bass), and Michael Stocker(Drums).\n",
+         "Georgij Alexandrowitsch Makazaria (vocals), Conrad Schrenk (guitar), Peter Karolyi (bass), and Michael Stocker (Drums).\n",
+         "Gary Wheeler (vocals), Niko Stössl (guitar), Peter Karolyi (bass), and Michael Stocker (Drums).\n",
+         "Gary Wheeler (vocals, guitar), Peter Karolyi (bass), and Michael Stocker (Drums).\n",
+         "Gary Wheeler (vocals, guitar), Peter Karolyi (bass), and Geoff Dugmore (Drums).\n"
+      ]
+   },
+   "External links": {},
+   "coreData": [
+      "Stahlhammer (German for \"Steel Hammer\") is a Neue Deutsche Härte band from Austria that formed in 1992. They incorporate elements from hardcore, groove metal, industrial metal and symphonic metal into their songs. The band has to this date produced six albums, where the majority of songs are in German. Their latest album is Opera Noir, which was released in March 2006.\n",
+      "Stahlhammer is one of the most popular bands to ever come out of Austria. The band name was originally going to be \"Eisenherz\", but copyright laws for the German \"Prince Valiant\" stories prohibited this, though this later became the name of their fourth album. Their first album Killer Instinkt, released in 1995, became widely known throughout Austria and Germany due to the success of their video for the Pink Floyd cover \"Another Brick In The Wall\". Among Stahlhammer's several covers is a metal styled version of M.C. Hammer's famous hit U Can't Touch This.\n",
+      "Gary Wheeler (vocals), Thomas Schuler (guitar), Peter Karolyi (bass), and Michael Stocker (Drums).\n",
+      "Georgij Alexandrowitsch Makazaria (vocals), Thomas Schuler (guitar), Peter Karolyi (bass), and Michael Stocker(Drums).\n"
+   ]
 }

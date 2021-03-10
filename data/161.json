@@ -1,7 +1,14 @@
 {
+   "Name": "Monsula",
+   "Sections": [
+      "Summary"
+   ],
    "Summary": {
       "text": [
          "Monsula was an American punk rock band from the San Francisco Bay Area, California, United States. The band was conceived in 1988 by Pete Zetterberg and Paul Lee in an art class at Benicia High School. With many member changes over the years, they performed regularly at Berkeley's Gilman Street Project and were known for their simple East Bay pop punk style of music. The band played hundreds of live shows throughout North America before disbanding five years later in 1993.\n"
       ]
-   }
+   },
+   "coreData": [
+      "Monsula was an American punk rock band from the San Francisco Bay Area, California, United States. The band was conceived in 1988 by Pete Zetterberg and Paul Lee in an art class at Benicia High School. With many member changes over the years, they performed regularly at Berkeley's Gilman Street Project and were known for their simple East Bay pop punk style of music. The band played hundreds of live shows throughout North America before disbanding five years later in 1993.\n"
+   ]
 }

@@ -1,31 +1,5 @@
 {
-   "Biography": {
-      "text": [
-         "The band formed in Palo Alto, California, in 1978.  Michael Belfer had been trying to form a band with his friend, Tim Mooney, and Belfer had decided he wanted former Crime drummer Ricky Williams for vocals, as \"he was so awesome looking\".  The band's compositions were spontaneous, as lyricist Williams didn't have the discipline to write out lyrics, but had \"fantastic improvisational abilities\".  The band released a five-track 7-inch EP in late 1978, and then broke up, with Belfer playing in Tuxedomoon during 1978 and 1979,[3] and Williams co-founding Flipper, from which he was fired before the band made any recordings \"for being too weird\".[1]\n",
-         "In 1980, the band reformed and released a single, \"Mirror\"/\"Theory\", and an album, Painless Nights.  The new lineup on the LP featured Brian MacLeod (drums), Ron MacLeod (bass), and Mike White (guitar/effects). Williams' abuse of speed led to erratic and violent behavior, which culminated in his passing out on stage on the second date of the group's East Coast tour at New York's Hurrah.  The band broke up onstage after this incident.[3]\n",
-         "Belfer returned to college and graduated in composition and cultural studies.  He played guitar and keyboards in Black Lab from 1996 to 1999.  Williams went on to handle vocals in Toiling Midgets, and later died of a heroin overdose at the age of 37 in 1992. Mooney, who later drummed for the bands American Music Club and Sun Kil Moon, died in June 2012.[4]\n"
-      ]
-   },
-   "Discography[2]": {
-      "Compilations": {
-         "text": [
-            "The Less an Object (complete discography compilation album)\n"
-         ]
-      },
-      "LPs": {
-         "text": [
-            "Painless Nights (1980)\n"
-         ]
-      },
-      "Singles & EPs": {
-         "text": [
-            "Seventh World 7\" EP (1978)\n",
-            "Mirror / Theory 7\" Single (1980)\n",
-            "Holding Back 1994 7\" single, recorded 1980\n"
-         ]
-      }
-   },
-   "References": {},
+   "Name": "The Sleepers (San Francisco band)",
    "Sections": [
       "1 Biography",
       "2 Discography[2]",
@@ -40,5 +14,37 @@
          "The band was made up of vocalist/lyricist Ricky Williams, guitarist Michael Belfer, bassist Paul Draper, and drummer Tim Mooney.[2]\n"
       ]
    },
-   "Title": "The Sleepers (San Francisco band) - Wikipedia"
+   "Biography": {
+      "text": [
+         "The band formed in Palo Alto, California, in 1978.  Michael Belfer had been trying to form a band with his friend, Tim Mooney, and Belfer had decided he wanted former Crime drummer Ricky Williams for vocals, as \"he was so awesome looking\".  The band's compositions were spontaneous, as lyricist Williams didn't have the discipline to write out lyrics, but had \"fantastic improvisational abilities\".  The band released a five-track 7-inch EP in late 1978, and then broke up, with Belfer playing in Tuxedomoon during 1978 and 1979,[3] and Williams co-founding Flipper, from which he was fired before the band made any recordings \"for being too weird\".[1]\n",
+         "In 1980, the band reformed and released a single, \"Mirror\"/\"Theory\", and an album, Painless Nights.  The new lineup on the LP featured Brian MacLeod (drums), Ron MacLeod (bass), and Mike White (guitar/effects). Williams' abuse of speed led to erratic and violent behavior, which culminated in his passing out on stage on the second date of the group's East Coast tour at New York's Hurrah.  The band broke up onstage after this incident.[3]\n",
+         "Belfer returned to college and graduated in composition and cultural studies.  He played guitar and keyboards in Black Lab from 1996 to 1999.  Williams went on to handle vocals in Toiling Midgets, and later died of a heroin overdose at the age of 37 in 1992. Mooney, who later drummed for the bands American Music Club and Sun Kil Moon, died in June 2012.[4]\n"
+      ]
+   },
+   "Discography[2]": {
+      "Singles & EPs": {
+         "text": [
+            "Seventh World 7\" EP (1978)\n",
+            "Mirror / Theory 7\" Single (1980)\n",
+            "Holding Back 1994 7\" single, recorded 1980\n"
+         ]
+      },
+      "LPs": {
+         "text": [
+            "Painless Nights (1980)\n"
+         ]
+      },
+      "Compilations": {
+         "text": [
+            "The Less an Object (complete discography compilation album)\n"
+         ]
+      }
+   },
+   "References": {},
+   "coreData": [
+      "The Sleepers was a San Francisco-based band, formed in 1978.  They were one of the earliest punk bands in San Francisco, and later took on a darker, moodier post-punk sound before breaking up in 1981.[1]\n",
+      "The band was made up of vocalist/lyricist Ricky Williams, guitarist Michael Belfer, bassist Paul Draper, and drummer Tim Mooney.[2]\n",
+      "The band formed in Palo Alto, California, in 1978.  Michael Belfer had been trying to form a band with his friend, Tim Mooney, and Belfer had decided he wanted former Crime drummer Ricky Williams for vocals, as \"he was so awesome looking\".  The band's compositions were spontaneous, as lyricist Williams didn't have the discipline to write out lyrics, but had \"fantastic improvisational abilities\".  The band released a five-track 7-inch EP in late 1978, and then broke up, with Belfer playing in Tuxedomoon during 1978 and 1979,[3] and Williams co-founding Flipper, from which he was fired before the band made any recordings \"for being too weird\".[1]\n",
+      "In 1980, the band reformed and released a single, \"Mirror\"/\"Theory\", and an album, Painless Nights.  The new lineup on the LP featured Brian MacLeod (drums), Ron MacLeod (bass), and Mike White (guitar/effects). Williams' abuse of speed led to erratic and violent behavior, which culminated in his passing out on stage on the second date of the group's East Coast tour at New York's Hurrah.  The band broke up onstage after this incident.[3]\n"
+   ]
 }

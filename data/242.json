@@ -1,4 +1,20 @@
 {
+   "Name": "Hayseed Dixie",
+   "Sections": [
+      "1 Career",
+      "2 Current band members",
+      "3 Former band members",
+      "4 Discography",
+      "4.1 Videography",
+      "5 References",
+      "6 Other sources",
+      "7 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Hayseed Dixie is an American band formed in Nashville, Tennessee in 2000. Their first album was A Hillbilly Tribute to AC/DC. The band performs bluegrass cover versions of hard rock songs and also original songs of a mostly satirical or absurdist nature in a self-created musical genre which the band calls \"rockgrass.\"[1] The band's name is a linguistic play on the name of the band AC/DC.[2]\n"
+      ]
+   },
    "Career": {
       "text": [
          "Hayseed Dixie plays hard rock and bluegrass music on electrified acoustic bluegrass instruments. The band has released 16 studio albums and played over 1,400 live dates in 31 different countries since its inception in 2000.[3]\n",
@@ -16,27 +32,17 @@
       ]
    },
    "Current band members": {},
+   "Former band members": {},
    "Discography": {
       "Videography": {}
    },
-   "External links": {},
-   "Former band members": {},
-   "Other sources": {},
    "References": {},
-   "Sections": [
-      "1 Career",
-      "2 Current band members",
-      "3 Former band members",
-      "4 Discography",
-      "4.1 Videography",
-      "5 References",
-      "6 Other sources",
-      "7 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Hayseed Dixie is an American band formed in Nashville, Tennessee in 2000. Their first album was A Hillbilly Tribute to AC/DC. The band performs bluegrass cover versions of hard rock songs and also original songs of a mostly satirical or absurdist nature in a self-created musical genre which the band calls \"rockgrass.\"[1] The band's name is a linguistic play on the name of the band AC/DC.[2]\n"
-      ]
-   },
-   "Title": "Hayseed Dixie - Wikipedia"
+   "Other sources": {},
+   "External links": {},
+   "coreData": [
+      "Hayseed Dixie is an American band formed in Nashville, Tennessee in 2000. Their first album was A Hillbilly Tribute to AC/DC. The band performs bluegrass cover versions of hard rock songs and also original songs of a mostly satirical or absurdist nature in a self-created musical genre which the band calls \"rockgrass.\"[1] The band's name is a linguistic play on the name of the band AC/DC.[2]\n",
+      "Hayseed Dixie plays hard rock and bluegrass music on electrified acoustic bluegrass instruments. The band has released 16 studio albums and played over 1,400 live dates in 31 different countries since its inception in 2000.[3]\n",
+      "Upon the release of the debut album, A Hillbilly Tribute to AC/DC, on April 17, 2001, which consisted of acoustic hillbilly-styled reworkings of AC/DC songs,[4] Hayseed Dixie received considerable morning-show radio airplay in the US, selling over 250,000 albums in the US from 2001 to 2003. The band toured the US club and festival circuit extensively during that time. In March 2003, the band had three different albums in the Top 15 in the bluegrass category of the US Billboard charts at the same time.[5] Western Europe, however, has shown the group the most enduring appreciation.[1]\n",
+      "Since 2001, the band has produced 15 further themed albums in the \"rockgrass\" style, composed of both hillbilly-esque reworkings of classic rock songs and original material which is mainly satirical in nature.\n"
+   ]
 }

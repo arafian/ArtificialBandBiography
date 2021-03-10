@@ -1,11 +1,20 @@
 {
-   "Band members": {},
-   "Discography": {
-      "Albums": {},
-      "Compilation/Soundtrack contributions": {},
-      "Singles/Eps": {}
+   "Name": "Love Battery",
+   "Sections": [
+      "1 History",
+      "2 Band members",
+      "3 Discography",
+      "3.1 Albums",
+      "3.2 Singles/Eps",
+      "3.3 Compilation/Soundtrack contributions",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Love Battery is an American rock band from Seattle, Washington.\n"
+      ]
    },
-   "External links": {},
    "History": {
       "text": [
          "Love Battery was formed in 1989 by former Room Nine leader Ron Nine (b. Ron Rudzitis), guitarist Kevin Whitworth (ex-Crisis Party), bassist Tommy \"Bonehead\" Simpson (also ex-Crisis Party) and Mudhoney drummer Dan Peters.  Their name came from a song of the same name by British punk band the Buzzcocks.\n",
@@ -23,21 +32,18 @@
          "That material never materialized, but the Dayglo lineup reunited in 2018 to play that album in its entirety in several Seattle shows.[1]\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Band members",
-      "3 Discography",
-      "3.1 Albums",
-      "3.2 Singles/Eps",
-      "3.3 Compilation/Soundtrack contributions",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Love Battery is an American rock band from Seattle, Washington.\n"
-      ]
+   "Band members": {},
+   "Discography": {
+      "Albums": {},
+      "Singles/Eps": {},
+      "Compilation/Soundtrack contributions": {}
    },
-   "Title": "Love Battery - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Love Battery is an American rock band from Seattle, Washington.\n",
+      "Love Battery was formed in 1989 by former Room Nine leader Ron Nine (b. Ron Rudzitis), guitarist Kevin Whitworth (ex-Crisis Party), bassist Tommy \"Bonehead\" Simpson (also ex-Crisis Party) and Mudhoney drummer Dan Peters.  Their name came from a song of the same name by British punk band the Buzzcocks.\n",
+      "Before releasing their first single Peters left the group and was replaced by ex-Skin Yard drummer Jason Finn. With this lineup the band released their debut single Between The Eyes for seminal Seattle record label Sub Pop. By 1990 Simpson had been replaced by ex-U-Men bassist Jim Tillman. With this lineup the band released their debut EP Between the Eyes in 1990, again on Sub Pop. This record was later expanded and released as their first full-length album in 1991. Following the Between The Eyes EP were the Foot singles and Out Of Focus EP.\n",
+      "In 1992 the band recorded and released Dayglo. In the Sub Pop catalog, Dayglo was listed as \"Blotter not included\" a play on \"Batteries not included\" instead referring to LSD. Soon after, Tillman left to pursue other interests. He was replaced at first by original bassist Tommy Simpson, who in turn was replaced by ex-Green River and Mother Love Bone guitarist Bruce Fairweather.\n"
+   ]
 }

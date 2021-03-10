@@ -1,9 +1,9 @@
 {
-   "Pop culture": {
-      "text": [
-         "On the Nickelodeon series Drake & Josh, above Drake's bed is a poster of the band. However, the word 'Bastards' on the bottom is censored by two bumper stickers. Also, professional wrestler, Sterling James Keenan uses \"Mainlining Murder\" as his entrance theme in 1PW and Ring of Honor, Major League Wrestling wrestler Vampiro uses \"Dead American\" as his theme. Former UFC fighter Chuck Liddell can be seen wearing T-shirts from the Viking album.\n"
-      ]
-   },
+   "Name": "Lars Frederiksen and the Bastards",
+   "Sections": [
+      "Summary",
+      "Pop culture"
+   ],
    "Summary": {
       "text": [
          "Lars Frederiksen and the Bastards was an American street punk band formed to release the songs that Lars had written. Their songs include subject matter consisting of drinking, fighting, drugs, sex, prostitutes, gangs, and street life. They were the side project band of Lars Frederiksen from Rancid.\n",
@@ -12,5 +12,16 @@
          "Lars and Tim then got together to write the second Bastards album, Viking, this time the focus being more on Lars' recent life (with the exception of the songs \"1%\", \"The Kids Are Quiet on Sharmon Palms\" and \"The Viking\".) after having \"got outta Campbell\". The album also included cover versions of The Blasters' \"Marie, Marie\" and the Anti-Nowhere League's \"For You\". The song \"Little Rude Girl\" was originally intended to be used as a Rancid song, slated to appear on an aborted split 7\" with Rancid and Richmond, VA punk band Avail on Lookout! Records. The album was mixed by Brett Gurewitz of Bad Religion.\n",
          "It is also currently stated that Lars has no intention of creating another \"Lars Frederiksen and the Bastards\" album.[citation needed]\n"
       ]
-   }
+   },
+   "Pop culture": {
+      "text": [
+         "On the Nickelodeon series Drake & Josh, above Drake's bed is a poster of the band. However, the word 'Bastards' on the bottom is censored by two bumper stickers. Also, professional wrestler, Sterling James Keenan uses \"Mainlining Murder\" as his entrance theme in 1PW and Ring of Honor, Major League Wrestling wrestler Vampiro uses \"Dead American\" as his theme. Former UFC fighter Chuck Liddell can be seen wearing T-shirts from the Viking album.\n"
+      ]
+   },
+   "coreData": [
+      "Lars Frederiksen and the Bastards was an American street punk band formed to release the songs that Lars had written. Their songs include subject matter consisting of drinking, fighting, drugs, sex, prostitutes, gangs, and street life. They were the side project band of Lars Frederiksen from Rancid.\n",
+      "The band members were Lars Frederiksen (vocals and lead guitar), Gordy Carbone (also credited as \"Unknown Bastard\") (vocals), Jason Woods, aka Big Jay Bastard, (bass), Craig Leg (rhythm guitar) and Scott Abels (also credited as \"Skatty Punk Rock\") (drums). While Craig did not appear on the first album, he was always been a touring member of the band.\n",
+      "The band was formed after Lars' friend and bandmate in Rancid, Tim Armstrong suggested writing songs about Lars and his friend Ben growing up in Campbell, California. The band was then put together as an outlet to release these songs, as well as covers of Billy Bragg's \"To Have and to Have Not\", Holland-Dozier-Holland's \"Leaving Here\" (which was also covered by Motörhead). This first album was named Lars Frederiksen and the Bastards.\n",
+      "Lars and Tim then got together to write the second Bastards album, Viking, this time the focus being more on Lars' recent life (with the exception of the songs \"1%\", \"The Kids Are Quiet on Sharmon Palms\" and \"The Viking\".) after having \"got outta Campbell\". The album also included cover versions of The Blasters' \"Marie, Marie\" and the Anti-Nowhere League's \"For You\". The song \"Little Rude Girl\" was originally intended to be used as a Rancid song, slated to appear on an aborted split 7\" with Rancid and Richmond, VA punk band Avail on Lookout! Records. The album was mixed by Brett Gurewitz of Bad Religion.\n"
+   ]
 }

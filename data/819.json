@@ -1,13 +1,20 @@
 {
-   "Death of Ben McMillan": {
+   "Name": "Gruntruck",
+   "Sections": [
+      "1 History",
+      "2 Death of Ben McMillan",
+      "3 Legacy",
+      "4 Members",
+      "5 Discography",
+      "5.1 Studio albums",
+      "5.2 Singles",
+      "5.3 Compilations",
+      "6 References"
+   ],
+   "Summary": {
       "text": [
-         "Ben McMillan died at age 46 from complications related to diabetes on January 26, 2008.[4]\n"
+         "Gruntruck is an American rock band formed in 1989 in Seattle, Washington, by vocalist Ben McMillan and drummer Norman Scott, both previously from early Seattle sound pioneers Skin Yard. While in Skin Yard, Norman also briefly joined Soundgarden, and collaborated with Chris Cornell on a lesser-known band, the low frequency power trio Bass Truck. Lead guitarist Tommy Niemeyer from metal thrashers The Accüsed and bassist Tim Paul, previously of Portland hardcore punk band Final Warning, rounded out the initial, classic line-up. Their sound is described as grunge, and the band focuses more on the metal side of the genre.\n"
       ]
-   },
-   "Discography": {
-      "Compilations": {},
-      "Singles": {},
-      "Studio albums": {}
    },
    "History": {
       "text": [
@@ -26,28 +33,27 @@
          "The finished third album languished in the vaults until 2016, when Jack Endino mentioned its existence to Found Recordings head, Scott Blum, who enthusiastically embarked on a journey with the band to bring the album to the world. The self-titled third album, nicknamed 'Phoenix' (which included also the songs of the Mona Diesel era), was released October 13, 2017 by Found Recordings, and the remaining original members will honor the late singer's memory by reuniting for a limited number of live performances with a guest singer later in the year.[3]\n"
       ]
    },
+   "Death of Ben McMillan": {
+      "text": [
+         "Ben McMillan died at age 46 from complications related to diabetes on January 26, 2008.[4]\n"
+      ]
+   },
    "Legacy": {
       "text": [
          "In 2017, Metal Injection ranked Gruntruck at number 4 on their list of \"10 Heaviest Grunge Bands\".[5]\n"
       ]
    },
    "Members": {},
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Death of Ben McMillan",
-      "3 Legacy",
-      "4 Members",
-      "5 Discography",
-      "5.1 Studio albums",
-      "5.2 Singles",
-      "5.3 Compilations",
-      "6 References"
-   ],
-   "Summary": {
-      "text": [
-         "Gruntruck is an American rock band formed in 1989 in Seattle, Washington, by vocalist Ben McMillan and drummer Norman Scott, both previously from early Seattle sound pioneers Skin Yard. While in Skin Yard, Norman also briefly joined Soundgarden, and collaborated with Chris Cornell on a lesser-known band, the low frequency power trio Bass Truck. Lead guitarist Tommy Niemeyer from metal thrashers The Accüsed and bassist Tim Paul, previously of Portland hardcore punk band Final Warning, rounded out the initial, classic line-up. Their sound is described as grunge, and the band focuses more on the metal side of the genre.\n"
-      ]
+   "Discography": {
+      "Studio albums": {},
+      "Singles": {},
+      "Compilations": {}
    },
-   "Title": "Gruntruck - Wikipedia"
+   "References": {},
+   "coreData": [
+      "Gruntruck is an American rock band formed in 1989 in Seattle, Washington, by vocalist Ben McMillan and drummer Norman Scott, both previously from early Seattle sound pioneers Skin Yard. While in Skin Yard, Norman also briefly joined Soundgarden, and collaborated with Chris Cornell on a lesser-known band, the low frequency power trio Bass Truck. Lead guitarist Tommy Niemeyer from metal thrashers The Accüsed and bassist Tim Paul, previously of Portland hardcore punk band Final Warning, rounded out the initial, classic line-up. Their sound is described as grunge, and the band focuses more on the metal side of the genre.\n",
+      "While on tour with Skin Yard, Ben and Norman wrote a song (Paint from Inside Yours) in Tucson, Arizona, which had a vibe that Ben felt was worthy of forming a new band around. Before long Ben, Norman, and Tom began to collaborate on blending Bass Truck's sound with this new material, and brought in Tim Paul on bass to fill out the sound later that year. After several attempts at titling the new lineup, the name Gruntruck came to Ben while out record shopping.\n",
+      "The band soon recorded a full-length album for Seattle label Empty Records, with Skin Yard alum/legendary producer Jack Endino (Nirvana, Soundgarden) producing with Gary King. Inside Yours was released in 1990, and was released simultaneously in Germany on the Musical Tragedies label. Gruntruck made a video for the song Not a Lot to Save, with Henry Shepherd (brother of Soundgarden bassist Ben) directing, which soon found its way onto MTV.\n",
+      "In 1991, Gruntruck gained further exposure after opening for Pearl Jam on the night they recorded the music video for the song Even Flow, and during the frenzy of media and record label attention that had descended on Seattle, they signed a multi-album deal with Roadrunner Records. Roadrunner re-released Inside Yours later that same year.\n"
+   ]
 }

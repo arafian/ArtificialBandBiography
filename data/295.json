@@ -1,5 +1,35 @@
 {
+   "Name": "Stabilo (band)",
+   "Sections": [
+      "1 Band`s history",
+      "1.1 Before Stabilo",
+      "1.2 Formation",
+      "1.3 1999: First EP and growth",
+      "1.4 2000-2002: Self-titled debut album",
+      "1.5 2003-2005: Name change and Cupid?",
+      "1.6 2006-2008: Happiness and Disaster",
+      "1.7 2011-present: Hiatus",
+      "2 Discography",
+      "2.1 Singles",
+      "3 References",
+      "4 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Stabilo (originally Stabilo Boss) was a Canadian rock band from Maple Ridge, British Columbia. It formed in 1999 and is best known for its songs \"Everybody\", \"One More Pill\", \"Don't Look in Their Eyes\", \"Flawed Design\", and \"Kidding Ourselves\".\n"
+      ]
+   },
    "Band`s history": {
+      "Before Stabilo": {
+         "text": [
+            "Members Jesse Dryfhout and Christopher John (then Chris Moerman) were high-school classmates who played in a band called Molly along with Shaun Bennett and McKenzie Dougall. Molly released their only EP Ghosts of Yesterday in 1997. Dryfhout was originally the drummer of the band until he came to the band with the first song that he had ever written: \"Everybody\". Soon after, he and John started to share song-writing and singing duties.\n"
+         ]
+      },
+      "Formation": {
+         "text": [
+            "Molly played their last show at a barn in Maple Ridge only to walk back onto the stage as Stabilo Boss, sporting a new line-up with both Christopher and Jesse leading the band. The band's acoustic-rock sound featured Nathan Wylie, an accomplished drummer and former classmate of the band, and Shaun Bennett on bass.\n"
+         ]
+      },
       "1999: First EP and growth": {
          "text": [
             "In 1999, the band recorded Kitchen Sessions, so named as it was an independent recording made in a kitchen. The EP was a completely home-made affair, the band and their university friends burning and distributing the discs themselves. Around this time, Stabilo Boss began to grow a solid local fan base based on the core support of their peers in school.\n"
@@ -31,41 +61,17 @@
          "text": [
             "In April 2011, the band released a statement declaring they were on permanent hiatus. Bass player Karl Williaume now plays with Canadian reggae singer Caleb Hart as a part of 'The Royal Youths'\n"
          ]
-      },
-      "Before Stabilo": {
-         "text": [
-            "Members Jesse Dryfhout and Christopher John (then Chris Moerman) were high-school classmates who played in a band called Molly along with Shaun Bennett and McKenzie Dougall. Molly released their only EP Ghosts of Yesterday in 1997. Dryfhout was originally the drummer of the band until he came to the band with the first song that he had ever written: \"Everybody\". Soon after, he and John started to share song-writing and singing duties.\n"
-         ]
-      },
-      "Formation": {
-         "text": [
-            "Molly played their last show at a barn in Maple Ridge only to walk back onto the stage as Stabilo Boss, sporting a new line-up with both Christopher and Jesse leading the band. The band's acoustic-rock sound featured Nathan Wylie, an accomplished drummer and former classmate of the band, and Shaun Bennett on bass.\n"
-         ]
       }
    },
    "Discography": {
       "Singles": {}
    },
-   "External links": {},
    "References": {},
-   "Sections": [
-      "1 Band`s history",
-      "1.1 Before Stabilo",
-      "1.2 Formation",
-      "1.3 1999: First EP and growth",
-      "1.4 2000-2002: Self-titled debut album",
-      "1.5 2003-2005: Name change and Cupid?",
-      "1.6 2006-2008: Happiness and Disaster",
-      "1.7 2011-present: Hiatus",
-      "2 Discography",
-      "2.1 Singles",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Stabilo (originally Stabilo Boss) was a Canadian rock band from Maple Ridge, British Columbia. It formed in 1999 and is best known for its songs \"Everybody\", \"One More Pill\", \"Don't Look in Their Eyes\", \"Flawed Design\", and \"Kidding Ourselves\".\n"
-      ]
-   },
-   "Title": "Stabilo (band) - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "Stabilo (originally Stabilo Boss) was a Canadian rock band from Maple Ridge, British Columbia. It formed in 1999 and is best known for its songs \"Everybody\", \"One More Pill\", \"Don't Look in Their Eyes\", \"Flawed Design\", and \"Kidding Ourselves\".\n",
+      "Members Jesse Dryfhout and Christopher John (then Chris Moerman) were high-school classmates who played in a band called Molly along with Shaun Bennett and McKenzie Dougall. Molly released their only EP Ghosts of Yesterday in 1997. Dryfhout was originally the drummer of the band until he came to the band with the first song that he had ever written: \"Everybody\". Soon after, he and John started to share song-writing and singing duties.\n",
+      "Molly played their last show at a barn in Maple Ridge only to walk back onto the stage as Stabilo Boss, sporting a new line-up with both Christopher and Jesse leading the band. The band's acoustic-rock sound featured Nathan Wylie, an accomplished drummer and former classmate of the band, and Shaun Bennett on bass.\n",
+      "In 1999, the band recorded Kitchen Sessions, so named as it was an independent recording made in a kitchen. The EP was a completely home-made affair, the band and their university friends burning and distributing the discs themselves. Around this time, Stabilo Boss began to grow a solid local fan base based on the core support of their peers in school.\n"
+   ]
 }

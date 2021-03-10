@@ -1,5 +1,17 @@
 {
-   "Band members": {},
+   "Name": "Dead Meadow",
+   "Sections": [
+      "1 Biography",
+      "2 Band members",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Dead Meadow is an American psychedelic rock band, formed in Washington, D.C. in 1998 and currently composed of vocalist and guitarist Jason Simon, bassist Steve Kille, and drummer Mark Laughlin. The band have released seven studio albums, two live albums, and a Peel Session.\n"
+      ]
+   },
    "Biography": {
       "text": [
          "Dead Meadow formed in 1998 from the remnants of two local DC bands, The Impossible Five and Colour.[1] The band started as Jason Simon on vocals and guitar, Steve Kille on bass, and Mark Laughlin on drums. They combined 70's heavy metal and 60's psychedelic rock with themes from authors such as J. R. R. Tolkien and H. P. Lovecraft.[1] The first album, Dead Meadow, was released in 2000 on Tolotta Records, a label run by Fugazi bassist Joe Lally. The vinyl LP version was released by Planaria Records. This was followed by 2001's Howls from the Hills, also released on Tolotta Records.\n",
@@ -14,20 +26,14 @@
          "Although not officially announced, it was revealed in February 2016 that Laughlin (taking a break from touring) had been replaced by Juan Londono, formerly of Strangers Family Band.[9]\n"
       ]
    },
+   "Band members": {},
    "Discography": {},
-   "External links": {},
    "References": {},
-   "Sections": [
-      "1 Biography",
-      "2 Band members",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Dead Meadow is an American psychedelic rock band, formed in Washington, D.C. in 1998 and currently composed of vocalist and guitarist Jason Simon, bassist Steve Kille, and drummer Mark Laughlin. The band have released seven studio albums, two live albums, and a Peel Session.\n"
-      ]
-   },
-   "Title": "Dead Meadow - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "Dead Meadow is an American psychedelic rock band, formed in Washington, D.C. in 1998 and currently composed of vocalist and guitarist Jason Simon, bassist Steve Kille, and drummer Mark Laughlin. The band have released seven studio albums, two live albums, and a Peel Session.\n",
+      "Dead Meadow formed in 1998 from the remnants of two local DC bands, The Impossible Five and Colour.[1] The band started as Jason Simon on vocals and guitar, Steve Kille on bass, and Mark Laughlin on drums. They combined 70's heavy metal and 60's psychedelic rock with themes from authors such as J. R. R. Tolkien and H. P. Lovecraft.[1] The first album, Dead Meadow, was released in 2000 on Tolotta Records, a label run by Fugazi bassist Joe Lally. The vinyl LP version was released by Planaria Records. This was followed by 2001's Howls from the Hills, also released on Tolotta Records.\n",
+      "Having heard the band's first album, John Peel asked the band to record a Peel Session. Unable to afford to tour internationally, the band recorded their session in Fugazi's home studio using an 8-track recorder previously owned by Minor Threat, the first time a Peel Session was recorded outside the BBC studios.[2] Primarily featuring energetic versions of songs from their first two albums, Dead Meadow's session was officially released in 2011 as Peel Sessions, and includes two additional tracks recorded during the same period.[3]\n",
+      "In Spring 2002, Laughlin left the band in order to attend law school and pursue a career as a lawyer. He was replaced by long-time friend and former Canyon drummer Stephen McCarty. In mid 2002, the band released the live album, Got Live If You Want It, which documented one of the last shows with Laughlin and was produced, mixed and released by Anton Newcombe of Brian Jonestown Massacre.[4] In early 2003 the band signed to Matador Records and released Shivering King and Others. Along with the heavy song and blues-influenced songs as on the previous two records, the band continued in their psychedelic style, with acoustic elements and ballads. With the addition of second guitarist Cory Shane, Feathers was released in 2005.\n"
+   ]
 }

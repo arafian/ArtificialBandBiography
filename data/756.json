@@ -1,10 +1,16 @@
 {
-   "Discography": {},
-   "External links": {},
-   "Motivational speaker/trainer": {
+   "Name": "Share Ross",
+   "Sections": [
+      "1 Music career",
+      "2 Motivational speaker/trainer",
+      "3 Personal life",
+      "4 Discography",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
       "text": [
-         "In addition to her musical career, Ross is also a life coach, specializing in confidence-building, with particular reference to self-promotion via video, with her \"Video Rockstar University\"[10] program, and a motivational course, \"MESH\".[11] Her programs are predominantly targeted at self-employed businesswomen.\n",
-         "She has also published a book of hip knitting designs, Punk Knits published by Stewart, Tabori and Chang.\n"
+         "Sharon June \"Share\" Ross (formerly Pedersen; born Sharon June Howe; March 21, 1963 in Glencoe, Minnesota) is the bass player of the female hard rock band, Vixen.[1]\n"
       ]
    },
    "Music career": {
@@ -19,24 +25,24 @@
          "In contrast to all of Vixen's past concerts, Ross, primarily a backing vocalist, handled lead vocals on the band's cover of \"I Don't Need No Doctor\" during their 2017 and 2018 live tours instead of Gardner, her best friend and Vixen's long-time lead singer.\n"
       ]
    },
+   "Motivational speaker/trainer": {
+      "text": [
+         "In addition to her musical career, Ross is also a life coach, specializing in confidence-building, with particular reference to self-promotion via video, with her \"Video Rockstar University\"[10] program, and a motivational course, \"MESH\".[11] Her programs are predominantly targeted at self-employed businesswomen.\n",
+         "She has also published a book of hip knitting designs, Punk Knits published by Stewart, Tabori and Chang.\n"
+      ]
+   },
    "Personal life": {
       "text": [
          "Share and Bam Ross adopted a raw vegan lifestyle in 2006 through the Raw Pirate Gourmet.[12] She shares the same birthday with Janet Gardner, her former Vixen bandmate.[13]\n"
       ]
    },
+   "Discography": {},
    "References": {},
-   "Sections": [
-      "1 Music career",
-      "2 Motivational speaker/trainer",
-      "3 Personal life",
-      "4 Discography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Sharon June \"Share\" Ross (formerly Pedersen; born Sharon June Howe; March 21, 1963 in Glencoe, Minnesota) is the bass player of the female hard rock band, Vixen.[1]\n"
-      ]
-   },
-   "Title": "Share Ross - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "Sharon June \"Share\" Ross (formerly Pedersen; born Sharon June Howe; March 21, 1963 in Glencoe, Minnesota) is the bass player of the female hard rock band, Vixen.[1]\n",
+      "Ross joined Vixen in 1987, replacing Pia Maiocco, and remained with the band until 1992. After leaving Vixen, she co-formed the supergroup, Contraband, releasing only one album. When Vixen reunited in 1997, she had no interest in coming back, as she was playing in her husband's band, Bubble.\n",
+      "In 1999, Ross and her husband Bam co-wrote the songs on Jesse Camp's debut album, Jesse & The 8th Street Kidz.[2]\n",
+      "Bubble won Song of the Year in the John Lennon Songwriting Contest in 2000 with their song, Sparkle Star. It was also featured in the film starring Daryl Hannah, Dancing at the Blue Iguana.\n"
+   ]
 }

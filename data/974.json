@@ -1,11 +1,26 @@
 {
-   "Discography": {
+   "Name": "Hot Tuna",
+   "Sections": [
+      "1 History",
+      "1.1 1969–1973: beginnings",
+      "1.2 1974–1977: Power trio",
+      "1.3 1978–1985: hiatus and brief reunion",
+      "1.4 1986–present",
+      "2 Personnel",
+      "2.1 Members",
+      "2.1.1 Current members",
+      "2.1.2 Former members",
+      "2.2 Timeline",
+      "2.3 Lineups",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
       "text": [
-         "\n",
-         "\n"
+         "Hot Tuna is an American blues rock band formed in 1969 by former Jefferson Airplane members Jorma Kaukonen (guitarist/vocals) and Jack Casady (bassist).[3] Although it has always been a fluid aggregation, with musicians coming and going over the years, the band's name has essentially become a metonym for Kaukonen and Casady's ongoing collaboration.\n"
       ]
    },
-   "External links": {},
    "History": {
       "1969–1973: beginnings": {
          "text": [
@@ -39,12 +54,6 @@
       }
    },
    "Personnel": {
-      "Lineups": {
-         "text": [
-            "Disbanded\n",
-            "Disbanded\n"
-         ]
-      },
       "Members": {
          "Current members": {},
          "Former members": {
@@ -57,29 +66,26 @@
             "The band has performed live as Hot Tuna between 1969 and 1977; in 1983; and from 1986 to present:[5][17]\n"
          ]
       },
-      "Timeline": {}
+      "Timeline": {},
+      "Lineups": {
+         "text": [
+            "Disbanded\n",
+            "Disbanded\n"
+         ]
+      }
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 1969–1973: beginnings",
-      "1.2 1974–1977: Power trio",
-      "1.3 1978–1985: hiatus and brief reunion",
-      "1.4 1986–present",
-      "2 Personnel",
-      "2.1 Members",
-      "2.1.1 Current members",
-      "2.1.2 Former members",
-      "2.2 Timeline",
-      "2.3 Lineups",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
+   "Discography": {
       "text": [
-         "Hot Tuna is an American blues rock band formed in 1969 by former Jefferson Airplane members Jorma Kaukonen (guitarist/vocals) and Jack Casady (bassist).[3] Although it has always been a fluid aggregation, with musicians coming and going over the years, the band's name has essentially become a metonym for Kaukonen and Casady's ongoing collaboration.\n"
+         "\n",
+         "\n"
       ]
    },
-   "Title": "Hot Tuna - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Hot Tuna is an American blues rock band formed in 1969 by former Jefferson Airplane members Jorma Kaukonen (guitarist/vocals) and Jack Casady (bassist).[3] Although it has always been a fluid aggregation, with musicians coming and going over the years, the band's name has essentially become a metonym for Kaukonen and Casady's ongoing collaboration.\n",
+      "Hot Tuna began as a side project to Jefferson Airplane, intended to mark time while Grace Slick recovered from throat node surgery that had left her unable to perform. The band's name came from someone Jorma Kaukonen referred to as a \"witty wag\" who called out, \"hot tuna\" after hearing the line 'What's that smell like fish, oh baby,' from the song \"Keep On Truckin'.\"[4] Kaukonen, Jack Casady, Paul Kantner and new drummer Joey Covington played several shows around San Francisco, including the Airplane's original club, The Matrix, before Jefferson Airplane resumed performing to support Volunteers. (Although Covington had been hired by Jefferson Airplane, he only performed at select engagements, with Spencer Dryden continuing to perform as the band's principal drummer until his 1970 dismissal).[5] Once the Airplane had resumed touring, Tuna found itself opening for the Airplane. Their early repertoire derived mainly from Kaukonen's Airplane material and covers of American country and blues artists such as Reverend Gary Davis, Jelly Roll Morton, Bo Carter and Blind Blake.\n",
+      "In September 1969, Kaukonen and Casady employed the moniker for a week of acoustic-based concerts at the New Orleans House in Berkeley, California; recordings culled from this engagement were released as the band's eponymous debut album in 1970. This album has become affectionately known by the group's fans as the \"breaking glass album\", because of the sound of breaking beer glasses during the recording of \"Uncle Sam Blues.\"[6] Some tracks included Will Scarlett on harmonica.[7]  After the album was recorded, Jorma's brother Peter Kaukonen soon replaced Kantner on rhythm guitar and Jefferson Airplane co-lead vocalist Marty Balin joined on vocals for the electric songs. In 1970, the younger Kaukonen was replaced by Paul Ziegler.\n",
+      "That summer, RCA paid for the band to go to Jamaica to record their next album, but the album was never finished, in part due to a financial dispute between Balin (who left both bands shortly thereafter) and Kaukonen and Casady.[5] Violinist Papa John Creach joined Hot Tuna and Jefferson Airplane in October 1970. Both bands finished a joint tour in November 1970 with shows at the Fillmore East.\n"
+   ]
 }

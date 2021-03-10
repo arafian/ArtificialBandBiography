@@ -1,4 +1,20 @@
 {
+   "Name": "1976 (band)",
+   "Sections": [
+      "1 Biography",
+      "2 Discography",
+      "2.1 Studio albums",
+      "2.2 EPs",
+      "2.3 Unplugged albums",
+      "3 References",
+      "4 Sources",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "1976 is a Taiwanese band formed in the summer of 1996. The band has published several albums and performed at festivals such as Formoz Festival, Spring Scream, and Urban Simple Life.\n"
+      ]
+   },
    "Biography": {
       "text": [
          "1976 the band was formed in 1996, named \"1976\" because the original members were born mostly in 1976: Zac Chang, Raykai Chen, U-Zen Wang, Shi-Chon Tsai. They were students at that time. The members of 1976 now are Zac Chang (guitar, 張崇偉, nickname 大麻), Raykai Chen (vocal & acoustic guitar, 陳瑞凱, nickname 阿凱), Warren Lin (drums, 林雨霖, nickname 大師兄), and Chouc Lin (bass, 林子喬, nickname 子喬).\n",
@@ -11,27 +27,17 @@
       ]
    },
    "Discography": {
-      "EPs": {},
       "Studio albums": {},
+      "EPs": {},
       "Unplugged albums": {}
    },
-   "External links": {},
    "References": {},
-   "Sections": [
-      "1 Biography",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 EPs",
-      "2.3 Unplugged albums",
-      "3 References",
-      "4 Sources",
-      "5 External links"
-   ],
    "Sources": {},
-   "Summary": {
-      "text": [
-         "1976 is a Taiwanese band formed in the summer of 1996. The band has published several albums and performed at festivals such as Formoz Festival, Spring Scream, and Urban Simple Life.\n"
-      ]
-   },
-   "Title": "1976 (band) - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "1976 is a Taiwanese band formed in the summer of 1996. The band has published several albums and performed at festivals such as Formoz Festival, Spring Scream, and Urban Simple Life.\n",
+      "1976 the band was formed in 1996, named \"1976\" because the original members were born mostly in 1976: Zac Chang, Raykai Chen, U-Zen Wang, Shi-Chon Tsai. They were students at that time. The members of 1976 now are Zac Chang (guitar, 張崇偉, nickname 大麻), Raykai Chen (vocal & acoustic guitar, 陳瑞凱, nickname 阿凱), Warren Lin (drums, 林雨霖, nickname 大師兄), and Chouc Lin (bass, 林子喬, nickname 子喬).\n",
+      "The first album of 1976 \"1976-1\" was published by themselves in 1999. Then their second album ”Sense of direction”(2000) and third album “Encourage with love” (2001) received awards from The Association of Music Workers in Taiwan[citation needed]. The albums were released on Taiwanese indie label Crystal Records[citation needed].\n",
+      "Band members changed over time due to various circumstances such as national service. Between the summers of 2001 and 2003, the band was suspended, and they made their comeback at the Formaz Festival of 2003.\n"
+   ]
 }

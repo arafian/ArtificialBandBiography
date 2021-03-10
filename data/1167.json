@@ -1,11 +1,27 @@
 {
-   "Discography": {
-      "Extended plays": {},
-      "Live / compilation albums": {},
-      "Singles": {},
-      "Studio albums": {}
+   "Name": "Dramarama",
+   "Sections": [
+      "1 History",
+      "1.1 1981–1994",
+      "1.2 1995–2005",
+      "1.3 2006–present",
+      "1.4 Post-Dramarama careers",
+      "2 Discography",
+      "2.1 Studio albums",
+      "2.2 Live / compilation albums",
+      "2.3 Extended plays",
+      "2.4 Singles",
+      "3 Videography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "\n",
+         "Dramarama is an American, New Jersey-based alternative rock/power pop band, who later moved to Los Angeles. The band was formed in New Jersey in 1982 and disbanded in 1994. The band formally reunited in 2003 following an appearance on VH1's Bands Reunited reality show.\n",
+         "Since 1996, an evolving lineup of the band, always fronted by singer/songwriter John Easdale, has been performing in one incarnation or another (initially billed as Easdale solo but usually joined by former Dramarama bandmates), and from then until 2003 played occasional shows in the L.A. area, as well as in New Jersey. However, amid renewed interest since the VH1 Bands Reunited episode in January 2004 and a large-scale appearance at KROQ-FM's annual Inland Invasion festival concert (attended by more than 78,000 fans) in September 2003, Dramarama then toured nationally and released a new, full-length studio CD titled Everybody Dies on October 25, 2005. Fifteen years later, they released their seventh album: Color TV.[1]\n"
+      ]
    },
-   "External links": {},
    "History": {
       "1981–1994": {
          "text": [
@@ -46,29 +62,19 @@
          ]
       }
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 1981–1994",
-      "1.2 1995–2005",
-      "1.3 2006–present",
-      "1.4 Post-Dramarama careers",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Live / compilation albums",
-      "2.3 Extended plays",
-      "2.4 Singles",
-      "3 Videography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "\n",
-         "Dramarama is an American, New Jersey-based alternative rock/power pop band, who later moved to Los Angeles. The band was formed in New Jersey in 1982 and disbanded in 1994. The band formally reunited in 2003 following an appearance on VH1's Bands Reunited reality show.\n",
-         "Since 1996, an evolving lineup of the band, always fronted by singer/songwriter John Easdale, has been performing in one incarnation or another (initially billed as Easdale solo but usually joined by former Dramarama bandmates), and from then until 2003 played occasional shows in the L.A. area, as well as in New Jersey. However, amid renewed interest since the VH1 Bands Reunited episode in January 2004 and a large-scale appearance at KROQ-FM's annual Inland Invasion festival concert (attended by more than 78,000 fans) in September 2003, Dramarama then toured nationally and released a new, full-length studio CD titled Everybody Dies on October 25, 2005. Fifteen years later, they released their seventh album: Color TV.[1]\n"
-      ]
+   "Discography": {
+      "Studio albums": {},
+      "Live / compilation albums": {},
+      "Extended plays": {},
+      "Singles": {}
    },
-   "Title": "Dramarama - Wikipedia",
-   "Videography": {}
+   "Videography": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Dramarama is an American, New Jersey-based alternative rock/power pop band, who later moved to Los Angeles. The band was formed in New Jersey in 1982 and disbanded in 1994. The band formally reunited in 2003 following an appearance on VH1's Bands Reunited reality show.\n",
+      "Since 1996, an evolving lineup of the band, always fronted by singer/songwriter John Easdale, has been performing in one incarnation or another (initially billed as Easdale solo but usually joined by former Dramarama bandmates), and from then until 2003 played occasional shows in the L.A. area, as well as in New Jersey. However, amid renewed interest since the VH1 Bands Reunited episode in January 2004 and a large-scale appearance at KROQ-FM's annual Inland Invasion festival concert (attended by more than 78,000 fans) in September 2003, Dramarama then toured nationally and released a new, full-length studio CD titled Everybody Dies on October 25, 2005. Fifteen years later, they released their seventh album: Color TV.[1]\n",
+      "In 1982, Dramarama formed in the basement of a Wayne, New Jersey, record store owned by founding member Chris Carter.[2] Carter operated the alternative record store Looney Tunez Records (previously known as Dirt Cheap Records). Initially the line-up consisted of; singer/songwriter John Easdale, \"Mr. E Boy\" (Mark Englert) and Carter, later joined by Peter Wood on guitars and Ron Machuga on drums.\n",
+      "The evolution and combined efforts prompted the emergence of the DPW (a local parody named in honor of their home town Department of Public Works) and re-incarnation, \"The F&cks\". The band emerged in North New Jersey at that time where there was a scene with radio station WHTG 106.3 and venues such as The Stone Pony, Green Parrot and Fast Lane featuring other local bands such as  Red House, Smithereens, Whirling Dervishes and The Blases.[3] In 1982, the band released its first single, \"You Drive Me\", attracting some national attention.\n"
+   ]
 }

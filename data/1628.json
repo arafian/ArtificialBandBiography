@@ -1,14 +1,5 @@
 {
-   "Career": {
-      "text": [
-         "Sangre Azul was founded in Pinto, Madrid in 1982 by José Castañosa “Lili” (vocals), J.A. Martin & Carlos Raya (guitars), Julio Díaz (bass), and Luis Santurde (drums).\nThey won the \"Trofeo Rock Villa de Madrid\", a contest for new bands organized by the City Council of Madrid, which allowed them to be featured on a split release with two more bands.\n",
-         "In 1985 the group recorded and released an EP with four songs through an independent company. \nAfter this, vocalist \"Lili\" Castañosa quits the band, being replaced by Tony Solo (ex-Muro). Eventually, their manager secured them a contract with Hispavox, a major Spanish label, subsidiary of EMI Records, with whom they released three studio albums: Obsesión (1987), Cuerpo a cuerpo (1988), and El silencio de la noche (1989).\n",
-         "The group finally disbanded in 1992, due to the lack of support from their company, and the general decline of the melodic hard rock and pop metal style.[4]\nIn 2005, original singer \"Lili\" Castañosa re-activated the group with a different line-up for a few shows.[5]\n"
-      ]
-   },
-   "Discography": {},
-   "External links": {},
-   "References": {},
+   "Name": "Sangre Azul",
    "Sections": [
       "1 Career",
       "2 Discography",
@@ -20,5 +11,20 @@
          "Sangre Azul were a Spanish glam metal[1] / AOR band from Madrid, active from 1982 to 1992. The group had a short-lived reunion in 2005.[2][3]\n"
       ]
    },
-   "Title": "Sangre Azul - Wikipedia"
+   "Career": {
+      "text": [
+         "Sangre Azul was founded in Pinto, Madrid in 1982 by José Castañosa “Lili” (vocals), J.A. Martin & Carlos Raya (guitars), Julio Díaz (bass), and Luis Santurde (drums).\nThey won the \"Trofeo Rock Villa de Madrid\", a contest for new bands organized by the City Council of Madrid, which allowed them to be featured on a split release with two more bands.\n",
+         "In 1985 the group recorded and released an EP with four songs through an independent company. \nAfter this, vocalist \"Lili\" Castañosa quits the band, being replaced by Tony Solo (ex-Muro). Eventually, their manager secured them a contract with Hispavox, a major Spanish label, subsidiary of EMI Records, with whom they released three studio albums: Obsesión (1987), Cuerpo a cuerpo (1988), and El silencio de la noche (1989).\n",
+         "The group finally disbanded in 1992, due to the lack of support from their company, and the general decline of the melodic hard rock and pop metal style.[4]\nIn 2005, original singer \"Lili\" Castañosa re-activated the group with a different line-up for a few shows.[5]\n"
+      ]
+   },
+   "Discography": {},
+   "External links": {},
+   "References": {},
+   "coreData": [
+      "Sangre Azul were a Spanish glam metal[1] / AOR band from Madrid, active from 1982 to 1992. The group had a short-lived reunion in 2005.[2][3]\n",
+      "Sangre Azul was founded in Pinto, Madrid in 1982 by José Castañosa “Lili” (vocals), J.A. Martin & Carlos Raya (guitars), Julio Díaz (bass), and Luis Santurde (drums).\nThey won the \"Trofeo Rock Villa de Madrid\", a contest for new bands organized by the City Council of Madrid, which allowed them to be featured on a split release with two more bands.\n",
+      "In 1985 the group recorded and released an EP with four songs through an independent company. \nAfter this, vocalist \"Lili\" Castañosa quits the band, being replaced by Tony Solo (ex-Muro). Eventually, their manager secured them a contract with Hispavox, a major Spanish label, subsidiary of EMI Records, with whom they released three studio albums: Obsesión (1987), Cuerpo a cuerpo (1988), and El silencio de la noche (1989).\n",
+      "The group finally disbanded in 1992, due to the lack of support from their company, and the general decline of the melodic hard rock and pop metal style.[4]\nIn 2005, original singer \"Lili\" Castañosa re-activated the group with a different line-up for a few shows.[5]\n"
+   ]
 }

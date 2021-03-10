@@ -1,15 +1,22 @@
 {
-   "Discography": {
-      "Albums": {
-         "text": [
-            "\n"
-         ]
-      },
-      "Cassette albums": {},
-      "Compilations": {},
-      "Singles and EPs": {}
+   "Name": "Mommyheads",
+   "Sections": [
+      "1 History",
+      "2 Discography",
+      "2.1 Albums",
+      "2.2 Cassette albums",
+      "2.3 Singles and EPs",
+      "2.4 Compilations",
+      "3 Members",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "The Mommyheads are an indie pop band who played from around 1987 through 1998, disbanded for a decade, and then reformed in 2008.  Starting in New York City as the brainchild of singer Adam Cohen (who later changed his name to Adam Elk to avoid confusion with Leonard Cohen's son, a musician also named Adam), the band produced a string of quirky and highly inventive releases on various independent labels, most notably Simple Machines.  Their music has been compared to XTC. They relocated to San Francisco in 1990.  The band signed to Geffen Records in 1997, producing a single album for the label before breaking up in 1998. They reunited to record a new CD in 2008.\n",
+         "Jan Kotík, the original drummer for the Mommyheads, died on December 13, 2007, after being ill with cancer for three years.\n"
+      ]
    },
-   "External links": {},
    "History": {
       "text": [
          "The first official Mommyheads record, Magumbo Meatpie, was recorded in late 1987. It was released in 1988 on the Sit and Spin label, which was run out of a NYU dorm room. It was produced by Granz Henman, who was attending NYU, and Joseph A. Kim, who was an Ivy League drop-out. The 7\" vinyl EP featured 4 songs that were recorded by Sonic Youth's engineer Wharton Tiers and is now exceedingly rare. Three of the songs later appeared on the Fang records compilation LP Antipop: New York Underground Mix (1988). This Mommyheads was a quartet, listed as \"Adam\" [Cohen], \"Jan\" [Kotik], and \"Jude\" [Reverly] and \"Tom\" [Kotik] on guitar/dulcimer and bass, respectively.\n",
@@ -33,6 +40,16 @@
          "In 2021 , The Mommyheads Re-Released a Remastered Version of \"Coming Into Beauty\" on their own Label in the Us The LP was the 12th most added Record in College Radio the week of Feb 16th with Glide Magazine Proclaiming \"Coming Into Beauty remains the most potent document of the Mommyheads at their most unhinged and daring.\"\n"
       ]
    },
+   "Discography": {
+      "Albums": {
+         "text": [
+            "\n"
+         ]
+      },
+      "Cassette albums": {},
+      "Singles and EPs": {},
+      "Compilations": {}
+   },
    "Members": {
       "text": [
          "(these last two appear only on the \"Magumbo Meatpie\" EP and its \"Antipop\" LP re-release.)\n",
@@ -41,22 +58,11 @@
       ]
    },
    "References": {},
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 Cassette albums",
-      "2.3 Singles and EPs",
-      "2.4 Compilations",
-      "3 Members",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Mommyheads are an indie pop band who played from around 1987 through 1998, disbanded for a decade, and then reformed in 2008.  Starting in New York City as the brainchild of singer Adam Cohen (who later changed his name to Adam Elk to avoid confusion with Leonard Cohen's son, a musician also named Adam), the band produced a string of quirky and highly inventive releases on various independent labels, most notably Simple Machines.  Their music has been compared to XTC. They relocated to San Francisco in 1990.  The band signed to Geffen Records in 1997, producing a single album for the label before breaking up in 1998. They reunited to record a new CD in 2008.\n",
-         "Jan Kotík, the original drummer for the Mommyheads, died on December 13, 2007, after being ill with cancer for three years.\n"
-      ]
-   },
-   "Title": "Mommyheads - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "The Mommyheads are an indie pop band who played from around 1987 through 1998, disbanded for a decade, and then reformed in 2008.  Starting in New York City as the brainchild of singer Adam Cohen (who later changed his name to Adam Elk to avoid confusion with Leonard Cohen's son, a musician also named Adam), the band produced a string of quirky and highly inventive releases on various independent labels, most notably Simple Machines.  Their music has been compared to XTC. They relocated to San Francisco in 1990.  The band signed to Geffen Records in 1997, producing a single album for the label before breaking up in 1998. They reunited to record a new CD in 2008.\n",
+      "Jan Kotík, the original drummer for the Mommyheads, died on December 13, 2007, after being ill with cancer for three years.\n",
+      "The first official Mommyheads record, Magumbo Meatpie, was recorded in late 1987. It was released in 1988 on the Sit and Spin label, which was run out of a NYU dorm room. It was produced by Granz Henman, who was attending NYU, and Joseph A. Kim, who was an Ivy League drop-out. The 7\" vinyl EP featured 4 songs that were recorded by Sonic Youth's engineer Wharton Tiers and is now exceedingly rare. Three of the songs later appeared on the Fang records compilation LP Antipop: New York Underground Mix (1988). This Mommyheads was a quartet, listed as \"Adam\" [Cohen], \"Jan\" [Kotik], and \"Jude\" [Reverly] and \"Tom\" [Kotik] on guitar/dulcimer and bass, respectively.\n",
+      "Their first full-fledged release was Acorn, on Fang Records in 1989, featuring Cohen (vocals, guitar, other instruments), Jan Kotik (drums), and Matt Patrick (vocals, bass), and produced by Chris Rael (of NYC band Church of Betty).  The songwriting was split evenly between Cohen and Patrick. Both of these recordings were released while the band members were still in high school.  Rael's liner notes to the Acorn CD re-release allude to XTC, James Brown, and Pussy Galore as primary musical influences.\n"
+   ]
 }

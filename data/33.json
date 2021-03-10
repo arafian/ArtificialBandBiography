@@ -1,4 +1,9 @@
 {
+   "Name": "Salt Lick/God's Balls",
+   "Sections": [
+      "Summary",
+      "Track listing"
+   ],
    "Summary": {
       "text": [
          "Salt Lick/God's Balls is a CD / cassette-only compilation by the American grunge band TAD. It consists of:\nthe EP Salt Lick;\nthe A-side of the SP55 7‘’ (\"Loser\" b/w \"Cooking with Gas\");\n7 selected tracks (out of 10) from the album God's Balls.\n",
@@ -12,5 +17,11 @@
          "\nSelection from \"God's Balls\"\n\n",
          "\nThe 3 tracks from \"God's Balls\" that didn't make it on this compilation are:\n"
       ]
-   }
+   },
+   "coreData": [
+      "Salt Lick/God's Balls is a CD / cassette-only compilation by the American grunge band TAD. It consists of:\nthe EP Salt Lick;\nthe A-side of the SP55 7‘’ (\"Loser\" b/w \"Cooking with Gas\");\n7 selected tracks (out of 10) from the album God's Balls.\n",
+      "Both records had previously been released in the United States only on vinyl.[2] It is currently out of print.\n",
+      "Salt Lick EP\n\n",
+      "\nSP55 7‘’\n\n"
+   ]
 }

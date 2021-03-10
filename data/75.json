@@ -1,24 +1,5 @@
 {
-   "Discography": {
-      "Compilation albums": {},
-      "Live albums": {},
-      "Singles": {},
-      "Studio albums": {}
-   },
-   "External links": {},
-   "Highlights": {
-      "text": [
-         "Graham Central Station's biggest hit was \"Your Love\", which charted at number 38 in 1975. The group also integrated gospel music into their repertoire, and played with the dichotomy between the funk/rock star image and the \"sanctified\" gospel group image. Some of their recordings feature the Tower of Power horn section.\n",
-         "In 2011, Graham Central Station opened for Prince on Prince's \"Welcome 2 America\" tour.[7]\n"
-      ]
-   },
-   "Members": {},
-   "Origins": {
-      "text": [
-         "The band's origins[4][5][6] date from when Santana guitarist Neal Schon formed the band Azteca in 1972 along with Larry Graham (bass guitar) and Gregg Errico (drums), both from Sly & the Family Stone, and Pete Sears (keyboards), from Hot Tuna and Jefferson Starship. Santana bass guitar player Tom Rutley would move into the bass spot with Azteca. That band, like Santana with heavy Latin influences, would eventually morph into Graham Central Station, while Schon would form Journey. The invention of electric slap bass is attributed by many (including Victor Wooten and Bootsy Collins) to Graham, which influenced many musical genres, such as funk, R&B and disco.\n"
-      ]
-   },
-   "References": {},
+   "Name": "Graham Central Station",
    "Sections": [
       "1 Origins",
       "2 Highlights",
@@ -36,5 +17,30 @@
          "Graham Central Station was an American funk band named after founder Larry Graham (formerly of Sly & the Family Stone). The name is a pun on New York City's Grand Central Terminal, often colloquially called Grand Central Station.\n"
       ]
    },
-   "Title": "Graham Central Station - Wikipedia"
+   "Origins": {
+      "text": [
+         "The band's origins[4][5][6] date from when Santana guitarist Neal Schon formed the band Azteca in 1972 along with Larry Graham (bass guitar) and Gregg Errico (drums), both from Sly & the Family Stone, and Pete Sears (keyboards), from Hot Tuna and Jefferson Starship. Santana bass guitar player Tom Rutley would move into the bass spot with Azteca. That band, like Santana with heavy Latin influences, would eventually morph into Graham Central Station, while Schon would form Journey. The invention of electric slap bass is attributed by many (including Victor Wooten and Bootsy Collins) to Graham, which influenced many musical genres, such as funk, R&B and disco.\n"
+      ]
+   },
+   "Highlights": {
+      "text": [
+         "Graham Central Station's biggest hit was \"Your Love\", which charted at number 38 in 1975. The group also integrated gospel music into their repertoire, and played with the dichotomy between the funk/rock star image and the \"sanctified\" gospel group image. Some of their recordings feature the Tower of Power horn section.\n",
+         "In 2011, Graham Central Station opened for Prince on Prince's \"Welcome 2 America\" tour.[7]\n"
+      ]
+   },
+   "Members": {},
+   "Discography": {
+      "Studio albums": {},
+      "Live albums": {},
+      "Compilation albums": {},
+      "Singles": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Graham Central Station was an American funk band named after founder Larry Graham (formerly of Sly & the Family Stone). The name is a pun on New York City's Grand Central Terminal, often colloquially called Grand Central Station.\n",
+      "The band's origins[4][5][6] date from when Santana guitarist Neal Schon formed the band Azteca in 1972 along with Larry Graham (bass guitar) and Gregg Errico (drums), both from Sly & the Family Stone, and Pete Sears (keyboards), from Hot Tuna and Jefferson Starship. Santana bass guitar player Tom Rutley would move into the bass spot with Azteca. That band, like Santana with heavy Latin influences, would eventually morph into Graham Central Station, while Schon would form Journey. The invention of electric slap bass is attributed by many (including Victor Wooten and Bootsy Collins) to Graham, which influenced many musical genres, such as funk, R&B and disco.\n",
+      "Graham Central Station's biggest hit was \"Your Love\", which charted at number 38 in 1975. The group also integrated gospel music into their repertoire, and played with the dichotomy between the funk/rock star image and the \"sanctified\" gospel group image. Some of their recordings feature the Tower of Power horn section.\n",
+      "In 2011, Graham Central Station opened for Prince on Prince's \"Welcome 2 America\" tour.[7]\n"
+   ]
 }

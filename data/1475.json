@@ -1,4 +1,8 @@
 {
+   "Name": "NYPD Pipes and Drums",
+   "Sections": [
+      "Summary"
+   ],
    "Summary": {
       "text": [
          "The NYPD Pipes and Drums is a Pipe band made up of active and retired police officers of the New York City Police Department (NYPD). It is associated with the Irish American Emerald Society and was formerly known as the Emerald Society's Pipe and Drum Band.[1]\n",
@@ -7,5 +11,11 @@
          "In April, 2002, the band hosted what the London Daily Telegraph described as \"One of the largest invasions of pipers and drummers that the world has seen,\" as a 9/11 memorial.  Pipe and drum bands from 26 countries numbering thousands of musicians marched down New York's Sixth Avenue.[10]\n",
          "In 1986, the NYPD Pipes and Drums decided not to participate in a commemoration of the 1981 Irish hunger strike by supporters of the Irish Republican Army held in Bundoran, just across the border from Northern Ireland, on 31 August 1986. Some band members attended privately.[11][12]\n"
       ]
-   }
+   },
+   "coreData": [
+      "The NYPD Pipes and Drums is a Pipe band made up of active and retired police officers of the New York City Police Department (NYPD). It is associated with the Irish American Emerald Society and was formerly known as the Emerald Society's Pipe and Drum Band.[1]\n",
+      "Formed in 1960, the NYPD Pipes and Drums was one of the first Police Pipe bands to form in the United States.  Sergeant Finbar Devine was drum major from 1960 - 1995.[2] It is an annual participant in the St. Patrick's day parade on Fifth Avenue in New York City and the Inaugural parade in Washington.[3] It has historically played for Popes and Presidents, and city officials. In 2017, it performed at the United States presidential inauguration parade for President Donald Trump.[4] In addition, the Band has appeared on numerous television shows and movies including The Rosie O'Donnell Show, the Today Show and Late Night With David Letterman. The band also maintains a color guard. The bandmaster of the pipes and drums is Detective Kevin McDonough.[5][6][7][8]\n",
+      "The NYPD is regarded as one of the foremost American police department pipe and drum bands, the Pittsburgh Post-Gazette, described the 95-member band in 2005 as the band that, \"sets the standard nationwide.\"[9]\n",
+      "In April, 2002, the band hosted what the London Daily Telegraph described as \"One of the largest invasions of pipers and drummers that the world has seen,\" as a 9/11 memorial.  Pipe and drum bands from 26 countries numbering thousands of musicians marched down New York's Sixth Avenue.[10]\n"
+   ]
 }

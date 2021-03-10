@@ -1,4 +1,22 @@
 {
+   "Name": "OXES",
+   "Sections": [
+      "1 Biography",
+      "1.1 Live shows",
+      "1.2 The OXES/Arab on Radar split 10\"",
+      "1.3 The Old Navy t-shirt fiasco",
+      "2 Members",
+      "3 Discography",
+      "4 See also",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
+      "text": [
+         "OXES is an American instrumental rock band from Baltimore, Maryland, United States. Its music has been called math rock or post-punk.\n",
+         "'OXES' is a part of what is known as \"The Baltimore Rowdy Collective\" which stages practical jokes, usually involving a confrontational and outlandish racket in public places. These happenings are comparable to the Lettrist scandals and Luther Blissett.\n"
+      ]
+   },
    "Biography": {
       "Live shows": {
          "text": [
@@ -21,27 +39,15 @@
          ]
       }
    },
-   "Discography": {},
-   "External links": {},
    "Members": {},
-   "References": {},
-   "Sections": [
-      "1 Biography",
-      "1.1 Live shows",
-      "1.2 The OXES/Arab on Radar split 10\"",
-      "1.3 The Old Navy t-shirt fiasco",
-      "2 Members",
-      "3 Discography",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
+   "Discography": {},
    "See also": {},
-   "Summary": {
-      "text": [
-         "OXES is an American instrumental rock band from Baltimore, Maryland, United States. Its music has been called math rock or post-punk.\n",
-         "'OXES' is a part of what is known as \"The Baltimore Rowdy Collective\" which stages practical jokes, usually involving a confrontational and outlandish racket in public places. These happenings are comparable to the Lettrist scandals and Luther Blissett.\n"
-      ]
-   },
-   "Title": "OXES - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "OXES is an American instrumental rock band from Baltimore, Maryland, United States. Its music has been called math rock or post-punk.\n",
+      "'OXES' is a part of what is known as \"The Baltimore Rowdy Collective\" which stages practical jokes, usually involving a confrontational and outlandish racket in public places. These happenings are comparable to the Lettrist scandals and Luther Blissett.\n",
+      "In all of the band's early performances, guitarists Marc Miller and Natalio Fowler both stood on large black boxes (or pedestals) towering over the audiences, a nod to the superiority complexes of rock bands. They would occasionally step down from the boxes to walk into the audience and stand in front of individuals in the crowd (while still playing) in an attempt to make them feel uncomfortable. This was later aided by the much self-publicized acquisition of wireless guitars. Drummer Christopher Freeland would intermittently get up from his set and barge around the stage, mumbling incoherent babble, only to sit back down and lunge into another song. Miller and Fowler are noted for having the birth and death dates of Jimi Hendrix respectively. \n",
+      "While the band retained its use of the large black boxes and wireless guitars, its later shows were marked by lesser accepted ideas of showmanship. However, they still maintain a certain level of audacious and silly stage presence. After their 2002 South by Southwest performance, Entertainment Weekly named them the \"Blue Man Group of rock.\"\n"
+   ]
 }

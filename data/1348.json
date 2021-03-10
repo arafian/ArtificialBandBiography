@@ -1,4 +1,16 @@
 {
+   "Name": "Zones (band)",
+   "Sections": [
+      "1 Career",
+      "2 Discography",
+      "3 See also",
+      "4 References"
+   ],
+   "Summary": {
+      "text": [
+         "Zones were a Scottish power pop and new wave band founded in late 1977,[1] following the demise of PVC2 (formerly the bubbleglam and soft rock band Slik).\n"
+      ]
+   },
    "Career": {
       "text": [
          "PVC2 consisted of Midge Ure (future Ultravox frontman) on guitar, Russell Webb on bass, Billy McIsaac on keyboards and Kenny Hyslop on drums. In late 1977, Ure left PVC2 to join Rich Kids with Glen Matlock. Then, Webb, Hyslop and McIsaac called in Alex Harvey's cousin Willie Gardner to replace Ure on guitar and vocals, and Zones was formed.\n",
@@ -11,18 +23,12 @@
       ]
    },
    "Discography": {},
-   "References": {},
-   "Sections": [
-      "1 Career",
-      "2 Discography",
-      "3 See also",
-      "4 References"
-   ],
    "See also": {},
-   "Summary": {
-      "text": [
-         "Zones were a Scottish power pop and new wave band founded in late 1977,[1] following the demise of PVC2 (formerly the bubbleglam and soft rock band Slik).\n"
-      ]
-   },
-   "Title": "Zones (band) - Wikipedia"
+   "References": {},
+   "coreData": [
+      "Zones were a Scottish power pop and new wave band founded in late 1977,[1] following the demise of PVC2 (formerly the bubbleglam and soft rock band Slik).\n",
+      "PVC2 consisted of Midge Ure (future Ultravox frontman) on guitar, Russell Webb on bass, Billy McIsaac on keyboards and Kenny Hyslop on drums. In late 1977, Ure left PVC2 to join Rich Kids with Glen Matlock. Then, Webb, Hyslop and McIsaac called in Alex Harvey's cousin Willie Gardner to replace Ure on guitar and vocals, and Zones was formed.\n",
+      "In February 1978, Zones released a single \"Stuck with You\",[2] which attracted the attention of BBC Radio 1 DJ John Peel, leading to the band recording a session for his show.[3] It also drew the attention of Arista Records, who signed them and would release the rest of their discography.\n",
+      "Their next single, \"Sign of the Times\", released in July.[4] Zones also toured with Magazine and recorded a further session for John Peel.[5] On 1 June 1979, Zones released Under Influence,[6][7][8] an album of post-punk power pop.\n"
+   ]
 }

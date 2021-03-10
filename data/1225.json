@@ -1,16 +1,27 @@
 {
-   "Band members": {
-      "Current": {},
-      "Former": {}
+   "Name": "London (heavy metal band)",
+   "Sections": [
+      "1 History",
+      "1.1 Original late-1970s band",
+      "1.2 Second era: 1984–early 1990s",
+      "1.3 Third era: 2010–present",
+      "2 Band members",
+      "2.1 Current",
+      "2.2 Former",
+      "3 Discography",
+      "3.1 Studio albums",
+      "3.2 Compilations",
+      "3.3 Live albums",
+      "3.4 Singles, EPs",
+      "3.5 Compilation appearances",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "London is an American heavy metal band formed in Hollywood, California in 1978. The band included several members that would go on to play in more famous bands, such as Mötley Crüe, Guns N' Roses, W.A.S.P. and Cinderella.\n"
+      ]
    },
-   "Discography": {
-      "Compilation appearances": {},
-      "Compilations": {},
-      "Live albums": {},
-      "Singles, EPs": {},
-      "Studio albums": {}
-   },
-   "External links": {},
    "History": {
       "Original late-1970s band": {
          "text": [
@@ -42,28 +53,23 @@
          ]
       }
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Original late-1970s band",
-      "1.2 Second era: 1984–early 1990s",
-      "1.3 Third era: 2010–present",
-      "2 Band members",
-      "2.1 Current",
-      "2.2 Former",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 Compilations",
-      "3.3 Live albums",
-      "3.4 Singles, EPs",
-      "3.5 Compilation appearances",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "London is an American heavy metal band formed in Hollywood, California in 1978. The band included several members that would go on to play in more famous bands, such as Mötley Crüe, Guns N' Roses, W.A.S.P. and Cinderella.\n"
-      ]
+   "Band members": {
+      "Current": {},
+      "Former": {}
    },
-   "Title": "London (heavy metal band) - Wikipedia"
+   "Discography": {
+      "Studio albums": {},
+      "Compilations": {},
+      "Live albums": {},
+      "Singles, EPs": {},
+      "Compilation appearances": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "London is an American heavy metal band formed in Hollywood, California in 1978. The band included several members that would go on to play in more famous bands, such as Mötley Crüe, Guns N' Roses, W.A.S.P. and Cinderella.\n",
+      "London was formed in 1978 by Lizzie Grey, Nikki Sixx and Dane Rage (real name Dane Scarborough). The three met when Sixx and Rage were recruited to play bass and drums for Sister, the band that Grey was in with Blackie Lawless. This lineup did not last long and soon Grey, Sixx and Rage left to form London.[1][2]\n",
+      "London was briefly joined by Michael White as the vocalist, who bore a resemblance, both in voice and image, to Robert Plant.[3] After disagreements with the band, White left to focus on his own band, The White.[3] For years, London tried to get a record deal, but the formula was not working until 1984, when Nadir D'Priest and Brian West joined the band.\n",
+      "By 1979, White had been replaced by vocalist Henri Valentine and keyboard player John St. John. Nigel Benjamin, an English vocalist who had sung for glam rock band Mott (formerly Mott the Hoople[4]) and English Assassin, joined the band after Valentine left.[2] Henri Valentine has since died.  Nigel Benjamin died in 2019, aged 64.[5]\n"
+   ]
 }

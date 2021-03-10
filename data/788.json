@@ -1,39 +1,5 @@
 {
-   "Band members": {
-      "Current": {},
-      "Former": {
-         "Bassists": {
-            "text": [
-               "\n"
-            ]
-         },
-         "Drummers": {
-            "text": [
-               "\n"
-            ]
-         },
-         "Vocalist": {
-            "text": [
-               "\n"
-            ]
-         }
-      },
-      "Timeline": {}
-   },
-   "Discography": {},
-   "External links": {},
-   "History": {
-      "text": [
-         "Engel released their debut album Absolute Design through SPV GmbH/Steamhammer on October 31, 2007. The album was released in North America on May 20, 2008.[2]\n",
-         "Their second album, Threnody, was finished by the end of 2008, but due to issues with their former label, SPV GmbH, the release was delayed. On April 7, 2010, Threnody was released in Japan through Trooper Entertainment. The album was released on the music streaming service Spotify on November 8, 2010, and in Europe on the same date, through Season of Mist. Threnody was released in North America on January 11, 2011, also through Season of Mist.\n",
-         "Their third album, Blood of Saints, was released in Japan on April 15, 2012, through Trooper Entertainment. It was later released in Europe on May 18, 2012, and in the United States through Frostbyte on September 25, 2012.[3]\n",
-         "On April 18, 2006, Robert Hakemo was replaced by Johan Andreassen.[4] On August 5, 2006, Michael Håkansson became the new bass player.[5] On August 14, 2008, Håkansson left the band to pursue other opportunities. Steve Drennan (Amon Amarth) took over playing bass during November 2008. During 2010, the band replaced their drummer, Daniel \"Mojjo\" Moilanen with Jimmy Olausson, who also plays drums for Marionette. In June 2014, Jimmy Olausson decided to quit the band and was replaced with Oscar Nilsson.[6]\n",
-         "In mid-2012, Engel performed at several festivals in Europe, and led their first headlining tour, also in Europe. In late 2012, Engel toured Sweden and Finland.[citation needed]\n",
-         "Engel recorded its fourth album in Creahate Studios in mid-2014.[7] which was released on November 26, 2014 [8] through Gain Music/Sony in Europe and on January 27, 2015 in US and Canada. A video for the opening track Salvation was also released at the same time.[9]\n",
-         "The band has shared the stage with Still Remains,[10] and toured Europe with Amon Amarth and Dimmu Borgir.[11] They were also part of Paradise Lost's \"Faith Divides Us - Death Unites Us\" tour, along with Katatonia[12] and Samael.\n"
-      ]
-   },
-   "References": {},
+   "Name": "Engel (band)",
    "Sections": [
       "1 History",
       "2 Band members",
@@ -52,5 +18,45 @@
          "Engel is a Swedish metal band from Gothenburg, Sweden. They are currently signed to Gain Records/Sony.\n"
       ]
    },
-   "Title": "Engel (band) - Wikipedia"
+   "History": {
+      "text": [
+         "Engel released their debut album Absolute Design through SPV GmbH/Steamhammer on October 31, 2007. The album was released in North America on May 20, 2008.[2]\n",
+         "Their second album, Threnody, was finished by the end of 2008, but due to issues with their former label, SPV GmbH, the release was delayed. On April 7, 2010, Threnody was released in Japan through Trooper Entertainment. The album was released on the music streaming service Spotify on November 8, 2010, and in Europe on the same date, through Season of Mist. Threnody was released in North America on January 11, 2011, also through Season of Mist.\n",
+         "Their third album, Blood of Saints, was released in Japan on April 15, 2012, through Trooper Entertainment. It was later released in Europe on May 18, 2012, and in the United States through Frostbyte on September 25, 2012.[3]\n",
+         "On April 18, 2006, Robert Hakemo was replaced by Johan Andreassen.[4] On August 5, 2006, Michael Håkansson became the new bass player.[5] On August 14, 2008, Håkansson left the band to pursue other opportunities. Steve Drennan (Amon Amarth) took over playing bass during November 2008. During 2010, the band replaced their drummer, Daniel \"Mojjo\" Moilanen with Jimmy Olausson, who also plays drums for Marionette. In June 2014, Jimmy Olausson decided to quit the band and was replaced with Oscar Nilsson.[6]\n",
+         "In mid-2012, Engel performed at several festivals in Europe, and led their first headlining tour, also in Europe. In late 2012, Engel toured Sweden and Finland.[citation needed]\n",
+         "Engel recorded its fourth album in Creahate Studios in mid-2014.[7] which was released on November 26, 2014 [8] through Gain Music/Sony in Europe and on January 27, 2015 in US and Canada. A video for the opening track Salvation was also released at the same time.[9]\n",
+         "The band has shared the stage with Still Remains,[10] and toured Europe with Amon Amarth and Dimmu Borgir.[11] They were also part of Paradise Lost's \"Faith Divides Us - Death Unites Us\" tour, along with Katatonia[12] and Samael.\n"
+      ]
+   },
+   "Band members": {
+      "Current": {},
+      "Former": {
+         "Vocalist": {
+            "text": [
+               "\n"
+            ]
+         },
+         "Drummers": {
+            "text": [
+               "\n"
+            ]
+         },
+         "Bassists": {
+            "text": [
+               "\n"
+            ]
+         }
+      },
+      "Timeline": {}
+   },
+   "Discography": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Engel is a Swedish metal band from Gothenburg, Sweden. They are currently signed to Gain Records/Sony.\n",
+      "Engel released their debut album Absolute Design through SPV GmbH/Steamhammer on October 31, 2007. The album was released in North America on May 20, 2008.[2]\n",
+      "Their second album, Threnody, was finished by the end of 2008, but due to issues with their former label, SPV GmbH, the release was delayed. On April 7, 2010, Threnody was released in Japan through Trooper Entertainment. The album was released on the music streaming service Spotify on November 8, 2010, and in Europe on the same date, through Season of Mist. Threnody was released in North America on January 11, 2011, also through Season of Mist.\n",
+      "Their third album, Blood of Saints, was released in Japan on April 15, 2012, through Trooper Entertainment. It was later released in Europe on May 18, 2012, and in the United States through Frostbyte on September 25, 2012.[3]\n"
+   ]
 }

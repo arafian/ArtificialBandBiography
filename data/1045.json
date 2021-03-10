@@ -1,4 +1,8 @@
 {
+   "Name": "Twiddle (band)",
+   "Sections": [
+      "Summary"
+   ],
    "Summary": {
       "text": [
          "Twiddle is an American rock band.  They are a jam band, and utilize instrumental improvisation in their live performances.  They incorporate influences from a variety of music genres, including rock, jazz, bluegrass, reggae, and funk.[1][2][3][4]\n",
@@ -6,5 +10,11 @@
          "Twiddle hold an annual festival called Tumble Down at Burlington Waterfront Park.[6][7][8][9]\n",
          "On April 20, 2018 Twiddle appeared on The Dan Patrick Show and was announced as the \"house band\".[10]\n"
       ]
-   }
+   },
+   "coreData": [
+      "Twiddle is an American rock band.  They are a jam band, and utilize instrumental improvisation in their live performances.  They incorporate influences from a variety of music genres, including rock, jazz, bluegrass, reggae, and funk.[1][2][3][4]\n",
+      "Twiddle formed at Castleton State College in Vermont in 2004. The members of the band are Mihali Savoulidis (guitar, vocals), Ryan Dempsey (keyboards, vocals), Zdenek Gubb (bass, vocals), and Brook Jordan (drums, percussion, vocals).[5]\n",
+      "Twiddle hold an annual festival called Tumble Down at Burlington Waterfront Park.[6][7][8][9]\n",
+      "On April 20, 2018 Twiddle appeared on The Dan Patrick Show and was announced as the \"house band\".[10]\n"
+   ]
 }

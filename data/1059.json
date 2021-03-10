@@ -1,5 +1,18 @@
 {
-   "Discography": {},
+   "Name": "Reva L'Sheva",
+   "Sections": [
+      "1 Members",
+      "2 Musical style",
+      "3 Discography",
+      "4 See also",
+      "5 References"
+   ],
+   "Summary": {
+      "text": [
+         "Reva L'Sheva (Hebrew: רבע לשבע‎, \"a quarter to seven\") was an Israeli Jewish rock band formed in 1994 by lead singer Yehudah Katz.[1][2]\n",
+         "They released six studio albums before disbanding around 2006. On January 7, 2014, the band performed at Zappa Jerusalem, their first show in seven years, and stated that they were open to recording another album together.[3]\n"
+      ]
+   },
    "Members": {
       "text": [
          "The original line-up was Yehudah Katz, David \"Harpo\" Abramson, Adam Wexler, Zvi Yechezkeli and Avi Yishai.\n"
@@ -10,20 +23,13 @@
          "The band is heavily influenced by 1970s rock and roll groups such as the Grateful Dead, Bob Dylan, and by Jewish artists such as Carlebach.[2]\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 Members",
-      "2 Musical style",
-      "3 Discography",
-      "4 See also",
-      "5 References"
-   ],
+   "Discography": {},
    "See also": {},
-   "Summary": {
-      "text": [
-         "Reva L'Sheva (Hebrew: רבע לשבע‎, \"a quarter to seven\") was an Israeli Jewish rock band formed in 1994 by lead singer Yehudah Katz.[1][2]\n",
-         "They released six studio albums before disbanding around 2006. On January 7, 2014, the band performed at Zappa Jerusalem, their first show in seven years, and stated that they were open to recording another album together.[3]\n"
-      ]
-   },
-   "Title": "Reva L'Sheva - Wikipedia"
+   "References": {},
+   "coreData": [
+      "Reva L'Sheva (Hebrew: רבע לשבע‎, \"a quarter to seven\") was an Israeli Jewish rock band formed in 1994 by lead singer Yehudah Katz.[1][2]\n",
+      "They released six studio albums before disbanding around 2006. On January 7, 2014, the band performed at Zappa Jerusalem, their first show in seven years, and stated that they were open to recording another album together.[3]\n",
+      "The original line-up was Yehudah Katz, David \"Harpo\" Abramson, Adam Wexler, Zvi Yechezkeli and Avi Yishai.\n",
+      "The band is heavily influenced by 1970s rock and roll groups such as the Grateful Dead, Bob Dylan, and by Jewish artists such as Carlebach.[2]\n"
+   ]
 }

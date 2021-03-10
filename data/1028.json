@@ -1,10 +1,19 @@
 {
-   "Discography": {
-      "Compilations/EPs/others": {},
-      "Live albums": {},
-      "Studio albums": {}
+   "Name": "The Samples",
+   "Sections": [
+      "1 History",
+      "2 Discography",
+      "2.1 Studio albums",
+      "2.2 Live albums",
+      "2.3 Compilations/EPs/others",
+      "3 References",
+      "4 External links"
+   ],
+   "Summary": {
+      "text": [
+         "The Samples is an American rock band formed in Boulder, Colorado in 1987. The band's name came from the members' early sustenance of food samples from the local King Soopers grocery store.[1]  The music has been described as \"reggae influenced rock/pop\" and a cross between The Police and the Grateful Dead.[2]  The founding members were Sean Kelly (Guitar/Vocals), Charles Hambleton (Guitar), Andy Sheldon (Bass/Vocals), Jeep MacNichol (Drums/Vocals), and Al Laughlin (Keyboards/Vocals).\n"
+      ]
    },
-   "External links": {},
    "History": {
       "text": [
          "Singer/songwriter Sean Kelly and guitarist Charles Hambleton met in 1985 in Burlington, Vermont at an open mic called The Sheik, leading to the formation of the band Secret City in 1986.[3]  After playing together in Burlington for a year, the pair moved to Boulder, CO and met up with Andy Sheldon, a friend and member of a prior band with Kelly. Jeep MacNichol joined the band as drummer after responding to an ad. After playing around the area, Al Laughlin saw the group perform at a frat party and asked if the group needed a keyboardist, an offer the band accepted.[4] The band played their first show in Colorado on April 19, 1987 at Tulagi's, a Boulder venue. Later that year, the band recorded a demo album on cassette that was never officially released. The recording of \"Moonlit Treese\" made it onto the Underwater People EP, while several other tracks can be found online.[5]\n",
@@ -20,20 +29,17 @@
          "On December 12, 2014, the original lineup of The Samples reunited for the second time at the Fillmore Auditorium in Denver, CO. The band played their self-titled debut album in its entirety, along with a second set of fan favorites.[15]\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Live albums",
-      "2.3 Compilations/EPs/others",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Samples is an American rock band formed in Boulder, Colorado in 1987. The band's name came from the members' early sustenance of food samples from the local King Soopers grocery store.[1]  The music has been described as \"reggae influenced rock/pop\" and a cross between The Police and the Grateful Dead.[2]  The founding members were Sean Kelly (Guitar/Vocals), Charles Hambleton (Guitar), Andy Sheldon (Bass/Vocals), Jeep MacNichol (Drums/Vocals), and Al Laughlin (Keyboards/Vocals).\n"
-      ]
+   "Discography": {
+      "Studio albums": {},
+      "Live albums": {},
+      "Compilations/EPs/others": {}
    },
-   "Title": "The Samples - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Samples is an American rock band formed in Boulder, Colorado in 1987. The band's name came from the members' early sustenance of food samples from the local King Soopers grocery store.[1]  The music has been described as \"reggae influenced rock/pop\" and a cross between The Police and the Grateful Dead.[2]  The founding members were Sean Kelly (Guitar/Vocals), Charles Hambleton (Guitar), Andy Sheldon (Bass/Vocals), Jeep MacNichol (Drums/Vocals), and Al Laughlin (Keyboards/Vocals).\n",
+      "Singer/songwriter Sean Kelly and guitarist Charles Hambleton met in 1985 in Burlington, Vermont at an open mic called The Sheik, leading to the formation of the band Secret City in 1986.[3]  After playing together in Burlington for a year, the pair moved to Boulder, CO and met up with Andy Sheldon, a friend and member of a prior band with Kelly. Jeep MacNichol joined the band as drummer after responding to an ad. After playing around the area, Al Laughlin saw the group perform at a frat party and asked if the group needed a keyboardist, an offer the band accepted.[4] The band played their first show in Colorado on April 19, 1987 at Tulagi's, a Boulder venue. Later that year, the band recorded a demo album on cassette that was never officially released. The recording of \"Moonlit Treese\" made it onto the Underwater People EP, while several other tracks can be found online.[5]\n",
+      "The Samples embarked on their first national tour in the summer of 1988 and gradually gained attention. The band played mostly to college audiences and allowed their music to be spread through bootlegging and taping. Fans in college towns formed street teams to distribute the band's music and help them get shows by popular demand. Their debut self-titled album The Samples was independently recorded with producer Walt Beery and was released independently in early 1989. The album combined reggae, pop-rock, and bluegrass with a tight and polished sound that was often compared to The Police. Following the release, they signed with Arista Records and re-released the same album in May. However, the band found itself at odds with Arista's personnel, who neglected to market their debut album and wanted to change their sound. After an unproductive studio session with an outside producer hired by the label, band terminated their contract with Arista in the fall of 1991 and continued to tour unsigned. Also that year, Hambleton departed the band. He would later appear in Pirates of the Caribbean and was associate producer of the film The Cove.[6]\n",
+      "The Samples continued to tour and released their own self-published EP, Underwater People, composed of both studio-recorded and live tracks. The band soon joined the newly formed independent label, W.A.R.? - What Are Records? and released No Room in 1992. The album was produced by Jim Scott and showed the band's continuing growth as songwriters and musicians. Many of the songs on No Room became their most well-known, including \"When it's Raining\", \"Did Ya Ever Look So Nice\", and \"Taking Us Home\". The album's sound combined pop sensibility with a mix of folk, reggae, jazz, and rock that would become their signature. Sean Kelly, as the main songwriter, wrote songs about nature and the environment giving the band an \"eco-friendly\" reputation. Sheldon's thumping bass, MacNichol's Stewart Copeland-inspired beats and Laughlin's off-beat reggae chords supported Kelly's inspired songwriting and Sting-like vocals. They became a success throughout the early 1990s, selling over one million copies of their catalogue based on a genuine grassroots campaign. Their live shows helped them on the college circuit selling out venues in college towns across the country.\n"
+   ]
 }

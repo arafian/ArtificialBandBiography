@@ -1,4 +1,15 @@
 {
+   "Name": "Startisan",
+   "Sections": [
+      "Summary",
+      "History"
+   ],
+   "Summary": {
+      "text": [
+         "Startisan, formerly known as Streamline, is an American rock band originally from Rochester, New York. They have released two independent EPs. The band consists of Mike Hogan, Jon Scholl, Andrew Gaultier, Chris Jones, and Buck Langston. Brian Ireland, John Viavattine, Derek DeBlieux, and Brad Ourso are former members. After a stint in Los Angeles, California, Startisan now officially operates from Baton Rouge, Louisiana.\n",
+         "Startisan has played with bands including Switchfoot, Daughtry, Theory Of A Deadman, Seether, and Gavin DeGraw.\n"
+      ]
+   },
    "History": {
       "text": [
          "Streamline began in Rochester in 2003 with vocalist/guitarist Mike Hogan and keyboardist Jon Scholl. The two were later joined by bassist John Viavattine and the group eventually moved to Los Angeles.\n",
@@ -12,10 +23,10 @@
          "As of January 5, 2011 Streamline has changed their name to Startisan and is planning on releasing a full-length album.\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "Startisan, formerly known as Streamline, is an American rock band originally from Rochester, New York. They have released two independent EPs. The band consists of Mike Hogan, Jon Scholl, Andrew Gaultier, Chris Jones, and Buck Langston. Brian Ireland, John Viavattine, Derek DeBlieux, and Brad Ourso are former members. After a stint in Los Angeles, California, Startisan now officially operates from Baton Rouge, Louisiana.\n",
-         "Startisan has played with bands including Switchfoot, Daughtry, Theory Of A Deadman, Seether, and Gavin DeGraw.\n"
-      ]
-   }
+   "coreData": [
+      "Startisan, formerly known as Streamline, is an American rock band originally from Rochester, New York. They have released two independent EPs. The band consists of Mike Hogan, Jon Scholl, Andrew Gaultier, Chris Jones, and Buck Langston. Brian Ireland, John Viavattine, Derek DeBlieux, and Brad Ourso are former members. After a stint in Los Angeles, California, Startisan now officially operates from Baton Rouge, Louisiana.\n",
+      "Startisan has played with bands including Switchfoot, Daughtry, Theory Of A Deadman, Seether, and Gavin DeGraw.\n",
+      "Streamline began in Rochester in 2003 with vocalist/guitarist Mike Hogan and keyboardist Jon Scholl. The two were later joined by bassist John Viavattine and the group eventually moved to Los Angeles.\n",
+      "It was in Los Angeles that Streamline met veteran drummer Brian Ireland of Something Corporate. Ireland was arriving at the studio for the first day of recording drum tracks for former Something Corporate guitarist William Tell's 2007 debut album, You Can Hold Me Down, when he ran into Hogan and Scholl, who were leaving the same studio. In a 2008 interview, Ireland said, \"They knew who I was. Later they phoned me at the studio and asked if I would sit in and do a drumming session ... It was for 'All I Need.' I was so impressed with them. They are great players and have a real sensibility for music.\"[1] Ireland recorded the track with the group and in December 2006, it was announced that he would be joining the band's official line-up.\n"
+   ]
 }

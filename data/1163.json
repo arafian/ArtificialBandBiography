@@ -1,4 +1,14 @@
 {
+   "Name": "Dia de los Muertos (band)",
+   "Sections": [
+      "Summary",
+      "History"
+   ],
+   "Summary": {
+      "text": [
+         "Dia de los Muertos is an American metal band, formed in Los Angeles, California, United States, in 2005.\n"
+      ]
+   },
    "History": {
       "text": [
          "The band was founded by Andres Jaramillo and Alfonso Pinzón of Agony,[1] and Vincent Price of Body Count, as a side project. Since they could not find an official singer for the band, they asked a few musicians to write lyrics and record vocals over their music.\n",
@@ -9,9 +19,10 @@
          "DDLM was scheduled to perform at Hell & Heaven Metal Fest 2014 in Mexico City, and \"No Money - No Fiesta\", the band's second EP, was released on May 2014.[11] A video by feature film and music video director Thomas Mignone was shot for the track \"Cantina Del Infierno\" in Los Angeles, featuring Morbid Angel vocalist David Vincent as the \"El Diablo\" character and an appearance by Metal Sanaz.\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "Dia de los Muertos is an American metal band, formed in Los Angeles, California, United States, in 2005.\n"
-      ]
-   }
+   "coreData": [
+      "Dia de los Muertos is an American metal band, formed in Los Angeles, California, United States, in 2005.\n",
+      "The band was founded by Andres Jaramillo and Alfonso Pinzón of Agony,[1] and Vincent Price of Body Count, as a side project. Since they could not find an official singer for the band, they asked a few musicians to write lyrics and record vocals over their music.\n",
+      "Their first release Day Of The Dead EP was recorded at Dungeon Studios in Los Angeles,[2] mixed by Roy Z and released on Cinismo records in 2005, featuring vocals by Tony Campos (Static X, Asesino, Ministry, Prong - also known as Maldito X), Andres Gimenez (A.N.I.M.A.L.), Loana dP Valencia (Dreams Of Damnation), Alex Oquendo (Masacre), Alfonso Pinzón and Vincent Price.[3] Dia De Los Muertos performed at the world's largest 'free of charge' rock festival Rock Al Parque in 2006 with Fear Factory and Death By Stereo.[4]\n",
+      "The latest album Satanico-Dramatico was released electronically for free on March, 2011, featuring Adrian Villanueva (Engrave) on guitar, Alejandro Corredor (Sin Salida, El Sagrado) on Bass, once again mixed by Roy Z, guests vocals by Jeff Walker, Maldito X, Scott Carlson, Anton Reisenegger, Andres Gimenez, Boris Bonillo and a special appearance from Jonny Coffin on guitar in the instrumental title-track.[5]\n"
+   ]
 }

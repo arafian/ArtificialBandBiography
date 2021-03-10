@@ -1,24 +1,5 @@
 {
-   "Awards": {
-      "Dove Award nominations": {}
-   },
-   "Discography": {
-      "Albums": {},
-      "Singles": {}
-   },
-   "External links": {},
-   "Members": {
-      "text": [
-         "Current\n",
-         "Former\n"
-      ]
-   },
-   "Musical career": {
-      "text": [
-         "Starting up as a small band in Alabama, Rush of Fools had only played for a short time before entering a contest called \"Band with a Mission\". Winning the contest,[3] they received attention from record labels, including Midas Records, with whom Rush of Fools soon recorded and released their self-titled debut album.[4]\n"
-      ]
-   },
-   "References": {},
+   "Name": "Rush of Fools",
    "Sections": [
       "1 Musical career",
       "2 Members",
@@ -37,5 +18,30 @@
          "For their third album, the band changed to the record label eOne Christian Music. The album is titled We Once Were and was released on September 27, 2011. The lead single, \"Grace Found Me\" was released on June 24, 2011.\n"
       ]
    },
-   "Title": "Rush of Fools - Wikipedia"
+   "Musical career": {
+      "text": [
+         "Starting up as a small band in Alabama, Rush of Fools had only played for a short time before entering a contest called \"Band with a Mission\". Winning the contest,[3] they received attention from record labels, including Midas Records, with whom Rush of Fools soon recorded and released their self-titled debut album.[4]\n"
+      ]
+   },
+   "Members": {
+      "text": [
+         "Current\n",
+         "Former\n"
+      ]
+   },
+   "Discography": {
+      "Albums": {},
+      "Singles": {}
+   },
+   "Awards": {
+      "Dove Award nominations": {}
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Rush of Fools is an American Christian rock/contemporary Christian music band from Birmingham, Alabama. They are known  for their 2007 hit single \"Undo\", co-written with producer Scott Davis, which was the most played song of 2007 on Adult Contemporary Christian Music radio stations according to R&R magazine.[1] It was the No. 1 Christian song for five consecutive weeks from June 4 to July 2, 2007 on 20 The Countdown Magazine's charts. Their second single \"When Our Hearts Sing\" was the seventh most played song of 2007.[1] The band's name was taken from the Biblical passage, 1 Corinthians 1:26-31.[2]\n",
+      "The band's second album, Wonder of the World, was released on September 16, 2008. It features their hit song \"Lose it All\".\n",
+      "For their third album, the band changed to the record label eOne Christian Music. The album is titled We Once Were and was released on September 27, 2011. The lead single, \"Grace Found Me\" was released on June 24, 2011.\n",
+      "Starting up as a small band in Alabama, Rush of Fools had only played for a short time before entering a contest called \"Band with a Mission\". Winning the contest,[3] they received attention from record labels, including Midas Records, with whom Rush of Fools soon recorded and released their self-titled debut album.[4]\n"
+   ]
 }

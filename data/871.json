@@ -1,4 +1,18 @@
 {
+   "Name": "Grails (band)",
+   "Sections": [
+      "1 Biography",
+      "1.1 Side projects",
+      "2 Equipment",
+      "3 Discography",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Formed in 1999, Grails is an American instrumental experimental rock band. Based in Portland, Oregon, the group have released seven studio albums, on labels including Southern and Temporary Residence, and have toured across North America and Europe.\n"
+      ]
+   },
    "Biography": {
       "Side projects": {
          "text": [
@@ -19,26 +33,18 @@
          "The band released their album Chalice Hymnal on February 17, 2017, on the label Temporary Residence.[9][10]\n"
       ]
    },
-   "Discography": {},
    "Equipment": {
       "text": [
          "The band has frequently used the Marxophone on records for its high register and Eastern sound.[3]\n"
       ]
    },
-   "External links": {},
+   "Discography": {},
    "References": {},
-   "Sections": [
-      "1 Biography",
-      "1.1 Side projects",
-      "2 Equipment",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Formed in 1999, Grails is an American instrumental experimental rock band. Based in Portland, Oregon, the group have released seven studio albums, on labels including Southern and Temporary Residence, and have toured across North America and Europe.\n"
-      ]
-   },
-   "Title": "Grails (band) - Wikipedia"
+   "External links": {},
+   "coreData": [
+      "Formed in 1999, Grails is an American instrumental experimental rock band. Based in Portland, Oregon, the group have released seven studio albums, on labels including Southern and Temporary Residence, and have toured across North America and Europe.\n",
+      "Grails was formed under the name \"Laurel Canyon\" in 1999 by guitarist Alex Hall, drummer Emil Amos (also of Holy Sons and Om) and second guitarist Paul Spitz.[1] They garnered positive reactions following their first show, played on a whim. Portland musicians Timothy Horner (violin) and Bill Slater (piano/bass) later joined the group to record their first EP.\n",
+      "The band then released two self-financed EPs in 2000 and 2001. Paul Spitz left the US to travel in Turkey and Zak Riles joined as guitarist, often playing more of an acoustic role. In 2002 Hall sent a promotion CD to Neurot Recordings who were convinced of the band's potential.\n",
+      "In 2003, just before the release of their first full-length album, the band changed its name to Grails. They adopted a louder, more aggressive style, often switching instruments with each member writing songs that saw them branching out to increasingly disparate styles.[2]\n"
+   ]
 }

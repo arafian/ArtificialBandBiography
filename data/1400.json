@@ -1,9 +1,16 @@
 {
-   "Discography": {
+   "Name": "Midtown (band)",
+   "Sections": [
+      "1 History",
+      "1.1 Brief reunion",
+      "2 Members",
+      "3 Discography",
+      "4 Post-Midtown projects",
+      "5 References"
+   ],
+   "Summary": {
       "text": [
-         "Studio albums\n",
-         "EPs\n",
-         "Compilation appearances\n"
+         "Midtown was an American pop punk band from New Brunswick, New Jersey, United States.[1] Midtown was formed in November 1998 by three Rutgers University students, but quickly became a quartet.  The group released three full-length studio albums and three extended plays before disbanding in 2005. In early 2014, Midtown reunited to play three shows, the first as a secret show at The Knitting Factory in Brooklyn,[2] and the two remaining at the Skate And Surf Festival.\n"
       ]
    },
    "History": {
@@ -18,20 +25,19 @@
       ]
    },
    "Members": {},
-   "Post-Midtown projects": {},
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Brief reunion",
-      "2 Members",
-      "3 Discography",
-      "4 Post-Midtown projects",
-      "5 References"
-   ],
-   "Summary": {
+   "Discography": {
       "text": [
-         "Midtown was an American pop punk band from New Brunswick, New Jersey, United States.[1] Midtown was formed in November 1998 by three Rutgers University students, but quickly became a quartet.  The group released three full-length studio albums and three extended plays before disbanding in 2005. In early 2014, Midtown reunited to play three shows, the first as a secret show at The Knitting Factory in Brooklyn,[2] and the two remaining at the Skate And Surf Festival.\n"
+         "Studio albums\n",
+         "EPs\n",
+         "Compilation appearances\n"
       ]
    },
-   "Title": "Midtown (band) - Wikipedia"
+   "Post-Midtown projects": {},
+   "References": {},
+   "coreData": [
+      "Midtown was an American pop punk band from New Brunswick, New Jersey, United States.[1] Midtown was formed in November 1998 by three Rutgers University students, but quickly became a quartet.  The group released three full-length studio albums and three extended plays before disbanding in 2005. In early 2014, Midtown reunited to play three shows, the first as a secret show at The Knitting Factory in Brooklyn,[2] and the two remaining at the Skate And Surf Festival.\n",
+      "Midtown was formed in 1998 by Rutgers University students Gabe Saporta (vocals/bass), Rob Hitt (drums), and Tyler Rann (guitar/vocals).[1]  The group added Heath Saraceno on guitar/vocals, and used its roots in the New Jersey punk scene to develop a sound that combined elements of pop punk and punk rock. Midtown began recording shortly after its formation. The band's first EP, The Sacrifice of Life, was released by Pinball Records in 1999, followed by a debut album, Save the World, Lose the Girl, released in early 2000 by the American independent record label Drive-Thru Records. The band was then upstreamed to major label MCA Records for its following album, Living Well Is the Best Revenge (2002).\n",
+      "Midtown's next album, Forget What You Know (2004), was produced while the band was not under contract with a record label and was later picked up by Columbia Records. This was the band's final studio album; they disbanded shortly after its release in 2005. Former frontman Gabe Saporta then became the lead singer of the now-defunct alternative dance/synthpop band Cobra Starship, which disbanded in November 2015.[3] Former guitarist Heath Saraceno joined the band Senses Fail in 2005 but decided to leave them in 2009 to pursue personal endeavors.[4] Tyler Rann went on to sing for Band of Thieves with some friends but eventually left the music business and now works in the fashion/clothing industry.\n",
+      "On February 17, 2014, Saporta announced that Midtown has reunited and performed at the Skate and Surf Festival.[5]\n"
+   ]
 }

@@ -1,24 +1,5 @@
 {
-   "Albums": {
-      "High On / '69": {
-         "text": [
-            "In 2002, a European CD was released by Lizard that combined the two albums, with the songs from the '69 album first.\n"
-         ]
-      },
-      "High on Mount Rushmore": {
-         "text": [
-            "This album debuted at number 41 on the Billboard national album chart.\n"
-         ]
-      },
-      "Mount Rushmore '69": {}
-   },
-   "Members on the Recordings": {
-      "text": [
-         "Warren B. Phillips was the former lead singer of the band and wrote a few songs that were recorded by the band after he left.\n",
-         "Fullerton and Bolan continued musical careers.  Mike Bolan and Glenn Smith were previously members of The Fabulous Shadows, a band from Coeur d'Alene, Idaho, 1963-1968 [1].  Mike Bolan rejoined them later and they have been performing in Idaho on through 2005 [2].  Terry Kimble (deceased) was a member of the band Tony Vance and The Progress Hornsby 4 from Spokane, Washington, 1967 - 1968 [3].\n"
-      ]
-   },
-   "References": {},
+   "Name": "Mount Rushmore (band)",
    "Sections": [
       "1 Members on the Recordings",
       "2 Albums",
@@ -28,12 +9,37 @@
       "3 Single",
       "4 References"
    ],
-   "Single": {},
    "Summary": {
       "text": [
          "Mount Rushmore was a rock band in the late 1960s from San Francisco, California that played a heavy blues rock style with psychedelic elements.\n",
          "The band formed in early 1967 at 1915 Oak Street, a large Victorian rooming house in the Haight-Ashbury district. The original members were Ed Levin (ex-Vipers), Warren Phillips (ex Blue House Basement), Thomas Dotzler, Mike Bolan and Danny Wei. Wei was soon replaced by Terry Kimble on bass guitar. In June and July 1967 they were featured on posters for shows at the Avalon Ballroom with many other bands including The Doors, Procol Harum, The Paul Butterfield Blues Band, The Grateful Dead, Steve Miller, Santana,  Quicksilver Messenger Service, and Big Brother and the Holding Company. In June 1967 Mount Rushmore played 2 sets at The KFRC Fantasy Fair and Magic Mountain Music Festival; it was just one week before the Monterey Pop Festival which is considered the world's first \"Rock Festival\". In March 1968 Dotzler left to join local band Phoenix, and was soon followed by Phillips and Levin. Bolan and Kimble added Glenn Smith and Travis Fullerton to the line up and the group made two albums.\n"
       ]
    },
-   "Title": "Mount Rushmore (band) - Wikipedia"
+   "Members on the Recordings": {
+      "text": [
+         "Warren B. Phillips was the former lead singer of the band and wrote a few songs that were recorded by the band after he left.\n",
+         "Fullerton and Bolan continued musical careers.  Mike Bolan and Glenn Smith were previously members of The Fabulous Shadows, a band from Coeur d'Alene, Idaho, 1963-1968 [1].  Mike Bolan rejoined them later and they have been performing in Idaho on through 2005 [2].  Terry Kimble (deceased) was a member of the band Tony Vance and The Progress Hornsby 4 from Spokane, Washington, 1967 - 1968 [3].\n"
+      ]
+   },
+   "Albums": {
+      "High on Mount Rushmore": {
+         "text": [
+            "This album debuted at number 41 on the Billboard national album chart.\n"
+         ]
+      },
+      "Mount Rushmore '69": {},
+      "High On / '69": {
+         "text": [
+            "In 2002, a European CD was released by Lizard that combined the two albums, with the songs from the '69 album first.\n"
+         ]
+      }
+   },
+   "Single": {},
+   "References": {},
+   "coreData": [
+      "Mount Rushmore was a rock band in the late 1960s from San Francisco, California that played a heavy blues rock style with psychedelic elements.\n",
+      "The band formed in early 1967 at 1915 Oak Street, a large Victorian rooming house in the Haight-Ashbury district. The original members were Ed Levin (ex-Vipers), Warren Phillips (ex Blue House Basement), Thomas Dotzler, Mike Bolan and Danny Wei. Wei was soon replaced by Terry Kimble on bass guitar. In June and July 1967 they were featured on posters for shows at the Avalon Ballroom with many other bands including The Doors, Procol Harum, The Paul Butterfield Blues Band, The Grateful Dead, Steve Miller, Santana,  Quicksilver Messenger Service, and Big Brother and the Holding Company. In June 1967 Mount Rushmore played 2 sets at The KFRC Fantasy Fair and Magic Mountain Music Festival; it was just one week before the Monterey Pop Festival which is considered the world's first \"Rock Festival\". In March 1968 Dotzler left to join local band Phoenix, and was soon followed by Phillips and Levin. Bolan and Kimble added Glenn Smith and Travis Fullerton to the line up and the group made two albums.\n",
+      "Warren B. Phillips was the former lead singer of the band and wrote a few songs that were recorded by the band after he left.\n",
+      "Fullerton and Bolan continued musical careers.  Mike Bolan and Glenn Smith were previously members of The Fabulous Shadows, a band from Coeur d'Alene, Idaho, 1963-1968 [1].  Mike Bolan rejoined them later and they have been performing in Idaho on through 2005 [2].  Terry Kimble (deceased) was a member of the band Tony Vance and The Progress Hornsby 4 from Spokane, Washington, 1967 - 1968 [3].\n"
+   ]
 }

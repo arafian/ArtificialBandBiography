@@ -1,6 +1,19 @@
 {
-   "Albums and track lists": {},
-   "Band members": {},
+   "Name": "Vitamin Party",
+   "Sections": [
+      "1 Biography",
+      "2 Band members",
+      "3 New album/hiatus",
+      "4 Side projects",
+      "5 Albums and track lists",
+      "6 References",
+      "6.1 Interviews"
+   ],
+   "Summary": {
+      "text": [
+         "Vitamin Party is an American, San Francisco/Bay Area \"DIY\" rock-punk band, which formed in 2004.  Their style shows influences of lo-fi, indie, post-modern punk with straight forward rock and roll.  The band has released an EP and three albums on their own record label Get It Out! Records.\n"
+      ]
+   },
    "Biography": {
       "text": [
          "Vitamin Party formed in the San Francisco Bay Area, United States, in 2004 after the dissolving of the bands City Volume and We're Gonna Fight The Eskimos Next.  The band wrote and rehearsed for a full year before recording their first EP Get It Out in late 2005 and playing their first show at a San Francisco house party.[1]\nThe band soon began playing local venues such as Stork Club, Blakes On Telegraph, The Independent and the Red Devil Lounge with other local acts such as Ex-boyfriends, Hottub, Wallpaper, Hundred Days, The Hot Toddies and Bwuh.\n",
@@ -12,6 +25,7 @@
          "As of October 1, 2010, \"Radical Agenda\" (the title track of Vitamin Party's latest release), is used as background music for the \"Sunny Side Up\" Morning show, which airs Friday mornings on 90.7 KZUU out of Pullman Washington.[6]\n"
       ]
    },
+   "Band members": {},
    "New album/hiatus": {
       "text": [
          "On July 4, 2009 Vitamin Party played a live set on 90.7 KALX's show KALX live.  Afterword the band was interviewed and revealed that they were currently working on a third album, tentatively titled Radical Agenda, Go!.[7]\n",
@@ -21,18 +35,6 @@
          "According to the Vitamin Party website the band has put together a live album compiled of soundboard recordings from a number of different shows.  The album is yet to be titled or have a release date, but the band has said it will consist of at least 17 tracks.[11]\n"
       ]
    },
-   "References": {
-      "Interviews": {}
-   },
-   "Sections": [
-      "1 Biography",
-      "2 Band members",
-      "3 New album/hiatus",
-      "4 Side projects",
-      "5 Albums and track lists",
-      "6 References",
-      "6.1 Interviews"
-   ],
    "Side projects": {
       "text": [
          "Conor Thompson and Sean Theolonius Carey perform bass and drum duties in the band We're Gonna Fight The Eskimos Next (with guitar players Nathan Fritz and Brian James).[12]  On March 3, 2010 the band was featured on the compilation album 'Karl Rove: Courage and Consequence (unabridged audio)' a culture jam targeted at Karl Rove's book of the same name.  Vitamin Party was thanked on the album.[13]\n",
@@ -40,10 +42,14 @@
          "In May/June 2011, Conor and Vincent recorded a new album with Ex-boyfriends singer/song writer Colin Daly.  The new group called The Philistines debut July 3, 2011 at San Francisco's Bottom of the HIll.\n"
       ]
    },
-   "Summary": {
-      "text": [
-         "Vitamin Party is an American, San Francisco/Bay Area \"DIY\" rock-punk band, which formed in 2004.  Their style shows influences of lo-fi, indie, post-modern punk with straight forward rock and roll.  The band has released an EP and three albums on their own record label Get It Out! Records.\n"
-      ]
+   "Albums and track lists": {},
+   "References": {
+      "Interviews": {}
    },
-   "Title": "Vitamin Party - Wikipedia"
+   "coreData": [
+      "Vitamin Party is an American, San Francisco/Bay Area \"DIY\" rock-punk band, which formed in 2004.  Their style shows influences of lo-fi, indie, post-modern punk with straight forward rock and roll.  The band has released an EP and three albums on their own record label Get It Out! Records.\n",
+      "Vitamin Party formed in the San Francisco Bay Area, United States, in 2004 after the dissolving of the bands City Volume and We're Gonna Fight The Eskimos Next.  The band wrote and rehearsed for a full year before recording their first EP Get It Out in late 2005 and playing their first show at a San Francisco house party.[1]\nThe band soon began playing local venues such as Stork Club, Blakes On Telegraph, The Independent and the Red Devil Lounge with other local acts such as Ex-boyfriends, Hottub, Wallpaper, Hundred Days, The Hot Toddies and Bwuh.\n",
+      "In 2008 they released two albums, both of which were recorded by Collisionville's Stephen Pride and mastered by Guitar Vs. Gravity's Ben Adrian.  The first album, The Revenge, was released in February and the second album, titled Back On Task, on October 31.  Both albums were released on Get It Out! Records.  All album art was created by the band with the help of photographer Kirsten Lindquist Campana.\n",
+      "Their music has been featured on the show The All-For-Nots, and their song \"Animal Farm\" is the opening theme for the online show Animal Trash.  Animal Trash has featured a number of the band's other songs, including \"I Don't Wanna Know\", \"End Credits\" and \"Tiny\".[2]\n"
+   ]
 }

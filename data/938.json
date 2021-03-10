@@ -1,11 +1,18 @@
 {
-   "Albums": {},
-   "Documentary": {
+   "Name": "The Big Wu",
+   "Sections": [
+      "1 History",
+      "2 Albums",
+      "3 Videos",
+      "4 Documentary",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
       "text": [
-         "The Big Wu Way premiered April 9, 2016 as part of the 35th annual Minneapolis St. Paul International Film Festival.[2]\n"
+         "The Big Wu is a rock jam band from Minnesota.  The group is composed of Al Oikari, Andy Miller, Chris Castino, Mark Joseph Grundhoefer, and Terry VanDeWalker.  The band made a mark on the jam band scene with a reputation for hook-oriented songwriting and as one of the earliest jam bands from the Midwest to achieve some national success.  Relentless touring in the late 1990s and early 2000s built a loyal fan base that call themselves \"family,\" many of whom get together for the band's recurring music festival, the Big Wu Family Reunion.  From 1998-2006, the band annually held the Family Reunion on Memorial Weekend, and they frequently hold a Wu Years Eve event on December 31.  The band has not toured extensively since the end of 2006, instead playing periodic shows in their home state of Minnesota and other nearby states.\n"
       ]
    },
-   "External links": {},
    "History": {
       "text": [
          "The Big Wu was founded in 1992 at St. Olaf College by students Chris Castino (guitar), Terry VanDeWalker (vocals), and Jason Fladager (guitar). Andrew Eklund (bass; now owns Ciceron, Inc.), Nathan Eklund (Keyboards; now with Kubla Khan), Chip House (drums, now a VP with ExactTarget) made up the rest of the regular lineup.  Julie Crumrine (vocals) and Julie Niksitch (vocals) made frequent appearances.\n",
@@ -25,20 +32,19 @@
          "Family Reunions of The Big Wu were held at Camp Maiden Rock West in Morristown, Minnesota in August 2015 and 2016.\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Albums",
-      "3 Videos",
-      "4 Documentary",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
+   "Albums": {},
+   "Videos": {},
+   "Documentary": {
       "text": [
-         "The Big Wu is a rock jam band from Minnesota.  The group is composed of Al Oikari, Andy Miller, Chris Castino, Mark Joseph Grundhoefer, and Terry VanDeWalker.  The band made a mark on the jam band scene with a reputation for hook-oriented songwriting and as one of the earliest jam bands from the Midwest to achieve some national success.  Relentless touring in the late 1990s and early 2000s built a loyal fan base that call themselves \"family,\" many of whom get together for the band's recurring music festival, the Big Wu Family Reunion.  From 1998-2006, the band annually held the Family Reunion on Memorial Weekend, and they frequently hold a Wu Years Eve event on December 31.  The band has not toured extensively since the end of 2006, instead playing periodic shows in their home state of Minnesota and other nearby states.\n"
+         "The Big Wu Way premiered April 9, 2016 as part of the 35th annual Minneapolis St. Paul International Film Festival.[2]\n"
       ]
    },
-   "Title": "The Big Wu - Wikipedia",
-   "Videos": {}
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Big Wu is a rock jam band from Minnesota.  The group is composed of Al Oikari, Andy Miller, Chris Castino, Mark Joseph Grundhoefer, and Terry VanDeWalker.  The band made a mark on the jam band scene with a reputation for hook-oriented songwriting and as one of the earliest jam bands from the Midwest to achieve some national success.  Relentless touring in the late 1990s and early 2000s built a loyal fan base that call themselves \"family,\" many of whom get together for the band's recurring music festival, the Big Wu Family Reunion.  From 1998-2006, the band annually held the Family Reunion on Memorial Weekend, and they frequently hold a Wu Years Eve event on December 31.  The band has not toured extensively since the end of 2006, instead playing periodic shows in their home state of Minnesota and other nearby states.\n",
+      "The Big Wu was founded in 1992 at St. Olaf College by students Chris Castino (guitar), Terry VanDeWalker (vocals), and Jason Fladager (guitar). Andrew Eklund (bass; now owns Ciceron, Inc.), Nathan Eklund (Keyboards; now with Kubla Khan), Chip House (drums, now a VP with ExactTarget) made up the rest of the regular lineup.  Julie Crumrine (vocals) and Julie Niksitch (vocals) made frequent appearances.\n",
+      "The band played their first gig on February 14, 1992 in the Lion's Pause in the basement of the old Ytterboe Hall at St. Olaf College in Northfield, Minnesota.  Every song played was a cover by the Grateful Dead, Bob Dylan, or the Allman Brothers.  The Big Wu continued to play every three weeks or so in town above the Reub-n-Stein, the most popular local bar at the time.  Big Wu shows quickly became one of the biggest events on campus, and posters littered the cafeteria walls at both Carleton and St. Olaf.\n",
+      "On September 11, 1995, the Big Wu played for the first time at the Terminal Bar on Hennepin Avenue in Northeast Minneapolis. This gig started a run of shows that lasted from the end of 1995 into most of 1996.  A little over a month later on October 28, 1995, they debuted their first original song \"Silcanturnitova\".  Over the next four years an onslaught of new songs were written including \"Bloodhound\", \"Red Sky\", \"Precious Hands\", \"Kangaroo\", and \"Puerto Rico.\"  It was also at the Terminal Bar where the lineup was solidified, with Chip House, Andrew Eklund, and Nathan Eklund all leaving the band to pursue professional careers.  At the time the Big Wu was looking for a keyboardist and bass guitar player.  Andy Miller, also a St. Olaf College graduate, got the job playing bass, and several months later, Al Oikari sat in on keys and eventually became a member of the band.\n"
+   ]
 }

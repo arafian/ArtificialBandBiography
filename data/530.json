@@ -1,4 +1,8 @@
 {
+   "Name": "Good Habit",
+   "Sections": [
+      "Summary"
+   ],
    "Summary": {
       "text": [
          "Good Habit were a Welsh professional touring band, mostly from Penarth, Wales, active from 1970 until 1975.\n",
@@ -7,5 +11,11 @@
          "The band's personnel included:\n",
          "Peter replaced Twillie on guitar.[when?] In 1973 the sax players left. Ray Ennis a.k.a. Alice (not to be confused with Ray Ennis of The Swinging Blue Jeans) joined the band on guitar. Biffo replaced Paul on drums and Gareth Mortimer a.k.a. Morty (ex Ancient Grease) joined on vocals and tambourine. The finale songs at gigs became \"Highway 69\" followed by \"Johnny B Goode/Bye Bye Johnny\". After Clutch left, Morty had taken over most of the songwriting and they became Racing Cars.[citation needed]\n"
       ]
-   }
+   },
+   "coreData": [
+      "Good Habit were a Welsh professional touring band, mostly from Penarth, Wales, active from 1970 until 1975.\n",
+      "They had one single \"Find My Way Back Home\" that was released by RCA and reviewed by John Peel in Sounds.[1]\n",
+      "Some songs including \"Ship of Gold\" were recorded for Peel's sessions. For a while the band wore green monastic habits on stage. Live favourites included \"Danger Zone\" and \"King of the Mountain\", final numbers would be \"Keep on Moving\" and \"Chicken Shack Stomp\"/\"Hey Bo Diddley\". Good Habit toured with many well-known artists over the years, including Thin Lizzy,  Gong, The Velvet Underground, Funkadelic, UFO, Focus,[2] Rory Gallagher, The Who, Genesis, and others.[citation needed] Good Habit also played iconic music festivals, the 1972 Reading Festival,[2] and the first Glastonbury festival.[citation needed]\n",
+      "The band's personnel included:\n"
+   ]
 }

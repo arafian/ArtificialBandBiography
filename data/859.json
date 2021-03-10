@@ -1,4 +1,19 @@
 {
+   "Name": "Earth (American band)",
+   "Sections": [
+      "1 Biography",
+      "2 Members",
+      "2.1 Timeline",
+      "3 Discography",
+      "4 See also",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Earth is an American rock band based in Olympia, Washington, formed in 1989 and led by the guitarist Dylan Carlson.[1][5] Earth's music is nearly all instrumental, and can be divided into two distinct stages. Their early work is characterized by distortion, droning, minimalism, and lengthy, repetitive song structures. Owing to their 1993 debut LP Earth 2, Earth is recognized as a pioneer of drone metal.[6] The band resurfaced in the early 2000s, with their later output reducing the distortion and incorporating elements of country, jazz rock, and folk.[6]\n"
+      ]
+   },
    "Biography": {
       "text": [
          "Dylan Carlson founded the band in 1989 along with Slim Moon and Greg Babior, taking the title \"Earth\" from Black Sabbath's original name. Carlson has remained the core of the band's line-up throughout its changes. \n",
@@ -10,13 +25,6 @@
          "The press release for Hex; Or Printing in the Infernal Method (2005) stated the band's music shows \"the influence of country guitarists/songwriters such as: Duane Eddy, Merle Haggard, Roy Buchanan and fuses it with the vibe of epic visionary composer: Ennio Morricone.\"[9] The press release for The Bees Made Honey in the Lion's Skull (2008) declares \"Earth shows it's [sic] affinity with a nod to the best elements of the more adventurous San Francisco bands of the late 1960s and 1970s, and the more spiritually aware and exciting forms of Jazz-Rock from the same era\"[10] The press release for Angels of Darkness, Demons of Light I describes \"inspiration from both British Folk-Rock bands the Pentangle and Fairport Convention\".[11]\n"
       ]
    },
-   "Discography": {
-      "text": [
-         "Studio albums\n",
-         "Collaborations\n"
-      ]
-   },
-   "External links": {},
    "Members": {
       "Timeline": {},
       "text": [
@@ -24,21 +32,19 @@
          "Former\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 Biography",
-      "2 Members",
-      "2.1 Timeline",
-      "3 Discography",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "See also": {},
-   "Summary": {
+   "Discography": {
       "text": [
-         "Earth is an American rock band based in Olympia, Washington, formed in 1989 and led by the guitarist Dylan Carlson.[1][5] Earth's music is nearly all instrumental, and can be divided into two distinct stages. Their early work is characterized by distortion, droning, minimalism, and lengthy, repetitive song structures. Owing to their 1993 debut LP Earth 2, Earth is recognized as a pioneer of drone metal.[6] The band resurfaced in the early 2000s, with their later output reducing the distortion and incorporating elements of country, jazz rock, and folk.[6]\n"
+         "Studio albums\n",
+         "Collaborations\n"
       ]
    },
-   "Title": "Earth (American band) - Wikipedia"
+   "See also": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Earth is an American rock band based in Olympia, Washington, formed in 1989 and led by the guitarist Dylan Carlson.[1][5] Earth's music is nearly all instrumental, and can be divided into two distinct stages. Their early work is characterized by distortion, droning, minimalism, and lengthy, repetitive song structures. Owing to their 1993 debut LP Earth 2, Earth is recognized as a pioneer of drone metal.[6] The band resurfaced in the early 2000s, with their later output reducing the distortion and incorporating elements of country, jazz rock, and folk.[6]\n",
+      "Dylan Carlson founded the band in 1989 along with Slim Moon and Greg Babior, taking the title \"Earth\" from Black Sabbath's original name. Carlson has remained the core of the band's line-up throughout its changes. \n",
+      "Carlson was a close friend of grunge icon Kurt Cobain, who sang lead vocals in the song \"Divine and Bright\", from a demo included on the re-release of the live album Sunn Amps and Smashed Guitars. Because police had twice confiscated guns from Cobain inside a single year, Cobain had Carlson purchase a shotgun for him on March 30, 1994. Cobain told Carlson the gun was for protection. Cobain would use the shotgun to kill himself six days later.[7][8]\n",
+      "Earth 2 was described as a \"milestone\" by Terrorizer's Dayal Patterson, which he described as \"a three-track, 75 minute deluge of feedback and distorted guitars that marked the blueprint for what Carlson at the time coined 'ambient metal'\".[6] The band went on hiatus after the release of Pentastar: In the Style of Demons due to Carlson's personal problems, including heroin addiction, rehabilitation, his connection to Kurt Cobain's death, and incarceration.[6] Carlson attributed the break primarily to his heroin addiction:\n"
+   ]
 }

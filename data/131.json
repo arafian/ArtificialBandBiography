@@ -1,12 +1,23 @@
 {
-   "Discography": {
-      "Albums": {},
-      "Singles": {},
+   "Name": "Cold Blood (band)",
+   "Sections": [
+      "1 History",
+      "2 Personnel",
+      "2.1 Current members",
+      "2.2 Additional personnel",
+      "2.3 Former members",
+      "3 Discography",
+      "3.1 Albums",
+      "3.2 Singles",
+      "4 See also",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
       "text": [
-         "Their initial four albums, Cold Blood (produced by David Rubinson), Sisyphus (produced by Fred Catero), First Taste of Sin (produced by Donny Hathaway), and Thriller (produced by David Rubinson) remain their best known work.\n"
+         "Cold Blood is a long-standing R&B horn funk band founded by Larry Field in 1968 and was originally based in the East Bay region of the San Francisco Bay Area. The band has also performed and recorded under the name Lydia Pense and Cold Blood, due to the popularity of their lead singer, Lydia Pense.\n"
       ]
    },
-   "External links": {},
    "History": {
       "text": [
          "The band first came to prominence in 1969 when rock impresario Bill Graham signed them after an audition and they played the Fillmore West in San Francisco.[1] Pense has been compared to Janis Joplin, and it was Joplin who recommended the audition to Graham.\n",
@@ -16,12 +27,12 @@
       ]
    },
    "Personnel": {
-      "Additional personnel": {
+      "Current members": {
          "text": [
             "\n"
          ]
       },
-      "Current members": {
+      "Additional personnel": {
          "text": [
             "\n"
          ]
@@ -38,25 +49,20 @@
          "Current personnel are Lydia Pense (vocals), Steve Salinas (keyboards), Steve Dunne (guitar), Mike Morgan (percussion), Evan Palmerston (bass), Rich Armstrong (trumpet, cornet, percussion), Rob Zuckerman (alto, tenor, baritone saxes, and flute) and Donny Baldwin (drums).\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Personnel",
-      "2.1 Current members",
-      "2.2 Additional personnel",
-      "2.3 Former members",
-      "3 Discography",
-      "3.1 Albums",
-      "3.2 Singles",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "See also": {},
-   "Summary": {
+   "Discography": {
+      "Albums": {},
+      "Singles": {},
       "text": [
-         "Cold Blood is a long-standing R&B horn funk band founded by Larry Field in 1968 and was originally based in the East Bay region of the San Francisco Bay Area. The band has also performed and recorded under the name Lydia Pense and Cold Blood, due to the popularity of their lead singer, Lydia Pense.\n"
+         "Their initial four albums, Cold Blood (produced by David Rubinson), Sisyphus (produced by Fred Catero), First Taste of Sin (produced by Donny Hathaway), and Thriller (produced by David Rubinson) remain their best known work.\n"
       ]
    },
-   "Title": "Cold Blood (band) - Wikipedia"
+   "See also": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Cold Blood is a long-standing R&B horn funk band founded by Larry Field in 1968 and was originally based in the East Bay region of the San Francisco Bay Area. The band has also performed and recorded under the name Lydia Pense and Cold Blood, due to the popularity of their lead singer, Lydia Pense.\n",
+      "The band first came to prominence in 1969 when rock impresario Bill Graham signed them after an audition and they played the Fillmore West in San Francisco.[1] Pense has been compared to Janis Joplin, and it was Joplin who recommended the audition to Graham.\n",
+      "The term \"East Bay Grease\" has been used to describe the San Francisco Bay Area's brass horn heavy funk-rock sound of the 1960s, 1970s and 1980s, Cold Blood was one of the pioneer bands of this sound.[2] Other bands include Tower of Power, Chicago, and Blood Sweat And Tears.[2] The Tower of Power horn players have performed with Cold Blood on a regular basis since the early 1970s. Skip Mesquite and Mic Gillette have been members of both Tower of Power and Cold Blood.[3][4]\n",
+      "The band disbanded in the late 1970s. Pense suspended her music career in the early 1980s to raise her daughter Danielle, before re-forming the group in 1988.[2] The band stabilized with its current membership in the 1990s.[citation needed] Cold Blood continues to record and perform today, and some former band members such as Raul Matute (and some from Tower of Power) appear on the band's most recent album.\n"
+   ]
 }

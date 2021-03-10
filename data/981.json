@@ -1,25 +1,5 @@
 {
-   "Discography": {},
-   "External links": {},
-   "Personnel": {
-      "Lineups": {
-         "text": [
-            "Band Split\n",
-            "The band's original line-up consisted of:\n",
-            "In 1999 Billy Cobham was replaced by Dixie Dregs and Winger drummer Rod Morgenstein and Phil Lesh and Friends drummer Jeff Sipe.\n",
-            "In 2001, guitarist Jeff Pevar (Ray Charles, Joe Cocker, Crosby Stills & Nash) replaced Jimmy Herring. Little Feat's Kenny Gradney also played bass with the group at some shows.\n",
-            "The group went through a few more line-up changes (mostly bassists and drummers) over the years including the addition of Dave Livolsi on bass in 2002 and the reinstated dual-drummer line-up of Sipe and Morgenstein in 2006.\n",
-            "In celebration of the 50th Anniversary of The Grateful Dead, Jazz Is Dead reformed for several shows in August and September 2015.  The lineup will include Alphonso Johnson on bass, Jeff Pevar on guitar, drummer Rod Morgenstein, keyboardist Chris Smith and one-time Grateful Dead pianist Tom Constanten.\n",
-            "In 2012 the group released the latest JID CD \"Grateful Jazz\", produced and arranged by Pevar, featuring T Lavitz, Jeff Pevar, Rod Morgenstein, David Livolsi and special guests, Alphonso Johnson, Luis Conte, Bill Evans, Jerry Goodman, Bill Holloman and Howard Levy. This CD serves as a swan song to the late T Lavitz. More info at http://pevar.com/music/jazzisdead-gratefuljazz/\n"
-         ]
-      },
-      "Members": {}
-   },
-   "References": {
-      "text": [
-         "(subscription required)\n"
-      ]
-   },
+   "Name": "Jazz Is Dead",
    "Sections": [
       "1 Personnel",
       "1.1 Members",
@@ -34,5 +14,31 @@
          "In March 2006 the band set out for a month-long tour featuring the music of Blues for Allah to coincide with its 30th anniversary.\n"
       ]
    },
-   "Title": "Jazz Is Dead - Wikipedia"
+   "Personnel": {
+      "Members": {},
+      "Lineups": {
+         "text": [
+            "Band Split\n",
+            "The band's original line-up consisted of:\n",
+            "In 1999 Billy Cobham was replaced by Dixie Dregs and Winger drummer Rod Morgenstein and Phil Lesh and Friends drummer Jeff Sipe.\n",
+            "In 2001, guitarist Jeff Pevar (Ray Charles, Joe Cocker, Crosby Stills & Nash) replaced Jimmy Herring. Little Feat's Kenny Gradney also played bass with the group at some shows.\n",
+            "The group went through a few more line-up changes (mostly bassists and drummers) over the years including the addition of Dave Livolsi on bass in 2002 and the reinstated dual-drummer line-up of Sipe and Morgenstein in 2006.\n",
+            "In celebration of the 50th Anniversary of The Grateful Dead, Jazz Is Dead reformed for several shows in August and September 2015.  The lineup will include Alphonso Johnson on bass, Jeff Pevar on guitar, drummer Rod Morgenstein, keyboardist Chris Smith and one-time Grateful Dead pianist Tom Constanten.\n",
+            "In 2012 the group released the latest JID CD \"Grateful Jazz\", produced and arranged by Pevar, featuring T Lavitz, Jeff Pevar, Rod Morgenstein, David Livolsi and special guests, Alphonso Johnson, Luis Conte, Bill Evans, Jerry Goodman, Bill Holloman and Howard Levy. This CD serves as a swan song to the late T Lavitz. More info at http://pevar.com/music/jazzisdead-gratefuljazz/\n"
+         ]
+      }
+   },
+   "Discography": {},
+   "References": {
+      "text": [
+         "(subscription required)\n"
+      ]
+   },
+   "External links": {},
+   "coreData": [
+      "Jazz is Dead is an instrumental Grateful Dead cover band that interprets classic Dead songs with jazz influences.[1] The group is notable in featuring veterans of jazz and jazz fusion ensembles.[2] The group's composition has changed over time, and T Lavitz was the band's only constant member until they reformed in 2015 (five years after Lavitz's death).\n",
+      "In March 2006 the band set out for a month-long tour featuring the music of Blues for Allah to coincide with its 30th anniversary.\n",
+      "Band Split\n",
+      "The band's original line-up consisted of:\n"
+   ]
 }

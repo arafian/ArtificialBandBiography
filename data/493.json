@@ -1,22 +1,5 @@
 {
-   "Background": {
-      "text": [
-         "The Skies Revolt is a Christian rock band from Grand Rapids, Michigan.[1] Their members are vocalist and guitarist, Dave Prindle, vocalist and bassist, Jarred Irby, vocalist and guitarist, Bobby Dowell, and vocalist and drummer, Eli DenBesten.[1]\n"
-      ]
-   },
-   "Discography": {},
-   "External links": {},
-   "Members": {
-      "text": [
-         "Past members\n"
-      ]
-   },
-   "Music history": {
-      "text": [
-         "The band commenced as a musical entity in 2004 and released their first album, Some Sort of War in 2006. Their latest album, Some Kind of Cosmonaut,  was released on January 10, 2012,[2] with Robotic Records.[3]\n"
-      ]
-   },
-   "References": {},
+   "Name": "The Skies Revolt",
    "Sections": [
       "1 Background",
       "2 Music history",
@@ -30,5 +13,28 @@
          "The Skies Revolt is an American Christian rock band, and they primarily play indie rock. They come from Grand Rapids, Michigan. The band started making music in 2004. They released, Some Kind of Cosmonaut, a studio album, in 2012.\n"
       ]
    },
-   "Title": "The Skies Revolt - Wikipedia"
+   "Background": {
+      "text": [
+         "The Skies Revolt is a Christian rock band from Grand Rapids, Michigan.[1] Their members are vocalist and guitarist, Dave Prindle, vocalist and bassist, Jarred Irby, vocalist and guitarist, Bobby Dowell, and vocalist and drummer, Eli DenBesten.[1]\n"
+      ]
+   },
+   "Music history": {
+      "text": [
+         "The band commenced as a musical entity in 2004 and released their first album, Some Sort of War in 2006. Their latest album, Some Kind of Cosmonaut,  was released on January 10, 2012,[2] with Robotic Records.[3]\n"
+      ]
+   },
+   "Members": {
+      "text": [
+         "Past members\n"
+      ]
+   },
+   "Discography": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "The Skies Revolt is an American Christian rock band, and they primarily play indie rock. They come from Grand Rapids, Michigan. The band started making music in 2004. They released, Some Kind of Cosmonaut, a studio album, in 2012.\n",
+      "The Skies Revolt is a Christian rock band from Grand Rapids, Michigan.[1] Their members are vocalist and guitarist, Dave Prindle, vocalist and bassist, Jarred Irby, vocalist and guitarist, Bobby Dowell, and vocalist and drummer, Eli DenBesten.[1]\n",
+      "The band commenced as a musical entity in 2004 and released their first album, Some Sort of War in 2006. Their latest album, Some Kind of Cosmonaut,  was released on January 10, 2012,[2] with Robotic Records.[3]\n",
+      "Past members\n"
+   ]
 }

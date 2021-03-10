@@ -1,26 +1,5 @@
 {
-   "Background": {
-      "text": [
-         "The band is from Mount Vernon, Kentucky. They have released five full-length albums and two Christmas EPs. Their biggest radio single is \"God Is on the Move\" which stayed at No. 1 for five weeks.[1]\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "EPs\n"
-      ]
-   },
-   "External links": {},
-   "Philanthropy": {
-      "text": [
-         "The Band supports CURE International, a nonprofit organization that assists kids who have physical disabilities.[3]\n"
-      ]
-   },
-   "Reception": {
-      "text": [
-         "Mariah Secrest said \"it only takes about two seconds to like the band members from 7eventh Time Down. These Kentucky boys will welcome you at once with their good-natured banter and laid-back persona. But don't let them fool you. On stage, they mean business.\"[2] They are \"Straight up rock 'n rollers, they blend classic rock tactics to make their sound aggressive with enough melodic hooks to lodge their choruses into the mind long after the show is over. They pull from the best of timeless bands such as Led Zeppelin, The Who, The Doors, AC/DC and even Johnny Cash, infusing a raucous yet carefully-crafted musical landscape with lyrics that shoot straight-from-the-hip.\"[2]\n"
-      ]
-   },
-   "References": {},
+   "Name": "7eventh Time Down",
    "Sections": [
       "1 Background",
       "2 Reception",
@@ -34,5 +13,32 @@
          "7eventh Time Down (pronounced \"Seventh Time Down\") is an American Christian rock band. Their debut album, Alive in You, was released on September 13, 2011 (2011-09-13).\n"
       ]
    },
-   "Title": "7eventh Time Down - Wikipedia"
+   "Background": {
+      "text": [
+         "The band is from Mount Vernon, Kentucky. They have released five full-length albums and two Christmas EPs. Their biggest radio single is \"God Is on the Move\" which stayed at No. 1 for five weeks.[1]\n"
+      ]
+   },
+   "Reception": {
+      "text": [
+         "Mariah Secrest said \"it only takes about two seconds to like the band members from 7eventh Time Down. These Kentucky boys will welcome you at once with their good-natured banter and laid-back persona. But don't let them fool you. On stage, they mean business.\"[2] They are \"Straight up rock 'n rollers, they blend classic rock tactics to make their sound aggressive with enough melodic hooks to lodge their choruses into the mind long after the show is over. They pull from the best of timeless bands such as Led Zeppelin, The Who, The Doors, AC/DC and even Johnny Cash, infusing a raucous yet carefully-crafted musical landscape with lyrics that shoot straight-from-the-hip.\"[2]\n"
+      ]
+   },
+   "Philanthropy": {
+      "text": [
+         "The Band supports CURE International, a nonprofit organization that assists kids who have physical disabilities.[3]\n"
+      ]
+   },
+   "Discography": {
+      "text": [
+         "EPs\n"
+      ]
+   },
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "7eventh Time Down (pronounced \"Seventh Time Down\") is an American Christian rock band. Their debut album, Alive in You, was released on September 13, 2011 (2011-09-13).\n",
+      "The band is from Mount Vernon, Kentucky. They have released five full-length albums and two Christmas EPs. Their biggest radio single is \"God Is on the Move\" which stayed at No. 1 for five weeks.[1]\n",
+      "Mariah Secrest said \"it only takes about two seconds to like the band members from 7eventh Time Down. These Kentucky boys will welcome you at once with their good-natured banter and laid-back persona. But don't let them fool you. On stage, they mean business.\"[2] They are \"Straight up rock 'n rollers, they blend classic rock tactics to make their sound aggressive with enough melodic hooks to lodge their choruses into the mind long after the show is over. They pull from the best of timeless bands such as Led Zeppelin, The Who, The Doors, AC/DC and even Johnny Cash, infusing a raucous yet carefully-crafted musical landscape with lyrics that shoot straight-from-the-hip.\"[2]\n",
+      "The Band supports CURE International, a nonprofit organization that assists kids who have physical disabilities.[3]\n"
+   ]
 }

@@ -1,19 +1,5 @@
 {
-   "Band members": {},
-   "Discography": {
-      "Compilation albums": {},
-      "Demo": {}
-   },
-   "History": {
-      "text": [
-         "The band started in Burnaby, a suburb of Vancouver, during the summer of 1977, when the members of rock band Stone Crazy, who played Led Zeppelin covers among others, became interested in punk rock after seeing The Ramones live.\n",
-         "Joey Keithley, a.k.a. Joey Shithead, was the singer, Brian Roy Goble, a.k.a. Wimpy Roy, the bass player, Simon Werner the guitar player and Ken Montgomery, a.k.a. Dimwit, the drummer. All of them were former members of Stone Crazy except Werner, who replaced Stone Crazy guitar player Brad Kent. (Kent, however, still played with the Skulls on several occasions).\n",
-         "The Skulls played the (mostly hostile) club circuit in Vancouver and recorded a few songs at Psi-chords Studios, including \"Fucked Up Baby\", which would later become a D.O.A. song. (This track surfaced years later on Zulu Records' double album retrospective, Last Call. The demo tape was never released at the time, except to local critics for review). There was not really much a scene yet, however, escept for The Furies (which had Simon Werner's brother Jonathan on bass) and The Dishrags, so The Skulls (without Brad Kent, but with roadie Gerry Useless, who had been in Stone Crazy) decided to move to Toronto. However, the band split up: Joey and Dimwit returned to Vancouver, while Simon Werner and Wimpy moved to London (Wimpy returned to Vancouver a few months later). Joe formed D.O.A., while Dimwit, Wimpy and Gerry Useless formed The Subhumans.\n",
-         "After the Subhumans broke up in 1982, Wimpy joined DOA, which now featured Dimwit on drums, who had just been in the Pointed Sticks. For the next several years DOA's lineup was a virtual copy of the Skulls lineup, but with Dave Gregg instead of Simon Werner.\n",
-         "Werner was joined in London by Jim Walker, who landed a job with Public Image Ltd., appearing on their debut album before quitting. Werner, with  his brother Joanathan, formed The Pack, which featured Kirk Brandon, who later joined Theatre Of Hate. Jim Walker also joined the Pack, and, upon that band's dissolution, all three met up again in the Straps, with was essentially the same band with another singer. A retrospective CD has now been released.\n"
-      ]
-   },
-   "References": {},
+   "Name": "The Skulls (Canadian band)",
    "Sections": [
       "1 History",
       "2 Band members",
@@ -27,5 +13,25 @@
          "The Skulls were an early Vancouver punk rock band, whose members would later found two of the area's bands: D.O.A. and The Subhumans. They toured heavily and issued a demo, but never released any albums.\n"
       ]
    },
-   "Title": "The Skulls (Canadian band) - Wikipedia"
+   "History": {
+      "text": [
+         "The band started in Burnaby, a suburb of Vancouver, during the summer of 1977, when the members of rock band Stone Crazy, who played Led Zeppelin covers among others, became interested in punk rock after seeing The Ramones live.\n",
+         "Joey Keithley, a.k.a. Joey Shithead, was the singer, Brian Roy Goble, a.k.a. Wimpy Roy, the bass player, Simon Werner the guitar player and Ken Montgomery, a.k.a. Dimwit, the drummer. All of them were former members of Stone Crazy except Werner, who replaced Stone Crazy guitar player Brad Kent. (Kent, however, still played with the Skulls on several occasions).\n",
+         "The Skulls played the (mostly hostile) club circuit in Vancouver and recorded a few songs at Psi-chords Studios, including \"Fucked Up Baby\", which would later become a D.O.A. song. (This track surfaced years later on Zulu Records' double album retrospective, Last Call. The demo tape was never released at the time, except to local critics for review). There was not really much a scene yet, however, escept for The Furies (which had Simon Werner's brother Jonathan on bass) and The Dishrags, so The Skulls (without Brad Kent, but with roadie Gerry Useless, who had been in Stone Crazy) decided to move to Toronto. However, the band split up: Joey and Dimwit returned to Vancouver, while Simon Werner and Wimpy moved to London (Wimpy returned to Vancouver a few months later). Joe formed D.O.A., while Dimwit, Wimpy and Gerry Useless formed The Subhumans.\n",
+         "After the Subhumans broke up in 1982, Wimpy joined DOA, which now featured Dimwit on drums, who had just been in the Pointed Sticks. For the next several years DOA's lineup was a virtual copy of the Skulls lineup, but with Dave Gregg instead of Simon Werner.\n",
+         "Werner was joined in London by Jim Walker, who landed a job with Public Image Ltd., appearing on their debut album before quitting. Werner, with  his brother Joanathan, formed The Pack, which featured Kirk Brandon, who later joined Theatre Of Hate. Jim Walker also joined the Pack, and, upon that band's dissolution, all three met up again in the Straps, with was essentially the same band with another singer. A retrospective CD has now been released.\n"
+      ]
+   },
+   "Band members": {},
+   "Discography": {
+      "Demo": {},
+      "Compilation albums": {}
+   },
+   "References": {},
+   "coreData": [
+      "The Skulls were an early Vancouver punk rock band, whose members would later found two of the area's bands: D.O.A. and The Subhumans. They toured heavily and issued a demo, but never released any albums.\n",
+      "The band started in Burnaby, a suburb of Vancouver, during the summer of 1977, when the members of rock band Stone Crazy, who played Led Zeppelin covers among others, became interested in punk rock after seeing The Ramones live.\n",
+      "Joey Keithley, a.k.a. Joey Shithead, was the singer, Brian Roy Goble, a.k.a. Wimpy Roy, the bass player, Simon Werner the guitar player and Ken Montgomery, a.k.a. Dimwit, the drummer. All of them were former members of Stone Crazy except Werner, who replaced Stone Crazy guitar player Brad Kent. (Kent, however, still played with the Skulls on several occasions).\n",
+      "The Skulls played the (mostly hostile) club circuit in Vancouver and recorded a few songs at Psi-chords Studios, including \"Fucked Up Baby\", which would later become a D.O.A. song. (This track surfaced years later on Zulu Records' double album retrospective, Last Call. The demo tape was never released at the time, except to local critics for review). There was not really much a scene yet, however, escept for The Furies (which had Simon Werner's brother Jonathan on bass) and The Dishrags, so The Skulls (without Brad Kent, but with roadie Gerry Useless, who had been in Stone Crazy) decided to move to Toronto. However, the band split up: Joey and Dimwit returned to Vancouver, while Simon Werner and Wimpy moved to London (Wimpy returned to Vancouver a few months later). Joe formed D.O.A., while Dimwit, Wimpy and Gerry Useless formed The Subhumans.\n"
+   ]
 }

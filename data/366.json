@@ -1,4 +1,27 @@
 {
+   "Name": "Hot Hot Heat",
+   "Sections": [
+      "1 Career",
+      "2 Members",
+      "2.1 Final line-up",
+      "2.2 Former",
+      "2.3 Timeline",
+      "3 Discography",
+      "3.1 Studio albums",
+      "3.2 Compilations",
+      "3.3 Singles",
+      "3.4 Notes",
+      "3.5 EPs",
+      "4 See also",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Hot Hot Heat was a Canadian indie rock band from Victoria, British Columbia, formed in 1999. The band was signed by Seattle label Sub Pop in 2001 and released its first EP, Knock Knock Knock, and first full-length album, Make Up the Breakdown, the following year. The band released five full-length albums, the last being the self-titled Hot Hot Heat in 2016. The band's style makes use of electronic and traditional instruments and has variously been categorized as dance-punk, post-punk revival, new wave, and art-punk. They made an appearance on Yo Gabba Gabba, with the song, \"Time to go Outdoors\". It was featured on the \"Talent\" episode.\n",
+         "After five years of little activity, on March 13, 2016, Hot Hot Heat announced new music in the form of a special 7\" titled \"Nature of Things\" to be released for Record Store Day (April 16, 2016). Following on from this, on April 5, the band announced via Twitter they would be releasing their fifth and final self-titled album on June 24. New song \"Kid Who Stays in the Picture\" was premiered the same day.\n"
+      ]
+   },
    "Career": {
       "text": [
          "Dustin Hawthorne, a drugstore clerk, and Steve Bays, a personal assistant, had been in many different bands together since 1995 and met Paul Hawley in 1998. In 1999, Hawley bought a Juno 6 keyboard and asked Bays to try playing it, as no one else knew how. Hawley took over the drums from Bays and Hawthorne played bass. Matthew Marnik, who was a friend of the band, sang vocals. The band's original sound can be considered electropunk.\n",
@@ -18,42 +41,25 @@
          "Hot Hot Heat's public activity was scant in the 2010s; however, they debuted a new song, \"Mayor of the City\", in May 2013.[7] In response to a fan's question on Twitter, Hot Hot Heat mentioned a release for an album in the fall of 2015. On September 10, 2015 Hot Hot Heat announced new material via their Instagram page for a spring 2016 release. On Friday June 24, 2016 Hot Hot Heat released a 10-track self-titled album and announced it would be their final album.\n"
       ]
    },
-   "Discography": {
-      "Compilations": {},
-      "EPs": {},
-      "Notes": {},
-      "Singles": {},
-      "Studio albums": {}
-   },
-   "External links": {},
    "Members": {
       "Final line-up": {},
       "Former": {},
       "Timeline": {}
    },
-   "References": {},
-   "Sections": [
-      "1 Career",
-      "2 Members",
-      "2.1 Final line-up",
-      "2.2 Former",
-      "2.3 Timeline",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 Compilations",
-      "3.3 Singles",
-      "3.4 Notes",
-      "3.5 EPs",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "See also": {},
-   "Summary": {
-      "text": [
-         "Hot Hot Heat was a Canadian indie rock band from Victoria, British Columbia, formed in 1999. The band was signed by Seattle label Sub Pop in 2001 and released its first EP, Knock Knock Knock, and first full-length album, Make Up the Breakdown, the following year. The band released five full-length albums, the last being the self-titled Hot Hot Heat in 2016. The band's style makes use of electronic and traditional instruments and has variously been categorized as dance-punk, post-punk revival, new wave, and art-punk. They made an appearance on Yo Gabba Gabba, with the song, \"Time to go Outdoors\". It was featured on the \"Talent\" episode.\n",
-         "After five years of little activity, on March 13, 2016, Hot Hot Heat announced new music in the form of a special 7\" titled \"Nature of Things\" to be released for Record Store Day (April 16, 2016). Following on from this, on April 5, the band announced via Twitter they would be releasing their fifth and final self-titled album on June 24. New song \"Kid Who Stays in the Picture\" was premiered the same day.\n"
-      ]
+   "Discography": {
+      "Studio albums": {},
+      "Compilations": {},
+      "Singles": {},
+      "Notes": {},
+      "EPs": {}
    },
-   "Title": "Hot Hot Heat - Wikipedia"
+   "See also": {},
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Hot Hot Heat was a Canadian indie rock band from Victoria, British Columbia, formed in 1999. The band was signed by Seattle label Sub Pop in 2001 and released its first EP, Knock Knock Knock, and first full-length album, Make Up the Breakdown, the following year. The band released five full-length albums, the last being the self-titled Hot Hot Heat in 2016. The band's style makes use of electronic and traditional instruments and has variously been categorized as dance-punk, post-punk revival, new wave, and art-punk. They made an appearance on Yo Gabba Gabba, with the song, \"Time to go Outdoors\". It was featured on the \"Talent\" episode.\n",
+      "After five years of little activity, on March 13, 2016, Hot Hot Heat announced new music in the form of a special 7\" titled \"Nature of Things\" to be released for Record Store Day (April 16, 2016). Following on from this, on April 5, the band announced via Twitter they would be releasing their fifth and final self-titled album on June 24. New song \"Kid Who Stays in the Picture\" was premiered the same day.\n",
+      "Dustin Hawthorne, a drugstore clerk, and Steve Bays, a personal assistant, had been in many different bands together since 1995 and met Paul Hawley in 1998. In 1999, Hawley bought a Juno 6 keyboard and asked Bays to try playing it, as no one else knew how. Hawley took over the drums from Bays and Hawthorne played bass. Matthew Marnik, who was a friend of the band, sang vocals. The band's original sound can be considered electropunk.\n",
+      "The band soon changed direction to a more melodic, pop-influenced style, losing Marnik and adding guitarist Dante DeCaro. Strongly influenced by the new wave sound of 1980s bands XTC, The Clash, and Elvis Costello and the Attractions, the new lineup, with Steve on vocals, quickly released a series of 7\" singles and toured extensively in Canada and the American Pacific Northwest, joining up with similarly-styled indie rock bands such as Les Savy Fav, The French Kicks, Radio 4, Ima Robot, and Pretty Girls Make Graves, and opening for established Canadian rockers Sloan on a national tour.\n"
+   ]
 }

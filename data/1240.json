@@ -1,10 +1,18 @@
 {
-   "Discography": {
+   "Name": "Nitro (band)",
+   "Sections": [
+      "1 History",
+      "1.1 1987–1993: Formation and first two releases",
+      "1.2 2016–2019: Return and cancelled third album",
+      "2 Members",
+      "3 Timeline",
+      "4 Discography",
+      "5 References"
+   ],
+   "Summary": {
       "text": [
-         "Studio albums\n",
-         "Compilations\n",
-         "Singles\n",
-         "Music videos\n"
+         "Nitro was an American heavy metal band from Hollywood, California. Formed in 1988, the group originally featured vocalist Jim Gillette, guitarist Michael Angelo Batio, bassist T. J. Racer and drummer Bobby Rock. Nitro released its debut album O.F.R. in 1989, which reached number 140 on the US Billboard 200. Rock was replaced by K. C. Comet for the album's tour and Racer would leave the band thereafter. Nitro II: H.W.D.W.S., released in 1992, featured Ralph Carter on bass and Johnny Thunder on drums. The group broke up in 1993, with a number of previously unreleased demo recordings issued on the 1999 album Gunnin' for Glory.\n",
+         "In late 2016, it was announced that Gillette and Batio had reformed the band, with Lamb of God drummer Chris Adler added to the group's lineup. Plans were made to record a third album – which would have been the band's first full-length studio album since 1992 – with Victor Wooten on bass and Kane Churko producing. Matt DeVries performed in place of Wooten at live shows. In 2017, \"It Won't Die\" was released as the lead single from the album. However, Batio announced in May 2019 that the band had once again split up, but added that some of the material from the abandoned third album would surface on his next solo release.\n"
       ]
    },
    "History": {
@@ -28,22 +36,20 @@
          "Guests\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 1987–1993: Formation and first two releases",
-      "1.2 2016–2019: Return and cancelled third album",
-      "2 Members",
-      "3 Timeline",
-      "4 Discography",
-      "5 References"
-   ],
-   "Summary": {
+   "Timeline": {},
+   "Discography": {
       "text": [
-         "Nitro was an American heavy metal band from Hollywood, California. Formed in 1988, the group originally featured vocalist Jim Gillette, guitarist Michael Angelo Batio, bassist T. J. Racer and drummer Bobby Rock. Nitro released its debut album O.F.R. in 1989, which reached number 140 on the US Billboard 200. Rock was replaced by K. C. Comet for the album's tour and Racer would leave the band thereafter. Nitro II: H.W.D.W.S., released in 1992, featured Ralph Carter on bass and Johnny Thunder on drums. The group broke up in 1993, with a number of previously unreleased demo recordings issued on the 1999 album Gunnin' for Glory.\n",
-         "In late 2016, it was announced that Gillette and Batio had reformed the band, with Lamb of God drummer Chris Adler added to the group's lineup. Plans were made to record a third album – which would have been the band's first full-length studio album since 1992 – with Victor Wooten on bass and Kane Churko producing. Matt DeVries performed in place of Wooten at live shows. In 2017, \"It Won't Die\" was released as the lead single from the album. However, Batio announced in May 2019 that the band had once again split up, but added that some of the material from the abandoned third album would surface on his next solo release.\n"
+         "Studio albums\n",
+         "Compilations\n",
+         "Singles\n",
+         "Music videos\n"
       ]
    },
-   "Timeline": {},
-   "Title": "Nitro (band) - Wikipedia"
+   "References": {},
+   "coreData": [
+      "Nitro was an American heavy metal band from Hollywood, California. Formed in 1988, the group originally featured vocalist Jim Gillette, guitarist Michael Angelo Batio, bassist T. J. Racer and drummer Bobby Rock. Nitro released its debut album O.F.R. in 1989, which reached number 140 on the US Billboard 200. Rock was replaced by K. C. Comet for the album's tour and Racer would leave the band thereafter. Nitro II: H.W.D.W.S., released in 1992, featured Ralph Carter on bass and Johnny Thunder on drums. The group broke up in 1993, with a number of previously unreleased demo recordings issued on the 1999 album Gunnin' for Glory.\n",
+      "In late 2016, it was announced that Gillette and Batio had reformed the band, with Lamb of God drummer Chris Adler added to the group's lineup. Plans were made to record a third album – which would have been the band's first full-length studio album since 1992 – with Victor Wooten on bass and Kane Churko producing. Matt DeVries performed in place of Wooten at live shows. In 2017, \"It Won't Die\" was released as the lead single from the album. However, Batio announced in May 2019 that the band had once again split up, but added that some of the material from the abandoned third album would surface on his next solo release.\n",
+      "In 1987, vocalist Jim Gillette released his debut solo album Proud to Be Loud, which featured contributions from guitarist Michael Angelo Batio and bassist T. J. Racer, the three of whom would later go on to form Nitro.[1] Gillette and Batio had initially met at a beach party, while Racer was introduced to the singer as an attendee of one of his instructional vocal courses.[2] Former Vinnie Vincent Invasion drummer Bobby Rock joined the band shortly thereafter.[3] Speaking about joining the band, Rock recalled that Gillette and Batio recruited him by explaining that they \"wanted to record the most over-the-top, in-your-face metal record ever\".[4] Nitro signed with Rhino Entertainment record label Rampage Records after their first show, at which Gillette \"reportedly shattered three wine glasses with his voice\".[3]\n",
+      "Gillette, Batio, Racer and Rock recorded the first Nitro album at Front Page Productions in Costa Mesa, California with producer and engineer Charlie Watts.[5] The album was released in 1989 and spent nine weeks on the US Billboard 200, peaking at number 140.[6] Shortly after the recording of the album, Rock left Nitro to join Nelson, with K. C. Comet replacing him for the album's promotional concert tour (he also appeared in the music videos for the singles \"Freight Train\" and \"Long Way from Home\").[3] After the tour, Comet was replaced by Johnny Thunder while Ralph Carter was brought in after Racer's departure.[2] The band released its second album Nitro II: H.W.D.W.S. in 1992, which featured a cover version of Ted Nugent's \"Cat Scratch Fever\" as its sole single, before breaking up the following year.[2]\n"
+   ]
 }

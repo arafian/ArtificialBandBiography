@@ -1,15 +1,29 @@
 {
-   "Band members": {
-      "Present": {},
-      "Previous": {}
-   },
-   "Discography": {
+   "Name": "Hawking (band)",
+   "Sections": [
+      "1 Musical style",
+      "2 History",
+      "2.1 Inception and The Crash (2013)",
+      "2.2 Post-Crash (2014)",
+      "2.3 Present (2015-present)",
+      "3 Band members",
+      "3.1 Present",
+      "3.2 Previous",
+      "4 Other appearances",
+      "5 Discography",
+      "6 References",
+      "7 External links"
+   ],
+   "Summary": {
       "text": [
-         "01. Catalyst \n02. Broken Glass \n03. Homesick \n04. Lying Through Your Teeth \n05. Stepping Stone \n06. Comfortable \n07. Disclosure \n08. North of the Black Sea \n09. Haunted House \n10. Outside \n11. Leave You Behind\n",
-         "01. Safe and Sound\n02. Cold Hands\n03. Books on Tape\n04. Diastole\n05. Systole\n"
+         "Hawking is a Progressive Metal band from Vancouver, British Columbia, Canada composed of vocalists and guitarists Tom Vanderkam and Saul Sitar, bassist and vocalist Chris Young, and drummer and vocalist Chartwell Kerr.\n"
       ]
    },
-   "External links": {},
+   "Musical style": {
+      "text": [
+         "The band's music is most broadly categorized as Progressive Metal or Alternative Metal. However, notable Melodic Hardcore, Post-Hardcore, Symphonic Metal and Alternative Rock influences are present in their work.[1][2] The band’s earlier work was often described as Math rock or \"Math-Pop\", alluding to their use of interlocking guitar riffs and highly syncopated rhythms.[3]\n"
+      ]
+   },
    "History": {
       "Inception and The Crash (2013)": {
          "text": [
@@ -32,35 +46,27 @@
          ]
       }
    },
-   "Musical style": {
-      "text": [
-         "The band's music is most broadly categorized as Progressive Metal or Alternative Metal. However, notable Melodic Hardcore, Post-Hardcore, Symphonic Metal and Alternative Rock influences are present in their work.[1][2] The band’s earlier work was often described as Math rock or \"Math-Pop\", alluding to their use of interlocking guitar riffs and highly syncopated rhythms.[3]\n"
-      ]
+   "Band members": {
+      "Present": {},
+      "Previous": {}
    },
    "Other appearances": {
       "text": [
          "Hawking appears in the film Midnight Sun (2016). Front man Tom Vanderkam and former lead guitarist Ben Klassen appeared in the film If I Stay (2014). Vanderkam also owns and operates an independent booking agency, Badmouth Booking.[13]\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 Musical style",
-      "2 History",
-      "2.1 Inception and The Crash (2013)",
-      "2.2 Post-Crash (2014)",
-      "2.3 Present (2015-present)",
-      "3 Band members",
-      "3.1 Present",
-      "3.2 Previous",
-      "4 Other appearances",
-      "5 Discography",
-      "6 References",
-      "7 External links"
-   ],
-   "Summary": {
+   "Discography": {
       "text": [
-         "Hawking is a Progressive Metal band from Vancouver, British Columbia, Canada composed of vocalists and guitarists Tom Vanderkam and Saul Sitar, bassist and vocalist Chris Young, and drummer and vocalist Chartwell Kerr.\n"
+         "01. Catalyst \n02. Broken Glass \n03. Homesick \n04. Lying Through Your Teeth \n05. Stepping Stone \n06. Comfortable \n07. Disclosure \n08. North of the Black Sea \n09. Haunted House \n10. Outside \n11. Leave You Behind\n",
+         "01. Safe and Sound\n02. Cold Hands\n03. Books on Tape\n04. Diastole\n05. Systole\n"
       ]
    },
-   "Title": "Hawking (band) - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Hawking is a Progressive Metal band from Vancouver, British Columbia, Canada composed of vocalists and guitarists Tom Vanderkam and Saul Sitar, bassist and vocalist Chris Young, and drummer and vocalist Chartwell Kerr.\n",
+      "The band's music is most broadly categorized as Progressive Metal or Alternative Metal. However, notable Melodic Hardcore, Post-Hardcore, Symphonic Metal and Alternative Rock influences are present in their work.[1][2] The band’s earlier work was often described as Math rock or \"Math-Pop\", alluding to their use of interlocking guitar riffs and highly syncopated rhythms.[3]\n",
+      "Hawking embarked on their first tour of Western Canada in August 2013.[4]\n",
+      "On August 26, 2013, the band was involved in a single vehicle accident as they were headed home from the final show of their Western Canadian tour, leaving all members of the band with injuries.[5] Two of the group members, drummer Chartwell Kerr and bassist Paul Engels, were both airlifted to hospital in critical condition.  Kerr sustained extensive damage to his legs. Engels suffered a severe head injury, and was in a coma for five weeks after the accident. He was unable to continue with the band. After a 6-month hiatus, Chris Young replaced Engels on bass in February 2014.\n"
+   ]
 }

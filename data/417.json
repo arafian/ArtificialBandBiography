@@ -1,23 +1,37 @@
 {
-   "Awards": {
-      "GMA Dove Awards": {},
-      "Grammy Awards": {}
-   },
-   "Discography": {
-      "Studio albums": {}
+   "Name": "Day of Fire",
+   "Sections": [
+      "1 History",
+      "1.1 Formation & Day of Fire",
+      "1.2 Cut & Move",
+      "1.3 Losing All and Current Events",
+      "2 Influences",
+      "3 Members",
+      "4 Discography",
+      "4.1 Studio albums",
+      "5 Singles",
+      "6 Awards",
+      "6.1 GMA Dove Awards",
+      "6.2 Grammy Awards",
+      "7 References"
+   ],
+   "Summary": {
+      "text": [
+         "Day of Fire is a Christian rock band from Nashville, Tennessee. The band announced an indefinite hiatus in June 2010, leaving open the possibility for a return to the music scene.  They were first signed to Essential Records, and later to Razor & Tie Records. Their last album Losing All was released January 26, 2010 and was produced by Rogers Masson.\n"
+      ]
    },
    "History": {
+      "Formation & Day of Fire": {
+         "text": [
+            "Day of Fire's lead vocalist, Josh Brown, was formerly the vocalist for Full Devil Jacket.  Signed to Island/Def Jam Records, Full Devil Jacket enjoyed a successful, though short, career. They made one album and one EP, and toured with Nickelback and Creed.  In 2000, while in Full Devil Jacket, Brown nearly died of a heroin overdose but was able to recover through a drug rehabilitation program. While recording the second Full Devil Jacket album he decided to leave the music industry and turn his life around, embracing Christianity. Several years later, he started Day of Fire, and signed to an imprint of Sony Music.\n",
+            "Day of Fire's 2004 self-titled debut album featured hits like \"Cornerstone\" and \"Detainer\".  The album was produced by Scott Humphrey, who has also worked with Metallica and Rob Zombie.  It won a Dove Award for Rock Album of the Year and was also nominated for a Grammy Award.\n"
+         ]
+      },
       "Cut & Move": {
          "text": [
             "Their second album, called Cut & Move, was released on June 6, 2006.  \"Run\", a track from Cut & Move, was the theme song for WWE Unforgiven 2006.  Other hit songs from the album include \"Love\", \"Hole In My Hand\", and \"Frustrating\".\n",
             "In the fall of 2006, Day of Fire supported Pillar on their \"Days of the Reckoning Tour\".  The tour lasted from October to November 2006 and also featured the rock/metal bands The Showdown and Decyfer Down.\n",
             "In early 2007, Day of Fire announced they were no longer signed to Essential Records, but that they had made plans to record a new album sometime in 2008.\n"
-         ]
-      },
-      "Formation & Day of Fire": {
-         "text": [
-            "Day of Fire's lead vocalist, Josh Brown, was formerly the vocalist for Full Devil Jacket.  Signed to Island/Def Jam Records, Full Devil Jacket enjoyed a successful, though short, career. They made one album and one EP, and toured with Nickelback and Creed.  In 2000, while in Full Devil Jacket, Brown nearly died of a heroin overdose but was able to recover through a drug rehabilitation program. While recording the second Full Devil Jacket album he decided to leave the music industry and turn his life around, embracing Christianity. Several years later, he started Day of Fire, and signed to an imprint of Sony Music.\n",
-            "Day of Fire's 2004 self-titled debut album featured hits like \"Cornerstone\" and \"Detainer\".  The album was produced by Scott Humphrey, who has also worked with Metallica and Rob Zombie.  It won a Dove Award for Rock Album of the Year and was also nominated for a Grammy Award.\n"
          ]
       },
       "Losing All and Current Events": {
@@ -39,27 +53,19 @@
       ]
    },
    "Members": {},
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 Formation & Day of Fire",
-      "1.2 Cut & Move",
-      "1.3 Losing All and Current Events",
-      "2 Influences",
-      "3 Members",
-      "4 Discography",
-      "4.1 Studio albums",
-      "5 Singles",
-      "6 Awards",
-      "6.1 GMA Dove Awards",
-      "6.2 Grammy Awards",
-      "7 References"
-   ],
-   "Singles": {},
-   "Summary": {
-      "text": [
-         "Day of Fire is a Christian rock band from Nashville, Tennessee. The band announced an indefinite hiatus in June 2010, leaving open the possibility for a return to the music scene.  They were first signed to Essential Records, and later to Razor & Tie Records. Their last album Losing All was released January 26, 2010 and was produced by Rogers Masson.\n"
-      ]
+   "Discography": {
+      "Studio albums": {}
    },
-   "Title": "Day of Fire - Wikipedia"
+   "Singles": {},
+   "Awards": {
+      "GMA Dove Awards": {},
+      "Grammy Awards": {}
+   },
+   "References": {},
+   "coreData": [
+      "Day of Fire is a Christian rock band from Nashville, Tennessee. The band announced an indefinite hiatus in June 2010, leaving open the possibility for a return to the music scene.  They were first signed to Essential Records, and later to Razor & Tie Records. Their last album Losing All was released January 26, 2010 and was produced by Rogers Masson.\n",
+      "Day of Fire's lead vocalist, Josh Brown, was formerly the vocalist for Full Devil Jacket.  Signed to Island/Def Jam Records, Full Devil Jacket enjoyed a successful, though short, career. They made one album and one EP, and toured with Nickelback and Creed.  In 2000, while in Full Devil Jacket, Brown nearly died of a heroin overdose but was able to recover through a drug rehabilitation program. While recording the second Full Devil Jacket album he decided to leave the music industry and turn his life around, embracing Christianity. Several years later, he started Day of Fire, and signed to an imprint of Sony Music.\n",
+      "Day of Fire's 2004 self-titled debut album featured hits like \"Cornerstone\" and \"Detainer\".  The album was produced by Scott Humphrey, who has also worked with Metallica and Rob Zombie.  It won a Dove Award for Rock Album of the Year and was also nominated for a Grammy Award.\n",
+      "Their second album, called Cut & Move, was released on June 6, 2006.  \"Run\", a track from Cut & Move, was the theme song for WWE Unforgiven 2006.  Other hit songs from the album include \"Love\", \"Hole In My Hand\", and \"Frustrating\".\n"
+   ]
 }

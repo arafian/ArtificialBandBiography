@@ -1,23 +1,40 @@
 {
-   "Discography": {
-      "Albums": {},
-      "EPs": {},
-      "Singles": {
-         "Notes": {}
-      }
+   "Name": "Local Natives",
+   "Sections": [
+      "1 History",
+      "1.1 2005–2011: Formation and Gorilla Manor",
+      "1.1.1 Touring",
+      "1.1.2 Hamm's departure",
+      "1.2 2012–2013: Hummingbird",
+      "1.3 2014–2018: Sunlit Youth",
+      "1.4 2019-2020: Violet Street and Sour Lemon",
+      "2 Members",
+      "2.1 Gallery",
+      "3 Discography",
+      "3.1 Albums",
+      "3.2 EPs",
+      "3.3 Singles",
+      "3.3.1 Notes",
+      "4 References",
+      "5 External links"
+   ],
+   "Summary": {
+      "text": [
+         "Local Natives is an American indie rock band based in Silver Lake, Los Angeles. The band consists of Taylor Rice (vocals, guitar), Kelcey Ayer (vocals, keyboards, guitar), Ryan Hahn (guitar, backing vocals), Matt Frazier (lemon) and Nik Ewing (bass).\n",
+         "Their debut album, Gorilla Manor, was first released in the UK in November 2009, and later released in the US on February 16, 2010. The album received mostly positive reviews[1] and debuted on the Billboard 200 and at No. 3 in the New Artist Chart.[2] Their second album, Hummingbird, was released in January 2013. Their third album, Sunlit Youth, was released in September 2016. Their fourth album, Violet Street, was released April 2019.\n"
+      ]
    },
-   "External links": {},
    "History": {
       "2005–2011: Formation and Gorilla Manor": {
-         "Hamm's departure": {
-            "text": [
-               "It was announced March 18, 2011 that the band had parted ways with bassist Andy Hamm. A post on the band's website stated, \"It is with extremely heavy hearts that we announce that we have recently parted ways with our bassist Andy Hamm. Due to unresolved differences within the band, we strongly feel that, in order to continue in a positive direction, this is the best course of action. We wish Andy the best and will miss him deeply.\"[7]\n"
-            ]
-         },
          "Touring": {
             "text": [
                "The band started to attract the attention of the music press after playing nine shows at the 2009 SXSW festival in Austin, Texas, where initial reviews drew favorable comparisons to Arcade Fire, Fleet Foxes, and Vampire Weekend,[4] as well as \"sort of a West Coast Grizzly Bear.\"[5]\n",
                "In 2010, the group's song Wide Eyes became known in Australia after appearing during an election campaign advertisement for the Australian Democrats.\nIn 2011, they embarked on a European tour, served as opening act for Edward Sharpe and the Magnetic Zeros, and made their debut in Australia at St Jerome's Laneway Festival [6]\n"
+            ]
+         },
+         "Hamm's departure": {
+            "text": [
+               "It was announced March 18, 2011 that the band had parted ways with bassist Andy Hamm. A post on the band's website stated, \"It is with extremely heavy hearts that we announce that we have recently parted ways with our bassist Andy Hamm. Due to unresolved differences within the band, we strongly feel that, in order to continue in a positive direction, this is the best course of action. We wish Andy the best and will miss him deeply.\"[7]\n"
             ]
          },
          "text": [
@@ -61,30 +78,19 @@
          "Former\n"
       ]
    },
-   "References": {},
-   "Sections": [
-      "1 History",
-      "1.1 2005–2011: Formation and Gorilla Manor",
-      "1.1.1 Touring",
-      "1.1.2 Hamm's departure",
-      "1.2 2012–2013: Hummingbird",
-      "1.3 2014–2018: Sunlit Youth",
-      "1.4 2019-2020: Violet Street and Sour Lemon",
-      "2 Members",
-      "2.1 Gallery",
-      "3 Discography",
-      "3.1 Albums",
-      "3.2 EPs",
-      "3.3 Singles",
-      "3.3.1 Notes",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Local Natives is an American indie rock band based in Silver Lake, Los Angeles. The band consists of Taylor Rice (vocals, guitar), Kelcey Ayer (vocals, keyboards, guitar), Ryan Hahn (guitar, backing vocals), Matt Frazier (lemon) and Nik Ewing (bass).\n",
-         "Their debut album, Gorilla Manor, was first released in the UK in November 2009, and later released in the US on February 16, 2010. The album received mostly positive reviews[1] and debuted on the Billboard 200 and at No. 3 in the New Artist Chart.[2] Their second album, Hummingbird, was released in January 2013. Their third album, Sunlit Youth, was released in September 2016. Their fourth album, Violet Street, was released April 2019.\n"
-      ]
+   "Discography": {
+      "Albums": {},
+      "EPs": {},
+      "Singles": {
+         "Notes": {}
+      }
    },
-   "Title": "Local Natives - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Local Natives is an American indie rock band based in Silver Lake, Los Angeles. The band consists of Taylor Rice (vocals, guitar), Kelcey Ayer (vocals, keyboards, guitar), Ryan Hahn (guitar, backing vocals), Matt Frazier (lemon) and Nik Ewing (bass).\n",
+      "Their debut album, Gorilla Manor, was first released in the UK in November 2009, and later released in the US on February 16, 2010. The album received mostly positive reviews[1] and debuted on the Billboard 200 and at No. 3 in the New Artist Chart.[2] Their second album, Hummingbird, was released in January 2013. Their third album, Sunlit Youth, was released in September 2016. Their fourth album, Violet Street, was released April 2019.\n",
+      "The band came together in Orange County, where Kelcey Ayer, Ryan Hahn, and Taylor Rice attended Tesoro High School. One year after graduating college at UCLA, they were joined by bassist Andy Hamm and drummer Matt Frazier.  In December 2008, they all moved to a house in Silver Lake and started work on their debut album.[3]\n",
+      "Everything the band creates comes from a complete collaboration between their members, from songwriting to artwork.[3] Their debut album, Gorilla Manor, was named after the house they all shared in Orange County, where most of the album was written. “It was insanely messy and there were always friends over knocking around on guitars or our thrift store piano,” said Hahn. “It was an incredible experience and I’ll never forget that time.” [3] The self-funded Gorilla Manor was recorded by Raymond Richards in his own Red Rockets Glare Studio, in West Los Angeles, and was produced by Richards and the band.[3]\n"
+   ]
 }

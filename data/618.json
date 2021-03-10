@@ -1,8 +1,16 @@
 {
+   "Name": "Blue Rose (band)",
+   "Sections": [
+      "Summary"
+   ],
    "Summary": {
       "text": [
          "Blue Rose was an all-star all-women band that played bluegrass music.  All of the musicians in the group are solo artists in their own right who joined together to record an album as a group in 1988 for Sugar Hill Records.\n",
          "The 1988 album's title was simply the name of the band (Blue Rose).[1]\n"
       ]
-   }
+   },
+   "coreData": [
+      "Blue Rose was an all-star all-women band that played bluegrass music.  All of the musicians in the group are solo artists in their own right who joined together to record an album as a group in 1988 for Sugar Hill Records.\n",
+      "The 1988 album's title was simply the name of the band (Blue Rose).[1]\n"
+   ]
 }

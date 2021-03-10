@@ -1,12 +1,18 @@
 {
-   "Discography": {
+   "Name": "Glasgow Police Pipe Band",
+   "Sections": [
+      "1 History",
+      "2 Pipe Majors",
+      "3 Leading Drummers",
+      "4 Discography",
+      "5 References",
+      "6 External links"
+   ],
+   "Summary": {
       "text": [
-         "as City of Glasgow Police Pipe Band\n",
-         "as Strathclyde Police Pipe Band\n",
-         "as Greater Glasgow Police Scotland Pipe Band\n"
+         "Glasgow Police Pipe Band is a grade one pipe band from Glasgow, Scotland. Founded in 1883 as the Burgh of Govan Police Pipe Band, the band enjoyed its greatest competitive success as the Strathclyde Police Pipe Band.\n"
       ]
    },
-   "External links": {},
    "History": {
       "text": [
          "The band was one of the first civilian bands in Britain when it formed in 1883 as the Burgh of Govan Police Pipe Band.[1] The first pipe major was William Bremer, who was succeeded by Walter Drysdale in 1890, who was in turn succeeded by Alexander Hutcheon in 1898.[1] The band enjoyed a good reputation, and was recognised nationally for its quality.[2][3] It wore a tartan designed by the Chief Constable, and played two concerts annually to raise funds.[2]\n",
@@ -21,21 +27,21 @@
          "In December 2019, Pipe Major Ian McPherson stepped down as Pipe Major and Alisdair McLaren was then appointed. McLaren stepped down in January 2020 due to unforeseen family matters. \nFollowing McLaren's resignation, Duncan Nicholson, former pipe major, was appointed. Glasgow Police Pipe Band later announced on Facebook that Ewan Henderson would be appointed Pipe Major with immediate effect as he succeeds Duncan Nicholson who stepped in as interim Pipe Major.\n"
       ]
    },
-   "Leading Drummers": {},
    "Pipe Majors": {},
-   "References": {},
-   "Sections": [
-      "1 History",
-      "2 Pipe Majors",
-      "3 Leading Drummers",
-      "4 Discography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
+   "Leading Drummers": {},
+   "Discography": {
       "text": [
-         "Glasgow Police Pipe Band is a grade one pipe band from Glasgow, Scotland. Founded in 1883 as the Burgh of Govan Police Pipe Band, the band enjoyed its greatest competitive success as the Strathclyde Police Pipe Band.\n"
+         "as City of Glasgow Police Pipe Band\n",
+         "as Strathclyde Police Pipe Band\n",
+         "as Greater Glasgow Police Scotland Pipe Band\n"
       ]
    },
-   "Title": "Glasgow Police Pipe Band - Wikipedia"
+   "References": {},
+   "External links": {},
+   "coreData": [
+      "Glasgow Police Pipe Band is a grade one pipe band from Glasgow, Scotland. Founded in 1883 as the Burgh of Govan Police Pipe Band, the band enjoyed its greatest competitive success as the Strathclyde Police Pipe Band.\n",
+      "The band was one of the first civilian bands in Britain when it formed in 1883 as the Burgh of Govan Police Pipe Band.[1] The first pipe major was William Bremer, who was succeeded by Walter Drysdale in 1890, who was in turn succeeded by Alexander Hutcheon in 1898.[1] The band enjoyed a good reputation, and was recognised nationally for its quality.[2][3] It wore a tartan designed by the Chief Constable, and played two concerts annually to raise funds.[2]\n",
+      "Govan was annexed into Glasgow along with Partick in 1912, and the band became the City of Glasgow Police Pipe Band.[4] In 1913 William Gray, a Gold Medal winner, replaced Hutcheon as pipe major, and the tartan was also replaced with the Royal Stewart.[1] The band won its first World Championship in 1920, but due to Gray's focus on events other than competition the next time the band won the Worlds was 1936.[1]\n",
+      "Gray was succeeded in 1932 by John MacDonald, a student of Gray for many years and also a Gold Medal winner, having won at both the Argyllshire Gathering and the Northern Meeting within a week.[1] Under MacDonald, the band won the World Championships in 1936, 1937, 1938 and 1939, and after the Second World War in 1946, 1949 and 1951.[1]\n"
+   ]
 }
