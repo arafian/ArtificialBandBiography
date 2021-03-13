@@ -14,138 +14,48 @@ from bs4 import BeautifulSoup
 import re
 from urllib.request import urlopen
 import json
-
 import pandas
-colnames = ['url']
-data = pandas.read_csv('list_of_bands.csv', names=colnames)
-urls = data.url.tolist()
-
 from parse_infobox import parse_infobox
 
 
-
-
-
-# return parent section of a key given its heading number
-def getParentSection(numOrTitle, title=False):
-  """Given either the Title or number of a section, 
-     return its parent in our dictionary"""
-
-  if title: # Get the equivalent section number for any section title
-    num = {v: k for k, v in numToTitle.items()}[numOrTitle]
-  else:
-    num = numOrTitle
-
-  depth = num.count('.')               # Get the 'depth' of a section (e.g. 1.3.1 is depth 2)
-  parentNumSplit = num.split(".")
-  parentNumSplit.pop()
-  parentNum = ".".join(parentNumSplit) # Get section number of parent (e.g. 1.3.1 -> 1.3)
-
-  # If depth is 0 (e.g. section num == 1), then just return our dictionary
-  parentSection = bandData
-  if depth == 0:
-    return parentSection
-  
-  # Traverse the tree down to the parent of our input
-  for i in range(1,depth+1):
-    parentNum = ".".join(parentNumSplit[:i])
-    parentSection = parentSection[numToTitle[parentNum]]
-
-  return parentSection
-
-
-
-def createSections(soup):
-  """Create a nested dictionary of sections structured like our wiki article"""
-  
-  # Grab every section title 
-  print(url)
-  toc = soup.find('div', {'class' : 'toc'}) 
-  if toc:
-    sectionTitles = []
-
-    links = toc.findAll('a') # <a href='/path/to/div'>topic</a>
-    for link in links:
-      # append section title to list of all section titles
-      sectionTitles.append(link.getText()) 
-
-    maxDepth = 0
-    for sectionTitle in sectionTitles:
-      # Create a dictionary mapping section numbers to titles
-      titleSplit = sectionTitle.split()
-      num = titleSplit[0]
-      numToTitle[num] = ' '.join(titleSplit[1:])
-      if (num.count('.') > maxDepth):
-        maxDepth = num.count('.')
-
-    bandData["Sections"] = sectionTitles
-    bandData["Summary"] = {}
-    for i in range(0, maxDepth+1):
-      # Create nested section structure in our json data
-      for sectionTitle in sectionTitles:
-        titleSplit = sectionTitle.split()
-        num = titleSplit[0]
-        depth = num.count('.')
-        if (depth == i):
-            parent = getParentSection(num)
-            parent[' '.join(titleSplit[1:])] = {}
-  
-
-def insertSectionText(soup):
+def extractRawData(soup):
   """Inserts text into overall dictionary skeleton"""
+
+  bandData["Name"] = soup.title.string[:-12] # get band name
+
+
   mydiv = soup.find("div", {"class": "mw-parser-output"})
   children = mydiv.findChildren()
-  
-  parent = bandData
-  currentHeader = "Summary"
-  sectionParas = []
-  coreData = []
-  numParagraphs = 4
+
+  rawData = []
+  numParagraphs = 3 # We only care about the first 2-3 paragraphs
   for c in children:
-    if re.match('^h[2-6]$', c.name):
-      name = re.sub("[\[].*?[\]]", "", c.getText().lstrip().rstrip())
-      if name in numToTitle.values():
-        if len(sectionParas):
-          parent[currentHeader]['text'] = sectionParas
-
-        currentHeader = name
-        parent = getParentSection(currentHeader, True)
-        sectionParas = []
-      elif len(numToTitle) == 0:
-        if len(sectionParas):
-          bandData[currentHeader] = {}
-          bandData[currentHeader]['text'] = sectionParas
-          bandData["Sections"].append(currentHeader)
-
-        currentHeader = name
-        sectionParas = []
     if c.name == 'p':
-      sectionParas.append(c.getText())
       if numParagraphs > 0:
         if (c.getText() != "\n"):
-          coreData.append(c.getText())
+          rawData.append(re.sub("[\[].*?[\]]", "", c.getText()))
           numParagraphs-=1
-  bandData["coreData"] = coreData
+  bandData["rawData"] = rawData
 
-numToTitle = {}
-bandData = {}
-allBandNames = []
 def createJSONData(url):
   """Create JSON object representing wikipedia article"""
   html = urlopen(url) 
   soup = BeautifulSoup(html, 'html.parser')
-  bandData["Name"] = soup.title.string[:-12]
-  bandData["Sections"] = []
-  allBandNames.append(bandData["Name"])
-  
-  createSections(soup)
-  insertSectionText(soup)
 
+  extractRawData(soup)
   bandData["infobox"] = parse_infobox(soup)
+  allBandNames.append(bandData["Name"])
 
+
+##########################################################################
+
+colnames = ['url']
+data = pandas.read_csv('list_of_bands.csv', names=colnames)
+urls = data.url.tolist()
+
+allBandNames = []
 fileNum = 0
-for url in urls:
-  numToTitle = {}
+for url in urls[0:4]:
   bandData = {}
   createJSONData(url)
   
