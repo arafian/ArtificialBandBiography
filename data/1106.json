@@ -1,33 +1,9 @@
 {
    "Name": "Neva Dinova",
-   "Sections": [
-      "1 Discography",
-      "1.1 Albums",
-      "1.2 Singles and EPs",
-      "2 Band members",
-      "3 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Neva Dinova is an indie band from Omaha, Nebraska. The band is named after the grandmother of lead singer Jake Bellows. They were initially on crank! a record company (though their second release was licensed to Sidecho Records), and recorded a collaborative album with Bright Eyes entitled One Jug of Wine, Two Vessels. In April 2008, the band released their first album from Saddle Creek Records entitled You May Already Be Dreaming. Drummer Roger Lewis is also the drummer for fellow Saddle Creek band The Good Life, with whom Bellows completed a solo tour in the fall of 2016. Bellows remained a key associate with Bright Eyes in 2006 and 2007 and contributed to the album Cassadaga.\n",
-         "Saddle Creek Records is planning to re-release Neva Dinova's earlier albums.\n",
-         "Neva Dinova's music contains elements of folk, psychedelia, rock, acoustic, and country. They are known for having small and intimate live shows.\n",
-         "In a 2007 interview, Conor Oberst of Bright Eyes revealed that his favorite album to record was One Jug of Wine, Two Vessels with Neva Dinova, and proceeded to talk about them.\n",
-         "Saddle Creek reissued the 2004 EP One Jug of Wine, Two Vessels on March 23, 2010. This reissue included the original tracks as well as four new tracks that were recorded in late 2009.\n",
-         "On August 6, 2013, Neva Dinova's frontman Jake Bellows released his solo debut New Ocean on Saddle Creek.\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "Singles and EPs": {}
-   },
-   "Band members": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Neva Dinova is an indie band from Omaha, Nebraska. The band is named after the grandmother of lead singer Jake Bellows. They were initially on crank! a record company (though their second release was licensed to Sidecho Records), and recorded a collaborative album with Bright Eyes entitled One Jug of Wine, Two Vessels. In April 2008, the band released their first album from Saddle Creek Records entitled You May Already Be Dreaming. Drummer Roger Lewis is also the drummer for fellow Saddle Creek band The Good Life, with whom Bellows completed a solo tour in the fall of 2016. Bellows remained a key associate with Bright Eyes in 2006 and 2007 and contributed to the album Cassadaga.\n",
       "Saddle Creek Records is planning to re-release Neva Dinova's earlier albums.\n",
-      "Neva Dinova's music contains elements of folk, psychedelia, rock, acoustic, and country. They are known for having small and intimate live shows.\n",
-      "In a 2007 interview, Conor Oberst of Bright Eyes revealed that his favorite album to record was One Jug of Wine, Two Vessels with Neva Dinova, and proceeded to talk about them.\n"
+      "Neva Dinova's music contains elements of folk, psychedelia, rock, acoustic, and country. They are known for having small and intimate live shows.\n"
    ],
    "infobox": {}
 }

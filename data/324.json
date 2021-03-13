@@ -1,40 +1,9 @@
 {
    "Name": "Ladyhawk (band)",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "3 Discography",
-      "3.1 Ladyhawk",
-      "3.2 Side projects",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Ladyhawk is a Canadian indie rock band based in Vancouver, British Columbia.[1]  The band released three albums and an EP, and toured across Canada several times.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Ladyhawk formed in February 2004 in Vancouver.[2] Their debut album, Ladyhawk was released on June 6, 2006 on Jagjaguwar Records. The lead single on the album was \"Dugout\", followed by \"My Old Jacknife\". Their next album Shots , was recorded in an old barn in their hometown of Kelowna, and released in 2008.[1][3][4] During the making of Shots, a documentary was filmed about the Ladyhawks, called \"Let Me Be Fictional\".\n",
-         "The songs \"Drunk Eyes\" and \"The Dugout\" (from Ladyhawk) can be heard in the 2009 film The Thaw.\n",
-         "In 2012 the band released the album No Can Do,[5] and then went on a promotional tour around Canada.[6] to promote it.[7] Soon after, the band went on hiatus, but reformed in 2014.[2]\n"
-      ]
-   },
-   "Members": {},
-   "Discography": {
-      "Ladyhawk": {},
-      "Side projects": {}
-   },
-   "See also": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Ladyhawk is a Canadian indie rock band based in Vancouver, British Columbia.[1]  The band released three albums and an EP, and toured across Canada several times.\n",
-      "Ladyhawk formed in February 2004 in Vancouver.[2] Their debut album, Ladyhawk was released on June 6, 2006 on Jagjaguwar Records. The lead single on the album was \"Dugout\", followed by \"My Old Jacknife\". Their next album Shots , was recorded in an old barn in their hometown of Kelowna, and released in 2008.[1][3][4] During the making of Shots, a documentary was filmed about the Ladyhawks, called \"Let Me Be Fictional\".\n",
-      "The songs \"Drunk Eyes\" and \"The Dugout\" (from Ladyhawk) can be heard in the 2009 film The Thaw.\n",
-      "In 2012 the band released the album No Can Do,[5] and then went on a promotional tour around Canada.[6] to promote it.[7] Soon after, the band went on hiatus, but reformed in 2014.[2]\n"
+   "rawData": [
+      "Ladyhawk is a Canadian indie rock band based in Vancouver, British Columbia.  The band released three albums and an EP, and toured across Canada several times.\n",
+      "Ladyhawk formed in February 2004 in Vancouver. Their debut album, Ladyhawk was released on June 6, 2006 on Jagjaguwar Records. The lead single on the album was \"Dugout\", followed by \"My Old Jacknife\". Their next album Shots , was recorded in an old barn in their hometown of Kelowna, and released in 2008. During the making of Shots, a documentary was filmed about the Ladyhawks, called \"Let Me Be Fictional\".\n",
+      "The songs \"Drunk Eyes\" and \"The Dugout\" (from Ladyhawk) can be heard in the 2009 film The Thaw.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,30 +1,9 @@
 {
    "Name": "Contradanza (band)",
-   "Sections": [
-      "1 Discography",
-      "2 Band members",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Contradanza is a folk and acoustic music band formed in 1998 in Seville (Andalusia, Spain), playing traditional music as well as original compositions in the style.\n",
-         "Contradanza offers a different perspective of folk and traditional music by collecting various influences they manage to blend in their acoustic mixer: traditional music, flamenco, jazz, Arab music, renaissance dances. Special focus is set on the revision of traditional ballads and of Andalusian popular lyrical poems as well as on the composition of their own pieces based on the study of contemporary Spanish poetry.[1]\n"
-      ]
-   },
-   "Discography": {},
-   "Band members": {},
-   "References": {
-      "text": [
-         "Another andalusia by Patricia Herlevi\n"
-      ]
-   },
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Contradanza is a folk and acoustic music band formed in 1998 in Seville (Andalusia, Spain), playing traditional music as well as original compositions in the style.\n",
-      "Contradanza offers a different perspective of folk and traditional music by collecting various influences they manage to blend in their acoustic mixer: traditional music, flamenco, jazz, Arab music, renaissance dances. Special focus is set on the revision of traditional ballads and of Andalusian popular lyrical poems as well as on the composition of their own pieces based on the study of contemporary Spanish poetry.[1]\n",
-      "Another andalusia by Patricia Herlevi\n",
-      "This article about a Spanish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+      "Contradanza offers a different perspective of folk and traditional music by collecting various influences they manage to blend in their acoustic mixer: traditional music, flamenco, jazz, Arab music, renaissance dances. Special focus is set on the revision of traditional ballads and of Andalusian popular lyrical poems as well as on the composition of their own pieces based on the study of contemporary Spanish poetry.\n",
+      "Another andalusia by Patricia Herlevi\n"
    ],
    "infobox": {}
 }

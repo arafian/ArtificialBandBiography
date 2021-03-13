@@ -1,37 +1,9 @@
 {
    "Name": "City of Washington Pipe Band",
-   "Sections": [
-      "1 History",
-      "2 Notable members",
-      "3 Pipe majors",
-      "4 Leading drummers",
-      "5 Discography",
-      "6 Notes",
-      "7 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The City of Washington Pipe Band is a grade two pipe band located in Washington, D.C.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The band was formed in 1961 as the Denny & Dunipace Pipe Band, by members of the U.S. Air Force Pipe Band. Unable to compete due to Air Force regulations, members of that band joined with local players to form a Grade Two pipe band in the District of Columbia. Pipe Major Sandy Jones of the Air Force band took over in 1970.  \n",
-         "In 1985, the band changed its name to The Scottish & Irish Imports Pipe Band due to a sponsorship change, and was upgraded to Grade One.  In 1990 Mike Green was named Pipe Major, and after competing under the Denny & Dunipace name during the 1990 season, the band was renamed to the City of Washington Pipe Band to avoid confusion with a new Pipe Band of the same name. In 2007 Dan Lyden was named Pipe Major, and continues the band's tradition of excellent playing on the east coast.[1]\n",
-         "Sponsorship from Icelandair allowed the band to compete internationally in the 1990s, and the band was downgraded to conform with international standards.  They won Grade Two at the World Pipe Band Championships in 1999, and were subsequently upgraded back to Grade One.  Since then, the band has competed internationally in Grade One, coming in 2nd at the North American Pipe Band Championships in Maxville, Ontario in 2000. More recently the band has placed twice in the finals of the World Pipe Band Championships, taking 11th in 2001, and 14th in 2004.[2] After being downgraded by the RSPBA to Grade 2 in 2010 and competing in North America in Grade 1 in 2011, the band requested a move to Grade 2 for the 2012 season while it redevelops its pipe section.[3]\n"
-      ]
-   },
-   "Notable members": {},
-   "Pipe majors": {},
-   "Leading drummers": {},
-   "Discography": {},
-   "Notes": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The City of Washington Pipe Band is a grade two pipe band located in Washington, D.C.\n",
       "The band was formed in 1961 as the Denny & Dunipace Pipe Band, by members of the U.S. Air Force Pipe Band. Unable to compete due to Air Force regulations, members of that band joined with local players to form a Grade Two pipe band in the District of Columbia. Pipe Major Sandy Jones of the Air Force band took over in 1970.  \n",
-      "In 1985, the band changed its name to The Scottish & Irish Imports Pipe Band due to a sponsorship change, and was upgraded to Grade One.  In 1990 Mike Green was named Pipe Major, and after competing under the Denny & Dunipace name during the 1990 season, the band was renamed to the City of Washington Pipe Band to avoid confusion with a new Pipe Band of the same name. In 2007 Dan Lyden was named Pipe Major, and continues the band's tradition of excellent playing on the east coast.[1]\n",
-      "Sponsorship from Icelandair allowed the band to compete internationally in the 1990s, and the band was downgraded to conform with international standards.  They won Grade Two at the World Pipe Band Championships in 1999, and were subsequently upgraded back to Grade One.  Since then, the band has competed internationally in Grade One, coming in 2nd at the North American Pipe Band Championships in Maxville, Ontario in 2000. More recently the band has placed twice in the finals of the World Pipe Band Championships, taking 11th in 2001, and 14th in 2004.[2] After being downgraded by the RSPBA to Grade 2 in 2010 and competing in North America in Grade 1 in 2011, the band requested a move to Grade 2 for the 2012 season while it redevelops its pipe section.[3]\n"
+      "In 1985, the band changed its name to The Scottish & Irish Imports Pipe Band due to a sponsorship change, and was upgraded to Grade One.  In 1990 Mike Green was named Pipe Major, and after competing under the Denny & Dunipace name during the 1990 season, the band was renamed to the City of Washington Pipe Band to avoid confusion with a new Pipe Band of the same name. In 2007 Dan Lyden was named Pipe Major, and continues the band's tradition of excellent playing on the east coast.\n"
    ],
    "infobox": {
       "Established": [

@@ -1,43 +1,9 @@
 {
    "Name": "Tofa'ah",
-   "Sections": [
-      "1 Overview",
-      "2 Musical style",
-      "3 Band members",
-      "3.1 Current",
-      "3.2 Former",
-      "4 Discography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Tofa'ah (Hebrew: תופעה‎, \"phenomenon\" or \"happening\") is an Israeli Jewish rock band formed in Jerusalem in 1981. They are notable for being the first all-female Orthodox Jewish band, preceding later groups like Ashira and Bulletproof Stockings. They have released ten albums since 1984.\n"
-      ]
-   },
-   "Overview": {
-      "text": [
-         "Founder Yona Yakobovitz (drums, piano, vocals) moved to Israel from Saratoga Springs, New York in 1981 to attend seminary. There, she befriended and played with other young female musicians and decided to create an outlet for religious women looking to express themselves musically. This became Tofa'ah, which formed that same year with an original lineup featuring Esther Leuchter (vocals), Rachel Kantorowitz (violin), Joy Shapiro (flute), Ann Rahel Silverman-Limor (guitar), Tehilla Shwab (vocals, flute), and Devora Belinky (flute).[1][2]\n",
-         "Tofa'ah have toured throughout the United States and Israel, performing at venues as diverse as women's prisons, the International Convention Center in Jerusalem, and the court of the Belzer Rebbetzin. They have also appeared several times on Israeli radio and television.[1][2]\n"
-      ]
-   },
-   "Musical style": {
-      "text": [
-         "The band plays a mix of blues, jazz, and rock and roll, citing as influences Joni Mitchell, Pat Benatar, and Earth, Wind & Fire,[2] with Yakobovitz herself citing Shlomo Carlebach, The Rabbis' Sons, and Diaspora Yeshiva Band.[3]\n"
-      ]
-   },
-   "Band members": {
-      "Current": {},
-      "Former": {}
-   },
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Tofa'ah (Hebrew: תופעה‎, \"phenomenon\" or \"happening\") is an Israeli Jewish rock band formed in Jerusalem in 1981. They are notable for being the first all-female Orthodox Jewish band, preceding later groups like Ashira and Bulletproof Stockings. They have released ten albums since 1984.\n",
-      "Founder Yona Yakobovitz (drums, piano, vocals) moved to Israel from Saratoga Springs, New York in 1981 to attend seminary. There, she befriended and played with other young female musicians and decided to create an outlet for religious women looking to express themselves musically. This became Tofa'ah, which formed that same year with an original lineup featuring Esther Leuchter (vocals), Rachel Kantorowitz (violin), Joy Shapiro (flute), Ann Rahel Silverman-Limor (guitar), Tehilla Shwab (vocals, flute), and Devora Belinky (flute).[1][2]\n",
-      "Tofa'ah have toured throughout the United States and Israel, performing at venues as diverse as women's prisons, the International Convention Center in Jerusalem, and the court of the Belzer Rebbetzin. They have also appeared several times on Israeli radio and television.[1][2]\n",
-      "The band plays a mix of blues, jazz, and rock and roll, citing as influences Joni Mitchell, Pat Benatar, and Earth, Wind & Fire,[2] with Yakobovitz herself citing Shlomo Carlebach, The Rabbis' Sons, and Diaspora Yeshiva Band.[3]\n"
+      "Founder Yona Yakobovitz (drums, piano, vocals) moved to Israel from Saratoga Springs, New York in 1981 to attend seminary. There, she befriended and played with other young female musicians and decided to create an outlet for religious women looking to express themselves musically. This became Tofa'ah, which formed that same year with an original lineup featuring Esther Leuchter (vocals), Rachel Kantorowitz (violin), Joy Shapiro (flute), Ann Rahel Silverman-Limor (guitar), Tehilla Shwab (vocals, flute), and Devora Belinky (flute).\n",
+      "Tofa'ah have toured throughout the United States and Israel, performing at venues as diverse as women's prisons, the International Convention Center in Jerusalem, and the court of the Belzer Rebbetzin. They have also appeared several times on Israeli radio and television.\n"
    ],
    "infobox": {
       "Origin": [

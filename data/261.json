@@ -1,31 +1,9 @@
 {
    "Name": "Rautakoura",
-   "Sections": [
-      "Summary",
-      "Discography"
-   ],
-   "Summary": {
-      "text": [
-         "The Rautakoura is a bluegrass band from Helsinki, Finland, that was founded in 2004.  Its members include Juho Häme (bass), Lauri Häme (banjo), Matti Mikkelä (mandolin and guitar) and Pekka Pyysalo (guitar).\n",
-         "Rautakoura attended Uuden Musiikin Kilpailu in 2013.[1][2]\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "Rautakoura have released five albums: Kaikki Peliin (2005), Rautakoura (2006), Maailman ympäri (2007), Kadulta (2008), Neljä vuodenaikaa (2010). A sixth album is due Spring 2013.[3]\n",
-         "Kaikki Peliin\n",
-         "Rautakoura\n",
-         "Maailman ympäri\n",
-         "Kadulta\n",
-         "Neljä vuodenaikaa\n",
-         "Tien päällä taas\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "The Rautakoura is a bluegrass band from Helsinki, Finland, that was founded in 2004.  Its members include Juho Häme (bass), Lauri Häme (banjo), Matti Mikkelä (mandolin and guitar) and Pekka Pyysalo (guitar).\n",
-      "Rautakoura attended Uuden Musiikin Kilpailu in 2013.[1][2]\n",
-      "Rautakoura have released five albums: Kaikki Peliin (2005), Rautakoura (2006), Maailman ympäri (2007), Kadulta (2008), Neljä vuodenaikaa (2010). A sixth album is due Spring 2013.[3]\n",
-      "Kaikki Peliin\n"
+      "Rautakoura attended Uuden Musiikin Kilpailu in 2013.\n",
+      "Rautakoura have released five albums: Kaikki Peliin (2005), Rautakoura (2006), Maailman ympäri (2007), Kadulta (2008), Neljä vuodenaikaa (2010). A sixth album is due Spring 2013.\n"
    ],
    "infobox": {
       "Origin": [

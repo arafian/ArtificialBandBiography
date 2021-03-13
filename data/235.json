@@ -1,40 +1,9 @@
 {
    "Name": "Foggy Mountain Boys",
-   "Sections": [
-      "1 Biography",
-      "2 Members",
-      "3 Notable songs",
-      "4 Discography",
-      "4.1 Albums",
-      "4.2 Singles",
-      "5 References"
-   ],
-   "Summary": {
-      "text": [
-         "Flatt & Scruggs and the Foggy Mountain Boys was an American bluegrass band. The band was founded by guitarist Lester Flatt and banjo player Earl Scruggs and is viewed by music historians as one of the premier bluegrass groups in the history of the genre.[1] The band was originally formed in 1948 by Flatt, who had been a member of Bill Monroe's bluegrass band. Flatt brought Scruggs with him shortly after leaving Monroe.[2]\n",
-         "Flatt and Scruggs and The Foggy Mountain Boys (in various forms and line-ups) recorded and performed together until 1969.[1] The Foggy Mountain Boys are seen as one of the landmark bands in bluegrass music. Although it featured various casts, during the years of The Lester Flatt and Earl Scruggs Grand Ole Opry Show, notably sponsored by grain and flour producer Martha White, the band showcased fiddle player Paul Warren, a master player in both the old-time and bluegrass fiddling styles, whose technique reflected all qualitative aspects of 'the bluegrass breakdown' and fast bowing style; dobro player Uncle Josh Graves, an innovator of the advanced playing style of the instrument now used in the genre, stand-up bass player Cousin Jake Tullock, and mandolinist Curly Seckler.[1]\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "Lester Flatt worked for Monroe at the time Earl Scruggs was considered for Bill Monroe's band, the Blue Grass Boys, in 1945. The two left that band early in 1948, and within a few months had formed the Foggy Mountain Boys.  Flatt's rhythm guitar style and vocals and Scruggs' banjo style gave them a distinctive sound that won them many fans. In 1955, they became members of the Grand Ole Opry.[2]  Many of the songs on their albums are credited to \"Certain and Stacey\". These  songs were in fact written by Flatt, Scruggs, and various other members of the Foggy Mountain Boys. Certain and Stacey are the maiden names of the wives of Flatt and Scruggs (Louise Certain, wife of Earl Scruggs, and Gladys Stacey, wife of Lester Flatt).\n",
-         "Scruggs, who had always shown progressive tendencies, experimented on duets with saxophonist King Curtis and added songs by the likes of Bob Dylan to the group's repertoire. Flatt, a traditionalist, did not like these changes, and the group broke up in 1969.[2]  Following the breakup, Lester Flatt founded the Nashville Grass and Scruggs led the Earl Scruggs Revue. Flatt died in 1979, at the age of 64. Flatt and Scruggs were elected to the Country Music Hall of Fame in 1985.\n",
-         "In 2003, they ranked No. 24 on CMT's 40 Greatest Men of Country Music, one of only four non-solo artists to make the list (The Eagles, Alabama, and Brooks & Dunn are the others).\n",
-         "Scruggs died from natural causes on March 28, 2012 in a Nashville hospital.[3][4]\n"
-      ]
-   },
-   "Members": {},
-   "Notable songs": {},
-   "Discography": {
-      "Albums": {},
-      "Singles": {}
-   },
-   "References": {},
-   "coreData": [
-      "Flatt & Scruggs and the Foggy Mountain Boys was an American bluegrass band. The band was founded by guitarist Lester Flatt and banjo player Earl Scruggs and is viewed by music historians as one of the premier bluegrass groups in the history of the genre.[1] The band was originally formed in 1948 by Flatt, who had been a member of Bill Monroe's bluegrass band. Flatt brought Scruggs with him shortly after leaving Monroe.[2]\n",
-      "Flatt and Scruggs and The Foggy Mountain Boys (in various forms and line-ups) recorded and performed together until 1969.[1] The Foggy Mountain Boys are seen as one of the landmark bands in bluegrass music. Although it featured various casts, during the years of The Lester Flatt and Earl Scruggs Grand Ole Opry Show, notably sponsored by grain and flour producer Martha White, the band showcased fiddle player Paul Warren, a master player in both the old-time and bluegrass fiddling styles, whose technique reflected all qualitative aspects of 'the bluegrass breakdown' and fast bowing style; dobro player Uncle Josh Graves, an innovator of the advanced playing style of the instrument now used in the genre, stand-up bass player Cousin Jake Tullock, and mandolinist Curly Seckler.[1]\n",
-      "Lester Flatt worked for Monroe at the time Earl Scruggs was considered for Bill Monroe's band, the Blue Grass Boys, in 1945. The two left that band early in 1948, and within a few months had formed the Foggy Mountain Boys.  Flatt's rhythm guitar style and vocals and Scruggs' banjo style gave them a distinctive sound that won them many fans. In 1955, they became members of the Grand Ole Opry.[2]  Many of the songs on their albums are credited to \"Certain and Stacey\". These  songs were in fact written by Flatt, Scruggs, and various other members of the Foggy Mountain Boys. Certain and Stacey are the maiden names of the wives of Flatt and Scruggs (Louise Certain, wife of Earl Scruggs, and Gladys Stacey, wife of Lester Flatt).\n",
-      "Scruggs, who had always shown progressive tendencies, experimented on duets with saxophonist King Curtis and added songs by the likes of Bob Dylan to the group's repertoire. Flatt, a traditionalist, did not like these changes, and the group broke up in 1969.[2]  Following the breakup, Lester Flatt founded the Nashville Grass and Scruggs led the Earl Scruggs Revue. Flatt died in 1979, at the age of 64. Flatt and Scruggs were elected to the Country Music Hall of Fame in 1985.\n"
+   "rawData": [
+      "Flatt & Scruggs and the Foggy Mountain Boys was an American bluegrass band. The band was founded by guitarist Lester Flatt and banjo player Earl Scruggs and is viewed by music historians as one of the premier bluegrass groups in the history of the genre. The band was originally formed in 1948 by Flatt, who had been a member of Bill Monroe's bluegrass band. Flatt brought Scruggs with him shortly after leaving Monroe.\n",
+      "Flatt and Scruggs and The Foggy Mountain Boys (in various forms and line-ups) recorded and performed together until 1969. The Foggy Mountain Boys are seen as one of the landmark bands in bluegrass music. Although it featured various casts, during the years of The Lester Flatt and Earl Scruggs Grand Ole Opry Show, notably sponsored by grain and flour producer Martha White, the band showcased fiddle player Paul Warren, a master player in both the old-time and bluegrass fiddling styles, whose technique reflected all qualitative aspects of 'the bluegrass breakdown' and fast bowing style; dobro player Uncle Josh Graves, an innovator of the advanced playing style of the instrument now used in the genre, stand-up bass player Cousin Jake Tullock, and mandolinist Curly Seckler.\n",
+      "Lester Flatt worked for Monroe at the time Earl Scruggs was considered for Bill Monroe's band, the Blue Grass Boys, in 1945. The two left that band early in 1948, and within a few months had formed the Foggy Mountain Boys.  Flatt's rhythm guitar style and vocals and Scruggs' banjo style gave them a distinctive sound that won them many fans. In 1955, they became members of the Grand Ole Opry.  Many of the songs on their albums are credited to \"Certain and Stacey\". These  songs were in fact written by Flatt, Scruggs, and various other members of the Foggy Mountain Boys. Certain and Stacey are the maiden names of the wives of Flatt and Scruggs (Louise Certain, wife of Earl Scruggs, and Gladys Stacey, wife of Lester Flatt).\n"
    ],
    "infobox": {
       "Genres": [

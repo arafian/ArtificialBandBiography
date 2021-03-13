@@ -1,31 +1,9 @@
 {
    "Name": "Aerolíneas Federales",
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "3 External links",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "Aerolíneas Federales was a Spanish pop/rock band from the decade of the 1980s. It was formed in Vigo, Galicia.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Formed in Vigo in 1981 by Miguel Costas and his friends Flechi and Silvino. In the beginning, they played guitar, bass and beatbox. By 1983, the group incorporated a drum-kit and Flechi became the singer of the band. That same year, they won the rock contest of Radio 3 at Coruña and Flechi left the band to join the group Las Termitas. Flechi died from a heart-attack in London in 2002.\n",
-         "The next line-up was composed by Miguel Costas, Silvino, Luis and the girls Coral and Rosa, making songs with powerful guitars and fun and surreal lyrics.\n",
-         "Coral disappeared and was replaced by Silvia Garcia Pintos (who would later become the singer in punk rock band Killer Barbies); Miguel Costas left the band also; the complete band disappeared in the mid-1990s, after some collaborations in the TV-show Xabarín Club,[1] from Galega. Miguel Costas formed the band \"Los Feliz\", while Silvia joined Superstar, and then the Killer Babies.  Rosa went on to open a language training company providing teachers for businesses to give in-house language lessons, called 'Global Project', which is based in Vigo.\n"
-      ]
-   },
-   "Discography": {},
-   "External links": {},
-   "References": {},
-   "coreData": [
+   "rawData": [
       "Aerolíneas Federales was a Spanish pop/rock band from the decade of the 1980s. It was formed in Vigo, Galicia.\n",
       "Formed in Vigo in 1981 by Miguel Costas and his friends Flechi and Silvino. In the beginning, they played guitar, bass and beatbox. By 1983, the group incorporated a drum-kit and Flechi became the singer of the band. That same year, they won the rock contest of Radio 3 at Coruña and Flechi left the band to join the group Las Termitas. Flechi died from a heart-attack in London in 2002.\n",
-      "The next line-up was composed by Miguel Costas, Silvino, Luis and the girls Coral and Rosa, making songs with powerful guitars and fun and surreal lyrics.\n",
-      "Coral disappeared and was replaced by Silvia Garcia Pintos (who would later become the singer in punk rock band Killer Barbies); Miguel Costas left the band also; the complete band disappeared in the mid-1990s, after some collaborations in the TV-show Xabarín Club,[1] from Galega. Miguel Costas formed the band \"Los Feliz\", while Silvia joined Superstar, and then the Killer Babies.  Rosa went on to open a language training company providing teachers for businesses to give in-house language lessons, called 'Global Project', which is based in Vigo.\n"
+      "The next line-up was composed by Miguel Costas, Silvino, Luis and the girls Coral and Rosa, making songs with powerful guitars and fun and surreal lyrics.\n"
    ],
    "infobox": {}
 }

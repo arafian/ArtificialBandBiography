@@ -1,49 +1,9 @@
 {
    "Name": "Do Make Say Think",
-   "Sections": [
-      "1 Biography",
-      "2 Members",
-      "2.1 Current members",
-      "2.2 Previous members",
-      "3 Side projects",
-      "4 Discography",
-      "4.1 LPs",
-      "4.2 EPs",
-      "5 See also",
-      "6 References",
-      "7 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Do Make Say Think is a Canadian instrumental band formed in Toronto, Ontario in 1995. Their music combines jazz-style drumming, distorted guitars and wind instruments, and prominent bass guitar.\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "The band formed in 1995 as a recording project for a Canadian youth dramatic production. They rehearsed for the production in an empty elementary school room. The four simple verbs 'Do', 'Make', 'Say' and 'Think' were painted on walls of the room, and the band adopted them as their name. In 1996, the band progressed as they practiced in the rehearsal room in the basement of the University of Toronto radio station CIUT.\n",
-         "The song \"Chinatown\" from 2002's & Yet & Yet is featured in the movie Syriana, as well as The Corporation.  The song \"The Landlord is Dead\" from Goodbye Enemy Airship the Landlord Is Dead and \"Chinatown\" from & Yet & Yet are also featured in the movie A Simple Curve.\n",
-         "The band's fifth full-length album, entitled You, You're a History in Rust, was released on Constellation Records in February 2007. The band toured North America and Europe to promote the release of the album, and released a tour EP, The Whole Story of Glory, to promote the Japanese leg of their tour.\n",
-         "In June 2009 at Luminato, Toronto's annual festival of arts and creativity, the band provided part of the live soundtrack for the outdoor screening (at Yonge-Dundas Square) of the 1919 silent German horror film Tales Of The Uncanny (Unheimliche Geschichten), alongside Canadian violinist Owen Pallett and electronica music artist Robert Lippok from Berlin, Germany.\n",
-         "Constellation Records released Do Make Say Think's sixth album, titled Other Truths, in October 2009. Their seventh album, titled Stubborn Persistent Illusions, was released on May 19, 2017. The album won the 2018 Juno Awards for Best Instrumental Album, and Best Artwork.* 2017 Root Structure, Ted Quinlan, Larnell Lewis and Robi Botos.[1]\n"
-      ]
-   },
-   "Members": {
-      "Current members": {},
-      "Previous members": {}
-   },
-   "Side projects": {},
-   "Discography": {
-      "LPs": {},
-      "EPs": {}
-   },
-   "See also": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Do Make Say Think is a Canadian instrumental band formed in Toronto, Ontario in 1995. Their music combines jazz-style drumming, distorted guitars and wind instruments, and prominent bass guitar.\n",
       "The band formed in 1995 as a recording project for a Canadian youth dramatic production. They rehearsed for the production in an empty elementary school room. The four simple verbs 'Do', 'Make', 'Say' and 'Think' were painted on walls of the room, and the band adopted them as their name. In 1996, the band progressed as they practiced in the rehearsal room in the basement of the University of Toronto radio station CIUT.\n",
-      "The song \"Chinatown\" from 2002's & Yet & Yet is featured in the movie Syriana, as well as The Corporation.  The song \"The Landlord is Dead\" from Goodbye Enemy Airship the Landlord Is Dead and \"Chinatown\" from & Yet & Yet are also featured in the movie A Simple Curve.\n",
-      "The band's fifth full-length album, entitled You, You're a History in Rust, was released on Constellation Records in February 2007. The band toured North America and Europe to promote the release of the album, and released a tour EP, The Whole Story of Glory, to promote the Japanese leg of their tour.\n"
+      "The song \"Chinatown\" from 2002's & Yet & Yet is featured in the movie Syriana, as well as The Corporation.  The song \"The Landlord is Dead\" from Goodbye Enemy Airship the Landlord Is Dead and \"Chinatown\" from & Yet & Yet are also featured in the movie A Simple Curve.\n"
    ],
    "infobox": {
       "Origin": [

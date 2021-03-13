@@ -1,53 +1,9 @@
 {
    "Name": "Shlomo Gaisin",
-   "Sections": [
-      "1 Biography",
-      "1.1 Early life",
-      "1.2 JudaBlue (2004-2013)",
-      "1.3 Zusha (2013-present)",
-      "2 Other activities",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Shlomo Ari Gaisin (born 1991) is an American Hasidic musician, best known as the lead singer for the Jewish rock band JudaBlue and the Hasidic folk group Zusha.\n"
-      ]
-   },
-   "Biography": {
-      "Early life": {
-         "text": [
-            "Gaisin grew up in Kemp Mill, Maryland, the youngest of seven children.[1][2] His parents, who both became baalei teshuva before he was born,[3] were founding members of the Kemp Mill Synagogue, a local Modern Orthodox shul.[4] They also played instruments at home and exposed him to classical music early on.[1][5] He studied jazz for seven years as a child.[6]\n",
-            "Gaisin attended Melvin J. Berman Hebrew Academy through high school, graduating in 2009.[1] After spending a year in Jerusalem, he attended Yeshiva University, though he later left to study nutrition.[6] As a student, he experienced difficulty reading and writing and often required extra time on tests.[7]\n"
-         ]
-      },
-      "JudaBlue (2004-2013)": {
-         "text": [
-            "While in seventh grade at Berman, Gaisin met classmate Yaniv Hoffman, a fellow music enthusiast, and began playing with him. They formed JudaBlue in 2004, although they didn't begin rehearsing regularly until 2007.\n",
-            "The band released its debut EP, Forty Days, on January 19, 2010, shortly before going on hiatus to allow Gaisin and Hoffman to study in Israel. When they returned, the band released three more songs, \"Falling\", \"Change\", and \"Oneness\", before \nHoffman returned to Israel in 2011 to serve in the IDF.\n"
-         ]
-      },
-      "Zusha (2013-present)": {
-         "text": [
-            "Gaisin moved to Washington Heights in Manhattan, where he met fellow musicians Elisha Mlotek and Zachariah Goldschmiedt through a mutual friend. The three began playing together and formed Zusha in 2013. Their self-titled debut EP, released on November 28, 2014, reached No. 9 on Billboard's World Albums chart.\n"
-         ]
-      }
-   },
-   "Other activities": {
-      "text": [
-         "Outside of music, Gaisin is a certified mashgiach and has provided kosher supervision to a Chinese restaurant in Washington Heights.[8] He has led prayer services at Beth Hamedrash Hagodol[9] and Chevra Ahavas Yisroel.[7] He contributes essays and original music to the Jewish media website Hevria.[10]\n",
-         "Gaisin has been a follower of Hasidism since high school.[6] He appeared on the Winter 2014 cover of the Orthodox Union magazine Jewish Action, promoting an article about neo-Hasidism.[11]\n"
-      ]
-   },
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Shlomo Ari Gaisin (born 1991) is an American Hasidic musician, best known as the lead singer for the Jewish rock band JudaBlue and the Hasidic folk group Zusha.\n",
-      "Gaisin grew up in Kemp Mill, Maryland, the youngest of seven children.[1][2] His parents, who both became baalei teshuva before he was born,[3] were founding members of the Kemp Mill Synagogue, a local Modern Orthodox shul.[4] They also played instruments at home and exposed him to classical music early on.[1][5] He studied jazz for seven years as a child.[6]\n",
-      "Gaisin attended Melvin J. Berman Hebrew Academy through high school, graduating in 2009.[1] After spending a year in Jerusalem, he attended Yeshiva University, though he later left to study nutrition.[6] As a student, he experienced difficulty reading and writing and often required extra time on tests.[7]\n",
-      "While in seventh grade at Berman, Gaisin met classmate Yaniv Hoffman, a fellow music enthusiast, and began playing with him. They formed JudaBlue in 2004, although they didn't begin rehearsing regularly until 2007.\n"
+      "Gaisin grew up in Kemp Mill, Maryland, the youngest of seven children. His parents, who both became baalei teshuva before he was born, were founding members of the Kemp Mill Synagogue, a local Modern Orthodox shul. They also played instruments at home and exposed him to classical music early on. He studied jazz for seven years as a child.\n",
+      "Gaisin attended Melvin J. Berman Hebrew Academy through high school, graduating in 2009. After spending a year in Jerusalem, he attended Yeshiva University, though he later left to study nutrition. As a student, he experienced difficulty reading and writing and often required extra time on tests.\n"
    ],
    "infobox": {
       "Born": [

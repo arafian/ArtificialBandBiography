@@ -1,35 +1,9 @@
 {
    "Name": "Zones (band)",
-   "Sections": [
-      "1 Career",
-      "2 Discography",
-      "3 See also",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "Zones were a Scottish power pop and new wave band founded in late 1977,[1] following the demise of PVC2 (formerly the bubbleglam and soft rock band Slik).\n"
-      ]
-   },
-   "Career": {
-      "text": [
-         "PVC2 consisted of Midge Ure (future Ultravox frontman) on guitar, Russell Webb on bass, Billy McIsaac on keyboards and Kenny Hyslop on drums. In late 1977, Ure left PVC2 to join Rich Kids with Glen Matlock. Then, Webb, Hyslop and McIsaac called in Alex Harvey's cousin Willie Gardner to replace Ure on guitar and vocals, and Zones was formed.\n",
-         "In February 1978, Zones released a single \"Stuck with You\",[2] which attracted the attention of BBC Radio 1 DJ John Peel, leading to the band recording a session for his show.[3] It also drew the attention of Arista Records, who signed them and would release the rest of their discography.\n",
-         "Their next single, \"Sign of the Times\", released in July.[4] Zones also toured with Magazine and recorded a further session for John Peel.[5] On 1 June 1979, Zones released Under Influence,[6][7][8] an album of post-punk power pop.\n",
-         "Shortly afterwards, they released a 7\" single called \"Mourning Star\",[9][8] whose eponymous song (a shorter version of the album song) was backed with \"Under Influence\" (which did not appear on the album, despite the name being the same). They also had a song that was featured in the movie That Summer! entitled \"New Life.\" Shortly afterwards, the band decided to split up, as the album did not reach expectations.\n",
-         "Gardner joined Endgames, with Simple Minds' original drummer Brian McGee. McIsaac and Hyslop continued with a project called Science, a band considered as a continuation of Zones, but only McIsaac was the supposedly remaining member.[10][11] Webb and Hyslop joined Skids.\n",
-         "In 1990, McIsaac moved to study piano performance college at the Royal Academy of Music in Glasglow, and later formed a self-titled wedding band, which he played in until retiring in 2012.[12][13]\n",
-         "Webb collaborated with Skids' singer Richard Jobson (Skids singer) until 1988, and Hyslop, after collaborating with Skids album, Joy, moved to Simple Minds (1981–1982) and later Set the Tone (1982–1983).\n"
-      ]
-   },
-   "Discography": {},
-   "See also": {},
-   "References": {},
-   "coreData": [
-      "Zones were a Scottish power pop and new wave band founded in late 1977,[1] following the demise of PVC2 (formerly the bubbleglam and soft rock band Slik).\n",
+   "rawData": [
+      "Zones were a Scottish power pop and new wave band founded in late 1977, following the demise of PVC2 (formerly the bubbleglam and soft rock band Slik).\n",
       "PVC2 consisted of Midge Ure (future Ultravox frontman) on guitar, Russell Webb on bass, Billy McIsaac on keyboards and Kenny Hyslop on drums. In late 1977, Ure left PVC2 to join Rich Kids with Glen Matlock. Then, Webb, Hyslop and McIsaac called in Alex Harvey's cousin Willie Gardner to replace Ure on guitar and vocals, and Zones was formed.\n",
-      "In February 1978, Zones released a single \"Stuck with You\",[2] which attracted the attention of BBC Radio 1 DJ John Peel, leading to the band recording a session for his show.[3] It also drew the attention of Arista Records, who signed them and would release the rest of their discography.\n",
-      "Their next single, \"Sign of the Times\", released in July.[4] Zones also toured with Magazine and recorded a further session for John Peel.[5] On 1 June 1979, Zones released Under Influence,[6][7][8] an album of post-punk power pop.\n"
+      "In February 1978, Zones released a single \"Stuck with You\", which attracted the attention of BBC Radio 1 DJ John Peel, leading to the band recording a session for his show. It also drew the attention of Arista Records, who signed them and would release the rest of their discography.\n"
    ],
    "infobox": {
       "Origin": [

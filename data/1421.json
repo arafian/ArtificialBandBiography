@@ -1,67 +1,9 @@
 {
    "Name": "Tiny Masters of Today",
-   "Sections": [
-      "1 History",
-      "1.1 The Early Years",
-      "1.2 Bang Bang Boom Cake",
-      "2 Sound",
-      "3 Discography",
-      "3.1 Albums",
-      "3.2 EPs",
-      "3.3 Compilation albums",
-      "3.4 Singles",
-      "3.5 Remixes",
-      "4 Music videos",
-      "5 Notes",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Tiny Masters of Today are an American indie punk rock band, consisting of siblings Ivan (born February 21, 1994) and Ada (born March 4, 1996) and their friend Jackson Pollis. All members are from Brooklyn, New York.\n"
-      ]
-   },
-   "History": {
-      "The Early Years": {
-         "text": [
-            "The adolescent punk group came to international attention after putting some of their homemade recordings on a Myspace page in the spring of 2005. Before they had even performed their first live show, they were featured in Newsweek, who called their \"brief, bratty\" songs \"remarkable\".[1]\n",
-            "Shortly thereafter, British independent label Tigertrap Records, compiled three songs from the home recordings as the EP Big Noise. The entire pressing sold out almost immediately and influential UK music tastemakers Artrocker Magazine featured them on the cover proclaiming them \"the future of rock and roll.\" Influential rocker David Bowie praised the band in several media outlets, declaring their first single \"Genius.\"  A second home-recorded EP K.I.D.S. was released in December 2006 and also sold out immediately.\n",
-            "The earliest incarnation featured Ivan and Ada accompanied by a laptop computer. Russell Simins, drummer for the Blues Explosion, contacted the band after hearing their demos and began an improbably lengthy stint as their live drummer. The trio played nearly 60 shows together, including tours of the UK and Europe. Simins also co-produced (with Phil Hernandez and Chris Maxwell aka The Elegant Too) the band's first full-length album, Bang Bang Boom Cake (2007).\n"
-         ]
-      },
-      "Bang Bang Boom Cake": {
-         "text": [
-            "The critical response to their first singles led to significant label interest in the band although the band remained  unsigned during the recording of Bang Bang Boom Cake. Upon completion the album was licensed to Great Society/ World's Fair for North America and Mute Records for the rest of the World.\n",
-            "The album featured 13 songs and included writing collaborations with Kimya Dawson and Karen O from the Yeah Yeah Yeahs. Guest performers included Karen O and Nick Zinner (Yeah Yeah Yeahs), Kimya Dawson (Moldy Peaches), Russell Simins (Blues Explosion), Gibby Haynes (Butthole Surfers), Fred Schneider (The B-52's) and turntablist DJ Atsushi Numata. In a video interview by VidoCity, Ivan mentioned that Blues Explosion drummer Russell Simins showed interest in working with the band on their debut album. In a mix-up, a photo of Def Jam pioneer Russell Simmons splashed onto the screen instead.[2] The band appeared with Simins on the Public Radio International program Fair Game in December 2006, performing the songs \"Stickin' It to the Man\" and \"Tooty Frooty\".[3] Simins went on to tour with the band in 2007 but was replaced by Jackson Pollis in 2008.\n",
-            "On March 31, 2009, Tiny Masters announced the April release of their single \"Skeletons\" in the UK and US, supported by a ten-concert ten-day tour of Europe and England and an already widely seen video.  A new album was announced for June.\n"
-         ]
-      }
-   },
-   "Sound": {
-      "text": [
-         "Their songs usually feature a simple structure and repetitive lyrics and are frequently less than two minutes long. Some of the songs consist solely of a single chord. They also make ample use of technology, incorporating loops and samples and programmed drums into many of their songs. Much of their recording is done using a home computer with GarageBand.\n",
-         "Many critics have compared them to punk forefathers The Ramones and The Stooges. Their music has also been described as simple, repetitive, shallow and unengaging.[4]\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "EPs": {},
-      "Compilation albums": {},
-      "Singles": {},
-      "Remixes": {
-         "text": [
-            "Remixes of:\n",
-            "Remixes by:\n"
-         ]
-      }
-   },
-   "Music videos": {},
-   "Notes": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Tiny Masters of Today are an American indie punk rock band, consisting of siblings Ivan (born February 21, 1994) and Ada (born March 4, 1996) and their friend Jackson Pollis. All members are from Brooklyn, New York.\n",
-      "The adolescent punk group came to international attention after putting some of their homemade recordings on a Myspace page in the spring of 2005. Before they had even performed their first live show, they were featured in Newsweek, who called their \"brief, bratty\" songs \"remarkable\".[1]\n",
-      "Shortly thereafter, British independent label Tigertrap Records, compiled three songs from the home recordings as the EP Big Noise. The entire pressing sold out almost immediately and influential UK music tastemakers Artrocker Magazine featured them on the cover proclaiming them \"the future of rock and roll.\" Influential rocker David Bowie praised the band in several media outlets, declaring their first single \"Genius.\"  A second home-recorded EP K.I.D.S. was released in December 2006 and also sold out immediately.\n",
-      "The earliest incarnation featured Ivan and Ada accompanied by a laptop computer. Russell Simins, drummer for the Blues Explosion, contacted the band after hearing their demos and began an improbably lengthy stint as their live drummer. The trio played nearly 60 shows together, including tours of the UK and Europe. Simins also co-produced (with Phil Hernandez and Chris Maxwell aka The Elegant Too) the band's first full-length album, Bang Bang Boom Cake (2007).\n"
+      "The adolescent punk group came to international attention after putting some of their homemade recordings on a Myspace page in the spring of 2005. Before they had even performed their first live show, they were featured in Newsweek, who called their \"brief, bratty\" songs \"remarkable\".\n",
+      "Shortly thereafter, British independent label Tigertrap Records, compiled three songs from the home recordings as the EP Big Noise. The entire pressing sold out almost immediately and influential UK music tastemakers Artrocker Magazine featured them on the cover proclaiming them \"the future of rock and roll.\" Influential rocker David Bowie praised the band in several media outlets, declaring their first single \"Genius.\"  A second home-recorded EP K.I.D.S. was released in December 2006 and also sold out immediately.\n"
    ],
    "infobox": {
       "Genres": [

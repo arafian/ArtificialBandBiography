@@ -1,58 +1,9 @@
 {
-   "Name": "Crown City Rockers",
-   "Sections": [
-      "1 Members",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Compilation albums",
-      "2.3 EPs",
-      "2.4 Singles",
-      "3 References",
-      "4 External links"
+   "Name": "Tahúres zurdos",
+   "rawData": [
+      "Tahúres zurdos (Left-handed Gamblers) was a Spanish band active from 1987 to 2004.\n",
+      "Its members were Aurora Beltrán Gila (voice, composition and guitar), Manuel Beltrán Gila (Lolo Beltrán, Aurora's brother, guitarist), Luis salcedo (until 1990, bass), Juan Manuel Ugarte (from 1990 on, bass), Javier Lizarazu (alias Punxes, drummer).\n",
+      "They were influenced by The Who, Led Zeppelin, David Bowie, and Lou Reed\n"
    ],
-   "Summary": {
-      "text": [
-         "Crown City Rockers is a five-member hip hop band from Oakland, California, by way of Boston, Massachusetts and Pasadena. Formerly known as Mission, the name under which they released their first album,[1] they play old school hip hop music with live instrumentation[2][3][4] (similar to other hip hop groups like: Gym Class Heroes, The Roots, N.E.R.D, and Stetsasonic). They have been compared to groups such as: A Tribe Called Quest, The Roots, and De La Soul.[5] In 2009, the group released their third album, The Day After Forever.[6]\n"
-      ]
-   },
-   "Members": {},
-   "Discography": {
-      "Studio albums": {},
-      "Compilation albums": {},
-      "EPs": {},
-      "Singles": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Crown City Rockers is a five-member hip hop band from Oakland, California, by way of Boston, Massachusetts and Pasadena. Formerly known as Mission, the name under which they released their first album,[1] they play old school hip hop music with live instrumentation[2][3][4] (similar to other hip hop groups like: Gym Class Heroes, The Roots, N.E.R.D, and Stetsasonic). They have been compared to groups such as: A Tribe Called Quest, The Roots, and De La Soul.[5] In 2009, the group released their third album, The Day After Forever.[6]\n"
-   ],
-   "infobox": {
-      "Also known as": [
-         "Mission"
-      ],
-      "Origin": [
-         "Boston, Massachusetts, Oakland, California, United States"
-      ],
-      "Genres": [
-         "Hip hop"
-      ],
-      "Years active": [
-         "1997–present"
-      ],
-      "Labels": [
-         "Basement Records",
-         "Insiduous Urban Records"
-      ],
-      "Website": [
-         "www.crowncityrockers.com"
-      ],
-      "Members": [
-         "Raashan Ahmad",
-         "Woodstock",
-         "Headnodic",
-         "Max MacVeety",
-         "Kat Ouano"
-      ]
-   }
+   "infobox": {}
 }

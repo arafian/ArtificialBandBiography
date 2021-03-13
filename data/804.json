@@ -1,25 +1,7 @@
 {
    "Name": "Sambassadeur",
-   "Sections": [
-      "1 Discography",
-      "1.1 Studio albums",
-      "1.2 Singles & EPs",
-      "2 References",
-      "3 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Sambassadeur are a Swedish pop band formed in 2003 in Gothenburg. They are named after the Serge Gainsbourg song \"Les Sambassadeurs.\"[1] The band are signed to the Labrador label, and to date, they have released four studio albums and a handful of EPs and singles. Their third album, European, was released in February 2010.[2]\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Singles & EPs": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Sambassadeur are a Swedish pop band formed in 2003 in Gothenburg. They are named after the Serge Gainsbourg song \"Les Sambassadeurs.\"[1] The band are signed to the Labrador label, and to date, they have released four studio albums and a handful of EPs and singles. Their third album, European, was released in February 2010.[2]\n",
+   "rawData": [
+      "Sambassadeur are a Swedish pop band formed in 2003 in Gothenburg. They are named after the Serge Gainsbourg song \"Les Sambassadeurs.\" The band are signed to the Labrador label, and to date, they have released four studio albums and a handful of EPs and singles. Their third album, European, was released in February 2010.\n",
       "This article about a Swedish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ],
    "infobox": {

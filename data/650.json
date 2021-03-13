@@ -1,39 +1,9 @@
 {
    "Name": "Erase Errata",
-   "Sections": [
-      "1 History",
-      "2 Personnel",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 Singles",
-      "3.3 Compilations",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Erase Errata was a band from San Francisco, California. They often named experimentalists such as Captain Beefheart, The Fall, and the Minutemen as inspirations.  The group favored improvisation as a compositional tool and each of their performances were a unique manifestation of established songs.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Erase Errata formed in Oakland, California in 1999 and quickly earned national attention after the release of their first eponymous 7\" and via tours with electro grrl band Le Tigre and Japanese noise rockers Melt Banana.[1]  They released their highly acclaimed debut album Other Animals in 2001, followed by At Crystal Palace in 2003, both on the Troubleman Unlimited label.  The group began counting Sonic Youth, Mission of Burma and The Ex among their fans.\n",
-         "After founding guitarist Sara Jaffe left Erase Errata in 2004, singer Jenny Hoyston switched to guitar and the group briefly drafted a male vocalist named Archie McKay.  The group eventually settled on a three-piece lineup, with Hoyston handling both guitar and vocal duties, and joined the Kill Rock Stars roster for the 2006 album Nightlife.\n"
-      ]
-   },
-   "Personnel": {},
-   "Discography": {
-      "Studio albums": {},
-      "Singles": {},
-      "Compilations": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Erase Errata was a band from San Francisco, California. They often named experimentalists such as Captain Beefheart, The Fall, and the Minutemen as inspirations.  The group favored improvisation as a compositional tool and each of their performances were a unique manifestation of established songs.\n",
-      "Erase Errata formed in Oakland, California in 1999 and quickly earned national attention after the release of their first eponymous 7\" and via tours with electro grrl band Le Tigre and Japanese noise rockers Melt Banana.[1]  They released their highly acclaimed debut album Other Animals in 2001, followed by At Crystal Palace in 2003, both on the Troubleman Unlimited label.  The group began counting Sonic Youth, Mission of Burma and The Ex among their fans.\n",
-      "After founding guitarist Sara Jaffe left Erase Errata in 2004, singer Jenny Hoyston switched to guitar and the group briefly drafted a male vocalist named Archie McKay.  The group eventually settled on a three-piece lineup, with Hoyston handling both guitar and vocal duties, and joined the Kill Rock Stars roster for the 2006 album Nightlife.\n",
-      "This article on a United States rock music band is a stub. You can help Wikipedia by expanding it."
+      "Erase Errata formed in Oakland, California in 1999 and quickly earned national attention after the release of their first eponymous 7\" and via tours with electro grrl band Le Tigre and Japanese noise rockers Melt Banana.  They released their highly acclaimed debut album Other Animals in 2001, followed by At Crystal Palace in 2003, both on the Troubleman Unlimited label.  The group began counting Sonic Youth, Mission of Burma and The Ex among their fans.\n",
+      "After founding guitarist Sara Jaffe left Erase Errata in 2004, singer Jenny Hoyston switched to guitar and the group briefly drafted a male vocalist named Archie McKay.  The group eventually settled on a three-piece lineup, with Hoyston handling both guitar and vocal duties, and joined the Kill Rock Stars roster for the 2006 album Nightlife.\n"
    ],
    "infobox": {
       "Origin": [

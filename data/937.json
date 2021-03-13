@@ -1,39 +1,9 @@
 {
    "Name": "Billy & the Kids",
-   "Sections": [
-      "1 Origins and history",
-      "2 Members",
-      "2.1 Special Guests",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Billy & the Kids is an American rock band formed in 2014 by Grateful Dead drummer Bill Kreutzmann, Joe Russo's Almost Dead guitarist Tom Hamilton, Tea Leaf Green bassist Reed Mathis and the Disco Biscuits keyboardist Aron Magner.\n"
-      ]
-   },
-   "Origins and history": {
-      "text": [
-         "In September 2014 Bill Kreutzmann appeared at the second annual Lockn' Festival with a band billed as Bill Kreutzmann's Locknstep Allstars. The band was assembled to help fill in for Bob Weir & RatDog who cancelled their appearance at the festival and it consisted of Kreutzmann, Hamilton, Magner, Oteil Burbridge and Steve Kimock. They were joined for some songs by special guests Keller Williams, Taj Mahal, and Papa Mali.\n",
-         "In late 2014 Kreutzmann announced the formation of Billy & the Kids which consists of almost the same lineup as the Locknstep Allstars, without Steve Kimock and with Reed Mathis playing bass in place of Oteil Burbridge.[1][2] They performed their first concert on December 13 at the 26th Warren Haynes Christmas Jam, where they were joined by special guests such as Col. Bruce Hampton and Warren Haynes.[3]\n",
-         "Beginning in early 2015 the band has been performing throughout the United States. Many of their shows feature a theme relating to the Grateful Dead, such as Europe Seventy 2.0 and Spring '90 Revisited.[4][5]\n",
-         "To date, almost all of the band's shows have featured special guests such as Robert Randolph and Kreutzmann's former Grateful Dead bandmate Bob Weir. Sometimes these guests sit in for a song or two and other times they accompany the group for an entire set or show.\n"
-      ]
-   },
-   "Members": {
-      "Special Guests": {
-         "text": [
-            "* Full concert performance\n# Full set performance\n"
-         ]
-      }
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Billy & the Kids is an American rock band formed in 2014 by Grateful Dead drummer Bill Kreutzmann, Joe Russo's Almost Dead guitarist Tom Hamilton, Tea Leaf Green bassist Reed Mathis and the Disco Biscuits keyboardist Aron Magner.\n",
       "In September 2014 Bill Kreutzmann appeared at the second annual Lockn' Festival with a band billed as Bill Kreutzmann's Locknstep Allstars. The band was assembled to help fill in for Bob Weir & RatDog who cancelled their appearance at the festival and it consisted of Kreutzmann, Hamilton, Magner, Oteil Burbridge and Steve Kimock. They were joined for some songs by special guests Keller Williams, Taj Mahal, and Papa Mali.\n",
-      "In late 2014 Kreutzmann announced the formation of Billy & the Kids which consists of almost the same lineup as the Locknstep Allstars, without Steve Kimock and with Reed Mathis playing bass in place of Oteil Burbridge.[1][2] They performed their first concert on December 13 at the 26th Warren Haynes Christmas Jam, where they were joined by special guests such as Col. Bruce Hampton and Warren Haynes.[3]\n",
-      "Beginning in early 2015 the band has been performing throughout the United States. Many of their shows feature a theme relating to the Grateful Dead, such as Europe Seventy 2.0 and Spring '90 Revisited.[4][5]\n"
+      "In late 2014 Kreutzmann announced the formation of Billy & the Kids which consists of almost the same lineup as the Locknstep Allstars, without Steve Kimock and with Reed Mathis playing bass in place of Oteil Burbridge. They performed their first concert on December 13 at the 26th Warren Haynes Christmas Jam, where they were joined by special guests such as Col. Bruce Hampton and Warren Haynes.\n"
    ],
    "infobox": {
       "Origin": [

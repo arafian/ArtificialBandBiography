@@ -1,39 +1,9 @@
 {
    "Name": "City of Blacktown Pipe Band",
-   "Sections": [
-      "Summary",
-      "Band history",
-      "International Contests"
-   ],
-   "Summary": {
-      "text": [
-         "The City of Blacktown Pipe Band is a Grade 4 pipe band based in Blacktown, New South Wales, Australia.\n"
-      ]
-   },
-   "Band history": {
-      "text": [
-         "The City of Blacktown Pipe Band was formed in 1975 under the direction of Pipe Major Don McLeish originally as the St John Ambulance Brigade Pipes & Drums and rose quickly to prominence in the competition arena and in 1978, placed 3rd in the Grade 2 Australian Pipe Band Championships. Two years later at the next Australian Championships the band came 2nd, with a first in piping and drumming.\n",
-         "In 1981, the band aligned itself with the Blacktwon RSL and changed its name from St Johns Ambulance Brigade Pipe Band to Blacktown RSL Pipe Band.\n",
-         "The following year the band once again contested the Grade 2 Australian Championships and successfully gained 1st Place. At the conclusion of that season the band was re-graded to Grade 1 and has since contested over 160 Grade 1 competitions in Australia, New Zealand and Scotland.\n",
-         "1982 saw the formation of a No 2 band to accommodate the growing numbers of junior and other members. The City of Blacktown Pipe Band #2 has also competed successfully in Grade 3A at the 2006 World Pipe Band Championships on Glasgow Green, numerous local contest wins and places and a great win at the 2005 Square Day Competition in Palmerston North.\n",
-         "In 1984 the band elected a new Pipe Major in Barry Gray who held this position until 2006, some 22 years.\n",
-         "In 1992, on the band's first trip to compete in Scotland the Grade 4 band achieved 2nd place at the World Championships.\n",
-         "Whilst the Band relies primarily upon its own activities to provide operational funding, in 1985 there was a change of name to the City of Blacktown Pipe Band following agreement by The City of Blacktown Council to support the band in its training and development activities, the provision of a permanent home at Blacktown Showground close to Blacktown Station, and with periodic assistance towards the cost of replacement of musical instruments. This proved to be a very successful and durable partnership and the ongoing support of the Blacktown community continues to support and encourage the Band's successful growth.\n",
-         "Since becoming the City of Blacktown Pipe Band, the band has won the NSW State Pipe Band Championships, East Coast of Australia Championships and the No.2 Band has gained 2nd place in the Australian Grade 4 Championships twice. In 1990, the No.2 band won the drumming event at the Australian Championships.\n",
-         "Ainsley Hart become the Pipe Major of the band in 2007 and held this position through to 2011, at which point the Grade 1 band ceased to exist and Andrew Caveney took over the band as Pipe Major. The band now competes in Grade 4.\n"
-      ]
-   },
-   "International Contests": {
-      "text": [
-         "Indonesia in 1983, 1989 and 2007.\nNew Zealand 1988, Christchurch 1992, Palmerston North 2004, 2005 and 2006.\nThe band has toured Europe including Scotland where both the No.1 & No.2 bands competed in Grade 1 & Grade 4 at the World Pipe Band Championships in 1992, 1995 and 1998.\n",
-         "The Band returned to Scotland in 2006, this time with a touring contingent of over 70 players fielding three competition Bands in Grades 1, 3A and 4. Scotland competitions in 2006 included the European Championships in Gourock, Callander, North Berwick, Bridge of Allan, The World Pipe Band Championships, and Perth.\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "The City of Blacktown Pipe Band is a Grade 4 pipe band based in Blacktown, New South Wales, Australia.\n",
       "The City of Blacktown Pipe Band was formed in 1975 under the direction of Pipe Major Don McLeish originally as the St John Ambulance Brigade Pipes & Drums and rose quickly to prominence in the competition arena and in 1978, placed 3rd in the Grade 2 Australian Pipe Band Championships. Two years later at the next Australian Championships the band came 2nd, with a first in piping and drumming.\n",
-      "In 1981, the band aligned itself with the Blacktwon RSL and changed its name from St Johns Ambulance Brigade Pipe Band to Blacktown RSL Pipe Band.\n",
-      "The following year the band once again contested the Grade 2 Australian Championships and successfully gained 1st Place. At the conclusion of that season the band was re-graded to Grade 1 and has since contested over 160 Grade 1 competitions in Australia, New Zealand and Scotland.\n"
+      "In 1981, the band aligned itself with the Blacktwon RSL and changed its name from St Johns Ambulance Brigade Pipe Band to Blacktown RSL Pipe Band.\n"
    ],
    "infobox": {
       "Established": [

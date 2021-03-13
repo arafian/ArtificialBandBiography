@@ -1,36 +1,9 @@
 {
    "Name": "Systematic (band)",
-   "Sections": [
-      "1 History",
-      "2 Band members",
-      "3 Discography",
-      "3.1 U.S. charting singles",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "Systematic was an American hard rock band from Oakland, California. They were one of the first signings to Metallica drummer Lars Ulrich's record label, The Music Company, via Elektra Records. The band released two studio albums before disbanding in 2004.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "After signing with The Music Company, Systematic recorded their debut album, Somewhere in Between. Released in late 2001, it reached #143 in Billboard album chart. Systematic toured on Ozzfest the same year. In addition, the band appeared in HBO's live concert program Reverb alongside Papa Roach and Beautiful Creatures.\n",
-         "During the music video shoot for the song \"Deep Colors Bleed,\" drummer Shaun Bannon injured his arm, forcing him to step down from his duties behind the kit. After a few temporary fill-in drummers, former Slayer drummer Paul Bostaph joined Systematic in 2002. The video game \"ATV Offroad Fury 2\" released on November 9, 2002 featured the band's song \"Thick Skin\". Somewhere in this time period, Nick St. Denis also left the band due to his desire to play guitar instead of bass. Bassist Johnny Chow filled the void, and the group headed to the studio to record their follow-up to Somewhere in Between.\n",
-         "Pleasure to Burn was released in 2003, and the band embarked on the Jägermeister Music Tour along with Stereomud, Hed PE, Breaking Benjamin, and Saliva, as well as other tours to promote their sophomore effort.\n",
-         "Paul Bostaph left the band in 2004, and former drummer Shaun Bannon rejoined, having healed from his injuries. He was not in the group for long, however, as Systematic officially disbanded following a concert in April 2004. Soon after, vocalist Tim Narducci would form a new group with the remnants of recently disbanded Manmade God, which featured a longtime friend of Narducci, guitarist Craig Locicero. The band, soon named Spiralarms, would go on to record an album together.[1] Nick St. Denis went on to play in Raze the Stray with Skinlab founder Mike Roberts and Subincision bassist Rik Miles.\n",
-         "On May 27, 2011, Systematic announced that they would be reuniting to celebrate the 10th anniversary of their debut album. The show took place on August 20, 2011 at Slim's in San Francisco, California.  The one-off show turned into a short reunion, and the band played until early 2012.\n"
-      ]
-   },
-   "Band members": {},
-   "Discography": {
-      "U.S. charting singles": {}
-   },
-   "References": {},
-   "coreData": [
+   "rawData": [
       "Systematic was an American hard rock band from Oakland, California. They were one of the first signings to Metallica drummer Lars Ulrich's record label, The Music Company, via Elektra Records. The band released two studio albums before disbanding in 2004.\n",
       "After signing with The Music Company, Systematic recorded their debut album, Somewhere in Between. Released in late 2001, it reached #143 in Billboard album chart. Systematic toured on Ozzfest the same year. In addition, the band appeared in HBO's live concert program Reverb alongside Papa Roach and Beautiful Creatures.\n",
-      "During the music video shoot for the song \"Deep Colors Bleed,\" drummer Shaun Bannon injured his arm, forcing him to step down from his duties behind the kit. After a few temporary fill-in drummers, former Slayer drummer Paul Bostaph joined Systematic in 2002. The video game \"ATV Offroad Fury 2\" released on November 9, 2002 featured the band's song \"Thick Skin\". Somewhere in this time period, Nick St. Denis also left the band due to his desire to play guitar instead of bass. Bassist Johnny Chow filled the void, and the group headed to the studio to record their follow-up to Somewhere in Between.\n",
-      "Pleasure to Burn was released in 2003, and the band embarked on the Jägermeister Music Tour along with Stereomud, Hed PE, Breaking Benjamin, and Saliva, as well as other tours to promote their sophomore effort.\n"
+      "During the music video shoot for the song \"Deep Colors Bleed,\" drummer Shaun Bannon injured his arm, forcing him to step down from his duties behind the kit. After a few temporary fill-in drummers, former Slayer drummer Paul Bostaph joined Systematic in 2002. The video game \"ATV Offroad Fury 2\" released on November 9, 2002 featured the band's song \"Thick Skin\". Somewhere in this time period, Nick St. Denis also left the band due to his desire to play guitar instead of bass. Bassist Johnny Chow filled the void, and the group headed to the studio to record their follow-up to Somewhere in Between.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,36 +1,9 @@
 {
    "Name": "Hearts Like Lions",
-   "Sections": [
-      "1 Background",
-      "2 Music history",
-      "3 Members",
-      "4 Discography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Hearts Like Lions is an American indie rock band, and they play an alternative rock music style. They come from Long Beach, California, where they were formed in 2011, with lead vocalist, Stephen Ramos. Their first extended play, These Hands, was released in 2014, with Tooth & Nail Records. Their single, \"Stranger\", broke through on the Billboard magazine Christian Rock chart.\n"
-      ]
-   },
-   "Background": {
-      "text": [
-         "The band is from Long Beach, California, where they formed in 2011, with lead vocalist and guitarist, Stephen Ramos, whose current members are lead guitarist and singer, Michael Grasseschi, bassist, Luke Schoepf, and drummer, Nick Sturz.[1]  Their former band members were guitarist, Brandon Fox, bassist, Eric Rivers, keyboardist, Ariel Painschab, and drummer, Rick Raasch.[1] They were signed to Tooth & Nail Records, in 2014.\n"
-      ]
-   },
-   "Music history": {
-      "text": [
-         "The band commenced as a musical entity in 2011,[1] with their first major label extended play, These Hands, that released on December 2, 2014, from Tooth & Nail Records.[2][3][4][5][6][7] Their single, \"Stranger\", found success on the Billboard magazine Christian Rock charts, where it reached a peak of No. 2.[8]\n"
-      ]
-   },
-   "Members": {},
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Hearts Like Lions is an American indie rock band, and they play an alternative rock music style. They come from Long Beach, California, where they were formed in 2011, with lead vocalist, Stephen Ramos. Their first extended play, These Hands, was released in 2014, with Tooth & Nail Records. Their single, \"Stranger\", broke through on the Billboard magazine Christian Rock chart.\n",
-      "The band is from Long Beach, California, where they formed in 2011, with lead vocalist and guitarist, Stephen Ramos, whose current members are lead guitarist and singer, Michael Grasseschi, bassist, Luke Schoepf, and drummer, Nick Sturz.[1]  Their former band members were guitarist, Brandon Fox, bassist, Eric Rivers, keyboardist, Ariel Painschab, and drummer, Rick Raasch.[1] They were signed to Tooth & Nail Records, in 2014.\n",
-      "The band commenced as a musical entity in 2011,[1] with their first major label extended play, These Hands, that released on December 2, 2014, from Tooth & Nail Records.[2][3][4][5][6][7] Their single, \"Stranger\", found success on the Billboard magazine Christian Rock charts, where it reached a peak of No. 2.[8]\n"
+      "The band is from Long Beach, California, where they formed in 2011, with lead vocalist and guitarist, Stephen Ramos, whose current members are lead guitarist and singer, Michael Grasseschi, bassist, Luke Schoepf, and drummer, Nick Sturz.  Their former band members were guitarist, Brandon Fox, bassist, Eric Rivers, keyboardist, Ariel Painschab, and drummer, Rick Raasch. They were signed to Tooth & Nail Records, in 2014.\n",
+      "The band commenced as a musical entity in 2011, with their first major label extended play, These Hands, that released on December 2, 2014, from Tooth & Nail Records. Their single, \"Stranger\", found success on the Billboard magazine Christian Rock charts, where it reached a peak of No. 2.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,14 +1,6 @@
 {
    "Name": "Serpent Throne",
-   "Sections": [
-      "Summary"
-   ],
-   "Summary": {
-      "text": [
-         "Serpent Throne was an American instrumental stoner/doom metal band from Philadelphia, Pennsylvania, United States, that formed in 2005. The band has released four studio albums: Ride Satan Ride released in 2007 on the label Season of Mist, The Battle of Old Crow in 2009 on Vessel Records, White Summer•Black Winter in 2010 on Translation Loss Records, and Brother Lucifer in 2013 on Prophase Music.\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "Serpent Throne was an American instrumental stoner/doom metal band from Philadelphia, Pennsylvania, United States, that formed in 2005. The band has released four studio albums: Ride Satan Ride released in 2007 on the label Season of Mist, The Battle of Old Crow in 2009 on Vessel Records, White Summer•Black Winter in 2010 on Translation Loss Records, and Brother Lucifer in 2013 on Prophase Music.\n"
    ],
    "infobox": {

@@ -1,41 +1,8 @@
 {
    "Name": "King Kobra",
-   "Sections": [
-      "1 Members",
-      "1.1 Current",
-      "1.2 Former",
-      "1.3 Timeline",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Compilation albums",
-      "3 Movie soundtracks",
-      "4 Notes",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "King Kobra is an American hard rock band, founded by drummer Carmine Appice after his tenure with Ozzy Osbourne from 1983 to 1984.[1] During the time of their first two albums, the band consisted of four relatively unknown musicians that included vocalist Marcie Free, guitarist David Michael-Philips, guitarist Mick Sweda, and bassist Johnny Rod.[1] After two albums on Capitol records—Ready to Strike (November 9, 1985) and Thrill of a Lifetime (1986)—and an independent release entitled King Kobra III in 1988, Appice decided to dissolve the band and join guitarist John Sykes on his Blue Murder project in 1989.[2][3]\n",
-         "In 2010, a new King Kobra emerged, with Carmine Appice on drums, Paul Shortino taking over vocal duties, Mick Sweda on guitar, David Henzerling (a.k.a. David Michael-Philips) on guitar, and Johnny Rod on bass. This lineup released an eponymous album, King Kobra, in 2011 on Frontiers Records, and another album in 2013 entitled King Kobra II.[4]\n",
-         "The band went on hiatus following the release of their 2013 album, largely due to the other commitments of the individual band members. They did, however, play live gigs in 2016 sans Mick Sweda.\n"
-      ]
-   },
-   "Members": {
-      "Current": {},
-      "Former": {},
-      "Timeline": {}
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Compilation albums": {}
-   },
-   "Movie soundtracks": {},
-   "Notes": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "King Kobra is an American hard rock band, founded by drummer Carmine Appice after his tenure with Ozzy Osbourne from 1983 to 1984.[1] During the time of their first two albums, the band consisted of four relatively unknown musicians that included vocalist Marcie Free, guitarist David Michael-Philips, guitarist Mick Sweda, and bassist Johnny Rod.[1] After two albums on Capitol records—Ready to Strike (November 9, 1985) and Thrill of a Lifetime (1986)—and an independent release entitled King Kobra III in 1988, Appice decided to dissolve the band and join guitarist John Sykes on his Blue Murder project in 1989.[2][3]\n",
-      "In 2010, a new King Kobra emerged, with Carmine Appice on drums, Paul Shortino taking over vocal duties, Mick Sweda on guitar, David Henzerling (a.k.a. David Michael-Philips) on guitar, and Johnny Rod on bass. This lineup released an eponymous album, King Kobra, in 2011 on Frontiers Records, and another album in 2013 entitled King Kobra II.[4]\n",
+   "rawData": [
+      "King Kobra is an American hard rock band, founded by drummer Carmine Appice after his tenure with Ozzy Osbourne from 1983 to 1984. During the time of their first two albums, the band consisted of four relatively unknown musicians that included vocalist Marcie Free, guitarist David Michael-Philips, guitarist Mick Sweda, and bassist Johnny Rod. After two albums on Capitol records—Ready to Strike (November 9, 1985) and Thrill of a Lifetime (1986)—and an independent release entitled King Kobra III in 1988, Appice decided to dissolve the band and join guitarist John Sykes on his Blue Murder project in 1989.\n",
+      "In 2010, a new King Kobra emerged, with Carmine Appice on drums, Paul Shortino taking over vocal duties, Mick Sweda on guitar, David Henzerling (a.k.a. David Michael-Philips) on guitar, and Johnny Rod on bass. This lineup released an eponymous album, King Kobra, in 2011 on Frontiers Records, and another album in 2013 entitled King Kobra II.\n",
       "The band went on hiatus following the release of their 2013 album, largely due to the other commitments of the individual band members. They did, however, play live gigs in 2016 sans Mick Sweda.\n"
    ],
    "infobox": {

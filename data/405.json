@@ -1,40 +1,9 @@
 {
    "Name": "The Brothers Martin",
-   "Sections": [
-      "1 Members",
-      "2 Success",
-      "3 Discography",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Brothers Martin are an indie rock band from Riverside, California consisting of brothers Ronnie Martin and Jason Martin.[1] Musically, they incorporate elements of both Joy Electric and Starflyer 59 (Ronnie and Jason's primary music projects, respectively): electropop and shoegazing,[2][3] while modern rock and 1980s new wave are also a central influence.\n",
-         "As of November 2008, the band was dropped from the \"Current Artists\" section of the Tooth & Nail website. While there has never been any word from the Martin brothers, it is assumed that The Brothers Martin was a one-time project.\n"
-      ]
-   },
-   "Members": {
-      "text": [
-         "Official\n",
-         "Session & Live\n"
-      ]
-   },
-   "Success": {
-      "text": [
-         "Almost instantly after their first appearance at PureVolume, The Brothers Martin became the site's No. 1 artist, topping My Chemical Romance and Anberlin and were also the site's featured artist.\n",
-         "The Brothers Martin song \"The Missionary\" was played at the end of the series premiere of NBC television show Chuck.\n"
-      ]
-   },
-   "Discography": {},
-   "See also": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "The Brothers Martin are an indie rock band from Riverside, California consisting of brothers Ronnie Martin and Jason Martin.[1] Musically, they incorporate elements of both Joy Electric and Starflyer 59 (Ronnie and Jason's primary music projects, respectively): electropop and shoegazing,[2][3] while modern rock and 1980s new wave are also a central influence.\n",
+   "rawData": [
+      "The Brothers Martin are an indie rock band from Riverside, California consisting of brothers Ronnie Martin and Jason Martin. Musically, they incorporate elements of both Joy Electric and Starflyer 59 (Ronnie and Jason's primary music projects, respectively): electropop and shoegazing, while modern rock and 1980s new wave are also a central influence.\n",
       "As of November 2008, the band was dropped from the \"Current Artists\" section of the Tooth & Nail website. While there has never been any word from the Martin brothers, it is assumed that The Brothers Martin was a one-time project.\n",
-      "Official\n",
-      "Session & Live\n"
+      "Official\n"
    ],
    "infobox": {
       "Origin": [

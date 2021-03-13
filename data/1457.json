@@ -1,29 +1,9 @@
 {
    "Name": "Stonehouse Pipe Band",
-   "Sections": [
-      "Summary",
-      "History"
-   ],
-   "Summary": {
-      "text": [
-         "The Stonehouse Pipe Band is a pipe band from Stonehouse in the South Lanarkshire region of Scotland\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The band was formed in 1899 under the leadership of Pipe major Hector McIness, and grew steadily during the pre-war years at the beginning of the last century.\n",
-         "In 1909 Harry Lauder suggested a competition for civilian bands at the Cowal Gathering. He had been a miner and knew that many mining villages had pipe bands which would struggle to compete against the military bands in the Argyll Shield. So the civilian contest for the Sir Harry Lauder Shield began. The Argyll Shield is now the award for Grade One at Cowal, while the Sir Harry Lauder Shield is the award for Grade Two.\n",
-         "In 1909 Stonehouse Pipe Band won the civilian contest and went on to retain it in 1910 and 1911. The band won the Argyll Shield in 1909 as well.[1]\n",
-         "The band original wore the McGregor tartan but this was changed to the Hamilton dress tartan in the 1930s after it was donated by Mrs. Janet Millar of Tinto View, Stonehouse.\n",
-         "The band began to break up around 1939-40 due to increasing pressure and competition from other bands, although the junior band continued into the 1970s.\n",
-         "A band by the name was reformed in 2007 with the intention of teaching a complete new band of beginners on both pipes and drums.\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "The Stonehouse Pipe Band is a pipe band from Stonehouse in the South Lanarkshire region of Scotland\n",
       "The band was formed in 1899 under the leadership of Pipe major Hector McIness, and grew steadily during the pre-war years at the beginning of the last century.\n",
-      "In 1909 Harry Lauder suggested a competition for civilian bands at the Cowal Gathering. He had been a miner and knew that many mining villages had pipe bands which would struggle to compete against the military bands in the Argyll Shield. So the civilian contest for the Sir Harry Lauder Shield began. The Argyll Shield is now the award for Grade One at Cowal, while the Sir Harry Lauder Shield is the award for Grade Two.\n",
-      "In 1909 Stonehouse Pipe Band won the civilian contest and went on to retain it in 1910 and 1911. The band won the Argyll Shield in 1909 as well.[1]\n"
+      "In 1909 Harry Lauder suggested a competition for civilian bands at the Cowal Gathering. He had been a miner and knew that many mining villages had pipe bands which would struggle to compete against the military bands in the Argyll Shield. So the civilian contest for the Sir Harry Lauder Shield began. The Argyll Shield is now the award for Grade One at Cowal, while the Sir Harry Lauder Shield is the award for Grade Two.\n"
    ],
    "infobox": {
       "Established": [

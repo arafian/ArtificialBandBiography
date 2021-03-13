@@ -1,48 +1,9 @@
 {
    "Name": "Los Crudos",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "2.1 Timeline",
-      "3 Discography",
-      "3.1 Singles",
-      "3.2 Albums",
-      "3.3 Compilations",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Los Crudos is an American hardcore punk band from Chicago, Illinois active from 1991 to 1998 and from 2006 onward.[1][2][3] Comprising all Latino members, the band paved the way for later Spanish-speaking punk bands in the United States[2] and helped to increase the presence of Latinos in the country's predominantly white punk subculture.[4]\n",
-         "Los Crudos express a Left-wing[citation needed] political critique of issues affecting Latin America and the Latino community, such as U.S. imperialism, racism, xenophobia, and economic inequality.[citation needed] They have been described as \"one of '90s punk's truly great bands\"[5] and \"one of the greatest hardcore bands...ever.\"[6] Paul Kennedy additionally describes them as \"very popular in both the 'crusty' and Emo/straight edge scenes in North America.\"[7]\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The band formed in the early 1990s[1] by singer Martin Sorrondeguy and guitarist José Casas, who remained the group's consistent members through changing rhythm sections. Their lyrics were almost always sung in Spanish; the song \"We're That Spic Band\" (written in response to an audience member calling them a \"spic band\"[8]) is the sole exception.[2] Los Crudos' lyrics were explicitly political,[5] addressing issues such as class, police brutality, homophobia, and California ballot propositions directed against immigrants.[2][4]  At concerts, Sorrondeguy would often speak at length about the songs' meanings between songs, partly as a way of getting around the language barrier (audiences were not always happy about this).[5][7]  Their music was loud, fast, and energetic with songs built around three chords or fewer.[2][5][7] \"We're That Spic Band\" and \"Asesinos\" (about \"the disappearances of radical youth during military dictatorships in Latin America\") have both been described as their most well-known songs.[7][9]\n",
-         "The band's first shows were in Pilsen,[1] the Latino neighborhood in Chicago where the band members lived, and many of their lyrics were first sung there.[8]  Sorrondeguy has said that, \"One of the main reasons for singing in Spanish was to communicate directly with kids in our neighborhood.\"[4]  In Pilsen, the band also worked closely with community agencies such as Project Vida, an AIDS prevention organization, and Project Hablo, a domestic violence support group.[4]\n",
-         "Los Crudos incorporated DIY ethics into every aspect of the band's existence, including promoting and booking shows, recording music, touring, and silk-screening T-shirts.[2]  They toured Mexico (in 1994[7]), South America, Europe, and Japan, as well as touring the US many times.[5]  The band's recordings were released on independent record labels such as Flat Earth Records, Ebullition Records, and Sorrondeguy's label Lengua Armada Discos.  The group's final rhythm section included bassist Juan Jimenez and drummer Ebro Virumbrales (also a member of Charles Bronson[10] and  MK-ULTRA).\n",
-         "Los Crudos played its last shows in October 1998,in the neighborhood which they started in, Pilsen.[5]  After the band's breakup, Sorrondeguy became the vocalist for Limp Wrist, as well as releasing a documentary about Chicano and Latino punk[8] (Beyond The Screams: A U.S. Latino Hardcore Punk Documentary).  He has also been in the bands Harto and Tragatelo.  Guitarist Jose now plays in the Chicago punk band I Attack.  Drummer Ebro became the vocalist for Chicago band Punch in the Face.[11]\n",
-         "The band played an unannounced reunion show in June 2006 at Southkore (America's first and largest[2] Latino punk festival), in Chicago's Little Village.[3]  The festival attracted more than 400 fans.[3]  They also played reunion shows in 2008's Chaos in Tejas festival in Austin, Texas[12] and in Los Angeles, California in 2008. In 2016, Crudos played shows in the Midwest and readied for a tour of the U.K. and numerous Scandinavian cities.\n"
-      ]
-   },
-   "Members": {
-      "Timeline": {}
-   },
-   "Discography": {
-      "Singles": {},
-      "Albums": {},
-      "Compilations": {}
-   },
-   "See also": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Los Crudos is an American hardcore punk band from Chicago, Illinois active from 1991 to 1998 and from 2006 onward.[1][2][3] Comprising all Latino members, the band paved the way for later Spanish-speaking punk bands in the United States[2] and helped to increase the presence of Latinos in the country's predominantly white punk subculture.[4]\n",
-      "Los Crudos express a Left-wing[citation needed] political critique of issues affecting Latin America and the Latino community, such as U.S. imperialism, racism, xenophobia, and economic inequality.[citation needed] They have been described as \"one of '90s punk's truly great bands\"[5] and \"one of the greatest hardcore bands...ever.\"[6] Paul Kennedy additionally describes them as \"very popular in both the 'crusty' and Emo/straight edge scenes in North America.\"[7]\n",
-      "The band formed in the early 1990s[1] by singer Martin Sorrondeguy and guitarist José Casas, who remained the group's consistent members through changing rhythm sections. Their lyrics were almost always sung in Spanish; the song \"We're That Spic Band\" (written in response to an audience member calling them a \"spic band\"[8]) is the sole exception.[2] Los Crudos' lyrics were explicitly political,[5] addressing issues such as class, police brutality, homophobia, and California ballot propositions directed against immigrants.[2][4]  At concerts, Sorrondeguy would often speak at length about the songs' meanings between songs, partly as a way of getting around the language barrier (audiences were not always happy about this).[5][7]  Their music was loud, fast, and energetic with songs built around three chords or fewer.[2][5][7] \"We're That Spic Band\" and \"Asesinos\" (about \"the disappearances of radical youth during military dictatorships in Latin America\") have both been described as their most well-known songs.[7][9]\n",
-      "The band's first shows were in Pilsen,[1] the Latino neighborhood in Chicago where the band members lived, and many of their lyrics were first sung there.[8]  Sorrondeguy has said that, \"One of the main reasons for singing in Spanish was to communicate directly with kids in our neighborhood.\"[4]  In Pilsen, the band also worked closely with community agencies such as Project Vida, an AIDS prevention organization, and Project Hablo, a domestic violence support group.[4]\n"
+   "rawData": [
+      "Los Crudos is an American hardcore punk band from Chicago, Illinois active from 1991 to 1998 and from 2006 onward. Comprising all Latino members, the band paved the way for later Spanish-speaking punk bands in the United States and helped to increase the presence of Latinos in the country's predominantly white punk subculture.\n",
+      "Los Crudos express a Left-wing political critique of issues affecting Latin America and the Latino community, such as U.S. imperialism, racism, xenophobia, and economic inequality. They have been described as \"one of '90s punk's truly great bands\" and \"one of the greatest hardcore bands...ever.\" Paul Kennedy additionally describes them as \"very popular in both the 'crusty' and Emo/straight edge scenes in North America.\"\n",
+      "The band formed in the early 1990s by singer Martin Sorrondeguy and guitarist José Casas, who remained the group's consistent members through changing rhythm sections. Their lyrics were almost always sung in Spanish; the song \"We're That Spic Band\" (written in response to an audience member calling them a \"spic band\") is the sole exception. Los Crudos' lyrics were explicitly political, addressing issues such as class, police brutality, homophobia, and California ballot propositions directed against immigrants.  At concerts, Sorrondeguy would often speak at length about the songs' meanings between songs, partly as a way of getting around the language barrier (audiences were not always happy about this).  Their music was loud, fast, and energetic with songs built around three chords or fewer. \"We're That Spic Band\" and \"Asesinos\" (about \"the disappearances of radical youth during military dictatorships in Latin America\") have both been described as their most well-known songs.\n"
    ],
    "infobox": {
       "Origin": [

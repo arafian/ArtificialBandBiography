@@ -1,49 +1,9 @@
 {
    "Name": "Skaters (band)",
-   "Sections": [
-      "1 Early life",
-      "2 Music career",
-      "2.1 2012–present: Schemers EP",
-      "3 Members",
-      "4 Discography",
-      "4.1 Studio albums",
-      "4.2 Extended plays",
-      "4.3 Singles",
-      "5 References"
-   ],
-   "Summary": {
-      "text": [
-         "Skaters (stylized as SKATERS) was a rock band formed in New York City, New York in 2012. The band was signed to Warner Bros. Records before going independent in 2017 and releasing their second album under Yonks Records.  \n",
-         "In the summer of 2011, singer and songwriter Michael Ian Cummings met English guitarist Josh Hubbard at a party in Los Angeles. Several months later, Cummings received a call from Hubbard announcing that he would be arriving in New York City the following day from the UK. Cummings stated that he would like to play a gig, so the pair recruited drummer Noah Rubin and bassist Dan Burke, booked three shows, learned some songs Cummings and Rubin had been working on (and a handful of Pixies covers), and the band was formed.\n",
-         "Their debut record, Manhattan, contains stories of the city where they met. \"We were all bartenders, so the songs are tales of experiences we had or saw, and other people who were characters in our life during the first year we were in this band,\" Cummings said. The album was recorded by John Hill in the API room at Greenwich Village's Electric Lady Studios.\n"
-      ]
-   },
-   "Early life": {
-      "text": [
-         "Band members Michael Ian Cummings, from Boston, and Noah Rubin, of Los Angeles, were located in the Los Angeles area when they began making music together as singer and drummer of The Dead Trees.[1][2] In 2012, Cummings and Rubin began sending demos back and forth to London to future member Joshua Hubbard, who then had played guitar for The Paddingtons and Dirty Pretty Things. The three men eventually met in Manhattan to form the band. They set out to produce an art magazine, YONKS, and record their EP Schemers. YONKS is a publication that features the band's new music and focuses on showcasing talented artists and photographers.[3] Cummings now sings for the band, Rubin plays the drums, and Hubbard plays guitar.[4] Other musicians, Dan Burke and Tommy Allen, are permanent and contributing members of the Skaters team.[2] The name Skaters was chosen because it reminds the members of their youth and culture of skating.[5] The band claims to have been musically influenced by “the melodic punk bands of the 70’s and 80’s like Mission of Burma, Devo, and The Cars”, as well as The Ramones, The Clash, and The Pixies.[6] Skaters is currently managed by Nick Bobetsky of Red Light Management.[7]\n"
-      ]
-   },
-   "Music career": {
-      "2012–present: Schemers EP": {
-         "text": [
-            "In early 2012, the band released its first EP, Schemers. The EP was inspired by New York City music and art from all decades.[2] The EP consists of 5 songs which were made available for free download on the band’s website.[8] The Schemers EP reached over 10,000 downloads from their website.[9]\n",
-            "Skaters performed at SXSW in Austin, Texas in March 2013. On April 9, 2013, the band released their first 7-inch single which featured their songs \"I Wanna Dance (But Don't Know How)\" and \"Armed\".\n",
-            "Their debut album, Manhattan, was released on February 25, 2014 via Warner Bros. Records to critical acclaim. The album was recorded in New York at Electric Lady, a studio built by Jimi Hendrix.[8] Skaters latest EP Rock and Roll Bye Bye was released on March 24, 2017 and features several songs that were produced and engineered by Albert Di Fiore, including the single, \"Rock and Roll Bye Bye\". Di Fiore also produced and engineered the Skaters singles \"Save Her Something Special\" \"Mental Case\" and \"Head On to Nowhere\".\n"
-         ]
-      }
-   },
-   "Members": {},
-   "Discography": {
-      "Studio albums": {},
-      "Extended plays": {},
-      "Singles": {}
-   },
-   "References": {},
-   "coreData": [
+   "rawData": [
       "Skaters (stylized as SKATERS) was a rock band formed in New York City, New York in 2012. The band was signed to Warner Bros. Records before going independent in 2017 and releasing their second album under Yonks Records.  \n",
       "In the summer of 2011, singer and songwriter Michael Ian Cummings met English guitarist Josh Hubbard at a party in Los Angeles. Several months later, Cummings received a call from Hubbard announcing that he would be arriving in New York City the following day from the UK. Cummings stated that he would like to play a gig, so the pair recruited drummer Noah Rubin and bassist Dan Burke, booked three shows, learned some songs Cummings and Rubin had been working on (and a handful of Pixies covers), and the band was formed.\n",
-      "Their debut record, Manhattan, contains stories of the city where they met. \"We were all bartenders, so the songs are tales of experiences we had or saw, and other people who were characters in our life during the first year we were in this band,\" Cummings said. The album was recorded by John Hill in the API room at Greenwich Village's Electric Lady Studios.\n",
-      "Band members Michael Ian Cummings, from Boston, and Noah Rubin, of Los Angeles, were located in the Los Angeles area when they began making music together as singer and drummer of The Dead Trees.[1][2] In 2012, Cummings and Rubin began sending demos back and forth to London to future member Joshua Hubbard, who then had played guitar for The Paddingtons and Dirty Pretty Things. The three men eventually met in Manhattan to form the band. They set out to produce an art magazine, YONKS, and record their EP Schemers. YONKS is a publication that features the band's new music and focuses on showcasing talented artists and photographers.[3] Cummings now sings for the band, Rubin plays the drums, and Hubbard plays guitar.[4] Other musicians, Dan Burke and Tommy Allen, are permanent and contributing members of the Skaters team.[2] The name Skaters was chosen because it reminds the members of their youth and culture of skating.[5] The band claims to have been musically influenced by “the melodic punk bands of the 70’s and 80’s like Mission of Burma, Devo, and The Cars”, as well as The Ramones, The Clash, and The Pixies.[6] Skaters is currently managed by Nick Bobetsky of Red Light Management.[7]\n"
+      "Their debut record, Manhattan, contains stories of the city where they met. \"We were all bartenders, so the songs are tales of experiences we had or saw, and other people who were characters in our life during the first year we were in this band,\" Cummings said. The album was recorded by John Hill in the API room at Greenwich Village's Electric Lady Studios.\n"
    ],
    "infobox": {
       "Origin": [

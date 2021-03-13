@@ -1,38 +1,9 @@
 {
    "Name": "Family (Spanish band)",
-   "Sections": [
-      "Summary",
-      "Family – Un Soplo en el Corazón (track list)"
-   ],
-   "Summary": {
-      "text": [
-         "Family was a cult band from Spain in the 1990s. Although initially unsuccessful, Family gradually acquired a fanbase and is now highly recognised in the Spanish underground pop scene. Their only album, Un Soplo en el Corazón has been praised for its poetic lyrics, inspired music and elegant artwork.[1][2] A tribute CD was published by the magazine Rockdelux in 2003 which featured acts including Fangoria, La Casa Azul and Los Planetas.[3][4][5][6][7][8]\n"
-      ]
-   },
-   "Family – Un Soplo en el Corazón (track list)": {
-      "text": [
-         "1. La Noche Inventada (2:24)\n",
-         "2. Nadadora (2:57)\n",
-         "3. Como un Aviador (3:19)\n",
-         "4. En el Rascacielos (2:32)\n",
-         "5. El Bello Verano (2:19)\n",
-         "6. Portugal (2:10)\n",
-         "7. El Buen Vigía (2:05)\n",
-         "8. Viaje a los Sueños Polares (2:53)\n",
-         "9. Al Otro Lado (2:02)\n",
-         "10. Carlos Baila (2:49)\n",
-         "11. Yo TePerdí una Tarde de Abril (3:01)\n",
-         "12. Dame Estrellas O Limones (2:24)\n",
-         "13. El mapa (2:20)\n",
-         "14. Martín se ha ido para siempre (3:09)\n",
-         "\n"
-      ]
-   },
-   "coreData": [
-      "Family was a cult band from Spain in the 1990s. Although initially unsuccessful, Family gradually acquired a fanbase and is now highly recognised in the Spanish underground pop scene. Their only album, Un Soplo en el Corazón has been praised for its poetic lyrics, inspired music and elegant artwork.[1][2] A tribute CD was published by the magazine Rockdelux in 2003 which featured acts including Fangoria, La Casa Azul and Los Planetas.[3][4][5][6][7][8]\n",
+   "rawData": [
+      "Family was a cult band from Spain in the 1990s. Although initially unsuccessful, Family gradually acquired a fanbase and is now highly recognised in the Spanish underground pop scene. Their only album, Un Soplo en el Corazón has been praised for its poetic lyrics, inspired music and elegant artwork. A tribute CD was published by the magazine Rockdelux in 2003 which featured acts including Fangoria, La Casa Azul and Los Planetas.\n",
       "1. La Noche Inventada (2:24)\n",
-      "2. Nadadora (2:57)\n",
-      "3. Como un Aviador (3:19)\n"
+      "2. Nadadora (2:57)\n"
    ],
    "infobox": {}
 }

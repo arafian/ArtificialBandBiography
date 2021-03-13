@@ -1,21 +1,7 @@
 {
    "Name": "The Sting-Rays",
-   "Sections": [
-      "Summary",
-      "Discography"
-   ],
-   "Summary": {
-      "text": [
-         "The Sting-Rays (often credited The Stingrays) were a British Garage Rock and Psychobilly band from Greater London which recorded on Ace Records' garage and psychedelic subsidiary Big Beat and Joe Foster's Kaleidoscope Sound in the 1980s.[1][2][3][4][5][6]\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "Most of the band's songs were written by Alec Palao and Bal Croce\n"
-      ]
-   },
-   "coreData": [
-      "The Sting-Rays (often credited The Stingrays) were a British Garage Rock and Psychobilly band from Greater London which recorded on Ace Records' garage and psychedelic subsidiary Big Beat and Joe Foster's Kaleidoscope Sound in the 1980s.[1][2][3][4][5][6]\n",
+   "rawData": [
+      "The Sting-Rays (often credited The Stingrays) were a British Garage Rock and Psychobilly band from Greater London which recorded on Ace Records' garage and psychedelic subsidiary Big Beat and Joe Foster's Kaleidoscope Sound in the 1980s.\n",
       "Most of the band's songs were written by Alec Palao and Bal Croce\n",
       "This article on a United Kingdom band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ],

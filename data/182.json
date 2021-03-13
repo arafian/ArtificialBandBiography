@@ -1,56 +1,9 @@
 {
    "Name": "Vitamin Party",
-   "Sections": [
-      "1 Biography",
-      "2 Band members",
-      "3 New album/hiatus",
-      "4 Side projects",
-      "5 Albums and track lists",
-      "6 References",
-      "6.1 Interviews"
-   ],
-   "Summary": {
-      "text": [
-         "Vitamin Party is an American, San Francisco/Bay Area \"DIY\" rock-punk band, which formed in 2004.  Their style shows influences of lo-fi, indie, post-modern punk with straight forward rock and roll.  The band has released an EP and three albums on their own record label Get It Out! Records.\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "Vitamin Party formed in the San Francisco Bay Area, United States, in 2004 after the dissolving of the bands City Volume and We're Gonna Fight The Eskimos Next.  The band wrote and rehearsed for a full year before recording their first EP Get It Out in late 2005 and playing their first show at a San Francisco house party.[1]\nThe band soon began playing local venues such as Stork Club, Blakes On Telegraph, The Independent and the Red Devil Lounge with other local acts such as Ex-boyfriends, Hottub, Wallpaper, Hundred Days, The Hot Toddies and Bwuh.\n",
-         "In 2008 they released two albums, both of which were recorded by Collisionville's Stephen Pride and mastered by Guitar Vs. Gravity's Ben Adrian.  The first album, The Revenge, was released in February and the second album, titled Back On Task, on October 31.  Both albums were released on Get It Out! Records.  All album art was created by the band with the help of photographer Kirsten Lindquist Campana.\n",
-         "Their music has been featured on the show The All-For-Nots, and their song \"Animal Farm\" is the opening theme for the online show Animal Trash.  Animal Trash has featured a number of the band's other songs, including \"I Don't Wanna Know\", \"End Credits\" and \"Tiny\".[2]\n",
-         "They were named SF Deli Magazine's \"Band of the Month\" for January 2009 and were also the first runner-up in the magazine's \"Best Emerging Artist 2008 Readers Poll\".[3]\n",
-         "Drummer Sean M. Carey was voted \"Best Guy Ever\" in The East Bay Express' Best of the Bay 2009 issue.[4]\n",
-         "The Vitamin Party song \"Last Known Photograph\" was featured in Punkradiocast's Top 40 countdown of 2010.[5]  The song was judged by the listeners of the station for two weeks and placed third with 2,316 votes.\n",
-         "As of October 1, 2010, \"Radical Agenda\" (the title track of Vitamin Party's latest release), is used as background music for the \"Sunny Side Up\" Morning show, which airs Friday mornings on 90.7 KZUU out of Pullman Washington.[6]\n"
-      ]
-   },
-   "Band members": {},
-   "New album/hiatus": {
-      "text": [
-         "On July 4, 2009 Vitamin Party played a live set on 90.7 KALX's show KALX live.  Afterword the band was interviewed and revealed that they were currently working on a third album, tentatively titled Radical Agenda, Go!.[7]\n",
-         "On August 14, 2009, Vitamin Party performed at a benefit show to support the all ages venues of the San Francisco Bay Area.[8]\n",
-         "On October 30, 2009, Vitamin Party played their last show before going on indefinite hiatus for personal reasons.  In April 2010 the band announced a handful of shows along the west coast of the United States to promote a new EP.[1]  In regards to this tour, drummer Sean M. Carey said 'Let the rumors start here, we're going on hiatus again after these shows'.[9]\n",
-         "The Vitamin Party EP \"Radical Agenda, Go!\" went on sale digitally, July 6, 2010.  A vinyl release is scheduled for later this summer.[10]\n",
-         "According to the Vitamin Party website the band has put together a live album compiled of soundboard recordings from a number of different shows.  The album is yet to be titled or have a release date, but the band has said it will consist of at least 17 tracks.[11]\n"
-      ]
-   },
-   "Side projects": {
-      "text": [
-         "Conor Thompson and Sean Theolonius Carey perform bass and drum duties in the band We're Gonna Fight The Eskimos Next (with guitar players Nathan Fritz and Brian James).[12]  On March 3, 2010 the band was featured on the compilation album 'Karl Rove: Courage and Consequence (unabridged audio)' a culture jam targeted at Karl Rove's book of the same name.  Vitamin Party was thanked on the album.[13]\n",
-         "Thompson and Carey are also featured on the San Francisco natives Ex-Boyfriends new album Line in/ Line Out, supplying back up vocals on the three songs 'Uh-Oh', 'Whiskey Sour' and 'Perfect Ending'.[14]  The bands have been friends for years as they formed around the same time and have played several shows together.  Colin Daly (singer/guitar player of the Ex-boyfriends) has often said that the song \"Pick Up Line\" featured on his second album In With, is about the first time he met Sean M. Carey.[15]\n",
-         "In May/June 2011, Conor and Vincent recorded a new album with Ex-boyfriends singer/song writer Colin Daly.  The new group called The Philistines debut July 3, 2011 at San Francisco's Bottom of the HIll.\n"
-      ]
-   },
-   "Albums and track lists": {},
-   "References": {
-      "Interviews": {}
-   },
-   "coreData": [
+   "rawData": [
       "Vitamin Party is an American, San Francisco/Bay Area \"DIY\" rock-punk band, which formed in 2004.  Their style shows influences of lo-fi, indie, post-modern punk with straight forward rock and roll.  The band has released an EP and three albums on their own record label Get It Out! Records.\n",
-      "Vitamin Party formed in the San Francisco Bay Area, United States, in 2004 after the dissolving of the bands City Volume and We're Gonna Fight The Eskimos Next.  The band wrote and rehearsed for a full year before recording their first EP Get It Out in late 2005 and playing their first show at a San Francisco house party.[1]\nThe band soon began playing local venues such as Stork Club, Blakes On Telegraph, The Independent and the Red Devil Lounge with other local acts such as Ex-boyfriends, Hottub, Wallpaper, Hundred Days, The Hot Toddies and Bwuh.\n",
-      "In 2008 they released two albums, both of which were recorded by Collisionville's Stephen Pride and mastered by Guitar Vs. Gravity's Ben Adrian.  The first album, The Revenge, was released in February and the second album, titled Back On Task, on October 31.  Both albums were released on Get It Out! Records.  All album art was created by the band with the help of photographer Kirsten Lindquist Campana.\n",
-      "Their music has been featured on the show The All-For-Nots, and their song \"Animal Farm\" is the opening theme for the online show Animal Trash.  Animal Trash has featured a number of the band's other songs, including \"I Don't Wanna Know\", \"End Credits\" and \"Tiny\".[2]\n"
+      "Vitamin Party formed in the San Francisco Bay Area, United States, in 2004 after the dissolving of the bands City Volume and We're Gonna Fight The Eskimos Next.  The band wrote and rehearsed for a full year before recording their first EP Get It Out in late 2005 and playing their first show at a San Francisco house party.\nThe band soon began playing local venues such as Stork Club, Blakes On Telegraph, The Independent and the Red Devil Lounge with other local acts such as Ex-boyfriends, Hottub, Wallpaper, Hundred Days, The Hot Toddies and Bwuh.\n",
+      "In 2008 they released two albums, both of which were recorded by Collisionville's Stephen Pride and mastered by Guitar Vs. Gravity's Ben Adrian.  The first album, The Revenge, was released in February and the second album, titled Back On Task, on October 31.  Both albums were released on Get It Out! Records.  All album art was created by the band with the help of photographer Kirsten Lindquist Campana.\n"
    ],
    "infobox": {}
 }

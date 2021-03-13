@@ -1,38 +1,9 @@
 {
    "Name": "The Dead (band)",
-   "Sections": [
-      "1 Tours",
-      "2 Personnel",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "\n",
-         "The Dead was an American rock band composed of some of the former members of the Grateful Dead.\n",
-         "After the death of Jerry Garcia in 1995, Bob Weir, Phil Lesh, Mickey Hart, and Bill Kreutzmann formed the band The Other Ones, performing concert tours in 1998 (without Kreutzmann), 2000 (without Lesh), and 2002, and released one album, The Strange Remain.  In 2003, they changed their name to The Dead.[1]\n"
-      ]
-   },
-   "Tours": {
-      "text": [
-         "In addition to Weir, Lesh, Hart and Kreutzmann, the 2003 lineup of the band included Jimmy Herring, Jeff Chimenti, Rob Barraco, and Joan Osborne. The band was first officially billed as The Dead on February 14, 2003 at the Warfield in San Francisco. Later that year, the band opened up their summer tour (titled as \"Summer Getaway\") on June 15 at the Bonnaroo Music Festival. They ended 2003 with two New Year's dates at the Oakland Coliseum on December 30 and 31.\n",
-         "In 2004, Herring and Chimenti remained in the lineup, and were joined by Warren Haynes. The band played a brief winter jam and a three-month summer tour called the Wave That Flag Tour.  In 2006, guitarist Jimmy Herring joined the group Widespread Panic after George McConnell's departure from the group.\n",
-         "On February 4, 2008, Bob Weir, Phil Lesh, and Mickey Hart, along with several other musicians, performed a concert called \"Deadheads for Obama\", at the Warfield in San Francisco. On October 13, 2008, Weir, Lesh, Hart and Kreutzmann, joined by Warren Haynes and Jeff Chimenti, played a second show for the Obama campaign, called \"Change Rocks\", at Penn State University. On January 20, 2009, the same lineup played at one of the ten official balls for the inauguration of President Obama.[2]\n",
-         "The band toured the United States in the spring of 2009, playing 23 concerts in April and May, with a lineup of Bob Weir, Phil Lesh, Bill Kreutzmann, Mickey Hart, Warren Haynes, and Jeff Chimenti.[3][4]  During the second night of the Spring 2009 tour, they were joined on stage by Tipper Gore who sat in on drums during the closing song, \"Sugar Magnolia\".[5]  Over a two night run in New Jersey in April 2009 they reunited with former Grateful Dead collaborator Branford Marsalis on saxophone.[6] They also headlined the second annual Rothbury Music Festival in Rothbury, Michigan on July 4, 2009.\n",
-         "After the 2009 Dead tour, Bob Weir and Phil Lesh performed together for the next five years with their new band Furthur.\n",
-         "Since Furthur's dissolution in November 2014, the surviving members of the Grateful Dead continued to play in side projects with revolving casts of musicians. As part of their \"Fare Thee Well\" celebration to honor the 50th anniversary of the Grateful Dead, the surviving members reformed (although not branded as \"The Dead\") to play 5 shows, which were also to be the final shows that they would play together as a group. They enlisted the help from Phish frontman Trey Anastasio on lead guitar and vocals, Bruce Hornsby on piano and vocals, and Jeff Chimenti on keyboards. There were two shows to kick off the \"Fare Thee Well\" run at Levi's Stadium- just miles from where the Grateful Dead began as a band 50 years earlier.\n",
-         "The final three \"Fare Thee Well\" shows took place at Soldier Field in Chicago, IL. The shows broke the concert attendance record for Soldier Field each consecutive night.\n",
-         "From 2015 onward, Weir, Kreutzmann, Hart and Chimenti continue playing together as Dead & Company, joined by Oteil Burbridge on bass and John Mayer on lead guitar and vocals.\n"
-      ]
-   },
-   "Personnel": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Dead was an American rock band composed of some of the former members of the Grateful Dead.\n",
-      "After the death of Jerry Garcia in 1995, Bob Weir, Phil Lesh, Mickey Hart, and Bill Kreutzmann formed the band The Other Ones, performing concert tours in 1998 (without Kreutzmann), 2000 (without Lesh), and 2002, and released one album, The Strange Remain.  In 2003, they changed their name to The Dead.[1]\n",
-      "In addition to Weir, Lesh, Hart and Kreutzmann, the 2003 lineup of the band included Jimmy Herring, Jeff Chimenti, Rob Barraco, and Joan Osborne. The band was first officially billed as The Dead on February 14, 2003 at the Warfield in San Francisco. Later that year, the band opened up their summer tour (titled as \"Summer Getaway\") on June 15 at the Bonnaroo Music Festival. They ended 2003 with two New Year's dates at the Oakland Coliseum on December 30 and 31.\n",
-      "In 2004, Herring and Chimenti remained in the lineup, and were joined by Warren Haynes. The band played a brief winter jam and a three-month summer tour called the Wave That Flag Tour.  In 2006, guitarist Jimmy Herring joined the group Widespread Panic after George McConnell's departure from the group.\n"
+      "After the death of Jerry Garcia in 1995, Bob Weir, Phil Lesh, Mickey Hart, and Bill Kreutzmann formed the band The Other Ones, performing concert tours in 1998 (without Kreutzmann), 2000 (without Lesh), and 2002, and released one album, The Strange Remain.  In 2003, they changed their name to The Dead.\n",
+      "In addition to Weir, Lesh, Hart and Kreutzmann, the 2003 lineup of the band included Jimmy Herring, Jeff Chimenti, Rob Barraco, and Joan Osborne. The band was first officially billed as The Dead on February 14, 2003 at the Warfield in San Francisco. Later that year, the band opened up their summer tour (titled as \"Summer Getaway\") on June 15 at the Bonnaroo Music Festival. They ended 2003 with two New Year's dates at the Oakland Coliseum on December 30 and 31.\n"
    ],
    "infobox": {
       "Origin": [

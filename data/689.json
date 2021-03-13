@@ -1,45 +1,9 @@
 {
    "Name": "La Luz (band)",
-   "Sections": [
-      "1 History",
-      "2 Band members",
-      "3 Discography",
-      "3.1 Albums",
-      "3.2 Singles and EPs",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "La Luz is an American rock band from Los Angeles, founded in 2012 by Shana Cleveland, Marian Li Pino, Alice Sandahl, and Abbey Blackwell. La Luz has received critical acclaim following the release of three studio albums on Hardly Art: It's Alive, Weirdo Shrine,[1] and Floating Features.[2]\n",
-         "La Luz is known for their \"surf noir\" style, with layered vocal harmonies.[3] Their energetic live shows often include Soul Train-inspired dance contests and crowd surfing.[4]\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Shana Cleveland and Marian Li Pino (former members of Seattle band The Curious Mystery) formed La Luz in Seattle, Washington with Alice Sandahl and bassist Abbey Blackwell after being inspired by surf and rock and roll acts like Link Wray, The Ventures, and Dick Dale, as well as girl groups like The Shirelles.[5][6] Cleveland has cited Japanese guitar player Takeshi Terauchi as her biggest guitar influence.[7] After releasing an EP titled Damp Face in 2012, La Luz signed with Hardly Art. They released their first full-length album, It's Alive, on Hardly Art in October 2013.\n",
-         "On tour supporting of Montreal, La Luz was involved in a serious automobile accident on November 5, 2013, while traveling from Boise, ID to Seattle, WA, when their tour van slipped on black ice. After crashing into a highway divider, the van was then hit by a semi-trailer truck.[8] Band members sustained injuries, and all of the instruments and merchandise were destroyed with the tour van and trailer, forcing them to cancel the remainder of the tour.[9]\n",
-         "In February 2014, bassist Abbey Blackwell left the group,[10] and was replaced by Lena Simon.[11] In August 2015, La Luz released their second album, Weirdo Shrine, again through Hardly Art. Produced by Ty Segall, the album was a more live-sounding recording than previous efforts, and featured heavy fuzz guitar.[12][13][14] Weirdo Shrine received positive reviews in The Guardian, Pitchfork,[15][16] and The New York Times, and the group embarked on an international tour to support its release. They went on to move from Seattle to Los Angeles later that year.[17][18]\n"
-      ]
-   },
-   "Band members": {},
-   "Discography": {
-      "Albums": {},
-      "Singles and EPs": {}
-   },
-   "See also": {
-      "text": [
-         "Shana Cleveland\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "La Luz is an American rock band from Los Angeles, founded in 2012 by Shana Cleveland, Marian Li Pino, Alice Sandahl, and Abbey Blackwell. La Luz has received critical acclaim following the release of three studio albums on Hardly Art: It's Alive, Weirdo Shrine,[1] and Floating Features.[2]\n",
-      "La Luz is known for their \"surf noir\" style, with layered vocal harmonies.[3] Their energetic live shows often include Soul Train-inspired dance contests and crowd surfing.[4]\n",
-      "Shana Cleveland and Marian Li Pino (former members of Seattle band The Curious Mystery) formed La Luz in Seattle, Washington with Alice Sandahl and bassist Abbey Blackwell after being inspired by surf and rock and roll acts like Link Wray, The Ventures, and Dick Dale, as well as girl groups like The Shirelles.[5][6] Cleveland has cited Japanese guitar player Takeshi Terauchi as her biggest guitar influence.[7] After releasing an EP titled Damp Face in 2012, La Luz signed with Hardly Art. They released their first full-length album, It's Alive, on Hardly Art in October 2013.\n",
-      "On tour supporting of Montreal, La Luz was involved in a serious automobile accident on November 5, 2013, while traveling from Boise, ID to Seattle, WA, when their tour van slipped on black ice. After crashing into a highway divider, the van was then hit by a semi-trailer truck.[8] Band members sustained injuries, and all of the instruments and merchandise were destroyed with the tour van and trailer, forcing them to cancel the remainder of the tour.[9]\n"
+   "rawData": [
+      "La Luz is an American rock band from Los Angeles, founded in 2012 by Shana Cleveland, Marian Li Pino, Alice Sandahl, and Abbey Blackwell. La Luz has received critical acclaim following the release of three studio albums on Hardly Art: It's Alive, Weirdo Shrine, and Floating Features.\n",
+      "La Luz is known for their \"surf noir\" style, with layered vocal harmonies. Their energetic live shows often include Soul Train-inspired dance contests and crowd surfing.\n",
+      "Shana Cleveland and Marian Li Pino (former members of Seattle band The Curious Mystery) formed La Luz in Seattle, Washington with Alice Sandahl and bassist Abbey Blackwell after being inspired by surf and rock and roll acts like Link Wray, The Ventures, and Dick Dale, as well as girl groups like The Shirelles. Cleveland has cited Japanese guitar player Takeshi Terauchi as her biggest guitar influence. After releasing an EP titled Damp Face in 2012, La Luz signed with Hardly Art. They released their first full-length album, It's Alive, on Hardly Art in October 2013.\n"
    ],
    "infobox": {
       "Origin": [

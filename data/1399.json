@@ -1,41 +1,9 @@
 {
    "Name": "Lotion (band)",
-   "Sections": [
-      "1 Career",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 EPs",
-      "2.3 Singles",
-      "2.4 Various artists compilations",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Lotion was an American, Manhattan-based indie rock band, formed in 1991 by brothers Bill and Jim Ferguson (bass guitar and guitar respectively), drummer Rob Youngberg, and vocalist/guitarist Tony Zajkowski.[1]\n"
-      ]
-   },
-   "Career": {
-      "text": [
-         "Lotion formed in New York City's East Village and released two seven-inch singles \"Head\" and \"Tear\" on Kokopop before releasing their debut album, full Isaac, through spinArt Records in 1994.[1]\n",
-         "To promote the release of full Isaac, Lotion toured America and Europe with Pavement, Throwing Muses, and Mercury Rev.  In 1995, the band released a self-titled EP on Big Cat Records, with a second EP, The Agnew Funeral E.P., recorded the next year. In 1996, Lotion released their second album, Nobody's Cool,[1] with liner notes by Thomas Pynchon.\n",
-         "The Telephone Album followed in 1998.[1] During the promotion for this album, the band made an appearance during an episode (Phases) of Buffy the Vampire Slayer and toured the US with Frank Black and the Catholics.[2]\n",
-         "In 2001, Lotion went unofficially \"on hiatus\" while they pursued their own interests.[3] Tony Zajkowski has gone on to play bass and sing for Schizo Fun Addict and has joined with former Lotion bandmate Rob Youngberg to form Honeycomb.[4] Zajkowski and Youngberg later recorded under the name Baby Spiders and have two EPs on Bandcamp available for download.\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "EPs": {},
-      "Singles": {},
-      "Various artists compilations": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Lotion was an American, Manhattan-based indie rock band, formed in 1991 by brothers Bill and Jim Ferguson (bass guitar and guitar respectively), drummer Rob Youngberg, and vocalist/guitarist Tony Zajkowski.[1]\n",
-      "Lotion formed in New York City's East Village and released two seven-inch singles \"Head\" and \"Tear\" on Kokopop before releasing their debut album, full Isaac, through spinArt Records in 1994.[1]\n",
-      "To promote the release of full Isaac, Lotion toured America and Europe with Pavement, Throwing Muses, and Mercury Rev.  In 1995, the band released a self-titled EP on Big Cat Records, with a second EP, The Agnew Funeral E.P., recorded the next year. In 1996, Lotion released their second album, Nobody's Cool,[1] with liner notes by Thomas Pynchon.\n",
-      "The Telephone Album followed in 1998.[1] During the promotion for this album, the band made an appearance during an episode (Phases) of Buffy the Vampire Slayer and toured the US with Frank Black and the Catholics.[2]\n"
+   "rawData": [
+      "Lotion was an American, Manhattan-based indie rock band, formed in 1991 by brothers Bill and Jim Ferguson (bass guitar and guitar respectively), drummer Rob Youngberg, and vocalist/guitarist Tony Zajkowski.\n",
+      "Lotion formed in New York City's East Village and released two seven-inch singles \"Head\" and \"Tear\" on Kokopop before releasing their debut album, full Isaac, through spinArt Records in 1994.\n",
+      "To promote the release of full Isaac, Lotion toured America and Europe with Pavement, Throwing Muses, and Mercury Rev.  In 1995, the band released a self-titled EP on Big Cat Records, with a second EP, The Agnew Funeral E.P., recorded the next year. In 1996, Lotion released their second album, Nobody's Cool, with liner notes by Thomas Pynchon.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,31 +1,8 @@
 {
    "Name": "Strange Celebrity",
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Strange Celebrity was an American Christian rock band, formed in Nashville, Tennessee, composing of four members: Luke Brown (lead vocals, guitar), Rick Wilson (drums), Quinton Gibson (guitar), and Tracy Ferrie (bass guitar). The band is now defunct, as Luke Brown has pursued a solo career.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Strange Celebrity formed after founding member Luke Brown relocated from Chattanooga to Nashville.[1] Initially the group was known as Flipside.[2] They released one album in June 2003, titled Remedy, produced by Dan Wilde of the Rembrandts.[3][4][5][6][7] Chris Rodriguez was a musical consultant for the album.[8] Tracy Ferrie has since joined the band Stryper and later Boston.\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "Remedy, June 2003 (Squint/Warner)\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Strange Celebrity was an American Christian rock band, formed in Nashville, Tennessee, composing of four members: Luke Brown (lead vocals, guitar), Rick Wilson (drums), Quinton Gibson (guitar), and Tracy Ferrie (bass guitar). The band is now defunct, as Luke Brown has pursued a solo career.\n",
-      "Strange Celebrity formed after founding member Luke Brown relocated from Chattanooga to Nashville.[1] Initially the group was known as Flipside.[2] They released one album in June 2003, titled Remedy, produced by Dan Wilde of the Rembrandts.[3][4][5][6][7] Chris Rodriguez was a musical consultant for the album.[8] Tracy Ferrie has since joined the band Stryper and later Boston.\n",
+      "Strange Celebrity formed after founding member Luke Brown relocated from Chattanooga to Nashville. Initially the group was known as Flipside. They released one album in June 2003, titled Remedy, produced by Dan Wilde of the Rembrandts. Chris Rodriguez was a musical consultant for the album. Tracy Ferrie has since joined the band Stryper and later Boston.\n",
       "Remedy, June 2003 (Squint/Warner)\n"
    ],
    "infobox": {}

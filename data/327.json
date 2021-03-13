@@ -1,42 +1,9 @@
 {
    "Name": "The Manvils",
-   "Sections": [
-      "1 Media",
-      "2 Current band members",
-      "3 Discography",
-      "3.1 Albums",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Manvils are a Canadian rock band from Vancouver. The band consists of the singer, songwriter and guitarist Mikey Manville, bass guitarist Jason Skiendziel and drummer Jay Koenderman.\n",
-         "The Manvils have appeared on stage with Stereophonics, Suicide Girls, The Bellrays, The Horror Pops. Metric, De La Soul, Jarvis Cocker, Bif Naked, Sonic Youth, Ben Harper and The Relentless7, Daniel Wesley and Dragonette.\n",
-         "The band signed a recording contract with the Vancouver indie label Sandbag Records[1] in early 2008.\n",
-         "In 2008, The Manvils began writing and recording an album with the producer, Ryan Dahle (Limblifter/Age of Electric). Recorded at The Factory and The RecRoom (Greenhouse Studios), the new album was finished in early 2009. The Manvils was released in Canada on August 11, 2009, through Fontana North Distribution.[2]\n",
-         "The Manvils relocated to Toronto, Ontario in the fall of 2011 and Jason Skiendziel was brought on board to replace Greg Buhr on bass guitar.\n"
-      ]
-   },
-   "Media": {},
-   "Current band members": {},
-   "Discography": {
-      "Albums": {
-         "text": [
-            "Buried Love\nYear: 2007\nFormat: CD\n Label: Sandbag Records/Manvils Music\n",
-            "Strange Disaster (EP)\nYear: 2007\nFormat: CD\n Label: Sandbag Records/Manvils Music\n",
-            "The Manvils\nYear: 2009\nFormat: CD, vinyl\n Label: Sandbag Records\n",
-            "Black Tornado (EP)'\nYear: 2011\nFormat: CD, vinyl\n Label: Sandbag Records\n",
-            "Expats (EP)'\nYear: 2014\nFormat: CD, vinyl\n Label: Sandbag Records\n"
-         ]
-      }
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Manvils are a Canadian rock band from Vancouver. The band consists of the singer, songwriter and guitarist Mikey Manville, bass guitarist Jason Skiendziel and drummer Jay Koenderman.\n",
       "The Manvils have appeared on stage with Stereophonics, Suicide Girls, The Bellrays, The Horror Pops. Metric, De La Soul, Jarvis Cocker, Bif Naked, Sonic Youth, Ben Harper and The Relentless7, Daniel Wesley and Dragonette.\n",
-      "The band signed a recording contract with the Vancouver indie label Sandbag Records[1] in early 2008.\n",
-      "In 2008, The Manvils began writing and recording an album with the producer, Ryan Dahle (Limblifter/Age of Electric). Recorded at The Factory and The RecRoom (Greenhouse Studios), the new album was finished in early 2009. The Manvils was released in Canada on August 11, 2009, through Fontana North Distribution.[2]\n"
+      "The band signed a recording contract with the Vancouver indie label Sandbag Records in early 2008.\n"
    ],
    "infobox": {
       "Origin": [

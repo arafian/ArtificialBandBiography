@@ -1,34 +1,9 @@
 {
    "Name": "Legend Seven",
-   "Sections": [
-      "1 Band members",
-      "1.1 Later touring members",
-      "2 Discography",
-      "3 References",
-      "4 See also"
-   ],
-   "Summary": {
-      "text": [
-         "Legend Seven was a Christian hard rock band formed in the early 1990s (formerly with the name Legend) by three former members of Ruscha, another Christian band from the 1980s.\n",
-         "The band made its debut in 1990 under the name \"Archon\" on a compilation disc released by Heaven's Metal magazine, with a self-produced version of \"After The Fall.\" The song was re-released on the band's self-titled debut album, Legend, in 1992 on Word Records.  Shortly after, the band was forced to change its name to Legend Seven upon learning that another band was already using the name Legend.  They released Blind Faith in 1993.\n",
-         "Both albums were produced by Grammy Award-winning producer Bubba Smith and garnered several hits on Christian radio (\"Carry Me\", No. 4, 1992; \"Angela\", No. 2, 1992; \"Be Still\", No. 1 for 2 weeks, 1994; \"Blind Faith\", No. 1 for 2 weeks, 1994; \"First Love\", No. 10, 1994; \"Call on Me\", No. 15, 1994).[1] The band disbanded in 1994.[1]\n"
-      ]
-   },
-   "Band members": {
-      "Later touring members": {}
-   },
-   "Discography": {
-      "text": [
-         "Video Clip of \"Blind Faith\" from the 1994 American Christian Music Awards:\nhttps://www.youtube.com/v/KDFqcnh02Sc\n"
-      ]
-   },
-   "References": {},
-   "See also": {},
-   "coreData": [
+   "rawData": [
       "Legend Seven was a Christian hard rock band formed in the early 1990s (formerly with the name Legend) by three former members of Ruscha, another Christian band from the 1980s.\n",
       "The band made its debut in 1990 under the name \"Archon\" on a compilation disc released by Heaven's Metal magazine, with a self-produced version of \"After The Fall.\" The song was re-released on the band's self-titled debut album, Legend, in 1992 on Word Records.  Shortly after, the band was forced to change its name to Legend Seven upon learning that another band was already using the name Legend.  They released Blind Faith in 1993.\n",
-      "Both albums were produced by Grammy Award-winning producer Bubba Smith and garnered several hits on Christian radio (\"Carry Me\", No. 4, 1992; \"Angela\", No. 2, 1992; \"Be Still\", No. 1 for 2 weeks, 1994; \"Blind Faith\", No. 1 for 2 weeks, 1994; \"First Love\", No. 10, 1994; \"Call on Me\", No. 15, 1994).[1] The band disbanded in 1994.[1]\n",
-      "Video Clip of \"Blind Faith\" from the 1994 American Christian Music Awards:\nhttps://www.youtube.com/v/KDFqcnh02Sc\n"
+      "Both albums were produced by Grammy Award-winning producer Bubba Smith and garnered several hits on Christian radio (\"Carry Me\", No. 4, 1992; \"Angela\", No. 2, 1992; \"Be Still\", No. 1 for 2 weeks, 1994; \"Blind Faith\", No. 1 for 2 weeks, 1994; \"First Love\", No. 10, 1994; \"Call on Me\", No. 15, 1994). The band disbanded in 1994.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,37 +1,9 @@
 {
    "Name": "Sam Apple Pie",
-   "Sections": [
-      "1 Biography",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 Singles",
-      "2.3 Compilations",
-      "3 References"
-   ],
-   "Summary": {
-      "text": [
-         "\nSam Apple Pie were a British blues-rock band, of the late 1960s and 1970s, noted for having played at the first Glastonbury Festival in 1970, and for playing a role in the early careers of several musicians including Gary Fletcher, Dave Charles and Malcolm Morley.[1]\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "Formed in Walthamstow, London, where they ran their own club 'The Bottleneck Blues Club', Sam Apple Pie soon attracted a large live following, with a mix of goodtime blues and boogie, interspersed with humour.[1] In October 1969 they played the Amougies Festival, in Belgium, where Frank Zappa jammed with them.[2]\n",
-         "They wrote all but one of the songs on their first album Sam Apple Pie (1969) which featured lead singer Sam \"Tomcat\" Sampson with Mike \"Tinkerbell\" Smith and Andy 'Snakehips' Johnson on guitars,;[3] bassist Bob \"Dog\" Rennie, and Dave Charles on drums.[4]\n",
-         "In 1970 they played the first Glastonbury Festival, after which Morley and Charles left to form Help Yourself and Steve Jolly to join Procol Harum offshoot Freedom. After several more line up changes, the band recorded their second album East 17 in 1973, with Sam Sampson and Bob Rennie from the first album supported by Andy Johnson and Denny \"Pancho\" Barnes on guitars, and Lee Baxter Hayes on drums.[5]\n",
-         "They disbanded in 1974, but reformed the next year.[6] During the hiatus, from mid 1974 to February 1975, the band members performed with Vincent Crane as Vincent Crane's Atomic Rooster. Further line up changes included bassist Gary Fletcher, who subsequently joined The Blues Band, keyboard player, Steven Golick[7] and drummer Martin Bell.  The band continued into the late 1970s, changing its name to The Vipers,[8] (not to be confused with the new wave band of the same name) before disbanding.\nMichael Smith died at St. Mary's Hospital in San Francisco, CA on Monday the 27th of June 2005 at the age of 54 after battling cancer.\nFormer member, Andy Johnson, died from throat cancer on Friday 5 March 2010 in Hastingwood, Essex, at the age of 62.[9]\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "Singles": {},
-      "Compilations": {}
-   },
-   "References": {},
-   "coreData": [
-      "\nSam Apple Pie were a British blues-rock band, of the late 1960s and 1970s, noted for having played at the first Glastonbury Festival in 1970, and for playing a role in the early careers of several musicians including Gary Fletcher, Dave Charles and Malcolm Morley.[1]\n",
-      "Formed in Walthamstow, London, where they ran their own club 'The Bottleneck Blues Club', Sam Apple Pie soon attracted a large live following, with a mix of goodtime blues and boogie, interspersed with humour.[1] In October 1969 they played the Amougies Festival, in Belgium, where Frank Zappa jammed with them.[2]\n",
-      "They wrote all but one of the songs on their first album Sam Apple Pie (1969) which featured lead singer Sam \"Tomcat\" Sampson with Mike \"Tinkerbell\" Smith and Andy 'Snakehips' Johnson on guitars,;[3] bassist Bob \"Dog\" Rennie, and Dave Charles on drums.[4]\n",
-      "In 1970 they played the first Glastonbury Festival, after which Morley and Charles left to form Help Yourself and Steve Jolly to join Procol Harum offshoot Freedom. After several more line up changes, the band recorded their second album East 17 in 1973, with Sam Sampson and Bob Rennie from the first album supported by Andy Johnson and Denny \"Pancho\" Barnes on guitars, and Lee Baxter Hayes on drums.[5]\n"
+   "rawData": [
+      "\nSam Apple Pie were a British blues-rock band, of the late 1960s and 1970s, noted for having played at the first Glastonbury Festival in 1970, and for playing a role in the early careers of several musicians including Gary Fletcher, Dave Charles and Malcolm Morley.\n",
+      "Formed in Walthamstow, London, where they ran their own club 'The Bottleneck Blues Club', Sam Apple Pie soon attracted a large live following, with a mix of goodtime blues and boogie, interspersed with humour. In October 1969 they played the Amougies Festival, in Belgium, where Frank Zappa jammed with them.\n",
+      "They wrote all but one of the songs on their first album Sam Apple Pie (1969) which featured lead singer Sam \"Tomcat\" Sampson with Mike \"Tinkerbell\" Smith and Andy 'Snakehips' Johnson on guitars,; bassist Bob \"Dog\" Rennie, and Dave Charles on drums.\n"
    ],
    "infobox": {}
 }

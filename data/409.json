@@ -1,46 +1,9 @@
 {
    "Name": "City Sleeps",
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "3 Former members",
-      "4 Soundtracks",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "City Sleeps was an American rock band, formed in 2005. \n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The band was originally called Smugface and played an aggressive, somewhat progressive style of alternative rock in line with the nu metal sound of the late 1990s and early 2000s. Around 2004 they changed their sound and image, and subsequently their name was switched to City Sleeps.\n",
-         "Smugface consisted of core members Adriel Garcia (guitar), John Whitney (drums), and Elliott Sharp (vocals); early demos—produced by Rick Beato from Universal recording act Billionaire—got the band considerable attention in underground rock circles, as well as on the popular music site MP3.com. Members of alternative metal outfit Cold became aware of the group and were impressed, eventually bringing them to the attention of Limp Bizkit's Fred Durst, who almost signed Smugface to his Interscope imprint, Flawless Records.\n",
-         "Things were slowly changing internally, however, and by 2003, Smugface were noticeably transitioning into a melodic rock band, with big-sounding guitars and near-pop choruses. This new sound led to the band being noticed by producer John Feldmann (of the ska-punk band Goldfinger), who had previously worked successfully with similar groups like The Used and Story of the Year. He contacted the group in 2004 and the band members flew out to Los Angeles to record with him. City Sleeps were soon signed to Maverick/Warner Bros. Records, and by the following year, they had completed their debut studio album, entitled Walker's Ridge, which was scheduled to be released in early 2006.\n",
-         "However, the label dropped the band before the album was released. Near the end of the year, bassist Brad Allen (ex-Family Force 5) stepped in to replace Mars Davlan, completing the quintet of Allen, Sharp, Garcia, Whitney, and guitarist Steve Miloszweki (formerly of Reveille). City Sleeps ultimately signed with New Jersey-based hardcore label Trustkill Records in mid-2007, releasing their album—renamed Not an Angel—in October. They followed the album’s release with a tour in the U.K. with Welsh rock band Funeral for a Friend.\n",
-         "On February 4, 2008, City Sleeps announced the departure of bassist Brad Allen. Due to the departure of Allen, Milo switched to bass. City Sleeps then toured with Drowning Pool & Saliva; they also filmed a new video for the song \"Not an Angel\" with director Darren Doane (Deftones).\n",
-         "On September 5, 2008, the band announced the departure of lead singer Ely Dye. On September 12, 2008, Milo announced that he too would be leaving the band.\n",
-         "On May 10, 2013, Adriel Garcia announced that there will be a final album release with the help from fans via Kickstarter.[1] The album would contain unreleased b-sides and demos recorded from 2004 to 2007 with songs written for Not an Angel and beyond. The album will feature the original lineup from their debut album Not an Angel with Ely Dye on vocals, Adriel Garcia on Guitar & London on drums.[2][3] A teaser of the b-sides and demo album was posted on their Soundcloud page.[4]\n",
-         "On December 24, 2013, the band released their final studio album Chariots and Riots on Adriel Garcia's Bandcamp page.[5]\n"
-      ]
-   },
-   "Discography": {},
-   "Former members": {},
-   "Soundtracks": {
-      "text": [
-         "ESPN used the song \"Catch Me\" for one of the themes for the 2006 NASCAR Daytona 500.\n",
-         "The song \"Prototype\" is featured in the video game MLB 06: The Show.\n",
-         "The song \"Catch Me\" is featured on the Resident Evil: Extinction Soundtrack.\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "City Sleeps was an American rock band, formed in 2005. \n",
       "The band was originally called Smugface and played an aggressive, somewhat progressive style of alternative rock in line with the nu metal sound of the late 1990s and early 2000s. Around 2004 they changed their sound and image, and subsequently their name was switched to City Sleeps.\n",
-      "Smugface consisted of core members Adriel Garcia (guitar), John Whitney (drums), and Elliott Sharp (vocals); early demos—produced by Rick Beato from Universal recording act Billionaire—got the band considerable attention in underground rock circles, as well as on the popular music site MP3.com. Members of alternative metal outfit Cold became aware of the group and were impressed, eventually bringing them to the attention of Limp Bizkit's Fred Durst, who almost signed Smugface to his Interscope imprint, Flawless Records.\n",
-      "Things were slowly changing internally, however, and by 2003, Smugface were noticeably transitioning into a melodic rock band, with big-sounding guitars and near-pop choruses. This new sound led to the band being noticed by producer John Feldmann (of the ska-punk band Goldfinger), who had previously worked successfully with similar groups like The Used and Story of the Year. He contacted the group in 2004 and the band members flew out to Los Angeles to record with him. City Sleeps were soon signed to Maverick/Warner Bros. Records, and by the following year, they had completed their debut studio album, entitled Walker's Ridge, which was scheduled to be released in early 2006.\n"
+      "Smugface consisted of core members Adriel Garcia (guitar), John Whitney (drums), and Elliott Sharp (vocals); early demos—produced by Rick Beato from Universal recording act Billionaire—got the band considerable attention in underground rock circles, as well as on the popular music site MP3.com. Members of alternative metal outfit Cold became aware of the group and were impressed, eventually bringing them to the attention of Limp Bizkit's Fred Durst, who almost signed Smugface to his Interscope imprint, Flawless Records.\n"
    ],
    "infobox": {
       "Origin": [

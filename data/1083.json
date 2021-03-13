@@ -1,51 +1,9 @@
 {
    "Name": "Moshav (band)",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "2.1 Current members",
-      "2.2 Past members",
-      "3 Discography",
-      "3.1 Albums",
-      "3.2 Singles",
-      "3.3 Music videos",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Moshav, formerly known as Moshav Band, is an Israeli-American Jewish rock band originating from Moshav Mevo Modi'im. Founded in 1995 by Yehuda Solomon and Duvid Swirsky, the group moved to Los Angeles in 2000 and has released seven studio albums. They are often regarded as one of the first groups to combine Jewish music with a rock sound, as elements of alternative rock, folk, funk, and reggae appear in their songs.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The Israel-born Moshav Band members grew up on Moshav Mevo Modi'im, a musical village located in the hills between Jerusalem and Tel Aviv.  Their village, founded by the late Rabbi Shlomo Carlebach, was and continues to be the birthplace of many Jewish songs enjoyed the world over. The members of the Moshav Band were under the spiritual guidance of Rabbi Shlomo Carlebach while immersed in his musical world, often performing with him at his concerts. Co-founder Yehuda Solomon is the son of Ben Zion Solomon, one of the original members of the Diaspora Yeshiva Band.[1][2]\n",
-         "Although the members of the Moshav Band grew up playing music together, the band had its first official show at Jerusalem's Mike's Place in 1996, performing for an audience consisting mainly of American students studying abroad in various yeshivas as well as Hebrew University. The organizer of the event, Sharon Goldman, was unsure how to bill the as-yet unnamed act and opted for the simple \"Moshav Band.\"  The name stuck.\n",
-         "Since that time, the band has been heard at music festivals and more intimate settings worldwide. Projects in which the Moshav Band has played an essential role include The Wake Up Tour (a Northern American Jewish Renewal project) and Israeli Block Parties, organized to increase Israel and Jewish awareness. Now based in Los Angeles, the band continues to perform throughout the US and the world. They are known for being on the soundtrack to many Nefesh B'Nefesh videos.[3]\n"
-      ]
-   },
-   "Members": {
-      "Current members": {},
-      "Past members": {}
-   },
-   "Discography": {
-      "Albums": {},
-      "Singles": {},
-      "Music videos": {}
-   },
-   "See also": {},
-   "References": {
-      "text": [
-         "\n"
-      ]
-   },
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Moshav, formerly known as Moshav Band, is an Israeli-American Jewish rock band originating from Moshav Mevo Modi'im. Founded in 1995 by Yehuda Solomon and Duvid Swirsky, the group moved to Los Angeles in 2000 and has released seven studio albums. They are often regarded as one of the first groups to combine Jewish music with a rock sound, as elements of alternative rock, folk, funk, and reggae appear in their songs.\n",
-      "The Israel-born Moshav Band members grew up on Moshav Mevo Modi'im, a musical village located in the hills between Jerusalem and Tel Aviv.  Their village, founded by the late Rabbi Shlomo Carlebach, was and continues to be the birthplace of many Jewish songs enjoyed the world over. The members of the Moshav Band were under the spiritual guidance of Rabbi Shlomo Carlebach while immersed in his musical world, often performing with him at his concerts. Co-founder Yehuda Solomon is the son of Ben Zion Solomon, one of the original members of the Diaspora Yeshiva Band.[1][2]\n",
-      "Although the members of the Moshav Band grew up playing music together, the band had its first official show at Jerusalem's Mike's Place in 1996, performing for an audience consisting mainly of American students studying abroad in various yeshivas as well as Hebrew University. The organizer of the event, Sharon Goldman, was unsure how to bill the as-yet unnamed act and opted for the simple \"Moshav Band.\"  The name stuck.\n",
-      "Since that time, the band has been heard at music festivals and more intimate settings worldwide. Projects in which the Moshav Band has played an essential role include The Wake Up Tour (a Northern American Jewish Renewal project) and Israeli Block Parties, organized to increase Israel and Jewish awareness. Now based in Los Angeles, the band continues to perform throughout the US and the world. They are known for being on the soundtrack to many Nefesh B'Nefesh videos.[3]\n"
+      "The Israel-born Moshav Band members grew up on Moshav Mevo Modi'im, a musical village located in the hills between Jerusalem and Tel Aviv.  Their village, founded by the late Rabbi Shlomo Carlebach, was and continues to be the birthplace of many Jewish songs enjoyed the world over. The members of the Moshav Band were under the spiritual guidance of Rabbi Shlomo Carlebach while immersed in his musical world, often performing with him at his concerts. Co-founder Yehuda Solomon is the son of Ben Zion Solomon, one of the original members of the Diaspora Yeshiva Band.\n",
+      "Although the members of the Moshav Band grew up playing music together, the band had its first official show at Jerusalem's Mike's Place in 1996, performing for an audience consisting mainly of American students studying abroad in various yeshivas as well as Hebrew University. The organizer of the event, Sharon Goldman, was unsure how to bill the as-yet unnamed act and opted for the simple \"Moshav Band.\"  The name stuck.\n"
    ],
    "infobox": {
       "Also known as": [

@@ -1,43 +1,9 @@
 {
    "Name": "Strangefolk",
-   "Sections": [
-      "1 History",
-      "2 Line-up",
-      "3 Discography",
-      "4 Videography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Strangefolk is a rock-oriented jam band originally from Burlington, VT. Since forming in 1991, the band has released five studio albums, four live albums and one live concert DVD. The band consists of Jon Trafton (lead guitar, vocals), Erik Glockler (bass, vocals), Reid Genauer (rhythm guitar, vocals), and Luke Smith (drums).\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Originally formed at the University of Vermont as an acoustic duo \"Strange Folk\" in 1991 by Jon Trafton and Reid Genauer, Strangefolk (now one word) added bass and drums within in 1993 and took to playing the bars in and around the vibrant musical community of Burlington, Vermont.  After only a couple years of developing their signature sound in and around the Vermont music scene, the band began touring the club and college circuit around the Northeast, quickly gaining momentum and popularity with each tour.  Regional tours paved the way for national tours, with the band logging over 100 shows per year.  In 1998, Strangefolk signed with Mammoth Records, only to have the record deal collapse when Disney purchased Mammoth in 1999.  \"A Great Long While\", which was to be the band's major-label debut and was produced by Nile Rodgers, was released independently in 2000.[1]\n",
-         "In September 2000, following the band's annual Garden of Eden Festival in New Haven, Vermont, founding member and primary songwriter Genauer left the band to pursue a graduate degree at Cornell University, as well as other personal reasons.  He had grown weary of Strangefolk's hectic touring schedule and was discontent with the end of the band's record deal and the direction of the band. In 2002, Genauer formed Assembly of Dust, which continues to tour today.[1]\n",
-         "After auditions in New York City in the Fall of 2000, Strangefolk invited Luke \"Patchen\" Montgomery to join the band, along with keyboardist Scott Shdeed.  The newly aligned group began touring once again in early 2001.  Shdeed was replaced on keyboards in October 2001 by Don Scott.  The current line-up was completed when drummer Luke Smith left the band for personal reasons in September 2003.  After the band took a brief hiatus from touring, Trey Anastasio Band drummer Russ Lawton joined Strangefolk in April 2004.[1]\n",
-         "In early 2005, Strangefolk was once again forced to take a break from playing and touring when Jon Trafton was diagnosed with cancer.  While Trafton underwent treatment, the other members of the band formed a side project called The Windfalls with guitarist Steve Jones of the band The Boneheads.  Following nearly a year of treatment and overwhelming support from his family, friends, band mates and fans, Trafton is cancer-free and Strangefolk began playing on a more regular basis once again in 2006.[1]\n",
-         "At their Garden of Eden music festival in September 2006, the band debuted another side project dubbed The Tells. Consisting of all five members of Strangefolk, The Tells played a late-night two-hour set of music consisting entirely of Led Zeppelin cover songs.  The band repeated this performance again in October 2006, opening for themselves under the moniker The Tells at a concert in Burlington, VT. In September 2007 The Tells performed a Jack White themed late night set at the StrangeCreek Festival in Greenfield, MA, covering songs by The White Stripes and The Raconteurs.\n",
-         "In 1997, fans of Strangefolk started a small charitable organization called Strangers Helping Strangers, collecting non-perishable food items at several of the band's concerts throughout New England.  Since then, the organization (also referred to as SHS) has expanded to work with hundreds of other bands throughout the US.  In 2011, SHS ran food drives at 368 events. In 2012, SHS re-organized with a new board of directors, new organizational structure, and a renewed mission to feed the hungry one concert at a time.\n",
-         "On January 10, 2012 the band announced a pair of reunion shows (in Burlington, VT on 3/30/12 and Portland, ME on 3/31/12) with founding members Reid Genauer, Jon Trafton, Erik Glockler, and Luke Smith.  This was the first time the original lineup has played together formally onstage since their farewell Garden of Eden concert in New Haven, VT in September 2000.  The original lineup has performed occasional concerts throughout 2012 and 2013, including two appearances at The Gathering of the Vibes, as well as concerts at venues such as The Paradise Rock Club and the Wilbur Theater in Boston, MA, and The Capital Theater in Port Chester, NY.[2]\n"
-      ]
-   },
-   "Line-up": {},
-   "Discography": {},
-   "Videography": {},
-   "References": {
-      "text": [
-         "Strangefolk at Allmusic.com\n"
-      ]
-   },
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Strangefolk is a rock-oriented jam band originally from Burlington, VT. Since forming in 1991, the band has released five studio albums, four live albums and one live concert DVD. The band consists of Jon Trafton (lead guitar, vocals), Erik Glockler (bass, vocals), Reid Genauer (rhythm guitar, vocals), and Luke Smith (drums).\n",
-      "Originally formed at the University of Vermont as an acoustic duo \"Strange Folk\" in 1991 by Jon Trafton and Reid Genauer, Strangefolk (now one word) added bass and drums within in 1993 and took to playing the bars in and around the vibrant musical community of Burlington, Vermont.  After only a couple years of developing their signature sound in and around the Vermont music scene, the band began touring the club and college circuit around the Northeast, quickly gaining momentum and popularity with each tour.  Regional tours paved the way for national tours, with the band logging over 100 shows per year.  In 1998, Strangefolk signed with Mammoth Records, only to have the record deal collapse when Disney purchased Mammoth in 1999.  \"A Great Long While\", which was to be the band's major-label debut and was produced by Nile Rodgers, was released independently in 2000.[1]\n",
-      "In September 2000, following the band's annual Garden of Eden Festival in New Haven, Vermont, founding member and primary songwriter Genauer left the band to pursue a graduate degree at Cornell University, as well as other personal reasons.  He had grown weary of Strangefolk's hectic touring schedule and was discontent with the end of the band's record deal and the direction of the band. In 2002, Genauer formed Assembly of Dust, which continues to tour today.[1]\n",
-      "After auditions in New York City in the Fall of 2000, Strangefolk invited Luke \"Patchen\" Montgomery to join the band, along with keyboardist Scott Shdeed.  The newly aligned group began touring once again in early 2001.  Shdeed was replaced on keyboards in October 2001 by Don Scott.  The current line-up was completed when drummer Luke Smith left the band for personal reasons in September 2003.  After the band took a brief hiatus from touring, Trey Anastasio Band drummer Russ Lawton joined Strangefolk in April 2004.[1]\n"
+      "Originally formed at the University of Vermont as an acoustic duo \"Strange Folk\" in 1991 by Jon Trafton and Reid Genauer, Strangefolk (now one word) added bass and drums within in 1993 and took to playing the bars in and around the vibrant musical community of Burlington, Vermont.  After only a couple years of developing their signature sound in and around the Vermont music scene, the band began touring the club and college circuit around the Northeast, quickly gaining momentum and popularity with each tour.  Regional tours paved the way for national tours, with the band logging over 100 shows per year.  In 1998, Strangefolk signed with Mammoth Records, only to have the record deal collapse when Disney purchased Mammoth in 1999.  \"A Great Long While\", which was to be the band's major-label debut and was produced by Nile Rodgers, was released independently in 2000.\n",
+      "In September 2000, following the band's annual Garden of Eden Festival in New Haven, Vermont, founding member and primary songwriter Genauer left the band to pursue a graduate degree at Cornell University, as well as other personal reasons.  He had grown weary of Strangefolk's hectic touring schedule and was discontent with the end of the band's record deal and the direction of the band. In 2002, Genauer formed Assembly of Dust, which continues to tour today.\n"
    ],
    "infobox": {
       "Origin": [

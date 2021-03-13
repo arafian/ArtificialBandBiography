@@ -1,46 +1,9 @@
 {
    "Name": "The Octopus Project",
-   "Sections": [
-      "1 Current members",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Splits, remixes, singles and EPs",
-      "2.3 Soundtracks",
-      "3 See also",
-      "4 References",
-      "5 Other sources",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Octopus Project is an American indietronica band based in Austin, Texas, active since 1999. Their sound blends pop and experimental elements, and is a combination of digital and electronic sounds and noises (including drum machine, keyboard, synthesizers and other devices) and analog equipment (including guitars and live drums). The band's music is mostly instrumental.\n",
-         "On April 30, 2006, the Octopus Project performed at the Coachella Valley Music and Arts Festival. They were offered the opportunity after a fan, unbeknownst to the band, entered them in a contest held by the festival on MySpace in which voters were to \"nominate their favorite band for an open slot at the festival\".[1][2] In 2007, they supported underground hip hop star, Aesop Rock and indie electronic icons Stereo Total on their national tours. In 2008, the group performed at notable festivals such as Lollapalooza, All Tomorrow's Parties, and the Austin City Limits Festival.[3]\n",
-         "The Octopus Project composed and performed a series of unique, individual scores for short films played at Alamo Drafthouse in Austin, Texas in February 2009. For their performance at the South by Southwest festival in their hometown in March 2010, the band put together a multi-media show which involved them performing material from what was to be their upcoming release, Hexadecagon. The band performed surrounded by eight loudspeakers, while eight projectors projected videos corresponding to the music on tent ceilings above the stage and the audience.[4] Later that same year, the Octopus Project played at Moogfest 2010 in Asheville, North Carolina. They were scheduled to play just prior to Devo's headlining set. Three days prior to the concert, Devo's guitarist, Bob Mothersbaugh, severely injured his hand and was unable to play. Since the band was receiving a Moog Innovation Award at the festival, and because they didn't want to disappoint their fans, the remaining two members of Devo enlisted the help of The Octopus Project, and together the two bands performed the Devo songs \"Girl U Want\" and \"Beautiful World.\"[5]\n",
-         "In 2011, the band snagged the opening spot on tours with Devo, Man or Astroman, and Explosions in the Sky.  The band spent the rest of that year working on soundtracks for the feature film Kid-Thing, and the video game Thunderbeam.  In 2012, The Octopus Project began work on what would be their fifth studio album, Fever Forms. The first single from the album, \"Whitby\", was released as an EP in November—complete with b-sides, a karaoke version, and a video directed by the band.[6]\n",
-         "In 2014, the band was awarded The Special Jury Award for Musical Score at the Sundance Film Festival for their work on the soundtrack to the film, Kumiko, the Treasure Hunter.  In 2015, the band released two EPs of new music paired with handmade art objects—the first, Mister, a stuffed animal & the second, Nelda, a resin sculpture.  Excited about the new tunes, the band dove into writing what would become their next record, 2017's Memory Mirror.  The album was mixed and recorded by Dave Fridmann and Danny Reisch.\n",
-         "Their newest release, the soundtrack for the film Damsel (2018 film) (a western directed by the Zellner Bros. and starring Robert Pattinson & Mia Wasikowska) came out June 22, 2018 on Milan Records. Produced on period specific instruments—banjo, musical saw, acoustic guitar, flute, wine glasses—the score finds the band in unknown territory sounding at once both haunting and majestic.\n",
-         "2019 saw the band expanding further into art installation territory, with LOOM II—an immersive, ambient surround sound & surround light performance, which premiered at the Fusebox Festival in Austin, TX.\n"
-      ]
-   },
-   "Current members": {
-      "text": [
-         "All members are known to switch instruments live (for instance, Josh Lambert playing drums while Toto Miranda plays guitar, or Yvonne Lambert playing guitar while Josh Lambert operates the electronics), but each member can be said to play a primary instrument.\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Splits, remixes, singles and EPs": {},
-      "Soundtracks": {}
-   },
-   "See also": {},
-   "References": {},
-   "Other sources": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Octopus Project is an American indietronica band based in Austin, Texas, active since 1999. Their sound blends pop and experimental elements, and is a combination of digital and electronic sounds and noises (including drum machine, keyboard, synthesizers and other devices) and analog equipment (including guitars and live drums). The band's music is mostly instrumental.\n",
-      "On April 30, 2006, the Octopus Project performed at the Coachella Valley Music and Arts Festival. They were offered the opportunity after a fan, unbeknownst to the band, entered them in a contest held by the festival on MySpace in which voters were to \"nominate their favorite band for an open slot at the festival\".[1][2] In 2007, they supported underground hip hop star, Aesop Rock and indie electronic icons Stereo Total on their national tours. In 2008, the group performed at notable festivals such as Lollapalooza, All Tomorrow's Parties, and the Austin City Limits Festival.[3]\n",
-      "The Octopus Project composed and performed a series of unique, individual scores for short films played at Alamo Drafthouse in Austin, Texas in February 2009. For their performance at the South by Southwest festival in their hometown in March 2010, the band put together a multi-media show which involved them performing material from what was to be their upcoming release, Hexadecagon. The band performed surrounded by eight loudspeakers, while eight projectors projected videos corresponding to the music on tent ceilings above the stage and the audience.[4] Later that same year, the Octopus Project played at Moogfest 2010 in Asheville, North Carolina. They were scheduled to play just prior to Devo's headlining set. Three days prior to the concert, Devo's guitarist, Bob Mothersbaugh, severely injured his hand and was unable to play. Since the band was receiving a Moog Innovation Award at the festival, and because they didn't want to disappoint their fans, the remaining two members of Devo enlisted the help of The Octopus Project, and together the two bands performed the Devo songs \"Girl U Want\" and \"Beautiful World.\"[5]\n",
-      "In 2011, the band snagged the opening spot on tours with Devo, Man or Astroman, and Explosions in the Sky.  The band spent the rest of that year working on soundtracks for the feature film Kid-Thing, and the video game Thunderbeam.  In 2012, The Octopus Project began work on what would be their fifth studio album, Fever Forms. The first single from the album, \"Whitby\", was released as an EP in November—complete with b-sides, a karaoke version, and a video directed by the band.[6]\n"
+      "On April 30, 2006, the Octopus Project performed at the Coachella Valley Music and Arts Festival. They were offered the opportunity after a fan, unbeknownst to the band, entered them in a contest held by the festival on MySpace in which voters were to \"nominate their favorite band for an open slot at the festival\". In 2007, they supported underground hip hop star, Aesop Rock and indie electronic icons Stereo Total on their national tours. In 2008, the group performed at notable festivals such as Lollapalooza, All Tomorrow's Parties, and the Austin City Limits Festival.\n",
+      "The Octopus Project composed and performed a series of unique, individual scores for short films played at Alamo Drafthouse in Austin, Texas in February 2009. For their performance at the South by Southwest festival in their hometown in March 2010, the band put together a multi-media show which involved them performing material from what was to be their upcoming release, Hexadecagon. The band performed surrounded by eight loudspeakers, while eight projectors projected videos corresponding to the music on tent ceilings above the stage and the audience. Later that same year, the Octopus Project played at Moogfest 2010 in Asheville, North Carolina. They were scheduled to play just prior to Devo's headlining set. Three days prior to the concert, Devo's guitarist, Bob Mothersbaugh, severely injured his hand and was unable to play. Since the band was receiving a Moog Innovation Award at the festival, and because they didn't want to disappoint their fans, the remaining two members of Devo enlisted the help of The Octopus Project, and together the two bands performed the Devo songs \"Girl U Want\" and \"Beautiful World.\"\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,59 +1,9 @@
 {
    "Name": "Rojo (band)",
-   "Sections": [
-      "1 Band history",
-      "2 Band members",
-      "2.1 Current members",
-      "2.2 Former members",
-      "3 Discography",
-      "4 Awards",
-      "4.1 Nuestra Música",
-      "4.2 Premios La Conquista",
-      "4.3 Premios Arpa",
-      "4.4 Latin Grammy",
-      "4.5 Premios Gospel Cristo Rey",
-      "4.6 Dove Awards",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Rojo was a Christian rock band from Mexico. The band was formed in 2000 by bassist Emmanuel Espinosa, with their eponymous debut album released in 2001.\n"
-      ]
-   },
-   "Band history": {
-      "text": [
-         "Since their youth in the early 1990s, Emmanuel Espinosa and Rubén González thought about starting their own band. By the end of the century, they recruited guitarist Oswaldo Burruel as they started to shape up a band. Finally, joined by Annette Moreno, the band Rojo was officially formed in 2000. Rojo debuted in Los Angeles, California during a Youth Congress led by Luis Enrique Espinosa, brother of Emmanuel.[1]\n",
-         "In 2001, they released their eponymous debut album and started touring through Latin America, United States, Spain, and Japan. During this time, lead singer Annette Moreno, decided to start a solo career and left the band. She was replaced with Emmanuel's wife, Linda.[2][3] After almost two years of touring, the band released their second album, titled 24/7 in 2003, which featured songwriting collaborations by Juan Salinas and Jesús Adrián Romero. \n",
-         "They followed it in 2004 with Día de Independencia. In the end of 2005, the band released their first DVD titled Pasaporte, which was followed by a compilation titled Edición Especial. The latter featured live performances, remixes, and two new songs. They also released an EP titled Navidad in the winter of 2006. They also released another live DVD titled Rojo en Vivo, recorded live during a concert in Buenos Aires, Argentina.\n",
-         "In May 2007, the band released their fourth studio album titled Con el Corazón en la Mano. They followed it with a remix album titled Remixes y Más and their third DVD titled Con el Corazón Tour.\n",
-         "In 2009, the band released their latest studio album titled Apasionado Por Tí.[4][5]\n",
-         "In 2012, Rojo decided to call it quits after twelve years as a band. Their farewell tour was named \"ADios Gracias,\" which is a play on words for 'Goodbye' and 'Thank God.'[6] The farewell tour included cities in the United States as well as Latin America. [7] Nevertheless, they continue touring, and their most recent album was released in 2018.[8]\n"
-      ]
-   },
-   "Band members": {
-      "Current members": {},
-      "Former members": {}
-   },
-   "Discography": {},
-   "Awards": {
-      "Nuestra Música": {},
-      "Premios La Conquista": {},
-      "Premios Arpa": {},
-      "Latin Grammy": {},
-      "Premios Gospel Cristo Rey": {},
-      "Dove Awards": {},
-      "text": [
-         "Rojo has received several awards and nominations. Noticeably, they have won six Arpa Awards and have been nominated for three Latin Grammy Awards. In 2010, they were nominated for the first time to a GMA Dove Award.\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Rojo was a Christian rock band from Mexico. The band was formed in 2000 by bassist Emmanuel Espinosa, with their eponymous debut album released in 2001.\n",
-      "Since their youth in the early 1990s, Emmanuel Espinosa and Rubén González thought about starting their own band. By the end of the century, they recruited guitarist Oswaldo Burruel as they started to shape up a band. Finally, joined by Annette Moreno, the band Rojo was officially formed in 2000. Rojo debuted in Los Angeles, California during a Youth Congress led by Luis Enrique Espinosa, brother of Emmanuel.[1]\n",
-      "In 2001, they released their eponymous debut album and started touring through Latin America, United States, Spain, and Japan. During this time, lead singer Annette Moreno, decided to start a solo career and left the band. She was replaced with Emmanuel's wife, Linda.[2][3] After almost two years of touring, the band released their second album, titled 24/7 in 2003, which featured songwriting collaborations by Juan Salinas and Jesús Adrián Romero. \n",
-      "They followed it in 2004 with Día de Independencia. In the end of 2005, the band released their first DVD titled Pasaporte, which was followed by a compilation titled Edición Especial. The latter featured live performances, remixes, and two new songs. They also released an EP titled Navidad in the winter of 2006. They also released another live DVD titled Rojo en Vivo, recorded live during a concert in Buenos Aires, Argentina.\n"
+      "Since their youth in the early 1990s, Emmanuel Espinosa and Rubén González thought about starting their own band. By the end of the century, they recruited guitarist Oswaldo Burruel as they started to shape up a band. Finally, joined by Annette Moreno, the band Rojo was officially formed in 2000. Rojo debuted in Los Angeles, California during a Youth Congress led by Luis Enrique Espinosa, brother of Emmanuel.\n",
+      "In 2001, they released their eponymous debut album and started touring through Latin America, United States, Spain, and Japan. During this time, lead singer Annette Moreno, decided to start a solo career and left the band. She was replaced with Emmanuel's wife, Linda. After almost two years of touring, the band released their second album, titled 24/7 in 2003, which featured songwriting collaborations by Juan Salinas and Jesús Adrián Romero. \n"
    ],
    "infobox": {
       "Origin": [

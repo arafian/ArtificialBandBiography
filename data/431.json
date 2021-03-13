@@ -1,27 +1,8 @@
 {
    "Name": "Fair (band)",
-   "Sections": [
-      "1 Members",
-      "2 Discography",
-      "2.1 Albums",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Fair is an alternative rock band currently signed to Tooth & Nail Records. It was created in 2005 from members of Aaron Sprinkle's touring band – Sprinkle, fellow Poor Old Lu alum Nick Barber, Erick Newbill, and Joey Sanchez. \n",
-         "The band released their first album, The Best Worst-Case Scenario, on June 6, 2006.[1]\n"
-      ]
-   },
-   "Members": {},
-   "Discography": {
-      "Albums": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Fair is an alternative rock band currently signed to Tooth & Nail Records. It was created in 2005 from members of Aaron Sprinkle's touring band – Sprinkle, fellow Poor Old Lu alum Nick Barber, Erick Newbill, and Joey Sanchez. \n",
-      "The band released their first album, The Best Worst-Case Scenario, on June 6, 2006.[1]\n",
+      "The band released their first album, The Best Worst-Case Scenario, on June 6, 2006.\n",
       "This article about a United States alternative rock band is a stub. You can help Wikipedia by expanding it."
    ],
    "infobox": {

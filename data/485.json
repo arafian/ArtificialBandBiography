@@ -1,53 +1,9 @@
 {
    "Name": "Salvador (band)",
-   "Sections": [
-      "1 Members",
-      "1.1 Current members",
-      "1.2 Former members",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Singles",
-      "3 Awards",
-      "3.1 2004",
-      "3.2 2008",
-      "4 Style",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Salvador is a Christian band. The band began with Nic and Josh as part of the worship band in their home church located in north east Austin, Texas, King of Glory church. They sing in both English and Spanish.\n"
-      ]
-   },
-   "Members": {
-      "Current members": {},
-      "Former members": {}
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Singles": {}
-   },
-   "Awards": {
-      "2004": {},
-      "2008": {
-         "text": [
-            "On the heels of their new album release AWARE, the band along with TobyMac, Third Day, Kelly Clarkson and others performed at the Papal Youth Rally on April 19, 2008 in Yonkers, New York.[7][8]\n"
-         ]
-      }
-   },
-   "Style": {
-      "text": [
-         "Over time the sound has changed from pure Latin funk to more mainstream contemporary and at times a heavier sounds of rock and occasionally the extreme sound of heavy metal riffing in later years. During live shows Salvador tries to stay with their pure up-tempo Latin sound, while inserting a few more contemporary fan favorites. The band has evolved over the years using a variety of different members to accompany the different range of music and direction the band has taken, such as Latin funk, contemporary, Rock and Roll, and hard rock.[citation needed]\n",
-         "In 1998, the band contributed to the AIDS benefit compilation album Onda Sonora: Red Hot + Lisbon produced by the Red Hot Organization.\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Salvador is a Christian band. The band began with Nic and Josh as part of the worship band in their home church located in north east Austin, Texas, King of Glory church. They sing in both English and Spanish.\n",
-      "On the heels of their new album release AWARE, the band along with TobyMac, Third Day, Kelly Clarkson and others performed at the Papal Youth Rally on April 19, 2008 in Yonkers, New York.[7][8]\n",
-      "Over time the sound has changed from pure Latin funk to more mainstream contemporary and at times a heavier sounds of rock and occasionally the extreme sound of heavy metal riffing in later years. During live shows Salvador tries to stay with their pure up-tempo Latin sound, while inserting a few more contemporary fan favorites. The band has evolved over the years using a variety of different members to accompany the different range of music and direction the band has taken, such as Latin funk, contemporary, Rock and Roll, and hard rock.[citation needed]\n",
-      "In 1998, the band contributed to the AIDS benefit compilation album Onda Sonora: Red Hot + Lisbon produced by the Red Hot Organization.\n"
+      "On the heels of their new album release AWARE, the band along with TobyMac, Third Day, Kelly Clarkson and others performed at the Papal Youth Rally on April 19, 2008 in Yonkers, New York.\n",
+      "Over time the sound has changed from pure Latin funk to more mainstream contemporary and at times a heavier sounds of rock and occasionally the extreme sound of heavy metal riffing in later years. During live shows Salvador tries to stay with their pure up-tempo Latin sound, while inserting a few more contemporary fan favorites. The band has evolved over the years using a variety of different members to accompany the different range of music and direction the band has taken, such as Latin funk, contemporary, Rock and Roll, and hard rock.\n"
    ],
    "infobox": {
       "Origin": [

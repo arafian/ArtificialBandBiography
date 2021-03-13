@@ -1,21 +1,9 @@
 {
    "Name": "Childbirth (band)",
-   "Sections": [
-      "Summary"
-   ],
-   "Summary": {
-      "text": [
-         "Childbirth is an American alternative rock band from  Seattle, Washington, United States. The band includes members from other popular Seattle-based bands (Julia Shapiro of Chastity Belt, Bree McKenna of Tacocat, Stacy Peck of Pony Time.) The band performs in maternity gowns and is currently signed to the label Suicide Squeeze Records\n",
-         "The three piece received some notoriety on websites such as Pitchfork and Vice Magazine for their viral song \"I Only Fucked You As A Joke\",[1][2] which also made Spin magazine's Top 100 Songs of 2014.[3]\n",
-         "NPR premiered the single \"Nasty Grrls\" for their most recent album, Women's Rights.[4] The record received positive reviews from reviewers including Pitchfork[5] and Spin,[6] and after some touring of both coasts, the band was invited to perform at the Sasquatch Music Festival,[7] and New York City's Northside Music Festival.[8]\n",
-         "In 2016, the band appeared on the podcast, Accidents On Purpose, where they claimed they are good at getting people to mow their lawn and made jokes about feminism.[9]\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "Childbirth is an American alternative rock band from  Seattle, Washington, United States. The band includes members from other popular Seattle-based bands (Julia Shapiro of Chastity Belt, Bree McKenna of Tacocat, Stacy Peck of Pony Time.) The band performs in maternity gowns and is currently signed to the label Suicide Squeeze Records\n",
-      "The three piece received some notoriety on websites such as Pitchfork and Vice Magazine for their viral song \"I Only Fucked You As A Joke\",[1][2] which also made Spin magazine's Top 100 Songs of 2014.[3]\n",
-      "NPR premiered the single \"Nasty Grrls\" for their most recent album, Women's Rights.[4] The record received positive reviews from reviewers including Pitchfork[5] and Spin,[6] and after some touring of both coasts, the band was invited to perform at the Sasquatch Music Festival,[7] and New York City's Northside Music Festival.[8]\n",
-      "In 2016, the band appeared on the podcast, Accidents On Purpose, where they claimed they are good at getting people to mow their lawn and made jokes about feminism.[9]\n"
+      "The three piece received some notoriety on websites such as Pitchfork and Vice Magazine for their viral song \"I Only Fucked You As A Joke\", which also made Spin magazine's Top 100 Songs of 2014.\n",
+      "NPR premiered the single \"Nasty Grrls\" for their most recent album, Women's Rights. The record received positive reviews from reviewers including Pitchfork and Spin, and after some touring of both coasts, the band was invited to perform at the Sasquatch Music Festival, and New York City's Northside Music Festival.\n"
    ],
    "infobox": {
       "Origin": [

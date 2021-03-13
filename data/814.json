@@ -1,44 +1,9 @@
 {
    "Name": "Union Carbide Productions",
-   "Sections": [
-      "Summary",
-      "History",
-      "Band name"
-   ],
-   "Summary": {
-      "text": [
-         "Union Carbide Productions was a Swedish rock band formed by Ebbot Lundberg (vocals), Patrik Caganis, Björn Olsson, Per Helm and Henrik Rylander in 1986.\n",
-         "Their music can be described as a fusion of psychedelic rock and raw Stooges-esque rock 'n' roll—and a bit angrier than The Soundtrack of Our Lives (the band that emerged from the ashes of Union Carbide Productions).\n",
-         "Though never really commercially successful, the band has received praise from artists like Kurt Cobain, R.E.M. and Sonic Youth. After the success of The Soundtrack of Our Lives, a compilation CD was released in 2004.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "In 1981 Ebbot Lundberg met Patrik Caganis at a U.K. Subs gig. They shared a common musical taste in hardcore music, and the friendship that followed produced the forming of a punk band—\"Sure Tråkings Trio\".\n",
-         "During the years that followed, \"Sure Tråkings Trio\" was disbanded and Patrik Caganis spent a year as an exchange student in Minneapolis, USA. Going to gigs with bands like Hüsker Dü, The Replacements and Soul Asylum, he claims to have been heavily musically inspired.\n",
-         "In 1986, Ebbot Lundbergs friend Emrik Larsson had tried out as a singer for a band called Heartbeat City. Emrik, (who was also the singer of the domestically famous Swedish funkrockband Stonefunkers), didn't want to stay in the band, and instead suggested that Ebbot Lundberg should audition. Patrik Caganis, a Heartbeat City fan, decided to team up with Lundberg and they went to the audition together.\n",
-         "Heartbeat City then consisted of Björn Olsson on the guitars and Henrik Rylander on the drums. The audition and jams that followed proved to work out well—fitting in Caganis' guitars with Olssons' and adding Lundbergs' improvised lyrics and melodies.[citation needed] After a while Lundberg brought in long time friend Per Helm on bass—an addition that also proved to add to the groups evolving sound. This composition formed Union Carbide Productions. They started writing songs, and on June the 14th 1986 they had their live debut. It took place at the \"Save the Forest\" festival in Gothenburg. The gig resulted in an amplifier hitting someone's head, and a crowd of skate punk friends creating chaos—a phenomenon that would set the key for many of their gigs to come.\n",
-         "At the end of 1986 the band recorded three songs at Music-a-Matic Studio in Gothenburg: \"Financial Declaration\", \"Summer Holiday Camp\" and \"So Long\". Since they had no record deal, the band paid for the sessions themselves. They sent a demotape to Carl Abrahamsson, the then editor of underground fanzine Lollipop, who liked the band so much that he got Financial Declaration distributed on a flexi-disc that was sold along with the fanzine.\n",
-         "In the spring of 1987, the band managed to get a record deal with the small label Radium 226.5, which released their first album, In The Air Tonight. One of the people running the company, Carl Michael von Hausswolff claims that \"At that time nobody else was doing what they were into, and having a reputation as spoiled rich kids with outrageous behavior didn't exactly help them make friends with the media or the music biz. A lot was exaggerated, but not all.\"\n",
-         "Later the same year, they played at the Swedish festival Hultsfredsfestivalen. In 1988, UCP continued touring in Sweden and also did some gigs abroad. One of the more notable venues being CBGB's in New York where they were the opening act for another band.\nBefore going to USA, Per Helm (bass) was replaced by Adam Wladis—a former bandmate of Henrik Rylander. During the tour, UCP continued to build on their reputation as a crazy live act.\n",
-         "Before recording their next record, Financially Dissatisfied, Philosophically Trying, Adam Wladis quit and was replaced by returning member Per Helm.\n",
-         "During the years, the band changed its members a lot, but in 1989 they settled and appeared in their final incarnation, consisting of: Ebbot Lundberg, Patrik Caganis, Henrik Rylander, Jan Skoglund, Ian Person and occasionally Christian Martinius on saxophone.\n",
-         "Some of the band's material was produced by Henryk Lipp—a Swedish producer who has worked with Millencolin, Thåström, Ocal Waltz, Stonefunkers and Blue For Two.\n",
-         "The band recorded their last album, Swing, in 1992 in Chicago, and it was recorded by Steve Albini. UCP split up in December 1993\n",
-         "Ebbot Lundberg, Ian Person and Björn Olsson later went on to form the successful rock band The Soundtrack of Our Lives.\n",
-         "In 2003, they made a temporary reunion and returned to Hultsfredsfestivalen, sixteen years after their first appearance there. The band's entire back catalogue was re-mastered and re-released on vinyl in a limited edition of 500 each by Ebbot Lundberg in 2013.\n"
-      ]
-   },
-   "Band name": {
-      "text": [
-         "The name Union Carbide Productions originates from the company name Union Carbide Corporation that was written on a battery that Björn Olsson had, and that was involved in the Bhopal disaster in 1984.\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "Union Carbide Productions was a Swedish rock band formed by Ebbot Lundberg (vocals), Patrik Caganis, Björn Olsson, Per Helm and Henrik Rylander in 1986.\n",
       "Their music can be described as a fusion of psychedelic rock and raw Stooges-esque rock 'n' roll—and a bit angrier than The Soundtrack of Our Lives (the band that emerged from the ashes of Union Carbide Productions).\n",
-      "Though never really commercially successful, the band has received praise from artists like Kurt Cobain, R.E.M. and Sonic Youth. After the success of The Soundtrack of Our Lives, a compilation CD was released in 2004.\n",
-      "In 1981 Ebbot Lundberg met Patrik Caganis at a U.K. Subs gig. They shared a common musical taste in hardcore music, and the friendship that followed produced the forming of a punk band—\"Sure Tråkings Trio\".\n"
+      "Though never really commercially successful, the band has received praise from artists like Kurt Cobain, R.E.M. and Sonic Youth. After the success of The Soundtrack of Our Lives, a compilation CD was released in 2004.\n"
    ],
    "infobox": {
       "Origin": [

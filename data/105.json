@@ -1,53 +1,9 @@
 {
    "Name": "SVT (band)",
-   "Sections": [
-      "1 Discography",
-      "2 1980 EP: Extended Play (415 Records)",
-      "2.1 Side one",
-      "2.2 Side two",
-      "2.3 Personnel",
-      "2.4 Production",
-      "3 1981 LP: No Regrets (MSI Records)",
-      "3.1 Side one",
-      "3.2 Side two",
-      "3.3 Personnel",
-      "3.4 Production",
-      "4 2005 CD: No Regrets - Expanded Version (Rykodisc)",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "SVT was a San Francisco power pop/new wave band from the late 1970s and early 1980s.  They are perhaps best remembered for their bassist Jack Casady, who had played in both Jefferson Airplane and Hot Tuna.  Other members were singer Brian Marnell, drummer Bill Gibson (later of Huey Lewis and the News, replaced by Paul Zahl), and Nick Buck, also a Hot Tuna veteran, on keyboards .\n",
-         "The group is said to have taken its name from the medical condition known as supraventricular tachycardia.[by whom?] A more plausible explanation is that the name was taken from a model of bass guitar amplifier, the Ampeg Super Vacuum Tube.\n",
-         "SVT recorded two singles in 1979, one EP in 1980, and one album, No Regrets, in 1981.  They were one of the first bands ever to record on San Francisco's 415 Records, who released their single, Heart of Stone, in 1979.[1] The group disbanded after both Zahl and Casady left to form Yanks with Jack Johnson and Owen Masterson.[when?] Casady later quit Yanks and was replaced by bassist Steve Aliment.  Brian Marnell died in 1983.  Casady's former Jefferson Airplane bandmate Marty Balin covered the song Heart of Stone on his album, Lucky in 1983.\n"
-      ]
-   },
-   "Discography": {},
-   "1980 EP: Extended Play (415 Records)": {
-      "Side one": {},
-      "Side two": {},
-      "Personnel": {},
-      "Production": {}
-   },
-   "1981 LP: No Regrets (MSI Records)": {
-      "Side one": {
-         "text": [
-            "All songs by Brian Marnell except where noted\n"
-         ]
-      },
-      "Side two": {},
-      "Personnel": {},
-      "Production": {}
-   },
-   "2005 CD: No Regrets - Expanded Version (Rykodisc)": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "SVT was a San Francisco power pop/new wave band from the late 1970s and early 1980s.  They are perhaps best remembered for their bassist Jack Casady, who had played in both Jefferson Airplane and Hot Tuna.  Other members were singer Brian Marnell, drummer Bill Gibson (later of Huey Lewis and the News, replaced by Paul Zahl), and Nick Buck, also a Hot Tuna veteran, on keyboards .\n",
-      "The group is said to have taken its name from the medical condition known as supraventricular tachycardia.[by whom?] A more plausible explanation is that the name was taken from a model of bass guitar amplifier, the Ampeg Super Vacuum Tube.\n",
-      "SVT recorded two singles in 1979, one EP in 1980, and one album, No Regrets, in 1981.  They were one of the first bands ever to record on San Francisco's 415 Records, who released their single, Heart of Stone, in 1979.[1] The group disbanded after both Zahl and Casady left to form Yanks with Jack Johnson and Owen Masterson.[when?] Casady later quit Yanks and was replaced by bassist Steve Aliment.  Brian Marnell died in 1983.  Casady's former Jefferson Airplane bandmate Marty Balin covered the song Heart of Stone on his album, Lucky in 1983.\n",
-      "All songs by Brian Marnell except where noted\n"
+      "The group is said to have taken its name from the medical condition known as supraventricular tachycardia. A more plausible explanation is that the name was taken from a model of bass guitar amplifier, the Ampeg Super Vacuum Tube.\n",
+      "SVT recorded two singles in 1979, one EP in 1980, and one album, No Regrets, in 1981.  They were one of the first bands ever to record on San Francisco's 415 Records, who released their single, Heart of Stone, in 1979. The group disbanded after both Zahl and Casady left to form Yanks with Jack Johnson and Owen Masterson. Casady later quit Yanks and was replaced by bassist Steve Aliment.  Brian Marnell died in 1983.  Casady's former Jefferson Airplane bandmate Marty Balin covered the song Heart of Stone on his album, Lucky in 1983.\n"
    ],
    "infobox": {
       "Origin": [

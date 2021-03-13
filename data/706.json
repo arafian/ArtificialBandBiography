@@ -1,38 +1,8 @@
 {
    "Name": "OOIOO",
-   "Sections": [
-      "1 Discography",
-      "1.1 Albums",
-      "1.2 EPs",
-      "1.3 Compilations",
-      "2 Personnel",
-      "2.1 Current members",
-      "2.2 Former members",
-      "2.3 Guest musicians",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "OOIOO is a Japanese experimental rock band. It began as a fictitious band for a photo shoot for a magazine in 1996. The four-piece ensemble was founded by Boredoms drummer and occasional trumpeter and vocalist Yoshimi P-We.[1] When she was asked to do a photo shoot for a magazine she invited a few of her girlfriends to join her and created for the shoot a fake band called OOIOO which they later decided to make real. The band quickly gained attention by being the opening act for Sonic Youth in 1997 on their Japan tour.[2]\n",
-         "According to AllMusic's Kieran McCarthy \"It's next to impossible to describe their sound, because — by design — it rarely follows consistent patterns\".[1] Some of their music has been described as having \"a majestic ebb and flow that suggests natural wonders\"[3] or a \"witchy, tribal side\".[3] Either way, at any one time it may incorporate chanting and punchy drums,[3] dancey polyrhythms[4] atonal composition[4] or psychedelia.[5]\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "EPs": {},
-      "Compilations": {}
-   },
-   "Personnel": {
-      "Current members": {},
-      "Former members": {},
-      "Guest musicians": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "OOIOO is a Japanese experimental rock band. It began as a fictitious band for a photo shoot for a magazine in 1996. The four-piece ensemble was founded by Boredoms drummer and occasional trumpeter and vocalist Yoshimi P-We.[1] When she was asked to do a photo shoot for a magazine she invited a few of her girlfriends to join her and created for the shoot a fake band called OOIOO which they later decided to make real. The band quickly gained attention by being the opening act for Sonic Youth in 1997 on their Japan tour.[2]\n",
-      "According to AllMusic's Kieran McCarthy \"It's next to impossible to describe their sound, because — by design — it rarely follows consistent patterns\".[1] Some of their music has been described as having \"a majestic ebb and flow that suggests natural wonders\"[3] or a \"witchy, tribal side\".[3] Either way, at any one time it may incorporate chanting and punchy drums,[3] dancey polyrhythms[4] atonal composition[4] or psychedelia.[5]\n"
+   "rawData": [
+      "OOIOO is a Japanese experimental rock band. It began as a fictitious band for a photo shoot for a magazine in 1996. The four-piece ensemble was founded by Boredoms drummer and occasional trumpeter and vocalist Yoshimi P-We. When she was asked to do a photo shoot for a magazine she invited a few of her girlfriends to join her and created for the shoot a fake band called OOIOO which they later decided to make real. The band quickly gained attention by being the opening act for Sonic Youth in 1997 on their Japan tour.\n",
+      "According to AllMusic's Kieran McCarthy \"It's next to impossible to describe their sound, because — by design — it rarely follows consistent patterns\". Some of their music has been described as having \"a majestic ebb and flow that suggests natural wonders\" or a \"witchy, tribal side\". Either way, at any one time it may incorporate chanting and punchy drums, dancey polyrhythms atonal composition or psychedelia.\n"
    ],
    "infobox": {
       "Origin": [

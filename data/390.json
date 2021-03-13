@@ -1,41 +1,9 @@
 {
    "Name": "33Miles",
-   "Sections": [
-      "1 Background",
-      "2 Members",
-      "3 Albums",
-      "3.1 Singles",
-      "4 Honors",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "33Miles is a contemporary Christian band with country music influences from Franklin, Tennessee.\n"
-      ]
-   },
-   "Background": {
-      "text": [
-         "The band began playing in Nashville and signed to INO Records, who released the band's debut album, 33Miles, in 2007. The album peaked at No. 8 on Billboard's Top Heatseekers albums chart and No. 16 on its Top Christian Albums chart.[1] In 2008, their next album, One Life charted at No. 161 the Billboard 200[2] and No. 4 on Billboard Top Christian Albums chart.[2] In 2009, they released their Christmas album, Believe. Their 2007 song, \"There is a God\", was played as the wake-up call music for the Space Shuttle astronauts on their STS-128 mission on September 3, 2009.\"Discovery and ISS wake up for Patrick G. Forrester\". You Tube. Retrieved December 2, 2019. Pianist Collin Stoddard left the group in 2009 to become a pastor. In 2010, Barton and Lockwood continued on and released Today. In 2014, Chris Lockwood left 33Miles.\n"
-      ]
-   },
-   "Members": {
-      "text": [
-         "Current\n",
-         "Former\n"
-      ]
-   },
-   "Albums": {
-      "Singles": {}
-   },
-   "Honors": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "33Miles is a contemporary Christian band with country music influences from Franklin, Tennessee.\n",
-      "The band began playing in Nashville and signed to INO Records, who released the band's debut album, 33Miles, in 2007. The album peaked at No. 8 on Billboard's Top Heatseekers albums chart and No. 16 on its Top Christian Albums chart.[1] In 2008, their next album, One Life charted at No. 161 the Billboard 200[2] and No. 4 on Billboard Top Christian Albums chart.[2] In 2009, they released their Christmas album, Believe. Their 2007 song, \"There is a God\", was played as the wake-up call music for the Space Shuttle astronauts on their STS-128 mission on September 3, 2009.\"Discovery and ISS wake up for Patrick G. Forrester\". You Tube. Retrieved December 2, 2019. Pianist Collin Stoddard left the group in 2009 to become a pastor. In 2010, Barton and Lockwood continued on and released Today. In 2014, Chris Lockwood left 33Miles.\n",
-      "Current\n",
-      "Former\n"
+      "The band began playing in Nashville and signed to INO Records, who released the band's debut album, 33Miles, in 2007. The album peaked at No. 8 on Billboard's Top Heatseekers albums chart and No. 16 on its Top Christian Albums chart. In 2008, their next album, One Life charted at No. 161 the Billboard 200 and No. 4 on Billboard Top Christian Albums chart. In 2009, they released their Christmas album, Believe. Their 2007 song, \"There is a God\", was played as the wake-up call music for the Space Shuttle astronauts on their STS-128 mission on September 3, 2009.\"Discovery and ISS wake up for Patrick G. Forrester\". You Tube. Retrieved December 2, 2019. Pianist Collin Stoddard left the group in 2009 to become a pastor. In 2010, Barton and Lockwood continued on and released Today. In 2014, Chris Lockwood left 33Miles.\n",
+      "Current\n"
    ],
    "infobox": {
       "Origin": [

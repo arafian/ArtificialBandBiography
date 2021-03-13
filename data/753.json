@@ -1,36 +1,9 @@
 {
    "Name": "Viuda e hijas de Roque Enroll",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 Live albums",
-      "3.3 Compilations",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "Viuda e hijas de Roque Enroll was an Argentine all-female band formed in 1983 in Buenos Aires. It was part of the renewal movement of Argentine rock (Spanish: rock nacional; \"national rock\") that occurred after the return to democracy in 1983, along with other \"fun\" and upbeat acts such as Los Twist, Los Abuelos de la Nada, Virus and Soda Stereo\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Claudia Sinesi and Maria Gabriela Epumer met in 1978, and played together in a garage band. Epumer joined the cover band Rouge in 1982, and proposed that Sinesi joined it as well. The band broke up when the military junta forbade music in English language, as their set list was composed completely of covers of English-speaking bands. Sinesi and Epumer stayed together, and Mavi Diaz proposed them to start an all-girls band. Their first long play was released in 1984, with songs such as \"Potpourri (Olla podrida)\", \"Te Encargo mi Modernidad\" and \"Bikini a Lunares, Amarillo, Diminuto, Justo Justo\", a cover of Brian Hyland's single Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini. The second long play included a popular cover of the song \"Lollipop\".[1][2]\n",
-         "The third album had lower sales, and the records label went into bankruptcy, leading to the break up of the band. The band reunited for concerts along the years.[1][2]\n"
-      ]
-   },
-   "Members": {},
-   "Discography": {
-      "Studio albums": {},
-      "Live albums": {},
-      "Compilations": {}
-   },
-   "References": {},
-   "coreData": [
+   "rawData": [
       "Viuda e hijas de Roque Enroll was an Argentine all-female band formed in 1983 in Buenos Aires. It was part of the renewal movement of Argentine rock (Spanish: rock nacional; \"national rock\") that occurred after the return to democracy in 1983, along with other \"fun\" and upbeat acts such as Los Twist, Los Abuelos de la Nada, Virus and Soda Stereo\n",
-      "Claudia Sinesi and Maria Gabriela Epumer met in 1978, and played together in a garage band. Epumer joined the cover band Rouge in 1982, and proposed that Sinesi joined it as well. The band broke up when the military junta forbade music in English language, as their set list was composed completely of covers of English-speaking bands. Sinesi and Epumer stayed together, and Mavi Diaz proposed them to start an all-girls band. Their first long play was released in 1984, with songs such as \"Potpourri (Olla podrida)\", \"Te Encargo mi Modernidad\" and \"Bikini a Lunares, Amarillo, Diminuto, Justo Justo\", a cover of Brian Hyland's single Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini. The second long play included a popular cover of the song \"Lollipop\".[1][2]\n",
-      "The third album had lower sales, and the records label went into bankruptcy, leading to the break up of the band. The band reunited for concerts along the years.[1][2]\n"
+      "Claudia Sinesi and Maria Gabriela Epumer met in 1978, and played together in a garage band. Epumer joined the cover band Rouge in 1982, and proposed that Sinesi joined it as well. The band broke up when the military junta forbade music in English language, as their set list was composed completely of covers of English-speaking bands. Sinesi and Epumer stayed together, and Mavi Diaz proposed them to start an all-girls band. Their first long play was released in 1984, with songs such as \"Potpourri (Olla podrida)\", \"Te Encargo mi Modernidad\" and \"Bikini a Lunares, Amarillo, Diminuto, Justo Justo\", a cover of Brian Hyland's single Itsy Bitsy Teenie Weenie Yellow Polkadot Bikini. The second long play included a popular cover of the song \"Lollipop\".\n",
+      "The third album had lower sales, and the records label went into bankruptcy, leading to the break up of the band. The band reunited for concerts along the years.\n"
    ],
    "infobox": {
       "Origin": [

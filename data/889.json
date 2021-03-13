@@ -1,19 +1,9 @@
 {
    "Name": "Moonlit Sailor",
-   "Sections": [
-      "Summary"
-   ],
-   "Summary": {
-      "text": [
-         "Moonlit Sailor is a post-rock band from Borås, Sweden, formed in 2006.[1] The group consists of Joakim Wiik (keyboards/guitar), Oscar Gulbrandsen (guitar), Adam Törnblad (drums/guitar/piano), and Markus Rundlöf (bass).[2][3]\n",
-         "In 2008 the band released their debut EP A Footprint of Feelings through the independent record label Deep Elm Records. The following year they released a full-length album, So Close to Life, and in 2010 they embarked on a small European tour that included stops in Germany, Austria, the United Kingdom, and Finland. The band released a second album in 2011, Colors in Stereo, also through Deep Elm Records.\n",
-         "On May 8, 2017, Adam Törnblad who was one of the founding members died at the age of 27.[4][5]\n"
-      ]
-   },
-   "coreData": [
-      "Moonlit Sailor is a post-rock band from Borås, Sweden, formed in 2006.[1] The group consists of Joakim Wiik (keyboards/guitar), Oscar Gulbrandsen (guitar), Adam Törnblad (drums/guitar/piano), and Markus Rundlöf (bass).[2][3]\n",
+   "rawData": [
+      "Moonlit Sailor is a post-rock band from Borås, Sweden, formed in 2006. The group consists of Joakim Wiik (keyboards/guitar), Oscar Gulbrandsen (guitar), Adam Törnblad (drums/guitar/piano), and Markus Rundlöf (bass).\n",
       "In 2008 the band released their debut EP A Footprint of Feelings through the independent record label Deep Elm Records. The following year they released a full-length album, So Close to Life, and in 2010 they embarked on a small European tour that included stops in Germany, Austria, the United Kingdom, and Finland. The band released a second album in 2011, Colors in Stereo, also through Deep Elm Records.\n",
-      "On May 8, 2017, Adam Törnblad who was one of the founding members died at the age of 27.[4][5]\n"
+      "On May 8, 2017, Adam Törnblad who was one of the founding members died at the age of 27.\n"
    ],
    "infobox": {
       "Origin": [

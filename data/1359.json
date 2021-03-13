@@ -1,49 +1,9 @@
 {
    "Name": "Stahlmann",
-   "Sections": [
-      "1 History",
-      "1.1 Formation debut album (2008-2010)",
-      "1.2 Lineup changes Quecksilber and Adamant (2011-2013)",
-      "2 Discography",
-      "2.1 Music videos",
-      "3 Reviews",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Stahlmann (literally \"Steelman\") is a Neue Deutsche Härte band that formed in 2008 in Göttingen, Germany\n"
-      ]
-   },
-   "History": {
-      "Formation debut album (2008-2010)": {
-         "text": [
-            "Martin Soer met Alexander Scharfe in 2008 and formed the band Stahlmann later that year, writing their own songs. Soon after Tobi B joined and in 2009, the debut EP Herzschlag was released which entered the top 20 of the Deutsche Alternative Charts for four weeks.\nFollowing Herzschlag Stahlmann performed with well-known artists such as Doro, In Extremo and Saltatio Mortis.\n",
-            "Dirk \"Fire-Abend\" Feierabend and Oliver \"O-Lee\" Schmidt joined in 2009. Stahlmann went on a tour in 2010 presented by the music magazine Zillo. The single \"Hass Mich ...Lieb Mich\" and debut album Stahlmann were released in September 2010 on AFM Records. At the same time the band began a tour supporting for Eisbrecher in Germany, Austria and Switzerland.\n"
-         ]
-      },
-      "Lineup changes Quecksilber and Adamant (2011-2013)": {
-         "text": [
-            "For personal reasons Alex left the band, but he still occasionally performs with the group in concert. In late 2011, the group added a new bassist, Ablation (AblaZ). Also performing in live performances were guitarists Sid Armageddon (Sid Armageddon), Mueller Mathis (Mathis Müller), Nicklas Kaalam (Niklas Kahl), and Dimitrios Gatsios (Dimitrios Tacki Gatsios).\n",
-            "Despite their busy concert schedule, Stahlmann in 2011 released the two singles, \"Tanzmaschine\" and \"Stalwittchen\". The second album Quecksilber was released on January 20, 2012. \"We had eight weeks to master the sound we wanted in one of the best studios of the country. We could try to accurately convey our vision of the album,\" recalls Martin after recording in March.\n",
-            "In early 2012, they released a single, \"Spring Nicht\".\n",
-            "In mid-2012, it was announced that the band was in the studio, recording for a new album. The album titled \"Adamant\" was released April 19, 2013.\nThe single \"Süchtig\" and was released March 1, 2013 and on April 5, 2013 they released the second single \"Schwarz\".\n",
-            "In fall 2013, Stahlmann toured with Vlad In Tears performing 5 shows throughout Germany.[1]\n",
-            "The band is known to use silver body paint on stage.\n"
-         ]
-      }
-   },
-   "Discography": {
-      "Music videos": {}
-   },
-   "Reviews": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Stahlmann (literally \"Steelman\") is a Neue Deutsche Härte band that formed in 2008 in Göttingen, Germany\n",
       "Martin Soer met Alexander Scharfe in 2008 and formed the band Stahlmann later that year, writing their own songs. Soon after Tobi B joined and in 2009, the debut EP Herzschlag was released which entered the top 20 of the Deutsche Alternative Charts for four weeks.\nFollowing Herzschlag Stahlmann performed with well-known artists such as Doro, In Extremo and Saltatio Mortis.\n",
-      "Dirk \"Fire-Abend\" Feierabend and Oliver \"O-Lee\" Schmidt joined in 2009. Stahlmann went on a tour in 2010 presented by the music magazine Zillo. The single \"Hass Mich ...Lieb Mich\" and debut album Stahlmann were released in September 2010 on AFM Records. At the same time the band began a tour supporting for Eisbrecher in Germany, Austria and Switzerland.\n",
-      "For personal reasons Alex left the band, but he still occasionally performs with the group in concert. In late 2011, the group added a new bassist, Ablation (AblaZ). Also performing in live performances were guitarists Sid Armageddon (Sid Armageddon), Mueller Mathis (Mathis Müller), Nicklas Kaalam (Niklas Kahl), and Dimitrios Gatsios (Dimitrios Tacki Gatsios).\n"
+      "Dirk \"Fire-Abend\" Feierabend and Oliver \"O-Lee\" Schmidt joined in 2009. Stahlmann went on a tour in 2010 presented by the music magazine Zillo. The single \"Hass Mich ...Lieb Mich\" and debut album Stahlmann were released in September 2010 on AFM Records. At the same time the band began a tour supporting for Eisbrecher in Germany, Austria and Switzerland.\n"
    ],
    "infobox": {
       "Origin": [

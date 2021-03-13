@@ -1,59 +1,9 @@
 {
    "Name": "Simon Fraser University Pipe Band",
-   "Sections": [
-      "1 History",
-      "2 Personnel",
-      "3 Competition",
-      "4 Concerts and recordings",
-      "5 Albums",
-      "6 References",
-      "7 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Simon Fraser University Pipe Band is a grade one pipe band affiliated with Simon Fraser University in Burnaby, British Columbia, Canada. It is led by pipe major Alan Bevan and leading drummer J. Reid Maxwell.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The Simon Fraser University Pipe Band was originally formed by a group of students at Simon Fraser University in 1966.[1][2]\n",
-         "Brothers Terry and Jack Lee joined the Simon Fraser University band in 1981 after being approached by then-president of the University George Pedersen through Scottish soccer coach John Buchanan, who wanted to have a better quality band than the one that would form as necessary for events.[3][4][5] The next year, the band won the North American Championships, and in 1983 came 10th at the World Championships.[6] In 1985, the band came second at the Worlds.[6][3]\n",
-         "J. Reid Maxwell joined the band as leading drummer in 1992, having previously been leading drummer of the 78th Fraser Highlanders Pipe Band when it became the first non-Scottish band to win the World Championships in 1987.[7]\n",
-         "After Robert Barbulak and Malcolm Bokenfor were killed in a road accident in 1994, the Robert Malcolm Memorial Pipe Band was created as a system of three bands in lower grades to act as a feeder to the Grade 1 band.[3] The Robert Malcolm Memorial bands have also been successful in competitions in their respective grades.[8]\n",
-         "The band wears the Simon Fraser University tartan, which was custom designed for the band in 2010.[9][10]\n",
-         "On September 29, 2013, Terry Lee stepped down as Pipe Major after leading the band for over 30 years, having appointed Alan Bevan, a two-time solo Gold Medalist, as his successor.[11] Jack continues to act as pipe sergeant.[11]\n"
-      ]
-   },
-   "Personnel": {
-      "text": [
-         "Terry and Jack played in the City of Victoria Pipe Band, and then Terry led the now defunct Port Moody Pipe Band, before they joined the Simon Fraser University band in 1981.[3]\n",
-         "Steven McWhirter and Stuart Liddell, now leading drummer and pipe major respectively of Inveraray & District Pipe Band, played with Simon Fraser University for several years.[12][13]\n"
-      ]
-   },
-   "Competition": {
-      "text": [
-         "The band has consistently placed in the top three in world competition and has won the Grade One World Pipe Band Championships six times, in 1995, 1996, 1999, 2001, 2008, and 2009.[14][12]\n",
-         "SFUPB is one of only four bands located outside of the United Kingdom that have won a World Pipe Band Championship (the other three being the 78th Fraser Highlanders Pipe Band, the Victoria Police Pipe Band and the St. Laurence O'Toole Pipe Band). In addition, the band has placed second nine times.[11] The band placed in the top three at the World Championships for 14 consecutive years up until 2012, with a fourth placing in 2013[11] and no placing in 2014.[15] They are the second most successful pipe band from outside Scotland, after the Field Marshal Montgomery Pipe Band.\n",
-         "SFUPB regularly competes in Highland Games competitions sanctioned by the British Columbia Pipers Association in the northwestern United States and southwestern British Columbia before traveling to Scotland in August for the World Pipe Band Championships. The band wears the Simon Fraser University Pipe Band tartan.\n",
-         "Since 1994, the SFUPB has led an extensive family of pipe bands which each compete in their own grades.  This organization is called the Robert Malcolm Memorial Pipe Band.\n"
-      ]
-   },
-   "Concerts and recordings": {
-      "text": [
-         "The band has produced twelve recordings, three concert/documentary videos, and appeared on four BBC Radio Scotland broadcasts. \n",
-         "In April 2001 the band recorded a CD live at the Sydney Opera House in Australia. On February 20, 1998, the band performed in concert at Carnegie Hall, New York City. This concert marked the first time a pipe band has performed a concert at this prestigious venue. The debut performance was recorded and released in June 1998 as Simon Fraser University Pipe Band - Live at Carnegie Hall. In June 1996, the band released its first live album Alive in America, the first live, in concert recording in the United States of a pipe band.\n",
-         "In May 2012, the band returned to New York and recorded its latest album Live from New York City at the Lincoln Center for the Performing Arts.\n",
-         "In August 2015, gave a concert called Nous Sommes Prets at the Glasgow Royal Concert Hall.\n"
-      ]
-   },
-   "Albums": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Simon Fraser University Pipe Band is a grade one pipe band affiliated with Simon Fraser University in Burnaby, British Columbia, Canada. It is led by pipe major Alan Bevan and leading drummer J. Reid Maxwell.\n",
-      "The Simon Fraser University Pipe Band was originally formed by a group of students at Simon Fraser University in 1966.[1][2]\n",
-      "Brothers Terry and Jack Lee joined the Simon Fraser University band in 1981 after being approached by then-president of the University George Pedersen through Scottish soccer coach John Buchanan, who wanted to have a better quality band than the one that would form as necessary for events.[3][4][5] The next year, the band won the North American Championships, and in 1983 came 10th at the World Championships.[6] In 1985, the band came second at the Worlds.[6][3]\n",
-      "J. Reid Maxwell joined the band as leading drummer in 1992, having previously been leading drummer of the 78th Fraser Highlanders Pipe Band when it became the first non-Scottish band to win the World Championships in 1987.[7]\n"
+      "The Simon Fraser University Pipe Band was originally formed by a group of students at Simon Fraser University in 1966.\n",
+      "Brothers Terry and Jack Lee joined the Simon Fraser University band in 1981 after being approached by then-president of the University George Pedersen through Scottish soccer coach John Buchanan, who wanted to have a better quality band than the one that would form as necessary for events. The next year, the band won the North American Championships, and in 1983 came 10th at the World Championships. In 1985, the band came second at the Worlds.\n"
    ],
    "infobox": {
       "Established": [

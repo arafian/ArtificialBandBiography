@@ -1,48 +1,9 @@
 {
    "Name": "Cougar (band)",
-   "Sections": [
-      "1 Discography",
-      "1.1 Law",
-      "1.2 Patriot",
-      "2 Resources",
-      "3 See also",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "Cougar is an instrumental post-rock band from Madison, Wisconsin formed in 2003. Formerly on the Madison-based record label Layered Music (the label of Youngblood Brass Band, of which drummer D.H. Skogen is also a member), Cougar is now signed to London label Ninja Tune.[1] Cougar toured the United States, Europe and the UK on the release of their debut album Law during early 2007, including a well-received show in Madison.[2]\n"
-      ]
-   },
-   "Discography": {
-      "Law": {
-         "text": [
-            "Law is Cougar's début album. It was recorded at Layered Studios in Madison and released by Layered Music in Europe in February 2006, and in America release was one year later, on February 20, 2007.[3] It was distributed by Play It Again Sam.\n",
-            "All tracks written by Cougar.\n",
-            "Reviews\n"
-         ]
-      },
-      "Patriot": {
-         "text": [
-            "Patriot is the second studio album by instrumental band Cougar, released in August 2009.\n",
-            "While reception was warm, reviewers tussled with the task of pigeonholing the sound of the album, roll-calling contemporary and influential bands and works. Rock Sound reviewer Dan Morgan illustrated the album's sound: \"polyrhythmic Fugazi structures merge delicately with angelic post rock and the sort of even-handed electronica that 65daysofstatic might produce if their parents forced them onto Ritalin.\"[4] Likewise, Alexander Tudor of Drowned in Sound questioned the categorisation of the band and their sound: \"Does the grey area between (guitar-led, crescendo-prone) post-rock and instrumental electronica actually have a name we can agree on… or is this what Simon Reynolds had in mind when he coined post-rock, in the mid-Nineties?\"[5] Structurally, he compares the album to Mogwai's Mr. Beast, Björk and Meanwhile, back in Communist Russia....[5] Writing for the NME, Matt Warwick describes the track \"Florida Logic\" as \"Mars Volta-inspired\".[6]\n",
-            "\nAll tracks are written by Cougar, except \"Endings\", by Jeff Snyder.",
-            "Band members[7]\n",
-            "Reviews\n"
-         ]
-      }
-   },
-   "Resources": {
-      "text": [
-         "MySpace\nOfficial web site\n"
-      ]
-   },
-   "See also": {},
-   "References": {},
-   "coreData": [
-      "Cougar is an instrumental post-rock band from Madison, Wisconsin formed in 2003. Formerly on the Madison-based record label Layered Music (the label of Youngblood Brass Band, of which drummer D.H. Skogen is also a member), Cougar is now signed to London label Ninja Tune.[1] Cougar toured the United States, Europe and the UK on the release of their debut album Law during early 2007, including a well-received show in Madison.[2]\n",
-      "Law is Cougar's début album. It was recorded at Layered Studios in Madison and released by Layered Music in Europe in February 2006, and in America release was one year later, on February 20, 2007.[3] It was distributed by Play It Again Sam.\n",
-      "All tracks written by Cougar.\n",
-      "Reviews\n"
+   "rawData": [
+      "Cougar is an instrumental post-rock band from Madison, Wisconsin formed in 2003. Formerly on the Madison-based record label Layered Music (the label of Youngblood Brass Band, of which drummer D.H. Skogen is also a member), Cougar is now signed to London label Ninja Tune. Cougar toured the United States, Europe and the UK on the release of their debut album Law during early 2007, including a well-received show in Madison.\n",
+      "Law is Cougar's début album. It was recorded at Layered Studios in Madison and released by Layered Music in Europe in February 2006, and in America release was one year later, on February 20, 2007. It was distributed by Play It Again Sam.\n",
+      "All tracks written by Cougar.\n"
    ],
    "infobox": {
       "Origin": [

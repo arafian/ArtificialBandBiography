@@ -1,42 +1,9 @@
 {
    "Name": "The Evaporators",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "3 Discography",
-      "3.1 Singles",
-      "3.2 Albums",
-      "3.3 Compilations",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Evaporators is a Canadian garage rock band formed in 1986 in Vancouver, British Columbia. Nardwuar, its founding member, is also known for interviewing musicians and celebrities. As of 2007, the band consists of vocalist/keyboardist Nardwuar the Human Serviette,[1][2] guitarist David Carswell, bassist John Collins, and drummer Scott Livingstone.[3]\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "As well as recording and performing as a separate group, The Evaporators often collaborate with other musicians, including Rodney Graham and Andrew W.K.  John Collins is a member of the band The New Pornographers[4] and David Carswell is in The Smugglers.\n",
-         "The band members also perform as Thee Goblins and sometimes under other names. Lisa Marr,[5] formerly of Cub, was also formerly a member of The Evaporators.\n",
-         "By 2008, the band had released four albums.[6] The Evaporators were featured on a compilation album, Busy Doing Nothing, in 2013,[7] and in 2016 the band released an album Ogopogo Punk. Most of their releases have been available on compact disc, vinyl,[8] and 8-track.\n"
-      ]
-   },
-   "Members": {},
-   "Discography": {
-      "Singles": {},
-      "Albums": {},
-      "Compilations": {}
-   },
-   "See also": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "The Evaporators is a Canadian garage rock band formed in 1986 in Vancouver, British Columbia. Nardwuar, its founding member, is also known for interviewing musicians and celebrities. As of 2007, the band consists of vocalist/keyboardist Nardwuar the Human Serviette,[1][2] guitarist David Carswell, bassist John Collins, and drummer Scott Livingstone.[3]\n",
-      "As well as recording and performing as a separate group, The Evaporators often collaborate with other musicians, including Rodney Graham and Andrew W.K.  John Collins is a member of the band The New Pornographers[4] and David Carswell is in The Smugglers.\n",
-      "The band members also perform as Thee Goblins and sometimes under other names. Lisa Marr,[5] formerly of Cub, was also formerly a member of The Evaporators.\n",
-      "By 2008, the band had released four albums.[6] The Evaporators were featured on a compilation album, Busy Doing Nothing, in 2013,[7] and in 2016 the band released an album Ogopogo Punk. Most of their releases have been available on compact disc, vinyl,[8] and 8-track.\n"
+   "rawData": [
+      "The Evaporators is a Canadian garage rock band formed in 1986 in Vancouver, British Columbia. Nardwuar, its founding member, is also known for interviewing musicians and celebrities. As of 2007, the band consists of vocalist/keyboardist Nardwuar the Human Serviette, guitarist David Carswell, bassist John Collins, and drummer Scott Livingstone.\n",
+      "As well as recording and performing as a separate group, The Evaporators often collaborate with other musicians, including Rodney Graham and Andrew W.K.  John Collins is a member of the band The New Pornographers and David Carswell is in The Smugglers.\n",
+      "The band members also perform as Thee Goblins and sometimes under other names. Lisa Marr, formerly of Cub, was also formerly a member of The Evaporators.\n"
    ],
    "infobox": {
       "Origin": [

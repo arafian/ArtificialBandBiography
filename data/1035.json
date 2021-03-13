@@ -1,54 +1,9 @@
 {
    "Name": "Spyro Gyra",
-   "Sections": [
-      "1 History",
-      "1.1 Early years",
-      "1.2 Later years",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Live albums",
-      "2.3 Compilations",
-      "3 Awards and nominations",
-      "3.1 Grammy nominations",
-      "3.2 Other awards",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Spyro Gyra /ˌspaɪroʊˈdʒaɪrə/ is an American jazz fusion band that was formed in Buffalo, New York, in 1974. The band's music combines jazz, R&B, funk, and pop music. The band's name comes from Spirogyra, a genus of green algae which founder Jay Beckenstein had learned about in college.\n"
-      ]
-   },
-   "History": {
-      "Early years": {
-         "text": [
-            "Saxophonist Jay Beckenstein and keyboardist Jeremy Wall formed a band with jazz and rock musicians who were playing in the Buffalo bar and club circuit.[1] In 1974, when a bar owner asked for the band's name, Beckenstein said, \"spirogyra\", a type of algae he had learned about in school.[1] The bar owner wrote the name incorrectly, \"Spyro Gyra\", but it stuck.[1] The founding members of the band were Beckenstein, Wall, bassist Jim Kurzdorfer, drummer Tom Walsh, and keyboardist Tom Schuman.[1]  In 1977, they released Spyro Gyra independently before making a deal with Amherst Records,[2] which re-released the album with a different cover. It included \"Shaker Song,\" which reached No. 90 on Billboard's Hot 100,[3] No. 99 on the pop chart in Canada,[4] and No. 26 on the Canadian AC chart.[5]\n",
-            "Morning Dance reached No. 11 in the UK Albums Chart, No. 27 on the Billboard Top 200 albums chart, and No. 47 in Canada.[6] The song \"Morning Dance\" reached No. 17 in the UK Singles Chart,[7] No. 1 on the US Adult Contemporary singles chart,[8] No. 45 on the Canadian pop charts,[9] and No. 6 on the Canadian AC charts.[10]  The album was certified gold in 1979, then platinum in 1987 by the RIAA.[11]\n"
-         ]
-      },
-      "Later years": {
-         "text": [
-            "When Infinity Records folded, Catching the Sun was released on MCA in February 1980, becoming the No. 4 jazz album of 1980, peaking at No. 31 in the UK,[7] and No. 80 in Canada.[12]\n",
-            "Bassist Jim Kurzdorfer died of cancer in 2011.[13] Former drummer Ted Reinhardt died in an airplane crash on March 4, 2015, at the age of 63.[14] Mallet player Dave Samuels died on April 22, 2019, due to an undisclosed long-term illness.[15]\n"
-         ]
-      }
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Live albums": {},
-      "Compilations": {}
-   },
-   "Awards and nominations": {
-      "Grammy nominations": {},
-      "Other awards": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Spyro Gyra /ˌspaɪroʊˈdʒaɪrə/ is an American jazz fusion band that was formed in Buffalo, New York, in 1974. The band's music combines jazz, R&B, funk, and pop music. The band's name comes from Spirogyra, a genus of green algae which founder Jay Beckenstein had learned about in college.\n",
-      "Saxophonist Jay Beckenstein and keyboardist Jeremy Wall formed a band with jazz and rock musicians who were playing in the Buffalo bar and club circuit.[1] In 1974, when a bar owner asked for the band's name, Beckenstein said, \"spirogyra\", a type of algae he had learned about in school.[1] The bar owner wrote the name incorrectly, \"Spyro Gyra\", but it stuck.[1] The founding members of the band were Beckenstein, Wall, bassist Jim Kurzdorfer, drummer Tom Walsh, and keyboardist Tom Schuman.[1]  In 1977, they released Spyro Gyra independently before making a deal with Amherst Records,[2] which re-released the album with a different cover. It included \"Shaker Song,\" which reached No. 90 on Billboard's Hot 100,[3] No. 99 on the pop chart in Canada,[4] and No. 26 on the Canadian AC chart.[5]\n",
-      "Morning Dance reached No. 11 in the UK Albums Chart, No. 27 on the Billboard Top 200 albums chart, and No. 47 in Canada.[6] The song \"Morning Dance\" reached No. 17 in the UK Singles Chart,[7] No. 1 on the US Adult Contemporary singles chart,[8] No. 45 on the Canadian pop charts,[9] and No. 6 on the Canadian AC charts.[10]  The album was certified gold in 1979, then platinum in 1987 by the RIAA.[11]\n",
-      "When Infinity Records folded, Catching the Sun was released on MCA in February 1980, becoming the No. 4 jazz album of 1980, peaking at No. 31 in the UK,[7] and No. 80 in Canada.[12]\n"
+      "Saxophonist Jay Beckenstein and keyboardist Jeremy Wall formed a band with jazz and rock musicians who were playing in the Buffalo bar and club circuit. In 1974, when a bar owner asked for the band's name, Beckenstein said, \"spirogyra\", a type of algae he had learned about in school. The bar owner wrote the name incorrectly, \"Spyro Gyra\", but it stuck. The founding members of the band were Beckenstein, Wall, bassist Jim Kurzdorfer, drummer Tom Walsh, and keyboardist Tom Schuman.  In 1977, they released Spyro Gyra independently before making a deal with Amherst Records, which re-released the album with a different cover. It included \"Shaker Song,\" which reached No. 90 on Billboard's Hot 100, No. 99 on the pop chart in Canada, and No. 26 on the Canadian AC chart.\n",
+      "Morning Dance reached No. 11 in the UK Albums Chart, No. 27 on the Billboard Top 200 albums chart, and No. 47 in Canada. The song \"Morning Dance\" reached No. 17 in the UK Singles Chart, No. 1 on the US Adult Contemporary singles chart, No. 45 on the Canadian pop charts, and No. 6 on the Canadian AC charts.  The album was certified gold in 1979, then platinum in 1987 by the RIAA.\n"
    ],
    "infobox": {
       "Origin": [

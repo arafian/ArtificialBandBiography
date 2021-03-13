@@ -1,39 +1,9 @@
 {
    "Name": "Betty Blowtorch",
-   "Sections": [
-      "1 Biography",
-      "2 Members",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Betty Blowtorch is an all-female American hard rock band from Southern California.\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "The band was formed in 1998 by three members of Butt Trumpet.[1] After releasing the 2001 album, Are You Man Enough?, the group toured with Nashville Pussy.[2] During the tour, drummer Judy Molish and guitarist Sharon Needles left the group; Jennifer Finch from L7 and drummer Dave Gara joined in their stead. \n",
-         "On December 15, 2001, lead singer and bassist Bianca Halstead (Butthole) was killed in a car crash in New Orleans. The remaining group members disbanded afterwards.[2][3]\n",
-         "A collection of rarities and live performances was released as Last Call in 2003.[citation needed]\n",
-         "They are the focus of Antonia Scarpa's documentary film, Betty Blowtorch And Her Amazing True Life Adventures.[4]\n",
-         "In 2008–2009, Blare N. Bitch and Sharon Needles were both members of  Los Angeles based bands, Psychostar and Suckerstar.[citation needed]\nBlare N. Bitch now plays guitar for an all-female Black Sabbath tribute band, Black Sabbitch.  Sharon Needles and Judy Molish play in all-female AC/DC tribute band Hell's Belles.\n"
-      ]
-   },
-   "Members": {},
-   "Discography": {
-      "text": [
-         "\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Betty Blowtorch is an all-female American hard rock band from Southern California.\n",
-      "The band was formed in 1998 by three members of Butt Trumpet.[1] After releasing the 2001 album, Are You Man Enough?, the group toured with Nashville Pussy.[2] During the tour, drummer Judy Molish and guitarist Sharon Needles left the group; Jennifer Finch from L7 and drummer Dave Gara joined in their stead. \n",
-      "On December 15, 2001, lead singer and bassist Bianca Halstead (Butthole) was killed in a car crash in New Orleans. The remaining group members disbanded afterwards.[2][3]\n",
-      "A collection of rarities and live performances was released as Last Call in 2003.[citation needed]\n"
+      "The band was formed in 1998 by three members of Butt Trumpet. After releasing the 2001 album, Are You Man Enough?, the group toured with Nashville Pussy. During the tour, drummer Judy Molish and guitarist Sharon Needles left the group; Jennifer Finch from L7 and drummer Dave Gara joined in their stead. \n",
+      "On December 15, 2001, lead singer and bassist Bianca Halstead (Butthole) was killed in a car crash in New Orleans. The remaining group members disbanded afterwards.\n"
    ],
    "infobox": {}
 }

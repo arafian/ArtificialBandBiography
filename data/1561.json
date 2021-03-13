@@ -1,49 +1,9 @@
 {
    "Name": "Antònia Font",
-   "Sections": [
-      "1 History",
-      "1.1 Origin of the name",
-      "1.2 Trajectory",
-      "2 Discography",
-      "3 Bibliography",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "Antònia Font (Catalan pronunciation: [ənˈtɔniə ˈfɔnt]) was a Majorcan band, formed in 1997. They are characterized by their festive music and their humorous and fantastic lyrics. The group's creative universe includes elements such as outer space and astronautics, combined with themes from everyday life.[2] Their lyrics are written in the Catalan variant spoken in Mallorca. \nThey are generally classified as a pop group, though they have stated that they do not have any \"stylistic prejudices\" when composing songs.\n",
-         "Joan Miquel Oliver, the group's guitarist, composed the songs. Oliver has also recorded solo albums and written for other groups, including Fora des Sembrat.\n",
-         "On 28 November 2013, the band announced that they officially retired,[3] leaving behind 16 years of musical career.\n"
-      ]
-   },
-   "History": {
-      "Origin of the name": {
-         "text": [
-            "The group have a friend named Antònia Font and liked the idea of giving a band composed of five men a woman's name.[4] 'Font' is a common surname and 'Antònia' a common female given name in Catalan.\n"
-         ]
-      },
-      "Trajectory": {
-         "text": [
-            "In 1997 Antònia Font recorded a demo with the tracks Cibernauta Joan, l'Univers és una festa, Rumba and Es xifon és un aparato. Their first concert took place the same year in Bunyola.[5]\n",
-            "In 1999 they recorded their eponymous first album, Antònia Font, at TJ So studios in Bunyola with producer Tomeu Janer.[6]\n",
-            "Two years later, on 17 February 2001, they presented their second album in Barcelona: A Rússia. According to Pau Debon, the group's vocalist, the band opted for stylistic continuity with their first album because the style adopted had worked well and they were pleased with it. The album received the 2001 Disc català de l'any (Catalan album of the year) prize awarded by Ràdio 4.[7]\n",
-            "Their subsequent album, Alegria, appeared one year later. Without abandoning their style, the tone and rhythm of the songs underwent a much greater change between the second album and this one than between the first and second albums.\n",
-            "Taxi, Antònia Font's fourth album, came out in 2004. The CD was released with an accompanying DVD and text. Taxi was named album of the year at the Mercat de Música Viva de Vic and by the Catalan music magazines Enderrock and Rock'n'clàssic.[8]\n",
-            "In 2006 Batiscafo Katiuscas was released. This album saw the group incorporate sounds and rhythms inspired by music from the 1980s.[8]\n",
-            "On the 2007 album Coser i cantar, Antònia Font reinterpreted twenty of their songs with orchestral accompaniment. The album was recorded in Bratislava, Slovakia at Studio 2 of Slovak National Radio, with fifty string and wind musicians from the Bratislava Symphony Orchestra performing arrangements by the Majorcan composer Miquel Àngel Aguiló.[9] For this work they received the 2008 Academia de la Música award for \"Best Pop Album\",[10] becoming the first artist to win a general category (one open to work performed in any language) at the Premios de la Música with a Catalan-language album.[11] In July 2008, Antònia Font were awarded the annual Premi Nacional de Música from the Generalitat de Catalunya for Coser i cantar.[12]\n",
-            "In April 2011, the group released their seventh album, Lamparetes, on their own label, Robot Innocent Companyia Discogràfica. It debuted at number three on the Spanish albums chart, becoming the band's highest-charting album to date.[13]\n",
-            "On August 2010, during the music festival of Cardedeu, some fans made a lipdub with their song \"Extraterrestres\".[14]\n",
-            "In November 2013, the group announced they would be disbanding at the end of the year. A final concert was planned for 27 December in Palma.[1] Due to high demand, two additional shows were added. Antònia Font played three consecutive farewell concerts in Palma on 26, 27, and 28 December.\n"
-         ]
-      }
-   },
-   "Discography": {},
-   "Bibliography": {},
-   "References": {},
-   "coreData": [
-      "Antònia Font (Catalan pronunciation: [ənˈtɔniə ˈfɔnt]) was a Majorcan band, formed in 1997. They are characterized by their festive music and their humorous and fantastic lyrics. The group's creative universe includes elements such as outer space and astronautics, combined with themes from everyday life.[2] Their lyrics are written in the Catalan variant spoken in Mallorca. \nThey are generally classified as a pop group, though they have stated that they do not have any \"stylistic prejudices\" when composing songs.\n",
+   "rawData": [
+      "Antònia Font (Catalan pronunciation: ) was a Majorcan band, formed in 1997. They are characterized by their festive music and their humorous and fantastic lyrics. The group's creative universe includes elements such as outer space and astronautics, combined with themes from everyday life. Their lyrics are written in the Catalan variant spoken in Mallorca. \nThey are generally classified as a pop group, though they have stated that they do not have any \"stylistic prejudices\" when composing songs.\n",
       "Joan Miquel Oliver, the group's guitarist, composed the songs. Oliver has also recorded solo albums and written for other groups, including Fora des Sembrat.\n",
-      "On 28 November 2013, the band announced that they officially retired,[3] leaving behind 16 years of musical career.\n",
-      "The group have a friend named Antònia Font and liked the idea of giving a band composed of five men a woman's name.[4] 'Font' is a common surname and 'Antònia' a common female given name in Catalan.\n"
+      "On 28 November 2013, the band announced that they officially retired, leaving behind 16 years of musical career.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,32 +1,9 @@
 {
    "Name": "City of Victoria Pipe Band",
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The City of Victoria Pipe Band was a grade 1 pipe band based in Victoria, British Columbia.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "James Troy was pipe major of a youth band under Ian Duncan of Victoria, until he turned sixteen and aged out.[1][2] In 1961, he joined the Royal Canadian Air Force pipe band, and in 1972 founded the City of Victoria Pipe Band with Steve Geddes as pipe sergeant.[2][3] The band was based on the model of Muirhead & Sons and Shotts and Dykehead Caledonia.[1]\n",
-         "The band's most significant competition achievement was to come sixth in the World Championships in Nottingham in 1979.[3]\n",
-         "Bruce Gandy, Jack Lee and Terry Lee all played with the band.[1] The Lee brothers went on to re-establish the six-time world champions Simon Fraser University Pipe Band in 1981.\n",
-         "The Greater Victoria Police Pipe Band, founded in 1998 by Troy and Dave McMillan, absorbed the diminished City of Victoria band.[2]\n"
-      ]
-   },
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The City of Victoria Pipe Band was a grade 1 pipe band based in Victoria, British Columbia.\n",
-      "James Troy was pipe major of a youth band under Ian Duncan of Victoria, until he turned sixteen and aged out.[1][2] In 1961, he joined the Royal Canadian Air Force pipe band, and in 1972 founded the City of Victoria Pipe Band with Steve Geddes as pipe sergeant.[2][3] The band was based on the model of Muirhead & Sons and Shotts and Dykehead Caledonia.[1]\n",
-      "The band's most significant competition achievement was to come sixth in the World Championships in Nottingham in 1979.[3]\n",
-      "Bruce Gandy, Jack Lee and Terry Lee all played with the band.[1] The Lee brothers went on to re-establish the six-time world champions Simon Fraser University Pipe Band in 1981.\n"
+      "James Troy was pipe major of a youth band under Ian Duncan of Victoria, until he turned sixteen and aged out. In 1961, he joined the Royal Canadian Air Force pipe band, and in 1972 founded the City of Victoria Pipe Band with Steve Geddes as pipe sergeant. The band was based on the model of Muirhead & Sons and Shotts and Dykehead Caledonia.\n",
+      "The band's most significant competition achievement was to come sixth in the World Championships in Nottingham in 1979.\n"
    ],
    "infobox": {
       "Established": [

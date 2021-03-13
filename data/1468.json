@@ -1,40 +1,9 @@
 {
    "Name": "Windsor Police Pipe Band",
-   "Sections": [
-      "1 History",
-      "2 Pipe Majors",
-      "3 Leading Drummers",
-      "4 Activities",
-      "5 Awards and honors",
-      "6 References",
-      "7 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Windsor Police Pipe Band is a Canadian pipe band organization based in Windsor, Ontario, Canada. The organization currently has two competing bands; one in grade 3 and another in grade 5.[1]\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Founded in 1967, the band has grown substantially over the decades.  At one point, the organization consisted of 4 complete bands competing in various grades in Ontario and at the World Pipe Band Championships, however, that number has since dwindled down after the successive departure of 3 pipe majors in their grade 2 band (later promoted to grade 1) within a 6-year period and its subsequent folding. [2][3]\n"
-      ]
-   },
-   "Pipe Majors": {},
-   "Leading Drummers": {},
-   "Activities": {
-      "text": [
-         "The band performs at various events and contests[6] throughout the year in Canada and the Eastern United States, including competitions, ceremonies,[7][8] parades[9] and memorial services.[10][11]\n",
-         "As a community service, piping and drumming lessons are offered free of charge.\n"
-      ]
-   },
-   "Awards and honors": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "The Windsor Police Pipe Band is a Canadian pipe band organization based in Windsor, Ontario, Canada. The organization currently has two competing bands; one in grade 3 and another in grade 5.[1]\n",
-      "Founded in 1967, the band has grown substantially over the decades.  At one point, the organization consisted of 4 complete bands competing in various grades in Ontario and at the World Pipe Band Championships, however, that number has since dwindled down after the successive departure of 3 pipe majors in their grade 2 band (later promoted to grade 1) within a 6-year period and its subsequent folding. [2][3]\n",
-      "The band performs at various events and contests[6] throughout the year in Canada and the Eastern United States, including competitions, ceremonies,[7][8] parades[9] and memorial services.[10][11]\n",
-      "As a community service, piping and drumming lessons are offered free of charge.\n"
+   "rawData": [
+      "The Windsor Police Pipe Band is a Canadian pipe band organization based in Windsor, Ontario, Canada. The organization currently has two competing bands; one in grade 3 and another in grade 5.\n",
+      "Founded in 1967, the band has grown substantially over the decades.  At one point, the organization consisted of 4 complete bands competing in various grades in Ontario and at the World Pipe Band Championships, however, that number has since dwindled down after the successive departure of 3 pipe majors in their grade 2 band (later promoted to grade 1) within a 6-year period and its subsequent folding. \n",
+      "The band performs at various events and contests throughout the year in Canada and the Eastern United States, including competitions, ceremonies, parades and memorial services.\n"
    ],
    "infobox": {
       "Established": [

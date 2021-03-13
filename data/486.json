@@ -1,47 +1,9 @@
 {
    "Name": "Seabird (band)",
-   "Sections": [
-      "1 Band members",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 EPs",
-      "2.3 Compilation appearances",
-      "2.4 Singles",
-      "2.5 Rare",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Seabird is an American alternative rock band from Independence, Kentucky. The band formed when Aaron Morgan, Micah Landers, and Aaron Hunt began playing songs with each other in 2004. The band soon added accordion player David Smith. After playing together for a little under a year both Landers and Smith left to pursue other interests. Soon after Chris Kubik joined the band to take the place of Landers on bass and Morgan began playing two keyboards to make up for the loss of the accordion. After adding Morgan's brother (Ryan) to play guitar, the band recorded their debut EP, Spread Your Broken Wings and Try, in one of the band members' rooms.\n",
-         "Their EP was passed to EMI and, after a personal showcase, the band was signed in 2005. However, a year later, the band switched from EMI to Credential Records. They continued to record material for a possible studio album from 2006 through most of 2007 and released a second EP, Let Me Go On, in mid-December 2007. This time, their second EP was used as a teaser for their upcoming debut studio album, 'Til We See the Shore, which was released on June 24, 2008. Their latest album Rocks into Rivers was released on December 15, 2009. On June 17, 2012 they completed their Kickstarter project which raised funds for a self-produced third full-length album. On May 13, 2013 the band announced the name of the Kickstarter project album to be Troubled Days with release date of July 16, 2013.[1][better source needed]\n",
-         "Seabird's songs were recently heard on Pushing Daisies, Numb3rs, and Grey's Anatomy. Seabird's song \"Don't You Know You're Beautiful\" was played at the beginning of the Ghost Whisperer Season 5 episode On Thin Ice.\n"
-      ]
-   },
-   "Band members": {
-      "text": [
-         "Current members\n",
-         "Former members\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {
-         "text": [
-            "[1]\n"
-         ]
-      },
-      "EPs": {},
-      "Compilation appearances": {},
-      "Singles": {},
-      "Rare": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Seabird is an American alternative rock band from Independence, Kentucky. The band formed when Aaron Morgan, Micah Landers, and Aaron Hunt began playing songs with each other in 2004. The band soon added accordion player David Smith. After playing together for a little under a year both Landers and Smith left to pursue other interests. Soon after Chris Kubik joined the band to take the place of Landers on bass and Morgan began playing two keyboards to make up for the loss of the accordion. After adding Morgan's brother (Ryan) to play guitar, the band recorded their debut EP, Spread Your Broken Wings and Try, in one of the band members' rooms.\n",
-      "Their EP was passed to EMI and, after a personal showcase, the band was signed in 2005. However, a year later, the band switched from EMI to Credential Records. They continued to record material for a possible studio album from 2006 through most of 2007 and released a second EP, Let Me Go On, in mid-December 2007. This time, their second EP was used as a teaser for their upcoming debut studio album, 'Til We See the Shore, which was released on June 24, 2008. Their latest album Rocks into Rivers was released on December 15, 2009. On June 17, 2012 they completed their Kickstarter project which raised funds for a self-produced third full-length album. On May 13, 2013 the band announced the name of the Kickstarter project album to be Troubled Days with release date of July 16, 2013.[1][better source needed]\n",
-      "Seabird's songs were recently heard on Pushing Daisies, Numb3rs, and Grey's Anatomy. Seabird's song \"Don't You Know You're Beautiful\" was played at the beginning of the Ghost Whisperer Season 5 episode On Thin Ice.\n",
-      "Current members\n"
+      "Their EP was passed to EMI and, after a personal showcase, the band was signed in 2005. However, a year later, the band switched from EMI to Credential Records. They continued to record material for a possible studio album from 2006 through most of 2007 and released a second EP, Let Me Go On, in mid-December 2007. This time, their second EP was used as a teaser for their upcoming debut studio album, 'Til We See the Shore, which was released on June 24, 2008. Their latest album Rocks into Rivers was released on December 15, 2009. On June 17, 2012 they completed their Kickstarter project which raised funds for a self-produced third full-length album. On May 13, 2013 the band announced the name of the Kickstarter project album to be Troubled Days with release date of July 16, 2013.\n",
+      "Seabird's songs were recently heard on Pushing Daisies, Numb3rs, and Grey's Anatomy. Seabird's song \"Don't You Know You're Beautiful\" was played at the beginning of the Ghost Whisperer Season 5 episode On Thin Ice.\n"
    ],
    "infobox": {
       "Origin": [

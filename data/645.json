@@ -1,25 +1,7 @@
 {
    "Name": "Dog Party (band)",
-   "Sections": [
-      "1 Discography",
-      "1.1 Albums",
-      "1.2 Singles",
-      "1.3 Guest appearances",
-      "2 References"
-   ],
-   "Summary": {
-      "text": [
-         "Dog Party is an American band from Sacramento, California. The band consists of sisters Gwendolyn and Lucy Giles.[1] Their debut album, Dog Party was released in 2009, followed by P.A.R.T.Y in 2011, Lost Control in 2013, Vol.4 in 2015, Til You're Mine in 2016 and Hit & Run in 2018.[2] In 2016 the band opened for Green Day during the North American leg of their Revolution Radio tour.[3]\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "Singles": {},
-      "Guest appearances": {}
-   },
-   "References": {},
-   "coreData": [
-      "Dog Party is an American band from Sacramento, California. The band consists of sisters Gwendolyn and Lucy Giles.[1] Their debut album, Dog Party was released in 2009, followed by P.A.R.T.Y in 2011, Lost Control in 2013, Vol.4 in 2015, Til You're Mine in 2016 and Hit & Run in 2018.[2] In 2016 the band opened for Green Day during the North American leg of their Revolution Radio tour.[3]\n"
+   "rawData": [
+      "Dog Party is an American band from Sacramento, California. The band consists of sisters Gwendolyn and Lucy Giles. Their debut album, Dog Party was released in 2009, followed by P.A.R.T.Y in 2011, Lost Control in 2013, Vol.4 in 2015, Til You're Mine in 2016 and Hit & Run in 2018. In 2016 the band opened for Green Day during the North American leg of their Revolution Radio tour.\n"
    ],
    "infobox": {
       "Origin": [

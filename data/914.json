@@ -1,43 +1,9 @@
 {
    "Name": "This Patch of Sky",
-   "Sections": [
-      "1 Band members",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Soundtracks",
-      "2.3 EPs",
-      "2.4 Compilations",
-      "3 In popular culture",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "This Patch of Sky were an Oregon instrumental post rock band, formed in 2010 in Eugene. The band typically composed cinematic instrumental pieces that combine subtle-nuanced melodies and wall-of-sound guitars to create a symphonic landscape.  The band was signed to German indie label Oxide-Tones in 2011 and released \"The Immortal, The Invisible\" and \"Newly Risen, How Brightly You Shine\".  In 2013 Oxide-Tones became extinct, resulting in the band releasing full-length album \"Heroes and Ghosts\" independently.  In August 2014, the band released a full length self-titled album independently. In September 2017, the band signed with Graphic Nature Records, an imprint of Equal Vision Records and released a full length \"These Small Spaces\". In September 2019, they disbanded. \n",
-         "On December 30, 2014 This Patch of Sky's studio album Heroes and Ghosts was chosen as AmpKicker's Top 20 albums of 2013.[1]\n",
-         "In January 2014, This Patch of Sky was voted as \"Most Improved Artist\" in the annual Postrockstar 2013 Year End awards.[2]\n"
-      ]
-   },
-   "Band members": {
-      "text": [
-         "\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Soundtracks": {},
-      "EPs": {},
-      "Compilations": {}
-   },
-   "In popular culture": {},
-   "See also": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "This Patch of Sky were an Oregon instrumental post rock band, formed in 2010 in Eugene. The band typically composed cinematic instrumental pieces that combine subtle-nuanced melodies and wall-of-sound guitars to create a symphonic landscape.  The band was signed to German indie label Oxide-Tones in 2011 and released \"The Immortal, The Invisible\" and \"Newly Risen, How Brightly You Shine\".  In 2013 Oxide-Tones became extinct, resulting in the band releasing full-length album \"Heroes and Ghosts\" independently.  In August 2014, the band released a full length self-titled album independently. In September 2017, the band signed with Graphic Nature Records, an imprint of Equal Vision Records and released a full length \"These Small Spaces\". In September 2019, they disbanded. \n",
-      "On December 30, 2014 This Patch of Sky's studio album Heroes and Ghosts was chosen as AmpKicker's Top 20 albums of 2013.[1]\n",
-      "In January 2014, This Patch of Sky was voted as \"Most Improved Artist\" in the annual Postrockstar 2013 Year End awards.[2]\n"
+      "On December 30, 2014 This Patch of Sky's studio album Heroes and Ghosts was chosen as AmpKicker's Top 20 albums of 2013.\n",
+      "In January 2014, This Patch of Sky was voted as \"Most Improved Artist\" in the annual Postrockstar 2013 Year End awards.\n"
    ],
    "infobox": {
       "Origin": [

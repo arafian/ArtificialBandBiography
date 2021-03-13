@@ -1,56 +1,9 @@
 {
    "Name": "The Brass Action",
-   "Sections": [
-      "1 History",
-      "2 Band members",
-      "2.1 Current",
-      "2.2 Past",
-      "2.3 Timeline",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 EPs and singles",
-      "3.3 Compilation albums",
-      "4 Videography",
-      "4.1 Films",
-      "4.2 Music videos",
-      "5 References"
-   ],
-   "Summary": {
-      "text": [
-         "The Brass Action is a Canadian six-piece independent band from Vancouver, British Columbia. The band plays a unique style that mixes the intensity of punk rock and rockabilly with the dancy, horn driven sounds of ska.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The Brass Action formed in 2007 in Vancouver, BC, and have since released three independent full-length albums.\n",
-         "The band's first album, entitled Making Waves (2013), was recorded over a three-year period and serves as a compilation of EP albums released during that time. The album was recorded and engineered by Paul Boechler at Fader Mountain Sound and Armoury Studios in Vancouver, BC. Mastering was done by Brock McFarlane at CPS Mastering.[1]\n",
-         "Two songs from their album Making Waves were featured in the 2014 film Horns, starring Daniel Radcliffe.[2] The band performs \"The Devil Down Below\" live in the film, with Joe Anderson's character playing lead trumpet. Their song \"11:34 (Hell O'Clock)\" is also used as background music. Singer Ryan Clare has a speaking role in the film.[3] Lakeshore Records released an original soundtrack for Horns, including \"The Devil Down Below\" with other tracks by David Bowie, The Pixies, The Eels, The Flaming Lips and Marilyn Manson.[4][5]\n",
-         "\"The Devil Down Below\" was also included on DyingScene.com's free compilation album Skaface: Evolution, alongside The Mad Caddies, Big D and The Kids Table, Mustard Plug and The Resignators.\n",
-         "The Brass Action released their second album, No Soundcheck, in 2015. Their first single off the album, \"Moonlite\", was released in 2014, and tracks \"Nothing to See Here\" and \"Good Intentions, Wong Direction\" were included on subsequent volumes of an, independently released, compilation album series entitled Pacific Sound System. The compilation album series features a collection of bands from the Pacific Northwest region of North America, such as The Dreadnoughts, Easy Big Fella and Los Furios.[6]\n",
-         "The Brass Action's third album, Brouhaha, was released in 2019. Their first single off the album, \"Wreckless\", was released in 2018, and tracks \"It's Not Me, It's You\" and \"Political Shitposting\" were included on a split album, with the Vancouver punk band, Indications, entitled Tall Boys. The Brass Action's track \"IDWTKYWMBKL\" was included on the third volume of the Pacific Sound System compilation album series. Their track \"The Foyer\" was included on Punkcouver Volume 3, which is part of a series of compilation albums, released by Vancouver promoter, Rocket from Russia, to highlight prominent bands in the local Vancouver punk scene.\n",
-         "The Brass Action has supported many notable acts, including The Planet Smashers, Mad Caddies,  The Interrupters, The Toasters, Chris Murray, Kobo Town, The Beatdown, K-man and the 45's, The Fundamentals, Los Furios, Brehdren, The Elixxxirs, Antiparty, The Bone Daddies and Rude City Riot. On July 2, 2014, the band  performed at the 15th annual Victoria Ska Festival, sharing the stage with a number of internationally acclaimed acts such as Shaggy, The Aggrolites, Barrington Levy, Lynval Golding and Fishbone.[7]\n"
-      ]
-   },
-   "Band members": {
-      "Current": {},
-      "Past": {},
-      "Timeline": {}
-   },
-   "Discography": {
-      "Studio albums": {},
-      "EPs and singles": {},
-      "Compilation albums": {}
-   },
-   "Videography": {
-      "Films": {},
-      "Music videos": {}
-   },
-   "References": {},
-   "coreData": [
+   "rawData": [
       "The Brass Action is a Canadian six-piece independent band from Vancouver, British Columbia. The band plays a unique style that mixes the intensity of punk rock and rockabilly with the dancy, horn driven sounds of ska.\n",
       "The Brass Action formed in 2007 in Vancouver, BC, and have since released three independent full-length albums.\n",
-      "The band's first album, entitled Making Waves (2013), was recorded over a three-year period and serves as a compilation of EP albums released during that time. The album was recorded and engineered by Paul Boechler at Fader Mountain Sound and Armoury Studios in Vancouver, BC. Mastering was done by Brock McFarlane at CPS Mastering.[1]\n",
-      "Two songs from their album Making Waves were featured in the 2014 film Horns, starring Daniel Radcliffe.[2] The band performs \"The Devil Down Below\" live in the film, with Joe Anderson's character playing lead trumpet. Their song \"11:34 (Hell O'Clock)\" is also used as background music. Singer Ryan Clare has a speaking role in the film.[3] Lakeshore Records released an original soundtrack for Horns, including \"The Devil Down Below\" with other tracks by David Bowie, The Pixies, The Eels, The Flaming Lips and Marilyn Manson.[4][5]\n"
+      "The band's first album, entitled Making Waves (2013), was recorded over a three-year period and serves as a compilation of EP albums released during that time. The album was recorded and engineered by Paul Boechler at Fader Mountain Sound and Armoury Studios in Vancouver, BC. Mastering was done by Brock McFarlane at CPS Mastering.\n"
    ],
    "infobox": {
       "Origin": [

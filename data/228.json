@@ -1,59 +1,9 @@
 {
    "Name": "Del McCoury Band",
-   "Sections": [
-      "1 History",
-      "1.1 Awards",
-      "1.2 Collaborations",
-      "1.3 Travelin' McCourys",
-      "2 Band members",
-      "3 Discography",
-      "3.1 Albums",
-      "3.2 Music Videos",
-      "3.3 Contributions",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Del McCoury Band is a Grammy award-winning bluegrass band.\n"
-      ]
-   },
-   "History": {
-      "Awards": {
-         "text": [
-            "In 1999 the Del McCoury band was named \"Entertainer of the Year\" at the International Bluegrass Music Awards.[3]\n",
-            "In 2004 they were nominated for the Grammy Award for Best Bluegrass Album for It's Just the Night,[4] and in 2006 they won that category for The Company We Keep.[5]\n"
-         ]
-      },
-      "Collaborations": {
-         "text": [
-            "The band recorded with Steve Earle on \"I Still Carry You Around\" on his 1997 album El Corazón.[6] They shared co-billing on his 1999 album The Mountain.[7]\n",
-            "The band has also often performed in recent years with the Lee Boys, with setlists mixing bluegrass, funk and gospel with extended jams on many songs.[8]\n"
-         ]
-      },
-      "Travelin' McCourys": {
-         "text": [
-            "The Travelin' McCourys are an offshoot of the Del McCoury Band, featuring all current (2009) members of the band minus Del, augmented by guitarist Cody Kilby on live performances.[9]\n",
-            "The Travelin' McCourys also often play joint concerts with the Lee Boys.[8]\n"
-         ]
-      },
-      "text": [
-         "Originally the band was called Del McCoury and the Dixie Pals with Del on guitar and his brother Jerry on bass. The band went through a number of changes in personnel until the 1980s when the band solidified its line-up, adding McCoury's sons, Ronnie and Robbie on mandolin and banjo, respectively.[1] In 1988, the \"Dixie Pals\" name was dropped in favor of the current name. Fiddler Tad Marks and bass player Mike Brantley joined in the early 1990s while the band became a national touring act.[2]\n"
-      ]
-   },
-   "Band members": {},
-   "Discography": {
-      "Albums": {},
-      "Music Videos": {},
-      "Contributions": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Del McCoury Band is a Grammy award-winning bluegrass band.\n",
-      "Originally the band was called Del McCoury and the Dixie Pals with Del on guitar and his brother Jerry on bass. The band went through a number of changes in personnel until the 1980s when the band solidified its line-up, adding McCoury's sons, Ronnie and Robbie on mandolin and banjo, respectively.[1] In 1988, the \"Dixie Pals\" name was dropped in favor of the current name. Fiddler Tad Marks and bass player Mike Brantley joined in the early 1990s while the band became a national touring act.[2]\n",
-      "In 1999 the Del McCoury band was named \"Entertainer of the Year\" at the International Bluegrass Music Awards.[3]\n",
-      "In 2004 they were nominated for the Grammy Award for Best Bluegrass Album for It's Just the Night,[4] and in 2006 they won that category for The Company We Keep.[5]\n"
+      "Originally the band was called Del McCoury and the Dixie Pals with Del on guitar and his brother Jerry on bass. The band went through a number of changes in personnel until the 1980s when the band solidified its line-up, adding McCoury's sons, Ronnie and Robbie on mandolin and banjo, respectively. In 1988, the \"Dixie Pals\" name was dropped in favor of the current name. Fiddler Tad Marks and bass player Mike Brantley joined in the early 1990s while the band became a national touring act.\n",
+      "In 1999 the Del McCoury band was named \"Entertainer of the Year\" at the International Bluegrass Music Awards.\n"
    ],
    "infobox": {
       "Genres": [

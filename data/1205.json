@@ -1,40 +1,9 @@
 {
    "Name": "Honk (band)",
-   "Sections": [
-      "1 Career",
-      "2 Members",
-      "3 Discography",
-      "4 Videography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Honk is an American rock band, based in Laguna Beach, California. It's best known for providing the soundtrack for the surf documentary film, Five Summer Stories.\n"
-      ]
-   },
-   "Career": {
-      "text": [
-         "The band was formalized in 1970, recorded some demo songs, and then recorded their first album for a $1500 fee. It was the soundtrack[1][2] for the \"cinematic cult classic\"[3] surf film,[4] Five Summer Stories. In the early 1970s they toured with The Beach Boys, Chicago, Jackson Browne and Dave Mason before splitting up in 1975. The band reformed in 1985 and continue to occasionally perform.[5]\n",
-         "\"Honk had a reputation for being a musician's kind of band,\" Stekol said. \"It was a lot of fun. Honk's problem was with the business, not the players. No one had any difficulty with anyone else in the band. But no one had the ego to stay with it when things weren't working.\""
-      ]
-   },
-   "Members": {
-      "text": [
-         "Honk's drummer, Tris Imboden, has also been a member of several other notable groups. This includes the Kenny Loggins Band, which was featured in the Number One soundtracks for prominent 1980s films, Caddyshack and Footloose. He was also the drummer for the multi-platinum Chicago from 1990 until 2018.[6][7]\n",
-         "As drummer for the Kenny Loggins Band, Tris Imboden would collaborate with Richard Stekol. Loggins and Stekol co-wrote \"Mr. Night\", which was published in the album Keep the Fire and later in the soundtrack for Caddyshack.[8][9]\n",
-         "Steve Wood is an award winner for his work on the soundtracks for the IMAX movies Everest and The Living Sea.[10]\n"
-      ]
-   },
-   "Discography": {},
-   "Videography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Honk is an American rock band, based in Laguna Beach, California. It's best known for providing the soundtrack for the surf documentary film, Five Summer Stories.\n",
-      "The band was formalized in 1970, recorded some demo songs, and then recorded their first album for a $1500 fee. It was the soundtrack[1][2] for the \"cinematic cult classic\"[3] surf film,[4] Five Summer Stories. In the early 1970s they toured with The Beach Boys, Chicago, Jackson Browne and Dave Mason before splitting up in 1975. The band reformed in 1985 and continue to occasionally perform.[5]\n",
-      "\"Honk had a reputation for being a musician's kind of band,\" Stekol said. \"It was a lot of fun. Honk's problem was with the business, not the players. No one had any difficulty with anyone else in the band. But no one had the ego to stay with it when things weren't working.\"",
-      "Honk's drummer, Tris Imboden, has also been a member of several other notable groups. This includes the Kenny Loggins Band, which was featured in the Number One soundtracks for prominent 1980s films, Caddyshack and Footloose. He was also the drummer for the multi-platinum Chicago from 1990 until 2018.[6][7]\n"
+      "The band was formalized in 1970, recorded some demo songs, and then recorded their first album for a $1500 fee. It was the soundtrack for the \"cinematic cult classic\" surf film, Five Summer Stories. In the early 1970s they toured with The Beach Boys, Chicago, Jackson Browne and Dave Mason before splitting up in 1975. The band reformed in 1985 and continue to occasionally perform.\n",
+      "\"Honk had a reputation for being a musician's kind of band,\" Stekol said. \"It was a lot of fun. Honk's problem was with the business, not the players. No one had any difficulty with anyone else in the band. But no one had the ego to stay with it when things weren't working.\""
    ],
    "infobox": {
       "Origin": [

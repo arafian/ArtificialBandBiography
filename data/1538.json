@@ -1,25 +1,6 @@
 {
    "Name": "Appa (band)",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "3 Discography",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Appa (あっぱ) is a Japanese rock band formed in 2004 by Keitaro Izawa, Kazuto Satō, and Hideaki Hotta.\nSince Izawa is well grounded in jazz and classical music, Appa's music is influenced by them.  The biggest feature of the playing style of Appa is Izawa's piano playing. Izawa, who is the leader of Appa, is one of the members of Tokyo Jihen (from 2005).\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "In 2004, Izawa, who had quit his band NAM, formed a band named \"Appa\" with Satō and Hotta.  They often held live performances, but not so many people came to like them.  After Izawa joined Tokyo Jihen, however, Appa got a lot of fans, most of whom were fans of Tokyo Jihen.  They have released two CDs up to now.\n"
-      ]
-   },
-   "Members": {},
-   "Discography": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Appa (あっぱ) is a Japanese rock band formed in 2004 by Keitaro Izawa, Kazuto Satō, and Hideaki Hotta.\nSince Izawa is well grounded in jazz and classical music, Appa's music is influenced by them.  The biggest feature of the playing style of Appa is Izawa's piano playing. Izawa, who is the leader of Appa, is one of the members of Tokyo Jihen (from 2005).\n",
       "In 2004, Izawa, who had quit his band NAM, formed a band named \"Appa\" with Satō and Hotta.  They often held live performances, but not so many people came to like them.  After Izawa joined Tokyo Jihen, however, Appa got a lot of fans, most of whom were fans of Tokyo Jihen.  They have released two CDs up to now.\n"
    ],

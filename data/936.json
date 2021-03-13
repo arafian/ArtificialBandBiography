@@ -1,67 +1,9 @@
 {
    "Name": "Big Gigantic",
-   "Sections": [
-      "1 Releases",
-      "2 Licensing",
-      "3 Charity work",
-      "4 Side projects",
-      "5 Members",
-      "6 Discography",
-      "7 References",
-      "8 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Big Gigantic is an American instrumental electronic, jam\nband hip hop, and jazz musical duo based in Boulder, Colorado.\n",
-         "They have played at a wide range of music festivals, including Coachella Valley Music and Arts Festival, Lollapalooza, Ultra Music Festival, Hangout Music Festival, Austin City Limits, Governors Ball Music Festival, Electric Forest Festival, Outside Lands, and Bonnaroo, among others.[1] Every September since 2012 Big Gigantic has sold out their own headlining festival, Rowdytown at Red Rocks Amphitheatre in Morrison, Colorado.\n",
-         "Big Gigantic has toured the US numerous times, and played live shows in Europe, South America, India and Japan.\n"
-      ]
-   },
-   "Releases": {
-      "text": [
-         "In 2016, Big Gigantic released their album Brighter Future, featuring tracks with hip hop artists such as Waka Flocka Flame and Logic, singers Jennifer Hartswick, Rozes, Angela McCluskey, and Natalie Cressman, as well as collaborations with GRiZ and Cherub. The album debuted at number two on the Billboard Dance/Electronic Albums chart.\n",
-         "On February 28, 2020, Big Gigantic released their seventh album Free Your Mind, with a 26-date tour beginning in March. \n",
-         "All of Big Gigantic's albums, mixes, remixes, and singles are available for free download on their website.[2]\n"
-      ]
-   },
-   "Licensing": {
-      "text": [
-         "Big Gigantic's music has been licensed extensively including: Apple's MacBook Pro reveal[3] in October 2016, sports coverage of Wimbledon, NASCAR, and the NBA,[4] ET's 'The Bachelor',[5] Fox's Empire, Dancing with the Stars,[6] the Valerian trailer, and the Dirty Grandpa trailer.[7]\n"
-      ]
-   },
-   "Charity work": {
-      "text": [
-         "In August 2014, Big Gigantic partnered with EDM lifestyle brand Electric Family to produce a collaboration bracelet for which 100% of the proceeds are donated to Conscious Alliance. The partnership raised over $10,000 as of June 2017. In 2014 the band launched the #ABigGiganticDifference(#ABGD) initiative along with their super fan organization the Lil G's. Since then the Lil G's and #ABGD events have included yearly clothing drives at Denver's New Year's Eve celebration Decadence, and Do Good events at Rocky Mountain Food Bank and Cradles to Crayons in Boston, MA and other cities they've played in.[8]\n",
-         "In 2016 Big Gigantic established the A Big Gigantic Difference Foundation[9] that donated percentage of ticket sales to a local non profit in each market they played. In 2017 the Foundation set the goal of raising $50,000 to build a digital music computer lab at Colorado music education non-profit Youth On Record's Denver location.[10]\n"
-      ]
-   },
-   "Side projects": {
-      "text": [
-         "Gigantic Underground Conspiracy\n",
-         "A jam band/electronica supergroup composed of members from Big Gigantic, the Disco Biscuits and Underground Orchestra. The group has played various one-off live shows.[citation needed]\n",
-         "Big Grizmatik\n",
-         "Big Gigantic has collaborated with GRiZ and Gramatik to form Big Grizmatik.[1][11]\n"
-      ]
-   },
-   "Members": {
-      "text": [
-         "Lalli holds a master's degree from the Manhattan School of Music and Salken has been a touring musician, including with the Victor Barnes Bluegrass Band, which is currently on hiatus.[12]\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "Studio albums\n",
-         "Singles\n",
-         "Remixes\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Big Gigantic is an American instrumental electronic, jam\nband hip hop, and jazz musical duo based in Boulder, Colorado.\n",
-      "They have played at a wide range of music festivals, including Coachella Valley Music and Arts Festival, Lollapalooza, Ultra Music Festival, Hangout Music Festival, Austin City Limits, Governors Ball Music Festival, Electric Forest Festival, Outside Lands, and Bonnaroo, among others.[1] Every September since 2012 Big Gigantic has sold out their own headlining festival, Rowdytown at Red Rocks Amphitheatre in Morrison, Colorado.\n",
-      "Big Gigantic has toured the US numerous times, and played live shows in Europe, South America, India and Japan.\n",
-      "In 2016, Big Gigantic released their album Brighter Future, featuring tracks with hip hop artists such as Waka Flocka Flame and Logic, singers Jennifer Hartswick, Rozes, Angela McCluskey, and Natalie Cressman, as well as collaborations with GRiZ and Cherub. The album debuted at number two on the Billboard Dance/Electronic Albums chart.\n"
+      "They have played at a wide range of music festivals, including Coachella Valley Music and Arts Festival, Lollapalooza, Ultra Music Festival, Hangout Music Festival, Austin City Limits, Governors Ball Music Festival, Electric Forest Festival, Outside Lands, and Bonnaroo, among others. Every September since 2012 Big Gigantic has sold out their own headlining festival, Rowdytown at Red Rocks Amphitheatre in Morrison, Colorado.\n",
+      "Big Gigantic has toured the US numerous times, and played live shows in Europe, South America, India and Japan.\n"
    ],
    "infobox": {
       "Origin": [

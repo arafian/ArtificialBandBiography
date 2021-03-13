@@ -1,56 +1,6 @@
 {
    "Name": "List of pipe bands",
-   "Sections": [
-      "1 North America Pipe Band Associations",
-      "2 European Pipe Band Associations",
-      "2.1 Belgium",
-      "2.2 France",
-      "2.3 Northern Ireland",
-      "2.4 Republic of Ireland",
-      "2.5 Scotland",
-      "2.5.1 Notable former bands",
-      "3 Americas",
-      "3.1 Canada",
-      "3.2 United States",
-      "4 Australasia",
-      "4.1 Australia",
-      "4.2 New Zealand",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "A pipe band is a musical ensemble consisting of pipers and drummers. There are many such bands in the world, which play for ceremonial purposes, recreation, competition or all three. This list encompasses only notable pipe bands with their own Wikipedia page.\n"
-      ]
-   },
-   "North America Pipe Band Associations": {},
-   "European Pipe Band Associations": {
-      "Belgium": {},
-      "France": {},
-      "Northern Ireland": {},
-      "Republic of Ireland": {
-         "text": [
-            "Killeshin Pipe Band, Laois\n"
-         ]
-      },
-      "Scotland": {
-         "Notable former bands": {},
-         "text": [
-            "For a list of British Army regimental pipe bands see Army School of Bagpipe Music and Highland Drumming\n"
-         ]
-      }
-   },
-   "Americas": {
-      "Canada": {},
-      "United States": {}
-   },
-   "Australasia": {
-      "Australia": {},
-      "New Zealand": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "A pipe band is a musical ensemble consisting of pipers and drummers. There are many such bands in the world, which play for ceremonial purposes, recreation, competition or all three. This list encompasses only notable pipe bands with their own Wikipedia page.\n",
       "Killeshin Pipe Band, Laois\n",
       "For a list of British Army regimental pipe bands see Army School of Bagpipe Music and Highland Drumming\n"

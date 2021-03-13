@@ -1,38 +1,8 @@
 {
    "Name": "Blatz (band)",
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "2.1 EPs",
-      "2.2 Splits",
-      "2.3 Demos",
-      "2.4 Compilation appearances",
-      "3 Members",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Blatz was an American punk band formed in 1989 in Berkeley, California, United States. Blatz came out of the 924 Gilman Street Project scene during the late 1980s, and early 1990s along with bands like Operation Ivy, Filth, and Green Day.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Blatz was an early 1990s East Bay punk band.[1]\n"
-      ]
-   },
-   "Discography": {
-      "EPs": {},
-      "Splits": {},
-      "Demos": {},
-      "Compilation appearances": {}
-   },
-   "Members": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Blatz was an American punk band formed in 1989 in Berkeley, California, United States. Blatz came out of the 924 Gilman Street Project scene during the late 1980s, and early 1990s along with bands like Operation Ivy, Filth, and Green Day.\n",
-      "Blatz was an early 1990s East Bay punk band.[1]\n"
+      "Blatz was an early 1990s East Bay punk band.\n"
    ],
    "infobox": {
       "Origin": [

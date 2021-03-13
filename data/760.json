@@ -1,48 +1,9 @@
 {
    "Name": "The Warning (Mexican band)",
-   "Sections": [
-      "1 Biography",
-      "2 Band members",
-      "3 Discography",
-      "4 Awards",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Warning is a rock band from Monterrey, México formed in 2012 by three sisters.[1] Daniela (guitar, lead vocals), Paulina (drums, vocals, piano), and Alejandra Villarreal (bass guitar, piano, backing vocals) first gained attention for their 2014 cover of Metallica's \"Enter Sandman\" on their YouTube page,[2][3][4][5][6][7][8] which has reached over 22 million views as of February 2021.[8]\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "Drummer Paulina Villarreal Vélez was interviewed by Tom Tom Magazine a year before The Warning's cover of \"Enter Sandman\" became popular.[9] Metallica lead guitarist Kirk Hammett praised Pau's performance on the song, stating \"The drummer kicks maximum ass!\"[5][10]\n",
-         "In 2015, The Warning raised enough money on GoFundMe to release an EP of six original songs, titled Escape the Mind.[11] The popularity of The Warning's cover of Enter Sandman led to a guest appearance on The Ellen DeGeneres Show on April 24, 2015.[3][12] In addition to their GoFundMe page, they received funding by The Ellen Show and Target in order to attend a 5-week long summer program at Berklee College of Music.\n",
-         "The video game Rock Band was a major influence in the trio's formation of the band,[13] and two of their original songs are featured in the fourth game;[13] a song from their EP, Free Falling, is featured in the video game Rock Band 4,[14] and a song from their debut album, Survive, was released as a free downloadable song as a part of the \"Rivals\" expansion in 2016.[15][16]\n",
-         "They performed at TEDx University of Nevada twice, first in January 2016 (after Berklee)[17] and then January 2017 (after recording their debut Album),[18] telling the story of their journey as a band of sisters in between songs.\n",
-         "The Warning began recording their debut album XXI Century Blood in 2016 at Sonic Ranch, and released in 2017.[3] In that same year, they were also invited to open for legendary rock bands Aerosmith, Def Leppard, and Alice Cooper at the Mother of All rock festival at the Forum Arena Monterrey.[19] Additionally, they also opened for The Killers at Arena Monterrey in April 2018.[20]\n",
-         "The group announced in 2018 that they would be heading to Sphere Studios in Los Angeles to record their second studio album but ultimately, all of the album tracks were recorded at SOGA Studios in Jiutepec, Mexico.[citation needed] The album, titled Queen of the Murder Scene, was released on November 25, 2018. It achieved high showings in the iTunes and Amazon rock music charts for several weeks after release, despite it being independent.  Queen of the Murder Scene is a concept album; it tells the story of a woman who slips into psychosis due to unrequited love.[21]\n",
-         "The single Narcisista debuted live and was released on June 14, 2019, marking it the band's first Spanish song.[22]\n",
-         "The group announced on December 18, 2019 via their official YouTube channel that they would be conducting their first large scale tour of North America in 2020. The tour was supposed to comprise 23 concert dates, commence on March 14, 2020 in Mexico, make stops throughout the United States and Canada and finish up back in Mexico on May 2, 2020.[23] But apart from the March 14 show, the rest of the tour had to be postponed to March and November 2021[24] due to the COVID-19 pandemic; a date in London has been added and is expected to happen in early 2021 at Bush Hall.\n",
-         "On August 9th 2020, the band announced through their Patreon community that they had signed a record deal with the American-based label, Lava Records.\n",
-         "They have finished their 3rd studio Album, produced by David Bendeth to be released in 2021.\n"
-      ]
-   },
-   "Band members": {},
-   "Discography": {
-      "text": [
-         "Studio albums\n",
-         "EPs\n",
-         "Singles\n"
-      ]
-   },
-   "Awards": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "The Warning is a rock band from Monterrey, México formed in 2012 by three sisters.[1] Daniela (guitar, lead vocals), Paulina (drums, vocals, piano), and Alejandra Villarreal (bass guitar, piano, backing vocals) first gained attention for their 2014 cover of Metallica's \"Enter Sandman\" on their YouTube page,[2][3][4][5][6][7][8] which has reached over 22 million views as of February 2021.[8]\n",
-      "Drummer Paulina Villarreal Vélez was interviewed by Tom Tom Magazine a year before The Warning's cover of \"Enter Sandman\" became popular.[9] Metallica lead guitarist Kirk Hammett praised Pau's performance on the song, stating \"The drummer kicks maximum ass!\"[5][10]\n",
-      "In 2015, The Warning raised enough money on GoFundMe to release an EP of six original songs, titled Escape the Mind.[11] The popularity of The Warning's cover of Enter Sandman led to a guest appearance on The Ellen DeGeneres Show on April 24, 2015.[3][12] In addition to their GoFundMe page, they received funding by The Ellen Show and Target in order to attend a 5-week long summer program at Berklee College of Music.\n",
-      "The video game Rock Band was a major influence in the trio's formation of the band,[13] and two of their original songs are featured in the fourth game;[13] a song from their EP, Free Falling, is featured in the video game Rock Band 4,[14] and a song from their debut album, Survive, was released as a free downloadable song as a part of the \"Rivals\" expansion in 2016.[15][16]\n"
+   "rawData": [
+      "The Warning is a rock band from Monterrey, México formed in 2012 by three sisters. Daniela (guitar, lead vocals), Paulina (drums, vocals, piano), and Alejandra Villarreal (bass guitar, piano, backing vocals) first gained attention for their 2014 cover of Metallica's \"Enter Sandman\" on their YouTube page, which has reached over 22 million views as of February 2021.\n",
+      "Drummer Paulina Villarreal Vélez was interviewed by Tom Tom Magazine a year before The Warning's cover of \"Enter Sandman\" became popular. Metallica lead guitarist Kirk Hammett praised Pau's performance on the song, stating \"The drummer kicks maximum ass!\"\n",
+      "In 2015, The Warning raised enough money on GoFundMe to release an EP of six original songs, titled Escape the Mind. The popularity of The Warning's cover of Enter Sandman led to a guest appearance on The Ellen DeGeneres Show on April 24, 2015. In addition to their GoFundMe page, they received funding by The Ellen Show and Target in order to attend a 5-week long summer program at Berklee College of Music.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,45 +1,9 @@
 {
    "Name": "Silentium",
-   "Sections": [
-      "1 Members",
-      "1.1 Current Members",
-      "1.2 Former Members",
-      "2 Discography",
-      "2.1 Albums and EPs",
-      "2.2 Singles",
-      "3 See also",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "Silentium is a Finnish gothic metal band. The band was formed in 1995 and it originates from Jämsänkoski, Finland. Keyboardist Sami Boman and original vocalist Matti Aikio created Silentium by adding violin player Jani Laaksonen, guitar players Toni Lahtinen and Juha Lehtioksa and drummer Jari Ojala into the line-up of their previous band Funeral.\n",
-         "Silentium's first demos and EPs were released in tape format, and their albums have only been released in Europe and some Asian countries, although Silentium's last single \"Dead Silent\" has been uploaded to some legal Finnish music websites for worldwide download.\n",
-         "The addition of singer Riina Rinkinen to the band in 2006 was welcomed by Canadian and German reviewers.[1][2][3]\n"
-      ]
-   },
-   "Members": {
-      "Current Members": {},
-      "Former Members": {
-         "text": [
-            "Timeline\n"
-         ]
-      }
-   },
-   "Discography": {
-      "Albums and EPs": {},
-      "Singles": {}
-   },
-   "See also": {
-      "text": [
-         "Related genres:\n"
-      ]
-   },
-   "References": {},
-   "coreData": [
+   "rawData": [
       "Silentium is a Finnish gothic metal band. The band was formed in 1995 and it originates from Jämsänkoski, Finland. Keyboardist Sami Boman and original vocalist Matti Aikio created Silentium by adding violin player Jani Laaksonen, guitar players Toni Lahtinen and Juha Lehtioksa and drummer Jari Ojala into the line-up of their previous band Funeral.\n",
       "Silentium's first demos and EPs were released in tape format, and their albums have only been released in Europe and some Asian countries, although Silentium's last single \"Dead Silent\" has been uploaded to some legal Finnish music websites for worldwide download.\n",
-      "The addition of singer Riina Rinkinen to the band in 2006 was welcomed by Canadian and German reviewers.[1][2][3]\n",
-      "Timeline\n"
+      "The addition of singer Riina Rinkinen to the band in 2006 was welcomed by Canadian and German reviewers.\n"
    ],
    "infobox": {
       "Origin": [

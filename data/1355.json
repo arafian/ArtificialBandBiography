@@ -1,44 +1,9 @@
 {
    "Name": "Terminal Choice",
-   "Sections": [
-      "1 History",
-      "2 Current members",
-      "3 Former members",
-      "4 Discography",
-      "4.1 Demo",
-      "4.2 Unlisted",
-      "4.3 Full-length albums",
-      "4.4 EPs",
-      "4.5 Singles",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Terminal Choice was a German industrial rock band. It was formed by singer Chris Pohl (also of Blutengel, Tumor, Pain of Progress and owner of the Fear Section label) in 1993.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Their lyrics are sung in German and English. The sound was originally primarily electronic music, but with the 1998 album Navigator, guitars were added.\n",
-         "Besides Pohl, the original lineup included Jens Gärtner, who provided the drums and loops. In 1997, Manuel Selling was added as a guitar player.  He left in 2000 and Gordon Mocznay took over on guitar and bass guitar. A year later in 2001, Louis Manke joined the band as well, adding a second guitar to the band. Despite being involved with numerous bands, all members are still creating music with Terminal Choice and an album entitled \"New Born Enemies\" was released in 2006. They have released a video for \"Don't Go\".\n",
-         "Despite the release of Black Journey 1, 2 and 3 in 2011, the band has shown no signs of activity since their last concert in 2010. They are probably disbanded.\n"
-      ]
-   },
-   "Current members": {},
-   "Former members": {},
-   "Discography": {
-      "Demo": {},
-      "Unlisted": {},
-      "Full-length albums": {},
-      "EPs": {},
-      "Singles": {}
-   },
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Terminal Choice was a German industrial rock band. It was formed by singer Chris Pohl (also of Blutengel, Tumor, Pain of Progress and owner of the Fear Section label) in 1993.\n",
       "Their lyrics are sung in German and English. The sound was originally primarily electronic music, but with the 1998 album Navigator, guitars were added.\n",
-      "Besides Pohl, the original lineup included Jens Gärtner, who provided the drums and loops. In 1997, Manuel Selling was added as a guitar player.  He left in 2000 and Gordon Mocznay took over on guitar and bass guitar. A year later in 2001, Louis Manke joined the band as well, adding a second guitar to the band. Despite being involved with numerous bands, all members are still creating music with Terminal Choice and an album entitled \"New Born Enemies\" was released in 2006. They have released a video for \"Don't Go\".\n",
-      "Despite the release of Black Journey 1, 2 and 3 in 2011, the band has shown no signs of activity since their last concert in 2010. They are probably disbanded.\n"
+      "Besides Pohl, the original lineup included Jens Gärtner, who provided the drums and loops. In 1997, Manuel Selling was added as a guitar player.  He left in 2000 and Gordon Mocznay took over on guitar and bass guitar. A year later in 2001, Louis Manke joined the band as well, adding a second guitar to the band. Despite being involved with numerous bands, all members are still creating music with Terminal Choice and an album entitled \"New Born Enemies\" was released in 2006. They have released a video for \"Don't Go\".\n"
    ],
    "infobox": {
       "Origin": [

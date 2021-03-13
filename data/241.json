@@ -1,45 +1,9 @@
 {
    "Name": "Grass It Up",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "3 Recordings",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "\nGrass It Up is an American bluegrass music band[1] based in Colorado Springs, Colorado.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Grass It Up began in 2004 with singer-songwriter David Jeffrey (guitar, mandolin) and Jon Bross (bass) playing progressive bluegrass at the Front Range Barbeque, a restaurant in Colorado Springs. On Wednesdays musicians from the region would sit in with the duo. Shannon Carr (banjo, guitar) joined the band in 2005.[2] The band has appeared at public and private events at The Broadmoor resort since 2006.\n",
-         "The trio released its first album, Goin’ to Colorado, in October 2006. They performed at the Keystone Bluegrass and Brews Festival and the Happy Ass Ranch Bluegrass Festival beginning in 2007. They organized and performed at Lavapalooza at Lago Arenal, Costa Rica, in 2007 and 2008 and in both those years competed in band contests at Telluride Bluegrass Festival and Rocky Grass.\n",
-         "Grass It Up released its second album, Shoot the Moon in April 2008; that year Danny Karpel began playing piano on stage with the band.  They performed at the newly founded MeadowGrass music festival in 2009 and annually thereafter, as well as at The Black Rose Acoustic Society and at the Grapes & Grass Festival in Guerneville, California in 2009 and 2011. The band was included in the 2009 \"best of\" survey of the Colorado Springs Gazette.\n",
-         "The band's 2010 album, Day After Yesterday, incorporated Karpel on piano and Ben Lewis playing fiddle; they appeared at the Colorado Springs Fine Arts Center events in 2010 and 2011. They performed as a jam band, with Bruce Hayes, Keith Reed, and Vince Herman.\n",
-         "With the addition of Jim Marsh in 2010, Grass It Up began playing more traditional bluegrass. They performed at the Crested Butte Center for the Arts in 2011 and appeared at the Western Jubilee Theater.[3] Live, Grass It Up's first live album, released on Purple House Records, was recorded that February at the Western Jubilee Warehouse in Colorado Springs and mastered at Airshow Mastering in Boulder, Colorado by David Glasser.[4] The album features songs written by Lewis, Jeffrey, Carr, Marsh, and Stephen Hartsfield.\n",
-         "Also released through Purple House, Alabama Tory was recorded at Hideaway Studios in April 2012, by Mark Benning.  The band at that time consisted of Jeffrey, Carr, Marsh, Bross and Jay Genender.  The album included songs by Jeffrey, and Marsh, as well as the title song by Hartsfield.[5]\n",
-         "In 2013, Grass It Up was chosen as the best bluegrass/country band at the Indy Music Awards Festival in Colorado Springs.[6] They opened for the Nitty Gritty Dirt Band at Stargazers Theater in July that year and joined John McEuen there in August.\n",
-         "David Siegel began playing fiddle with the band in 2014. Grass It Up continued to perform regularly in El Paso County, and at bluegrass festivals.[7] The band appeared annually between 2010 and 2015 in the \"Best of\" list of Colorado's weekly Independent newspaper,[5] and in 2015 won another Indy Music Award.[8]\n",
-         "In 2016, Grass It up released its album, Borrowed Time, which was recorded live at the Western Jubilee Warehouse Theater in Colorado Springs in June of that year.  That month the band also performed at the Pickin' on the Divide festival.[9]\n"
-      ]
-   },
-   "Members": {
-      "text": [
-         "Jon Bross joined Up, an 8-man rhythm and funk group in Milwaukee, as a student at the University of Wisconsin-Whitewater (1989–1993) and later joined Gyration (a 10-man disco and funk review) on rhythm guitar.\n",
-         "David Jeffrey,[10] born and raised in Alexandria, Alabama, played music in church and studied at Jacksonville (Alabama) State University and The Atlanta Institute of Music. He has played with Randomwood and the JSU Jazz Band, and Blue Hooptie Revival. The majority of Grass It Up's songs have been written by Jeffrey.\n",
-         "Shannon T. Carr grew up in Alabama playing church music, and attended Jacksonville State University on piano and jazz scholarships. He played with Going Nova, the Distant Cousins, Stimson Brothers and Blue Hooptie Revival. He studied claw-hammer banjo with Jim Marsh and the Gnat Valley Ramblers.\n",
-         "Jim Marsh hosted \"Pickin’ ‘n Singin’\" on TV 24 in Anniston, Alabama, with the Distant Cousins, with whom he played for 24 years.  Marsh opened Cheaha Mountain Amphitheater near Heflin, Alabama, and performed at the Talladega National Forest in 2000.  Marsh mentored Carr and Jeffrey in Alabama, and moved to Colorado to join Grass It Up in 2010.[11]\n",
-         "David Siegel graduated from the Colorado Springs Conservatory and earned a bachelor's in music in violin performance in 2012 from the Manhattan School of Music. He is executive director of the Bee Vradenburg Foundation.[12]\n"
-      ]
-   },
-   "Recordings": {},
-   "References": {},
-   "coreData": [
-      "\nGrass It Up is an American bluegrass music band[1] based in Colorado Springs, Colorado.\n",
-      "Grass It Up began in 2004 with singer-songwriter David Jeffrey (guitar, mandolin) and Jon Bross (bass) playing progressive bluegrass at the Front Range Barbeque, a restaurant in Colorado Springs. On Wednesdays musicians from the region would sit in with the duo. Shannon Carr (banjo, guitar) joined the band in 2005.[2] The band has appeared at public and private events at The Broadmoor resort since 2006.\n",
-      "The trio released its first album, Goin’ to Colorado, in October 2006. They performed at the Keystone Bluegrass and Brews Festival and the Happy Ass Ranch Bluegrass Festival beginning in 2007. They organized and performed at Lavapalooza at Lago Arenal, Costa Rica, in 2007 and 2008 and in both those years competed in band contests at Telluride Bluegrass Festival and Rocky Grass.\n",
-      "Grass It Up released its second album, Shoot the Moon in April 2008; that year Danny Karpel began playing piano on stage with the band.  They performed at the newly founded MeadowGrass music festival in 2009 and annually thereafter, as well as at The Black Rose Acoustic Society and at the Grapes & Grass Festival in Guerneville, California in 2009 and 2011. The band was included in the 2009 \"best of\" survey of the Colorado Springs Gazette.\n"
+   "rawData": [
+      "\nGrass It Up is an American bluegrass music band based in Colorado Springs, Colorado.\n",
+      "Grass It Up began in 2004 with singer-songwriter David Jeffrey (guitar, mandolin) and Jon Bross (bass) playing progressive bluegrass at the Front Range Barbeque, a restaurant in Colorado Springs. On Wednesdays musicians from the region would sit in with the duo. Shannon Carr (banjo, guitar) joined the band in 2005. The band has appeared at public and private events at The Broadmoor resort since 2006.\n",
+      "The trio released its first album, Goin’ to Colorado, in October 2006. They performed at the Keystone Bluegrass and Brews Festival and the Happy Ass Ranch Bluegrass Festival beginning in 2007. They organized and performed at Lavapalooza at Lago Arenal, Costa Rica, in 2007 and 2008 and in both those years competed in band contests at Telluride Bluegrass Festival and Rocky Grass.\n"
    ],
    "infobox": {}
 }

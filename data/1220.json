@@ -1,41 +1,9 @@
 {
    "Name": "The Lassie Foundation",
-   "Sections": [
-      "1 Biography",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 EPs",
-      "2.3 Singles",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Lassie Foundation is an indie band from Southern California. Their style has been described as \"pink noise pop.\" They disbanded in 2006 after having released three albums as well as several EPs, but have reunited and are working on a new full-length album.\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "Formed in 1996, The Lassie Foundation released their first EP, California. California defined the group’s sound, a mix of the smooth 1960s and early 1970s West Coast pop music and the sonic power of British shoegaze music. Lassie followed up its EP with their first full-length album, Pacifico. Pacifico caught British attention by being featured in the \"What's on the NME Stereo\" section of New Musical Express magazine. In 1998 the band released the El Rey EP (also featured in NME), whose title track was featured on TV's \"Buffy the Vampire Slayer\", \"Popular\", \"MTV's The Real World\", and \"MTV Road Rules\". Singles in the U.S. and Australia followed, and the band continued its regimen of performing in Southern California clubs with bands like Phantom Planet, At the Drive-In, Mates of State, Creeper Lagoon, and Imperial Teen.\n",
-         "2001 saw a turn in the band’s musical direction with its split soundtrack for the independent film I Duel Sioux and the Ale of Saturn, followed soon thereafter by The El Dorado LP, their second full-length album. Both albums abandoned their traditional shoegaze elements for a cleaner pop sound. It also marked the end of the band.\n",
-         "In its two-year absence, Lassie received many requests for their catalog, for media placement, interviews, European releases, and tours of Europe, prompting the founding members and songwriters Wayne Everett (vocals), Campuzano (bass), Jeff Schroeder (guitar) to start writing a new album. Supported live and in the studio by Happy Tsugawa-Banta (vibes & keyboards) and Joel Patterson (drums), The Lassie Foundation reinvented itself on Face Your Fun, citing influences such as Echo & the Bunnymen, The Jam, New Order, U2, A Flock of Seagulls, Guided by Voices, and The Jesus and Mary Chain.\n",
-         "After playing many shows throughout 2004 and 2005, opening for bands such as The Walkmen and The New Pornographers, the band agreed to call it quits in 2006, but are now recording an album that is due out in 2008.\n",
-         "As of May 2007, Jeff Schroeder is the guitarist for The Smashing Pumpkins, although he is featured on the new Lassie Foundation album. Everett and Campuzano are both former members of The Prayer Chain and Starflyer 59.\n",
-         "In 2008, The Lassie Foundation released the Three Wheels EP. In December 2008, American webzine Somewhere Cold voted Three Wheels EP of the Year on their 2008 Somewhere Cold Awards Hall of Fame.[1]\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "EPs": {},
-      "Singles": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Lassie Foundation is an indie band from Southern California. Their style has been described as \"pink noise pop.\" They disbanded in 2006 after having released three albums as well as several EPs, but have reunited and are working on a new full-length album.\n",
       "Formed in 1996, The Lassie Foundation released their first EP, California. California defined the group’s sound, a mix of the smooth 1960s and early 1970s West Coast pop music and the sonic power of British shoegaze music. Lassie followed up its EP with their first full-length album, Pacifico. Pacifico caught British attention by being featured in the \"What's on the NME Stereo\" section of New Musical Express magazine. In 1998 the band released the El Rey EP (also featured in NME), whose title track was featured on TV's \"Buffy the Vampire Slayer\", \"Popular\", \"MTV's The Real World\", and \"MTV Road Rules\". Singles in the U.S. and Australia followed, and the band continued its regimen of performing in Southern California clubs with bands like Phantom Planet, At the Drive-In, Mates of State, Creeper Lagoon, and Imperial Teen.\n",
-      "2001 saw a turn in the band’s musical direction with its split soundtrack for the independent film I Duel Sioux and the Ale of Saturn, followed soon thereafter by The El Dorado LP, their second full-length album. Both albums abandoned their traditional shoegaze elements for a cleaner pop sound. It also marked the end of the band.\n",
-      "In its two-year absence, Lassie received many requests for their catalog, for media placement, interviews, European releases, and tours of Europe, prompting the founding members and songwriters Wayne Everett (vocals), Campuzano (bass), Jeff Schroeder (guitar) to start writing a new album. Supported live and in the studio by Happy Tsugawa-Banta (vibes & keyboards) and Joel Patterson (drums), The Lassie Foundation reinvented itself on Face Your Fun, citing influences such as Echo & the Bunnymen, The Jam, New Order, U2, A Flock of Seagulls, Guided by Voices, and The Jesus and Mary Chain.\n"
+      "2001 saw a turn in the band’s musical direction with its split soundtrack for the independent film I Duel Sioux and the Ale of Saturn, followed soon thereafter by The El Dorado LP, their second full-length album. Both albums abandoned their traditional shoegaze elements for a cleaner pop sound. It also marked the end of the band.\n"
    ],
    "infobox": {
       "Origin": [

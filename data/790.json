@@ -1,46 +1,9 @@
 {
    "Name": "Freak Kitchen",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Freak Kitchen is an experimental rock band from Gothenburg, Sweden, formed in 1992.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Freak Kitchen's style of music is influenced by many genres besides the traditional heavy metal, ranging from jazz to pop. The band described their third album as \"A corny little heavy-pop-rock-Latin-world-jazz-avant-garde-metal-blues-record straight from hell!\".[1]\nThe album \"Land of the Freaks\", which was released in late October 2009, features Indian inspiration and the band is also joined by the two Indian musicians V. Selvaganesh and Neyveli S Radhakrishna on several tracks.\n",
-         "The lyrics of Freak Kitchen often contain humor and criticism of capitalist society, conformity, racism and the attitude of major labels.\n",
-         "Frontman Mattias Eklundh has a reputation as a guitar virtuoso, acknowledged by Guitar Player Magazine [2] for instance, and live shows often contain parts where Eklundh plays the guitar using several foreign objects such as a vibrating dildo. Eklundh has also released four solo albums, Sensually Primitive (1996) (under the pseudonym Mr Libido), Freak Guitar (1999), Freak Guitar - The Road Less Traveled (2004) and Freak Guitar: The Smorgasbord (2013).\n",
-         "They also co-headlined Fuel Great Indian Rock 2008 alongside Sahg and Satyricon.[3]\n",
-         "Their album, Cooking with Pagans, was released in 2014, with the first single, \"Professional Help\" released in November.[4]\n",
-         "The 2018 album Confusion to the Enemy contains a song with Swedish lyrics, \"Så Kan Det Gå När Inte Haspen Är På\", that roughly translates to \"That's What Happens When You Don't Take Precautions\".\n"
-      ]
-   },
-   "Members": {
-      "text": [
-         "Current\n",
-         "Previous\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "Albums\n",
-         "EPs\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Freak Kitchen is an experimental rock band from Gothenburg, Sweden, formed in 1992.\n",
-      "Freak Kitchen's style of music is influenced by many genres besides the traditional heavy metal, ranging from jazz to pop. The band described their third album as \"A corny little heavy-pop-rock-Latin-world-jazz-avant-garde-metal-blues-record straight from hell!\".[1]\nThe album \"Land of the Freaks\", which was released in late October 2009, features Indian inspiration and the band is also joined by the two Indian musicians V. Selvaganesh and Neyveli S Radhakrishna on several tracks.\n",
-      "The lyrics of Freak Kitchen often contain humor and criticism of capitalist society, conformity, racism and the attitude of major labels.\n",
-      "Frontman Mattias Eklundh has a reputation as a guitar virtuoso, acknowledged by Guitar Player Magazine [2] for instance, and live shows often contain parts where Eklundh plays the guitar using several foreign objects such as a vibrating dildo. Eklundh has also released four solo albums, Sensually Primitive (1996) (under the pseudonym Mr Libido), Freak Guitar (1999), Freak Guitar - The Road Less Traveled (2004) and Freak Guitar: The Smorgasbord (2013).\n"
+      "Freak Kitchen's style of music is influenced by many genres besides the traditional heavy metal, ranging from jazz to pop. The band described their third album as \"A corny little heavy-pop-rock-Latin-world-jazz-avant-garde-metal-blues-record straight from hell!\".\nThe album \"Land of the Freaks\", which was released in late October 2009, features Indian inspiration and the band is also joined by the two Indian musicians V. Selvaganesh and Neyveli S Radhakrishna on several tracks.\n",
+      "The lyrics of Freak Kitchen often contain humor and criticism of capitalist society, conformity, racism and the attitude of major labels.\n"
    ],
    "infobox": {
       "Origin": [

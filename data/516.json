@@ -1,46 +1,9 @@
 {
    "Name": "XXI (band)",
-   "Sections": [
-      "1 Background",
-      "2 History",
-      "3 Band members",
-      "3.1 Current members",
-      "3.2 Former Members",
-      "4 Discography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "XXI (formerly, A Feast for Kings (AFFK)) is an American Christian metal band that also takes influences from Alternative metal and Post-hardcore. They come from Carrollton, Kentucky, where they were formed in 2010, with lead vocalist Eric Gentry. Eric's death in 2014 was the reasoning behind the band's name change, with 'XXI' (Roman numerals for '21') being Eric's age at the time of his death. Their first extended play, Hell on Earth, was released in 2014, shortly before Eric's death, and under their former name. The debut studio album, Inside Out, was released with Carson Butcher as lead vocalist on Tooth & Nail Records in 2015. This album was their breakthrough album on both the Billboard magazine Christian Albums and Heatseekers Albums charts.\n"
-      ]
-   },
-   "Background": {
-      "text": [
-         "The band is from Carrollton, Kentucky, where they formed in 2010 under the name A Feast for Kings, with their members being lead vocalist, Eric Gentry; background vocalist and guitarist, Seth Weigand; guitarist, Jamie King; bassist, Robbie Barnett; and drummer Carson Butcher.[1] After Gentry's death, the group changed their name to XXI to memorialize his age at his time of death.[2] Their drummer went on to become their lead vocalist, and the bassist took over on the drums.[1]\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The band commenced as a musical entity in 2010, with their first extended play, Hell on Earth, which was released on April 17, 2014, as A Feast for Kings.[3][4]  Their second release, Inside Out, a studio album, was released on September 18, 2015, with Tooth & Nail Records.[5][6] This album was their breakthrough release upon the Billboard magazine charts, where it placed at No. 20 on the Christian Albums,[7] and No. 19 on the Heatseekers Albums.[8]\n"
-      ]
-   },
-   "Band members": {
-      "Current members": {},
-      "Former Members": {
-         "text": [
-            "Timeline\n"
-         ]
-      }
-   },
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "XXI (formerly, A Feast for Kings (AFFK)) is an American Christian metal band that also takes influences from Alternative metal and Post-hardcore. They come from Carrollton, Kentucky, where they were formed in 2010, with lead vocalist Eric Gentry. Eric's death in 2014 was the reasoning behind the band's name change, with 'XXI' (Roman numerals for '21') being Eric's age at the time of his death. Their first extended play, Hell on Earth, was released in 2014, shortly before Eric's death, and under their former name. The debut studio album, Inside Out, was released with Carson Butcher as lead vocalist on Tooth & Nail Records in 2015. This album was their breakthrough album on both the Billboard magazine Christian Albums and Heatseekers Albums charts.\n",
-      "The band is from Carrollton, Kentucky, where they formed in 2010 under the name A Feast for Kings, with their members being lead vocalist, Eric Gentry; background vocalist and guitarist, Seth Weigand; guitarist, Jamie King; bassist, Robbie Barnett; and drummer Carson Butcher.[1] After Gentry's death, the group changed their name to XXI to memorialize his age at his time of death.[2] Their drummer went on to become their lead vocalist, and the bassist took over on the drums.[1]\n",
-      "The band commenced as a musical entity in 2010, with their first extended play, Hell on Earth, which was released on April 17, 2014, as A Feast for Kings.[3][4]  Their second release, Inside Out, a studio album, was released on September 18, 2015, with Tooth & Nail Records.[5][6] This album was their breakthrough release upon the Billboard magazine charts, where it placed at No. 20 on the Christian Albums,[7] and No. 19 on the Heatseekers Albums.[8]\n",
-      "Timeline\n"
+      "The band is from Carrollton, Kentucky, where they formed in 2010 under the name A Feast for Kings, with their members being lead vocalist, Eric Gentry; background vocalist and guitarist, Seth Weigand; guitarist, Jamie King; bassist, Robbie Barnett; and drummer Carson Butcher. After Gentry's death, the group changed their name to XXI to memorialize his age at his time of death. Their drummer went on to become their lead vocalist, and the bassist took over on the drums.\n",
+      "The band commenced as a musical entity in 2010, with their first extended play, Hell on Earth, which was released on April 17, 2014, as A Feast for Kings.  Their second release, Inside Out, a studio album, was released on September 18, 2015, with Tooth & Nail Records. This album was their breakthrough release upon the Billboard magazine charts, where it placed at No. 20 on the Christian Albums, and No. 19 on the Heatseekers Albums.\n"
    ],
    "infobox": {
       "Also known as": [

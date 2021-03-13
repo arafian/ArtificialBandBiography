@@ -1,38 +1,9 @@
 {
    "Name": "Yood",
-   "Sections": [
-      "1 Band history",
-      "2 Musical style",
-      "3 Members",
-      "4 Discography",
-      "5 References"
-   ],
-   "Summary": {
-      "text": [
-         "Yood is an Israeli Jewish rock band from Jerusalem. They formed in 2005 with singer/guitarist Lazer Lloyd (formerly of Reva L'Sheva), bassist Yaakov Lefcoe, and drummer Akiva Girsh (later replaced by Moshe Yankovsky). They released two albums, Passin'over (2007) and Real People (2008). Self-described as a \"power rock trio\", Yood performs blues rock in the vein of ZZ Top, Cream, Led Zeppelin, and Jimi Hendrix, albeit with religious lyrics.\n"
-      ]
-   },
-   "Band history": {
-      "text": [
-         "The original members of Yood - singer/guitarist Lazer Lloyd, bassist Yaakov Lefcoe, and drummer Akiva Girsh -  met and began playing together in Beit Shemesh in 2000, but ultimately separated due to Lloyd's commitment to Reva L'Sheva, the outbreak of the Second Intifada, and their collective uncertainty about the group's profitability. However, they later regrouped in the fall of 2005, motivated by the controversial dismantling of Gaza settlements by the Israeli government, with Lloyd later saying, \"We just knew that we needed to do something to counteract what was going on in the country. Music has a way of bringing people together.\"[1][2]\n",
-         "Girsh left in 2006 to pursue other projects and was replaced by Russian-American drummer Moshe Yankovsky.[2] That same year, the band made their debut at an open mic night at Mike's Place in Tel Aviv.[1]\n",
-         "Yood's debut album, Passin'over, was released on May 15, 2007. Later that year, they performed at the Israeli Shemspeed launch party at The Lab in Jerusalem, alongside Aharit Hayamim, Hamakor, and Sagol 59.[3] They also played at the 2007 Beit Shemesh Festival alongside Heedoosh, Hamakor, Soulfarm, and Adi Ran.[4]\n",
-         "The band made their American debut with a Lag BaOmer concert at the University of Washington's Chabad house in 2007, followed by a Fall 2008 tour of campus-based Chabad houses that culminated in a performance at the Chabad on Campus International Shabbaton and Conference.[2] Their second album, Real People, was released on November 18, 2008.\n"
-      ]
-   },
-   "Musical style": {
-      "text": [
-         "Yood play a '70s-influenced hard rock style with elements of blues, country, and grunge, and have been compared to ZZ Top, Cream, Led Zeppelin, Jimi Hendrix, AC/DC, and Metallica.[5][6]\n"
-      ]
-   },
-   "Members": {},
-   "Discography": {},
-   "References": {},
-   "coreData": [
+   "rawData": [
       "Yood is an Israeli Jewish rock band from Jerusalem. They formed in 2005 with singer/guitarist Lazer Lloyd (formerly of Reva L'Sheva), bassist Yaakov Lefcoe, and drummer Akiva Girsh (later replaced by Moshe Yankovsky). They released two albums, Passin'over (2007) and Real People (2008). Self-described as a \"power rock trio\", Yood performs blues rock in the vein of ZZ Top, Cream, Led Zeppelin, and Jimi Hendrix, albeit with religious lyrics.\n",
-      "The original members of Yood - singer/guitarist Lazer Lloyd, bassist Yaakov Lefcoe, and drummer Akiva Girsh -  met and began playing together in Beit Shemesh in 2000, but ultimately separated due to Lloyd's commitment to Reva L'Sheva, the outbreak of the Second Intifada, and their collective uncertainty about the group's profitability. However, they later regrouped in the fall of 2005, motivated by the controversial dismantling of Gaza settlements by the Israeli government, with Lloyd later saying, \"We just knew that we needed to do something to counteract what was going on in the country. Music has a way of bringing people together.\"[1][2]\n",
-      "Girsh left in 2006 to pursue other projects and was replaced by Russian-American drummer Moshe Yankovsky.[2] That same year, the band made their debut at an open mic night at Mike's Place in Tel Aviv.[1]\n",
-      "Yood's debut album, Passin'over, was released on May 15, 2007. Later that year, they performed at the Israeli Shemspeed launch party at The Lab in Jerusalem, alongside Aharit Hayamim, Hamakor, and Sagol 59.[3] They also played at the 2007 Beit Shemesh Festival alongside Heedoosh, Hamakor, Soulfarm, and Adi Ran.[4]\n"
+      "The original members of Yood - singer/guitarist Lazer Lloyd, bassist Yaakov Lefcoe, and drummer Akiva Girsh -  met and began playing together in Beit Shemesh in 2000, but ultimately separated due to Lloyd's commitment to Reva L'Sheva, the outbreak of the Second Intifada, and their collective uncertainty about the group's profitability. However, they later regrouped in the fall of 2005, motivated by the controversial dismantling of Gaza settlements by the Israeli government, with Lloyd later saying, \"We just knew that we needed to do something to counteract what was going on in the country. Music has a way of bringing people together.\"\n",
+      "Girsh left in 2006 to pursue other projects and was replaced by Russian-American drummer Moshe Yankovsky. That same year, the band made their debut at an open mic night at Mike's Place in Tel Aviv.\n"
    ],
    "infobox": {
       "Origin": [

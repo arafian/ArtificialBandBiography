@@ -1,26 +1,9 @@
 {
    "Name": "The Furys (new wave band)",
-   "Sections": [
-      "Summary",
-      "Formation"
-   ],
-   "Summary": {
-      "text": [
-         "The Furys are a veteran Los Angeles rock band which started out as a punk band on the Beat Records label contemporary with Debbie Harry's Blondie. "
-      ]
-   },
-   "Formation": {
-      "text": [
-         "\nThe band began in 1977 when schoolmates Jeff Wolfe and Gregg Embrey decided to take to take matters into their own hands and start a band that rocked back to their roots of rockabilly, British mods, and California surf music. ",
-         "The newly formed Furys took gigs wherever they could and with a rocking punk style eventually worked their way up the ranks to major clubs such as the Whiskey a Go Go, Club 88, and many others. During this time they had a single out and were getting radio play. Things were on a fast track for the Furys but as with many bands in the fast lane, things did not last forever.\n",
-         "The Furys' first single \"Hey Ma/Jim Stark Dark\" came out in 1977.[1]\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "The Furys are a veteran Los Angeles rock band which started out as a punk band on the Beat Records label contemporary with Debbie Harry's Blondie. ",
       "\nThe band began in 1977 when schoolmates Jeff Wolfe and Gregg Embrey decided to take to take matters into their own hands and start a band that rocked back to their roots of rockabilly, British mods, and California surf music. ",
-      "The newly formed Furys took gigs wherever they could and with a rocking punk style eventually worked their way up the ranks to major clubs such as the Whiskey a Go Go, Club 88, and many others. During this time they had a single out and were getting radio play. Things were on a fast track for the Furys but as with many bands in the fast lane, things did not last forever.\n",
-      "The Furys' first single \"Hey Ma/Jim Stark Dark\" came out in 1977.[1]\n"
+      "The newly formed Furys took gigs wherever they could and with a rocking punk style eventually worked their way up the ranks to major clubs such as the Whiskey a Go Go, Club 88, and many others. During this time they had a single out and were getting radio play. Things were on a fast track for the Furys but as with many bands in the fast lane, things did not last forever.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,68 +1,9 @@
 {
    "Name": "Monkey (band)",
-   "Sections": [
-      "1 History",
-      "2 Current lineup",
-      "3 Previous members (partial list)",
-      "4 Special Guests (Non-Members)",
-      "5 Discography",
-      "6 Awards and nominations",
-      "7 External links",
-      "8 References"
-   ],
-   "Summary": {
-      "text": [
-         "Monkey is a third wave ska band based in the San Francisco Bay Area. Their musical influences include the Skatalites, Prince Buster, the Specials, and non-ska artists such as: Elvis Costello, David Byrne and Tito Puente. Monkey has released five albums, the first two as independent releases, the next three by Asian Man Records. Their debut album ¡Changito!, was listed as San Jose's Best Independent Release for 1998. They have toured the United States, Canada, Mexico, Europe and the United Kingdom, and have earned several nominations and awards, including winning the California Music Award (Bammie) in 1999.\n",
-         "The band has gone on to tour the world and has recorded several albums. Monkey's music can be heard on several compilations, as well as movie and video game soundtracks.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Monkey was formed in the summer of 1995, by Curtis Meacham and Kevin Miller. In 1997 Monkey's first full-length release, ¡Changito!, was released.  The lineup of the band changed numerous times after this, with Meacham and Miller remaining. In 1999, they won a Bay Area Music award, or Bammy. Their second self-released album, Station Wagon Living came out during the \"crash\" of third wave ska. Co-founding member Miller left the band in 2001. Meacham, up until then lead singer and organ player, became the band's lead guitarist. Monkey were signed in 2004, and released their first label supported album, Cruel Tutelage on Asian Man Records. While touring Europe, they met up with Bad Manners in the U.K. They returned to the U.S. and toured as their backup band. In 2009, they released Lost at Sea. The album featured Kincaid Smith from Hepcat on trumpet, and the artwork was supplied by Parker Jacobs of Yo Gabba Gabba fame.\n"
-      ]
-   },
-   "Current lineup": {},
-   "Previous members (partial list)": {},
-   "Special Guests (Non-Members)": {},
-   "Discography": {
-      "text": [
-         "Deluxe Entertainment   \n",
-         "This debut album from Monkey was recorded in 1997 at Studio J21 in San Jose, CA.  \n",
-         "It features 14 Ska and Reggae tracks, and a bonus hidden track (Working Man).    \n",
-         "The album won a California Music Award (BAMMIE) in 1998, and it features  \n",
-         "a performance by the late Skatalites saxophonist, Rolando Alphonso OD.  \n",
-         "Artwork by Kevin Miller\n",
-         "Deluxe Entertainment \n",
-         "The follow up to Monkey's first full length release was recorded at Studio B in Campbell, CA.   \n",
-         "It features 11 tracks that expand on the Ska and Reggae vibe, by adding elements of Swing,   \n",
-         "Rockabilly and Gospel styles. The album was  released in 2002 on the Deluxe Entertainment   \n",
-         "label. It features guest work from John Roy (Unsteady), Micheal Valladarez (Critical Mass) and   \n",
-         "a guitar solo from George Glover (The Irradicats).  \n",
-         "Artwork by Curtis Meacham\n",
-         "Asian Man Records \n",
-         "Monkey's third full-length release was recorded in several living rooms, garages and even a  poolside hut.  \n",
-         "This lo-fi masterpiece has the soul of a band that was hitting its prime in a trying time for all independent artists.  \n",
-         "Artwork by Curtis Meacham\n",
-         "Asian Man Records \n",
-         "This is the fourth full-length album from the classic Bay Area Ska band Monkey. It was recorded over a month-long session at Rockwell Sounds studio in Atascadero, CA by Engineer Brian Wallace.   \n",
-         "The album features guest performances from Kincaid Smith (Hepcat).  \n",
-         "Artwork by Parker Jacobs\n",
-         "Asian Man Records\n",
-         "The fifth Monkey album was recorded in San Jose, CA, and it comes barreling out of the gate with a much stronger and peppier Ska sound.  \n",
-         "Artwork by Parker Jacobs\n",
-         "Squid Hat Records\n",
-         "The sixth Monkey album was recorded in San Jose, CA, and it features a full historic look at all the reggae and ska styles, as well as guest performances from Dr. Ring Ding and Kincaid Smith (Hepcat). \n",
-         "Artwork by Parker Jacobs \n"
-      ]
-   },
-   "Awards and nominations": {},
-   "External links": {},
-   "References": {},
-   "coreData": [
+   "rawData": [
       "Monkey is a third wave ska band based in the San Francisco Bay Area. Their musical influences include the Skatalites, Prince Buster, the Specials, and non-ska artists such as: Elvis Costello, David Byrne and Tito Puente. Monkey has released five albums, the first two as independent releases, the next three by Asian Man Records. Their debut album ¡Changito!, was listed as San Jose's Best Independent Release for 1998. They have toured the United States, Canada, Mexico, Europe and the United Kingdom, and have earned several nominations and awards, including winning the California Music Award (Bammie) in 1999.\n",
       "The band has gone on to tour the world and has recorded several albums. Monkey's music can be heard on several compilations, as well as movie and video game soundtracks.\n",
-      "Monkey was formed in the summer of 1995, by Curtis Meacham and Kevin Miller. In 1997 Monkey's first full-length release, ¡Changito!, was released.  The lineup of the band changed numerous times after this, with Meacham and Miller remaining. In 1999, they won a Bay Area Music award, or Bammy. Their second self-released album, Station Wagon Living came out during the \"crash\" of third wave ska. Co-founding member Miller left the band in 2001. Meacham, up until then lead singer and organ player, became the band's lead guitarist. Monkey were signed in 2004, and released their first label supported album, Cruel Tutelage on Asian Man Records. While touring Europe, they met up with Bad Manners in the U.K. They returned to the U.S. and toured as their backup band. In 2009, they released Lost at Sea. The album featured Kincaid Smith from Hepcat on trumpet, and the artwork was supplied by Parker Jacobs of Yo Gabba Gabba fame.\n",
-      "Deluxe Entertainment   \n"
+      "Monkey was formed in the summer of 1995, by Curtis Meacham and Kevin Miller. In 1997 Monkey's first full-length release, ¡Changito!, was released.  The lineup of the band changed numerous times after this, with Meacham and Miller remaining. In 1999, they won a Bay Area Music award, or Bammy. Their second self-released album, Station Wagon Living came out during the \"crash\" of third wave ska. Co-founding member Miller left the band in 2001. Meacham, up until then lead singer and organ player, became the band's lead guitarist. Monkey were signed in 2004, and released their first label supported album, Cruel Tutelage on Asian Man Records. While touring Europe, they met up with Bad Manners in the U.K. They returned to the U.S. and toured as their backup band. In 2009, they released Lost at Sea. The album featured Kincaid Smith from Hepcat on trumpet, and the artwork was supplied by Parker Jacobs of Yo Gabba Gabba fame.\n"
    ],
    "infobox": {}
 }

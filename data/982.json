@@ -1,30 +1,8 @@
 {
    "Name": "Jerry Garcia Acoustic Band",
-   "Sections": [
-      "1 Band members",
-      "2 History",
-      "3 Discography",
-      "4 Selection of songs performed",
-      "5 References"
-   ],
-   "Summary": {
-      "text": [
-         "The Jerry Garcia Acoustic Band (JGAB) was a  band formed by Jerry Garcia of the Grateful Dead.  They played a number of  concerts in 1987 and 1988, and subsequently released two  live albums.[1][2]\n"
-      ]
-   },
-   "Band members": {},
-   "History": {
-      "text": [
-         "Garcia and Rothman had played together in The Black Mountain Boys, a bluegrass band.[3] The JGAB formed in 1987 and made their first public appearance at The Fillmore on March 17, 1987 at a benefit concert for Artist Rights Today.\n",
-         "The JGAB played the Lunt-Fontanne Theatre for a two-week Broadway run, then continued with appearances at The Warfield in San Francisco and the Wiltern Theatre in Los Angeles. Other performances included the Electric on the Eel concert, the Creating a Better Future benefit in Marin County, California, as well as appearances at the Cotati Cabaret (an exclusive club in Sonoma County, California), and the Frost Amphitheater at Stanford University.\n"
-      ]
-   },
-   "Discography": {},
-   "Selection of songs performed": {},
-   "References": {},
-   "coreData": [
-      "The Jerry Garcia Acoustic Band (JGAB) was a  band formed by Jerry Garcia of the Grateful Dead.  They played a number of  concerts in 1987 and 1988, and subsequently released two  live albums.[1][2]\n",
-      "Garcia and Rothman had played together in The Black Mountain Boys, a bluegrass band.[3] The JGAB formed in 1987 and made their first public appearance at The Fillmore on March 17, 1987 at a benefit concert for Artist Rights Today.\n",
+   "rawData": [
+      "The Jerry Garcia Acoustic Band (JGAB) was a  band formed by Jerry Garcia of the Grateful Dead.  They played a number of  concerts in 1987 and 1988, and subsequently released two  live albums.\n",
+      "Garcia and Rothman had played together in The Black Mountain Boys, a bluegrass band. The JGAB formed in 1987 and made their first public appearance at The Fillmore on March 17, 1987 at a benefit concert for Artist Rights Today.\n",
       "The JGAB played the Lunt-Fontanne Theatre for a two-week Broadway run, then continued with appearances at The Warfield in San Francisco and the Wiltern Theatre in Los Angeles. Other performances included the Electric on the Eel concert, the Creating a Better Future benefit in Marin County, California, as well as appearances at the Cotati Cabaret (an exclusive club in Sonoma County, California), and the Frost Amphitheater at Stanford University.\n"
    ],
    "infobox": {

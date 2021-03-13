@@ -1,50 +1,9 @@
 {
    "Name": "The Dreadnoughts",
-   "Sections": [
-      "1 History",
-      "2 Sound and influences",
-      "3 Current members",
-      "4 Former members",
-      "5 Discography",
-      "5.1 Studio Albums",
-      "5.2 EPs",
-      "6 See also",
-      "7 References",
-      "8 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Dreadnoughts are a Canadian 6-piece folk-punk band from Vancouver.  The band combines a wide range of European folk music with modern street punk.  In late 2011 they announced an indefinite hiatus. However, they followed this by playing shows occasionally, such as annual Vancouver shows, a two-week European tour in January 2014, and two March gigs with Guttermouth in 2014. On November 11, 2017 they released their fourth full-length album Foreign Skies. They followed this up with the album Into The North on November 15, 2019.\n",
-         "The band has four full-lengths and two EPs on various labels and has played around 500 shows in around 30 countries. Their performance peak was in 2010, when 180 shows were played.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The Dreadnoughts formed in 2007 in the Downtown Eastside area of Vancouver, British Columbia, Canada.\n",
-         "A week-long portion of their 2009 European tour is documented in the book This Place Is Awesome (ISBN 978-1105143274) by Vancouver-based photographer Adam PW Smith.[1]\n"
-      ]
-   },
-   "Sound and influences": {
-      "text": [
-         "Noticeable influences in their sound include acts such as The Pogues, Gogol Bordello, Goran Bregovic, and Rancid.  The band commonly record and perform Sea Shanties, polkas and klezmer songs, and are also strongly influenced by English West Country folk music - in particular the Bristol folk band The Wurzels.[2]\n",
-         "Their 2009 release, Victory Square, was ranked the 4th-best folk-punk release of 2009 by folk-punk magazine Shite N' Onions.[3]  Their previous release, Legends Never Die, was ranked #7 on the magazine's 2008 list.[4]  Multiple cross-Canada tours and European tours have helped to contribute to the band's steadily rising profile.[5]\n",
-         "Other acts that have shared the stage with The Dreadnoughts include Stiff Little Fingers, The Cider Fecks, Swingin' Utters, Hepcat, The Real McKenzies, Goran Bregovic, IAMX, Okean Elzy, Talco, The Creepshow, Mad Sin, and Los Furios.\n"
-      ]
-   },
-   "Current members": {},
-   "Former members": {},
-   "Discography": {
-      "Studio Albums": {},
-      "EPs": {}
-   },
-   "See also": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Dreadnoughts are a Canadian 6-piece folk-punk band from Vancouver.  The band combines a wide range of European folk music with modern street punk.  In late 2011 they announced an indefinite hiatus. However, they followed this by playing shows occasionally, such as annual Vancouver shows, a two-week European tour in January 2014, and two March gigs with Guttermouth in 2014. On November 11, 2017 they released their fourth full-length album Foreign Skies. They followed this up with the album Into The North on November 15, 2019.\n",
       "The band has four full-lengths and two EPs on various labels and has played around 500 shows in around 30 countries. Their performance peak was in 2010, when 180 shows were played.\n",
-      "The Dreadnoughts formed in 2007 in the Downtown Eastside area of Vancouver, British Columbia, Canada.\n",
-      "A week-long portion of their 2009 European tour is documented in the book This Place Is Awesome (ISBN 978-1105143274) by Vancouver-based photographer Adam PW Smith.[1]\n"
+      "The Dreadnoughts formed in 2007 in the Downtown Eastside area of Vancouver, British Columbia, Canada.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,34 +1,8 @@
 {
    "Name": "Headplate",
-   "Sections": [
-      "1 Discography",
-      "1.1 Albums",
-      "1.2 Videos",
-      "2 Lineup",
-      "2.1 Members",
-      "2.2 Former members",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Headplate is a Swedish nu metal band from the city of Gothenburg. The band was formed back in 1993, by drummer Niklas Österlund and guitarist Daniel (Schou) Granstedt. Almost all of their songs are free to download at their own website.\n",
-         "In 1999 the band signed with Gain Productions / Gain Recordings, also from Gothenburg, Sweden.[1] Headplate performed at several Scandinavian festivals during 2001 and 2002, for instance Hultsfredsfestivalen 2001[2][3] and Tuska Open Air Metal Festival in 2001.[4] During these years they also did a couple of shows as the supported act for Hardcore Superstar, LOK and Machine Head.[5][6] The band has released four studio albums: \"Bullsized\" (2000),[7] \"Delicate\" (2002),[5] \"Pieces\" (2003)[8] and \"12-12-12\" (2012).[9]\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "Videos": {}
-   },
-   "Lineup": {
-      "Members": {},
-      "Former members": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Headplate is a Swedish nu metal band from the city of Gothenburg. The band was formed back in 1993, by drummer Niklas Österlund and guitarist Daniel (Schou) Granstedt. Almost all of their songs are free to download at their own website.\n",
-      "In 1999 the band signed with Gain Productions / Gain Recordings, also from Gothenburg, Sweden.[1] Headplate performed at several Scandinavian festivals during 2001 and 2002, for instance Hultsfredsfestivalen 2001[2][3] and Tuska Open Air Metal Festival in 2001.[4] During these years they also did a couple of shows as the supported act for Hardcore Superstar, LOK and Machine Head.[5][6] The band has released four studio albums: \"Bullsized\" (2000),[7] \"Delicate\" (2002),[5] \"Pieces\" (2003)[8] and \"12-12-12\" (2012).[9]\n",
+      "In 1999 the band signed with Gain Productions / Gain Recordings, also from Gothenburg, Sweden. Headplate performed at several Scandinavian festivals during 2001 and 2002, for instance Hultsfredsfestivalen 2001 and Tuska Open Air Metal Festival in 2001. During these years they also did a couple of shows as the supported act for Hardcore Superstar, LOK and Machine Head. The band has released four studio albums: \"Bullsized\" (2000), \"Delicate\" (2002), \"Pieces\" (2003) and \"12-12-12\" (2012).\n",
       "This article about a Swedish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ],
    "infobox": {

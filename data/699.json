@@ -1,38 +1,9 @@
 {
    "Name": "Magneta Lane",
-   "Sections": [
-      "1 Biography",
-      "2 Discography",
-      "2.1 EPs",
-      "2.2 Albums",
-      "2.3 Singles",
-      "3 Music videos",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Magneta Lane is a Canadian indie rock band formed in 2003 in Toronto.[1]\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "The all-female line-up consists of two sisters, Lexi Valentine (vocals and guitar) and Nadia King (drums), and their friend French (bass).[2] The group formed after Valentine and King, then teenagers, attended a concert in Toronto and met the band backstage, deciding that watching a concert was not satisfying enough. The trio came together in the fall of 2003 and spent the next year playing shows in and around their native Toronto and teaching themselves how to play their instruments.\n",
-         "The band released its debut EP, The Constant Lover (EP), in 2004 on Paper Bag Records.[2] The full-length album Dancing with Daggers followed in 2006, and then the band moved to Last Gang Records for 2009's Gambling with God.[2] Following Gambling with God, however, the band ran into label and management changes, and took some time off before reemerging in 2013 with the EP Witchrock.[3] That album was released on the band's own new Splendor House label, with distribution by eOne Music.[2] The band also appeared in k-os' video for \"The Dog Is Mine\".\n"
-      ]
-   },
-   "Discography": {
-      "EPs": {},
-      "Albums": {},
-      "Singles": {}
-   },
-   "Music videos": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Magneta Lane is a Canadian indie rock band formed in 2003 in Toronto.[1]\n",
-      "The all-female line-up consists of two sisters, Lexi Valentine (vocals and guitar) and Nadia King (drums), and their friend French (bass).[2] The group formed after Valentine and King, then teenagers, attended a concert in Toronto and met the band backstage, deciding that watching a concert was not satisfying enough. The trio came together in the fall of 2003 and spent the next year playing shows in and around their native Toronto and teaching themselves how to play their instruments.\n",
-      "The band released its debut EP, The Constant Lover (EP), in 2004 on Paper Bag Records.[2] The full-length album Dancing with Daggers followed in 2006, and then the band moved to Last Gang Records for 2009's Gambling with God.[2] Following Gambling with God, however, the band ran into label and management changes, and took some time off before reemerging in 2013 with the EP Witchrock.[3] That album was released on the band's own new Splendor House label, with distribution by eOne Music.[2] The band also appeared in k-os' video for \"The Dog Is Mine\".\n"
+   "rawData": [
+      "Magneta Lane is a Canadian indie rock band formed in 2003 in Toronto.\n",
+      "The all-female line-up consists of two sisters, Lexi Valentine (vocals and guitar) and Nadia King (drums), and their friend French (bass). The group formed after Valentine and King, then teenagers, attended a concert in Toronto and met the band backstage, deciding that watching a concert was not satisfying enough. The trio came together in the fall of 2003 and spent the next year playing shows in and around their native Toronto and teaching themselves how to play their instruments.\n",
+      "The band released its debut EP, The Constant Lover (EP), in 2004 on Paper Bag Records. The full-length album Dancing with Daggers followed in 2006, and then the band moved to Last Gang Records for 2009's Gambling with God. Following Gambling with God, however, the band ran into label and management changes, and took some time off before reemerging in 2013 with the EP Witchrock. That album was released on the band's own new Splendor House label, with distribution by eOne Music. The band also appeared in k-os' video for \"The Dog Is Mine\".\n"
    ],
    "infobox": {
       "Origin": [

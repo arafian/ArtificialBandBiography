@@ -1,46 +1,9 @@
 {
    "Name": "Subseven",
-   "Sections": [
-      "1 Members",
-      "1.1 1999-2003",
-      "1.2 2003-2005",
-      "1.3 2005",
-      "2 Band name",
-      "3 Discography",
-      "4 Music videos",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Subseven (styled as subseven) is a Christian rock band formed in 1999 in Weatherford, Oklahoma.[1] They played in the Midwest for four years as an independent, where they released one album and one EP and gained a large local fan base. In 2003, they signed a record deal with Flicker Records and soon after released subseven: the EP. One year later they released their final album, Free to Conquer. \n",
-         "The band's members included Wesley Fite, Clint McManaman, Reed Corbin, Caleb Wilkerson and Jake Sullivan before their breakup in December 2005.[2] Ever since their breakup in 2005, the band members engaged in other musical activities, including bands and solo projects.  In November 2007, their bass guitarist, Reed Corbin, died from a heart attack at the age of 33.[3]\n",
-         "In 2015, the band announced that they would be reuiniting.[4]\n"
-      ]
-   },
-   "Members": {
-      "1999-2003": {},
-      "2003-2005": {},
-      "2005": {}
-   },
-   "Band name": {
-      "text": [
-         "The name \"Subseven\" is short for \"submitted to God.\" \"Sub\" means \"submitted,\" and \"seven\" means God's number.\n"
-      ]
-   },
-   "Discography": {},
-   "Music videos": {
-      "text": [
-         "After the video shoot of \"Hold On\" at the Green Door, the band announced that they would be breaking up, and played a farewell show to the audience that showed up to be in the video.\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Subseven (styled as subseven) is a Christian rock band formed in 1999 in Weatherford, Oklahoma.[1] They played in the Midwest for four years as an independent, where they released one album and one EP and gained a large local fan base. In 2003, they signed a record deal with Flicker Records and soon after released subseven: the EP. One year later they released their final album, Free to Conquer. \n",
-      "The band's members included Wesley Fite, Clint McManaman, Reed Corbin, Caleb Wilkerson and Jake Sullivan before their breakup in December 2005.[2] Ever since their breakup in 2005, the band members engaged in other musical activities, including bands and solo projects.  In November 2007, their bass guitarist, Reed Corbin, died from a heart attack at the age of 33.[3]\n",
-      "In 2015, the band announced that they would be reuiniting.[4]\n",
-      "The name \"Subseven\" is short for \"submitted to God.\" \"Sub\" means \"submitted,\" and \"seven\" means God's number.\n"
+   "rawData": [
+      "Subseven (styled as subseven) is a Christian rock band formed in 1999 in Weatherford, Oklahoma. They played in the Midwest for four years as an independent, where they released one album and one EP and gained a large local fan base. In 2003, they signed a record deal with Flicker Records and soon after released subseven: the EP. One year later they released their final album, Free to Conquer. \n",
+      "The band's members included Wesley Fite, Clint McManaman, Reed Corbin, Caleb Wilkerson and Jake Sullivan before their breakup in December 2005. Ever since their breakup in 2005, the band members engaged in other musical activities, including bands and solo projects.  In November 2007, their bass guitarist, Reed Corbin, died from a heart attack at the age of 33.\n",
+      "In 2015, the band announced that they would be reuiniting.\n"
    ],
    "infobox": {
       "Origin": [

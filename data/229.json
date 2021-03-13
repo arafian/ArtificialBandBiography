@@ -1,63 +1,9 @@
 {
    "Name": "The Dillards",
-   "Sections": [
-      "1 Band members",
-      "2 The Andy Griffith Show",
-      "3 Pioneering influences",
-      "4 Current members",
-      "5 Discography",
-      "5.1 Albums",
-      "5.2 Compilations",
-      "5.3 Singles",
-      "6 References",
-      "7 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Dillards are an American bluegrass band from Salem, Missouri,\npopularly known for their appearance as \"The Darlings\" on The Andy Griffith Show.[1]\n"
-      ]
-   },
-   "Band members": {
-      "text": [
-         "The Dillards originally consisted of:\n",
-         "In 1968, Doug Dillard left to form Dillard and Clark. He continued to play occasionally with his brother until a few years before his death, in 2012.[3]\n",
-         "The 2015 lineup included:\n",
-         "Other members of the band have included:\n"
-      ]
-   },
-   "The Andy Griffith Show": {
-      "text": [
-         "Though The Dillards were already an established bluegrass band,[citation needed] their biggest claim to fame is performing musically as members of the fictional Darling family on The Andy Griffith Show, introducing bluegrass to many Americans who had never heard it.[1] This was a recurring role and the Dillards were led by veteran character actor Denver Pyle as their father and jug player, Briscoe Darling. Maggie Peterson played Charlene Darling, their sister and the focus for the attentions of character Ernest T. Bass, played by Howard Morris. The appearances of the Dillards as the Darlings ran between 1963 and 1966. In 1986, the Dillards reprised the role in the reunion show Return to Mayberry.[citation needed] As part of their current tour, Rodney Dillard answers questions about the TV series. He says the songs such as \"Dooley\" are about people the family knew.[1]\n",
-         "On the October 1963 episode \"Briscoe Declares for Aunt Bee\", the Dillards performed the first wide scale airing of the 1955 Arthur \"Guitar Boogie\" Smith composition Feudin' Banjos (Dueling Banjos).\n",
-         "According to Jim Clark of The Andy Griffith Show Rerun Watchers Club, three albums have been produced with songs performed on the show. Clark says Songs That Make Me Cry is the only one currently available with real performances and has the three songs which included Maggie Peterson as Charlene. Back Porch Bluegrass: Live Almost includes five songs that were sung on the show, and Rodney Dillard released another album with the real performances of other songs.[5]\n"
-      ]
-   },
-   "Pioneering influences": {
-      "text": [
-         "The Dillards are notable for being among the first bluegrass groups to have electrified their instruments in the mid-1960s.[6]  They are considered to be one of the pioneers of the burgeoning southern California folk rock, country rock and progressive bluegrass genres, and are known to have directly or indirectly influenced artists such as The Eagles, The Byrds, and Elton John.[7] In 1972, The Dillards joined Elton John on his first American tour.[1] John Paul Jones of Led Zeppelin has also acknowledged their influence, particularly in his decision to play the mandolin.[8]\n"
-      ]
-   },
-   "Current members": {
-      "text": [
-         "Rodney Dillard is a founding member of The Dillards - the group he formed with his brother, Douglas Dillard in the late 1950s. Credited throughout the years as the driving force behind the group's musical direction, success, and phenomenal longevity as a working act. Today, Dillard's musical duties include lead and harmony vocals, guitar, and dobro.\n",
-         "Beverly Cotten-Dillard is a native of Morrisville, North Carolina who performed with Janette Carter, Ola Belle Reed, Tommy Jarrell, and Doc and Merle Watson. She has appeared on Hee Haw and the Disney Channel and at Carnegie Hall. Cotten-Dillard is recognized as an authority on the traditional \"clawhammer\" banjo technique and is a featured member of The Dillards live shows. Her 1981 album Clog-In 'is considered an American folk classic.\"[1]\n",
-         "George Giddens is a classically trained musician who is an awarded fiddler and mandolin player for the band.\n",
-         "Gary J. Smith was added to the lineup, having recorded double bass in the 2015 studio sessions for the new Dillards album. Smith is well known in Nashville circles after stints with Tom T. Hall, The Brother Boys, Ed Snodderly, and his long-time collaborator, Jeff Gilkinson.\n",
-         "Former member, Dean Webb, died at the age of 81, on June 30, 2018.[2]\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "Compilations": {},
-      "Singles": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "The Dillards are an American bluegrass band from Salem, Missouri,\npopularly known for their appearance as \"The Darlings\" on The Andy Griffith Show.[1]\n",
+   "rawData": [
+      "The Dillards are an American bluegrass band from Salem, Missouri,\npopularly known for their appearance as \"The Darlings\" on The Andy Griffith Show.\n",
       "The Dillards originally consisted of:\n",
-      "In 1968, Doug Dillard left to form Dillard and Clark. He continued to play occasionally with his brother until a few years before his death, in 2012.[3]\n",
-      "The 2015 lineup included:\n"
+      "In 1968, Doug Dillard left to form Dillard and Clark. He continued to play occasionally with his brother until a few years before his death, in 2012.\n"
    ],
    "infobox": {
       "Origin": [

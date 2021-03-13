@@ -1,36 +1,9 @@
 {
    "Name": "Loquat (band)",
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "2.1 Studio Albums",
-      "2.2 EPs",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Loquat is an electronic/pop band based in San Francisco, California. The group is currently composed of Kylee Swenson Gordon (vocals/guitar), Christopher Cooper (keyboards), Anthony Gordon (bass guitar), Chip Cosby (guitar/vocals), and Jon Langmead (drums).\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Loquat began with singer Kylee Swenson and Earl Otsuka writing songs in San Francisco in 1996.[1] However, it wasn't until 2001 that the band came into being in its current form, when bass player Anthony Gordon encouraged the then-duo to play live shows.  They recruited drummer Christopher Lautz and original keyboardist Ben Kasman, and Loquat played their first live engagement in September 2001.[2]  Loquat self-released their first EP, The Penny Drop, in May 2002.  It was followed later that year by a second EP, Fall, released on 10-inch vinyl by Dreams by Degrees.  In 2003, Ben Kasman left the band, and was replaced on keyboards by Ryan Manley, recruited via an advertisement on Craigslist.[3]  Their third EP, Before the Momentum, was released in December 2003 by Devil in the Woods.  Also in 2003, Loquat was awarded the title of Best Pop Group at SF Weekly's 2003 Music Awards.[4]\n",
-         "While Loquat began assembling their first full album, their music gained increasing exposure due to extensive play time on San Francisco radio station Live 105, as well as the song \"Swingset Chain\" being featured on the CW television series One Tree Hill and coming pre-loaded on SanDisk's Sansa media player.  The band's debut LP, It's Yours to Keep, was released in April 2005 by Jackpine Social Club, and featured ten tracks.  The album was met with generally positive reviews,[5][6] though some reviewers thought the album fell short of the band's talent.[7]  It reached #85 on  College Music Journal's CMJ Radio 200 chart.  The band recently signed with Talking House Records, and their second full-length album, Secrets of the Sea, was released in October 2008. Loquat released their third studio album on April 24, 2012 titled We Could Be Arsonists.\n",
-         "In July 2009, Loquat announced that Ryan Manley was leaving the band to focus on his film and commercial production career. He was replaced by Christopher Cooper, a Bay Area native who was the keyboardist for The Federalists.[8] Earl Otsuka left the band in November 2009, replaced by Chip Cosby, from Richmond, Virginia.[9]\n"
-      ]
-   },
-   "Discography": {
-      "Studio Albums": {},
-      "EPs": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Loquat is an electronic/pop band based in San Francisco, California. The group is currently composed of Kylee Swenson Gordon (vocals/guitar), Christopher Cooper (keyboards), Anthony Gordon (bass guitar), Chip Cosby (guitar/vocals), and Jon Langmead (drums).\n",
-      "Loquat began with singer Kylee Swenson and Earl Otsuka writing songs in San Francisco in 1996.[1] However, it wasn't until 2001 that the band came into being in its current form, when bass player Anthony Gordon encouraged the then-duo to play live shows.  They recruited drummer Christopher Lautz and original keyboardist Ben Kasman, and Loquat played their first live engagement in September 2001.[2]  Loquat self-released their first EP, The Penny Drop, in May 2002.  It was followed later that year by a second EP, Fall, released on 10-inch vinyl by Dreams by Degrees.  In 2003, Ben Kasman left the band, and was replaced on keyboards by Ryan Manley, recruited via an advertisement on Craigslist.[3]  Their third EP, Before the Momentum, was released in December 2003 by Devil in the Woods.  Also in 2003, Loquat was awarded the title of Best Pop Group at SF Weekly's 2003 Music Awards.[4]\n",
-      "While Loquat began assembling their first full album, their music gained increasing exposure due to extensive play time on San Francisco radio station Live 105, as well as the song \"Swingset Chain\" being featured on the CW television series One Tree Hill and coming pre-loaded on SanDisk's Sansa media player.  The band's debut LP, It's Yours to Keep, was released in April 2005 by Jackpine Social Club, and featured ten tracks.  The album was met with generally positive reviews,[5][6] though some reviewers thought the album fell short of the band's talent.[7]  It reached #85 on  College Music Journal's CMJ Radio 200 chart.  The band recently signed with Talking House Records, and their second full-length album, Secrets of the Sea, was released in October 2008. Loquat released their third studio album on April 24, 2012 titled We Could Be Arsonists.\n",
-      "In July 2009, Loquat announced that Ryan Manley was leaving the band to focus on his film and commercial production career. He was replaced by Christopher Cooper, a Bay Area native who was the keyboardist for The Federalists.[8] Earl Otsuka left the band in November 2009, replaced by Chip Cosby, from Richmond, Virginia.[9]\n"
+      "Loquat began with singer Kylee Swenson and Earl Otsuka writing songs in San Francisco in 1996. However, it wasn't until 2001 that the band came into being in its current form, when bass player Anthony Gordon encouraged the then-duo to play live shows.  They recruited drummer Christopher Lautz and original keyboardist Ben Kasman, and Loquat played their first live engagement in September 2001.  Loquat self-released their first EP, The Penny Drop, in May 2002.  It was followed later that year by a second EP, Fall, released on 10-inch vinyl by Dreams by Degrees.  In 2003, Ben Kasman left the band, and was replaced on keyboards by Ryan Manley, recruited via an advertisement on Craigslist.  Their third EP, Before the Momentum, was released in December 2003 by Devil in the Woods.  Also in 2003, Loquat was awarded the title of Best Pop Group at SF Weekly's 2003 Music Awards.\n",
+      "While Loquat began assembling their first full album, their music gained increasing exposure due to extensive play time on San Francisco radio station Live 105, as well as the song \"Swingset Chain\" being featured on the CW television series One Tree Hill and coming pre-loaded on SanDisk's Sansa media player.  The band's debut LP, It's Yours to Keep, was released in April 2005 by Jackpine Social Club, and featured ten tracks.  The album was met with generally positive reviews, though some reviewers thought the album fell short of the band's talent.  It reached #85 on  College Music Journal's CMJ Radio 200 chart.  The band recently signed with Talking House Records, and their second full-length album, Secrets of the Sea, was released in October 2008. Loquat released their third studio album on April 24, 2012 titled We Could Be Arsonists.\n"
    ],
    "infobox": {
       "Origin": [

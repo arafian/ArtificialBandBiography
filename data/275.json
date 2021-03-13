@@ -1,45 +1,9 @@
 {
    "Name": "The Whiskey Boys",
-   "Sections": [
-      "1 Band history",
-      "2 Tours",
-      "3 Festival appearances",
-      "4 Discography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Whiskey Boys is an American modern bluegrass and Americana band, based out of Boston. While the group performs original and traditional bluegrass, Americana music, they have also been influenced by Irish, Old Time, Country, and Folk music. The group has toured local venues throughout the northeastern US, in support of their three released albums. The band gets its name from the chief protesters in The Whiskey Rebellion of 1791.\n"
-      ]
-   },
-   "Band history": {
-      "text": [
-         "David Delaney, graduate of the Berklee College of Music, founded The Whiskey Boys in 2006, with fellow student, Mark Kilianski. Delaney and Kilianski first performed together under the name \"Around the Park\" before changing the name to \"The Whiskey Boys\" for a performance at the Kinsale Pub in Boston. The band self-published a demo album on CD titled \"First Day\" which was sold at the band's shows.\n",
-         "The founding members toured the Northeastern United States and made regular festival appearances, as well as appearing WICN local public radio in Worcester, MA local television stations WFXT in Boston, and WTIC-TV in Hartford, CT.[1]\n",
-         "The collaboration of Delaney and Kilianski produced two full-length albums; \"Mary Come to Boston\" in 2010, and \"Crescent Moon\" in 2012.\n",
-         "Kilianski departed the band in October 2012, leading Delaney to reorganize the band and recruit new members, encompassing a five-piece ensemble. In 2013 the band featured Delaney on fiddle and vocals, Michael Warren on guitar, Mark Whitaker on banjo, Jon Polit on bass, and Jeff Butcher on mandolin.\n",
-         "In October 2013 The Whiskey Boys released their third studio album, entitled \"Time Machine\", featuring the band's new lineup.\n"
-      ]
-   },
-   "Tours": {
-      "text": [
-         "The band has toured the northeastern US, selling out various venues, including the Club Passim in Cambridge, Massachusetts.[2] They have performed with similar groups and musical performers, including Lori McKenna, Man Man,[3] and Grammy-nominated country musician, Trace Adkins.[citation needed]\n"
-      ]
-   },
-   "Festival appearances": {
-      "text": [
-         "In 2010 and 2011, the band performed at Joe's Pub for the Make Music New York Festival.[4][5] In 2010, they were the featured entertainment at the National Governors' Association Annual Conference at Fenway Park.[citation needed] In 2011 and 2012, they were selected as the premiere country act at the Music Mountain Summer Chamber Music Festival,[6] while also appearing at the 2011, 2012,[7] and 2013[8] New England Americana Festival, the 2012 Jamaica Plain Music Festival,[9] and the 2012 North Branch Bluegrass Festival.[10]\n"
-      ]
-   },
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Whiskey Boys is an American modern bluegrass and Americana band, based out of Boston. While the group performs original and traditional bluegrass, Americana music, they have also been influenced by Irish, Old Time, Country, and Folk music. The group has toured local venues throughout the northeastern US, in support of their three released albums. The band gets its name from the chief protesters in The Whiskey Rebellion of 1791.\n",
       "David Delaney, graduate of the Berklee College of Music, founded The Whiskey Boys in 2006, with fellow student, Mark Kilianski. Delaney and Kilianski first performed together under the name \"Around the Park\" before changing the name to \"The Whiskey Boys\" for a performance at the Kinsale Pub in Boston. The band self-published a demo album on CD titled \"First Day\" which was sold at the band's shows.\n",
-      "The founding members toured the Northeastern United States and made regular festival appearances, as well as appearing WICN local public radio in Worcester, MA local television stations WFXT in Boston, and WTIC-TV in Hartford, CT.[1]\n",
-      "The collaboration of Delaney and Kilianski produced two full-length albums; \"Mary Come to Boston\" in 2010, and \"Crescent Moon\" in 2012.\n"
+      "The founding members toured the Northeastern United States and made regular festival appearances, as well as appearing WICN local public radio in Worcester, MA local television stations WFXT in Boston, and WTIC-TV in Hartford, CT.\n"
    ],
    "infobox": {
       "Origin": [

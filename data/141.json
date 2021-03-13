@@ -1,32 +1,6 @@
 {
    "Name": "Everyone Is Dirty",
-   "Sections": [
-      "1 History",
-      "2 Band members",
-      "3 Discography",
-      "3.1 Long plays",
-      "3.2 Singles",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Everyone Is Dirty is an American rock band from Oakland, CA.  Formed in 2013, the band released their debut album Dying Is Fun in 2014 on Tricycle Records after which their front-woman Sivan Lioncub suffered from acute liver failure due to an allergy to Augmentin. After she recovered, in 2017 they released My Neon's Dead, their sophomore LP that explores with the \"hospital morphine haze\" of the illness Sivan endured, out on OIM Records.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Everyone Is Dirty is a psychedelic pop rock & roll band from Oakland, California fronted by fatale femme Sivan Lioncub and her anchor-shaped electric violin, Christopher Daddio, Tyler English, and Jake Kopulsky.\n"
-      ]
-   },
-   "Band members": {},
-   "Discography": {
-      "Long plays": {},
-      "Singles": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Everyone Is Dirty is an American rock band from Oakland, CA.  Formed in 2013, the band released their debut album Dying Is Fun in 2014 on Tricycle Records after which their front-woman Sivan Lioncub suffered from acute liver failure due to an allergy to Augmentin. After she recovered, in 2017 they released My Neon's Dead, their sophomore LP that explores with the \"hospital morphine haze\" of the illness Sivan endured, out on OIM Records.\n",
       "Everyone Is Dirty is a psychedelic pop rock & roll band from Oakland, California fronted by fatale femme Sivan Lioncub and her anchor-shaped electric violin, Christopher Daddio, Tyler English, and Jake Kopulsky.\n"
    ],

@@ -1,31 +1,9 @@
 {
    "Name": "Reconstruction (band)",
-   "Sections": [
-      "Summary",
-      "Performances",
-      "Members"
-   ],
-   "Summary": {
-      "text": [
-         "Reconstruction was a band formed in 1978 by John Kahn initially to occupy him while Jerry Garcia, his long-time musical collaborator, was busy with the Grateful Dead.  The band's original guitar player was Jerry Miller, best known for performing with Moby Grape. In March 1979, Garcia took over guitar duties officially.[1]\n",
-         "The band performed while the Grateful Dead was on a brief hiatus, switching keyboard players from Keith Godchaux to Brent Mydland, and continued well into 1979. The band varied its styles from previous Garcia/Kahn/Saunders collaborations to more of a disco and jazz sound.\n"
-      ]
-   },
-   "Performances": {
-      "text": [
-         "Reconstruction performed only for an eight-month period in 1979.  The band's first performance was January 30, 1979 at the Keystone  in Berkeley, California.  Its last performance was on September 22, 1979, at the Keystone in Palo Alto, California.  During that period, the band played 57 concerts, all of them in California and Colorado.\n"
-      ]
-   },
-   "Members": {
-      "text": [
-         "The band's lineup consisted of:\n"
-      ]
-   },
-   "coreData": [
-      "Reconstruction was a band formed in 1978 by John Kahn initially to occupy him while Jerry Garcia, his long-time musical collaborator, was busy with the Grateful Dead.  The band's original guitar player was Jerry Miller, best known for performing with Moby Grape. In March 1979, Garcia took over guitar duties officially.[1]\n",
+   "rawData": [
+      "Reconstruction was a band formed in 1978 by John Kahn initially to occupy him while Jerry Garcia, his long-time musical collaborator, was busy with the Grateful Dead.  The band's original guitar player was Jerry Miller, best known for performing with Moby Grape. In March 1979, Garcia took over guitar duties officially.\n",
       "The band performed while the Grateful Dead was on a brief hiatus, switching keyboard players from Keith Godchaux to Brent Mydland, and continued well into 1979. The band varied its styles from previous Garcia/Kahn/Saunders collaborations to more of a disco and jazz sound.\n",
-      "Reconstruction performed only for an eight-month period in 1979.  The band's first performance was January 30, 1979 at the Keystone  in Berkeley, California.  Its last performance was on September 22, 1979, at the Keystone in Palo Alto, California.  During that period, the band played 57 concerts, all of them in California and Colorado.\n",
-      "The band's lineup consisted of:\n"
+      "Reconstruction performed only for an eight-month period in 1979.  The band's first performance was January 30, 1979 at the Keystone  in Berkeley, California.  Its last performance was on September 22, 1979, at the Keystone in Palo Alto, California.  During that period, the band played 57 concerts, all of them in California and Colorado.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,47 +1,9 @@
 {
    "Name": "Scarve",
-   "Sections": [
-      "1 Biography",
-      "1.1 Vocalist departures and The Undercurrent",
-      "2 Members",
-      "2.1 Current",
-      "2.2 Former",
-      "2.3 Live members",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Scarve is a French technical death metal[1] band from Nancy.  They have released four full-length albums, the latest being The Undercurrent, released on April 2, 2007 on Listenable Records.\n"
-      ]
-   },
-   "Biography": {
-      "Vocalist departures and The Undercurrent": {
-         "text": [
-            "In October 2006, it was announced that Guillaume Bideau had left Scarve during the recording of The Undercurrent in order to take over as lead singer in the Danish industrial metal band Mnemic.  His session replacement was announced to be ex-Darkane singer, Lawrence Mackrory (who provided vocals on the album Rusted Angel).\n",
-            "Following the release of The Undercurrent, on June 4, Pierrick Valence announced that he was leaving Scarve to focus on his other band, Phazm. On April 22, 2007, The band posted a message on their Myspace account saying that they were still looking for a vocalist.[citation needed]\n",
-            "In May 2009, the band revealed their new vocalist, Lawrence Mackrory, who sung on The Undercurrent and their next album. Dirk said on their Myspace blog \"We're all very proud and happy to have Lawrence in our ranks, and extremely excited to bring you, our fans, a whole new collection of blasting futuristic death metal!\"[citation needed]\n",
-            "Scarve has been on an unofficial hiatus since 2009, and have not performed live since 2007.  Dirk Verbeuran and Sylvain Coudret currently perform with Soilwork, while Loïc Colin recently joined American death metal band Solium Fatalis, which also features current members of Cryptopsy.\n"
-         ]
-      },
-      "text": [
-         "Scarve was formed in 1994 by rhythm guitarist Patrick Martin and drummer Dirk Verbeuren, the latter of whom later joined Soilwork.  Their 2004 album, Irradiant features a contribution from Meshuggah guitarist Fredrik Thordendal on the track, \"Asphyxiate.\"\n"
-      ]
-   },
-   "Members": {
-      "Current": {},
-      "Former": {},
-      "Live members": {}
-   },
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Scarve is a French technical death metal[1] band from Nancy.  They have released four full-length albums, the latest being The Undercurrent, released on April 2, 2007 on Listenable Records.\n",
+   "rawData": [
+      "Scarve is a French technical death metal band from Nancy.  They have released four full-length albums, the latest being The Undercurrent, released on April 2, 2007 on Listenable Records.\n",
       "Scarve was formed in 1994 by rhythm guitarist Patrick Martin and drummer Dirk Verbeuren, the latter of whom later joined Soilwork.  Their 2004 album, Irradiant features a contribution from Meshuggah guitarist Fredrik Thordendal on the track, \"Asphyxiate.\"\n",
-      "In October 2006, it was announced that Guillaume Bideau had left Scarve during the recording of The Undercurrent in order to take over as lead singer in the Danish industrial metal band Mnemic.  His session replacement was announced to be ex-Darkane singer, Lawrence Mackrory (who provided vocals on the album Rusted Angel).\n",
-      "Following the release of The Undercurrent, on June 4, Pierrick Valence announced that he was leaving Scarve to focus on his other band, Phazm. On April 22, 2007, The band posted a message on their Myspace account saying that they were still looking for a vocalist.[citation needed]\n"
+      "In October 2006, it was announced that Guillaume Bideau had left Scarve during the recording of The Undercurrent in order to take over as lead singer in the Danish industrial metal band Mnemic.  His session replacement was announced to be ex-Darkane singer, Lawrence Mackrory (who provided vocals on the album Rusted Angel).\n"
    ],
    "infobox": {
       "Origin": [

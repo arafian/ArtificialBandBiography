@@ -1,38 +1,9 @@
 {
    "Name": "Queens Club (band)",
-   "Sections": [
-      "1 Style",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 EPs",
-      "2.3 Music videos",
-      "2.4 Non-album compilations",
-      "3 References"
-   ],
-   "Summary": {
-      "text": [
-         "Queens Club was an alternative rock band from Kansas City, Missouri[1] who were signed to Tooth & Nail Records. Queens Club formed in 2007 with former members of The Chariot, Dan Eaton (Vocals/ guitar), and Jake Ryan (drums), as well as Andy Nichols (guitar) and Tyler Bottles (bass). The band signed to Tooth and Nail records in 2009,[2][3] and has released one EP, Nightmarer,[2] and one full-length album Young Giant.[4]\n",
-         "Since signing with Tooth & Nail the band has toured with Breathe Carolina, Hyper Crush, Let's Get It, The Forecast, Emery, Sent by Ravens, Cash Cash and Family Force 5.[2]\n",
-         "The band announced their breakup in September 2011 via their Facebook Page in the midst of the creating of their new album. After losing their lead vocalist, Dan Eaton, who is pursuing his own solo career the band decided to move on. Most of the members plan on continuing in the music and art field.\n"
-      ]
-   },
-   "Style": {
-      "text": [
-         "The band's first album has been described as \"a perfect storm of Euro dance rock, indie sophistication and a sprinkling of punk rock’s filth and fury snottiness.\"[1]\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "EPs": {},
-      "Music videos": {},
-      "Non-album compilations": {}
-   },
-   "References": {},
-   "coreData": [
-      "Queens Club was an alternative rock band from Kansas City, Missouri[1] who were signed to Tooth & Nail Records. Queens Club formed in 2007 with former members of The Chariot, Dan Eaton (Vocals/ guitar), and Jake Ryan (drums), as well as Andy Nichols (guitar) and Tyler Bottles (bass). The band signed to Tooth and Nail records in 2009,[2][3] and has released one EP, Nightmarer,[2] and one full-length album Young Giant.[4]\n",
-      "Since signing with Tooth & Nail the band has toured with Breathe Carolina, Hyper Crush, Let's Get It, The Forecast, Emery, Sent by Ravens, Cash Cash and Family Force 5.[2]\n",
-      "The band announced their breakup in September 2011 via their Facebook Page in the midst of the creating of their new album. After losing their lead vocalist, Dan Eaton, who is pursuing his own solo career the band decided to move on. Most of the members plan on continuing in the music and art field.\n",
-      "The band's first album has been described as \"a perfect storm of Euro dance rock, indie sophistication and a sprinkling of punk rock’s filth and fury snottiness.\"[1]\n"
+   "rawData": [
+      "Queens Club was an alternative rock band from Kansas City, Missouri who were signed to Tooth & Nail Records. Queens Club formed in 2007 with former members of The Chariot, Dan Eaton (Vocals/ guitar), and Jake Ryan (drums), as well as Andy Nichols (guitar) and Tyler Bottles (bass). The band signed to Tooth and Nail records in 2009, and has released one EP, Nightmarer, and one full-length album Young Giant.\n",
+      "Since signing with Tooth & Nail the band has toured with Breathe Carolina, Hyper Crush, Let's Get It, The Forecast, Emery, Sent by Ravens, Cash Cash and Family Force 5.\n",
+      "The band announced their breakup in September 2011 via their Facebook Page in the midst of the creating of their new album. After losing their lead vocalist, Dan Eaton, who is pursuing his own solo career the band decided to move on. Most of the members plan on continuing in the music and art field.\n"
    ],
    "infobox": {
       "Origin": [

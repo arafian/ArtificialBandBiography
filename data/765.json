@@ -1,57 +1,9 @@
 {
    "Name": "Zelda (band)",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "3 Discography",
-      "3.1 Singles",
-      "3.2 Albums",
-      "3.3 Original soundtrack",
-      "3.4 Videos",
-      "3.5 Books",
-      "4 Notes"
-   ],
-   "Summary": {
-      "text": [
-         "Zelda (ゼルダ), stylized as ZELDA, was a Japanese rock band active in the 1980s and 1990s. They played a pioneering role as one of Japan's first all-girl bands.\n",
-         "Led by Sachiho Kojima (小嶋さちほ), the band covered an impressive range of musical genres, from new wave, punk, pop, post-punk, and later, reggae. Zelda played a seminal role for later bands with their forays into roots music and experimental sounds.[1]\n"
-      ]
-   },
-   "History": {},
-   "Members": {},
-   "Discography": {
-      "Singles": {
-         "text": [
-            "From Junk Connection\n",
-            "From Aspirin Record\n",
-            "From Nippon Phonogram\n",
-            "From CBS Sony\n",
-            "From Cutting Edge (under sales arrangement with Toshiba EMI)\n"
-         ]
-      },
-      "Albums": {
-         "text": [
-            "From Nippon Phonogram\n",
-            "From CBS Sony\n",
-            "From Cutting Edge\n",
-            "From Alfa Records\n",
-            "From Sony Music House Inc.\n"
-         ]
-      },
-      "Original soundtrack": {
-         "text": [
-            "From CBS Sony\n"
-         ]
-      },
-      "Videos": {},
-      "Books": {}
-   },
-   "Notes": {},
-   "coreData": [
+   "rawData": [
       "Zelda (ゼルダ), stylized as ZELDA, was a Japanese rock band active in the 1980s and 1990s. They played a pioneering role as one of Japan's first all-girl bands.\n",
-      "Led by Sachiho Kojima (小嶋さちほ), the band covered an impressive range of musical genres, from new wave, punk, pop, post-punk, and later, reggae. Zelda played a seminal role for later bands with their forays into roots music and experimental sounds.[1]\n",
-      "From Junk Connection\n",
-      "From Aspirin Record\n"
+      "Led by Sachiho Kojima (小嶋さちほ), the band covered an impressive range of musical genres, from new wave, punk, pop, post-punk, and later, reggae. Zelda played a seminal role for later bands with their forays into roots music and experimental sounds.\n",
+      "From Junk Connection\n"
    ],
    "infobox": {
       "Origin": [

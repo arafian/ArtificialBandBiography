@@ -1,22 +1,7 @@
 {
    "Name": "Orange Then Blue",
-   "Sections": [
-      "1 Discography",
-      "2 See also",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Orange Then Blue is an avant-garde big band from Boston, Massachusetts led by drummer George Schuller.[1] Several well known jazz musicians have performed with the group as either members or guests, including trumpeters Dave Douglas and Cuong Vu, saxophonist Chris Speed, and bassist Reid Anderson. George Schuller is the son of Gunther Schuller.[2][3]\n"
-      ]
-   },
-   "Discography": {},
-   "See also": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Orange Then Blue is an avant-garde big band from Boston, Massachusetts led by drummer George Schuller.[1] Several well known jazz musicians have performed with the group as either members or guests, including trumpeters Dave Douglas and Cuong Vu, saxophonist Chris Speed, and bassist Reid Anderson. George Schuller is the son of Gunther Schuller.[2][3]\n"
+   "rawData": [
+      "Orange Then Blue is an avant-garde big band from Boston, Massachusetts led by drummer George Schuller. Several well known jazz musicians have performed with the group as either members or guests, including trumpeters Dave Douglas and Cuong Vu, saxophonist Chris Speed, and bassist Reid Anderson. George Schuller is the son of Gunther Schuller.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,42 +1,9 @@
 {
    "Name": "Wooden Shjips",
-   "Sections": [
-      "1 Discography",
-      "1.1 Studio albums",
-      "1.2 Compilation albums",
-      "1.3 Singles and EPs",
-      "2 References",
-      "3 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Wooden Shjips (pronounced \"ships\") is an American experimental and psychedelic rock band from San Francisco, California.\n",
-         "Their sound has been described as experimental, minimalist,[2] drone rock,[3] and \"spacey psychedelic rock\".[4] They have been compared to Suicide, Spacemen 3, \nLoop, The Velvet Underground, The Doors, Soft Machine, Guru Guru, The Black Angels and many more.[5][4][2] They are signed to Thrill Jockey records.[6]\n",
-         "Guitarist Ripley Johnson also plays in two side projects, including Moon Duo, formed in 2009 with Sanae Yamada.[7] The project has released one EP and seven albums.\n",
-         "The group played at the 2010 All Tomorrow's Parties music festival in Monticello, New York in September 2010 at the request of film director Jim Jarmusch.\n",
-         "Johnson has also released solo music under the name Rose City Band.[8]\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Compilation albums": {},
-      "Singles and EPs": {
-         "text": [
-            "Self-released\n",
-            "via Sick Thirst\n",
-            "via Mexican Summer\n",
-            "via The Great Pop Supplement\n",
-            "via Sub Pop\n"
-         ]
-      }
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Wooden Shjips (pronounced \"ships\") is an American experimental and psychedelic rock band from San Francisco, California.\n",
-      "Their sound has been described as experimental, minimalist,[2] drone rock,[3] and \"spacey psychedelic rock\".[4] They have been compared to Suicide, Spacemen 3, \nLoop, The Velvet Underground, The Doors, Soft Machine, Guru Guru, The Black Angels and many more.[5][4][2] They are signed to Thrill Jockey records.[6]\n",
-      "Guitarist Ripley Johnson also plays in two side projects, including Moon Duo, formed in 2009 with Sanae Yamada.[7] The project has released one EP and seven albums.\n",
-      "The group played at the 2010 All Tomorrow's Parties music festival in Monticello, New York in September 2010 at the request of film director Jim Jarmusch.\n"
+      "Their sound has been described as experimental, minimalist, drone rock, and \"spacey psychedelic rock\". They have been compared to Suicide, Spacemen 3, \nLoop, The Velvet Underground, The Doors, Soft Machine, Guru Guru, The Black Angels and many more. They are signed to Thrill Jockey records.\n",
+      "Guitarist Ripley Johnson also plays in two side projects, including Moon Duo, formed in 2009 with Sanae Yamada. The project has released one EP and seven albums.\n"
    ],
    "infobox": {
       "Origin": [

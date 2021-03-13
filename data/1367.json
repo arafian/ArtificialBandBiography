@@ -1,54 +1,9 @@
 {
    "Name": "Bloody Panda",
-   "Sections": [
-      "1 History",
-      "1.1 Formation (2003-2004)",
-      "1.2 Touring (2005-2006)",
-      "1.3 Pheromone (2007)",
-      "1.4 Summon (2009-present)",
-      "2 Members",
-      "3 Former members",
-      "4 Discography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Bloody Panda is a doom metal[1][2] band based in New York City.\n"
-      ]
-   },
-   "History": {
-      "Formation (2003-2004)": {
-         "text": [
-            "The band was formed in 2003[3] by Yoshiko Ohara, an established visual artist based in Osaka, Japan, who \"decided to spend her savings on a trip to New York City, brand new recording equipment in tow, with the idea that she’d move to America to make music, this despite the unfortunate fact that she didn’t know how to play an instrument of any kind.\"[1] Ohara then posted advertisements for band members that read,[1] \"Seeking guitarist, bassist and drummer to form the biggest band in the world, as soon as possible. Must have dark personalities.\"[4] One such ad posted in a local record store,[4] caught the attention of trio Josh Rothenberger (guitar), Bryan Camphire (bass), and Blake McDowell (organ), who responded and subsequently joined Ohara's project, ultimately rounded out by \"respected jazz and world music drummer/percussion-ist/tabla-ist\"[4] Dan Weiss.[1]\n"
-         ]
-      },
-      "Touring (2005-2006)": {
-         "text": [
-            "Between 2005 and 2006, the quintet played around New York City opening for such diverse acts as Akron/Family, Genghis Tron, and Mouth of the Architect.[1] College Music Journal commented on Bloody Panda's live performances stating, \"Known for their daring stage shows, the band performs in executioner's hoods and robes to amplify their Yoko Ono-meets-Black Sabbath (or Sunn O)))-like) riff work.\"[5] The band released—through Holy Roar—a split album with avant-garde metal group Kayo Dot in early 2007,[6] and also recorded a cover of Eyehategod's \"Anxiety Hangover\" for the tribute album For the Sick. At this time, the debut album by the \"enigmatic metal band with the indie rock name\" had become one of the most anticipated full-lengths in 2007.[1][6]\n"
-         ]
-      },
-      "Pheromone (2007)": {
-         "text": [
-            "Produced by Jason Marcucci, who has previously worked with The Flaming Lips and The White Stripes, Bloody Panda's first full-length, Pheromone, was released in April 2007 by Level Plane Records, which had signed a recording contract with the band earlier in that year.[1][5] Decibel magazine defined the album as \"moody,\"[4] definition complemented by PopMatters writer Adrien Begrand, who stated, \"Singing in both English and Japanese, Ohara could be singing in Esperanto for all we care, as her melodic chants are often difficult to discern, but despite the fact that her lyrics to possess a poetic quality, Pheromone is more about mood than message, her vocals every bit as entrancing as the arrangement behind her.\"[1]\n"
-         ]
-      },
-      "Summon (2009-present)": {
-         "text": [
-            "Their second album, Summon, was released in 2009 on Profound Lore. Jonathan Horsley of Terrorizer commented that \"Bloody Panda may be too experimental to win your heart, but they demand your complete, undivided attention.\"[7]\n"
-         ]
-      }
-   },
-   "Members": {},
-   "Former members": {},
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Bloody Panda is a doom metal[1][2] band based in New York City.\n",
-      "The band was formed in 2003[3] by Yoshiko Ohara, an established visual artist based in Osaka, Japan, who \"decided to spend her savings on a trip to New York City, brand new recording equipment in tow, with the idea that she’d move to America to make music, this despite the unfortunate fact that she didn’t know how to play an instrument of any kind.\"[1] Ohara then posted advertisements for band members that read,[1] \"Seeking guitarist, bassist and drummer to form the biggest band in the world, as soon as possible. Must have dark personalities.\"[4] One such ad posted in a local record store,[4] caught the attention of trio Josh Rothenberger (guitar), Bryan Camphire (bass), and Blake McDowell (organ), who responded and subsequently joined Ohara's project, ultimately rounded out by \"respected jazz and world music drummer/percussion-ist/tabla-ist\"[4] Dan Weiss.[1]\n",
-      "Between 2005 and 2006, the quintet played around New York City opening for such diverse acts as Akron/Family, Genghis Tron, and Mouth of the Architect.[1] College Music Journal commented on Bloody Panda's live performances stating, \"Known for their daring stage shows, the band performs in executioner's hoods and robes to amplify their Yoko Ono-meets-Black Sabbath (or Sunn O)))-like) riff work.\"[5] The band released—through Holy Roar—a split album with avant-garde metal group Kayo Dot in early 2007,[6] and also recorded a cover of Eyehategod's \"Anxiety Hangover\" for the tribute album For the Sick. At this time, the debut album by the \"enigmatic metal band with the indie rock name\" had become one of the most anticipated full-lengths in 2007.[1][6]\n",
-      "Produced by Jason Marcucci, who has previously worked with The Flaming Lips and The White Stripes, Bloody Panda's first full-length, Pheromone, was released in April 2007 by Level Plane Records, which had signed a recording contract with the band earlier in that year.[1][5] Decibel magazine defined the album as \"moody,\"[4] definition complemented by PopMatters writer Adrien Begrand, who stated, \"Singing in both English and Japanese, Ohara could be singing in Esperanto for all we care, as her melodic chants are often difficult to discern, but despite the fact that her lyrics to possess a poetic quality, Pheromone is more about mood than message, her vocals every bit as entrancing as the arrangement behind her.\"[1]\n"
+   "rawData": [
+      "Bloody Panda is a doom metal band based in New York City.\n",
+      "The band was formed in 2003 by Yoshiko Ohara, an established visual artist based in Osaka, Japan, who \"decided to spend her savings on a trip to New York City, brand new recording equipment in tow, with the idea that she’d move to America to make music, this despite the unfortunate fact that she didn’t know how to play an instrument of any kind.\" Ohara then posted advertisements for band members that read, \"Seeking guitarist, bassist and drummer to form the biggest band in the world, as soon as possible. Must have dark personalities.\" One such ad posted in a local record store, caught the attention of trio Josh Rothenberger (guitar), Bryan Camphire (bass), and Blake McDowell (organ), who responded and subsequently joined Ohara's project, ultimately rounded out by \"respected jazz and world music drummer/percussion-ist/tabla-ist\" Dan Weiss.\n",
+      "Between 2005 and 2006, the quintet played around New York City opening for such diverse acts as Akron/Family, Genghis Tron, and Mouth of the Architect. College Music Journal commented on Bloody Panda's live performances stating, \"Known for their daring stage shows, the band performs in executioner's hoods and robes to amplify their Yoko Ono-meets-Black Sabbath (or Sunn O)))-like) riff work.\" The band released—through Holy Roar—a split album with avant-garde metal group Kayo Dot in early 2007, and also recorded a cover of Eyehategod's \"Anxiety Hangover\" for the tribute album For the Sick. At this time, the debut album by the \"enigmatic metal band with the indie rock name\" had become one of the most anticipated full-lengths in 2007.\n"
    ],
    "infobox": {
       "Origin": [

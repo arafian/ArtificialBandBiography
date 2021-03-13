@@ -1,51 +1,9 @@
 {
    "Name": "Chicano Batman",
-   "Sections": [
-      "1 Biography",
-      "1.1 Musical Influences",
-      "2 Discography",
-      "2.1 Singles and EPs",
-      "2.2 Albums",
-      "3 Members",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Chicano Batman is a four-piece American band based in Los Angeles, California.[2][3][4][5] Formed in 2008,  the band is composed of Eduardo Arenas (bass, guitar, vocals), Carlos Arévalo (guitars, keyboards), Bardo Martinez (lead vocals, keyboards, guitar) and Gabriel Villa (drums). The group's sound draws from a mix of genres ranging from psychedelic soul, funk, indie, prog, and rock.[6]\n"
-      ]
-   },
-   "Biography": {
-      "Musical Influences": {
-         "text": [
-            "\nIn interviews, guitarist Carlos Arévalo points to band members' bonding over 1960s Brazilian artists Caetano Veloso and Tropicália music.[11] The band's signature funky style can be attributed to their musical influences, The Beatles and Black soul musicians Curtis Mayfield and the Delfonics.[11] "
-         ]
-      },
-      "text": [
-         "Chicano Batman was formed in 2008.[1] NPR's Alt.Latino referred to the band's music as one of the show's and listener's favorites of 2014.[3][4] Chicano Batman provided support for select dates on the January–February leg of Jack White's Lazaretto Tour 2015.[1][5][7] In April 2015, the band performed on Day 3 (April 12 & 19) for both weekends of the Coachella Valley Music and Arts Festival.[1][5][7][8] In July 2015, Chicano Batman performed at Ruido Fest.[9] As of 2017, the band has played at Bonnaroo (2016) and LouFest (2016), as well as both weekends of Coachella (2017), Sasquatch! Music Festival (2017), the Forecastle Festival (2017), FYF (2017), Beer X (2017).\n",
-         "Chicano Batman made their late night television debut on Conan in 2017.[10]\n",
-         "They star in a 2017 commercial for Johnnie Walker Scotch whisky, singing \"This Land is Your Land.\"\n"
-      ]
-   },
-   "Discography": {
-      "Singles and EPs": {},
-      "Albums": {},
-      "text": [
-         "Source:[12]\n"
-      ]
-   },
-   "Members": {
-      "text": [
-         "Source:[2][6]\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Chicano Batman is a four-piece American band based in Los Angeles, California.[2][3][4][5] Formed in 2008,  the band is composed of Eduardo Arenas (bass, guitar, vocals), Carlos Arévalo (guitars, keyboards), Bardo Martinez (lead vocals, keyboards, guitar) and Gabriel Villa (drums). The group's sound draws from a mix of genres ranging from psychedelic soul, funk, indie, prog, and rock.[6]\n",
-      "Chicano Batman was formed in 2008.[1] NPR's Alt.Latino referred to the band's music as one of the show's and listener's favorites of 2014.[3][4] Chicano Batman provided support for select dates on the January–February leg of Jack White's Lazaretto Tour 2015.[1][5][7] In April 2015, the band performed on Day 3 (April 12 & 19) for both weekends of the Coachella Valley Music and Arts Festival.[1][5][7][8] In July 2015, Chicano Batman performed at Ruido Fest.[9] As of 2017, the band has played at Bonnaroo (2016) and LouFest (2016), as well as both weekends of Coachella (2017), Sasquatch! Music Festival (2017), the Forecastle Festival (2017), FYF (2017), Beer X (2017).\n",
-      "Chicano Batman made their late night television debut on Conan in 2017.[10]\n",
-      "They star in a 2017 commercial for Johnnie Walker Scotch whisky, singing \"This Land is Your Land.\"\n"
+   "rawData": [
+      "Chicano Batman is a four-piece American band based in Los Angeles, California. Formed in 2008,  the band is composed of Eduardo Arenas (bass, guitar, vocals), Carlos Arévalo (guitars, keyboards), Bardo Martinez (lead vocals, keyboards, guitar) and Gabriel Villa (drums). The group's sound draws from a mix of genres ranging from psychedelic soul, funk, indie, prog, and rock.\n",
+      "Chicano Batman was formed in 2008. NPR's Alt.Latino referred to the band's music as one of the show's and listener's favorites of 2014. Chicano Batman provided support for select dates on the January–February leg of Jack White's Lazaretto Tour 2015. In April 2015, the band performed on Day 3 (April 12 & 19) for both weekends of the Coachella Valley Music and Arts Festival. In July 2015, Chicano Batman performed at Ruido Fest. As of 2017, the band has played at Bonnaroo (2016) and LouFest (2016), as well as both weekends of Coachella (2017), Sasquatch! Music Festival (2017), the Forecastle Festival (2017), FYF (2017), Beer X (2017).\n",
+      "Chicano Batman made their late night television debut on Conan in 2017.\n"
    ],
    "infobox": {
       "Origin": [

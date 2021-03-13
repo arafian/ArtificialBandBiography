@@ -1,41 +1,9 @@
 {
    "Name": "Charizma (band)",
-   "Sections": [
-      "1 Members",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 Singles",
-      "3 Chart positions",
-      "4 Videography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Charizma is a rock band formed in Oskarshamn, Sweden, where they are still based. Founded by the three brothers Bo, Jan  and Göran Nikolausson, the band now also includes Johan Mauritzson and Thomas Karlsson.\n",
-         "Starting out as a hard rock trio, Charizma is now a radio-friendly rock band focusing on melodies and strong vocal elements.\n",
-         "The band also performed in the pre-selections for Eurovision Song Contest in 2004 in Estonia (Eurolaul)[1] and in 2007 in Poland (Piosenka dla Europy 2007).[2]\n",
-         "Charizma has toured all over the world including USA, UK, Germany, Australia, Switzerland, Austria, Liechtenstein, Estonia, Poland, Sweden, Finland, Norway, Denmark, The Netherlands and Faroe Islands.\n"
-      ]
-   },
-   "Members": {
-      "text": [
-         "Until 1994, lead vocals were performed by Bo Nikolausson. Between 1991 and 1994, Johan Mauritzson played keyboards with the band, but was not an official member.\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "Singles": {}
-   },
-   "Chart positions": {},
-   "Videography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Charizma is a rock band formed in Oskarshamn, Sweden, where they are still based. Founded by the three brothers Bo, Jan  and Göran Nikolausson, the band now also includes Johan Mauritzson and Thomas Karlsson.\n",
       "Starting out as a hard rock trio, Charizma is now a radio-friendly rock band focusing on melodies and strong vocal elements.\n",
-      "The band also performed in the pre-selections for Eurovision Song Contest in 2004 in Estonia (Eurolaul)[1] and in 2007 in Poland (Piosenka dla Europy 2007).[2]\n",
-      "Charizma has toured all over the world including USA, UK, Germany, Australia, Switzerland, Austria, Liechtenstein, Estonia, Poland, Sweden, Finland, Norway, Denmark, The Netherlands and Faroe Islands.\n"
+      "The band also performed in the pre-selections for Eurovision Song Contest in 2004 in Estonia (Eurolaul) and in 2007 in Poland (Piosenka dla Europy 2007).\n"
    ],
    "infobox": {
       "Origin": [

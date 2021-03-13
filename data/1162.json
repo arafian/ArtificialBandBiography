@@ -1,40 +1,9 @@
 {
    "Name": "Dead Meadow",
-   "Sections": [
-      "1 Biography",
-      "2 Band members",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Dead Meadow is an American psychedelic rock band, formed in Washington, D.C. in 1998 and currently composed of vocalist and guitarist Jason Simon, bassist Steve Kille, and drummer Mark Laughlin. The band have released seven studio albums, two live albums, and a Peel Session.\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "Dead Meadow formed in 1998 from the remnants of two local DC bands, The Impossible Five and Colour.[1] The band started as Jason Simon on vocals and guitar, Steve Kille on bass, and Mark Laughlin on drums. They combined 70's heavy metal and 60's psychedelic rock with themes from authors such as J. R. R. Tolkien and H. P. Lovecraft.[1] The first album, Dead Meadow, was released in 2000 on Tolotta Records, a label run by Fugazi bassist Joe Lally. The vinyl LP version was released by Planaria Records. This was followed by 2001's Howls from the Hills, also released on Tolotta Records.\n",
-         "Having heard the band's first album, John Peel asked the band to record a Peel Session. Unable to afford to tour internationally, the band recorded their session in Fugazi's home studio using an 8-track recorder previously owned by Minor Threat, the first time a Peel Session was recorded outside the BBC studios.[2] Primarily featuring energetic versions of songs from their first two albums, Dead Meadow's session was officially released in 2011 as Peel Sessions, and includes two additional tracks recorded during the same period.[3]\n",
-         "In Spring 2002, Laughlin left the band in order to attend law school and pursue a career as a lawyer. He was replaced by long-time friend and former Canyon drummer Stephen McCarty. In mid 2002, the band released the live album, Got Live If You Want It, which documented one of the last shows with Laughlin and was produced, mixed and released by Anton Newcombe of Brian Jonestown Massacre.[4] In early 2003 the band signed to Matador Records and released Shivering King and Others. Along with the heavy song and blues-influenced songs as on the previous two records, the band continued in their psychedelic style, with acoustic elements and ballads. With the addition of second guitarist Cory Shane, Feathers was released in 2005.\n",
-         "The band's music was used briefly in both the season four premiere \"Boys of Summer\" and the season five episode \"React Quotes\" of The Wire. Simon is the nephew of the series creator David Simon.[5]\n",
-         "In 2007, the band reverted to a three piece. They performed at the Green Man Festival in the UK and relocated from Washington, D.C. to Los Angeles, California.\n",
-         "In early 2008, the band released Old Growth on Matador Records. A collection of songs that brought the band back initially to the same farm where their second release Howls from the Hills was created and eventually finished up at the Sunset Sound studio in Los Angeles. As with the last three albums, Old Growth was produced by bassist Steve Kille.\n",
-         "Following a brief session with Andrew Stockdale of Wolfmother, a reinterpretation of the band's song \"Everything's Goin' On\" was released as \"Pilgrim\" on Wolfmother's second album \"Cosmic Egg\".[6]\n",
-         "In March 2010 the band released a live film and soundtrack, Three Kings, which was recorded at the final show of the band's five-month \"Old Growth\" tour. The film premiered at the Hollywood Forever Cemetery in Los Angeles, California[7] and was released on their own record label Xemu Records. The film was directed by Simon Chan & Joe Rubalcaba of Artificial Army.\n",
-         "In August 2010, it was announced that original drummer Mark Laughlin had re-joined the band and were confirmed to play two dates in the U.S and a tour of Australia.[8] In January 2011, Laughlin postponed his career in law to rejoin the band permanently and tour Europe and the Pacific Northwest of the U.S. The band released Warble Womb in November 2013, their first new album to feature Laughlin since 2002. The album was released on the band's own label Xemu Records.\n",
-         "Although not officially announced, it was revealed in February 2016 that Laughlin (taking a break from touring) had been replaced by Juan Londono, formerly of Strangers Family Band.[9]\n"
-      ]
-   },
-   "Band members": {},
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Dead Meadow is an American psychedelic rock band, formed in Washington, D.C. in 1998 and currently composed of vocalist and guitarist Jason Simon, bassist Steve Kille, and drummer Mark Laughlin. The band have released seven studio albums, two live albums, and a Peel Session.\n",
-      "Dead Meadow formed in 1998 from the remnants of two local DC bands, The Impossible Five and Colour.[1] The band started as Jason Simon on vocals and guitar, Steve Kille on bass, and Mark Laughlin on drums. They combined 70's heavy metal and 60's psychedelic rock with themes from authors such as J. R. R. Tolkien and H. P. Lovecraft.[1] The first album, Dead Meadow, was released in 2000 on Tolotta Records, a label run by Fugazi bassist Joe Lally. The vinyl LP version was released by Planaria Records. This was followed by 2001's Howls from the Hills, also released on Tolotta Records.\n",
-      "Having heard the band's first album, John Peel asked the band to record a Peel Session. Unable to afford to tour internationally, the band recorded their session in Fugazi's home studio using an 8-track recorder previously owned by Minor Threat, the first time a Peel Session was recorded outside the BBC studios.[2] Primarily featuring energetic versions of songs from their first two albums, Dead Meadow's session was officially released in 2011 as Peel Sessions, and includes two additional tracks recorded during the same period.[3]\n",
-      "In Spring 2002, Laughlin left the band in order to attend law school and pursue a career as a lawyer. He was replaced by long-time friend and former Canyon drummer Stephen McCarty. In mid 2002, the band released the live album, Got Live If You Want It, which documented one of the last shows with Laughlin and was produced, mixed and released by Anton Newcombe of Brian Jonestown Massacre.[4] In early 2003 the band signed to Matador Records and released Shivering King and Others. Along with the heavy song and blues-influenced songs as on the previous two records, the band continued in their psychedelic style, with acoustic elements and ballads. With the addition of second guitarist Cory Shane, Feathers was released in 2005.\n"
+      "Dead Meadow formed in 1998 from the remnants of two local DC bands, The Impossible Five and Colour. The band started as Jason Simon on vocals and guitar, Steve Kille on bass, and Mark Laughlin on drums. They combined 70's heavy metal and 60's psychedelic rock with themes from authors such as J. R. R. Tolkien and H. P. Lovecraft. The first album, Dead Meadow, was released in 2000 on Tolotta Records, a label run by Fugazi bassist Joe Lally. The vinyl LP version was released by Planaria Records. This was followed by 2001's Howls from the Hills, also released on Tolotta Records.\n",
+      "Having heard the band's first album, John Peel asked the band to record a Peel Session. Unable to afford to tour internationally, the band recorded their session in Fugazi's home studio using an 8-track recorder previously owned by Minor Threat, the first time a Peel Session was recorded outside the BBC studios. Primarily featuring energetic versions of songs from their first two albums, Dead Meadow's session was officially released in 2011 as Peel Sessions, and includes two additional tracks recorded during the same period.\n"
    ],
    "infobox": {
       "Origin": [

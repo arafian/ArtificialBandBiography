@@ -1,54 +1,31 @@
 {
-   "Name": "Pond (American band)",
-   "Sections": [
-      "1 Members",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 Singles/EPs",
-      "2.3 Compilation Appearances",
-      "3 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Pond was a band from Portland, Oregon. They formed in 1991 and broke up in 1998.  They were signed to Sub Pop (first two albums) and the Work Group records sub-label of Sony Records (last album).\n",
-         "On October 23, 2010, Pond reunited for a show to commemorate the closing of Portland club Satyricon.\n"
-      ]
-   },
-   "Members": {},
-   "Discography": {
-      "Albums": {},
-      "Singles/EPs": {},
-      "Compilation Appearances": {}
-   },
-   "External links": {},
-   "coreData": [
-      "Pond was a band from Portland, Oregon. They formed in 1991 and broke up in 1998.  They were signed to Sub Pop (first two albums) and the Work Group records sub-label of Sony Records (last album).\n",
-      "On October 23, 2010, Pond reunited for a show to commemorate the closing of Portland club Satyricon.\n",
-      "This article about a United States alternative rock band is a stub. You can help Wikipedia by expanding it."
+   "Name": "Nena Daconte",
+   "rawData": [
+      "Nena Daconte (Spanish pronunciation: ) is a Spanish pop band created and led by singer and composer Mai Meneses in Barcelona circa 2005. The band takes its name inspired by a character from the short story \"The Trail Of Your Blood On The Snow\", by Gabriel García Márquez.\n",
+      " \n\"The Trail of Your Blood in the Snow\" depicts the opposite extreme of the social spectrum. Billy Sánchez, the spoiled son of a rich Colombian, is honeymooning with his bride, Nena Daconte, in Europe, when the girl inexplicably pricks herself with a thorn and bleeds to death. When the wound initially occurs, Billy is too self-absorbed to pay much attention, but he finally realizes that something is seriously wrong and deposits his young wife in a hospital in Paris.                                                                                                                                        ",
+      "Fanlo left the formation and Mai Meneses continues as the lead singer and songwriter of Nena Daconte.  Before the creation of Nena Daconte, Mai Meneses participated in the second edition of a Spanish TV singing contest called Operacion Triunfo.\n"
    ],
    "infobox": {
+      "Also known as": [
+         "Mai Meneses"
+      ],
       "Origin": [
-         "Portland, Oregon, USA"
+         "Madrid, Barcelona "
       ],
       "Genres": [
-         "Alternative rock",
-         "Grunge"
+         "Pop"
       ],
       "Years active": [
-         "1991–1998, 2010"
+         "2004–present"
       ],
       "Labels": [
-         "Sub Pop",
-         "WORK Group"
+         "Universal Music Spain"
       ],
-      "Associated acts": [
-         "Audio Learning Center",
-         "Goldcard"
+      "Website": [
+         "www.nenadaconte.com"
       ],
-      "Past members": [
-         "Charlie Campbell",
-         "Chris Brady",
-         "David Triebwasser"
+      "Members": [
+         "Mai Meneses (Vocals, Composer & Writer)"
       ]
    }
 }

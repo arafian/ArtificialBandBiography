@@ -1,45 +1,9 @@
 {
    "Name": "Toronto Police Pipe Band",
-   "Sections": [
-      "1 History",
-      "2 Pipe Majors",
-      "3 Leading Drummers",
-      "4 Organization",
-      "5 Discography",
-      "6 References",
-      "7 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Toronto Police Pipe Band is a Canadian pipe band organization based in Toronto, Ontario, Canada directly composed of bands in grade 1 and grade 2; and 3 and 5 through its youth affiliate, Ryan Russell Memorial.  The band performs at parades, festivals, ceremonies and funerals on behalf of the Toronto Police Service,[1][2] and participates internationally in piping competitions.[3]\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The Toronto Police Pipe Band was founded in 1912.[4] The band was originally formed for local parades and events, and later participated in recruiting drives during World War I. The band was forced to temporarily halt operations soon after the start of World War II, and would not parade until 1960. After the sponsoring force's amalgamation with 12 other municipalities, the band renamed itself to the Metropolitan Toronto Police Pipe Band.\n",
-         "In the 1970s, the band began competing, sanctioned in grade 2. The band managed to win 1st place in their division at the Cowal Gathering. Sometime after, the band was promoted to the premier grade. Following Metropolitan Toronto's amalgamation, the band adopted its current name.\n",
-         "Toronto Police has won the grade 1 North American Championship at the Glengarry Highland Games a total of 3 times in 1996, 2004 and 2006. In 2006, the band won the American, Canadian and North American Championships.\n",
-         "In 2008 the band competed with a non-traditional medley titled \"Variations on a Theme of Good Intentions\". In contrast from traditional medley compositions commonly fielded, this set was constructed as a suite on a theme rather than separate tunes. The set was composed for pipes by Michael Grey, brought in as pipe sergeant,[5] under then-pipe major Ian K. MacDonald. Grey previously occupied the position of pipe major at the Peel Regional Police Pipe Band, and as pipe sergeant and player with the 78th Fraser Highlanders Pipe Band when they won the World Pipe Band Championships in 1987.\n",
-         "Grey continued to write competition medleys and other music in his position[6] until departing in the 2013 season to play with the Glasgow Police Pipe Band.\n",
-         "The band has not competed since the departure of its last drum sergeant Craig Stewart in 2018 and the commencement of their ongoing search for a leading-drummer. Consequently, incumbent Pipe Major Sean McKeown and Pipe Sergeant Ian K. MacDonald, a Detective Constable and Detective respectively within the Toronto Police Service,[7] played with the Field Marshal Montgomery Pipe Band the following season in 2019.[8]\n"
-      ]
-   },
-   "Pipe Majors": {},
-   "Leading Drummers": {},
-   "Organization": {
-      "text": [
-         "Besides fielding its premier competition band in grade 1, the Toronto Police Pipe Band operates another band in grade 2. The band also instructs 2 juvenile bands in grade 3 and grade 5 through the Ryan Russell Pipe Band.[19]\n",
-         "Prior to the grade 2 band's upgrade in 2019, it placed 6th at the 2018 Worlds in grade 3B and won the best drumming award in that section.[20]\n"
-      ]
-   },
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "The Toronto Police Pipe Band is a Canadian pipe band organization based in Toronto, Ontario, Canada directly composed of bands in grade 1 and grade 2; and 3 and 5 through its youth affiliate, Ryan Russell Memorial.  The band performs at parades, festivals, ceremonies and funerals on behalf of the Toronto Police Service,[1][2] and participates internationally in piping competitions.[3]\n",
-      "The Toronto Police Pipe Band was founded in 1912.[4] The band was originally formed for local parades and events, and later participated in recruiting drives during World War I. The band was forced to temporarily halt operations soon after the start of World War II, and would not parade until 1960. After the sponsoring force's amalgamation with 12 other municipalities, the band renamed itself to the Metropolitan Toronto Police Pipe Band.\n",
-      "In the 1970s, the band began competing, sanctioned in grade 2. The band managed to win 1st place in their division at the Cowal Gathering. Sometime after, the band was promoted to the premier grade. Following Metropolitan Toronto's amalgamation, the band adopted its current name.\n",
-      "Toronto Police has won the grade 1 North American Championship at the Glengarry Highland Games a total of 3 times in 1996, 2004 and 2006. In 2006, the band won the American, Canadian and North American Championships.\n"
+   "rawData": [
+      "The Toronto Police Pipe Band is a Canadian pipe band organization based in Toronto, Ontario, Canada directly composed of bands in grade 1 and grade 2; and 3 and 5 through its youth affiliate, Ryan Russell Memorial.  The band performs at parades, festivals, ceremonies and funerals on behalf of the Toronto Police Service, and participates internationally in piping competitions.\n",
+      "The Toronto Police Pipe Band was founded in 1912. The band was originally formed for local parades and events, and later participated in recruiting drives during World War I. The band was forced to temporarily halt operations soon after the start of World War II, and would not parade until 1960. After the sponsoring force's amalgamation with 12 other municipalities, the band renamed itself to the Metropolitan Toronto Police Pipe Band.\n",
+      "In the 1970s, the band began competing, sanctioned in grade 2. The band managed to win 1st place in their division at the Cowal Gathering. Sometime after, the band was promoted to the premier grade. Following Metropolitan Toronto's amalgamation, the band adopted its current name.\n"
    ],
    "infobox": {
       "Established": [

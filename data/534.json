@@ -1,34 +1,9 @@
 {
    "Name": "JSD Band",
-   "Sections": [
-      "1 The band",
-      "2 Select album discography",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The JSD Band was an influential Scottish-based Celtic and folk rock band primarily active from 1969 to 1974 and then again briefly from 1997 to 1998. The band released five full-length albums, and numerous singles and special releases, many of which are still sought after by collectors from around the world.\n"
-      ]
-   },
-   "The band": {
-      "text": [
-         "The JSD Band formed in 1969 and derived its name from the first letter of the first name of each of its three founding members: Jim Divers, Sean O’Rourke, and Des Coffield.[1] Chuck Fleming and Colin Finn also joined the group rounding out the five-member lineup. Additionally, fiddle player Lindsay Scott temporarily filled in for Chuck Fleming in 1972.\n",
-         "Initially, the band played the folk-club circuit with other artists such as Billy Connolly and Gerry Rafferty of the Humblebums and Barbara Dickson. After getting noticed for their lively electric-rock approach to traditional Scottish folk music when they won the Scottish Folk Group Championships at Edinburgh's Usher Hall, they made appearances on BBC Radio 1 with DJ John Peel and on BBC Two's Old Grey Whistle Test hosted by \"Whispering\" Bob Harris. In 1972, they were invited to be the support band for David Bowie during his UK leg of the Ziggy Stardust Tour.\n",
-         "In 1971, the JSD Band released its first album entitled Country of the Blind on the Regal Zonophone label.[2] Two albums on Cube Records would follow: JSD Band (commonly referred to as The Black Album; 1972) and Travelling Days (1973).\n",
-         "Following the release of 1973's album, Travelling Days, the group issued three singles: \"Sarah Jane/Paddy Stacks\" (1973), \"Sunshine Life For Me (Sail Away Raymond)/Reel Call\" (1974), and \"Hayes and Harlington Blues/Cuckoo\" (1974). In July 1974, pressure from various sources took its toll and the band disbanded.\n",
-         "The JSD Band reunited for a short stint from 1997 to 1998 and released two additional albums on KRL Records (a Glasgow-based label specialising in Scottish traditional music): 1997's For the Record which consisted of newly recorded acoustic versions of previously released material and 1998's Pastures of Plenty which consisted of new material featuring long-time friend of the group, Rob Mairs, on five-string banjo.\n",
-         "In 2013, the band reformed and began playing again with all the original members and Rob Mairs guesting.\n"
-      ]
-   },
-   "Select album discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The JSD Band was an influential Scottish-based Celtic and folk rock band primarily active from 1969 to 1974 and then again briefly from 1997 to 1998. The band released five full-length albums, and numerous singles and special releases, many of which are still sought after by collectors from around the world.\n",
-      "The JSD Band formed in 1969 and derived its name from the first letter of the first name of each of its three founding members: Jim Divers, Sean O’Rourke, and Des Coffield.[1] Chuck Fleming and Colin Finn also joined the group rounding out the five-member lineup. Additionally, fiddle player Lindsay Scott temporarily filled in for Chuck Fleming in 1972.\n",
-      "Initially, the band played the folk-club circuit with other artists such as Billy Connolly and Gerry Rafferty of the Humblebums and Barbara Dickson. After getting noticed for their lively electric-rock approach to traditional Scottish folk music when they won the Scottish Folk Group Championships at Edinburgh's Usher Hall, they made appearances on BBC Radio 1 with DJ John Peel and on BBC Two's Old Grey Whistle Test hosted by \"Whispering\" Bob Harris. In 1972, they were invited to be the support band for David Bowie during his UK leg of the Ziggy Stardust Tour.\n",
-      "In 1971, the JSD Band released its first album entitled Country of the Blind on the Regal Zonophone label.[2] Two albums on Cube Records would follow: JSD Band (commonly referred to as The Black Album; 1972) and Travelling Days (1973).\n"
+      "The JSD Band formed in 1969 and derived its name from the first letter of the first name of each of its three founding members: Jim Divers, Sean O’Rourke, and Des Coffield. Chuck Fleming and Colin Finn also joined the group rounding out the five-member lineup. Additionally, fiddle player Lindsay Scott temporarily filled in for Chuck Fleming in 1972.\n",
+      "Initially, the band played the folk-club circuit with other artists such as Billy Connolly and Gerry Rafferty of the Humblebums and Barbara Dickson. After getting noticed for their lively electric-rock approach to traditional Scottish folk music when they won the Scottish Folk Group Championships at Edinburgh's Usher Hall, they made appearances on BBC Radio 1 with DJ John Peel and on BBC Two's Old Grey Whistle Test hosted by \"Whispering\" Bob Harris. In 1972, they were invited to be the support band for David Bowie during his UK leg of the Ziggy Stardust Tour.\n"
    ],
    "infobox": {
       "Origin": [

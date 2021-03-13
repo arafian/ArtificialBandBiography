@@ -1,57 +1,9 @@
 {
    "Name": "The Expendables (American band)",
-   "Sections": [
-      "1 Musical career",
-      "2 2012-present",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 EP's/Live/Acoustic albums",
-      "4 Lineup",
-      "4.1 Current members",
-      "4.2 Past members",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Expendables are an American reggae rock band from Santa Cruz, California.\n"
-      ]
-   },
-   "Musical career": {
-      "text": [
-         "Their music is a diverse mix of styles,[2] including reggae, ska, surf rock, and punk rock.[3][4] Members include Geoff Weers (guitars and vocals), Adam Patterson (drums and vocals), Raul Bianchi (lead guitar) and Ryan DeMars (bass).[5] The band was formed in 1997. In 2003 they had their own radio show, Locals Only, on radio station KMBY.[6] In 2005, they contributed to a compilation album that was a fundraising effort for the USA junior surfing team.[7] The 2005 film XXX Rated: A Year in the Life of a Santa Cruz Phenomenon follows the band during some of their touring.[8]\n",
-         "Some notable hits include \"Keef Bowl for Two\" and \"Sacrifice\"[9] from the album Gettin' Filthy, the latter being available as a playable song in the music video game Guitar Hero World Tour (also as Guitar Hero 4), and \"Down, Down, Down\" from the self-titled album The Expendables, and the album  Gettin Filthy.  The Expendables have toured with such acts as 311, Pepper, Slightly Stoopid, Kottonmouth Kings, Less Than Jake,  G. Love & Special Sauce, and Reel Big Fish. The band is signed to the record label Stoopid Records,[9] which is owned by Slightly Stoopid. They have funded their own headlining tours across the country as well. The Expendables have released six albums in their career. They also headlined the Ladera Skateboards Winter Blackout 2012 Tour along with Fortunate Youth, MTHDS & The Roots.\n"
-      ]
-   },
-   "2012-present": {
-      "text": [
-         "On April 21, 2012, The Expendables released a new single, \"Back Home Again\" for Record Store Day, recorded during their acoustic sessions. On May 15 2012, the band released their first acoustic album, titled Gone Soft, which included acoustic versions of their older songs. \n",
-         "In early 2013, they also began playing another new song live, titled \"Black Heart\".\n",
-         "Raul Bianchi explained in an interview with Monday Magazine about the possibilities of a split album with themselves: \"One of the things we've thought about doing is a split with ourselves, where we do two EPs in one: one all metal and one all reggae. And one of the ideas we approached was doing newer versions of some songs. Like maybe doing heavier versions of some of our reggae songs and doing reggae versions of some more rock or metal songs. We don't really have time for it right now, but it's something that we're definitely considering.\"\n",
-         "On January 13, 2015, the band's sixth studio album Sand in the Sky was made available for purchase. They have released two singles from it titled: \"Starry Night\" and \"Music Move Me\".\n",
-         "On May 5, 2017, the band released their EP, Moment, which featured the lead single \"I Won't Give Up\", featuring HIRIE. The album debuted at number one on the Billboard Reggae chart.[10]\n",
-         "The Expendables released their second acoustic album, Gone Raw on December 6, 2019. They also released a live album titled Live From Hollywood on September 18, 2020.\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "EP's/Live/Acoustic albums": {}
-   },
-   "Lineup": {
-      "Current members": {},
-      "Past members": {
-         "text": [
-            "Vito Chairamonte\n"
-         ]
-      }
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Expendables are an American reggae rock band from Santa Cruz, California.\n",
-      "Their music is a diverse mix of styles,[2] including reggae, ska, surf rock, and punk rock.[3][4] Members include Geoff Weers (guitars and vocals), Adam Patterson (drums and vocals), Raul Bianchi (lead guitar) and Ryan DeMars (bass).[5] The band was formed in 1997. In 2003 they had their own radio show, Locals Only, on radio station KMBY.[6] In 2005, they contributed to a compilation album that was a fundraising effort for the USA junior surfing team.[7] The 2005 film XXX Rated: A Year in the Life of a Santa Cruz Phenomenon follows the band during some of their touring.[8]\n",
-      "Some notable hits include \"Keef Bowl for Two\" and \"Sacrifice\"[9] from the album Gettin' Filthy, the latter being available as a playable song in the music video game Guitar Hero World Tour (also as Guitar Hero 4), and \"Down, Down, Down\" from the self-titled album The Expendables, and the album  Gettin Filthy.  The Expendables have toured with such acts as 311, Pepper, Slightly Stoopid, Kottonmouth Kings, Less Than Jake,  G. Love & Special Sauce, and Reel Big Fish. The band is signed to the record label Stoopid Records,[9] which is owned by Slightly Stoopid. They have funded their own headlining tours across the country as well. The Expendables have released six albums in their career. They also headlined the Ladera Skateboards Winter Blackout 2012 Tour along with Fortunate Youth, MTHDS & The Roots.\n",
-      "On April 21, 2012, The Expendables released a new single, \"Back Home Again\" for Record Store Day, recorded during their acoustic sessions. On May 15 2012, the band released their first acoustic album, titled Gone Soft, which included acoustic versions of their older songs. \n"
+      "Their music is a diverse mix of styles, including reggae, ska, surf rock, and punk rock. Members include Geoff Weers (guitars and vocals), Adam Patterson (drums and vocals), Raul Bianchi (lead guitar) and Ryan DeMars (bass). The band was formed in 1997. In 2003 they had their own radio show, Locals Only, on radio station KMBY. In 2005, they contributed to a compilation album that was a fundraising effort for the USA junior surfing team. The 2005 film XXX Rated: A Year in the Life of a Santa Cruz Phenomenon follows the band during some of their touring.\n",
+      "Some notable hits include \"Keef Bowl for Two\" and \"Sacrifice\" from the album Gettin' Filthy, the latter being available as a playable song in the music video game Guitar Hero World Tour (also as Guitar Hero 4), and \"Down, Down, Down\" from the self-titled album The Expendables, and the album  Gettin Filthy.  The Expendables have toured with such acts as 311, Pepper, Slightly Stoopid, Kottonmouth Kings, Less Than Jake,  G. Love & Special Sauce, and Reel Big Fish. The band is signed to the record label Stoopid Records, which is owned by Slightly Stoopid. They have funded their own headlining tours across the country as well. The Expendables have released six albums in their career. They also headlined the Ladera Skateboards Winter Blackout 2012 Tour along with Fortunate Youth, MTHDS & The Roots.\n"
    ],
    "infobox": {
       "Origin": [

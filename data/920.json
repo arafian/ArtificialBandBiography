@@ -1,26 +1,7 @@
 {
    "Name": "Tribal Tech",
-   "Sections": [
-      "1 Personnel",
-      "2 Discography",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Tribal Tech is a progressive fusion band, originally formed in 1984 by guitarist Scott Henderson and bass player Gary Willis.[1] From 1993 forward the band included Scott Kinsey on keyboard and Kirk Covington on drums, and has produced nine albums that stretch the borders between blues, jazz, and rock. The band dissolved following the release of 2000's Rocket Science, with the various members pursuing solo careers. However, they re-formed to release another album, X, in 2012.\n"
-      ]
-   },
-   "Personnel": {
-      "text": [
-         "Members:\n"
-      ]
-   },
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Tribal Tech is a progressive fusion band, originally formed in 1984 by guitarist Scott Henderson and bass player Gary Willis.[1] From 1993 forward the band included Scott Kinsey on keyboard and Kirk Covington on drums, and has produced nine albums that stretch the borders between blues, jazz, and rock. The band dissolved following the release of 2000's Rocket Science, with the various members pursuing solo careers. However, they re-formed to release another album, X, in 2012.\n",
+   "rawData": [
+      "Tribal Tech is a progressive fusion band, originally formed in 1984 by guitarist Scott Henderson and bass player Gary Willis. From 1993 forward the band included Scott Kinsey on keyboard and Kirk Covington on drums, and has produced nine albums that stretch the borders between blues, jazz, and rock. The band dissolved following the release of 2000's Rocket Science, with the various members pursuing solo careers. However, they re-formed to release another album, X, in 2012.\n",
       "Members:\n"
    ],
    "infobox": {

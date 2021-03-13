@@ -1,55 +1,9 @@
 {
    "Name": "Omen (band)",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "2.1 Current line-up",
-      "2.2 Previous members",
-      "2.3 Timeline",
-      "3 Discography",
-      "3.1 Studio",
-      "3.2 Live",
-      "3.3 EPs",
-      "3.4 Compilations",
-      "3.5 Box sets",
-      "3.6 Video albums",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Omen is an American heavy metal band.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The band was formed in Los Angeles, California in 1983 by lead guitarist Kenny Powell, previously with the band Savage Grace, and signed on with Metal Blade[1] in 1984, with whom they released their debut, Battle Cry.[2] (It contained the song \"The Axeman\", which appeared on the soundtrack for the heavy metal themed 2009 video game Brütal Legend.)\n",
-         "In 1985, the second album Warning of Danger followed,[2] which could easily compare with their debut, and built up Omen's reputation as one of the forefathers of power metal acts. In 1986, they released The Curse, their first release with major label distribution by Capitol Records in the US.[2] In Japan the band climbed to number 14 in the Burrn! Charts.\n",
-         "With new singer Coburn Pharr (who would later leave to join Annihilator), the band released Escape to Nowhere in 1988;[2] although considered a departure from the classic Omen sound, \"Thorn in Your Flesh\" was their first hit single in the US.\n",
-         "In 1996, they signed with new label Massacre Records and toured Europe with Fates Warning for the first time. In October 2003, their former singer, J.D. Kimball, died, having succumbed to cancer after three years of treatment.\n",
-         "Currently, Omen has released seven studio albums worldwide, and a 20th anniversary box set. The release Hammer Damage has been delayed for more than eight years and was released in 2016 via DSN Music.\n"
-      ]
-   },
-   "Members": {
-      "Current line-up": {},
-      "Previous members": {},
-      "Timeline": {}
-   },
-   "Discography": {
-      "Studio": {},
-      "Live": {},
-      "EPs": {},
-      "Compilations": {},
-      "Box sets": {},
-      "Video albums": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Omen is an American heavy metal band.\n",
-      "The band was formed in Los Angeles, California in 1983 by lead guitarist Kenny Powell, previously with the band Savage Grace, and signed on with Metal Blade[1] in 1984, with whom they released their debut, Battle Cry.[2] (It contained the song \"The Axeman\", which appeared on the soundtrack for the heavy metal themed 2009 video game Brütal Legend.)\n",
-      "In 1985, the second album Warning of Danger followed,[2] which could easily compare with their debut, and built up Omen's reputation as one of the forefathers of power metal acts. In 1986, they released The Curse, their first release with major label distribution by Capitol Records in the US.[2] In Japan the band climbed to number 14 in the Burrn! Charts.\n",
-      "With new singer Coburn Pharr (who would later leave to join Annihilator), the band released Escape to Nowhere in 1988;[2] although considered a departure from the classic Omen sound, \"Thorn in Your Flesh\" was their first hit single in the US.\n"
+      "The band was formed in Los Angeles, California in 1983 by lead guitarist Kenny Powell, previously with the band Savage Grace, and signed on with Metal Blade in 1984, with whom they released their debut, Battle Cry. (It contained the song \"The Axeman\", which appeared on the soundtrack for the heavy metal themed 2009 video game Brütal Legend.)\n",
+      "In 1985, the second album Warning of Danger followed, which could easily compare with their debut, and built up Omen's reputation as one of the forefathers of power metal acts. In 1986, they released The Curse, their first release with major label distribution by Capitol Records in the US. In Japan the band climbed to number 14 in the Burrn! Charts.\n"
    ],
    "infobox": {
       "Origin": [

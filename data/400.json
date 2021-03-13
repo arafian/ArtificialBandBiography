@@ -1,41 +1,9 @@
 {
    "Name": "Anchordown",
-   "Sections": [
-      "1 Band history",
-      "2 Members",
-      "3 Discography",
-      "3.1 Albums",
-      "3.2 Singles",
-      "4 Notables",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Anchordown was a Christian acoustic rock and worship band from Reno, Nevada.  They disbanded and reformed in Dec of 2008 under the new name, Zimmerman.\n"
-      ]
-   },
-   "Band history": {
-      "text": [
-         "Anchordown started in early 2006.[1] The band formed from a community of Christ-followers in Reno, NV called Living Stones. Donald Zimmerman started the band, with the notion that music could challenge the corporate church. Their music is melodic, with hopeful lyrics.\n",
-         "The band toured extensively throughout 2006-2008, covering most of the western United States, particularly Colorado, Utah, Washington, California, Nebraska and Texas.\n",
-         "The album Speaks So Still was recorded at Spaceway Studios and was produced by Will Hunt (Bethany Dillon, Shane and Shane, Shawn McDonald).  This album had 12 tracks, including the radio single Speaks So Still.\n",
-         "The album Stories and Songs was an underground release. It featured 30 tracks, including 10 previously unrecorded songs, with each new song featuring a corresponding track of audio interview of the band speaking on the origin and story behind each of the songs.  Tracks 24-29 were stories from their time on the road, including the feeding of a wild bald eagle, the stage at the Flood in San Diego catching fire, and the time a 2-foot piece of rebar flew through the floor panel of their instrument trailer. It served as a fundraiser for their first project under the new band name, Zimmerman.\n"
-      ]
-   },
-   "Members": {},
-   "Discography": {
-      "Albums": {},
-      "Singles": {}
-   },
-   "Notables": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Anchordown was a Christian acoustic rock and worship band from Reno, Nevada.  They disbanded and reformed in Dec of 2008 under the new name, Zimmerman.\n",
-      "Anchordown started in early 2006.[1] The band formed from a community of Christ-followers in Reno, NV called Living Stones. Donald Zimmerman started the band, with the notion that music could challenge the corporate church. Their music is melodic, with hopeful lyrics.\n",
-      "The band toured extensively throughout 2006-2008, covering most of the western United States, particularly Colorado, Utah, Washington, California, Nebraska and Texas.\n",
-      "The album Speaks So Still was recorded at Spaceway Studios and was produced by Will Hunt (Bethany Dillon, Shane and Shane, Shawn McDonald).  This album had 12 tracks, including the radio single Speaks So Still.\n"
+      "Anchordown started in early 2006. The band formed from a community of Christ-followers in Reno, NV called Living Stones. Donald Zimmerman started the band, with the notion that music could challenge the corporate church. Their music is melodic, with hopeful lyrics.\n",
+      "The band toured extensively throughout 2006-2008, covering most of the western United States, particularly Colorado, Utah, Washington, California, Nebraska and Texas.\n"
    ],
    "infobox": {}
 }

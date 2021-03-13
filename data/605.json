@@ -1,14 +1,6 @@
 {
    "Name": "Aphasia (Japanese band)",
-   "Sections": [
-      "Summary"
-   ],
-   "Summary": {
-      "text": [
-         "Aphasia is a female heavy metal/hard rock band from Japan still active today.  Their latest release is  Ever-lasting Blue.\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "Aphasia is a female heavy metal/hard rock band from Japan still active today.  Their latest release is  Ever-lasting Blue.\n"
    ],
    "infobox": {

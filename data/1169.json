@@ -1,17 +1,8 @@
 {
    "Name": "The Drift (band)",
-   "Sections": [
-      "Summary"
-   ],
-   "Summary": {
-      "text": [
-         "The Drift is a post-rock band from San Francisco, California.\n",
-         "The Drift was founded in 2002 as a side project by Danny Grody, of Tarentel, and Trevor Montgomery, of Lazarus.[1] Montgomery left the group in 2004 and Grody recruited several new members for a full band, with several releases following in 2005. The group has released two full-lengths and two collections on Temporary Residence, with a third full-length announced for fall 2011.\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "The Drift is a post-rock band from San Francisco, California.\n",
-      "The Drift was founded in 2002 as a side project by Danny Grody, of Tarentel, and Trevor Montgomery, of Lazarus.[1] Montgomery left the group in 2004 and Grody recruited several new members for a full band, with several releases following in 2005. The group has released two full-lengths and two collections on Temporary Residence, with a third full-length announced for fall 2011.\n"
+      "The Drift was founded in 2002 as a side project by Danny Grody, of Tarentel, and Trevor Montgomery, of Lazarus. Montgomery left the group in 2004 and Grody recruited several new members for a full band, with several releases following in 2005. The group has released two full-lengths and two collections on Temporary Residence, with a third full-length announced for fall 2011.\n"
    ],
    "infobox": {}
 }

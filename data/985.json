@@ -1,40 +1,9 @@
 {
    "Name": "The Jimmy Swift Band",
-   "Sections": [
-      "1 Career",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 PF Station",
-      "2.3 Videos",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Jimmy Swift Band (JSB) is a Canadian indie rock band from Halifax, Nova Scotia that combines elements of rock, jam, and electronica. Composed of Craig Mercer on guitar and vocals, Mike MacDougall on bass, Aaron Collier on keyboards and effects, and Nick Wombolt on drums, the band has been most often described as rocktronica.\n"
-      ]
-   },
-   "Career": {
-      "text": [
-         "Formed in the late 1990s by members of the now defunct band PF Station,[1] JSB draw their name from the name of the subject of one of PF Station's songs, \"A Night in the Life of Fly Jimmy Swift\".  Before eventually choosing their current name, the band was known for a time as Fly Jimmy Swift.[2]\nCombining intricate guitar and a distinctly electronica keyboard sound with a hard hitting and rock solid rock rhythm section, the band is known for its exciting live show full of lengthy progressive instrumental jams that always get the crowd up and moving.\n",
-         "The band has released 5 studio albums, 2 live albums, a live 5.1 concert DVD, a remix album, and a greatest hits package on 8-track tape. They've won three East Coast Music Awards,[3] and numerous Music Industry Association of Nova Scotia (MIANS/Music Nova Scotia) awards over the past 15 years.\n",
-         "In 2004 the band produced their first video for the single \"Two Hands on the Wheel\" with New Brunswick filmmaker Greg Hemmings.  On November 28, 2006, JSB released an animated video produced by Copernicus Studios for the single \"Turnaround\", from the album Weight of the World.\n",
-         "For close to 15 years, the band maintained a busy touring schedule, playing up to 250 shows a year across Canada and the US with stints in Asia and the Bahamas, they have performed internationally at numerous festivals worldwide and were considered instrumental in the development of Eastern Canada's Evolve Festival and Prince Edward Island's Shoreline Festival. Other events include Moedown (NY), Haymaker (VA), the World Electronic Music Festival (Toronto), Canada Day celebrations in Bermuda and many more.  The group are at the head of the Atlantic Canada jam scene, and frequently play with fellow scene mates Grand Theft Bus, and Slowcoaster.[4]\n",
-         "On May 13, 2011 it was announced by Aaron Collier on his website that the band had decided to break up.[5] Three years later the band announced it would be touring Eastern Canada for one final tour, ending with a performance at the Evolve Music Festival in Antigonish, Nova Scotia.\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "PF Station": {},
-      "Videos": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Jimmy Swift Band (JSB) is a Canadian indie rock band from Halifax, Nova Scotia that combines elements of rock, jam, and electronica. Composed of Craig Mercer on guitar and vocals, Mike MacDougall on bass, Aaron Collier on keyboards and effects, and Nick Wombolt on drums, the band has been most often described as rocktronica.\n",
-      "Formed in the late 1990s by members of the now defunct band PF Station,[1] JSB draw their name from the name of the subject of one of PF Station's songs, \"A Night in the Life of Fly Jimmy Swift\".  Before eventually choosing their current name, the band was known for a time as Fly Jimmy Swift.[2]\nCombining intricate guitar and a distinctly electronica keyboard sound with a hard hitting and rock solid rock rhythm section, the band is known for its exciting live show full of lengthy progressive instrumental jams that always get the crowd up and moving.\n",
-      "The band has released 5 studio albums, 2 live albums, a live 5.1 concert DVD, a remix album, and a greatest hits package on 8-track tape. They've won three East Coast Music Awards,[3] and numerous Music Industry Association of Nova Scotia (MIANS/Music Nova Scotia) awards over the past 15 years.\n",
-      "In 2004 the band produced their first video for the single \"Two Hands on the Wheel\" with New Brunswick filmmaker Greg Hemmings.  On November 28, 2006, JSB released an animated video produced by Copernicus Studios for the single \"Turnaround\", from the album Weight of the World.\n"
+      "Formed in the late 1990s by members of the now defunct band PF Station, JSB draw their name from the name of the subject of one of PF Station's songs, \"A Night in the Life of Fly Jimmy Swift\".  Before eventually choosing their current name, the band was known for a time as Fly Jimmy Swift.\nCombining intricate guitar and a distinctly electronica keyboard sound with a hard hitting and rock solid rock rhythm section, the band is known for its exciting live show full of lengthy progressive instrumental jams that always get the crowd up and moving.\n",
+      "The band has released 5 studio albums, 2 live albums, a live 5.1 concert DVD, a remix album, and a greatest hits package on 8-track tape. They've won three East Coast Music Awards, and numerous Music Industry Association of Nova Scotia (MIANS/Music Nova Scotia) awards over the past 15 years.\n"
    ],
    "infobox": {
       "Also known as": [

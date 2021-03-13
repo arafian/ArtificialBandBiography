@@ -1,42 +1,9 @@
 {
    "Name": "Good for Grapes",
-   "Sections": [
-      "Summary",
-      "Career",
-      "External links"
-   ],
-   "Summary": {
-      "text": [
-         "Good for Grapes is a Pacific Northwest indie-folk band based in Surrey, British Columbia, Canada. The band consists of Daniel McBurnie (vocals, acoustic guitar), Graham Gomez (electric guitar, vocals), Alexa Unwin (piano, vocals), Robert Hardie (bass, vocals), Alex Hauka (cello), Gregory McLeod (trombone and violin) and Will Watson (drums).\n",
-         "Their first self-titled EP, Good for Grapes was released on iTunes Canada on April 15, 2011.[1] They have won both the Rogers urMusic Battle of the Bands, and Supernova's 'Band on the Run to the UK.'[2]\n"
-      ]
-   },
-   "Career": {
-      "text": [
-         "The band was formed when a group of friends were traveling by ferry to busk in Victoria, British Columbia, on Vancouver Island. They drew crowds while freestyling on the ferry deck[3] and decided that they should pursue the project. Months later they had produced their first EP and started playing small, local gigs. They officially began their career playing in coffee shops, such as The Wired Monk, charity shows, small venues, and eventually began by opening up for bands such as Paper Lions, The Matinee and Mother Mother. They have also gone on to record in Toronto's Coalition Studios and Vancouver's Greenhouse Studios.\n",
-         "In 2012 alone they have performed at numerous west coast music festivals, including Rifflandia, Rock the Peach Festival, Vancouver Folk Music Festival, and Live at Squamish.[4] They have also performed at the Atlin Arts & Music Festival. They have been featured on the YouTube music channel 'Green Couch Sessions.' They were contestants on the first season of Canada's Got Talent, and made it through the Vancouver auditions,[5] but filming conflicted with their tour dates so they had to withdraw from the competition.[6]\n",
-         "They have been featured in Vancouver media, such as air time on Vancouver's indie-rock radio station 102.7 The Peak (formerly 100.5 The Peak). They were the \"Check This out Tune\" on the Peak January 19, 2012 with their original song, \"Skipping Stone.\" Some of their other popular songs include \"Little Carmichael\", \"My Bass\" and \"London Fog\". They have also been featured in articles by the Georgia Straight, the Vancouver Province and Surrey Now.\n",
-         "They ended their first summer tour in August, 2012, and often play local shows in BC. A Good for Grapes show often includes energetic crowds who stomp, clap, and sing along. They have developed a very loyal following in BC's Lower Mainland.[7]\n",
-         "They recently won an \"Inspirational People\" award from Vancouver's Close Look Productions\n[8]\n",
-         "The band's first full-length album Man On The Page was released on October 15, 2013\n",
-         "On November 21, 2014, Good For Grapes won the 2014 Peak Performance Project, hosted by The Peak 102.7. They took home the top prize of $102,700.00.[9]\n"
-      ]
-   },
-   "External links": {
-      "text": [
-         "1. Georgia Straight article, July 12 2012\n",
-         "2. Vancouver Province article, August 25 2012\n",
-         "3. Green Couch Sessions\n",
-         "4. Good For Grapes Facebook page\n",
-         "5. Good News Weekly article, March 18 2012\n",
-         "6. Vancouver Music Review article, August 26 2012\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "Good for Grapes is a Pacific Northwest indie-folk band based in Surrey, British Columbia, Canada. The band consists of Daniel McBurnie (vocals, acoustic guitar), Graham Gomez (electric guitar, vocals), Alexa Unwin (piano, vocals), Robert Hardie (bass, vocals), Alex Hauka (cello), Gregory McLeod (trombone and violin) and Will Watson (drums).\n",
-      "Their first self-titled EP, Good for Grapes was released on iTunes Canada on April 15, 2011.[1] They have won both the Rogers urMusic Battle of the Bands, and Supernova's 'Band on the Run to the UK.'[2]\n",
-      "The band was formed when a group of friends were traveling by ferry to busk in Victoria, British Columbia, on Vancouver Island. They drew crowds while freestyling on the ferry deck[3] and decided that they should pursue the project. Months later they had produced their first EP and started playing small, local gigs. They officially began their career playing in coffee shops, such as The Wired Monk, charity shows, small venues, and eventually began by opening up for bands such as Paper Lions, The Matinee and Mother Mother. They have also gone on to record in Toronto's Coalition Studios and Vancouver's Greenhouse Studios.\n",
-      "In 2012 alone they have performed at numerous west coast music festivals, including Rifflandia, Rock the Peach Festival, Vancouver Folk Music Festival, and Live at Squamish.[4] They have also performed at the Atlin Arts & Music Festival. They have been featured on the YouTube music channel 'Green Couch Sessions.' They were contestants on the first season of Canada's Got Talent, and made it through the Vancouver auditions,[5] but filming conflicted with their tour dates so they had to withdraw from the competition.[6]\n"
+      "Their first self-titled EP, Good for Grapes was released on iTunes Canada on April 15, 2011. They have won both the Rogers urMusic Battle of the Bands, and Supernova's 'Band on the Run to the UK.'\n",
+      "The band was formed when a group of friends were traveling by ferry to busk in Victoria, British Columbia, on Vancouver Island. They drew crowds while freestyling on the ferry deck and decided that they should pursue the project. Months later they had produced their first EP and started playing small, local gigs. They officially began their career playing in coffee shops, such as The Wired Monk, charity shows, small venues, and eventually began by opening up for bands such as Paper Lions, The Matinee and Mother Mother. They have also gone on to record in Toronto's Coalition Studios and Vancouver's Greenhouse Studios.\n"
    ],
    "infobox": {
       "Origin": [

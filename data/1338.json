@@ -1,45 +1,9 @@
 {
    "Name": "Cuddly Toys",
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "2.1 Raped",
-      "2.1.1 Albums (compilations)",
-      "2.1.2 Singles",
-      "2.2 Cuddly Toys",
-      "2.2.1 Albums",
-      "2.2.2 Singles",
-      "3 References"
-   ],
-   "Summary": {
-      "text": [
-         "Cuddly Toys were a new wave band from London that grew out of the glam rock-influenced punk rock band Raped.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The punk band Raped formed in 1976 with a line-up of Sean Purcell (vocals), Faebhean Kwest (guitar), Tony Baggett (bass), and Paddy Phield (drums).[1] They released the Pretty Paedophiles EP and the \"Cheap Night Out\" single in 1978 on Parole Records. Their last gig as 'Raped' was in Belfast with the punk band Rudi at Christmas 1978. In January 1979 they changed their name to 'Cuddly Toys'.\n",
-         "On the first recording sessions as Cuddly Toys (that later were to appear on the album \"Guillotine Theatre\"}, they were augmented by Alig Fodder and Nicky Brockway (piano). Then Billy Surgeoner joined the band for further album sessions as well as live appearances, playing keyboard synthesisers. The band's first release was the single \"Madman\", a song written by David Bowie and Marc Bolan shortly before Bolan's death, which reached No. 3 in the UK Indie Chart.[2][3] They next released the Guillotine Theatre album in 1979 on Japanese label Teichiku, and a remixed version issued in the UK in 1980 on Fresh Records, which reached No. 1 in the indie album chart and 8 in the main billboard charts.[2] The album was described by Dave Thompson, in a review for Allmusic, as \"one of the underrated classics of the late 1970s, as delivered by one of the most underrated bands\".[4]  The band continued with various personnel changels through until 1987. [1]\n",
-         "Fodder went on to form Family Fodder.[1] Sean Purcell released a single together with Phil Pickering of Webcore under the name Goat. The line-up of Cuddly Toys started evolving at the time of the sessions for the \"Someone's Crying\" 7\" & 12\" EP.  They then recorded the \"Trials and Crosses\" album, initially still with original bassist Tony Baggett, but he left almost immediately being replaced by Paul Wilson on bass, completing the full line-up change. Sean who was half Irish died in Ireland in 1996 from a brain tumour.\n",
-         "\"Guillotine Theatre\" has been reissued on CD with extra tracks together with a DVD including video promos.  \"Trials and Crosses\" has been reissued on CD together with an extra disc of previously unreleased recordings.  Both releases are on Jungle Records.\n"
-      ]
-   },
-   "Discography": {
-      "Raped": {
-         "Albums (compilations)": {},
-         "Singles": {}
-      },
-      "Cuddly Toys": {
-         "Albums": {},
-         "Singles": {}
-      }
-   },
-   "References": {},
-   "coreData": [
+   "rawData": [
       "Cuddly Toys were a new wave band from London that grew out of the glam rock-influenced punk rock band Raped.\n",
-      "The punk band Raped formed in 1976 with a line-up of Sean Purcell (vocals), Faebhean Kwest (guitar), Tony Baggett (bass), and Paddy Phield (drums).[1] They released the Pretty Paedophiles EP and the \"Cheap Night Out\" single in 1978 on Parole Records. Their last gig as 'Raped' was in Belfast with the punk band Rudi at Christmas 1978. In January 1979 they changed their name to 'Cuddly Toys'.\n",
-      "On the first recording sessions as Cuddly Toys (that later were to appear on the album \"Guillotine Theatre\"}, they were augmented by Alig Fodder and Nicky Brockway (piano). Then Billy Surgeoner joined the band for further album sessions as well as live appearances, playing keyboard synthesisers. The band's first release was the single \"Madman\", a song written by David Bowie and Marc Bolan shortly before Bolan's death, which reached No. 3 in the UK Indie Chart.[2][3] They next released the Guillotine Theatre album in 1979 on Japanese label Teichiku, and a remixed version issued in the UK in 1980 on Fresh Records, which reached No. 1 in the indie album chart and 8 in the main billboard charts.[2] The album was described by Dave Thompson, in a review for Allmusic, as \"one of the underrated classics of the late 1970s, as delivered by one of the most underrated bands\".[4]  The band continued with various personnel changels through until 1987. [1]\n",
-      "Fodder went on to form Family Fodder.[1] Sean Purcell released a single together with Phil Pickering of Webcore under the name Goat. The line-up of Cuddly Toys started evolving at the time of the sessions for the \"Someone's Crying\" 7\" & 12\" EP.  They then recorded the \"Trials and Crosses\" album, initially still with original bassist Tony Baggett, but he left almost immediately being replaced by Paul Wilson on bass, completing the full line-up change. Sean who was half Irish died in Ireland in 1996 from a brain tumour.\n"
+      "The punk band Raped formed in 1976 with a line-up of Sean Purcell (vocals), Faebhean Kwest (guitar), Tony Baggett (bass), and Paddy Phield (drums). They released the Pretty Paedophiles EP and the \"Cheap Night Out\" single in 1978 on Parole Records. Their last gig as 'Raped' was in Belfast with the punk band Rudi at Christmas 1978. In January 1979 they changed their name to 'Cuddly Toys'.\n",
+      "On the first recording sessions as Cuddly Toys (that later were to appear on the album \"Guillotine Theatre\"}, they were augmented by Alig Fodder and Nicky Brockway (piano). Then Billy Surgeoner joined the band for further album sessions as well as live appearances, playing keyboard synthesisers. The band's first release was the single \"Madman\", a song written by David Bowie and Marc Bolan shortly before Bolan's death, which reached No. 3 in the UK Indie Chart. They next released the Guillotine Theatre album in 1979 on Japanese label Teichiku, and a remixed version issued in the UK in 1980 on Fresh Records, which reached No. 1 in the indie album chart and 8 in the main billboard charts. The album was described by Dave Thompson, in a review for Allmusic, as \"one of the underrated classics of the late 1970s, as delivered by one of the most underrated bands\".  The band continued with various personnel changels through until 1987. \n"
    ],
    "infobox": {
       "Also known as": [

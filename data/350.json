@@ -1,36 +1,9 @@
 {
    "Name": "Sweeney Todd (band)",
-   "Sections": [
-      "Summary",
-      "Overview",
-      "Discography"
-   ],
-   "Summary": {
-      "text": [
-         "Sweeney Todd is a Canadian glam rock band formed in Vancouver in 1975. The band's original lead vocalist Nick Gilder left the band to start a solo career, and was replaced by a 16-year-old Bryan Adams, who later enjoyed international success as a solo artist.\n"
-      ]
-   },
-   "Overview": {
-      "text": [
-         "The band, formed in Vancouver, British Columbia, originally consisted of vocalist Nick Gilder, guitarist Jim McCulloch, bassist Budd Marr, keyboardist Dan Gaudin and drummer John Booth. The single \"Roxy Roller\" became a No. 1 hit in Canada, holding the top position in the RPM national singles chart for three weeks beginning on June 26, 1976,[1][2][3] and winning a Juno Award for the band.[4]\n",
-         "Gilder and McCulloch subsequently left the band to pursue solo careers. Gilder had hits with \"Hot Child in the City\", \"Here Comes the Night\" and \"(You Really) Rock Me\".\n",
-         "Clark Perry was brought in to replace Gilder on vocals, and Skip Prest replaced McCulloch on guitar. Though he did record a second version of \"Roxy Roller\", Perry did not work out, however, and was replaced within a few months by Bryan Adams,[5] who was 16 at that time. That incarnation of Sweeney Todd also recorded a - third - version of \"Roxy Roller\".\n",
-         "The new lineup recorded Sweeney Todd's second album, If Wishes Were Horses. That album was unsuccessful and Adams left the band after less than a year. The band attempted to carry on with Chris Booth on vocals (and Grant Gislason replacing Prest in 1978), but broke up before recording any further albums.\n",
-         "The band re-united in 2000 and began working on The Sweeney Todd LP. The band followed up the completion of the record with a cross-Canada tour.\n",
-         "In 2007, Sweeney Todd - along with ex-vocalist Nick Gilder - headlined the Golden Spike Days Festival in Port Moody, British Columbia. In 2008, they performed (again with Gilder) at the Merritt Mountain Musicfest in Merritt, British Columbia.\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "Albums\n",
-         "Singles\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "Sweeney Todd is a Canadian glam rock band formed in Vancouver in 1975. The band's original lead vocalist Nick Gilder left the band to start a solo career, and was replaced by a 16-year-old Bryan Adams, who later enjoyed international success as a solo artist.\n",
-      "The band, formed in Vancouver, British Columbia, originally consisted of vocalist Nick Gilder, guitarist Jim McCulloch, bassist Budd Marr, keyboardist Dan Gaudin and drummer John Booth. The single \"Roxy Roller\" became a No. 1 hit in Canada, holding the top position in the RPM national singles chart for three weeks beginning on June 26, 1976,[1][2][3] and winning a Juno Award for the band.[4]\n",
-      "Gilder and McCulloch subsequently left the band to pursue solo careers. Gilder had hits with \"Hot Child in the City\", \"Here Comes the Night\" and \"(You Really) Rock Me\".\n",
-      "Clark Perry was brought in to replace Gilder on vocals, and Skip Prest replaced McCulloch on guitar. Though he did record a second version of \"Roxy Roller\", Perry did not work out, however, and was replaced within a few months by Bryan Adams,[5] who was 16 at that time. That incarnation of Sweeney Todd also recorded a - third - version of \"Roxy Roller\".\n"
+      "The band, formed in Vancouver, British Columbia, originally consisted of vocalist Nick Gilder, guitarist Jim McCulloch, bassist Budd Marr, keyboardist Dan Gaudin and drummer John Booth. The single \"Roxy Roller\" became a No. 1 hit in Canada, holding the top position in the RPM national singles chart for three weeks beginning on June 26, 1976, and winning a Juno Award for the band.\n",
+      "Gilder and McCulloch subsequently left the band to pursue solo careers. Gilder had hits with \"Hot Child in the City\", \"Here Comes the Night\" and \"(You Really) Rock Me\".\n"
    ],
    "infobox": {
       "Origin": [

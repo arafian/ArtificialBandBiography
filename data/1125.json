@@ -1,43 +1,9 @@
 {
    "Name": "Ankla",
-   "Sections": [
-      "1 History",
-      "2 Music style",
-      "3 Members",
-      "3.1 Former",
-      "4 Discography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Ankla (correctly: \"Ancla\" meaning anchor in Spanish) is a latin metal band with Latin influences such as flamenco from Los Angeles, California.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Ankla was formed in 2001[citation needed] by Puya guitarist Ramón Ortiz. The band independently released a self-titled 7-track EP in 2002, produced by Stone Sour drummer Roy Mayorga.\n",
-         "On April 8, 2006, it was announced that Ankla  signed with Bieler Bros. Records.[1] Their debut album Steep Trails was produced by Bob Marlette, and was released on July 25, 2006.[2]\n",
-         "In 2007, Ankla played the second stage at Ozzfest and received rave reviews.  TheColumbusDispatch.com  called Ankla, \" a ferocious L.A. band with two speed-merchant drummers.\"\n",
-         "In 2008, the band's line up changed, replacing former singer Ikaro Stafford with Eddie Macias, who had previously worked with Ramón Ortíz in the early stages of Puya.  The band has played with III Niño, Nonpoint, American Head Charge, In This Moment, Bleed The Sky, Brujeria, Body Count, Five Finger Death Punch, Dååth, Six Feet Under, and Hatebreed.\n"
-      ]
-   },
-   "Music style": {
-      "text": [
-         "IGN described Ankla's style of music as a mixture of \"thrash metal, metalcore and death metal\".[3]\n"
-      ]
-   },
-   "Members": {
-      "Former": {}
-   },
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Ankla (correctly: \"Ancla\" meaning anchor in Spanish) is a latin metal band with Latin influences such as flamenco from Los Angeles, California.\n",
-      "Ankla was formed in 2001[citation needed] by Puya guitarist Ramón Ortiz. The band independently released a self-titled 7-track EP in 2002, produced by Stone Sour drummer Roy Mayorga.\n",
-      "On April 8, 2006, it was announced that Ankla  signed with Bieler Bros. Records.[1] Their debut album Steep Trails was produced by Bob Marlette, and was released on July 25, 2006.[2]\n",
-      "In 2007, Ankla played the second stage at Ozzfest and received rave reviews.  TheColumbusDispatch.com  called Ankla, \" a ferocious L.A. band with two speed-merchant drummers.\"\n"
+      "Ankla was formed in 2001 by Puya guitarist Ramón Ortiz. The band independently released a self-titled 7-track EP in 2002, produced by Stone Sour drummer Roy Mayorga.\n",
+      "On April 8, 2006, it was announced that Ankla  signed with Bieler Bros. Records. Their debut album Steep Trails was produced by Bob Marlette, and was released on July 25, 2006.\n"
    ],
    "infobox": {
       "Origin": [

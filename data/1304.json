@@ -1,50 +1,9 @@
 {
    "Name": "Voodoo Glow Skulls",
-   "Sections": [
-      "1 History",
-      "2 Current line-up",
-      "3 Former members",
-      "4 Discography",
-      "4.1 Albums",
-      "4.2 EPs",
-      "4.3 Voodoo Glow Skulls compilations",
-      "4.4 Compilations",
-      "5 References"
-   ],
-   "Summary": {
-      "text": [
-         "Voodoo Glow Skulls are an American ska punk band formed in 1988 in Riverside, California, United States, by brothers Frank, Eddie, and Jorge Casillas and their longtime friend Jerry O'Neill. Voodoo Glow Skulls first played at backyard parties and later at Spanky's Café in their hometown of Riverside, where they played shows with the Angry Samoans, The Mighty Mighty Bosstones, Firehose, Murphy's Law, and The Dickies.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Their first recording was in 1989 –  a four-song demo on a four-track machine which they duplicated onto about sixty cassettes on a home stereo then sold at shows.\n",
-         "In 1990, Voodoo Glow Skulls released their first 7\" EP The Old of Tomorrow, a parody title inspired by the straight edge band named Youth of Today, with the help of local band Public Humiliation, and also booked their own DIY US tour.\n",
-         "In 1991, the band added a horn section to their live shows and recordings, due mostly to the influence of two of their favorite bands at the time, Fishbone and Red Hot Chili Peppers. The band's second independent release came out in 1992 with the Rasta Mis Huevos 7\" EP for Signal Sound Systems Records. This label also released a glow-in-the-dark 12\" EP titled We're Coloring Fun and the first release of The Potty Training Years on CD.\n",
-         "Voodoo Glow Skulls recorded their debut album Who Is, This Is? for Dr. Strange Records in 1993, gaining the attention of Brett Gurewitz, owner of Epitaph Records.The band then signed to Epitaph Records and released a further four albums. The band began to tour worldwide with their first European tour in 1996 followed by Japan, Australia, Mexico, and South America.\n",
-         "The band has been featured on several of Epitaph's Punk-O-Rama releases and has had music featured in video games, TV and movies.\n",
-         "The song \"Shoot the Moon\" from the band's Firme album was used in the Pauly Shore movie Bio-Dome and the band's version of \"Used to Love Her\" (originally written and recorded by Guns N' Roses) is featured in the Mr. & Mrs. Smith soundtrack.\n",
-         "In 2002, Voodoo Glow Skulls signed to Victory Records. The band released three albums on the Victory label and continued to tour.\n",
-         "On January 18, 2012, the band released its self-produced ninth album, Break the Spell, through Smelvis Records.[1]\n",
-         "The band contributed a song to the 2015 Rancid tribute compilation, Hooligans United.\n",
-         "The band appeared as musical guests during the second season of Lucha Underground in 2016.[2]\n",
-         "On June 3, 2017, Frank Casillas announced he was quitting Voodoo Glow Skulls, live on stage during a show at Alex’s Bar in Long Beach, CA. The band has continued playing with Efrem Schulz from Death by Stereo on vocals.\n"
-      ]
-   },
-   "Current line-up": {},
-   "Former members": {},
-   "Discography": {
-      "Albums": {},
-      "EPs": {},
-      "Voodoo Glow Skulls compilations": {},
-      "Compilations": {}
-   },
-   "References": {},
-   "coreData": [
+   "rawData": [
       "Voodoo Glow Skulls are an American ska punk band formed in 1988 in Riverside, California, United States, by brothers Frank, Eddie, and Jorge Casillas and their longtime friend Jerry O'Neill. Voodoo Glow Skulls first played at backyard parties and later at Spanky's Café in their hometown of Riverside, where they played shows with the Angry Samoans, The Mighty Mighty Bosstones, Firehose, Murphy's Law, and The Dickies.\n",
       "Their first recording was in 1989 –  a four-song demo on a four-track machine which they duplicated onto about sixty cassettes on a home stereo then sold at shows.\n",
-      "In 1990, Voodoo Glow Skulls released their first 7\" EP The Old of Tomorrow, a parody title inspired by the straight edge band named Youth of Today, with the help of local band Public Humiliation, and also booked their own DIY US tour.\n",
-      "In 1991, the band added a horn section to their live shows and recordings, due mostly to the influence of two of their favorite bands at the time, Fishbone and Red Hot Chili Peppers. The band's second independent release came out in 1992 with the Rasta Mis Huevos 7\" EP for Signal Sound Systems Records. This label also released a glow-in-the-dark 12\" EP titled We're Coloring Fun and the first release of The Potty Training Years on CD.\n"
+      "In 1990, Voodoo Glow Skulls released their first 7\" EP The Old of Tomorrow, a parody title inspired by the straight edge band named Youth of Today, with the help of local band Public Humiliation, and also booked their own DIY US tour.\n"
    ],
    "infobox": {
       "Origin": [

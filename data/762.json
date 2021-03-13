@@ -1,41 +1,9 @@
 {
    "Name": "Whiteberry (music group)",
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "2.1 Singles",
-      "2.2 Albums",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Whiteberry (ホワイトベリー) were a five-piece all-girl pop/rock band from Kitami, Hokkaido, Japan. Although not reaching more than cult status outside of their native country, the group gained a loyal following with their recordings and live performances.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The band - vocalist Yuki Maeda, guitarist Aya Inatsuki, bassist Yukari Hasegawa, keyboardist Rimi Mizusawa, and drummer Erika Kawamura - formed in 1994 while the members - all lifelong friends, while Maeda and Kawamura were also cousins - were in elementary school. A few years and a string of local performances later, the group came to the notice of members of popular Japanese rock band Judy and Mary and were offered a recording deal with Sony Japan's Pop Artist imprint in 1999.[1]\n",
-         "The group, still in high school at the time, recorded and released their first EP After School, which they quickly followed up with several singles, all original material with the exception of their fourth, a cover of the Jitterin' Jinn hit \"Natsu Matsuri\".[2] The single became the band's most popular number and is now more identified with them than with the original group.  Capitalizing on the momentum, the group completed and released their debut full-length album, \"Hatsu\".[3]\n",
-         "After a fifth single, \"Akubi\" (a rearranged new recording of a song from their EP), the group divided their time between completing their high school education and working on the follow-up album, \"Chameleon\". The record's release was preceded by three new singles, \"Sakura Nakimichi\", \"Kakurenbo\" (which was tied into the Japanese release of an opening of the anime Pokémon[4]), and \"Tachiiri Kinshi\". The latter song, whose title translates to \"Off Limits\", raised quite a few eyebrows with its uncharacteristic aggressiveness and its music video which depicted the band in rugby uniforms, bumrushing a corporate boardroom and performing their song atop a conference table while businessmen looked on in horror. \n",
-         "\"Chameleon\" was released in January 2002 and was complimented by reviewers as being a superior follow up to \"Hatsu\".  Whiteberry featured some darker-themed songs on the album, a contrast from some of the overtly happy material they had done before.\n",
-         "After a short tour behind the album, the group began to finish their final year of high school, in the meantime releasing a trilogy of three singles in late 2002 that featured a cover version of a favorite classic J-Pop or J-Rock hit on the A-side and a new Whiteberry original on the B-side. The first of these, \"Jitensha Dorobou\", was accompanied by a fully animated video.\n",
-         "Whiteberry spent most of 2003 off the road and out of the studio as their education took precedence, but were commissioned to record two songs for the soundtrack album to the TV series Superior Defender Gundam Force.[5]  Both songs were released as a single in February 2004; the A-side, \"Shinjiru Chikara\", featured lyrics written by all five group members stating how much they missed each other after the graduation of the band members from high school and the decision of some members to attend college. A week after the single was released, the group issued a statement announcing that after ten years together, they were amicably disbanding the group because of Aya, Yukari, Rimi, and Erika's college commitments. The group played tearful farewell shows in Tokyo and their native Hokkaidō in late March 2004. A posthumous anthology, \"Kiseki\", was released in May 2002, and a DVD counterpart, \"Videoberry Final\", followed the month afterward.  \n",
-         "Yuki Maeda and Yukari Hasegawa re-emerged in 2006 with a new four-piece pop/punk band, Yukki;[6] the quartet released a five-song EP, Sotsugyou, in May 2006 on the Japanese independent label Deadgirls. \n",
-         "As of December 2007 Yuki finished with \"yukki\" solo artist works.  In April 2008 she formed a new band, \"THE HUSKY\".[7]  Yukari & Rimi now live in Tokyo, whereas Aya & Erika live in Kitami City, Hokkaido.\n"
-      ]
-   },
-   "Discography": {
-      "Singles": {},
-      "Albums": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Whiteberry (ホワイトベリー) were a five-piece all-girl pop/rock band from Kitami, Hokkaido, Japan. Although not reaching more than cult status outside of their native country, the group gained a loyal following with their recordings and live performances.\n",
-      "The band - vocalist Yuki Maeda, guitarist Aya Inatsuki, bassist Yukari Hasegawa, keyboardist Rimi Mizusawa, and drummer Erika Kawamura - formed in 1994 while the members - all lifelong friends, while Maeda and Kawamura were also cousins - were in elementary school. A few years and a string of local performances later, the group came to the notice of members of popular Japanese rock band Judy and Mary and were offered a recording deal with Sony Japan's Pop Artist imprint in 1999.[1]\n",
-      "The group, still in high school at the time, recorded and released their first EP After School, which they quickly followed up with several singles, all original material with the exception of their fourth, a cover of the Jitterin' Jinn hit \"Natsu Matsuri\".[2] The single became the band's most popular number and is now more identified with them than with the original group.  Capitalizing on the momentum, the group completed and released their debut full-length album, \"Hatsu\".[3]\n",
-      "After a fifth single, \"Akubi\" (a rearranged new recording of a song from their EP), the group divided their time between completing their high school education and working on the follow-up album, \"Chameleon\". The record's release was preceded by three new singles, \"Sakura Nakimichi\", \"Kakurenbo\" (which was tied into the Japanese release of an opening of the anime Pokémon[4]), and \"Tachiiri Kinshi\". The latter song, whose title translates to \"Off Limits\", raised quite a few eyebrows with its uncharacteristic aggressiveness and its music video which depicted the band in rugby uniforms, bumrushing a corporate boardroom and performing their song atop a conference table while businessmen looked on in horror. \n"
+      "The band - vocalist Yuki Maeda, guitarist Aya Inatsuki, bassist Yukari Hasegawa, keyboardist Rimi Mizusawa, and drummer Erika Kawamura - formed in 1994 while the members - all lifelong friends, while Maeda and Kawamura were also cousins - were in elementary school. A few years and a string of local performances later, the group came to the notice of members of popular Japanese rock band Judy and Mary and were offered a recording deal with Sony Japan's Pop Artist imprint in 1999.\n",
+      "The group, still in high school at the time, recorded and released their first EP After School, which they quickly followed up with several singles, all original material with the exception of their fourth, a cover of the Jitterin' Jinn hit \"Natsu Matsuri\". The single became the band's most popular number and is now more identified with them than with the original group.  Capitalizing on the momentum, the group completed and released their debut full-length album, \"Hatsu\".\n"
    ],
    "infobox": {
       "Origin": [

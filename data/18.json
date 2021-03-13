@@ -1,53 +1,9 @@
 {
-   "Name": "Between the Eyes",
-   "Sections": [
-      "1 Critical reception",
-      "2 Track listing",
-      "3 Personnel",
-      "4 References"
+   "Name": "M Clan",
+   "rawData": [
+      "M Clan is a Spanish rock band. The band, initially named Murciélagos Clan, was formed in Murcia, (Spain) in 1992 by Carlos Tarque and Ricardo Ruipérez. \n",
+      "In March 1993 the band added Santiago Campillo, Pascual Saura, Juan Otero and Íñigo Uribe, under the name 'El clan de los murciélagos', (The Clan of Bats), which soon became 'M-Clan'. The band's sound was heavily influenced by Southern rock artists. The group currently consists of Carlos Tarque (vocals), Juan Antonio Otero, Ricardo Ruipérez (guitar), Carlos Raya (guitar), Pascual Saura, and Alejandro Climent 'Boli' (keyboard). \n",
+      "The band's 1999 release Usar y tirar went platinum, leading to the release of their 2001 Unplugged album Sin enchufe. The band released Sopa fría in 2004 under Warner Bros. and Eastwest Records.\n"
    ],
-   "Summary": {
-      "text": [
-         "Between the Eyes is the debut single by Seattle-based rock band Love Battery, released in 1989.[3][4] In 1990 and 1991, the release was expanded and reissued as an LP with bonus tracks.\n"
-      ]
-   },
-   "Critical reception": {
-      "text": [
-         "The single landed at #36 on Paste's list of the \"50 Best Grunge Songs\"; Paste called the LP \"a stripped-down, gut-churning collection of gritty guitars and vox.\"[5] The Stranger wrote that the LP, and its follow-up, Dayglo, \"remain psychedelic twin towers\" in the catalog of Sub Pop.[6]\n"
-      ]
-   },
-   "Track listing": {
-      "text": [
-         "All songs written by Love Battery (except where noted).\n"
-      ]
-   },
-   "Personnel": {},
-   "References": {},
-   "coreData": [
-      "Between the Eyes is the debut single by Seattle-based rock band Love Battery, released in 1989.[3][4] In 1990 and 1991, the release was expanded and reissued as an LP with bonus tracks.\n",
-      "The single landed at #36 on Paste's list of the \"50 Best Grunge Songs\"; Paste called the LP \"a stripped-down, gut-churning collection of gritty guitars and vox.\"[5] The Stranger wrote that the LP, and its follow-up, Dayglo, \"remain psychedelic twin towers\" in the catalog of Sub Pop.[6]\n",
-      "All songs written by Love Battery (except where noted).\n",
-      "This 1990s alternative rock album–related article is a stub. You can help Wikipedia by expanding it."
-   ],
-   "infobox": {
-      "Released": [
-         "1989 (as single) - 1990 (as EP) - 1991 (as LP)"
-      ],
-      "Recorded": [
-         "1989–1991"
-      ],
-      "Genre": [
-         "Grunge"
-      ],
-      "Length": [
-         "8:28 (as single) 33:59 (as LP)"
-      ],
-      "Label": [
-         "Sub Pop[1]"
-      ],
-      "Producer": [
-         "Jack Endino, Steve Fisk,",
-         "Conrad Uno, Jon Auer"
-      ]
-   }
+   "infobox": {}
 }

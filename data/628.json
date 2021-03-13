@@ -1,64 +1,9 @@
 {
    "Name": "Chai (band)",
-   "Sections": [
-      "1 Biography",
-      "2 Artistry and influences",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 Extended plays",
-      "3.3 Singles",
-      "3.3.1 Promotional singles",
-      "3.4 Guest appearances",
-      "3.5 Songwriting and production credits",
-      "4 Notes",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Chai (stylized as CHAI) are a four-member all-female rock band from Nagoya, Aichi, Japan. Formed in 2012, the band released their debut studio album Pink in 2017.\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "Chai was formed in 2012 in Nagoya, Aichi Prefecture, by twin sisters Mana and Kana, alongside Yuna and Yuuki.[2] Mana, Kana, and Yuna are all from Nagoya, and were in the same class at high school.[3] The three were members of the light music club at their high school, performing covers of musicians such as Tokyo Jihen and Aiko.[4] Yuna introduced the other band members to Japanese music that did not easily fit into the traditional definition of \"J-Pop\", such as the band Cero or Kimyō Reitaro.[4]\n",
-         "After the members graduated and went to university, Mana became friends with Yuuki (originally from Gifu Prefecture, who had moved to Nagoya), and asked the four friends to form a band.[3][5] The band's name comes from Russian tea (known as chai). Kana drank the tea with jam with her Russian literature professor at a Russian restaurant, which she thought was cute.[6]\n",
-         "At first, Chai performed mostly around Aichi Prefecture, but eventually moved to playing venues around Tokyo.[7] The band started releasing singles independently in 2013, and held a tour of central Japan in the summer holidays.[8] Their first large concert was performed at Zepp Nagoya, when the band were finalists in a college band competition.[8]\n",
-         "The band's debut extended play Hottaraka Series was released in August 2015, exclusively at digital retailer Ototoy and as a tour exclusive CD.[9][10] In August 2016, the EP was released to streaming services globally, with the song \"Gyaranboo\" reaching number 36 on Spotify's UK top 50 chart.[11]\n",
-         "The band moved to Tokyo in 2016 in order to focus on becoming full-time musicians.[4] In October, Chai was signed to Sony Music Japan after winning a competition in order to find acts to perform at Japan Nite at the SXSW festival in Austin.[12] In December, Hottaraka Series was given a nationwide release.[13] After their US SXSW tour in March 2017,[14] the band released their second EP, Homegoro Series,[15] distributed through Otemoyan Record, a record label imprint founded by Chai.[16]\n",
-         "Chai released their debut studio album Pink in October 2017, reaching number 41 on Oricon's albums chart[17] (the fourth highest selling independent release on the week).[18] Pink was well received by critics, being chosen as one of the 10 finalists at the 2018 CD Shop Awards by record store staff from across Japan.[19] In February, Pink was given a US release by Burger Records, who signed Chai after being impressed by their music video for \"Boyz Seco Men\".[20]\n",
-         "Chai had decided from very early in their careers to pursue music globally, and they considered it strange that many Japanese musical acts only focused on selling music domestically.[21] The band completed their second tour of the US in March.[18] In the UK, Chai was signed to Heavenly Recordings, and toured the country in October as a support act for Superorganism.[22] In February 2019, the band released their second studio album, Punk.\n",
-         "The band was signed to US indie label Sub Pop in October 2020.[23] In 2020, Chai collaborated with Gorillaz and JPEGMafia on \"MLS,\" a track on the Gorillaz album Song Machine, Season One: Strange Timez.\n"
-      ]
-   },
-   "Artistry and influences": {
-      "text": [
-         "Mana is the primary vocalist for the group, while the other members sing back up vocals.[2] Mana plays the keyboards, Kana the guitar, while Yuna and Yuuki are the band's drummer and bassist respectively.[2] For most songs, Mana and Kana compose the songs together using the voice memo app on their phones, while Mana sings and Kana composes on the guitar.[24] Yuuki writes the lyrics, and all members create the arrangements for each song.[1]\n",
-         "The band describes themselves as a new exciting onna-band (ニュー・エキサイト・オンナバンド, \"new exciting woman band\") or \"NEO\".[3] They aim to redefine the definition of kawaii (\"cute\") as \"neo kawaii\",[2] feeling that everyone around them was striving for a narrow definition of cute.[4] They believe that everyone is cute in their own way, and wanted to express this through their music.[6] As a theme of the band, the members of Chai decided to wear pink. They felt that actively choosing to do this was liberating, as they did not believe that the color suited them naturally.[25][21] The band uses psychological complexes as inspiration for their music.[4]\n",
-         "Japanese band Tokyo Jihen's Variety (2007) was an early influence for their music, inspiring them to make sure that every song on a release is distinct.[26] The band lists Basement Jaxx, Jamiroquai, Gorillaz, and CSS as some of their major influences.[27] On Pink, Chai drew influence from The Chemical Brothers, and electronic groups such as Chvrches and Justice.[25] Yuna was inspired to become a drummer by Katchan from the Okinawan pop/rap group Orange Range.[4]\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Extended plays": {},
-      "Singles": {
-         "Promotional singles": {}
-      },
-      "Guest appearances": {
-         "text": [
-            "The following songs are not singles or promotional singles and have not appeared on an album by Chai.\n"
-         ]
-      },
-      "Songwriting and production credits": {}
-   },
-   "Notes": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Chai (stylized as CHAI) are a four-member all-female rock band from Nagoya, Aichi, Japan. Formed in 2012, the band released their debut studio album Pink in 2017.\n",
-      "Chai was formed in 2012 in Nagoya, Aichi Prefecture, by twin sisters Mana and Kana, alongside Yuna and Yuuki.[2] Mana, Kana, and Yuna are all from Nagoya, and were in the same class at high school.[3] The three were members of the light music club at their high school, performing covers of musicians such as Tokyo Jihen and Aiko.[4] Yuna introduced the other band members to Japanese music that did not easily fit into the traditional definition of \"J-Pop\", such as the band Cero or Kimyō Reitaro.[4]\n",
-      "After the members graduated and went to university, Mana became friends with Yuuki (originally from Gifu Prefecture, who had moved to Nagoya), and asked the four friends to form a band.[3][5] The band's name comes from Russian tea (known as chai). Kana drank the tea with jam with her Russian literature professor at a Russian restaurant, which she thought was cute.[6]\n",
-      "At first, Chai performed mostly around Aichi Prefecture, but eventually moved to playing venues around Tokyo.[7] The band started releasing singles independently in 2013, and held a tour of central Japan in the summer holidays.[8] Their first large concert was performed at Zepp Nagoya, when the band were finalists in a college band competition.[8]\n"
+      "Chai was formed in 2012 in Nagoya, Aichi Prefecture, by twin sisters Mana and Kana, alongside Yuna and Yuuki. Mana, Kana, and Yuna are all from Nagoya, and were in the same class at high school. The three were members of the light music club at their high school, performing covers of musicians such as Tokyo Jihen and Aiko. Yuna introduced the other band members to Japanese music that did not easily fit into the traditional definition of \"J-Pop\", such as the band Cero or Kimyō Reitaro.\n",
+      "After the members graduated and went to university, Mana became friends with Yuuki (originally from Gifu Prefecture, who had moved to Nagoya), and asked the four friends to form a band. The band's name comes from Russian tea (known as chai). Kana drank the tea with jam with her Russian literature professor at a Russian restaurant, which she thought was cute.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,28 +1,6 @@
 {
    "Name": "Oakhurst (band)",
-   "Sections": [
-      "1 Awards",
-      "2 Personnel",
-      "2.1 Current members",
-      "2.2 Past members",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Oakhurst is an American bluegrass-rock band from Denver, Colorado. Founded by bassist Johnny James Qualley and singer Adam Patrick Hill in 1999, Oakhurst became a full-time nationally touring act in 2004 and has produced five records. Their most recent album is Barrel (2012) which was produced in Nashville, Tennessee by Joe Pisapia. The band spikes traditional bluegrass with rock & roll and a kamikaze rhythmic sensibility.\n"
-      ]
-   },
-   "Awards": {},
-   "Personnel": {
-      "Current members": {},
-      "Past members": {}
-   },
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Oakhurst is an American bluegrass-rock band from Denver, Colorado. Founded by bassist Johnny James Qualley and singer Adam Patrick Hill in 1999, Oakhurst became a full-time nationally touring act in 2004 and has produced five records. Their most recent album is Barrel (2012) which was produced in Nashville, Tennessee by Joe Pisapia. The band spikes traditional bluegrass with rock & roll and a kamikaze rhythmic sensibility.\n"
    ],
    "infobox": {}

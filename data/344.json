@@ -1,37 +1,9 @@
 {
    "Name": "Rose Chronicles",
-   "Sections": [
-      "1 Career",
-      "2 Group members",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Rose Chronicles was a Canadian alternative rock band in the 1990s. The band, from Vancouver, consisted of vocalist Kristy Thirsk, guitarist Richard Maranda, bassist Judd Cochrane and drummer Steve van der Woerd.[1]\n",
-         "Their musical style merged elements of the shoegazing scene — they cited Curve as one of their key influences — with ethereal dream pop vocals in the style of Sarah McLachlan and the Cocteau Twins.\n"
-      ]
-   },
-   "Career": {
-      "text": [
-         "The band was first formed in 1992 by Maranda, Hand, and Van Der Woerd, with Thirsk and Cochrane joining soon afterward after responding to a classified advertisement in The Georgia Straight.[1] By the end of the year, they had signed to Nettwerk after their third live show.[1][2]\n",
-         "The band released their debut EP, Dead and Gone to Heaven, in 1993.[3] Their debut full-length album, Shiver, was released in 1994, and scored a significant modern rock hit with \"Awaiting Eternity\". The band toured Canada as a supporting act for Toad the Wet Sprocket and Jesus Jones,[4] as a headlining act with openers Acid Test[4] and Treble Charger,[5] and at some Canadian dates on the Lollapalooza festival circuit.[6] Shiver went on to win a Juno Award in 1995 for Best Alternative Album.[1]\n",
-         "Thirsk subsequently contributed vocals to tracks on several of Delerium's albums from Semantic Spaces (1994) onwards.[7]\n",
-         "In 1996, Cochrane and van der Woerd had finished the followup to Shiver, but left the band amidst infighting and uncertainty about Nettwerk's intentions for the band. Maranda and Thirsk regrouped with drummer Trevor Grant and bassist Howard Redekopp to complete one new song, which was added to the forthcoming album. The follow-up album Happily Ever After was released in 1996,[8] but Thirsk and Maranda's partnership had dissolved prior to its release. The break-up announcement came after the album's release. The single \"Voice in Jail\" was moderately successful.\n",
-         "Their song \"Dwelling\", from Shiver, was included in the soundtrack to the 1996 film Foxfire.[9]\n",
-         "Thirsk went on to release her debut album as a solo artist, Souvenir, in 2004.[7]\n"
-      ]
-   },
-   "Group members": {},
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Rose Chronicles was a Canadian alternative rock band in the 1990s. The band, from Vancouver, consisted of vocalist Kristy Thirsk, guitarist Richard Maranda, bassist Judd Cochrane and drummer Steve van der Woerd.[1]\n",
+   "rawData": [
+      "Rose Chronicles was a Canadian alternative rock band in the 1990s. The band, from Vancouver, consisted of vocalist Kristy Thirsk, guitarist Richard Maranda, bassist Judd Cochrane and drummer Steve van der Woerd.\n",
       "Their musical style merged elements of the shoegazing scene — they cited Curve as one of their key influences — with ethereal dream pop vocals in the style of Sarah McLachlan and the Cocteau Twins.\n",
-      "The band was first formed in 1992 by Maranda, Hand, and Van Der Woerd, with Thirsk and Cochrane joining soon afterward after responding to a classified advertisement in The Georgia Straight.[1] By the end of the year, they had signed to Nettwerk after their third live show.[1][2]\n",
-      "The band released their debut EP, Dead and Gone to Heaven, in 1993.[3] Their debut full-length album, Shiver, was released in 1994, and scored a significant modern rock hit with \"Awaiting Eternity\". The band toured Canada as a supporting act for Toad the Wet Sprocket and Jesus Jones,[4] as a headlining act with openers Acid Test[4] and Treble Charger,[5] and at some Canadian dates on the Lollapalooza festival circuit.[6] Shiver went on to win a Juno Award in 1995 for Best Alternative Album.[1]\n"
+      "The band was first formed in 1992 by Maranda, Hand, and Van Der Woerd, with Thirsk and Cochrane joining soon afterward after responding to a classified advertisement in The Georgia Straight. By the end of the year, they had signed to Nettwerk after their third live show.\n"
    ],
    "infobox": {
       "Origin": [

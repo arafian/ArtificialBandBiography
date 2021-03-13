@@ -1,58 +1,9 @@
 {
    "Name": "Alisa (Russian band)",
-   "Sections": [
-      "1 Biography",
-      "2 Lyrical themes",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 Live albums",
-      "3.3 Compilation albums",
-      "4 Band members",
-      "4.1 Current line up",
-      "4.2 Former members",
-      "4.3 Timeline",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Alisa (Russian: Алиса[1]) is a Russian hard rock band, which is considered one of the most influential bands in the Russian rock movement.\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "Alisa was formed in November 1983 by bassist Svyatoslav Zadery. The band's name originated from Zadery's nickname. The band's lineup was finally completed in 1984, when new vocalist Kostya Kinchev (real name Konstantin Panfilov) and guitarist Petr Samoylov joined. Their debut album Energia was recorded between 1985 and 1986. Energia was released by the state publishing monopoly Melodiya in 1988 and sold more than a million copies.\n",
-         "The relations between Alisa's two leaders, Kinchev and Zadery, deteriorated, and Zadery left the band. This occurred just one hour before Alisa was to perform at a concert. Kino bassist Igor Tihomirov was asked to replace Zadery for one concert. Later, Zadery created his own band Nateh! (Russian: НАТЕ!, lit. 'Take that!'). Zadery died on 6 May 2011 due to complications from a stroke at the age of 50.[2]\n",
-         "Alisa's growing popularity led to the formation of a fan community called the Army of Alisa, known for their rough behaviour at concerts. It led to animosity between the band and Soviet officials. In 1987, the newspaper Smena accused Alisa's leader Kinchev of Nazi propaganda and worshiping Hitler. Kinchev filed a suit for calumny and moral damage compensation. After a year-long court process, the magazine published a refutation. Alisa's next album was titled Article 206 part 2, a chapter (\"Hooliganism\") of the USSR Procedural Code, alluding to this process. It was recorded in 1989, but would not be released until 1994 due to the tapes going missing.\n",
-         "In 1988, guitarist Igor \"Chuma\" Chumychkin joined the band. This change was followed by the heavier sound of next two albums, Shabash and For those Who Fell From the Moon. Alisa toured through Europe and Israel together with fellow Russian heavy metal band Aria. The album Black Mark, released in 1994, was dedicated to the memory of Chuma, who committed suicide by jumping from a window.\n",
-         "In the new millennium, with albums such as Seychas Pozdnee Chem Ty Dumaesh (It is Later Than You Think, 2003) and Izgoy (Exile, 2005), Alisa's sound became heavier, including elements of nu, industrial and heavy metal. Music critics credited Clawfinger as Kinchev's greatest new music influence. This gave Alisa a new fan base among Russian hard rock fans, and three songs from Izgoy continually reached the top of the Nashe Radio chart. The follow-up albums Stat' Severa and Puls' Khranitelia Dverey Labyrinta were less alternative-oriented and blended older and newer styles. Alisa shot a music video for the fantasy movie Wolfhound, but their song was not included on the soundtrack.\n",
-         "Alisa ranked among the top ten most popular Russian rock bands according to a Romir survey from 2005,[3] and ranked first in the list of the most influential Russian rock groups according to a Komsomolskaya Pravda readers' poll from 2004.[4]\n"
-      ]
-   },
-   "Lyrical themes": {
-      "text": [
-         "Kinchev was baptized in 1992 after a series of concerts in Jerusalem, and since then Christianity has been the main influence on his direction and his lyrics. Although early Alisa lyrics were typical for Russian rock - social protest and rock 'n' roll hype - since the late 1990s their main theme has been ideas of Christianity, as well as Russian patriotism and nationalism.\n",
-         "Konstantin is in good relations with the priests of the Russian Orthodox Church, especially Andrey Kuraev. The band has participated in many religion-supporting festivals, such as Musicians for the Christ Savior Cathedral.\n",
-         "Kinchev's fairly conservative religious-patriotic shift was viewed unfavourably by some old fans that liked Alisa for their original \"rock\" message.\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Live albums": {},
-      "Compilation albums": {}
-   },
-   "Band members": {
-      "Current line up": {},
-      "Former members": {},
-      "Timeline": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Alisa (Russian: Алиса[1]) is a Russian hard rock band, which is considered one of the most influential bands in the Russian rock movement.\n",
+   "rawData": [
+      "Alisa (Russian: Алиса) is a Russian hard rock band, which is considered one of the most influential bands in the Russian rock movement.\n",
       "Alisa was formed in November 1983 by bassist Svyatoslav Zadery. The band's name originated from Zadery's nickname. The band's lineup was finally completed in 1984, when new vocalist Kostya Kinchev (real name Konstantin Panfilov) and guitarist Petr Samoylov joined. Their debut album Energia was recorded between 1985 and 1986. Energia was released by the state publishing monopoly Melodiya in 1988 and sold more than a million copies.\n",
-      "The relations between Alisa's two leaders, Kinchev and Zadery, deteriorated, and Zadery left the band. This occurred just one hour before Alisa was to perform at a concert. Kino bassist Igor Tihomirov was asked to replace Zadery for one concert. Later, Zadery created his own band Nateh! (Russian: НАТЕ!, lit. 'Take that!'). Zadery died on 6 May 2011 due to complications from a stroke at the age of 50.[2]\n",
-      "Alisa's growing popularity led to the formation of a fan community called the Army of Alisa, known for their rough behaviour at concerts. It led to animosity between the band and Soviet officials. In 1987, the newspaper Smena accused Alisa's leader Kinchev of Nazi propaganda and worshiping Hitler. Kinchev filed a suit for calumny and moral damage compensation. After a year-long court process, the magazine published a refutation. Alisa's next album was titled Article 206 part 2, a chapter (\"Hooliganism\") of the USSR Procedural Code, alluding to this process. It was recorded in 1989, but would not be released until 1994 due to the tapes going missing.\n"
+      "The relations between Alisa's two leaders, Kinchev and Zadery, deteriorated, and Zadery left the band. This occurred just one hour before Alisa was to perform at a concert. Kino bassist Igor Tihomirov was asked to replace Zadery for one concert. Later, Zadery created his own band Nateh! (Russian: НАТЕ!, lit. 'Take that!'). Zadery died on 6 May 2011 due to complications from a stroke at the age of 50.\n"
    ],
    "infobox": {
       "Also known as": [

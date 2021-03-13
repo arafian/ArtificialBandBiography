@@ -1,52 +1,9 @@
 {
    "Name": "The Biscuit Burners",
-   "Sections": [
-      "1 History",
-      "2 Performance",
-      "3 Musical style",
-      "4 Instruction",
-      "5 Recordings",
-      "6 References",
-      "7 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Biscuit Burners are an Original bluegrass /Americana band from Weaverville, North Carolina (United States); they are on hiatus as of 2009.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The Biscuit Burners began around a kitchen table, with friends, dogs and musicians roaming in and out of their Asheville, North Carolina home. Early founding member Lizzie Hamilton had previously worked with Steep Canyon Rangers.[1] As lore has it, a few biscuits did get burned during the making of this award winning band that stole the hearts of many during their time together.  Beginning as an all-female group, the band quickly morphed into the core four of Mary Lucey (bass and vocals), Shannon Whitworth (guitar, clawhammer and vocals), Billy Cardine (dobro and banjo) and Dan Bletz (acoustic guitar).\n",
-         "The Biscuit Burners quickly established themselves.  Along with being showcased at the IBMA Conference and appearing at the Historic Ryman Auditorium with Vassar Clements and Rhonda Vincent, they had their debut album, 'Fiery Mountain Music', chosen in the Top 10 Bluegrass Albums of 2004 by the Chicago Tribune.  Critics also chose Shannon Whitworth's song \"Come On Darlin'\" as the IPOD Hotpick Bluegrass Song of 2004.  In September 2005, the band released their second album, A Mountain Apart, which was in the Top 20 of the Roots Music Report National Bluegrass Airplay chart for five months after its release.  \n",
-         "In 2006, The Biscuit Burners could be enjoyed across the airwaves of BBC World TV’s Destination Music, NPR’ s Mountain Stage, and PBS’ Roadtrip Nation as well as in person at over 130 concerts nationwide including: Chicago’s Old Town School of Folk Music, Berkeley’s Freight and Salvage, Alexandria, VA’s Birchmere.\n",
-         "Shannon Whitworth left the group to pursue a solo career.[2] In 2007, Odessa Jorgensen joined the band on fiddle and vocals and contributed her talents to the 3rd album.  \n",
-         "The band's last show was in the fall of 2009 at the Kennedy Center as part of their Tribute to American Acoustic Music.\n"
-      ]
-   },
-   "Performance": {
-      "text": [
-         "The Biscuit Burners have appeared on BBC World's \"Destination Music\", National Public Radio's \"Mountain Stage\", XM's \"Bluegrass Junction\", and PBS' \"Roadtrip Nation\".  The group performed at Bonnaroo in 2007.\n",
-         "Billy Cardine has performed with the three-time Grammy Winning Edgar Meyer at Carnegie Hall.  The group has had a number of sellout concerts from Pennsylvania to California, and top bill appearances at major festivals.   They've appeared in over 130 concerts nationwide[citation needed] including: MerleFest and the Bonnaroo Music Festival.  The latter was depicted on The History Channel's \"Our Generation\".\n"
-      ]
-   },
-   "Musical style": {
-      "text": [
-         "A fresh approach to acoustic music with roots that date as far back as mountain music can reach, The Biscuit Burners offer their Fiery Mountain Music with innovative instrumentation, resplendent harmonies, and captivating original material.  Their unique yet familiar material pulls strong from their respect of traditional mountain music, their love of bluegrass and classic country, and their appreciation of music from the far corners of the world.\n"
-      ]
-   },
-   "Instruction": {
-      "text": [
-         "In early 2004 they began an Appalachian Roots Music Schools Program,[2] where they present the heritage of mountain music along with its techniques and etiquette.  The program is designed to give school children a sense of the history and tradition of American bluegrass music.[3]\n"
-      ]
-   },
-   "Recordings": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Biscuit Burners are an Original bluegrass /Americana band from Weaverville, North Carolina (United States); they are on hiatus as of 2009.\n",
-      "The Biscuit Burners began around a kitchen table, with friends, dogs and musicians roaming in and out of their Asheville, North Carolina home. Early founding member Lizzie Hamilton had previously worked with Steep Canyon Rangers.[1] As lore has it, a few biscuits did get burned during the making of this award winning band that stole the hearts of many during their time together.  Beginning as an all-female group, the band quickly morphed into the core four of Mary Lucey (bass and vocals), Shannon Whitworth (guitar, clawhammer and vocals), Billy Cardine (dobro and banjo) and Dan Bletz (acoustic guitar).\n",
-      "The Biscuit Burners quickly established themselves.  Along with being showcased at the IBMA Conference and appearing at the Historic Ryman Auditorium with Vassar Clements and Rhonda Vincent, they had their debut album, 'Fiery Mountain Music', chosen in the Top 10 Bluegrass Albums of 2004 by the Chicago Tribune.  Critics also chose Shannon Whitworth's song \"Come On Darlin'\" as the IPOD Hotpick Bluegrass Song of 2004.  In September 2005, the band released their second album, A Mountain Apart, which was in the Top 20 of the Roots Music Report National Bluegrass Airplay chart for five months after its release.  \n",
-      "In 2006, The Biscuit Burners could be enjoyed across the airwaves of BBC World TV’s Destination Music, NPR’ s Mountain Stage, and PBS’ Roadtrip Nation as well as in person at over 130 concerts nationwide including: Chicago’s Old Town School of Folk Music, Berkeley’s Freight and Salvage, Alexandria, VA’s Birchmere.\n"
+      "The Biscuit Burners began around a kitchen table, with friends, dogs and musicians roaming in and out of their Asheville, North Carolina home. Early founding member Lizzie Hamilton had previously worked with Steep Canyon Rangers. As lore has it, a few biscuits did get burned during the making of this award winning band that stole the hearts of many during their time together.  Beginning as an all-female group, the band quickly morphed into the core four of Mary Lucey (bass and vocals), Shannon Whitworth (guitar, clawhammer and vocals), Billy Cardine (dobro and banjo) and Dan Bletz (acoustic guitar).\n",
+      "The Biscuit Burners quickly established themselves.  Along with being showcased at the IBMA Conference and appearing at the Historic Ryman Auditorium with Vassar Clements and Rhonda Vincent, they had their debut album, 'Fiery Mountain Music', chosen in the Top 10 Bluegrass Albums of 2004 by the Chicago Tribune.  Critics also chose Shannon Whitworth's song \"Come On Darlin'\" as the IPOD Hotpick Bluegrass Song of 2004.  In September 2005, the band released their second album, A Mountain Apart, which was in the Top 20 of the Roots Music Report National Bluegrass Airplay chart for five months after its release.  \n"
    ],
    "infobox": {
       "Origin": [

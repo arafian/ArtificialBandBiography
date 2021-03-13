@@ -1,75 +1,9 @@
 {
    "Name": "Dark Star Orchestra",
-   "Sections": [
-      "1 Overview",
-      "2 History",
-      "3 Members",
-      "3.1 Current members",
-      "3.2 Former Members",
-      "3.3 Touring substitutes/guests",
-      "3.4 Band member timeline",
-      "4 Tours",
-      "4.1 2008",
-      "4.2 2009",
-      "4.3 2010",
-      "4.4 2011",
-      "4.5 2012",
-      "4.6 2013",
-      "4.7 2014",
-      "4.8 2015",
-      "5 References",
-      "6 Further reading",
-      "7 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Dark Star Orchestra is a Grateful Dead cover band formed in Chicago, Illinois. They serve as a tribute band to the rock group the Grateful Dead. Since 1997, the band has been \"celebrating the Grateful Dead concert experience.\"\n"
-      ]
-   },
-   "Overview": {
-      "text": [
-         "Dark Star Orchestra performs shows from among the nearly 2,500 performances of the Grateful Dead during their 30-year tenure as fathers of improvisational rock. On most, though not all of their performances, Dark Star Orchestra presents the complete original set list, song by song, and in order, while adapting their phrasing, voice arrangements and specific musical equipment for the various eras of the Grateful Dead shows in which they perform.[1]\n",
-         "Members of the Grateful Dead themselves, including rhythm guitarist/singer Bob Weir, bassist Phil Lesh, drummer Bill Kreutzmann, vocalist Donna Jean Godchaux, and keyboardists Vince Welnick and Tom Constanten, have all appeared on stage and performed with Dark Star Orchestra. In November 2011, the group played its 2,000th show in Ithaca, New York.[2]\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Dark Star Orchestra has been playing live shows together since 1997, after guitarist John Kadlecik contacted keyboardist Scott Larned with a concept (introduced by a common friend Andrew \"Tiny\" Dofner): performing complete Grateful Dead shows out of history. When Scott mentioned having the same idea, John knew they were on to something. Since forming, the band has performed over 2,500 shows.[2]\n",
-         "On lead guitar and vocals, John Kadlecik used amp rigs and equipment to imitate guitar tone of Jerry Garcia from the show being recreated.  When a 70s show is being performed, vocalist Lisa Mackey provides Donna Godchaux's female harmonies.\n",
-         "Dino English delivers the rhythmic drumming sounds of Bill Kreutzmann. On the other drum set, Rob Koritz, fills the Mickey Hart role. Kevin Rosen provides a style of bass playing similar to that of Phil Lesh. Rob Eaton performs rhythm guitar and vocals in the style of Bob Weir.\n",
-         "In November 1998, on the eve of their first anniversary, Mike Gordon and Jon Fishman of Phish joined DSO at Martyrs' after their own show. Fishman sat in for the majority of the evening, which included a drum section with four percussionists. The ensuing buzz caused national interest in the band. That winter, their Colorado tour sold out almost every stop, and, soon after, the Washington Post declared them \"the hottest Grateful Dead tribute act going\"; USA Today claimed DSO was \"channeling the Dead\", but what they do is not just a tribute to the Grateful Dead but a testament to the enormous number of unique set lists they performed in their long career.\n",
-         "Continuing the growth, the band had performed up to 200 dates in a year. They have grown continually, playing at larger venues and theaters, collaborating with guests including Grateful Dead alumni Bob Weir, Phil Lesh, Bill Kreutzmann, Donna Jean Godchaux-Mackay, Vince Welnick, and Tom Constanten.\n",
-         "On 29 October 2004, Dark Star Orchestra performed their 1,000th show at Carolina Theatre in Greensboro, N.C. The show did not adhere to a particular Grateful Dead setlist but was instead composed of highlights from throughout the Grateful Dead's history. The show was recorded by the DSO crew and distributed as a 3-CD set. \n",
-         "In 2008, Dark Star Orchestra performed over 150 shows throughout the U.S.  In addition to the complete Grateful Dead show selections, the band has been known to incorporate Jerry Garcia Band show setlists as well as original set lists of their own choosing.\n",
-         "During the band's Spring tour in 2005, co-founder Scott Larned died of a heart attack on April 24; the band reeled for a while, featuring the talents of guest keyboardists, including Dan Klepinger and Tom Ryan, until selecting Rob Barraco as a permanent replacement in 2007.\n",
-         "In 2009 John Kadlecik joined a new band with original Grateful Dead members Phil Lesh and Bob Weir called Furthur. On November 16, 2009 he officially announced that he was leaving Dark Star Orchestra. His final show with the band was on December 5, 2009.  For DSO's 2009–10 winter shows, he was replaced by guitarist Jeff Mattson of the Zen Tricksters and the Donna Jean Godchaux Band. Mattson now is considered the permanent guitarist for DSO.\n",
-         "On May 3, 2013 it was announced that bassist Kevin Rosen would be leaving the band. He was quoted as saying \"After all my years of touring with Dark Star Orchestra, I find myself in need of an extended break from life on the road.  In addition, my mother’s declining health makes it even more important to be home at this time.\" [3]\n"
-      ]
-   },
-   "Members": {
-      "Current members": {},
-      "Former Members": {},
-      "Touring substitutes/guests": {},
-      "Band member timeline": {}
-   },
-   "Tours": {
-      "2008": {},
-      "2009": {},
-      "2010": {},
-      "2011": {},
-      "2012": {},
-      "2013": {},
-      "2014": {},
-      "2015": {}
-   },
-   "References": {},
-   "Further reading": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Dark Star Orchestra is a Grateful Dead cover band formed in Chicago, Illinois. They serve as a tribute band to the rock group the Grateful Dead. Since 1997, the band has been \"celebrating the Grateful Dead concert experience.\"\n",
-      "Dark Star Orchestra performs shows from among the nearly 2,500 performances of the Grateful Dead during their 30-year tenure as fathers of improvisational rock. On most, though not all of their performances, Dark Star Orchestra presents the complete original set list, song by song, and in order, while adapting their phrasing, voice arrangements and specific musical equipment for the various eras of the Grateful Dead shows in which they perform.[1]\n",
-      "Members of the Grateful Dead themselves, including rhythm guitarist/singer Bob Weir, bassist Phil Lesh, drummer Bill Kreutzmann, vocalist Donna Jean Godchaux, and keyboardists Vince Welnick and Tom Constanten, have all appeared on stage and performed with Dark Star Orchestra. In November 2011, the group played its 2,000th show in Ithaca, New York.[2]\n",
-      "Dark Star Orchestra has been playing live shows together since 1997, after guitarist John Kadlecik contacted keyboardist Scott Larned with a concept (introduced by a common friend Andrew \"Tiny\" Dofner): performing complete Grateful Dead shows out of history. When Scott mentioned having the same idea, John knew they were on to something. Since forming, the band has performed over 2,500 shows.[2]\n"
+      "Dark Star Orchestra performs shows from among the nearly 2,500 performances of the Grateful Dead during their 30-year tenure as fathers of improvisational rock. On most, though not all of their performances, Dark Star Orchestra presents the complete original set list, song by song, and in order, while adapting their phrasing, voice arrangements and specific musical equipment for the various eras of the Grateful Dead shows in which they perform.\n",
+      "Members of the Grateful Dead themselves, including rhythm guitarist/singer Bob Weir, bassist Phil Lesh, drummer Bill Kreutzmann, vocalist Donna Jean Godchaux, and keyboardists Vince Welnick and Tom Constanten, have all appeared on stage and performed with Dark Star Orchestra. In November 2011, the group played its 2,000th show in Ithaca, New York.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,47 +1,9 @@
 {
    "Name": "Hearts of Saints",
-   "Sections": [
-      "1 Background",
-      "2 Music history",
-      "3 Members",
-      "4 Discography",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Hearts of Saints is an American contemporary Christian alternative rock worship band, while they were formerly known as, Special D. They come from Hopkinsville, Kentucky, where the band started making music in 2005, and their frontman is Craig Felker. The first studio album, Hearts of Saints, was released by Revolution Art, in 2010. Their subsequent studio album, For All of Us, was released independently, in 2013.\n"
-      ]
-   },
-   "Background": {
-      "text": [
-         "Hearts of Saints is a contemporary Christian alternative rock worship band from Hopkinsville, Kentucky, while they were formed in 2005, being known as Special D.[1][2]  They changed the name to Hearts of Saints around 2009. Their current members are lead vocalist, Craig Felker, guitarist and background vocalist, Jesse Grisham, and bassist, Joel Purdy, while their past members were background vocalist and guitarist, L.J. Granstaff, and drummer, Jason Killebrew.[1][2]\n"
-      ]
-   },
-   "Music history": {
-      "text": [
-         "The band commenced as a musical entity in 2005, with their first release, Over and Over, an extended play as Special D, that was released independently, in 2008.[1] They released, a studio album, Hearts of Saints, on January 26, 2010, with Revolution Art.[3][4][5] Their subsequent studio album, For All of Us, was released independently, on January 15, 2013.[6][7][8][9][10]\n"
-      ]
-   },
-   "Members": {
-      "text": [
-         "Current members[2]\n",
-         "Former members[1]\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "Studio albums\n",
-         "EPs\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Hearts of Saints is an American contemporary Christian alternative rock worship band, while they were formerly known as, Special D. They come from Hopkinsville, Kentucky, where the band started making music in 2005, and their frontman is Craig Felker. The first studio album, Hearts of Saints, was released by Revolution Art, in 2010. Their subsequent studio album, For All of Us, was released independently, in 2013.\n",
-      "Hearts of Saints is a contemporary Christian alternative rock worship band from Hopkinsville, Kentucky, while they were formed in 2005, being known as Special D.[1][2]  They changed the name to Hearts of Saints around 2009. Their current members are lead vocalist, Craig Felker, guitarist and background vocalist, Jesse Grisham, and bassist, Joel Purdy, while their past members were background vocalist and guitarist, L.J. Granstaff, and drummer, Jason Killebrew.[1][2]\n",
-      "The band commenced as a musical entity in 2005, with their first release, Over and Over, an extended play as Special D, that was released independently, in 2008.[1] They released, a studio album, Hearts of Saints, on January 26, 2010, with Revolution Art.[3][4][5] Their subsequent studio album, For All of Us, was released independently, on January 15, 2013.[6][7][8][9][10]\n",
-      "Current members[2]\n"
+      "Hearts of Saints is a contemporary Christian alternative rock worship band from Hopkinsville, Kentucky, while they were formed in 2005, being known as Special D.  They changed the name to Hearts of Saints around 2009. Their current members are lead vocalist, Craig Felker, guitarist and background vocalist, Jesse Grisham, and bassist, Joel Purdy, while their past members were background vocalist and guitarist, L.J. Granstaff, and drummer, Jason Killebrew.\n",
+      "The band commenced as a musical entity in 2005, with their first release, Over and Over, an extended play as Special D, that was released independently, in 2008. They released, a studio album, Hearts of Saints, on January 26, 2010, with Revolution Art. Their subsequent studio album, For All of Us, was released independently, on January 15, 2013.\n"
    ],
    "infobox": {
       "Also known as": [

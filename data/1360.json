@@ -1,40 +1,9 @@
 {
    "Name": "Erdling",
-   "Sections": [
-      "1 Discography",
-      "1.1 Albums",
-      "1.2 Singles and EPs",
-      "1.3 Music videos",
-      "2 Gallery",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Erdling (German for \"Earthling\") are a German Neue Deutsche Härte band founded in 2014 from former band members of the band Stahlmann.\n",
-         "The band members include Neill Freiwald (vocals, guitar, programming), Neno Knuckle (guitar), Christian Eichlinger (drums), and Robin Sem Vedrfölnir (bass guitar).[1]\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "Singles and EPs": {},
-      "Music videos": {}
-   },
-   "Gallery": {
-      "text": [
-         "Singer Neill Freiwald\n",
-         "Guitarist Neno Knuckle\n",
-         "Drummer Christian Eichlinger\n",
-         "Bass Guitarist Pierre Anders\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Erdling (German for \"Earthling\") are a German Neue Deutsche Härte band founded in 2014 from former band members of the band Stahlmann.\n",
-      "The band members include Neill Freiwald (vocals, guitar, programming), Neno Knuckle (guitar), Christian Eichlinger (drums), and Robin Sem Vedrfölnir (bass guitar).[1]\n",
-      "Singer Neill Freiwald\n",
-      "Guitarist Neno Knuckle\n"
+      "The band members include Neill Freiwald (vocals, guitar, programming), Neno Knuckle (guitar), Christian Eichlinger (drums), and Robin Sem Vedrfölnir (bass guitar).\n",
+      "Singer Neill Freiwald\n"
    ],
    "infobox": {
       "Origin": [

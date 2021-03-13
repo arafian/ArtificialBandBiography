@@ -1,43 +1,9 @@
 {
-   "Name": "A Practical Guide to Astral Projection",
-   "Sections": [
-      "1 Track listing",
-      "2 Personnel",
-      "3 Additional personnel",
-      "4 External links"
+   "Name": "Los Mustang",
+   "rawData": [
+      "Los Mustang is a Spanish rock band from Barcelona formed in the 1960s originally made up of Santiago \"Santi\" Carulla (vocals), Marco Rossi (solo guitar), Antonio \"Toni\" Mercadé (acoustic guitar and vocals), Miguel Navarro (bass and vocals) and Antonio \"Tony\" Mier (drums). They are best known for their Spanish language covers of songs from the 1960s and the 1970s.\n",
+      "The young musicians met at San Carlos Club. Three of them (Marco Rossi, Miguel Navarro and Antonio Mercadé) were members of the group Poble-sec. Los Mustang were inspired by the style of The Shadows. With the inclusion of Santi Carulla (from rival group Los Sírex) as lead singer, the group gained fame in Barcelona with an image of professionalism and cover interpretation of international hits.\n",
+      "In October 1962, Los Mustang recorded their debut album on EMI-Odeon, featuring cover versions of popular songs like \"Quinientas Millas\", Peter, Paul and Mary's \"500 Miles\", Johnny Hallyday's \"Madison Twist\", and Spanish songs \"He de saber\" and \"No lo ves\". Their repertoire consisted of many Spanish-interpreted foreign hits, but also included several original Spanish songs.\n"
    ],
-   "Summary": {
-      "text": [
-         "A Practical Guide to Astral Projection is an EP and the second studio record by American rock band The Nymphs. It was produced by Bill Price and released in 1992 on DGC Records. The EP consists of demos of \"The Highway\" and \"Alright\" the band made prior to being signed, a previously unreleased cover of Badfinger's \"Come and Get It\" plus the album versions of \"Imitating Angels\" and \"Wasting My Days\". The EP was released after the band broke up.\n"
-      ]
-   },
-   "Track listing": {
-      "text": [
-         "All songs by The Nymphs except for \"Come and Get It\", written by Paul McCartney\n"
-      ]
-   },
-   "Personnel": {},
-   "Additional personnel": {},
-   "External links": {},
-   "coreData": [
-      "A Practical Guide to Astral Projection is an EP and the second studio record by American rock band The Nymphs. It was produced by Bill Price and released in 1992 on DGC Records. The EP consists of demos of \"The Highway\" and \"Alright\" the band made prior to being signed, a previously unreleased cover of Badfinger's \"Come and Get It\" plus the album versions of \"Imitating Angels\" and \"Wasting My Days\". The EP was released after the band broke up.\n",
-      "All songs by The Nymphs except for \"Come and Get It\", written by Paul McCartney\n"
-   ],
-   "infobox": {
-      "Released": [
-         "1992"
-      ],
-      "Genre": [
-         "Alternative rock, punk rock"
-      ],
-      "Length": [
-         "22:06"
-      ],
-      "Label": [
-         "DGC"
-      ],
-      "Producer": [
-         "Bill Price"
-      ]
-   }
+   "infobox": {}
 }

@@ -1,56 +1,9 @@
 {
    "Name": "Zone (band)",
-   "Sections": [
-      "1 History",
-      "2 Band members",
-      "3 Music",
-      "4 Discography",
-      "4.1 Singles",
-      "4.2 Studio albums",
-      "4.3 Other album appearances",
-      "4.4 DVDs",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Zone were all-female rock band started in Sapporo, Japan in 1997. Although it initially started as a dance group, they turned to an all-female band. Zone has been categorized in a new genre called \"bandol\" (a portmanteau of the words band and idol). The band was started and managed by Studio RunTime and released their first single, \"Good Days\", under the major record label Sony Records, on February 7, 2001.  The group has officially ended on March 2, 2013.\n",
-         "Their most famous song is \"Secret Base (Kimi ga Kureta Mono)\", released on August 8, 2001. The single sold about 744,000 copies on Japanese Oricon charts.[1]\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Zone started off with eight members in 1997, then reduced to six and finally to four – Miyu Nagase, Mizuho Saito, Maiko Sakae, and Takayo Ookoshi – by the time they released their first indie disc in 1999.\n",
-         "Tadayuki Ominami, a representative of Sony Records, noticed that the crowd reaction to the group's debut concert was particularly enthusiastic. Initially, Zone was solely focused on singing and dancing. Ominami watched a live video of the band playing with instruments at the KomeKome Klub and felt that, due to the overabundance of dance groups, Zone had the makings of a breakthrough act, provided they could play their instruments as well as sing and dance.\n",
-         "In late 2003, Takayo Ookoshi announced her departure from Zone to pursue her studies and was replaced by Tomoka Nishimura, one of the two original members cut from the band when they scaled from six members to four.\n",
-         "Between 1999 and 2005, Zone released seventeen hit singles, three full-length CDs, and three DVDs, appeared in commercials, and had their own television special, in addition to attending high school. They all graduated.\n",
-         "Zone officially disbanded on April 1, 2005, after playing their final concert at Nippon Budokan. On April 13, their greatest hits album E: Complete A Side Singles was released. The album debuted at number 1 with first-week sales of about 98,000 copies, becoming their first number-one album on Japanese Oricon charts.[2]\n",
-         "In February 2011, Miyu, Maiko, and Tomoka announced they would be reuniting (without Mizuho) in honor of the 10th anniversary of \"Secret Base.\" The group released Zone Tribute in August and made several concert appearances. In November, Tomoka announced she would be leaving the band because of health reasons. Miyu and Maiko continued as a duo, and released \"Treasure of the Heart\" in June 2012.\n",
-         "In February 2013, Miyu's contract with RunTime Music Agency was dissolved due to the company claiming 'immoral behaviour' and 'frequent non-fulfillment of duties'.[3] On March 2, Maiko posted on the official website for RunTime Entertainment that she would be ending ZONE.[4]\n"
-      ]
-   },
-   "Band members": {},
-   "Music": {
-      "text": [
-         "Zone's music has been used in the 2003 Astro Boy series (opening theme, \"True Blue\" and second ending theme, \"Tetsuwan Atomu: ballad version\") and the Japanese release of Ice Age (theme song, \"Hitoshizuku\").\n",
-         "\"Shiroi Hana\" was used as the theme song to Final Fantasy Tactics Advance in Japan.\n",
-         "\"Secret Base (Kimi ga Kureta Mono)\" was covered and used as the ending theme to the anime Kyō no Go no Ni and Anohana: The Flower We Saw That Day by the voice actors of the respective anime.\n",
-         "\"Secret Base (Kimi ga Kureta Mono)\" was covered by the Japanese band SCANDAL, who is currently under Sony Records. A music video of their version has also been made.\n"
-      ]
-   },
-   "Discography": {
-      "Singles": {},
-      "Studio albums": {},
-      "Other album appearances": {},
-      "DVDs": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Zone were all-female rock band started in Sapporo, Japan in 1997. Although it initially started as a dance group, they turned to an all-female band. Zone has been categorized in a new genre called \"bandol\" (a portmanteau of the words band and idol). The band was started and managed by Studio RunTime and released their first single, \"Good Days\", under the major record label Sony Records, on February 7, 2001.  The group has officially ended on March 2, 2013.\n",
-      "Their most famous song is \"Secret Base (Kimi ga Kureta Mono)\", released on August 8, 2001. The single sold about 744,000 copies on Japanese Oricon charts.[1]\n",
-      "Zone started off with eight members in 1997, then reduced to six and finally to four – Miyu Nagase, Mizuho Saito, Maiko Sakae, and Takayo Ookoshi – by the time they released their first indie disc in 1999.\n",
-      "Tadayuki Ominami, a representative of Sony Records, noticed that the crowd reaction to the group's debut concert was particularly enthusiastic. Initially, Zone was solely focused on singing and dancing. Ominami watched a live video of the band playing with instruments at the KomeKome Klub and felt that, due to the overabundance of dance groups, Zone had the makings of a breakthrough act, provided they could play their instruments as well as sing and dance.\n"
+      "Their most famous song is \"Secret Base (Kimi ga Kureta Mono)\", released on August 8, 2001. The single sold about 744,000 copies on Japanese Oricon charts.\n",
+      "Zone started off with eight members in 1997, then reduced to six and finally to four – Miyu Nagase, Mizuho Saito, Maiko Sakae, and Takayo Ookoshi – by the time they released their first indie disc in 1999.\n"
    ],
    "infobox": {
       "Origin": [

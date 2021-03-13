@@ -1,59 +1,9 @@
 {
    "Name": "The New Pornographers",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "2.1 Timeline",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 Live albums",
-      "3.3 Singles",
-      "3.4 Contributions with non-LP songs",
-      "3.5 Other Contributions",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The New Pornographers are a Canadian indie rock band, formed in 1997 in Vancouver, British Columbia. Presented as a musical collective of singer-songwriters and musicians from multiple projects, the band has released eight studio albums to critical acclaim for their use of multiple vocalists and elements of power pop incorporated into their music.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The New Pornographers' name was chosen by Carl Newman, who has said that he came up with it after watching a Japanese film called The Pornographers.[1]  The band has released eight albums to date: Mass Romantic (2000), Electric Version (2003), Twin Cinema (2005), Challengers (2007), Together (2010), Brill Bruisers (2014), Whiteout Conditions (2017), and In the Morse Code of Brake Lights (2019). A live album recorded on their 2006 tour is available only at concerts and on the band's website. In 2005, the band was the subject of Reginald Harkema's documentary film Better Off in Bed.[2]\n",
-         "The New Pornographers' first four albums each placed in the top 40 on The Village Voice's Pazz & Jop year-end poll of hundreds of music reviewers. From 2000 to 2006, either a New Pornographers' album or a solo album from one of the band's members ranked in the top 40 on the list each year.[3] In 2007, Blender magazine ranked the New Pornographers' first album, Mass Romantic, the 24th best indie album of all time.[4] In 2009, Rolling Stone magazine ranked the band's second studio album, Electric Version, No. 79 in the \"100 Best Albums of the Decade\".[5]\n",
-         "All of the New Pornographer's original members were prominent within the Vancouver music scene prior to forming the band. Kathryn Calder, who is also Newman's niece, joined the band in 2005 largely as a live replacement for Neko Case, whose solo career often left her unavailable to perform with the band. Calder's first lead vocals for the band were on 2007's Challengers, singing the lead on \"Failsafe\" and sharing the lead with Newman on \"Adventures in Solitude\".[citation needed]\n",
-         "In 2009, the New Pornographers contributed a cover of the Destroyer song \"Hey, Snow White\" to the AIDS benefit album Dark Was the Night, produced by the Red Hot Organization. The band released their fifth album, Together, on May 4, 2010, on Matador Records. The album includes collaborations from St. Vincent, Beirut's Zach Condon, and Okkervil River's Will Sheff.[6]\n",
-         "In 2012, the New Pornographers contributed a cover of the song \"Think About Me\" for the Fleetwood Mac tribute CD called Just Tell Me That You Want Me released by Hear Music. The band's sixth album, Brill Bruisers, was released on August 26, 2014.[7] The album was their highest charting to date in the United States, peaking at #13 on the Billboard 200.[8]\n",
-         "On January 26, 2017, the New Pornographers announced their seventh album, Whiteout Conditions, would be released on April 7. The album was preceded by the single \"High Ticket Attractions\".[9] The album is the first to feature drummer Joe Seiders as a full-time member after replacing drummer Kurt Dahle in mid-2014. It is also the first New Pornographers album to not feature Dan Bejar.[10] Newman, however, went on the record to note that Bejar's absence did not mean he had left the band entirely; telling Stereogum:\n",
-         "he [Bejar] was right in the middle of doing a Destroyer record... [w]hich was something we’d narrowly skirted for our whole career. I’m always amazed that we managed to. Sometimes we avoided Destroyer, sometimes Destroyer avoided us, but eventually we hit at the same time. It wasn’t anything weird.[11]",
-         "On November 29, 2018, A.C. Newman announced via Twitter that he had begun work on a future New Pornographers album.[12] On August 2, 2019, the band announced via Twitter that it would release its new album, In the Morse Code of Brake Lights, on September 27, and released its first single from the album, \"Falling Down the Stairs of Your Smile\".[13] In a press release for the album, Dan Bejar is described as a \"former (and possibly future) member\" of the band. The new press photos for the band include vocalist/violinist Simi Stone, officially inducting her into the band after being an auxiliary touring member since 2015.\n"
-      ]
-   },
-   "Members": {
-      "Timeline": {},
-      "text": [
-         "Members' other projects in brackets\n",
-         "Former members\n",
-         "Former touring members\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Live albums": {},
-      "Singles": {},
-      "Contributions with non-LP songs": {},
-      "Other Contributions": {}
-   },
-   "See also": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The New Pornographers are a Canadian indie rock band, formed in 1997 in Vancouver, British Columbia. Presented as a musical collective of singer-songwriters and musicians from multiple projects, the band has released eight studio albums to critical acclaim for their use of multiple vocalists and elements of power pop incorporated into their music.\n",
-      "The New Pornographers' name was chosen by Carl Newman, who has said that he came up with it after watching a Japanese film called The Pornographers.[1]  The band has released eight albums to date: Mass Romantic (2000), Electric Version (2003), Twin Cinema (2005), Challengers (2007), Together (2010), Brill Bruisers (2014), Whiteout Conditions (2017), and In the Morse Code of Brake Lights (2019). A live album recorded on their 2006 tour is available only at concerts and on the band's website. In 2005, the band was the subject of Reginald Harkema's documentary film Better Off in Bed.[2]\n",
-      "The New Pornographers' first four albums each placed in the top 40 on The Village Voice's Pazz & Jop year-end poll of hundreds of music reviewers. From 2000 to 2006, either a New Pornographers' album or a solo album from one of the band's members ranked in the top 40 on the list each year.[3] In 2007, Blender magazine ranked the New Pornographers' first album, Mass Romantic, the 24th best indie album of all time.[4] In 2009, Rolling Stone magazine ranked the band's second studio album, Electric Version, No. 79 in the \"100 Best Albums of the Decade\".[5]\n",
-      "All of the New Pornographer's original members were prominent within the Vancouver music scene prior to forming the band. Kathryn Calder, who is also Newman's niece, joined the band in 2005 largely as a live replacement for Neko Case, whose solo career often left her unavailable to perform with the band. Calder's first lead vocals for the band were on 2007's Challengers, singing the lead on \"Failsafe\" and sharing the lead with Newman on \"Adventures in Solitude\".[citation needed]\n"
+      "The New Pornographers' name was chosen by Carl Newman, who has said that he came up with it after watching a Japanese film called The Pornographers.  The band has released eight albums to date: Mass Romantic (2000), Electric Version (2003), Twin Cinema (2005), Challengers (2007), Together (2010), Brill Bruisers (2014), Whiteout Conditions (2017), and In the Morse Code of Brake Lights (2019). A live album recorded on their 2006 tour is available only at concerts and on the band's website. In 2005, the band was the subject of Reginald Harkema's documentary film Better Off in Bed.\n",
+      "The New Pornographers' first four albums each placed in the top 40 on The Village Voice's Pazz & Jop year-end poll of hundreds of music reviewers. From 2000 to 2006, either a New Pornographers' album or a solo album from one of the band's members ranked in the top 40 on the list each year. In 2007, Blender magazine ranked the New Pornographers' first album, Mass Romantic, the 24th best indie album of all time. In 2009, Rolling Stone magazine ranked the band's second studio album, Electric Version, No. 79 in the \"100 Best Albums of the Decade\".\n"
    ],
    "infobox": {
       "Origin": [

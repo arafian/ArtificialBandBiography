@@ -1,47 +1,9 @@
 {
    "Name": "Aviador Dro",
-   "Sections": [
-      "1 History",
-      "2 Quotes",
-      "3 Band members",
-      "4 Discography",
-      "5 See also",
-      "6 External links",
-      "7 References"
-   ],
-   "Summary": {
-      "text": [
-         "Aviador Dro, short for El Aviador Dro y sus Obreros Especializados (Aviator Dro and His Specialized Workers), is a synthpop and electronic music band from Spain, formed in Madrid in 1979.[1]\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The group was founded by schoolmates Arturo Lanz and Servando Carballar in 1979, when they published an ad in a magazine requesting musicians who liked Throbbing Gristle, Cabaret Voltaire and The Residents to join them.\n",
-         "They were part of the Movida Madrileña. In 1982 they created Dro Records, a Spanish independent label.\nSome of their best known songs are: Nuclear, sí (Nuclear, Yes), La televisión es nutritiva (TV is Nutritious), Selector de frecuencias (Frequency Selector) or La zona fantasma (The Phantom Zone)\n"
-      ]
-   },
-   "Quotes": {
-      "text": [
-         "\"It is necessary to assimilate the systematized sense of the life to be able to be happy\" (1979)\n",
-         "\"The human being will disappear. Even more, it is necessary to annihilate it to pass to a mechanical state. In this state, there won't be individual freedom, the collective freedom will only exist. Neither there will be problems because each man-machine will be properly programmed and we will all be happy.\" (1979)\n"
-      ]
-   },
-   "Band members": {},
-   "Discography": {
-      "text": [
-         "\n",
-         "Live in Madrid, El Sol\n",
-         "Cromosomas Salvajes\n"
-      ]
-   },
-   "See also": {},
-   "External links": {},
-   "References": {},
-   "coreData": [
-      "Aviador Dro, short for El Aviador Dro y sus Obreros Especializados (Aviator Dro and His Specialized Workers), is a synthpop and electronic music band from Spain, formed in Madrid in 1979.[1]\n",
+   "rawData": [
+      "Aviador Dro, short for El Aviador Dro y sus Obreros Especializados (Aviator Dro and His Specialized Workers), is a synthpop and electronic music band from Spain, formed in Madrid in 1979.\n",
       "The group was founded by schoolmates Arturo Lanz and Servando Carballar in 1979, when they published an ad in a magazine requesting musicians who liked Throbbing Gristle, Cabaret Voltaire and The Residents to join them.\n",
-      "They were part of the Movida Madrileña. In 1982 they created Dro Records, a Spanish independent label.\nSome of their best known songs are: Nuclear, sí (Nuclear, Yes), La televisión es nutritiva (TV is Nutritious), Selector de frecuencias (Frequency Selector) or La zona fantasma (The Phantom Zone)\n",
-      "\"It is necessary to assimilate the systematized sense of the life to be able to be happy\" (1979)\n"
+      "They were part of the Movida Madrileña. In 1982 they created Dro Records, a Spanish independent label.\nSome of their best known songs are: Nuclear, sí (Nuclear, Yes), La televisión es nutritiva (TV is Nutritious), Selector de frecuencias (Frequency Selector) or La zona fantasma (The Phantom Zone)\n"
    ],
    "infobox": {
       "Origin": [

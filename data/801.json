@@ -1,26 +1,6 @@
 {
    "Name": "Nostradameus",
-   "Sections": [
-      "1 Members",
-      "1.1 Current",
-      "1.2 Former",
-      "2 Timeline",
-      "3 Discography",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Nostradameus was a power metal band from Gothenburg, Sweden.  They were formed in 1998, and disbanded in 2010. Their latest release is Illusion's Parade.\n"
-      ]
-   },
-   "Members": {
-      "Current": {},
-      "Former": {}
-   },
-   "Timeline": {},
-   "Discography": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Nostradameus was a power metal band from Gothenburg, Sweden.  They were formed in 1998, and disbanded in 2010. Their latest release is Illusion's Parade.\n",
       "This article about a Swedish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ],

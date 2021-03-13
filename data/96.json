@@ -1,69 +1,9 @@
 {
    "Name": "Pansy Division",
-   "Sections": [
-      "1 History",
-      "1.1 Formation",
-      "1.2 Lookout! years (1993-2000)",
-      "1.3 Alternative Tentacles years (2001-present)",
-      "2 Members",
-      "2.1 Current",
-      "2.2 Former",
-      "3 Discography",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Pansy Division is an American rock band formed in San Francisco, California, United States, in 1991 by singer-songwriter Jon Ginoli and bassist Chris Freeman.\n",
-         "Conceived as the first openly gay rock band featuring predominantly gay musicians, Pansy Division's music, a mix of pop punk and power pop, focuses mainly on LGBT issues, sex and relationships, often presented in a humorous light. In 1993, the band signed to punk label Lookout! Records and received international notoriety touring with Green Day in 1994, becoming the most commercially successful band of the queercore movement which began in the 1980s.\n",
-         "Pansy Division have released seven studio albums and three B-side compilations, among other recordings. In 2008, the band were the subject of the documentary film entitled Pansy Division: Life in a Gay Rock Band.\n"
-      ]
-   },
-   "History": {
-      "Formation": {
-         "text": [
-            "Frustrated by the lack of openly gay rock musicians, Jon Ginoli started performing solo sets under the moniker Pansy Division (a pun on Panzer division and the word \"pansy\") around San Francisco.[3] Shortly after this, in 1991, Ginoli placed an ad in the San Francisco Weekly looking for “gay musicians into the Ramones, Buzzcocks and early Beatles”. This caught the attention of Chris Freeman, who joined on as a bassist.[4] Ginoli and Freeman then recruited drummer Jay Puget, forming the first all gay rock band that any of them had known.[3] They hoped to defy the stereotype that gay men preferred pop divas and showtunes, by playing punk rock music.[5]\n"
-         ]
-      },
-      "Lookout! years (1993-2000)": {
-         "text": [
-            "In 1993, following extensive Californian touring, several 7\" singles and compilation appearances, Pansy Division signed to Lookout! Records, released their first album, Undressed, and embarked on their first national tour.\n",
-            "In 1994, with the release of their second album Deflowered and an appearance on Outpunk's seminal compilation Outpunk Dance Party, the band had proven themselves to be one of the more prolific and well-known artists to spring from the budding queercore movement. Also catching the wave of pop punk's mainstream explosion, Pansy Division were asked to tour with Green Day on the band’s 1994 Dookie tour, thus introducing the group and queercore to a much larger audience.[6] During the tour's New York stop, the band caught the attention of Howard Stern, who met them backstage, and spent a segment talking about them on his nationally syndicated radio show.[7][8]\n",
-            "While signed to Lookout!, the band continued to release an album a year: 1995's Pile Up (notable for its various cover songs, including Ned Sublette's \"Cowboys Are Frequently, Secretly Fond of Each Other\" and Nirvana's \"Smells Like Teen Spirit\" (covered as \"Smells Like Queer Spirit\")), 1996's Wish I'd Taken Pictures (featuring the single \"I Really Wanted You\", the music video of which played once on MTV) and the 1997 B-sides compilation More Lovin' From Our Oven.\n",
-            "During this time, Pansy Division primarily performed as a trio, with Freeman and Ginoli being the only constant members amid a slew of perpetually rotating drummers, both gay and straight. In 1996, the band finally found a permanent gay drummer in the form of Luis Illades and became a quartet in 1997 with the addition of lead guitarist Patrick Goodwin.\n",
-            "1998 saw the release of their fifth studio album Absurd Pop Song Romance, which was a departure from earlier Pansy work, featuring less humorous, more introspective lyrics and a darker, two-guitar layered alternative rock sound. The band was again taken on tour by a mainstream punk band, when they opened for Rancid on their 1998 Life Won't Wait tour.[9]\n"
-         ]
-      },
-      "Alternative Tentacles years (2001-present)": {
-         "text": [
-            "In 2001, Pansy Division was finally ready to record another album, but the lack of support from Lookout! caused the band to leave their long-time label and sign with Alternative Tentacles later that year.[10] What resulted was 2003's Total Entertainment!, an album that the band described as a meeting point between the lighthearted humor of their early work and the introspective rock of their previous album. Goodwin left the band the following year, being temporarily replaced by Bernard Yin and then by former Mr. T Experience member Joel Reader.\n",
-            "In 2006, Alternative Tentacles released The Essential Pansy Division, a comprehensive 'best-of' compilation featuring thirty tracks hand-picked by Ginoli and a DVD of various video footage.[11]\n",
-            "Following the release of Total Entertainment, Pansy Division's active touring and recording schedule declined as most of the members relocated to different parts of the country. The band continued to perform sporadically, usually at various gay pride festivals or local shows in San Francisco.  In 2007, Pansy Division launched their first national tour since 2003 with reformed San Francisco punk band The Avengers, whose current line-up features both Illades and Reader.\n",
-            "In 2008, the band became the subject of a documentary film entitled Pansy Division: Life in a Gay Rock Band, directed by Michael Carmona. The film has been touring internationally, playing at various LGBT film festivals, and was released on DVD in 2009.\n",
-            "2009 saw the release of their seventh studio album, titled That's So Gay, a live DVD, another national tour, and Ginoli's memoirs, a biography of the band entitled Deflowered: My Life in Pansy Division.[12] In February of that year, the band released a vinyl 7\" of \"Average Men,\" their first single from the album. The B-Side is a cover of \"Coming Clean\" by Green Day.\n"
-         ]
-      }
-   },
-   "Members": {
-      "Current": {
-         "text": [
-            "Both Reader and Illades are members of the reformed San Francisco punk rock band The Avengers.\n"
-         ]
-      },
-      "Former": {}
-   },
-   "Discography": {
-      "text": [
-         "Studio albums\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Pansy Division is an American rock band formed in San Francisco, California, United States, in 1991 by singer-songwriter Jon Ginoli and bassist Chris Freeman.\n",
       "Conceived as the first openly gay rock band featuring predominantly gay musicians, Pansy Division's music, a mix of pop punk and power pop, focuses mainly on LGBT issues, sex and relationships, often presented in a humorous light. In 1993, the band signed to punk label Lookout! Records and received international notoriety touring with Green Day in 1994, becoming the most commercially successful band of the queercore movement which began in the 1980s.\n",
-      "Pansy Division have released seven studio albums and three B-side compilations, among other recordings. In 2008, the band were the subject of the documentary film entitled Pansy Division: Life in a Gay Rock Band.\n",
-      "Frustrated by the lack of openly gay rock musicians, Jon Ginoli started performing solo sets under the moniker Pansy Division (a pun on Panzer division and the word \"pansy\") around San Francisco.[3] Shortly after this, in 1991, Ginoli placed an ad in the San Francisco Weekly looking for “gay musicians into the Ramones, Buzzcocks and early Beatles”. This caught the attention of Chris Freeman, who joined on as a bassist.[4] Ginoli and Freeman then recruited drummer Jay Puget, forming the first all gay rock band that any of them had known.[3] They hoped to defy the stereotype that gay men preferred pop divas and showtunes, by playing punk rock music.[5]\n"
+      "Pansy Division have released seven studio albums and three B-side compilations, among other recordings. In 2008, the band were the subject of the documentary film entitled Pansy Division: Life in a Gay Rock Band.\n"
    ],
    "infobox": {
       "Origin": [

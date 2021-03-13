@@ -1,48 +1,9 @@
 {
    "Name": "Blue Highway",
-   "Sections": [
-      "1 Background",
-      "2 Awards and honors",
-      "3 Personnel",
-      "3.1 Current members",
-      "3.2 Former members",
-      "4 Discography",
-      "4.1 Albums",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Blue Highway is an American contemporary bluegrass band formed in 1994 and based in Tennessee. The band's albums include Wondrous Love (2003), Marbletown (2005), and Original Traditional (2016).\n"
-      ]
-   },
-   "Background": {
-      "text": [
-         "After helping found the band Dusty Miller, which was the 1990 SPBGMA International Bluegrass Band champion, and being a member (1990–92) of Alison Krauss & Union Station, Kingsport, Tennessee native Tim Stafford helped organize Blue Highway with Wayne Taylor in 1994. The group's first project, It's a Long, Long Road, \"spent six months at the top of the Bluegrass Unlimited charts and won IBMA's Album of the Year Award (1996).\"[1] Jason Burleson, the original banjo player with the group and a multi-instrumentalist, is a native of Newland, North Carolina.,[1] Rob Ickes, a Northern California native, moved to Nashville in 1992 and joined as a founding member in 1994. Ickes has won numerous awards for his playing,[1] and after a 21-year run with the band he announced his departure on November 18, 2015.[2] Ickes was replaced by resonator guitarist and Virginia native, Gaven Largent.[3] Vocalist, fiddler, and mandolin player Shawn Lane joined the group as a founding member after cutting \"his musical teeth\" in the bands of Ricky Skaggs and Doyle Lawson. Lane's songs have also been recorded by Ricky Skaggs, Ronnie Bowman, Mountain Heart, Blue Ridge, and other groups.[1] Lead singer Wayne Taylor, who plays bass, hails from Southwest Virginia and is also a founding member of the group.[1]\n"
-      ]
-   },
-   "Awards and honors": {
-      "text": [
-         "Grammy nominations\n",
-         "International Bluegrass Music Association Awards\n",
-         "Society for the Preservation of Bluegrass Music of America Awards\n",
-         "Dove Award\n"
-      ]
-   },
-   "Personnel": {
-      "Current members": {},
-      "Former members": {}
-   },
-   "Discography": {
-      "Albums": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Blue Highway is an American contemporary bluegrass band formed in 1994 and based in Tennessee. The band's albums include Wondrous Love (2003), Marbletown (2005), and Original Traditional (2016).\n",
-      "After helping found the band Dusty Miller, which was the 1990 SPBGMA International Bluegrass Band champion, and being a member (1990–92) of Alison Krauss & Union Station, Kingsport, Tennessee native Tim Stafford helped organize Blue Highway with Wayne Taylor in 1994. The group's first project, It's a Long, Long Road, \"spent six months at the top of the Bluegrass Unlimited charts and won IBMA's Album of the Year Award (1996).\"[1] Jason Burleson, the original banjo player with the group and a multi-instrumentalist, is a native of Newland, North Carolina.,[1] Rob Ickes, a Northern California native, moved to Nashville in 1992 and joined as a founding member in 1994. Ickes has won numerous awards for his playing,[1] and after a 21-year run with the band he announced his departure on November 18, 2015.[2] Ickes was replaced by resonator guitarist and Virginia native, Gaven Largent.[3] Vocalist, fiddler, and mandolin player Shawn Lane joined the group as a founding member after cutting \"his musical teeth\" in the bands of Ricky Skaggs and Doyle Lawson. Lane's songs have also been recorded by Ricky Skaggs, Ronnie Bowman, Mountain Heart, Blue Ridge, and other groups.[1] Lead singer Wayne Taylor, who plays bass, hails from Southwest Virginia and is also a founding member of the group.[1]\n",
-      "Grammy nominations\n",
-      "International Bluegrass Music Association Awards\n"
+      "After helping found the band Dusty Miller, which was the 1990 SPBGMA International Bluegrass Band champion, and being a member (1990–92) of Alison Krauss & Union Station, Kingsport, Tennessee native Tim Stafford helped organize Blue Highway with Wayne Taylor in 1994. The group's first project, It's a Long, Long Road, \"spent six months at the top of the Bluegrass Unlimited charts and won IBMA's Album of the Year Award (1996).\" Jason Burleson, the original banjo player with the group and a multi-instrumentalist, is a native of Newland, North Carolina., Rob Ickes, a Northern California native, moved to Nashville in 1992 and joined as a founding member in 1994. Ickes has won numerous awards for his playing, and after a 21-year run with the band he announced his departure on November 18, 2015. Ickes was replaced by resonator guitarist and Virginia native, Gaven Largent. Vocalist, fiddler, and mandolin player Shawn Lane joined the group as a founding member after cutting \"his musical teeth\" in the bands of Ricky Skaggs and Doyle Lawson. Lane's songs have also been recorded by Ricky Skaggs, Ronnie Bowman, Mountain Heart, Blue Ridge, and other groups. Lead singer Wayne Taylor, who plays bass, hails from Southwest Virginia and is also a founding member of the group.\n",
+      "Grammy nominations\n"
    ],
    "infobox": {
       "Origin": [

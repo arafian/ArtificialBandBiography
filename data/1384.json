@@ -1,39 +1,9 @@
 {
    "Name": "Even Worse (band)",
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Singles",
-      "2.3 Compilation appearances",
-      "3 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Even Worse was an American, New York City-based punk rock band, formed in 1980. Drummer Jack Rabid (who founded the music magazine The Big Takeover, also in 1980) was the only constant, as the band lineup changed numerous times over the course of the band's four-year existence. Other members included vocalists John Pouridas, John Berry, Garth Ripton, Rebecca \"R.B.\" Korbet and Ken \"Tantrum\" Tempkin; guitarists Dave Stein, Robert Weeks, Thurston Moore and Steve Waxman; and bassists Nick Marden (later of the Stimulators), Eric Keil and Tim Sommer.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Even Worse was formed in April 1980 by Summit, New Jersey punk rockers, Rabid and Stein, along with bassist Marden, as the direct result of the Stimulators needing an opening band for their May 1980 show at New York City club Tier 3. With singer Berry (later of the Young Aborigines and Beastie Boys), the teenage quartet performed at various Manhattan clubs, opening for the likes of Bad Brains. Eventually, Marden left to join the Stimulators and Berry and Stein likewise departed.\n",
-         "Rabid recruited vocalist Korbet, bassist Keil and guitarist Weeks. This 1981-82 lineup of Even Worse performed at prominent New York City punk concerts and made their recorded debut with two songs on New York Thrash, a legendary document of the early '80s New York City punk and hardcore scene issued only on cassette by ROIR. The tape also featured their contemporaries the Stimulators, Bad Brains, the Undead, Heart Attack and Kraut. Even Worse also recorded an entire studio album in November 1981, which went unreleased until 2002. This most well-known version of the band broke up in early 1982, leaving Rabid to put together another totally different lineup including Tempkin, Waxman, journalist/DJ Sommer and Moore (the latter played guitar in the band during 1982-1983 while concurrently in Sonic Youth).\n",
-         "Their first 7\" single, \"Mouse or Rat?\", recorded live in August 1982 at City Gardens in Trenton, featured the Rabid/Moore/Sommer/Waxman/Tempkin lineup, but was not issued (on their own Worse than You!?! label) until 1984. A second single from this period, \"Leaving\", released in 1988, featured Rabid (on drums and vocals), Sommer and Stein on the A-side, with Rabid, Sommer, Moore and Tempkin on B-side \"One Night Stand\".\n",
-         "After his 1982-84 stint in Even Worse, Sommer went on to found Hugo Largo, and later served as a host for MTV and VH1 and as an Atlantic Records A&R representative.\n",
-         "Rabid later formed post-punk trio Springhouse (who released two albums on Caroline Records, 1991's Land Falls and 1993's Postcards from the Arctic) and Last Burning Embers. Springhouse reunited to record a third album, From Now to OK, issued in 2008 by Independent Project Records.\n",
-         "The \"classic\" 1981-82 Even Worse lineup of Rabid, Korbet, Weeks and Keil reunited in 2002 to perform at the New York Thrash reunion concert at CBGB, coinciding with the Grand Theft Audio CD release of You've Ruined Everything. The disc contained the entire 13-song unreleased album recorded in 1981, as well as a live set recorded in August 1981 at Max's Kansas City (the infamous \"We Suck\" from this recording appeared on several 1980s Mystic Records compilation albums).\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Singles": {},
-      "Compilation appearances": {}
-   },
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Even Worse was an American, New York City-based punk rock band, formed in 1980. Drummer Jack Rabid (who founded the music magazine The Big Takeover, also in 1980) was the only constant, as the band lineup changed numerous times over the course of the band's four-year existence. Other members included vocalists John Pouridas, John Berry, Garth Ripton, Rebecca \"R.B.\" Korbet and Ken \"Tantrum\" Tempkin; guitarists Dave Stein, Robert Weeks, Thurston Moore and Steve Waxman; and bassists Nick Marden (later of the Stimulators), Eric Keil and Tim Sommer.\n",
       "Even Worse was formed in April 1980 by Summit, New Jersey punk rockers, Rabid and Stein, along with bassist Marden, as the direct result of the Stimulators needing an opening band for their May 1980 show at New York City club Tier 3. With singer Berry (later of the Young Aborigines and Beastie Boys), the teenage quartet performed at various Manhattan clubs, opening for the likes of Bad Brains. Eventually, Marden left to join the Stimulators and Berry and Stein likewise departed.\n",
-      "Rabid recruited vocalist Korbet, bassist Keil and guitarist Weeks. This 1981-82 lineup of Even Worse performed at prominent New York City punk concerts and made their recorded debut with two songs on New York Thrash, a legendary document of the early '80s New York City punk and hardcore scene issued only on cassette by ROIR. The tape also featured their contemporaries the Stimulators, Bad Brains, the Undead, Heart Attack and Kraut. Even Worse also recorded an entire studio album in November 1981, which went unreleased until 2002. This most well-known version of the band broke up in early 1982, leaving Rabid to put together another totally different lineup including Tempkin, Waxman, journalist/DJ Sommer and Moore (the latter played guitar in the band during 1982-1983 while concurrently in Sonic Youth).\n",
-      "Their first 7\" single, \"Mouse or Rat?\", recorded live in August 1982 at City Gardens in Trenton, featured the Rabid/Moore/Sommer/Waxman/Tempkin lineup, but was not issued (on their own Worse than You!?! label) until 1984. A second single from this period, \"Leaving\", released in 1988, featured Rabid (on drums and vocals), Sommer and Stein on the A-side, with Rabid, Sommer, Moore and Tempkin on B-side \"One Night Stand\".\n"
+      "Rabid recruited vocalist Korbet, bassist Keil and guitarist Weeks. This 1981-82 lineup of Even Worse performed at prominent New York City punk concerts and made their recorded debut with two songs on New York Thrash, a legendary document of the early '80s New York City punk and hardcore scene issued only on cassette by ROIR. The tape also featured their contemporaries the Stimulators, Bad Brains, the Undead, Heart Attack and Kraut. Even Worse also recorded an entire studio album in November 1981, which went unreleased until 2002. This most well-known version of the band broke up in early 1982, leaving Rabid to put together another totally different lineup including Tempkin, Waxman, journalist/DJ Sommer and Moore (the latter played guitar in the band during 1982-1983 while concurrently in Sonic Youth).\n"
    ],
    "infobox": {
       "Origin": [

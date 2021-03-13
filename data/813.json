@@ -1,39 +1,9 @@
 {
    "Name": "Thermostatic",
-   "Sections": [
-      "1 History",
-      "2 Albums",
-      "3 Singles",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Thermostatic  is a Swedish electronic band, formed in Gothenburg in 2003. Their music can be said to fall within the genre categories of bitpop and synthpop, with the band inspired by the \"video games and computer era of the eighties.\"[1]\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Thermostatic formed in Gothenburg in 2003. The band-name Thermostatic was suggested by Michael Strandtoft of the band Helm.\n",
-         "They released their first album \"Joy-Toy\" in May 2005. The band was voted \"Best Newcomer 2005\" at the Scandinavian Alternative Music Awards.[2][3] \"Humanizer\", their second album, was released in May 2008.\n",
-         "The group's song \"My Ship\" was used in trailers for the Penumbra series by Swedish developer Frictional Games.\n",
-         "In April 2010, the group announced that it will no longer work together. Thermostatic played their final concert on May 1, 2010 at the club Sticky Fingers in Gothenburg.[4]\n",
-         "In August 2013, an announcement was made that the group would re-unite to perform a concert at Sticky Fingers.[5] On February 25, 2014 the single \"Animal\" was released to Bandcamp and iTunes.[6]\n"
-      ]
-   },
-   "Albums": {
-      "text": [
-         "All released under Wonderland Records.\n"
-      ]
-   },
-   "Singles": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Thermostatic  is a Swedish electronic band, formed in Gothenburg in 2003. Their music can be said to fall within the genre categories of bitpop and synthpop, with the band inspired by the \"video games and computer era of the eighties.\"[1]\n",
+   "rawData": [
+      "Thermostatic  is a Swedish electronic band, formed in Gothenburg in 2003. Their music can be said to fall within the genre categories of bitpop and synthpop, with the band inspired by the \"video games and computer era of the eighties.\"\n",
       "Thermostatic formed in Gothenburg in 2003. The band-name Thermostatic was suggested by Michael Strandtoft of the band Helm.\n",
-      "They released their first album \"Joy-Toy\" in May 2005. The band was voted \"Best Newcomer 2005\" at the Scandinavian Alternative Music Awards.[2][3] \"Humanizer\", their second album, was released in May 2008.\n",
-      "The group's song \"My Ship\" was used in trailers for the Penumbra series by Swedish developer Frictional Games.\n"
+      "They released their first album \"Joy-Toy\" in May 2005. The band was voted \"Best Newcomer 2005\" at the Scandinavian Alternative Music Awards. \"Humanizer\", their second album, was released in May 2008.\n"
    ],
    "infobox": {
       "Genres": [

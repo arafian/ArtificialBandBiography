@@ -1,41 +1,9 @@
 {
    "Name": "The City and Horses",
-   "Sections": [
-      "1 Members",
-      "2 Discography",
-      "3 Music videos",
-      "4 External links",
-      "5 References"
-   ],
-   "Summary": {
-      "text": [
-         "\nThe City and Horses is an American indie pop band[1][2][3] formed in Brooklyn in 2008. Led by Marc Cantone[4] (singer/composer) who writes indie pop songs about such topics as breakups[5][6] and OCD breakdowns.[7][8][9] Cantone is influenced by The Beatles, The Kinks, The Smiths, Belle and Sebastian, and Sebadoh.[10] The band has released 3 albums to date.\n",
-         "After releasing their first album in 2009 on White Shoe Records, they were signed to the American label Paper Garden Records in 2010.\n",
-         "In 2013, for their new album \"Strange Range\", they held a release party at the historic Friars Club in NYC with DJ sets from Popwell and Andrew W.K.[11]\n"
-      ]
-   },
-   "Members": {
-      "text": [
-         "Current members\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "Studio albums\n"
-      ]
-   },
-   "Music videos": {
-      "text": [
-         "Since 2011, the band has been working with the French artist govy to create unusual[18] and amusing[4][22] music videos.\n"
-      ]
-   },
-   "External links": {},
-   "References": {},
-   "coreData": [
-      "\nThe City and Horses is an American indie pop band[1][2][3] formed in Brooklyn in 2008. Led by Marc Cantone[4] (singer/composer) who writes indie pop songs about such topics as breakups[5][6] and OCD breakdowns.[7][8][9] Cantone is influenced by The Beatles, The Kinks, The Smiths, Belle and Sebastian, and Sebadoh.[10] The band has released 3 albums to date.\n",
+   "rawData": [
+      "\nThe City and Horses is an American indie pop band formed in Brooklyn in 2008. Led by Marc Cantone (singer/composer) who writes indie pop songs about such topics as breakups and OCD breakdowns. Cantone is influenced by The Beatles, The Kinks, The Smiths, Belle and Sebastian, and Sebadoh. The band has released 3 albums to date.\n",
       "After releasing their first album in 2009 on White Shoe Records, they were signed to the American label Paper Garden Records in 2010.\n",
-      "In 2013, for their new album \"Strange Range\", they held a release party at the historic Friars Club in NYC with DJ sets from Popwell and Andrew W.K.[11]\n",
-      "Current members\n"
+      "In 2013, for their new album \"Strange Range\", they held a release party at the historic Friars Club in NYC with DJ sets from Popwell and Andrew W.K.\n"
    ],
    "infobox": {}
 }

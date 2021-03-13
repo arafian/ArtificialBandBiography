@@ -1,27 +1,9 @@
 {
    "Name": "Pocket Full of Rocks",
-   "Sections": [
-      "1 Band members",
-      "2 Discography",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Pocket Full of Rocks (PFOR) is an American band formed in 1995.\n",
-         "The band operated independently for 10 years, releasing two albums: Songs to the King (2002) and To Make You Famous (2003). In 2005, they signed with Warner Bros. gospel music entity Word/Myrrh Records.\n",
-         "In 2006, the band was nominated for a Dove Award for New Artist of the Year at the 38th GMA Dove Awards.[1] Their second album with Myrrh, Manifesto, was also nominated for a Dove Award at the 39th GMA Dove Awards.[2]\n",
-         "\n"
-      ]
-   },
-   "Band members": {},
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Pocket Full of Rocks (PFOR) is an American band formed in 1995.\n",
       "The band operated independently for 10 years, releasing two albums: Songs to the King (2002) and To Make You Famous (2003). In 2005, they signed with Warner Bros. gospel music entity Word/Myrrh Records.\n",
-      "In 2006, the band was nominated for a Dove Award for New Artist of the Year at the 38th GMA Dove Awards.[1] Their second album with Myrrh, Manifesto, was also nominated for a Dove Award at the 39th GMA Dove Awards.[2]\n"
+      "In 2006, the band was nominated for a Dove Award for New Artist of the Year at the 38th GMA Dove Awards. Their second album with Myrrh, Manifesto, was also nominated for a Dove Award at the 39th GMA Dove Awards.\n"
    ],
    "infobox": {
       "Origin": [

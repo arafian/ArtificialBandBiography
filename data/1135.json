@@ -1,77 +1,9 @@
 {
    "Name": "Beowülf",
-   "Sections": [
-      "1 History",
-      "1.1 Early years (1981–1984)",
-      "1.2 The \"classic\" line-up-era (1985–1989)",
-      "1.3 Later years (1990–1995)",
-      "1.4 Post-break up (1996–1999)",
-      "1.5 Reunion (2000–present)",
-      "2 Personnel",
-      "2.1 Current members",
-      "2.2 Former members",
-      "3 Discography",
-      "3.1 Albums and EPs",
-      "3.2 Compilations",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "\n",
-         "Beowülf is an American crossover thrash metal band formed in Venice Beach, California, in 1981 by Michael Alvarado, Dale Henderson, Mike Jensen and Paul Yamada. The group never gained a large mainstream success, but is considered one of the first bands that defined the \"Venice Scene\" in the 1980s, along with Suicidal Tendencies, Los Cycos, Neighborhood Watch, No Mercy, Excel and Uncle Slam, who all played a mix of skate punk, hardcore, heavy metal and thrash.\n",
-         "As of 2011, Beowülf has released six studio albums. They split up in 1995, but reformed in 2000. The band has had numerous line-up changes and Henderson has been the only constant member. Their classic line-up is Henderson (vocals), Mike Jensen (guitar), Paul Yamada (bass) and Michael Alvarado (drums).\n"
-      ]
-   },
-   "History": {
-      "Early years (1981–1984)": {
-         "text": [
-            "The band started in 1981 as Black Sheep with Dale Henderson on vocals and guitar, former Neighborhood Watch guitar player Mike Jensen on guitar, Paul Tsutomu Yamada on bass and Mike Jensen's cousin, Roger DeGiacomi, on drums. The band played many parties, bars and clubs in Venice in 1981–1982 before DeGiacomi became the band manager and was replaced by Michael Alvarado on drums in 1983, changing the name of the band to Beowülf or BWF (The F being inverted) as they wrote it in Venice \"graffiti slang\".\n"
-         ]
-      },
-      "The \"classic\" line-up-era (1985–1989)": {
-         "text": [
-            "In 1985, they were signed to Mike Muir's Suicidal Records and recorded two tracks, \"Taste the Steel\" and \"Unicorn\", for the legendary Welcome to Venice compilation. In 1986, they also recorded their first self-titled LP, which was released on Suicidal Records and featured their trademark sound that was a cross between Suicidal Tendencies and Motörhead, Dale Henderson's vocals sounding a lot like Lemmy's. \n",
-            "This record had them noticed by Caroline Records, where they followed Suicidal Tendencies and Excel. They recorded their second album, Lost My Head... But I'm Back on the Right Track, which was released in 1988 on Caroline which featured the same line-up and was in the same vein as their first.\n"
-         ]
-      },
-      "Later years (1990–1995)": {
-         "text": [
-            "Around the beginning of the 1990s, conflicts reported arose between the band members and they separated. Dale Henderson kept the Beowülf name and hired Clint Schuyler to play guitar, Kevin Sullivan to play bass and Rich Rowan to play drums and he recorded Un-Sentimental, which was released in 1993 on Restless Records with that line-up. \n",
-            "Un-Sentimental was way less appreciated than the band's first two efforts, notably because there was only one original member in the band and the sound had changed a bit, drifting more to bluesy rock and going away from the hardcore thrash of their beginning. \n",
-            "In 1994 the band line-up underwent changes before recording the band's fourth album in Seattle for Restless Records and hired Buckit to play guitar, childhood friend and former EVOL bassist Dug Mug Swanson and Denish Chaudhuri to play drums. They released 2 Cents in 1995, toured Europe, Japan and had a song in the cult film Tank Girl. Tank Girl director Rachel Talalay also did the band's video for the song \"2 Cents\".\n"
-         ]
-      },
-      "Post-break up (1996–1999)": {
-         "text": [
-            "In 1995, original bass player Paul Yamada died of a drug overdose and that had an effect on Dale Henderson, who decided he was over with Beowülf. He concentrated on another project, the band Kool-Whip. He called back Rowan and Sullivan (from the Un-Sentimental line-up) and added Gimmi on second guitar and the new band had a more hard rock sound. They played clubs and released two albums The Now, which was nominated for best rock album at the 2002 L.A. Music Awards, and Dirty Movie in 2007.\n"
-         ]
-      },
-      "Reunion (2000–present)": {
-         "text": [
-            "Despite Kool-Whip's apparent success, Dale Henderson, purportedly struck with nostalgia and ready to play the old Beowülf songs again, the band returned to the name Beowülf and started touring again playing the Beowülf music, keeping the same personnel. They also re-released the first two LP's as one CD called The Re-Releases in 2004 on I Scream Records with one new track recorded in 2004.\n",
-            "They started working on a new record, their second for I Scream, in 2005 while relentlessly touring Europe. Titled Westminister & 5th, it was released in April 2007 and featured Henderson, Rowan, Sullivan and former Strain 999 guitar player Stefan Crapia on guitar.\n",
-            "Beowülf released their sixth studio album, Jesus Freak, in the summer of 2011.[1] It was produced by frontman Dale Henderson and former Fear Factory guitarist/bassist Christian Olde Wolbers. They also announced that longtime bassist Sean Otero had left Beowülf and was replaced by former Suicidal Tendencies bassist Louiche Mayorga, who is on the new album.\n",
-            "As of September 2011, according to Beowülf's official website, Mayorga is no longer in the band and his replacement is former Fear Factory member Christian Olde Wolbers.[2] In 2015, Neighborhood Watch guitarist Mark Conway joined the band replacing Stefan Mark Anthony.\n",
-            "Mike Jensen died from unknown causes on February 13, 2020.[citation needed]\n"
-         ]
-      }
-   },
-   "Personnel": {
-      "Current members": {},
-      "Former members": {}
-   },
-   "Discography": {
-      "Albums and EPs": {},
-      "Compilations": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Beowülf is an American crossover thrash metal band formed in Venice Beach, California, in 1981 by Michael Alvarado, Dale Henderson, Mike Jensen and Paul Yamada. The group never gained a large mainstream success, but is considered one of the first bands that defined the \"Venice Scene\" in the 1980s, along with Suicidal Tendencies, Los Cycos, Neighborhood Watch, No Mercy, Excel and Uncle Slam, who all played a mix of skate punk, hardcore, heavy metal and thrash.\n",
       "As of 2011, Beowülf has released six studio albums. They split up in 1995, but reformed in 2000. The band has had numerous line-up changes and Henderson has been the only constant member. Their classic line-up is Henderson (vocals), Mike Jensen (guitar), Paul Yamada (bass) and Michael Alvarado (drums).\n",
-      "The band started in 1981 as Black Sheep with Dale Henderson on vocals and guitar, former Neighborhood Watch guitar player Mike Jensen on guitar, Paul Tsutomu Yamada on bass and Mike Jensen's cousin, Roger DeGiacomi, on drums. The band played many parties, bars and clubs in Venice in 1981–1982 before DeGiacomi became the band manager and was replaced by Michael Alvarado on drums in 1983, changing the name of the band to Beowülf or BWF (The F being inverted) as they wrote it in Venice \"graffiti slang\".\n",
-      "In 1985, they were signed to Mike Muir's Suicidal Records and recorded two tracks, \"Taste the Steel\" and \"Unicorn\", for the legendary Welcome to Venice compilation. In 1986, they also recorded their first self-titled LP, which was released on Suicidal Records and featured their trademark sound that was a cross between Suicidal Tendencies and Motörhead, Dale Henderson's vocals sounding a lot like Lemmy's. \n"
+      "The band started in 1981 as Black Sheep with Dale Henderson on vocals and guitar, former Neighborhood Watch guitar player Mike Jensen on guitar, Paul Tsutomu Yamada on bass and Mike Jensen's cousin, Roger DeGiacomi, on drums. The band played many parties, bars and clubs in Venice in 1981–1982 before DeGiacomi became the band manager and was replaced by Michael Alvarado on drums in 1983, changing the name of the band to Beowülf or BWF (The F being inverted) as they wrote it in Venice \"graffiti slang\".\n"
    ],
    "infobox": {
       "Origin": [

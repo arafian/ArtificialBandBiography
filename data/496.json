@@ -1,47 +1,9 @@
 {
    "Name": "Smalltown Poets",
-   "Sections": [
-      "1 Career",
-      "2 Band members",
-      "2.1 Current members",
-      "2.2 Former members",
-      "3 Discography",
-      "3.1 Other projects",
-      "4 References",
-      "5 Further reading",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Smalltown Poets is a Christian rock band formed in 1996. It was formed in Tifton, Georgia by high school friends Michael Johnston (guitars/vocals), Danny Stephens (keyboards), and Byron Goggin (drums), along with (then) Nashville musicians Kevin Breuner (guitar), and Miguel DeJesus (bass). The band has had 10 singles in the top 10.[1]\n",
-         "The band started under the name Villanelle.\n"
-      ]
-   },
-   "Career": {
-      "text": [
-         "Smalltown Poets achieved recognition with their eponymous first album, released on Ardent Records in 1997.  This release earned the band the first of its two Grammy nominations (Best Gospel Rock Album)[2] and numerous Dove Award nominations. In 1998 they released their second album, Listen Closely.  The song \"Anything Genuine\" from that album became their biggest hit.[2] Their third album, Third Verse was released in 2000.[2]  In 2004 they released their fourth studio album, It's Later Than It's Ever Been on BEC Recordings.[2]\n",
-         "Smalltown Poets went on hiatus several months after It's Later Than It's Ever Been, but regrouped in the fall of 2010 to produce a Christmas album, Smalltown Poets Christmas, in 2011 (co-produced and mixed by former Smalltown Poets drummer Matt Goldman). In anticipation of that full-length release, the band released a Christmas single in December 2010 titled \"In the Bleak Midwinter.\"\n",
-         "In 2012, the Smalltown Poets released a digital EP, \"Under the New Sun\".\n",
-         "Smalltown Poets' second Christmas album, Christmas Time Again, was released on November 25, 2014, followed by live performances. They funded this project through a campaign on PledgeMusic which allowed fans to support the project and receive a digital download in advance of the release.[3]\n",
-         "A new album called Say Hello was released in May 2018.[1] Say Hello, like many of their early works, was recorded at Ardent Studios in Memphis.[1]\n",
-         "The fact that the band members don't all live in the same city makes collaboration difficult for them, although technology has facilitated their continued work.[2]\n"
-      ]
-   },
-   "Band members": {
-      "Current members": {},
-      "Former members": {}
-   },
-   "Discography": {
-      "Other projects": {}
-   },
-   "References": {},
-   "Further reading": {},
-   "External links": {},
-   "coreData": [
-      "Smalltown Poets is a Christian rock band formed in 1996. It was formed in Tifton, Georgia by high school friends Michael Johnston (guitars/vocals), Danny Stephens (keyboards), and Byron Goggin (drums), along with (then) Nashville musicians Kevin Breuner (guitar), and Miguel DeJesus (bass). The band has had 10 singles in the top 10.[1]\n",
+   "rawData": [
+      "Smalltown Poets is a Christian rock band formed in 1996. It was formed in Tifton, Georgia by high school friends Michael Johnston (guitars/vocals), Danny Stephens (keyboards), and Byron Goggin (drums), along with (then) Nashville musicians Kevin Breuner (guitar), and Miguel DeJesus (bass). The band has had 10 singles in the top 10.\n",
       "The band started under the name Villanelle.\n",
-      "Smalltown Poets achieved recognition with their eponymous first album, released on Ardent Records in 1997.  This release earned the band the first of its two Grammy nominations (Best Gospel Rock Album)[2] and numerous Dove Award nominations. In 1998 they released their second album, Listen Closely.  The song \"Anything Genuine\" from that album became their biggest hit.[2] Their third album, Third Verse was released in 2000.[2]  In 2004 they released their fourth studio album, It's Later Than It's Ever Been on BEC Recordings.[2]\n",
-      "Smalltown Poets went on hiatus several months after It's Later Than It's Ever Been, but regrouped in the fall of 2010 to produce a Christmas album, Smalltown Poets Christmas, in 2011 (co-produced and mixed by former Smalltown Poets drummer Matt Goldman). In anticipation of that full-length release, the band released a Christmas single in December 2010 titled \"In the Bleak Midwinter.\"\n"
+      "Smalltown Poets achieved recognition with their eponymous first album, released on Ardent Records in 1997.  This release earned the band the first of its two Grammy nominations (Best Gospel Rock Album) and numerous Dove Award nominations. In 1998 they released their second album, Listen Closely.  The song \"Anything Genuine\" from that album became their biggest hit. Their third album, Third Verse was released in 2000.  In 2004 they released their fourth studio album, It's Later Than It's Ever Been on BEC Recordings.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,77 +1,9 @@
 {
    "Name": "Break of Reality",
-   "Sections": [
-      "1 History",
-      "1.1 Current",
-      "2 Current Lineup",
-      "3 Discography",
-      "3.1 \"Voiceless\"",
-      "3.2 \"The Sound Between\"",
-      "3.3 \"The Sound Between\"",
-      "3.4 \"Spectrum of the Sky\"",
-      "3.5 \"Covers\"",
-      "3.6 \"Ten\"",
-      "4 See also",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Break of Reality (BoR) is an American cello rock band consisting of three cellists and a percussionist.  The group is associated with the terms \"cinematic rock\", \"cello rock\", and \"indie classical\". Break of Reality's current members are Patrick Laird, Ivan Trevino, Laura Metcalf, and Adrian Daurov. The band's sound consists of many musical influences, such as rock, classical, and indie rock.\n"
-      ]
-   },
-   "History": {
-      "Current": {
-         "text": [
-            "Break of Reality most recently released their latest album, TEN, in March 2014. The album consists of all original music.[8]\n"
-         ]
-      },
-      "text": [
-         "The group was formed while the original members were freshmen at the Eastman School of Music in Rochester, NY.  At the time of its formation, the band consisted of four cellists.  The band gave their first formal concert in a small classical venue at Eastman, where they received complaints for being too loud.[1]\n",
-         "In 2006, the band released \"The Sound Between\", a double disc album featuring both electric and acoustic songs.[citation needed] After all graduating from Eastman, the group collectively moved to NYC in 2007, where they developed a fan base through busking in Central Park.[2]  The band split a year later, leaving Laird and Trevino as the remaining members.\n",
-         "In 2008, Laird and Trevino began composing and recording music together, much of which is featured on \"Spectrum of the Sky\", released in May 2009.[citation needed] Soon after, Laird and Trevino were joined by cellists Philip Borter and Martin Torch-Ishii and began touring again.[citation needed] Borter was later replaced by Laura Metcalf.[3]\n",
-         "The band has gained a following through Pandora Radio, where their music has 44,000 daily streams.[4]\n",
-         "In 2013, the band's cover of the \"Game of Thrones\" TV show theme song appeared on Huffington Post and was called \"the best rendition of the theme song you will ever hear\".[5]\n",
-         "In 2015, the band did a tour of central Asia, which included playing in Turkmenistan and four cities in Kazakhstan.[6] The band performed at the 25 year celebration of Kazakh-American diplomatic relations in Almaty, Kazakhstan in August 2016.[7]\n"
-      ]
-   },
-   "Current Lineup": {},
-   "Discography": {
-      "\"Voiceless\"": {
-         "text": [
-            "Released October 2004.\n"
-         ]
-      },
-      "\"The Sound Between\"": {
-         "text": [
-            "Re-Released December 2006. Same disc as the earlier plus an EP with 5 \"acoustic\" songs: 3 celli and Djembe/African drums\n",
-            "EP track list\n"
-         ]
-      },
-      "\"Spectrum of the Sky\"": {
-         "text": [
-            "Released May 2009.\n"
-         ]
-      },
-      "\"Covers\"": {
-         "text": [
-            "Covers was released in March 2012. The album is a collection of covers.\n"
-         ]
-      },
-      "\"Ten\"": {
-         "text": [
-            "Released March 25, 2014.\n"
-         ]
-      }
-   },
-   "See also": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Break of Reality (BoR) is an American cello rock band consisting of three cellists and a percussionist.  The group is associated with the terms \"cinematic rock\", \"cello rock\", and \"indie classical\". Break of Reality's current members are Patrick Laird, Ivan Trevino, Laura Metcalf, and Adrian Daurov. The band's sound consists of many musical influences, such as rock, classical, and indie rock.\n",
-      "The group was formed while the original members were freshmen at the Eastman School of Music in Rochester, NY.  At the time of its formation, the band consisted of four cellists.  The band gave their first formal concert in a small classical venue at Eastman, where they received complaints for being too loud.[1]\n",
-      "In 2006, the band released \"The Sound Between\", a double disc album featuring both electric and acoustic songs.[citation needed] After all graduating from Eastman, the group collectively moved to NYC in 2007, where they developed a fan base through busking in Central Park.[2]  The band split a year later, leaving Laird and Trevino as the remaining members.\n",
-      "In 2008, Laird and Trevino began composing and recording music together, much of which is featured on \"Spectrum of the Sky\", released in May 2009.[citation needed] Soon after, Laird and Trevino were joined by cellists Philip Borter and Martin Torch-Ishii and began touring again.[citation needed] Borter was later replaced by Laura Metcalf.[3]\n"
+      "The group was formed while the original members were freshmen at the Eastman School of Music in Rochester, NY.  At the time of its formation, the band consisted of four cellists.  The band gave their first formal concert in a small classical venue at Eastman, where they received complaints for being too loud.\n",
+      "In 2006, the band released \"The Sound Between\", a double disc album featuring both electric and acoustic songs. After all graduating from Eastman, the group collectively moved to NYC in 2007, where they developed a fan base through busking in Central Park.  The band split a year later, leaving Laird and Trevino as the remaining members.\n"
    ],
    "infobox": {
       "Origin": [

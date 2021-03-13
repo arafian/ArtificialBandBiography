@@ -1,17 +1,8 @@
 {
    "Name": "Italian Instabile Orchestra",
-   "Sections": [
-      "Summary"
-   ],
-   "Summary": {
-      "text": [
-         "The Italian Instabile Orchestra (IIO) is an eighteen piece experimental big band that performs orchestral jazz and avant-garde jazz. Its members include Alberto Mandarini, Bruno Tommaso, Carlo Actis Dato, Daniele Cavallanti, Eugenio Colombo, Giancarlo Schiaffini, Gianluigi Trovesi, Giorgio Gaslini, Giovanni Maier, Guido Mazzon, Mario Schiano, Martin Mayes, Paolo Damiani, Pino Minafra, Sebi Tramontana, Tiziano Tononi, Umberto Petrin, and Vincenzo Mazzone.\n",
-         "The orchestra was founded in 1990 to perform at the Festival di Noci. One of the original members, pianist Giorgio Gaslini, later left the orchestra. Some guest musicians that have performed or recorded with them include Cecil Taylor, Willem Breuker and Lester Bowie.[1][2]\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "The Italian Instabile Orchestra (IIO) is an eighteen piece experimental big band that performs orchestral jazz and avant-garde jazz. Its members include Alberto Mandarini, Bruno Tommaso, Carlo Actis Dato, Daniele Cavallanti, Eugenio Colombo, Giancarlo Schiaffini, Gianluigi Trovesi, Giorgio Gaslini, Giovanni Maier, Guido Mazzon, Mario Schiano, Martin Mayes, Paolo Damiani, Pino Minafra, Sebi Tramontana, Tiziano Tononi, Umberto Petrin, and Vincenzo Mazzone.\n",
-      "The orchestra was founded in 1990 to perform at the Festival di Noci. One of the original members, pianist Giorgio Gaslini, later left the orchestra. Some guest musicians that have performed or recorded with them include Cecil Taylor, Willem Breuker and Lester Bowie.[1][2]\n"
+      "The orchestra was founded in 1990 to perform at the Festival di Noci. One of the original members, pianist Giorgio Gaslini, later left the orchestra. Some guest musicians that have performed or recorded with them include Cecil Taylor, Willem Breuker and Lester Bowie.\n"
    ],
    "infobox": {}
 }

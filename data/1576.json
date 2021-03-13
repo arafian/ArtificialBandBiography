@@ -1,36 +1,9 @@
 {
    "Name": "Def Con Dos",
-   "Sections": [
-      "1 History and style",
-      "2 Members",
-      "3 Past members",
-      "4 Discography",
-      "5 References"
-   ],
-   "Summary": {
-      "text": [
-         "Def Con Dos (meaning DEFense CONdition TWO) is a rap rock band from Madrid, Spain.\n"
-      ]
-   },
-   "History and style": {
-      "text": [
-         "Greatly influenced by hip hop bands Beastie Boys, Public Enemy, and Run D.M.C., and rock band Siniestro Total, they started rapping over hip hop bases created by producer Julián Hernández (musician and singer of Siniestro Total). In their Segundo Asalto tape (1989), the sound still was basically hip hop, but they started using rock guitars.\n",
-         "Texts in their lyrics and in the manifestos enclosed with their records are highly offensive and complex, with many references to pop culture: pop music, Spanish folklore, news, publicity, cinema, literature and Spanish and American comics. Armas pal pueblo (1994) was probably the first album made in Spain with a Spanish version of the Parental advisory: Explicit lyrics label on the cover.\n",
-         "Partly due to their polemical texts, DCD did not get much coverage from mainstream media in their beginnings, with the exception of some programs in Radio 3, a station belonging to the government-run Radiotelevisión Española. This situation changed when Basque film maker Álex de la Iglesia appointed them for the main themes in his films Acción mutante (Mutant Action, 1993) and El día de la bestia (The Day of the Beast, 1995). Álex de la Iglesia also directed the videoclips for these songs.\n",
-         "They disbanded in 1999, but in 2004 announced the comeback of the band with all but one (Gautxito, one of the guitars) of the original members. Meanwhile, César Strawberry and Manolo Tejeringo, started a new project named Strawberry Hardcore in 2001, playing a classic melodic hardcore. They have recorded three albums: Lo que me da la gana (a maxi CD in 2001), Strawberry h/c (their first full-length album in 2002) and Todos vamos a morir (2007).\n",
-         "The current members of Def Con Dos are César Strawberry (vocals), Alberto Marín, Samuel Barranco, Sagan, Kiki Tornado (drums), and J. Al Ándalus (programming, producing and guitars).\n",
-         "In January 2017, César Strawberry was sentenced to a year in jail by the Spanish Supreme Court for remarks deemed as pro-terrorism made on Twitter between 2013 and 2014.[1]\n"
-      ]
-   },
-   "Members": {},
-   "Past members": {},
-   "Discography": {},
-   "References": {},
-   "coreData": [
+   "rawData": [
       "Def Con Dos (meaning DEFense CONdition TWO) is a rap rock band from Madrid, Spain.\n",
       "Greatly influenced by hip hop bands Beastie Boys, Public Enemy, and Run D.M.C., and rock band Siniestro Total, they started rapping over hip hop bases created by producer Julián Hernández (musician and singer of Siniestro Total). In their Segundo Asalto tape (1989), the sound still was basically hip hop, but they started using rock guitars.\n",
-      "Texts in their lyrics and in the manifestos enclosed with their records are highly offensive and complex, with many references to pop culture: pop music, Spanish folklore, news, publicity, cinema, literature and Spanish and American comics. Armas pal pueblo (1994) was probably the first album made in Spain with a Spanish version of the Parental advisory: Explicit lyrics label on the cover.\n",
-      "Partly due to their polemical texts, DCD did not get much coverage from mainstream media in their beginnings, with the exception of some programs in Radio 3, a station belonging to the government-run Radiotelevisión Española. This situation changed when Basque film maker Álex de la Iglesia appointed them for the main themes in his films Acción mutante (Mutant Action, 1993) and El día de la bestia (The Day of the Beast, 1995). Álex de la Iglesia also directed the videoclips for these songs.\n"
+      "Texts in their lyrics and in the manifestos enclosed with their records are highly offensive and complex, with many references to pop culture: pop music, Spanish folklore, news, publicity, cinema, literature and Spanish and American comics. Armas pal pueblo (1994) was probably the first album made in Spain with a Spanish version of the Parental advisory: Explicit lyrics label on the cover.\n"
    ],
    "infobox": {
       "Origin": [

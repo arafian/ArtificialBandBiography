@@ -1,79 +1,9 @@
 {
    "Name": "Wool (band)",
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "2.1 Little Darlin (7-inch) (1991) [3]",
-      "2.2 Mayday (7-inch) (1992)",
-      "2.3 Medication (7-inch) (1992)",
-      "2.4 Medication (7-inch) (1992)",
-      "2.5 Budspawn (1992)",
-      "2.6 Budspawn (vinyl) (1992)",
-      "2.7 Box Set (1994)",
-      "2.8 Bonus 7-inch included with vinyl pressing of Box Set",
-      "2.9 Kill The Crow (1994)",
-      "2.10 Your Choice Live Series (1995)",
-      "2.11 Single Limited Vinyl Edition (1996)",
-      "2.12 Shine! / Short Term Memory Loss  (1996)",
-      "2.13 Lunar Momento: Lost Rancho Session 1 (2012)",
-      "2.14 Lunar Momento: Lost Rancho Session 2 (2012)",
-      "3 Members",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Wool was a rock band from Washington, D.C. (but based in Los Angeles), specialising in a rough hewn but melodic brand of punk-based hard rock from 1990–1996.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Wool formed in the early 1990s when brothers Peter and Franz Stahl (vocals/guitar and guitar/vocals, respectively) were forced to terminate their popular band Scream after bassist Skeeter Thompson left the band and after drummer Dave Grohl joined Seattle grunge band Nirvana midway through a U.S. tour.\nThe brothers then teamed up with former Government Issue and future Burning Airlines drummer Peter Moffett and Seattle native and ex-Concrete Blonde bassist Al Bloch (brother of Seattle Sub-Pop legend Kurt Bloch from the Fastbacks).\n",
-         "The quartet's first single \"Little Darlin'\", is a widely regarded punk single. Then, the band released an EP, 1992's rollicking Budspawn, which was released independently on External Records. The material on Budspawn combined the four members' inherent punk aesthetics with a tendency toward more straight-ahead, anthemic hard rock and drug-induced psychedelia.\n",
-         "Following a line-up change in which Moffett was replaced by former Inside Out and Chain of Strength drummer, Chris Bratton, Wool was signed to London Records in the newly punk-friendly climate of 1993. The band recorded Box Set in early 1994 and released it in the Fall of that year. Following in the footsteps of its predecessor, Box Set expanded on the basic blueprint of Wool's already established sound.\n",
-         "After a less than enthusiastic commercial response to Box Set, the band was dropped by London Records, early on in 1996. Wool recorded new demos in late '94 and late '95, but split up by summer of 1996. Later on guitarist/vocalist Franz Stahl became the touring guitarist for Japanese musician J, and joined former Scream bandmate Dave Grohl in the Foo Fighters, replacing departing guitarist Pat Smear.[1][2] Franz's tenure in the band included the entire world tour for the 1997 album The Colour and the Shape. Peter Stahl went on to play with Earthlings? and Goatsnake and appeared on several of Josh Homme's (Queens of the Stone Age)  The Desert Sessions albums. Later on he became a tour manager for many bands, including Foo Fighters, Cave In and Rammstein.\n"
-      ]
-   },
-   "Discography": {
-      "Little Darlin (7-inch) (1991) [3]": {},
-      "Mayday (7-inch) (1992)": {},
-      "Medication (7-inch) (1992)": {},
-      "Budspawn (1992)": {},
-      "Budspawn (vinyl) (1992)": {},
-      "Box Set (1994)": {},
-      "Bonus 7-inch included with vinyl pressing of Box Set": {},
-      "Kill The Crow (1994)": {},
-      "Your Choice Live Series (1995)": {
-         "text": [
-            "Released via Your Choice Records.\n"
-         ]
-      },
-      "Single Limited Vinyl Edition (1996)": {
-         "text": [
-            "Crippled Dick Hot Wax record, Wool appears courtesy of London Records.\n",
-            "Bong Load Records - limited edition vinyl split single with Kyuss.\n"
-         ]
-      },
-      "Shine! / Short Term Memory Loss (1996)": {},
-      "Lunar Momento: Lost Rancho Session 1 (2012)": {
-         "text": [
-            "Released via Dine Alone Records.\n"
-         ]
-      },
-      "Lunar Momento: Lost Rancho Session 2 (2012)": {
-         "text": [
-            "Released via Dine Alone Records.\n"
-         ]
-      }
-   },
-   "Members": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Wool was a rock band from Washington, D.C. (but based in Los Angeles), specialising in a rough hewn but melodic brand of punk-based hard rock from 1990–1996.\n",
       "Wool formed in the early 1990s when brothers Peter and Franz Stahl (vocals/guitar and guitar/vocals, respectively) were forced to terminate their popular band Scream after bassist Skeeter Thompson left the band and after drummer Dave Grohl joined Seattle grunge band Nirvana midway through a U.S. tour.\nThe brothers then teamed up with former Government Issue and future Burning Airlines drummer Peter Moffett and Seattle native and ex-Concrete Blonde bassist Al Bloch (brother of Seattle Sub-Pop legend Kurt Bloch from the Fastbacks).\n",
-      "The quartet's first single \"Little Darlin'\", is a widely regarded punk single. Then, the band released an EP, 1992's rollicking Budspawn, which was released independently on External Records. The material on Budspawn combined the four members' inherent punk aesthetics with a tendency toward more straight-ahead, anthemic hard rock and drug-induced psychedelia.\n",
-      "Following a line-up change in which Moffett was replaced by former Inside Out and Chain of Strength drummer, Chris Bratton, Wool was signed to London Records in the newly punk-friendly climate of 1993. The band recorded Box Set in early 1994 and released it in the Fall of that year. Following in the footsteps of its predecessor, Box Set expanded on the basic blueprint of Wool's already established sound.\n"
+      "The quartet's first single \"Little Darlin'\", is a widely regarded punk single. Then, the band released an EP, 1992's rollicking Budspawn, which was released independently on External Records. The material on Budspawn combined the four members' inherent punk aesthetics with a tendency toward more straight-ahead, anthemic hard rock and drug-induced psychedelia.\n"
    ],
    "infobox": {
       "Origin": [

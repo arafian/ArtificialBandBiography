@@ -1,26 +1,9 @@
 {
    "Name": "Ex Hex (band)",
-   "Sections": [
-      "Summary",
-      "Discography"
-   ],
-   "Summary": {
-      "text": [
-         "Ex Hex is an American rock band formed in 2013.[1] The band consists of Mary Timony, Betsy Wright and Laura Harris. Ex Hex recorded its first single, \"Hot and Cold\" in Timony's basement, then went on to record Rips, with Mitch Easter and Jonah Takagi. on October 7, 2014, the record debuted on Merge Records. They toured extensively, playing with Speedy Ortiz, King Tuff, Rocket from the Crypt, and The Jacuzzi Boys, among others. Ex Hex performed at Coachella in the summer of 2016.[2][3]  The band takes its name from Timony's 2005 solo album Ex Hex.\n",
-         "On January 9, 2019, the band announced their second album, It's Real, released on March 22, 2019 on Merge Records.[4]\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "Albums\n",
-         "Singles\n"
-      ]
-   },
-   "coreData": [
-      "Ex Hex is an American rock band formed in 2013.[1] The band consists of Mary Timony, Betsy Wright and Laura Harris. Ex Hex recorded its first single, \"Hot and Cold\" in Timony's basement, then went on to record Rips, with Mitch Easter and Jonah Takagi. on October 7, 2014, the record debuted on Merge Records. They toured extensively, playing with Speedy Ortiz, King Tuff, Rocket from the Crypt, and The Jacuzzi Boys, among others. Ex Hex performed at Coachella in the summer of 2016.[2][3]  The band takes its name from Timony's 2005 solo album Ex Hex.\n",
-      "On January 9, 2019, the band announced their second album, It's Real, released on March 22, 2019 on Merge Records.[4]\n",
-      "Albums\n",
-      "Singles\n"
+   "rawData": [
+      "Ex Hex is an American rock band formed in 2013. The band consists of Mary Timony, Betsy Wright and Laura Harris. Ex Hex recorded its first single, \"Hot and Cold\" in Timony's basement, then went on to record Rips, with Mitch Easter and Jonah Takagi. on October 7, 2014, the record debuted on Merge Records. They toured extensively, playing with Speedy Ortiz, King Tuff, Rocket from the Crypt, and The Jacuzzi Boys, among others. Ex Hex performed at Coachella in the summer of 2016.  The band takes its name from Timony's 2005 solo album Ex Hex.\n",
+      "On January 9, 2019, the band announced their second album, It's Real, released on March 22, 2019 on Merge Records.\n",
+      "Albums\n"
    ],
    "infobox": {
       "Origin": [

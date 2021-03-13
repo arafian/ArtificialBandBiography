@@ -1,39 +1,9 @@
 {
    "Name": "The Orchids",
-   "Sections": [
-      "1 Discography",
-      "1.1 Singles",
-      "1.2 Albums",
-      "1.3 Compilation albums",
-      "2 References",
-      "3 See also",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Orchids are a Scottish band that achieved success with Sarah Records.  Formed in Penilee in Glasgow in 1985, the Orchids released a series of underground singles on Sarah Records. The group's line-up comprised James Hackett (vocals), Pauline Hynds Bari (vocals), John Scally (guitar), Chris Quinn (drums), Matthew Drummond (guitar) and James Moody (bass). Their producer, Ian Carmichael, often played keyboards on their records. They changed their line up in 1993 when bassist James Moody left and Ronnie Borland, a long time collaborator and supporter of the band, took over on bass. They went quiet after their 1994 album release, their last on Sarah Records, only surfacing in 1995 to play at the Sarah Records farewell party. After that they took a break until 2004 when they got back together. \n",
-         "Starting with a melancholy guitar pop sound on Lyceum and contemporaneous singles, they moved on to become more keyboard and sample/effects-based for their second and third albums, Unholy Soul and Striving For the Lazy Perfection, developing a more electronic sound, possibly as a result of their producer, Ian Carmichael, who was a member of dance band One Dove.[1]\n",
-         "Their entire back catalogue was re-released on CD on LTM in 2005. In 2007 they released their fourth album, Good to Be a Stranger. The album was issued on Madrid based label Siesta, with the band playing live gigs for the first time in eleven years. In 2010 the group released a fifth album, The Lost Star, through Pebble Records, mixed by a returning Ian Carmichael. In October 2014, they released their sixth album, Beatitude#9, on another Spanish record label Acurela.\n",
-         "In September 2017, to celebrate the 30th anniversary of their first physical release (a flexi disc on the sha la la label) they released a retrospective featuring 20 \"best of\" songs from their singles and albums plus an 18 track rarities disc. Entitled Who Needs Tomorrow... A 30 Year Retrospective, it was released on Cherry Red Records.[2]\n"
-      ]
-   },
-   "Discography": {
-      "Singles": {},
-      "Albums": {
-         "text": [
-            "The first three of these albums were reissued with bonus tracks on LTM in 2005.\n"
-         ]
-      },
-      "Compilation albums": {}
-   },
-   "References": {},
-   "See also": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Orchids are a Scottish band that achieved success with Sarah Records.  Formed in Penilee in Glasgow in 1985, the Orchids released a series of underground singles on Sarah Records. The group's line-up comprised James Hackett (vocals), Pauline Hynds Bari (vocals), John Scally (guitar), Chris Quinn (drums), Matthew Drummond (guitar) and James Moody (bass). Their producer, Ian Carmichael, often played keyboards on their records. They changed their line up in 1993 when bassist James Moody left and Ronnie Borland, a long time collaborator and supporter of the band, took over on bass. They went quiet after their 1994 album release, their last on Sarah Records, only surfacing in 1995 to play at the Sarah Records farewell party. After that they took a break until 2004 when they got back together. \n",
-      "Starting with a melancholy guitar pop sound on Lyceum and contemporaneous singles, they moved on to become more keyboard and sample/effects-based for their second and third albums, Unholy Soul and Striving For the Lazy Perfection, developing a more electronic sound, possibly as a result of their producer, Ian Carmichael, who was a member of dance band One Dove.[1]\n",
-      "Their entire back catalogue was re-released on CD on LTM in 2005. In 2007 they released their fourth album, Good to Be a Stranger. The album was issued on Madrid based label Siesta, with the band playing live gigs for the first time in eleven years. In 2010 the group released a fifth album, The Lost Star, through Pebble Records, mixed by a returning Ian Carmichael. In October 2014, they released their sixth album, Beatitude#9, on another Spanish record label Acurela.\n",
-      "In September 2017, to celebrate the 30th anniversary of their first physical release (a flexi disc on the sha la la label) they released a retrospective featuring 20 \"best of\" songs from their singles and albums plus an 18 track rarities disc. Entitled Who Needs Tomorrow... A 30 Year Retrospective, it was released on Cherry Red Records.[2]\n"
+      "Starting with a melancholy guitar pop sound on Lyceum and contemporaneous singles, they moved on to become more keyboard and sample/effects-based for their second and third albums, Unholy Soul and Striving For the Lazy Perfection, developing a more electronic sound, possibly as a result of their producer, Ian Carmichael, who was a member of dance band One Dove.\n",
+      "Their entire back catalogue was re-released on CD on LTM in 2005. In 2007 they released their fourth album, Good to Be a Stranger. The album was issued on Madrid based label Siesta, with the band playing live gigs for the first time in eleven years. In 2010 the group released a fifth album, The Lost Star, through Pebble Records, mixed by a returning Ian Carmichael. In October 2014, they released their sixth album, Beatitude#9, on another Spanish record label Acurela.\n"
    ],
    "infobox": {}
 }

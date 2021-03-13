@@ -1,22 +1,7 @@
 {
    "Name": "Phantom Tollbooth (band)",
-   "Sections": [
-      "1 Members",
-      "2 Albums",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Phantom Tollbooth was a post-punk/noise rock band from New York City.[1] They played a style of post punk that included elements from jazz,[2] noise rock, and art rock.[1][3] This allowed Phantom Tollbooth to make sudden starts, stops, and tempo changes in their music.[4]  All of their albums were released in a four-year window between 1984 and 1988 on Homestead Records. In 2003, Guided by Voices frontman Robert Pollard created new lyrics and melodies for Phantom Tollbooth's 1988 album Power Toy.[3] The resulting work was released as Beard of Lightning.[5]\n"
-      ]
-   },
-   "Members": {},
-   "Albums": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Phantom Tollbooth was a post-punk/noise rock band from New York City.[1] They played a style of post punk that included elements from jazz,[2] noise rock, and art rock.[1][3] This allowed Phantom Tollbooth to make sudden starts, stops, and tempo changes in their music.[4]  All of their albums were released in a four-year window between 1984 and 1988 on Homestead Records. In 2003, Guided by Voices frontman Robert Pollard created new lyrics and melodies for Phantom Tollbooth's 1988 album Power Toy.[3] The resulting work was released as Beard of Lightning.[5]\n",
+   "rawData": [
+      "Phantom Tollbooth was a post-punk/noise rock band from New York City. They played a style of post punk that included elements from jazz, noise rock, and art rock. This allowed Phantom Tollbooth to make sudden starts, stops, and tempo changes in their music.  All of their albums were released in a four-year window between 1984 and 1988 on Homestead Records. In 2003, Guided by Voices frontman Robert Pollard created new lyrics and melodies for Phantom Tollbooth's 1988 album Power Toy. The resulting work was released as Beard of Lightning.\n",
       "Band Website\n"
    ],
    "infobox": {}

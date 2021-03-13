@@ -1,32 +1,9 @@
 {
    "Name": "Ars Nova (Japanese band)",
-   "Sections": [
-      "Summary",
-      "Band history"
-   ],
-   "Summary": {
-      "text": [
-         "Ars Nova is a Japanese progressive rock band. The current[when?] members are Keiko Kumagai (keyboards), Shinko \"Panky\" Shibata (bass guitar), Hazime (drums) and Satoshi Handa (guitar).\n",
-         "Ars Nova's music features keyboards heavily—this was particularly true between 1998 and 2003 when the band had two keyboard players. Common sounds include the ubiquitous Hammond organ, as well as more recent digital sounds. Almost all of their music is instrumental.\n",
-         "The band's musical influences are ELP, Goblin, PFM, Rick Wakeman, Balletto di Bronzo and classical music. Kumagai, the keyboard player, writes all of the band's compositions. She has played on the Ayreon album Universal Migrator Part 2: Flight of the Migrator (2000). For much of its history (until Hazime and more recently Handa joined), the band was all-female, unusual in the world of progressive rock.\n"
-      ]
-   },
-   "Band history": {
-      "text": [
-         "Ars Nova was formed in 1983 by Kyoko Kanazawa (bass guitar), Keiko Thubata (keyboards) and Yumiko Saito (drums). The band covered bands such as ELP and Trace. In 1986, Thubata left the band. Keiko Kumagai replaced her and played two gigs with the band before leaving for personal reasons.\n",
-         "In 1991, the band was reformed with Keiko Kumagai on the keyboards. In 1992, the band released Fear and Anxiety. The following year, in 1993, Saito was replaced by Akiko Takahashi on the drums.\n",
-         "In 1994, their second album, Transi, was released. It allowed the band to be known outside Japan. In 1995, Ars Nova played a gig for the first time outside Japan, at the Prog Fest '95 festival in Los Angeles, USA.\n",
-         "In 1996, their third album, The Goddess of Darkness, was released and in 1997 they played their first gigs in Europe. Kyoko Kanazawa left the band in October.\n",
-         "In 1998, the album, The Book of the Dead, was released with guest bass guitarist, Ken Ishita (ex-Deja Vu). A world tour began in October with Naomi Miura as a second keyboard player and bass guitar replacement.\n",
-         "Android Domina was released in 2001, with Mika Nakajima as a second keyboard player, followed in 2003 by Biogenesis Project, an album featuring numerous guest musicians, including Masuhiro Goto (Gerard, Ningen-Isu), who became the new drummer of the band, replacing Takahashi. Nakajima also left the band and was replaced by the bass guitarist Shinko Shibata. Satoshi Handa began playing as a guest for live gigs later in the year.\n",
-         "In 2005, drummer Goto left the band and was replaced by Hazime. Handa became a member of the band and played on the next studio album.\n"
-      ]
-   },
-   "coreData": [
-      "Ars Nova is a Japanese progressive rock band. The current[when?] members are Keiko Kumagai (keyboards), Shinko \"Panky\" Shibata (bass guitar), Hazime (drums) and Satoshi Handa (guitar).\n",
+   "rawData": [
+      "Ars Nova is a Japanese progressive rock band. The current members are Keiko Kumagai (keyboards), Shinko \"Panky\" Shibata (bass guitar), Hazime (drums) and Satoshi Handa (guitar).\n",
       "Ars Nova's music features keyboards heavily—this was particularly true between 1998 and 2003 when the band had two keyboard players. Common sounds include the ubiquitous Hammond organ, as well as more recent digital sounds. Almost all of their music is instrumental.\n",
-      "The band's musical influences are ELP, Goblin, PFM, Rick Wakeman, Balletto di Bronzo and classical music. Kumagai, the keyboard player, writes all of the band's compositions. She has played on the Ayreon album Universal Migrator Part 2: Flight of the Migrator (2000). For much of its history (until Hazime and more recently Handa joined), the band was all-female, unusual in the world of progressive rock.\n",
-      "Ars Nova was formed in 1983 by Kyoko Kanazawa (bass guitar), Keiko Thubata (keyboards) and Yumiko Saito (drums). The band covered bands such as ELP and Trace. In 1986, Thubata left the band. Keiko Kumagai replaced her and played two gigs with the band before leaving for personal reasons.\n"
+      "The band's musical influences are ELP, Goblin, PFM, Rick Wakeman, Balletto di Bronzo and classical music. Kumagai, the keyboard player, writes all of the band's compositions. She has played on the Ayreon album Universal Migrator Part 2: Flight of the Migrator (2000). For much of its history (until Hazime and more recently Handa joined), the band was all-female, unusual in the world of progressive rock.\n"
    ],
    "infobox": {
       "Origin": [

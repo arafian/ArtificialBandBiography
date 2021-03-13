@@ -1,44 +1,9 @@
 {
    "Name": "The Magazine Spies",
-   "Sections": [
-      "1 History",
-      "1.1 Origins",
-      "1.2 The Cure, Cult Hero, recording",
-      "1.3 The Magspies Mk. II",
-      "2 References",
-      "3 External links"
-   ],
-   "Summary": {
-      "text": [
-         "The Magazine Spies were an English post-punk band from the town of Horley. They were active during 1979 and 1980, and are notable for band members who went on to play in the Cure, Fools Dance and related projects. The Magazine Spies were also known as the Magspies and Mag/Spys; a wordplay on \"magpies\".\n"
-      ]
-   },
-   "History": {
-      "Origins": {
-         "text": [
-            "The initial lineup in 1979 comprised the original members of Horley punk rock band Lockjaw (1976–1978); Gary Bowe (vocals), Simon Gallup (bass guitar), Stuart Hinton (guitar) and Martin Ordish (drums). They were joined by Matthieu Hartley (keyboards).[1] The band's transition from Lockjaw to the Magspies coincided with their parting company with Raw Records,[2] and expanding from their punk origins to explore post-punk and new wave. As they had done as Lockjaw, the Magspies continued to play regularly around Horley and Crawley with the Cure, among others.[3] Both Lockjaw and The Magspies were managed and promoted by bassist Gallup's elder brothers Dave Gallup and Ric Gallup.[2][4]\n"
-         ]
-      },
-      "The Cure, Cult Hero, recording": {
-         "text": [
-            "In October 1979, Gallup and Hartley left the Magspies to join the new lineup of the Cure.[5][6][7] During the same month, however, the Magspies entered Morgan Studios in London as part of a recording session for Cult Hero.[7][8] Hartley and Simon Gallup both performed as members of Cult Hero during these sessions. In between recording Cult Hero, Robert Smith of the Cure and Ric Gallup produced tracks by the Obtainers and the Magspies for Ric Gallup's new record label Dance Fools Dance,[7] including \"Lifeblood\", \"Bombs\", \"Dishonour\" and \"Gary’s Gone to War\".[9] Simon Gallup performed bass on the Magspies recordings apart from \"Gary's Gone to War\", which featured Rik Kite on bass, but Hartley's keyboard playing did not appear.[8] Backing vocals were provided by Simon Gallup's then-girlfriend Carol Thompson.[2]\n"
-         ]
-      },
-      "The Magspies Mk. II": {
-         "text": [
-            "The Magspies later replaced Gallup with bassist Kite from Crawley.[10] Rather than finding a new keyboardist, the band recruited second guitarist Stuart Curran. Curran's previous band Crime had been performing around Horley and Crawley with the Magspies during 1979.[11] In March 1980, the new lineup of Bowe (vocals), Hinton (guitar), Curran (guitar, keyboards), Kite (bass/backing vocals) and Ordish (drums) opened for the Cure at the Marquee Club in London.[8] Later in the same year, members of the Magspies also traveled with the Cure for tour dates in France.[2]\n",
-            "In July 1980, the Dance Fools Dance label released the \"Yeh Yeh Yeh\" split-release 7\" single by the Obtainers and Mag/Spys, from the earlier Morgan Studios recordings. The record contained the Obtainers songs \"Yeh Yeh Yeh\" and \"Pussy Wussy\" on one side, with \"Lifeblood\" and \"Bombs\" by Mag/Spys on the other. Only 100 copies of the single were pressed, hand-packaged in paper and sticker sleeves designed by Ric Gallup. Individual copies came with either red,[12] yellow,[13] green[14] or blue[15] stickers, and were sold by mail order for 75 pence through the Cure's official newsletter, Clinic.[8] Later internet sources have dated the release to 1979, possibly due to it having been recorded in 1979 with the original lineup.[16] \"Lifeblood\" and \"Bombs\" by Mag/Spys later resurfaced on the 1998 UK punk compilation album England Belongs to Me, Vol II, issued by bootleg label 77 Records.\n",
-            "During the latter half of 1980, the Magspies disbanded. The following year, Curran and Hartley formed the Cry. Gallup also joined the Cry in 1982, and after several lineup and name changes between 1981 and 1983, the band became known as Fools Dance.\n"
-         ]
-      }
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "The Magazine Spies were an English post-punk band from the town of Horley. They were active during 1979 and 1980, and are notable for band members who went on to play in the Cure, Fools Dance and related projects. The Magazine Spies were also known as the Magspies and Mag/Spys; a wordplay on \"magpies\".\n",
-      "The initial lineup in 1979 comprised the original members of Horley punk rock band Lockjaw (1976–1978); Gary Bowe (vocals), Simon Gallup (bass guitar), Stuart Hinton (guitar) and Martin Ordish (drums). They were joined by Matthieu Hartley (keyboards).[1] The band's transition from Lockjaw to the Magspies coincided with their parting company with Raw Records,[2] and expanding from their punk origins to explore post-punk and new wave. As they had done as Lockjaw, the Magspies continued to play regularly around Horley and Crawley with the Cure, among others.[3] Both Lockjaw and The Magspies were managed and promoted by bassist Gallup's elder brothers Dave Gallup and Ric Gallup.[2][4]\n",
-      "In October 1979, Gallup and Hartley left the Magspies to join the new lineup of the Cure.[5][6][7] During the same month, however, the Magspies entered Morgan Studios in London as part of a recording session for Cult Hero.[7][8] Hartley and Simon Gallup both performed as members of Cult Hero during these sessions. In between recording Cult Hero, Robert Smith of the Cure and Ric Gallup produced tracks by the Obtainers and the Magspies for Ric Gallup's new record label Dance Fools Dance,[7] including \"Lifeblood\", \"Bombs\", \"Dishonour\" and \"Gary’s Gone to War\".[9] Simon Gallup performed bass on the Magspies recordings apart from \"Gary's Gone to War\", which featured Rik Kite on bass, but Hartley's keyboard playing did not appear.[8] Backing vocals were provided by Simon Gallup's then-girlfriend Carol Thompson.[2]\n",
-      "The Magspies later replaced Gallup with bassist Kite from Crawley.[10] Rather than finding a new keyboardist, the band recruited second guitarist Stuart Curran. Curran's previous band Crime had been performing around Horley and Crawley with the Magspies during 1979.[11] In March 1980, the new lineup of Bowe (vocals), Hinton (guitar), Curran (guitar, keyboards), Kite (bass/backing vocals) and Ordish (drums) opened for the Cure at the Marquee Club in London.[8] Later in the same year, members of the Magspies also traveled with the Cure for tour dates in France.[2]\n"
+      "The initial lineup in 1979 comprised the original members of Horley punk rock band Lockjaw (1976–1978); Gary Bowe (vocals), Simon Gallup (bass guitar), Stuart Hinton (guitar) and Martin Ordish (drums). They were joined by Matthieu Hartley (keyboards). The band's transition from Lockjaw to the Magspies coincided with their parting company with Raw Records, and expanding from their punk origins to explore post-punk and new wave. As they had done as Lockjaw, the Magspies continued to play regularly around Horley and Crawley with the Cure, among others. Both Lockjaw and The Magspies were managed and promoted by bassist Gallup's elder brothers Dave Gallup and Ric Gallup.\n",
+      "In October 1979, Gallup and Hartley left the Magspies to join the new lineup of the Cure. During the same month, however, the Magspies entered Morgan Studios in London as part of a recording session for Cult Hero. Hartley and Simon Gallup both performed as members of Cult Hero during these sessions. In between recording Cult Hero, Robert Smith of the Cure and Ric Gallup produced tracks by the Obtainers and the Magspies for Ric Gallup's new record label Dance Fools Dance, including \"Lifeblood\", \"Bombs\", \"Dishonour\" and \"Gary’s Gone to War\". Simon Gallup performed bass on the Magspies recordings apart from \"Gary's Gone to War\", which featured Rik Kite on bass, but Hartley's keyboard playing did not appear. Backing vocals were provided by Simon Gallup's then-girlfriend Carol Thompson.\n"
    ],
    "infobox": {}
 }
