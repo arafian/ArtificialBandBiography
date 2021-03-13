@@ -92,13 +92,12 @@ for url in urls:
   bandData = {}
   createJSONData(url)
   appendToConsolidatedData()
-#   with open('./data/'+str(fileNum)+'.json', 'w', encoding="utf-8") as outfile:
-#      json.dump(bandData, outfile, indent = 3,
-#                ensure_ascii = False)
+  with open('./data/'+str(fileNum)+'.json', 'w', encoding="utf-8") as outfile:
+     json.dump(bandData, outfile, indent = 3,
+               ensure_ascii = False)
 
   fileNum = fileNum + 1
 
-# print(consolidatedData)
 with open('./data/consolidatedData.json', 'w', encoding="utf-8") as outfile:
    json.dump(consolidatedData, outfile, indent = 3,
             ensure_ascii = False)
