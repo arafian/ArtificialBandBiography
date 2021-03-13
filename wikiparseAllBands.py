@@ -46,6 +46,34 @@ def createJSONData(url):
   bandData["infobox"] = parse_infobox(soup)
   allBandNames.append(bandData["Name"])
 
+def appendToConsolidatedData(): 
+   for key in bandData:
+      if key == "rawData":
+         for i in range(len(bandData[key])):
+            allKey = "all"+"Para_" + str(i)
+            if allKey in consolidatedData:
+               currData = consolidatedData[allKey]
+               currData.append(bandData[key][i])
+            else:
+               consolidatedData[allKey] = [bandData[key][i]]
+
+
+      elif key == "infobox":
+        allKey = "allGenres"
+        if "Genres" in bandData[key]:
+          if allKey in consolidatedData:
+            currData = consolidatedData[allKey]
+            currData.extend(bandData[key]["Genres"])
+          else:
+            consolidatedData[allKey] = [bandData[key]["Genres"]]
+
+      else:
+        allKey = "all"+key
+        if allKey in consolidatedData:
+          currData = consolidatedData[allKey]
+          currData.append(bandData[key])
+        else:
+          consolidatedData[allKey] = [bandData[key]]
 
 ##########################################################################
 
@@ -54,15 +82,23 @@ data = pandas.read_csv('list_of_bands.csv', names=colnames)
 urls = data.url.tolist()
 
 allBandNames = []
+allGenres = []
+
+consolidatedData = {}
+
 fileNum = 0
-for url in urls[0:4]:
+for url in urls:
+  print(url)
   bandData = {}
   createJSONData(url)
-  
-  with open('./data/'+str(fileNum)+'.json', 'w', encoding="utf-8") as outfile:
-     json.dump(bandData, outfile, indent = 3,
-               ensure_ascii = False)
+  appendToConsolidatedData()
+#   with open('./data/'+str(fileNum)+'.json', 'w', encoding="utf-8") as outfile:
+#      json.dump(bandData, outfile, indent = 3,
+#                ensure_ascii = False)
 
   fileNum = fileNum + 1
 
-print(allBandNames)
+# print(consolidatedData)
+with open('./data/consolidatedData.json', 'w', encoding="utf-8") as outfile:
+   json.dump(consolidatedData, outfile, indent = 3,
+            ensure_ascii = False)
