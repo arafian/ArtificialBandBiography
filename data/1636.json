@@ -21,5 +21,28 @@
    "coreData": [
       "Smash were a Spanish psychedelic rock band formed by the sitar and guitar player Gualberto García and singer and bassist Julio Matito (1946-1979) in 1967, which was active up to 1973. Flamenco singer Manuel Molina joined the band in 1971 and they introduced flamenco elements in their last compositions pioneering the Andalusian rock.[1][2]\nThe band reunited in 1979 but Julio Matito died in a car accident a few days later.\n",
       "This article about a Spanish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Seville, Andalusia, Spain"
+      ],
+      "Genres": [
+         "Psychedelic rock",
+         "blues rock",
+         "progressive rock"
+      ],
+      "Years active": [
+         "1967–1973"
+      ],
+      "Labels": [
+         "PolyGram, Philips, Bocaccio"
+      ],
+      "Members": [
+         "Gualberto García",
+         "Julio Matito",
+         "Antonio Rodríguez",
+         "Henrik Liebgott",
+         "Manuel Molina"
+      ]
+   }
 }

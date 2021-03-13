@@ -12,8 +12,9 @@
       "2.2 Compilation albums",
       "2.3 Singles",
       "3 Timeline of band members",
-      "4 References",
-      "5 External links"
+      "4 Timeline",
+      "5 References",
+      "6 External links"
    ],
    "Summary": {
       "text": [
@@ -78,6 +79,7 @@
          "The membership of the New Riders of the Purple Sage has changed many times.  The following table shows a somewhat simplified version of the history of the band's lineups.[22]\n"
       ]
    },
+   "Timeline": {},
    "References": {},
    "External links": {},
    "coreData": [
@@ -85,5 +87,57 @@
       "The roots of the New Riders can be traced back to the early 1960s Peninsula folk/beatnik scene centered on Stanford University's now-defunct Perry Lane housing complex in Menlo Park, California, where future Grateful Dead guitarist Jerry Garcia often played gigs with like-minded guitarist David Nelson. The young John Dawson (also known as \"Marmaduke\") also played some concerts with Garcia, Nelson, and their compatriots while visiting relatives on summer vacation. Enamored of the sounds of Bakersfield-style country music, Dawson would turn his older friends on to the work of Merle Haggard and Buck Owens and provided a vital link between Timothy Leary's International Federation for Internal Freedom in Millbrook, New York (having boarded at the Millbrook School) and the Menlo Park bohemian coterie nurtured by Ken Kesey.\n",
       "Inspired by American folk music, rock and roll, and blues, Garcia formed the Grateful Dead (initially known as The Warlocks) with blues singer Ron \"Pigpen\" McKernan, while Nelson joined the similarly inclined New Delhi River Band (which would eventually come to include bassist Dave Torbert) shortly thereafter. Although they lacked the managerial acumen and cultural cachet of the Grateful Dead and elected to remain in East Palo Alto, California unlike the former group, which soon relocated to the Haight-Ashbury district of San Francisco, the New Delhi River Band were considered by late 1966 to be the house band of The Barn (one of the region's few viable concert venues outside of San Francisco) in Scotts Valley, California. The group continued to enjoy a cult following in Santa Clara and Santa Cruz Counties through the Summer of Love until their dissolution in early 1968.\n",
       "After a period of inactivity, Nelson contributed to the Grateful Dead's Aoxomoxoa (1969) sessions and served as the caretaker of Big Brother and the Holding Company's rehearsal space while guitarist Peter Albin and drummer David Getz undertook a European tour with Country Joe & the Fish following the schismatic departure of Janis Joplin and Sam Andrew from the former band in December 1968. During this period, Nelson and Garcia played intermittently in an early iteration of High Country, a traditional bluegrass ensemble formed by the remnants of the Peninsula folk scene. Nelson was set to serve as lead guitarist in the reconstituted lineup of Big Brother that coalesced later in 1969 and thus may have contributed to some of the recordings on Be a Brother (1970) during this transitional period.\n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "San Francisco, California"
+      ],
+      "Genres": [
+         "Country rock"
+      ],
+      "Years active": [
+         "1969–1997, 2005–present"
+      ],
+      "Labels": [
+         "Columbia, MCA, A&M, Relix"
+      ],
+      "Associated acts": [
+         "Grateful Dead, Peter Rowan, Donna Jean Godchaux, Robert Hunter, David Nelson Band"
+      ],
+      "Website": [
+         "thenewriders.com"
+      ],
+      "Members": [
+         "David Nelson",
+         "Buddy Cage",
+         "Michael Falzarano",
+         "Ronnie Penque",
+         "Johnny Markowski"
+      ],
+      "Past members": [
+         "John Dawson",
+         "Jerry Garcia",
+         "Mickey Hart",
+         "Bob Matthews",
+         "  Robert Hunter",
+         "Phil Lesh",
+         "Dave Torbert",
+         "Spencer Dryden",
+         "Skip Battin",
+         "Stephen A. Love",
+         "Patrick Shanahan",
+         "Allen Kemp",
+         "Bobby Black",
+         "Pete Grant",
+         " Michael White",
+         "Billy Wolf",
+         "Val Fuentes",
+         "Rusty Gauthier",
+         "Greg Lagardo",
+         "Gary Vogensen",
+         "Fred Campbell",
+         "Evan Morgan",
+         "Bill Laymon"
+      ]
+   }
 }

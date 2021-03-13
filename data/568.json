@@ -36,5 +36,28 @@
    "coreData": [
       "Exmortus is an American extreme metal band formed in 2002, whose lyrics mostly deal with battles and war.[1]\n",
       "Timeline\n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Whittier, California, United States"
+      ],
+      "Genres": [
+         "Neoclassical metal, Thrash metal, melodic death metal"
+      ],
+      "Years active": [
+         "2002–present"
+      ],
+      "Labels": [
+         "Heavy Artillery, Prosthetic"
+      ],
+      "Website": [
+         "exmortusmusic.com"
+      ],
+      "Members": [
+         "Jadran \"Conan\" Gonzalez",
+         "Phillip Nunez",
+         "Chase Becker",
+         "Adrian Aguilar"
+      ]
+   }
 }

@@ -21,9 +21,9 @@
    "Summary": {
       "text": [
          "Phish is an American rock band that formed in Burlington, Vermont, in 1983. The band is known for musical improvisation, extended jams, blending of genres, and a dedicated fan base. The band consists of guitarist Trey Anastasio, bassist Mike Gordon, drummer Jon Fishman, and keyboardist Page McConnell, all of whom perform vocals, with Anastasio being the primary lead vocalist.\n",
-         "The band was formed by Anastasio, Gordon, Fishman and guitarist Jeff Holdsworth, who were joined by McConnell in 1985. Holdsworth departed the band in 1986, and the lineup has remained stable since. Phish began to perform outside of New England in the late 1980s and experienced a rise in popularity in the mid 1990s. In October 2000, the band began a two-year hiatus that ended in December 2002, but they disbanded again in August 2004. Phish reunited in March 2009 and resumed performing regularly. All four members pursued solo careers or performed with side-projects and these projects have continued even after the band has reunited.[3]\n",
+         "The band was formed by Anastasio, Gordon, Fishman and guitarist Jeff Holdsworth, who were joined by McConnell in 1985. Holdsworth departed the band in 1986, and the lineup has remained stable since. Phish began to perform outside of New England in the late 1980s and experienced a rise in popularity in the mid 1990s. In October 2000, the band began a two-year hiatus that ended in December 2002, but they disbanded again in August 2004. Phish reunited officially in October 2008 for subsequent reunion shows in March 2009 and since then have resumed performing regularly. All four members pursued solo careers or performed with side-projects and these projects have continued even after the band has reunited.[3]\n",
          "Phish's music blends elements of a wide variety of genres,[4] including funk, progressive rock, psychedelic rock, folk, country, jazz, blues, bluegrass, and pop.[2][5] The band was part of a movement of improvisational rock groups, inspired by the Grateful Dead and colloquially known as \"jam bands\", that gained considerable popularity as touring concert acts in the 1990s.[6][7] Phish has developed a large and dedicated following by word of mouth, the exchange of live recordings, and selling over 8 million albums and DVDs in the United States.[8]\n",
-         "Phish were signed to major label Elektra Records from 1991 to 2005, when the band formed their own independent label, JEMP Records, to release archival CD and DVD sets.[9] The label's first release was Phish: New Year's Eve 1995 – Live at Madison Square Garden, which was released in conjunction with Rhino Records in December 2005.[10] The label subsequently released several other archival live box sets, including band's new studio albums since its reunion as active band.\n"
+         "Phish were signed to major label Elektra Records from 1991 to 2005, when the band formed their own independent label, JEMP Records, to release archival CD and DVD sets.[9] The label's first release was Phish: New Year's Eve 1995 – Live at Madison Square Garden, which was released in conjunction with Rhino Records in December 2005.[10] The label subsequently released several other archival live box sets, including band's new studio albums since its reunion as an active band.\n"
       ]
    },
    "History": {
@@ -139,8 +139,45 @@
    "External links": {},
    "coreData": [
       "Phish is an American rock band that formed in Burlington, Vermont, in 1983. The band is known for musical improvisation, extended jams, blending of genres, and a dedicated fan base. The band consists of guitarist Trey Anastasio, bassist Mike Gordon, drummer Jon Fishman, and keyboardist Page McConnell, all of whom perform vocals, with Anastasio being the primary lead vocalist.\n",
-      "The band was formed by Anastasio, Gordon, Fishman and guitarist Jeff Holdsworth, who were joined by McConnell in 1985. Holdsworth departed the band in 1986, and the lineup has remained stable since. Phish began to perform outside of New England in the late 1980s and experienced a rise in popularity in the mid 1990s. In October 2000, the band began a two-year hiatus that ended in December 2002, but they disbanded again in August 2004. Phish reunited in March 2009 and resumed performing regularly. All four members pursued solo careers or performed with side-projects and these projects have continued even after the band has reunited.[3]\n",
+      "The band was formed by Anastasio, Gordon, Fishman and guitarist Jeff Holdsworth, who were joined by McConnell in 1985. Holdsworth departed the band in 1986, and the lineup has remained stable since. Phish began to perform outside of New England in the late 1980s and experienced a rise in popularity in the mid 1990s. In October 2000, the band began a two-year hiatus that ended in December 2002, but they disbanded again in August 2004. Phish reunited officially in October 2008 for subsequent reunion shows in March 2009 and since then have resumed performing regularly. All four members pursued solo careers or performed with side-projects and these projects have continued even after the band has reunited.[3]\n",
       "Phish's music blends elements of a wide variety of genres,[4] including funk, progressive rock, psychedelic rock, folk, country, jazz, blues, bluegrass, and pop.[2][5] The band was part of a movement of improvisational rock groups, inspired by the Grateful Dead and colloquially known as \"jam bands\", that gained considerable popularity as touring concert acts in the 1990s.[6][7] Phish has developed a large and dedicated following by word of mouth, the exchange of live recordings, and selling over 8 million albums and DVDs in the United States.[8]\n",
-      "Phish were signed to major label Elektra Records from 1991 to 2005, when the band formed their own independent label, JEMP Records, to release archival CD and DVD sets.[9] The label's first release was Phish: New Year's Eve 1995 – Live at Madison Square Garden, which was released in conjunction with Rhino Records in December 2005.[10] The label subsequently released several other archival live box sets, including band's new studio albums since its reunion as active band.\n"
-   ]
+      "Phish were signed to major label Elektra Records from 1991 to 2005, when the band formed their own independent label, JEMP Records, to release archival CD and DVD sets.[9] The label's first release was Phish: New Year's Eve 1995 – Live at Madison Square Garden, which was released in conjunction with Rhino Records in December 2005.[10] The label subsequently released several other archival live box sets, including band's new studio albums since its reunion as an active band.\n"
+   ],
+   "infobox": {
+      "Origin": [
+         "Burlington, Vermont, U.S."
+      ],
+      "Genres": [
+         "Rock",
+         "progressive rock",
+         "funk",
+         "psychedelic rock[1]",
+         "jam band[2]"
+      ],
+      "Years active": [
+         "1983–2004",
+         "2008–present"
+      ],
+      "Labels": [
+         "Elektra",
+         "Rhino/WMG",
+         "JEMP",
+         "MapleMusic"
+      ],
+      "Associated acts": [
+         "The Dude of Life, Amfibian, 70 Volt Parade"
+      ],
+      "Website": [
+         "phish.com"
+      ],
+      "Members": [
+         "Trey Anastasio",
+         "Jon Fishman",
+         "Mike Gordon",
+         "Page McConnell"
+      ],
+      "Past members": [
+         "Jeff Holdsworth"
+      ]
+   }
 }

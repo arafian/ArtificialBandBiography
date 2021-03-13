@@ -11,5 +11,26 @@
    "coreData": [
       "Wizardzz is an electropop/noise pop band consisting of Brian Gibson (of Lightning Bolt) on drums and Rich Porter (of Bug Sized Mind) on synthesizer. Their debut album Hidden City of Taurmond was released on March 21, 2006 under the independent label Load Records.\n",
       "This article on a United States rock music band is a stub. You can help Wikipedia by expanding it."
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Middleborough, Massachusetts"
+      ],
+      "Genres": [
+         "Electropop, noise pop"
+      ],
+      "Years active": [
+         "2006–present"
+      ],
+      "Labels": [
+         "Load Records"
+      ],
+      "Website": [
+         "Official site"
+      ],
+      "Members": [
+         "Brian Gibson",
+         "Rich Porter"
+      ]
+   }
 }

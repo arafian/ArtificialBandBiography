@@ -12,5 +12,28 @@
    "coreData": [
       "The Canterbury Caledonian Society Pipe Band is a grade one pipe band based in Christchurch, New Zealand.[1]\n",
       "The band's Pipe Major is Jamie Hawke; lead drummer is Brayden Drummond. \n"
-   ]
+   ],
+   "infobox": {
+      "Location": [
+         "Christchurch, New Zealand"
+      ],
+      "Grade": [
+         "1"
+      ],
+      "Pipe major": [
+         "Jamie Hawke"
+      ],
+      "Drum sergeant": [
+         "Brayden Drummond"
+      ],
+      "Tartan": [
+         "Royal Stewart"
+      ],
+      "Notable honours": [
+         "2012, 2013, 2014, 2015, 2016, 2017, 2019 National New Zealand Pipe Band & Drum Corps Championships"
+      ],
+      "Website": [
+         "www.thecale.net"
+      ]
+   }
 }

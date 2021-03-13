@@ -33,5 +33,22 @@
    "coreData": [
       "Blatz was an American punk band formed in 1989 in Berkeley, California, United States. Blatz came out of the 924 Gilman Street Project scene during the late 1980s, and early 1990s along with bands like Operation Ivy, Filth, and Green Day.\n",
       "Blatz was an early 1990s East Bay punk band.[1]\n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Berkeley, California, United States"
+      ],
+      "Genres": [
+         "Punk rock"
+      ],
+      "Years active": [
+         "1989–1992"
+      ],
+      "Labels": [
+         "Lookout! Records, Alternative Tentacles"
+      ],
+      "Associated acts": [
+         "Filth, The Hope Bombs, Harbinger, The Gr'ups, Cypher in the Snow, The Criminals"
+      ]
+   }
 }

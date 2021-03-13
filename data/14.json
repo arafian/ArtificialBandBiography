@@ -8,8 +8,7 @@
       "3.2 EPs",
       "3.3 Singles",
       "3.4 Music videos",
-      "4 References",
-      "5 External links"
+      "4 External links"
    ],
    "Summary": {
       "text": [
@@ -34,12 +33,31 @@
       "Singles": {},
       "Music videos": {}
    },
-   "References": {},
    "External links": {},
    "coreData": [
       "Gumball was an American rock band formed in New York City in 1990. The original lineup consisted of Don Fleming (vocals and guitar), Eric Vermillion (vocals, bass), and Jay Spiegel (drums). In 1992, a fourth member was added, Malcolm Riviera (guitar, keyboards) who had previously played with Fleming and Spiegel in the Velvet Monkeys.\n",
       "After Fleming and Spiegel's group B.A.L.L. broke up in 1990, the duo briefly joined Dinosaur Jr. and released one single on the Sub Pop label. The two left Dinosaur Jr. shortly after the release of the single. Jay Spiegel approached his friend Eric Vermillion, a member of Camp Hill, PA's The Stump Wizards, about playing with the two. Vemillion agreed and subsequently quit The Stump Wizards. After less than a week's rehearsal, the new trio played its first show and Gumball was born. \n",
       "The fall of 1990 found Gumball in the studio, and their first release came out shortly thereafter on the Paperhouse/Sire label in England. The release was a 12 inch EP with the songs \"All the Time\"/\"Yellow Pants\"/\"Gettysburg\".\n",
       "Gumball soon found itself with a record deal with NYC's Caroline Records. They recorded and released the album Special Kiss and embarked on a tour with Mudhoney, Sonic Youth, and other similar American indie bands of the early 1990s. \n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "United States"
+      ],
+      "Genres": [
+         "Alternative rock, post-punk, grunge"
+      ],
+      "Years active": [
+         "1990–1994"
+      ],
+      "Labels": [
+         "Columbia, Primo Scree, Paperhouse"
+      ],
+      "Members": [
+         "Don Fleming",
+         "Jay Spiegel",
+         "Eric Vermillion",
+         "Malcolm Riviera"
+      ]
+   }
 }

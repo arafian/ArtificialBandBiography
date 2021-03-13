@@ -22,5 +22,28 @@
    "coreData": [
       "Grit City Grass is a Bluegrass band located in Crozet, Virginia.[1] The band is made up of four musicians who play a wide range of traditional instruments[2] and their recordings receive regular airplay on Bluegrass Sunday Morning on WNRN.\n",
       "The band recorded two self-produced albums:\n"
-   ]
+   ],
+   "infobox": {
+      "Also known as": [
+         "Grit City"
+      ],
+      "Origin": [
+         "Charlottesville, VA, USA"
+      ],
+      "Genres": [
+         "Bluegrass"
+      ],
+      "Years active": [
+         "2005-present"
+      ],
+      "Website": [
+         "http://www.gritcitygrass.com"
+      ],
+      "Members": [
+         "Zeek Shifflett ",
+         " Fred Anderson ",
+         " J.W. Brown ",
+         " Liza Flood"
+      ]
+   }
 }

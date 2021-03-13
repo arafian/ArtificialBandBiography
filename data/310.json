@@ -10,7 +10,7 @@
    ],
    "Summary": {
       "text": [
-         "The Buttless Chaps were a Canadian indie rock band from Victoria, British Columbia, Canada.  The group played a hybrid of punk, new wave and alternative country music. Band members included Dave Gowans on vocals, guitar and banjo,[1] Morgan McDonald on keyboards, Lasse Lutick on guitar and synthesizer,[2] Torben Wilson on drums and Ida Nilsen on vocals, accordion, synthesizer and euphonium.\n"
+         "The Buttless Chaps were a Canadian indie rock band from Victoria, British Columbia, Canada. The group played a hybrid of punk, new wave and alternative country music. Band members included Dave Gowans on vocals, guitar and banjo,[1] Morgan McDonald on keyboards, Lasse Lutick on guitar and synthesizer,[2] Torben Wilson on drums and Ida Nilsen on vocals, accordion, synthesizer and euphonium.\n"
       ]
    },
    "History": {
@@ -30,9 +30,30 @@
    "References": {},
    "External links": {},
    "coreData": [
-      "The Buttless Chaps were a Canadian indie rock band from Victoria, British Columbia, Canada.  The group played a hybrid of punk, new wave and alternative country music. Band members included Dave Gowans on vocals, guitar and banjo,[1] Morgan McDonald on keyboards, Lasse Lutick on guitar and synthesizer,[2] Torben Wilson on drums and Ida Nilsen on vocals, accordion, synthesizer and euphonium.\n",
+      "The Buttless Chaps were a Canadian indie rock band from Victoria, British Columbia, Canada. The group played a hybrid of punk, new wave and alternative country music. Band members included Dave Gowans on vocals, guitar and banjo,[1] Morgan McDonald on keyboards, Lasse Lutick on guitar and synthesizer,[2] Torben Wilson on drums and Ida Nilsen on vocals, accordion, synthesizer and euphonium.\n",
       "The Buttless Chaps were formed in 1998. In 1999 they released a self-titled CD.[3] Their third album, Death Scenes I II III came out in 2001, and had a country rock theme.[4]\n",
       "In 2006 the band released Where Night Holds Light on Mint Records,[5] and the album soon appeared on the campus and community radio charts.[6] They were featured on CBC Radio 3's Sessions in June 2007.\n",
       "In an interview on CBC Radio 3 on January 7, 2009, Dave Gowans announced that the band would be breaking up after completing their remaining touring commitments.[7] The band members moved on to other projects: McDonald on his band Fond of Tigers, Nilsen on Great Aunt Ida and The Violet Archers, Wilson on Clean and Pristine the NOEX Castaway, and Gowans on Cloudsplitter. Today, Gowans and Lutick also own and operate Red Cat Records, a record store in Vancouver.\n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Victoria, British Columbia, Canada"
+      ],
+      "Genres": [
+         "Indie rock"
+      ],
+      "Years active": [
+         "1998 (1998)–2009"
+      ],
+      "Labels": [
+         "Mint"
+      ],
+      "Past members": [
+         "Dave Gowans",
+         "Lasse Lutick",
+         "Morgan McDonald",
+         "Ida Nilsen",
+         "Torben Wilson"
+      ]
+   }
 }

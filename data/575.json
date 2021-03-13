@@ -31,7 +31,7 @@
    ],
    "Summary": {
       "text": [
-         "Meshuggah (/məˈʃʊɡə/)[1] is a Swedish extreme metal band formed in Umeå in 1987. Meshuggah's current lineup consists of founding members lead vocalist Jens Kidman and lead guitarist Fredrik Thordendal, drummer Tomas Haake since 1990, rhythm guitarist Mårten Hagström since 1993 and bassist Dick Lövgren since 2004. Since its formation, the band has released eight studio albums, six EPs and eight music videos. Their latest studio album, The Violent Sleep of Reason, was released on 7 October 2016.\n",
+         "Meshuggah (/məˈʃʊɡə/)[1] Is a Swedish extreme metal band formed in Umeå in 1987. Meshuggah's current lineup consists of founding members lead vocalist Jens Kidman and lead guitarist Fredrik Thordendal, drummer Tomas Haake since 1990, rhythm guitarist Mårten Hagström since 1993 and bassist Dick Lövgren since 2004. Since its formation, the band has released eight studio albums, six EPs and eight music videos. Their latest studio album, The Violent Sleep of Reason, was released on 7 October 2016.\n",
          "Meshuggah has become known for their innovative musical style and their complex, polymetered song structures and polyrhythms. They rose to fame as a significant act in extreme underground music, became an influence for modern metal bands, and gained a cult following. The band was labelled as one of the ten most important hard rock and heavy metal bands by Rolling Stone and as the most important band in metal by Alternative Press. In the late 2000s, the band was an inspiration for the djent subgenre.\n",
          "In 2006 and 2009, Meshuggah was nominated for a Swedish Grammis Award for their albums Catch Thirtythree and obZen, respectively. In 2018, the band was nominated for a Grammy Award for their song \"Clockworks\" under the \"Best Metal Performance\" category.[2] The band has performed in various international festivals, including Ozzfest and Download, and embarked on the obZen world tour from 2008 to 2010, and also the \"Ophidian Trek\".\n"
       ]
@@ -171,9 +171,44 @@
       "Videos": {}
    },
    "coreData": [
-      "Meshuggah (/məˈʃʊɡə/)[1] is a Swedish extreme metal band formed in Umeå in 1987. Meshuggah's current lineup consists of founding members lead vocalist Jens Kidman and lead guitarist Fredrik Thordendal, drummer Tomas Haake since 1990, rhythm guitarist Mårten Hagström since 1993 and bassist Dick Lövgren since 2004. Since its formation, the band has released eight studio albums, six EPs and eight music videos. Their latest studio album, The Violent Sleep of Reason, was released on 7 October 2016.\n",
+      "Meshuggah (/məˈʃʊɡə/)[1] Is a Swedish extreme metal band formed in Umeå in 1987. Meshuggah's current lineup consists of founding members lead vocalist Jens Kidman and lead guitarist Fredrik Thordendal, drummer Tomas Haake since 1990, rhythm guitarist Mårten Hagström since 1993 and bassist Dick Lövgren since 2004. Since its formation, the band has released eight studio albums, six EPs and eight music videos. Their latest studio album, The Violent Sleep of Reason, was released on 7 October 2016.\n",
       "Meshuggah has become known for their innovative musical style and their complex, polymetered song structures and polyrhythms. They rose to fame as a significant act in extreme underground music, became an influence for modern metal bands, and gained a cult following. The band was labelled as one of the ten most important hard rock and heavy metal bands by Rolling Stone and as the most important band in metal by Alternative Press. In the late 2000s, the band was an inspiration for the djent subgenre.\n",
       "In 2006 and 2009, Meshuggah was nominated for a Swedish Grammis Award for their albums Catch Thirtythree and obZen, respectively. In 2018, the band was nominated for a Grammy Award for their song \"Clockworks\" under the \"Best Metal Performance\" category.[2] The band has performed in various international festivals, including Ozzfest and Download, and embarked on the obZen world tour from 2008 to 2010, and also the \"Ophidian Trek\".\n",
       "In 1985, guitarist Fredrik Thordendal formed a band in Umeå,[3] a university town in northern Sweden with a population of 105,000.[4] The band, originally named Metallien, recorded a number of demo tapes, after which it disbanded. Thordendal, however, continued playing under a different name with new band members.[3]\n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Umeå, Sweden"
+      ],
+      "Genres": [
+         "Extreme metal",
+         "progressive metal",
+         "avant-garde metal",
+         "groove metal"
+      ],
+      "Years active": [
+         "1987–present"
+      ],
+      "Labels": [
+         "Nuclear Blast",
+         "Fractured Transmitter"
+      ],
+      "Website": [
+         "www.meshuggah.net"
+      ],
+      "Members": [
+         "Jens Kidman",
+         "Fredrik Thordendal",
+         "Tomas Haake",
+         "Mårten Hagström",
+         "Dick Lövgren"
+      ],
+      "Past members": [
+         "Niklas Lundgren",
+         "Peter Nordin",
+         "Gustaf Hielm",
+         "Johan Sjögren",
+         "Per Sjögren"
+      ]
+   }
 }

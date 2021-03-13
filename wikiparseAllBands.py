@@ -20,6 +20,7 @@ colnames = ['url']
 data = pandas.read_csv('list_of_bands.csv', names=colnames)
 urls = data.url.tolist()
 
+from parse_infobox import parse_infobox
 
 
 
@@ -139,6 +140,8 @@ def createJSONData(url):
   
   createSections(soup)
   insertSectionText(soup)
+
+  bandData["infobox"] = parse_infobox(soup)
 
 fileNum = 0
 for url in urls:

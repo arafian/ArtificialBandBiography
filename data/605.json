@@ -10,5 +10,28 @@
    },
    "coreData": [
       "Aphasia is a female heavy metal/hard rock band from Japan still active today.  Their latest release is  Ever-lasting Blue.\n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Japan"
+      ],
+      "Genres": [
+         "Heavy metal, hard rock"
+      ],
+      "Years active": [
+         "1994[1]–present"
+      ],
+      "Website": [
+         "http://www.aphasia.jp"
+      ],
+      "Members": [
+         "Sion",
+         "Sumiko 'Goe' Ishikawa",
+         "Junko 'Jun' Takeda"
+      ],
+      "Past members": [
+         "Yumi Kondoh",
+         "Kyoko 'Kyon' Morita"
+      ]
+   }
 }

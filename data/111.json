@@ -12,8 +12,8 @@
       "2.2 Former members",
       "2.3 Live members",
       "3 Discography",
-      "3.1 EPs",
-      "3.2 Albums",
+      "3.1 Albums",
+      "3.2 EPs",
       "3.3 Singles",
       "3.4 Videos",
       "3.5 Compilations",
@@ -74,8 +74,8 @@
       "Live members": {}
    },
    "Discography": {
-      "EPs": {},
       "Albums": {},
+      "EPs": {},
       "Singles": {},
       "Videos": {},
       "Compilations": {}
@@ -87,5 +87,46 @@
       "The band was started by bassist Dominic Davi, who enlisted Oobliette Sparks on keyboard who would also contribute vocals and Kristin McRory as Tsunami Bomb's original main vocalist after they left the band, Headboard in February 1998. Davi met McRory in late 1997, when she joined Headboard on vocals and had known Sparks from hanging out together at The Phoenix Theater in Petaluma. Sparks had recently left the local Petaluma band, Spacebaby that she had been in with drummer Gabe Lindeman. Calling in favors and using fill-in musicians to round out the line up, Tsunami Bomb played its first show on June 26, 1998 at the Fatty Mocha in Merced, CA with the band Luckie Strike, playing the Phoenix Theater together the next day.[1] Gabriel Lindeman played drums for the band's first few shows, but he did not join the band full-time until 1999. Kristin McRory left Tsunami Bomb in late 1998, and Davi recruited Emily Whitehurst shortly thereafter (Emily's brother, Logan Whitehurst was Davi's roommate at the time). To add mystique and give her a more iconic presence, Davi created the moniker \"Agent M\" for her to use in the band. Whitehurst was credited as Agent M almost exclusively until the breakup of the band.[2]\n",
       "Tsunami Bomb maintained a grueling tour schedule for most of its existence. In 1999 they released two limited edition 7\" singles: B-Movie Queens was a split with Emily Whitehurst and Brian Plink's former band Plinky; Mayhem On The High Seas was released on Checkmate Records which was owned by Hunter Burgan, bassist for AFI. In 2000 they signed to Tomato Head Records and released their first CD EP The Invasion from Within! and guitarist Brian Plink would leave the group with his last show being the album release show at the Phoenix Theater. Keyboardist Oobliette Sparks would leave the group the following year in 2001, and not being able to replace her, the band would continue without keyboards.\n",
       "In 2002 they signed with Kung Fu Records, and released their first full-length album The Ultimate Escape.[3] Tsunami Bomb would appear on the Warped Tour several times between 2001 and 2005. They have also toured Europe and Japan.  Originally being booked by Dan Garcia at Royal Flush Booking, Tsunami Bomb had several tours including main support for the Vandals.\n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Petaluma, California"
+      ],
+      "Genres": [
+         "Punk rock",
+         "pop punk",
+         "melodic hardcore"
+      ],
+      "Years active": [
+         "1998–2005",
+         "2009",
+         "2015–present"
+      ],
+      "Labels": [
+         "Checkmate Records",
+         "Tomato Head",
+         "Kung-Fu",
+         "Alternative Tentacles"
+      ],
+      "Website": [
+         "tsunamibomb.net"
+      ],
+      "Members": [
+         "Dominic Davi",
+         "Oobliette Sparks",
+         "Andy Pohl",
+         "Gabriel Lindeman",
+         "Kate Jacobi"
+      ],
+      "Past members": [
+         "Brian Plink",
+         "Kristin McRory",
+         "Tim Chaddick",
+         "Rob Reed",
+         "Emily Whitehurst",
+         "Jay Northington",
+         "Matt Mckenzie",
+         "Mike Griffen"
+      ]
+   }
 }

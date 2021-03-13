@@ -17,7 +17,7 @@
    ],
    "Summary": {
       "text": [
-         "Globus is a Santa Monica-based movie trailer music-inspired band consisting of a mix of producers, musicians, and vocalists.[1][2] The band is lead by composers Yoav Goren and Jeffrey Fayman.\n"
+         "Globus is a Santa Monica-based movie trailer music-inspired band consisting of a mix of producers, musicians, and vocalists.[1][2] The band is led by composers Yoav Goren and Jeffrey Fayman.\n"
       ]
    },
    "History": {
@@ -60,9 +60,50 @@
    "References": {},
    "External links": {},
    "coreData": [
-      "Globus is a Santa Monica-based movie trailer music-inspired band consisting of a mix of producers, musicians, and vocalists.[1][2] The band is lead by composers Yoav Goren and Jeffrey Fayman.\n",
+      "Globus is a Santa Monica-based movie trailer music-inspired band consisting of a mix of producers, musicians, and vocalists.[1][2] The band is led by composers Yoav Goren and Jeffrey Fayman.\n",
       "Globus was founded as a result of increasing demand for Immediate Music to make their work available for a wider audience. The band's live world premiere took place in The Grand Hall, Wembley, London, on 26 July 2006 and their first album, Epicon, was released in August of that same year.  Feeder's Mark Richardson is featured on drums with guest performances by vocalist Scott Ciscon.\n",
       "In 2011 Globus released their second album, Break From This World, with Ciscon returning for some performances together with Dutch singer Anneke van Giesbergen. The latter also actively participated in the album's development, helping write some of the lyrics for the song Mighty Rivers Run.\n",
       "A sound design album,  Violations, was released in 2012.\n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Santa Monica, California, United States"
+      ],
+      "Genres": [
+         "Orchestral",
+         "world",
+         "symphonic rock",
+         "symphonic metal"
+      ],
+      "Years active": [
+         "2006–present"
+      ],
+      "Labels": [
+         "Imperativa Records"
+      ],
+      "Associated acts": [
+         "Yoav Goren, Feeder, Larry Groupe, Astra Heights"
+      ],
+      "Website": [
+         "www.globusmusic.com"
+      ],
+      "Members": [
+         "Ryan Hanifl",
+         "Lisbeth Scott",
+         "Scott Ciscon",
+         "Anneke van Giersbergen",
+         "Christine Navarro",
+         "Yoav Goren",
+         "Dann Pursey",
+         "Tate Simms",
+         "Mark Richardson",
+         "Jeffrey Fayman",
+         "Robert Fripp",
+         "Sammy Allen",
+         "Kfir Melamed",
+         "Hiro Goto",
+         "Mike Horick",
+         "Bernard Yin"
+      ]
+   }
 }

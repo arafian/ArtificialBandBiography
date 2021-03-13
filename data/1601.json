@@ -10,5 +10,22 @@
    },
    "coreData": [
       "Marlango is a Spanish music band deeply influenced by Tom Waits. The members of the band are Leonor Watling, Alejandro Pelayo and Óscar Ybarra.\n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Madrid"
+      ],
+      "Genres": [
+         "Jazz, blues, rock"
+      ],
+      "Years active": [
+         "2002-present"
+      ],
+      "Labels": [
+         "Subterfuge, Universal"
+      ],
+      "Website": [
+         "www.marlango.net"
+      ]
+   }
 }

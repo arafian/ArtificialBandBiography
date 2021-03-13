@@ -10,5 +10,24 @@
    },
    "coreData": [
       "Anyday is a rock band from Springdale, Newfoundland and Labrador, Canada.[1] The band's music falls into the pop rock music genre.[2] The three members of the band are Glenn Thomas, Devin Robinson, and Clint Curtis.[3] The band formed in 2009.[4] On November 14, 2009, Anyday performed alongside Kellie Loder at a benefit concert at Springdale's Indian River High School.[5] The band signed with Nashville, Tennessee, United States-based Contemporary Christian record label Broken Records in 2010.[6]\n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Springdale, Newfoundland and Labrador, Canada"
+      ],
+      "Genres": [
+         "Christian rock, pop rock"
+      ],
+      "Years active": [
+         "2009 (2009)–2010"
+      ],
+      "Labels": [
+         "Broken Records"
+      ],
+      "Members": [
+         "Glenn Thomas",
+         "Devin Robinson",
+         "Clint Curtis"
+      ]
+   }
 }

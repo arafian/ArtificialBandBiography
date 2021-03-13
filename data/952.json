@@ -6,6 +6,8 @@
       "3 Members",
       "3.1 Current members",
       "3.2 Former Members",
+      "3.3 Touring substitutes/guests",
+      "3.4 Band member timeline",
       "4 Tours",
       "4.1 2008",
       "4.2 2009",
@@ -46,7 +48,9 @@
    },
    "Members": {
       "Current members": {},
-      "Former Members": {}
+      "Former Members": {},
+      "Touring substitutes/guests": {},
+      "Band member timeline": {}
    },
    "Tours": {
       "2008": {},
@@ -66,5 +70,50 @@
       "Dark Star Orchestra performs shows from among the nearly 2,500 performances of the Grateful Dead during their 30-year tenure as fathers of improvisational rock. On most, though not all of their performances, Dark Star Orchestra presents the complete original set list, song by song, and in order, while adapting their phrasing, voice arrangements and specific musical equipment for the various eras of the Grateful Dead shows in which they perform.[1]\n",
       "Members of the Grateful Dead themselves, including rhythm guitarist/singer Bob Weir, bassist Phil Lesh, drummer Bill Kreutzmann, vocalist Donna Jean Godchaux, and keyboardists Vince Welnick and Tom Constanten, have all appeared on stage and performed with Dark Star Orchestra. In November 2011, the group played its 2,000th show in Ithaca, New York.[2]\n",
       "Dark Star Orchestra has been playing live shows together since 1997, after guitarist John Kadlecik contacted keyboardist Scott Larned with a concept (introduced by a common friend Andrew \"Tiny\" Dofner): performing complete Grateful Dead shows out of history. When Scott mentioned having the same idea, John knew they were on to something. Since forming, the band has performed over 2,500 shows.[2]\n"
-   ]
+   ],
+   "infobox": {
+      "Origin": [
+         "Chicago, Illinois, USA"
+      ],
+      "Genres": [
+         "Rock, psychedelic rock, jam band"
+      ],
+      "Years active": [
+         "1997–present"
+      ],
+      "Associated acts": [
+         "Furthur, Zen Tricksters, JGB, Phil Lesh & Friends, The Dead"
+      ],
+      "Website": [
+         "http://www.darkstarorchestra.net"
+      ],
+      "Members": [
+         "Lisa Mackey",
+         "Skip Vangelas",
+         "Rob Koritz",
+         "Dino English",
+         "Rob Eaton",
+         "Rob Barraco",
+         "Jeff Mattson"
+      ],
+      "Past members": [
+         "John Kadlecik",
+         "Scott Larned",
+         "Mike Maraat",
+         "Ahmer Nizam",
+         "Michael Hazdra",
+         "Mark Corsolini",
+         "Dave Campbell",
+         "John Sabal",
+         "Bustar",
+         "Jim Harris",
+         "David Berg",
+         "Gregg Koerner",
+         "Kevin Rosen",
+         "Tom Ryan",
+         "Dan Klepinger",
+         "Stu Allen",
+         "Jim Allard"
+      ]
+   }
 }
