@@ -1,33 +1,6 @@
 {
    "Name": "Skalariak",
-   "Sections": [
-      "1 Members",
-      "1.1 Current members",
-      "1.2 Former Members",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 Singles",
-      "2.3 Videos",
-      "2.4 Compilation Contributions",
-      "3 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Skalariak is a Spanish ska band founded in 1994 in Navarre by Juantxo Skalari and Peio Skalari. Their lyrics are in Spanish and Basque. Also in their works the sounds of punk, reggae, and other styles can be found.\n"
-      ]
-   },
-   "Members": {
-      "Current members": {},
-      "Former Members": {}
-   },
-   "Discography": {
-      "Albums": {},
-      "Singles": {},
-      "Videos": {},
-      "Compilation Contributions": {}
-   },
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Skalariak is a Spanish ska band founded in 1994 in Navarre by Juantxo Skalari and Peio Skalari. Their lyrics are in Spanish and Basque. Also in their works the sounds of punk, reggae, and other styles can be found.\n",
       "This article about a Spanish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ],

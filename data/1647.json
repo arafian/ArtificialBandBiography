@@ -1,25 +1,9 @@
 {
    "Name": "The Unfinished Sympathy",
-   "Sections": [
-      "Summary"
-   ],
-   "Summary": {
-      "text": [
-         "The Unfinished Sympathy is a rock band from Barcelona, Spain.\n",
-         "They started playing in January 2000 and in December the same year they recorded their first album, self-titled.\nIn October 2001 they made their first European tour across France, Belgium and England, where they recorded the first Peel Session in the BBC studios for a Spanish band ever.\n",
-         "In 2002 they played with bands such as Bad Religion, Jimmy Eat World or Dover. Then, toured with Joshua and again, this time with Maple.\nAnd after those tours they entered the studio to record their second LP, called 'An Investment in Logistics' in December 2002.\n",
-         "The album was released in early 2003, and received a great acceptance from the music world: Mondo Sonoro magazine designated 'An Investment in Logistics' as the best 2003's album and they reached the top of the national independent scene in a very short time.\nAnd thanks to this, John Peel invited them to record their second Peel Session in December 2003.\n",
-         "In next year's spring they entered the studio again to record 'Rock for Food', their third album. This Living Kills appeared as single early, but the album was not released until September 2004.\n",
-         "Rock for Food was also acclaimed and the RockZone Magazine designated the album as the 2004 best in Spain.\n",
-         "Up to that moment they've been recording with BCore, but in 2005 they switched to Subterfuge Records to record their fourth album, called We Push You Pull, appeared in October 2006.\n",
-         "Spin in the Rye is the first, and up to date, only single from We Push You Pull.\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "The Unfinished Sympathy is a rock band from Barcelona, Spain.\n",
       "They started playing in January 2000 and in December the same year they recorded their first album, self-titled.\nIn October 2001 they made their first European tour across France, Belgium and England, where they recorded the first Peel Session in the BBC studios for a Spanish band ever.\n",
-      "In 2002 they played with bands such as Bad Religion, Jimmy Eat World or Dover. Then, toured with Joshua and again, this time with Maple.\nAnd after those tours they entered the studio to record their second LP, called 'An Investment in Logistics' in December 2002.\n",
-      "The album was released in early 2003, and received a great acceptance from the music world: Mondo Sonoro magazine designated 'An Investment in Logistics' as the best 2003's album and they reached the top of the national independent scene in a very short time.\nAnd thanks to this, John Peel invited them to record their second Peel Session in December 2003.\n"
+      "In 2002 they played with bands such as Bad Religion, Jimmy Eat World or Dover. Then, toured with Joshua and again, this time with Maple.\nAnd after those tours they entered the studio to record their second LP, called 'An Investment in Logistics' in December 2002.\n"
    ],
    "infobox": {
       "Origin": [

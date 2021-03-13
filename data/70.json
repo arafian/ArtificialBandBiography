@@ -1,9 +1,38 @@
 {
-   "Name": "LTK Commune",
+   "Name": "Film School (band)",
    "rawData": [
-      "LTK Commune (aka LTK, Taiwanese: Lô-chúi-khoe Kong-siā 濁水溪公社) is a well-known Taiwanese \"underground\" band founded in 1990.  Their music has been variously described as having elements of punk, rock, nakasi, Taiwanese folk songs.  In recent years band members have self-consciously applied the label \"Taik\" (from Taiwanese + -k ending, as in punk, rock) to their music – a reference to the Taiwanese Taike (Trad.: 台客) subculture.\n",
-      "The LTK stands for \"Loh Tsui Kweh\", an idiosyncratic spelling (in Taiwanese) of the name of the Choshui River in Taiwan, one that evokes nativist sentiments.\n",
-      "The two guitar players – Tsai Hai-en (蔡海恩) and Ke Jen-chien (柯仁堅) – share lead vocals.  Both attended National Taiwan University but left school early.  Between the two of them they have driven the band's evolution.  The critic Malaite attributes the group's early grunge influence to Tsai.   In addition to Western influences, both of them are, in their own ways, steeped in local, traditionally working class genres.  There is also a bass player and a drummer.\n"
+      "Film School is a five-piece indie rock band from Los Angeles and San Francisco.\n",
+      "The band was formed in 1998 by lead singer Greg Bertens. Initially, the band only consisted of Bertens working with members of Fuck and Pavement when they released their debut album Brilliant Career, on MeToo! records in 2001. Jason Ruck (keyboards), Nyles Lannon (guitar), Justin Labo (bass guitar), and Ben Montesano (drums) joined the band on a permanent basis later that year.\n",
+      "In 2003, the band released Alwaysnever, an EP on Amazing Grease Records, a record label founded by Scott Kannberg from the band Pavement. Donny Newenhouse later replaced Montesano on drums. Their self-titled album was released in January 2006 on Beggars Banquet Records. Film School has also provided music for a series of short films by Demetri Martin, known collectively as \"Clearification\", an advertising campaign for Windows Vista.\n"
    ],
-   "infobox": {}
+   "infobox": {
+      "Origin": [
+         "San Francisco, California, U.S."
+      ],
+      "Genres": [
+         "Indie rock, shoegazing"
+      ],
+      "Years active": [
+         "1998–2011, 2014-present"
+      ],
+      "Labels": [
+         "Beggars Banquet"
+      ],
+      "Website": [
+         "filmschoolmusic.com"
+      ],
+      "Members": [
+         "Greg Bertens",
+         "Jason Ruck",
+         "Justin Labo",
+         "Nyles Lannon"
+      ],
+      "Past members": [
+         "Lorelei (Plotczyk) Meetze",
+         "Ben Montesano",
+         "Donny Newenhouse",
+         "James Smith",
+         "Dave Dupuis"
+      ]
+   }
 }

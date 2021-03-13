@@ -1,23 +1,48 @@
 {
-   "Name": "Marlango",
+   "Name": "Love Battery",
    "rawData": [
-      "Marlango is a Spanish music band deeply influenced by Tom Waits. The members of the band are Leonor Watling, Alejandro Pelayo and Óscar Ybarra.\n"
+      "Love Battery is an American rock band from Seattle, Washington.\n",
+      "Love Battery was formed in 1989 by former Room Nine leader Ron Nine (b. Ron Rudzitis), guitarist Kevin Whitworth (ex-Crisis Party), bassist Tommy \"Bonehead\" Simpson (also ex-Crisis Party) and Mudhoney drummer Dan Peters.  Their name came from a song of the same name by British punk band the Buzzcocks.\n",
+      "Before releasing their first single Peters left the group and was replaced by ex-Skin Yard drummer Jason Finn. With this lineup the band released their debut single Between The Eyes for seminal Seattle record label Sub Pop. By 1990 Simpson had been replaced by ex-U-Men bassist Jim Tillman. With this lineup the band released their debut EP Between the Eyes in 1990, again on Sub Pop. This record was later expanded and released as their first full-length album in 1991. Following the Between The Eyes EP were the Foot singles and Out Of Focus EP.\n"
    ],
    "infobox": {
       "Origin": [
-         "Madrid"
+         "Seattle, Washington, United States"
       ],
       "Genres": [
-         "Jazz, blues, rock"
+         "Alternative rock",
+         "grunge",
+         "psychedelic rock",
+         "indie rock"
       ],
       "Years active": [
-         "2002-present"
+         "1989–2002",
+         "2006",
+         "2011–2012"
       ],
       "Labels": [
-         "Subterfuge, Universal"
+         "Sub Pop, Atlas Records, C/Z"
+      ],
+      "Associated acts": [
+         "Mother Love Bone",
+         "Mudhoney",
+         "Green River",
+         "The Presidents of the United States of America"
       ],
       "Website": [
-         "www.marlango.net"
+         "eskimo.com/~tracyr/LoveBat.html"
+      ],
+      "Members": [
+         "Ron Nine",
+         "Kevin Whitworth",
+         "Jason Finn",
+         "Jim Tillman"
+      ],
+      "Past members": [
+         "Dan Peters",
+         "Tommy Simpson",
+         "Mike Musburger",
+         "Bruce Fairweather"
       ]
    }
 }

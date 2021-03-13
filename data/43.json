@@ -1,41 +1,9 @@
 {
-   "Name": "Los Rodríguez",
+   "Name": "Automatic Pilot",
    "rawData": [
-      "\nLos Rodríguez were a rock band composed of two Argentines, two Spaniards and one Puerto Rican that played during the 1990s.\n",
-      "The group was born in 1991 when Ariel Rot and Julián Infante (members of the famous group Tequila) joined Andrés Calamaro, from the band Los Abuelos de la Nada, and Germán Vilella. They started touring around small clubs in Madrid.\n",
-      "In 1991 their first album, Buena Suerte, was released .\n"
+      "Automatic Pilot was a San Francisco, California band.  Created in 1980 by members of the San Francisco Gay Men's Chorus, they were described by The Advocate as \"a non-official offshoot\" of SFGMC along with three official subgroups. Automatic Pilot soon came into their own as an independent force, creating a niche at the fringe of the nascent gay musical movement and a new musical style.\n",
+      "They achieved notoriety early on with songs such as \"Sit On My Face\" and \"Killer Purses\" performed at benefits for the SFGMC, Theatre Rhinoceros, and the Sisters of Perpetual Indulgence.  They derived their name from psychiatric testimony at Dan White's trial for killing Mayor George Moscone and Supervisor Harvey Milk.\n",
+      "The ensemble consisted of up to four part vocals led by Matthew McQueen, backed by pianist Karl Brown, with violin, flute/sax, and a string bassist and drummer from the San Francisco Lesbian/Gay Freedom Band.\n"
    ],
-   "infobox": {
-      "Origin": [
-         "Madrid,  Spain"
-      ],
-      "Genres": [
-         "Rock and roll",
-         "Latin rock",
-         "Blues rock"
-      ],
-      "Years active": [
-         "1991– 1997"
-      ],
-      "Labels": [
-         "Pasión",
-         "Dro Records",
-         "Grabaciones Accidentales"
-      ],
-      "Associated acts": [
-         "Sergio Makaroff",
-         "Tequila",
-         "Joaquín Sabina"
-      ],
-      "Website": [
-         "Los Rodríguez"
-      ],
-      "Past members": [
-         "Andrés Calamaro",
-         "Ariel Rot",
-         "Julián Infante (†)",
-         "Germán Vilella",
-         " Daniel Zamora (†)"
-      ]
-   }
+   "infobox": {}
 }

@@ -1,53 +1,9 @@
 {
    "Name": "Machetazo",
-   "Sections": [
-      "1 History",
-      "2 Members",
-      "3 Past members",
-      "4 Side projects",
-      "5 Labels",
-      "6 Discography",
-      "7 References",
-      "8 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Machetazo was a grindcore/goregrind band from A Coruña, Spain formed in 1994. They were one of the few surviving bands from the Spanish underground extreme music scene of the nineties.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Machetazo were formed in A Coruña, Spain in 1994 as a side project of two other  death metal bands from the area.  Initially, they were more noisecore-oriented than grindcore.[1] They recorded two demos, 46 Cabezas Aplastadas por un Yunque Oxidado in 1995, and Realmente Disfruto Comiendo Cadáveres in 1997.  The latter was an international underground success, and in 1999 was remastered by the American label Fudgeworthy Records.\n",
-         "At this point Machetazo stopped being a side project and became a band in its own right, although line-up problems forced them to continue with only two members.  They recorded their first album Carne de Cementerio in 1999, which was released by Razorback Records.  After this they released numerous split singles. With Dopi as the sole surviving original member together with the new guitarist Rober, Machetazo recorded their second full length, Trono de Huesos (2002). In this work the band gives tribute to the seminal grind sound in a work in the vein of bands like Carcass or Repulsion.  After the recording of Trono de Huesos Machetazo created a more stable line-up, that still exists today:  Dopi (drums and vocals); Carlos \"Cadaver\" (bass and vocals); and Rober (guitar).\n",
-         "After testing this line-up with two singles, Machetazo released their third full length in 2005, Sinfonías del Terror Ciego, a concept album about the Spanish film maker Amando de Ossorio.  This record brought them to a wider audience than ever before and 2006 was a year of intense touring and projects. They released a split single with Total Fucking Destruction on the American label Relapse in 2006. In late 2008, Carlos Cadaver left the band. Santi from the grindcore band Nashgul, is now the new bass player.\n"
-      ]
-   },
-   "Members": {},
-   "Past members": {},
-   "Side projects": {
-      "text": [
-         "The bandmembers of Machetazo have developed some side projects through the years:\n",
-         "Dopi is the drummer, bassist and guirarist of Deadmask, a classic doom band influenced by Saint Vitus, Pentagram and Trouble. The other member in the band is the vocalist Nuria. Deadmask released Under Luciferian Wings, their first MCD in November 2008 with the label PsycheDOOMelic Records.\n",
-         "Dopi is also the vocalist of Dishammer an old school Thrash crust band with members of Moho, Looking For An Answer and Disnation. They released Vintage Addiction, their first LP in December 2008.\n",
-         "Rober is the guitarist and bassist of Banished From Inferno, an old school death metal trio. The other band members are Roger \"Rogga\" Johansson, vocalist of Paganizer, Ribspreader or Putrevore; and the drummer Phlegeton, member of Wormed, Human Mincer, Godüs or Unsane Crisis. They released Banished From Inferno, their first MCD in August 2008 with the label Ibex Moon Records.\n",
-         "Santi is also vocalist in the grindcore band Nashgul, although this is not a side project.\n",
-         "Carlos Cadaver was the only member in Machetazo without ended side projects, although he currently is the bassist of the heavy metal band Sister Moon.\n"
-      ]
-   },
-   "Labels": {
-      "text": [
-         "Machetazo have released material mainly on two labels:  Razorback Records has released its three albums on CD, while the Asturian label Throne Records has released them in a vinyl format.\n",
-         "But Machetazo has also had its material released on many small underground international labels, like Al Pacino Records, Scurvy Records, First Blood Family, Frigidity Records, Goryfied Productions, Hells Headbangers, Irony Records, Last House On The Right Records, Relapse, Sterilized Decay Records and Upground Records.\n"
-      ]
-   },
-   "Discography": {},
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Machetazo was a grindcore/goregrind band from A Coruña, Spain formed in 1994. They were one of the few surviving bands from the Spanish underground extreme music scene of the nineties.\n",
-      "Machetazo were formed in A Coruña, Spain in 1994 as a side project of two other  death metal bands from the area.  Initially, they were more noisecore-oriented than grindcore.[1] They recorded two demos, 46 Cabezas Aplastadas por un Yunque Oxidado in 1995, and Realmente Disfruto Comiendo Cadáveres in 1997.  The latter was an international underground success, and in 1999 was remastered by the American label Fudgeworthy Records.\n",
-      "At this point Machetazo stopped being a side project and became a band in its own right, although line-up problems forced them to continue with only two members.  They recorded their first album Carne de Cementerio in 1999, which was released by Razorback Records.  After this they released numerous split singles. With Dopi as the sole surviving original member together with the new guitarist Rober, Machetazo recorded their second full length, Trono de Huesos (2002). In this work the band gives tribute to the seminal grind sound in a work in the vein of bands like Carcass or Repulsion.  After the recording of Trono de Huesos Machetazo created a more stable line-up, that still exists today:  Dopi (drums and vocals); Carlos \"Cadaver\" (bass and vocals); and Rober (guitar).\n",
-      "After testing this line-up with two singles, Machetazo released their third full length in 2005, Sinfonías del Terror Ciego, a concept album about the Spanish film maker Amando de Ossorio.  This record brought them to a wider audience than ever before and 2006 was a year of intense touring and projects. They released a split single with Total Fucking Destruction on the American label Relapse in 2006. In late 2008, Carlos Cadaver left the band. Santi from the grindcore band Nashgul, is now the new bass player.\n"
+      "Machetazo were formed in A Coruña, Spain in 1994 as a side project of two other  death metal bands from the area.  Initially, they were more noisecore-oriented than grindcore. They recorded two demos, 46 Cabezas Aplastadas por un Yunque Oxidado in 1995, and Realmente Disfruto Comiendo Cadáveres in 1997.  The latter was an international underground success, and in 1999 was remastered by the American label Fudgeworthy Records.\n",
+      "At this point Machetazo stopped being a side project and became a band in its own right, although line-up problems forced them to continue with only two members.  They recorded their first album Carne de Cementerio in 1999, which was released by Razorback Records.  After this they released numerous split singles. With Dopi as the sole surviving original member together with the new guitarist Rober, Machetazo recorded their second full length, Trono de Huesos (2002). In this work the band gives tribute to the seminal grind sound in a work in the vein of bands like Carcass or Repulsion.  After the recording of Trono de Huesos Machetazo created a more stable line-up, that still exists today:  Dopi (drums and vocals); Carlos \"Cadaver\" (bass and vocals); and Rober (guitar).\n"
    ],
    "infobox": {
       "Origin": [

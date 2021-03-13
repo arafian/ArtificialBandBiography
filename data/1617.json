@@ -1,65 +1,9 @@
 {
    "Name": "Els Pets",
-   "Sections": [
-      "1 History",
-      "1.1 Origins: Agricultural Rock",
-      "1.2 From 1994 to 1999: Consolidation",
-      "1.3 From 2000 on",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Live albums",
-      "2.3 Samplers",
-      "2.4 Special editions",
-      "2.5 Collaborations",
-      "3 Literature about Els Pets",
-      "4 See also",
-      "5 References"
-   ],
-   "Summary": {
-      "text": [
-         "Els Pets is a Catalan pop rock band with lead singer, composer and guitarist Lluís Gavaldà from the village of Constantí (province of Tarragona, Catalonia). Joan Reig plays drums and Falin Cáceres bass. At present, the band has the collaboration of the musicians Joan-Pau Chaves (keyboard, bass and singer), David Muñoz (guitar, singer) and Brad Jones (bass, guitar, keyboard, singer). In Catalan, Els Pets means \"The Farts\".\n"
-      ]
-   },
-   "History": {
-      "Origins: Agricultural Rock": {
-         "text": [
-            "The band Els Pets was formed in 1985 in Constantí, by Lluís Gavaldà, Joan Reig and Falin Cáceres. Two female voices joined them, Les Llufes. Unlike the trends of the leading bands that appeared in Barcelona, Els Pets were proud of their rural roots, and therefore marked their own style in opposition to the music that was made in the capital. The result was a bitter, ironic and humoristic complaint against the lack of their region. They name their genuine substyle Rock agrícola (agricultural rock). They began performing concerts in the surrounding villages, coinciding on many occasions with the local celebrations.\n",
-            "In 1986 they recorded a sample in Tarragona, which was distributed manually. The following year Lluís Gavaldà moved to the United States, pausing the activity of the group. When he came back, the band was reinforced with Ramon Vidal, a guitar player, and a new section, Els Vents de Baiona (\"The winds of Baiona\", sax and trumpets).\n",
-            "The first album is named like the name of the group, and appears in 1989. It is a mix of rockabilly and ska, among other genres. It has clear links with british rock, with references towards groups like The Jam or The Specials. Songs like Terra Billy (Billy Land) or No N'hi Ha Prou Amb Ser Català (Being Catalan Is Not Enough) are examples of their political claims.\n",
-            "Two years after, they recorded Calla i Balla! (\"Shut up and dance\", DiscMedi, 1991), the second album. They achieved a better sound and became stronger in their local criticism with songs like Tarragona M'esborrona (in English, \"Tarragona horrifies me\") or Constantí, Molta Merda I Poc Vi (Constantí, a Lot of Shit and Little Wine). This trend is maintained in the following album Fruits Sex (Nuts, with the similar pronunciation of the word Secs with Sex, DiscMedi, 1992), through which they reached the sound quality that defines the first period, adding to the band the guitarist Marc Grau (the producer of the group) and the pianist Toni Saigi.\n"
-         ]
-      },
-      "From 1994 to 1999: Consolidation": {
-         "text": [
-            "Brut Natural (Natural Dirty, DiscMedi, 1994) opened the band's mature period with an improved sound that would define the following years.  Despite the stylistic changes, they nevertheless maintained a degree of social criticism.  In 1995, the band toured Catalonia (the Gira Cua tour), recording the live album Vine a la Festa (Come to the Party, DiscMedi, 1995).  But their first great success came with the album Bondia (Goodmorning, DiscMedi, 1997), which sold 75000 copies, going gold in Spain.  This success confirmed the band as one of the best in the Catalan rock. With the following studio album, Sol (Alone, DiscMedi, 1999), the group became more introspective and melancholic, and less critical.[1][2]\n"
-         ]
-      },
-      "From 2000 on": {
-         "text": [
-            "In 2001, the band released their eighth album, Respira (Breathe DiscMedi, 2001). With that work, the band utterly renewed its sound, characterized by being more upbeat than its predecessor. Agost (August, DiscMedi, 2004) followed in this trend, with an added component of political and social commentary, as well as a richer variety of instruments. More recently, the band have taken part in the film Rock&Cat (2006) a documentary on Catalan Rock. Els Pets have also continued touring extensively, and in a recent tour they chose to play only theaters and small venues throughout Catalonia, for a more intimate sound.\n",
-            "Com Anar al Cel i Tornar (Like Going to Heaven and Coming Back, DiscMedi, 2007) is the ninth album of the group. With it, the band refined its sound by moving further away from their once-trademark rock style and towards classic pop songs inspired by everyday stories and rich in melancholic yet life-affirming lyrics.\n",
-            "Fràgil (Fragile, DiscMedi, 2010) is the title of its tenth album, which was released on April 10, 2010.[3] Recorded at La Casamurada studio at Baix Penedès during February 2010 and mixed at Alex the Great studios (Nashville, Tennessee) by its productor, Brad Jones, who also worked with the band since the album Respira, Fràgil carries twelve songs which talk about the fragility of things and the way of overcoming the highs and lows of life.\n"
-         ]
-      },
-      "text": [
-         "In spite of the differential characteristics between this band and the rest of the groups that emerged in the late '80s and '90s decades in Catalonia, the origin of this pop-rock band can not be considered as an isolated event: it belongs to the musical movement of Rock català.\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "Live albums": {},
-      "Samplers": {},
-      "Special editions": {},
-      "Collaborations": {}
-   },
-   "Literature about Els Pets": {},
-   "See also": {},
-   "References": {},
-   "coreData": [
+   "rawData": [
       "Els Pets is a Catalan pop rock band with lead singer, composer and guitarist Lluís Gavaldà from the village of Constantí (province of Tarragona, Catalonia). Joan Reig plays drums and Falin Cáceres bass. At present, the band has the collaboration of the musicians Joan-Pau Chaves (keyboard, bass and singer), David Muñoz (guitar, singer) and Brad Jones (bass, guitar, keyboard, singer). In Catalan, Els Pets means \"The Farts\".\n",
       "In spite of the differential characteristics between this band and the rest of the groups that emerged in the late '80s and '90s decades in Catalonia, the origin of this pop-rock band can not be considered as an isolated event: it belongs to the musical movement of Rock català.\n",
-      "The band Els Pets was formed in 1985 in Constantí, by Lluís Gavaldà, Joan Reig and Falin Cáceres. Two female voices joined them, Les Llufes. Unlike the trends of the leading bands that appeared in Barcelona, Els Pets were proud of their rural roots, and therefore marked their own style in opposition to the music that was made in the capital. The result was a bitter, ironic and humoristic complaint against the lack of their region. They name their genuine substyle Rock agrícola (agricultural rock). They began performing concerts in the surrounding villages, coinciding on many occasions with the local celebrations.\n",
-      "In 1986 they recorded a sample in Tarragona, which was distributed manually. The following year Lluís Gavaldà moved to the United States, pausing the activity of the group. When he came back, the band was reinforced with Ramon Vidal, a guitar player, and a new section, Els Vents de Baiona (\"The winds of Baiona\", sax and trumpets).\n"
+      "The band Els Pets was formed in 1985 in Constantí, by Lluís Gavaldà, Joan Reig and Falin Cáceres. Two female voices joined them, Les Llufes. Unlike the trends of the leading bands that appeared in Barcelona, Els Pets were proud of their rural roots, and therefore marked their own style in opposition to the music that was made in the capital. The result was a bitter, ironic and humoristic complaint against the lack of their region. They name their genuine substyle Rock agrícola (agricultural rock). They began performing concerts in the surrounding villages, coinciding on many occasions with the local celebrations.\n"
    ],
    "infobox": {
       "Origin": [

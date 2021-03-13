@@ -1,40 +1,49 @@
 {
-   "Name": "La Guardia (band)",
+   "Name": "Blind Melon",
    "rawData": [
-      "La Guardia is a Spanish pop-rock band. They were especially famous in the late 1980s and early 1990s, although they are still active today (after a hiatus). They have sold more than 2 million records.\n",
-      "The group was founded in Granada in 1983 by Manuel España (voice), Enrique Moreno \"Conejo\" (bass guitar) and Carlos Gilabert (keyboard), with the initial name of \"La guardia del Cardenal Richelieu\" (\"Cardinal Richelieu's Guard\"). They were only teenagers and they adopted this name because they used to rehearse in the afternoons after they watched Dogtanian and the Three Muskehounds on TV.\n",
-      "Under this name they released a first single with techno and mod sounds. After this, Gilabert left the band, and Joaquín Almendros (guitar) and Emilio Muñoz (drums) joined it, giving birth to the band's most famous line-up. They moved to Madrid, where the Movida was still ebullient, looking for broader success, and in 1985, they recorded an EP, now as La Guardia, after winning the Villablanca pop-rock festival in the town of Fuengirola.\n"
+      "Blind Melon is an American rock band formed in 1990 in Los Angeles, California, by five musicians: three from Mississippi, one from Pennsylvania and one from Indiana. The band currently consists of guitarists Rogers Stevens and Christopher Thorn, drummer Glen Graham, vocalist Travis Warren and bassist Nathan Towne. They are best known for their 1993 hit \"No Rain\", and enjoyed critical and commercial success in the early 1990s with their neo-psychedelic take on alternative rock.\n",
+      "Blind Melon released two albums on Capitol Records – Blind Melon (1992) and Soup (1995) – before their original lead vocalist Shannon Hoon died of a drug overdose on the band's tour bus in New Orleans on October 21, 1995. After four years of unsuccessfully searching for a replacement for Hoon, Blind Melon officially dissolved in 1999. The remaining members reformed the band in 2006 with Warren and recorded one album with him, For My Friends (2008). Shortly after its release, Warren left Blind Melon but rejoined in 2010, when the band returned to performing occasional gigs.  Blind Melon is currently working on their fourth studio album. Blind Melon has been nominated for 4 Grammy Awards.\n",
+      "Blind Melon formed in Los Angeles in March 1990 after West Point, Mississippi, transplants Rogers Stevens and Brad Smith, a guitarist and bassist respectively, met vocalist Shannon Hoon, a native of Lafayette, Indiana.  Guitarist Christopher Thorn, originally from Pennsylvania, was added shortly thereafter; the four eventually convinced drummer Glen Graham to relocate from Mississippi to complete the group after failing to find a drummer in Los Angeles.  Their moniker derived from a nickname Smith had observed among Mississippi hippies, a name with precedent in the 1920s blues artist Blind Lemon Jefferson and the Cheech & Chong character Blind Melon Chitlin'.\n"
    ],
    "infobox": {
       "Origin": [
-         "Granada, Spain"
+         "Los Angeles, California, U.S."
       ],
       "Genres": [
-         "Pop rock, country rock"
+         "Alternative rock",
+         "folk rock",
+         "psychedelic rock",
+         "roots rock",
+         "blues rock",
+         "grunge"
       ],
       "Years active": [
-         "1983–1997",
-         "2003-present"
+         "1990–1999",
+         "2006–2008",
+         "2010–present"
       ],
       "Labels": [
-         "Tubo Escape Records",
-         "Blanco y Negro",
-         "Vale Music"
+         "EMI",
+         "Capitol"
+      ],
+      "Associated acts": [
+         "Unified Theory",
+         "Awolnation",
+         "Abandon Jalopy"
       ],
       "Website": [
-         "http://www.grupolaguardia.com/"
+         "blindmelon.com"
       ],
       "Members": [
-         "Manuel España",
-         "Jean Louis Barragán",
-         "Javier Cano",
-         "Paco Villamayor"
+         "Rogers Stevens",
+         "Christopher Thorn",
+         "Glen Graham",
+         "Travis Warren",
+         "Nathan Towne"
       ],
       "Past members": [
-         "Carlos Gilabert",
-         "Enrique Moreno",
-         "Joaquín Almendros",
-         "Emilio Muñoz"
+         "Shannon Hoon",
+         "Brad Smith"
       ]
    }
 }

@@ -1,9 +1,41 @@
 {
-   "Name": "Milladoiro",
+   "Name": "My Sister's Machine",
    "rawData": [
-      "Milladoiro is a music band from Galicia. Often compared to the Chieftains, it is among the world's top Celtic music groups.\n",
-      "In 1978, Rodrigo Romaní and Antón Seoane released an album named \"Milladoiro\", on which they were joined by Xosé V. Ferreirós, then credited as a guest artist. The album received a critic's award the same year.\n",
-      "Ferreirós, along with Nando Casal and Moncho García Rei, from his group Faíscas do Xiabre, invited Romaní and Seoane as guests in their next album.\n"
+      "My Sister's Machine was an American rock band from Seattle, Washington, formed in 1989. Its members were Nick Pollock (lead vocals, guitar), Owen Wright (guitar), Chris Ivanovich (bass guitar), and Chris Gohde (drums).\n",
+      "This band recorded and released two albums, Diva and Wallflower, before they broke up in 1994. They reunited in 2010 to headline the Layne Staley Tribute and Benefit Concert that year as Pollock had previously played guitar in an early incarnation of Alice in Chains, the glam metal band Alice N' Chains that also included Staley.\n",
+      "Before the formation of My Sister's Machine, guitarist Owen Wright and drummer Chris Gohde were involved in a band called Mistrust in 1984; this band also included former Culprit singer Jeff L'Heureux. They recorded one album called Spin the World, which was released on CD in 2009 by Heart of Steel Records. This band did an extensive amount of touring before they broke up in 1988.\n"
    ],
-   "infobox": {}
+   "infobox": {
+      "Origin": [
+         "Seattle, Washington, U.S."
+      ],
+      "Genres": [
+         "Hard rock",
+         "grunge[1][2]",
+         "heavy metal",
+         "alternative metal[3]"
+      ],
+      "Years active": [
+         "1989 (1989)–1994",
+         "2010–2011"
+      ],
+      "Labels": [
+         "Caroline",
+         "Chameleons",
+         "Elektra"
+      ],
+      "Associated acts": [
+         "Mistrust",
+         "Sleze",
+         "Alice N' Chains",
+         "Tanks of Zen",
+         "Soulbender"
+      ],
+      "Past members": [
+         "Chris Gohde",
+         "Chris Ivanovich",
+         "Nick Pollock",
+         "Owen Wright"
+      ]
+   }
 }

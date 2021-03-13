@@ -1,22 +1,9 @@
 {
    "Name": "Macaco (band)",
-   "Sections": [
-      "Summary"
-   ],
-   "Summary": {
-      "text": [
-         "Macaco (Vianey) is a musical band from Barcelona, Spain formed in 1997 by Dani Carbonell, who was also one of the original lead singers of the new flamenco group Ojos de Brujo.  Carbonell left Ojos de Brujo after the debut album, Vengue in 2001, but has continued to make guest appearances on the group's later albums.\n",
-         "Prior to his singing career, Carbonell had dubbed over Sean Astin's character Mikey Walsh in the 1985 film The Goonies.\n",
-         "The members, from different countries such as Brazil, Cameroon, Sweden, Venezuela and Spain, give to its music a mixed color, with electro accents of Latin music and rumba.\n",
-         "Carbonell sings in Spanish and Catalan, but also in Portuguese, French, English and Italian.\n",
-         "Many of their songs are played in the EA Sports video games FIFA : \"Moving\" (from his fifth album, Puerto Presente, released in 2009) appeared in FIFA 09, \"Hacen Falta Dos\" (released in an EP version of Puerto Presente) appeared in FIFA 10 and \"Una Sola Voz\" (from his latest album, 2012's El Murmullo del Fuego) appeared in FIFA 12.\n"
-      ]
-   },
-   "coreData": [
+   "rawData": [
       "Macaco (Vianey) is a musical band from Barcelona, Spain formed in 1997 by Dani Carbonell, who was also one of the original lead singers of the new flamenco group Ojos de Brujo.  Carbonell left Ojos de Brujo after the debut album, Vengue in 2001, but has continued to make guest appearances on the group's later albums.\n",
       "Prior to his singing career, Carbonell had dubbed over Sean Astin's character Mikey Walsh in the 1985 film The Goonies.\n",
-      "The members, from different countries such as Brazil, Cameroon, Sweden, Venezuela and Spain, give to its music a mixed color, with electro accents of Latin music and rumba.\n",
-      "Carbonell sings in Spanish and Catalan, but also in Portuguese, French, English and Italian.\n"
+      "The members, from different countries such as Brazil, Cameroon, Sweden, Venezuela and Spain, give to its music a mixed color, with electro accents of Latin music and rumba.\n"
    ],
    "infobox": {}
 }

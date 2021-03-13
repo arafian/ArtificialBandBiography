@@ -1,45 +1,9 @@
 {
    "Name": "Elephant Gym",
-   "Sections": [
-      "1 History",
-      "1.1 Formation, Balance EP, Angle and hiatus (2014-2016)",
-      "1.2 Post-hiatus: Work EP and Underwater (2016-present)",
-      "2 Awards",
-      "3 Discography",
-      "3.1 Studio albums",
-      "3.2 Singles",
-      "4 References"
-   ],
-   "Summary": {
-      "text": [
-         "Elephant Gym (Chinese: 大象體操) is a math rock band from Kaohsiung, Taiwan founded in February 2012. The group consists of siblings KT Chang (bass) and Tell Chang (guitar), and drummer Chia-Chin Tu.  The word \"elephant\" in the band name symbolizes their bass-driven melodies, and \"gym\" refers to their agile and irregular rhythms.[1]\n"
-      ]
-   },
-   "History": {
-      "Formation, Balance EP, Angle and hiatus (2014-2016)": {
-         "text": [
-            "As children, KT and Tell Chang were trained in classical music by their mother, while Chia-chin Tu learned classical percussion.  After the siblings met Tu at a music club in high school, the trio formed Elephant Gym in February 2012,[2] hand-produced a limited edition EP, and toured Taiwan on the single \"Ordinary Route\" (later released on their album Angle).  On May 8, 2013 the band released Balance, their first EP, which included the song \"Ocean in the Night\" which was produced in collaboration with Hong-shen Hong, the lead singer of indie band Touming Magazine.  In 2014, they collaborated with Yoga Lin on a song, \"Speaking in Tongues\",[1] which they performed with him in Hung Hom, Hong Kong and at the Taipei Arena.\n",
-            "In June 2014, their debut album Angle was released, with singles featuring Panai Kusui and Enno Cheng.   In December 2014, the group members announced a year long hiatus due to Taiwanese compulsory military service, and held a performance entitled See You Then in addition to a short documentary of the same name.[3][4]\n"
-         ]
-      },
-      "Post-hiatus: Work EP and Underwater (2016-present)": {
-         "text": [
-            "In August 2016, their earlier work Angle was released in Japan and the group was invited to participate in the Summer Sonic Festival[5]  The group released their second EP Work in October 2016, followed by a tour of Taiwan in small venues.   In June 2017, the group was invited to Tokyo to play with American math rock band The Fall of Troy and special guest Hikes.  The band played in the Megaport Music Festival in 2018.[6]\n",
-            "In November 2018, they released their second full-length album Underwater followed by a world tour, which included a performance at SXSW[7] and a live session at Audiotree.[8]  In August 2019, they performed at the ArcTanGent Festival.[9]  They released a single, \"Gaze at Blue,\" on October 18, 2019.[10]\n"
-         ]
-      }
-   },
-   "Awards": {},
-   "Discography": {
-      "Studio albums": {},
-      "Singles": {}
-   },
-   "References": {},
-   "coreData": [
-      "Elephant Gym (Chinese: 大象體操) is a math rock band from Kaohsiung, Taiwan founded in February 2012. The group consists of siblings KT Chang (bass) and Tell Chang (guitar), and drummer Chia-Chin Tu.  The word \"elephant\" in the band name symbolizes their bass-driven melodies, and \"gym\" refers to their agile and irregular rhythms.[1]\n",
-      "As children, KT and Tell Chang were trained in classical music by their mother, while Chia-chin Tu learned classical percussion.  After the siblings met Tu at a music club in high school, the trio formed Elephant Gym in February 2012,[2] hand-produced a limited edition EP, and toured Taiwan on the single \"Ordinary Route\" (later released on their album Angle).  On May 8, 2013 the band released Balance, their first EP, which included the song \"Ocean in the Night\" which was produced in collaboration with Hong-shen Hong, the lead singer of indie band Touming Magazine.  In 2014, they collaborated with Yoga Lin on a song, \"Speaking in Tongues\",[1] which they performed with him in Hung Hom, Hong Kong and at the Taipei Arena.\n",
-      "In June 2014, their debut album Angle was released, with singles featuring Panai Kusui and Enno Cheng.   In December 2014, the group members announced a year long hiatus due to Taiwanese compulsory military service, and held a performance entitled See You Then in addition to a short documentary of the same name.[3][4]\n",
-      "In August 2016, their earlier work Angle was released in Japan and the group was invited to participate in the Summer Sonic Festival[5]  The group released their second EP Work in October 2016, followed by a tour of Taiwan in small venues.   In June 2017, the group was invited to Tokyo to play with American math rock band The Fall of Troy and special guest Hikes.  The band played in the Megaport Music Festival in 2018.[6]\n"
+   "rawData": [
+      "Elephant Gym (Chinese: 大象體操) is a math rock band from Kaohsiung, Taiwan founded in February 2012. The group consists of siblings KT Chang (bass) and Tell Chang (guitar), and drummer Chia-Chin Tu.  The word \"elephant\" in the band name symbolizes their bass-driven melodies, and \"gym\" refers to their agile and irregular rhythms.\n",
+      "As children, KT and Tell Chang were trained in classical music by their mother, while Chia-chin Tu learned classical percussion.  After the siblings met Tu at a music club in high school, the trio formed Elephant Gym in February 2012, hand-produced a limited edition EP, and toured Taiwan on the single \"Ordinary Route\" (later released on their album Angle).  On May 8, 2013 the band released Balance, their first EP, which included the song \"Ocean in the Night\" which was produced in collaboration with Hong-shen Hong, the lead singer of indie band Touming Magazine.  In 2014, they collaborated with Yoga Lin on a song, \"Speaking in Tongues\", which they performed with him in Hung Hom, Hong Kong and at the Taipei Arena.\n",
+      "In June 2014, their debut album Angle was released, with singles featuring Panai Kusui and Enno Cheng.   In December 2014, the group members announced a year long hiatus due to Taiwanese compulsory military service, and held a performance entitled See You Then in addition to a short documentary of the same name.\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,49 +1,9 @@
 {
    "Name": "Los Rodríguez",
-   "Sections": [
-      "1 History",
-      "2 Music",
-      "3 Members",
-      "4 Discography",
-      "4.1 Albums",
-      "4.2 Singles"
-   ],
-   "Summary": {
-      "text": [
-         "\nLos Rodríguez were a rock band composed of two Argentines, two Spaniards and one Puerto Rican that played during the 1990s.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "The group was born in 1991 when Ariel Rot and Julián Infante (members of the famous group Tequila) joined Andrés Calamaro, from the band Los Abuelos de la Nada, and Germán Vilella. They started touring around small clubs in Madrid.\n",
-         "In 1991 their first album, Buena Suerte, was released .\n",
-         "But it was their 1993 album Sin Documentos that brought the group to the hit parade. With songs as Dulce condena, Sin documentos, Mi rock perdido, and Me estás atrapando otra vez.\n",
-         "The next album, 1995's Palabras más, palabras menos, was another success. The album contains Mucho Mejor (with Coque Malla), Todavía una canción de amor (with lyrics by Joaquín Sabina, whom they toured with that year) and Milonga del marinero y el capitán.\n",
-         "In 1997 they released Hasta luego, a compilation album, and went on tour. The band broke apart due to economic conflicts.\n",
-         "Julian Infante was diagnosed with HIV/AIDS and died on 4 December 2000 in a clinic in Madrid.\n",
-         "On 29 November 2007, Daniel Zamora (the last bass guitar player of the band) committed suicide in his hometown Palafrugell.\n"
-      ]
-   },
-   "Music": {
-      "text": [
-         "Their music is a fusion of different styles as flamenco, rumba, bolero, ranchera, milonga, funk, blues.\n",
-         "Despite their short career, their great success inspired a revolution in the Spanish pop music market, returning attention to groups that sing in Spanish (and bands with Spanish roots).\n"
-      ]
-   },
-   "Members": {
-      "text": [
-         "Non-members who collaborated with the band at different times were:\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "Singles": {}
-   },
-   "coreData": [
+   "rawData": [
       "\nLos Rodríguez were a rock band composed of two Argentines, two Spaniards and one Puerto Rican that played during the 1990s.\n",
       "The group was born in 1991 when Ariel Rot and Julián Infante (members of the famous group Tequila) joined Andrés Calamaro, from the band Los Abuelos de la Nada, and Germán Vilella. They started touring around small clubs in Madrid.\n",
-      "In 1991 their first album, Buena Suerte, was released .\n",
-      "But it was their 1993 album Sin Documentos that brought the group to the hit parade. With songs as Dulce condena, Sin documentos, Mi rock perdido, and Me estás atrapando otra vez.\n"
+      "In 1991 their first album, Buena Suerte, was released .\n"
    ],
    "infobox": {
       "Origin": [

@@ -1,44 +1,9 @@
 {
    "Name": "Jarabe de Palo",
-   "Sections": [
-      "1 Going Independent",
-      "2 Awards and collaborations",
-      "3 Discography",
-      "4 Band members",
-      "5 References",
-      "6 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Jarabe de Palo were a Spanish rock band, once led by singer, songwriter and guitarist Pau Donés.\n",
-         "On 9 June 2020, Donés died at the age of 53.[1]\n"
-      ]
-   },
-   "Going Independent": {
-      "text": [
-         "In 2008, the band announced they were going to leave their record company and go independent, founding their own record label Tronco Records. They changed their name to \"Jarabedepalo\" because their former record label had the rights to the name.\n",
-         "In 2009 they released, Orquesta Reciclando (Recycling Orchestra), in which they recorded new versions of their old songs, and one new song. ¿Y Ahora que Hacemos? (And Now What Are We Going To Do?), was released in 2011 and Somos (We Are) in 2014.\n"
-      ]
-   },
-   "Awards and collaborations": {
-      "text": [
-         "The group has received Premios de la Música, Premio Ondas and Grammy nominations. They have collaborated with La Vieja Trova Santiaguera, Antonio Vega, Vico C and Celia Cruz (soundtrack of El milagro de P. Tinto). Donés has also composed tracks for Ricky Martin and starred in a music video with Alanis Morissette. They also collaborated with Italian musicians Jovanotti, Niccolò Fabi, Modà and Ermal Meta.\n"
-      ]
-   },
-   "Discography": {},
-   "Band members": {
-      "text": [
-         "Current\n",
-         "Former\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Jarabe de Palo were a Spanish rock band, once led by singer, songwriter and guitarist Pau Donés.\n",
-      "On 9 June 2020, Donés died at the age of 53.[1]\n",
-      "In 2008, the band announced they were going to leave their record company and go independent, founding their own record label Tronco Records. They changed their name to \"Jarabedepalo\" because their former record label had the rights to the name.\n",
-      "In 2009 they released, Orquesta Reciclando (Recycling Orchestra), in which they recorded new versions of their old songs, and one new song. ¿Y Ahora que Hacemos? (And Now What Are We Going To Do?), was released in 2011 and Somos (We Are) in 2014.\n"
+      "On 9 June 2020, Donés died at the age of 53.\n",
+      "In 2008, the band announced they were going to leave their record company and go independent, founding their own record label Tronco Records. They changed their name to \"Jarabedepalo\" because their former record label had the rights to the name.\n"
    ],
    "infobox": {
       "Origin": [

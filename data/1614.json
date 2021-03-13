@@ -1,15 +1,7 @@
 {
    "Name": "Orquesta Mondragón",
-   "Sections": [
-      "Summary"
-   ],
-   "Summary": {
-      "text": [
-         "Orquesta Mondragón is a Spanish pop rock band from San Sebastián (Basque Country), very popular in the 1980s, led by Javier Gurruchaga.[1] The group was founded in 1976 and continues today.\n"
-      ]
-   },
-   "coreData": [
-      "Orquesta Mondragón is a Spanish pop rock band from San Sebastián (Basque Country), very popular in the 1980s, led by Javier Gurruchaga.[1] The group was founded in 1976 and continues today.\n",
+   "rawData": [
+      "Orquesta Mondragón is a Spanish pop rock band from San Sebastián (Basque Country), very popular in the 1980s, led by Javier Gurruchaga. The group was founded in 1976 and continues today.\n",
       "This article about a Spanish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ],
    "infobox": {

@@ -1,32 +1,6 @@
 {
    "Name": "Sex Museum (band)",
-   "Sections": [
-      "1 Band history",
-      "2 Discography",
-      "2.1 Albums",
-      "2.2 Singles",
-      "2.3 Compilation appearances",
-      "3 External links",
-      "4 Sources"
-   ],
-   "Summary": {
-      "text": [
-         "Sex Museum is a Spanish rock band from Madrid, formed in 1985.\n"
-      ]
-   },
-   "Band history": {
-      "text": [
-         "Originally the band began among the mod scene of Madrid playing rock music. Their first published material is highly influenced by a plethora of genres, for instance soul and R&B or several rock genres as garage or psychedelic. Later on, their music increasingly adopted a more hard rock sound characteristical of the 70s. Through a number of concerts in their homeland and tours through many European countries, they gained a solid underground following not only in Spain but also Germany and Switzerland. They played at several Spanish music festivals like Esparrago Rock, Festimad or Viña Rock as well as international events such as the Beat-O-Mania in Munich, where the band co-lined with acts like Metallica, Sepultura, Backyard Babies, Sonic Youth and Extremoduro among others. 1994 they were chosen as the opening act for the Spanish tour of Deep Purple.\n...from the past to the present:\nThe band has been touring 33 years of rockandroll on the road,Sex Museum its alive and well with 15 studio albums, many singles, and thousands of live shows.\nThe last album Big City Lies was released in 2014 with Legacy Recordings, and they have a new album release in 2018.\n"
-      ]
-   },
-   "Discography": {
-      "Albums": {},
-      "Singles": {},
-      "Compilation appearances": {}
-   },
-   "External links": {},
-   "Sources": {},
-   "coreData": [
+   "rawData": [
       "Sex Museum is a Spanish rock band from Madrid, formed in 1985.\n",
       "Originally the band began among the mod scene of Madrid playing rock music. Their first published material is highly influenced by a plethora of genres, for instance soul and R&B or several rock genres as garage or psychedelic. Later on, their music increasingly adopted a more hard rock sound characteristical of the 70s. Through a number of concerts in their homeland and tours through many European countries, they gained a solid underground following not only in Spain but also Germany and Switzerland. They played at several Spanish music festivals like Esparrago Rock, Festimad or Viña Rock as well as international events such as the Beat-O-Mania in Munich, where the band co-lined with acts like Metallica, Sepultura, Backyard Babies, Sonic Youth and Extremoduro among others. 1994 they were chosen as the opening act for the Spanish tour of Deep Purple.\n...from the past to the present:\nThe band has been touring 33 years of rockandroll on the road,Sex Museum its alive and well with 15 studio albums, many singles, and thousands of live shows.\nThe last album Big City Lies was released in 2014 with Legacy Recordings, and they have a new album release in 2018.\n"
    ],

@@ -1,25 +1,41 @@
 {
-   "Name": "Mezquita (band)",
+   "Name": "My Sister's Machine",
    "rawData": [
-      "Mezquita were a Spanish rock band famous for having released Recuerdos de mi tierra (1979). It is a mix of flamenco-rock and progressive rock that's energetic, powerful and melodic from start to finish.\n",
-      "They released a second album, Califas del rock, in 1981.\n",
-      "This article about a Spanish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+      "My Sister's Machine was an American rock band from Seattle, Washington, formed in 1989. Its members were Nick Pollock (lead vocals, guitar), Owen Wright (guitar), Chris Ivanovich (bass guitar), and Chris Gohde (drums).\n",
+      "This band recorded and released two albums, Diva and Wallflower, before they broke up in 1994. They reunited in 2010 to headline the Layne Staley Tribute and Benefit Concert that year as Pollock had previously played guitar in an early incarnation of Alice in Chains, the glam metal band Alice N' Chains that also included Staley.\n",
+      "Before the formation of My Sister's Machine, guitarist Owen Wright and drummer Chris Gohde were involved in a band called Mistrust in 1984; this band also included former Culprit singer Jeff L'Heureux. They recorded one album called Spin the World, which was released on CD in 2009 by Heart of Steel Records. This band did an extensive amount of touring before they broke up in 1988.\n"
    ],
    "infobox": {
       "Origin": [
-         "Spain"
+         "Seattle, Washington, U.S."
       ],
       "Genres": [
-         "Progressive rock",
-         "Spanish rock",
-         "Flamenco-rock",
-         " Andalusian rock"
+         "Hard rock",
+         "grunge[1][2]",
+         "heavy metal",
+         "alternative metal[3]"
+      ],
+      "Years active": [
+         "1989 (1989)–1994",
+         "2010–2011"
+      ],
+      "Labels": [
+         "Caroline",
+         "Chameleons",
+         "Elektra"
+      ],
+      "Associated acts": [
+         "Mistrust",
+         "Sleze",
+         "Alice N' Chains",
+         "Tanks of Zen",
+         "Soulbender"
       ],
       "Past members": [
-         "Jose Rafael Garcia (guitar and vocals)",
-         "Randy Lopez (bass, percussion and vocals)",
-         "Rosca Lopez (keyboards and vocals)",
-         "Rafael Zorilla (drums and vocals)"
+         "Chris Gohde",
+         "Chris Ivanovich",
+         "Nick Pollock",
+         "Owen Wright"
       ]
    }
 }

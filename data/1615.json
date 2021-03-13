@@ -1,39 +1,9 @@
 {
    "Name": "Parálisis Permanente",
-   "Sections": [
-      "1 Biography",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 EPs",
-      "2.3 Singles",
-      "2.4 References"
-   ],
-   "Summary": {
-      "text": [
-         "Parálisis Permanente was a Spanish post-punk band from the 1980s, noted for being the precursors of the \"dark sound\" of the Movida Madrileña.\n"
-      ]
-   },
-   "Biography": {
-      "text": [
-         "The band was originally formed by Eduardo Benavente (guitars) and Nacho Canut (bass), both formerly from Alaska y los Pegamoides, along with their siblings Javier Benavente (vocals) and Johnny Canut (drums) around 1981. This formation recorded an EP, later included in their 1995 compilation Singles y Primeras Grabaciones.\n",
-         "After Javier left the band, Eduardo Benavente became also the lead singer. Their sound became darker, departing from the Pegamoides original pop sound and approaching the wave of bands like Gabinete Caligari.\n",
-         "In November 1981 they recorded their first EP, which was edited with the company Tic-Tac from Navarra in January 1982. The EP was a split with Gabinete Caligari and included the tracks \"Autosuficiencia\" and \"Tengo un pasajero\". A videoclip for \"Autosuficiencia\" was also released. The split was later re-released by the record company DRO, and also by Tres Cipreses with new cover art featuring two characters from the film Freaks. The band's second EP, Quero Ser Santa, featured four tracks and was released in early 1982, also on Tres Cipreses.  Amongst the tracks were \"Quiero ser Santa\" and \"Un día en Texas\", based on the film The Texas Chain Saw Massacre.[1]\n",
-         "Shortly after their second EP, Nacho Canut quit the band and joined Dinarama along with Alaska (singer). Rafa Balmaseda, formerly from Glutamato Ye-Yé and Derribos Arias, joined on bass. Ana Curra, ex Pegamoide, joined on keyboards.\n",
-         "In July 1982, they recorded the tracks for their first LP El Acto, in which they explored a darker style of punk than their previous releases, marking the beginning of the post-punk movement in Spain. The album featured covers in Spanish for David Bowie's \"Heroes\" (Héroes) and The Stooges's I Wanna Be Your Dog (Quiero ser tu Perro). In spite of the independent release of the album, the band achieved success in the Spanish Music Charts.[2]\n",
-         "Their last single, Nacidos para Dominar, was released in 1983. Later that year Eduardo, Ana and then drummer Toti had a car crash when driving to a festival in Zaragoza. Benavente was killed in this accident and the band came to an end.\n"
-      ]
-   },
-   "Discography": {
-      "Studio albums": {},
-      "EPs": {},
-      "Singles": {},
-      "References": {}
-   },
-   "coreData": [
+   "rawData": [
       "Parálisis Permanente was a Spanish post-punk band from the 1980s, noted for being the precursors of the \"dark sound\" of the Movida Madrileña.\n",
       "The band was originally formed by Eduardo Benavente (guitars) and Nacho Canut (bass), both formerly from Alaska y los Pegamoides, along with their siblings Javier Benavente (vocals) and Johnny Canut (drums) around 1981. This formation recorded an EP, later included in their 1995 compilation Singles y Primeras Grabaciones.\n",
-      "After Javier left the band, Eduardo Benavente became also the lead singer. Their sound became darker, departing from the Pegamoides original pop sound and approaching the wave of bands like Gabinete Caligari.\n",
-      "In November 1981 they recorded their first EP, which was edited with the company Tic-Tac from Navarra in January 1982. The EP was a split with Gabinete Caligari and included the tracks \"Autosuficiencia\" and \"Tengo un pasajero\". A videoclip for \"Autosuficiencia\" was also released. The split was later re-released by the record company DRO, and also by Tres Cipreses with new cover art featuring two characters from the film Freaks. The band's second EP, Quero Ser Santa, featured four tracks and was released in early 1982, also on Tres Cipreses.  Amongst the tracks were \"Quiero ser Santa\" and \"Un día en Texas\", based on the film The Texas Chain Saw Massacre.[1]\n"
+      "After Javier left the band, Eduardo Benavente became also the lead singer. Their sound became darker, departing from the Pegamoides original pop sound and approaching the wave of bands like Gabinete Caligari.\n"
    ],
    "infobox": {
       "Origin": [

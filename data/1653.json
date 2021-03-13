@@ -1,43 +1,9 @@
 {
    "Name": "Hello Nico",
-   "Sections": [
-      "1 History",
-      "2 Discography",
-      "3 Music Video",
-      "4 References",
-      "5 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Hello Nico is a rock band from Taipei, Taiwan.\n"
-      ]
-   },
-   "History": {
-      "text": [
-         "Hello Nico is a Taiwanese alternative rock band founded in 2013. They are best known for their unique depressing and drowning tune, along with the distinctive female voice by the vocalist Yu-Ting Chan. Their music style mixes with different genres such as pop, electronic and rock. Their lyrics explore people's emotion; observe the inevitable contradiction and the struggle in life. The words and the rhythms are nicely delivered in distorted guitar the layers of synths. With the mature arrangement and talented composition, the band became a hot topic rapidly after releasing tracks on the Internet in 2013. One of their representative singles ‘Flower’ hit No.1 for weeks on “StreetVoice”, which is the biggest music platform in Chinese-speaking market. The band was also selected as “The Next Big Thing” and “Top Ten New Best Band” on StreetVoice at the end of 2013.\n",
-         "After signing to the independent music label “Black Market Music Production”, the band released their first five-single EP “Plankton of the City” in Aug 2014, which was highly recommended by many noted musicians and critics in Taiwan and China. In January 2015, Hello Nico released some songs from their first album “Familiar Desolation” on the Internet. Many of the songs monopolized the first place of the ranking list for weeks. In February 2015, the band started to sell their album for the first time, and only digital download. As of January 2016, their music video ‘Flower’ had been hit over 1 million times on YouTube.\n",
-         "Hello Nico toured in Taiwan after releasing “Familiar Desolation”. The band was then invited to Hong Kong, Guangzhou, Shanghai and made many concerts. In July 2015, the band played in the legend venue “Legacy” in Taipei, tickets sold out in a minute. The concert was also broadcast live on Yahoo, and over 20,000 fans were watching online, which was a solid record for indie bands in Taiwan.\n",
-         "In the second half of 2015, Hello Nico toured over 11 cities in China, with many sold-out shows both in China and Taiwan. In December 2015, Hello Nico was nominated for “Best New Artist” in “5th Abbey Road Music Awards” held by “Douban” which is a Chinese authoritative music platform. In the same year the band was nominated for “Best New Artist” of 27th Golden Melody Awards in Taiwan (known as Taiwan's Grammy Award), also won the “Best New Group” of the 9th Fresh Music Awards in Singapore.[1]\n",
-         "In March 2017, they were invited to perform in SXSW.[2]\n"
-      ]
-   },
-   "Discography": {
-      "text": [
-         "[3]\n"
-      ]
-   },
-   "Music Video": {
-      "text": [
-         "[4]\n"
-      ]
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
+   "rawData": [
       "Hello Nico is a rock band from Taipei, Taiwan.\n",
       "Hello Nico is a Taiwanese alternative rock band founded in 2013. They are best known for their unique depressing and drowning tune, along with the distinctive female voice by the vocalist Yu-Ting Chan. Their music style mixes with different genres such as pop, electronic and rock. Their lyrics explore people's emotion; observe the inevitable contradiction and the struggle in life. The words and the rhythms are nicely delivered in distorted guitar the layers of synths. With the mature arrangement and talented composition, the band became a hot topic rapidly after releasing tracks on the Internet in 2013. One of their representative singles ‘Flower’ hit No.1 for weeks on “StreetVoice”, which is the biggest music platform in Chinese-speaking market. The band was also selected as “The Next Big Thing” and “Top Ten New Best Band” on StreetVoice at the end of 2013.\n",
-      "After signing to the independent music label “Black Market Music Production”, the band released their first five-single EP “Plankton of the City” in Aug 2014, which was highly recommended by many noted musicians and critics in Taiwan and China. In January 2015, Hello Nico released some songs from their first album “Familiar Desolation” on the Internet. Many of the songs monopolized the first place of the ranking list for weeks. In February 2015, the band started to sell their album for the first time, and only digital download. As of January 2016, their music video ‘Flower’ had been hit over 1 million times on YouTube.\n",
-      "Hello Nico toured in Taiwan after releasing “Familiar Desolation”. The band was then invited to Hong Kong, Guangzhou, Shanghai and made many concerts. In July 2015, the band played in the legend venue “Legacy” in Taipei, tickets sold out in a minute. The concert was also broadcast live on Yahoo, and over 20,000 fans were watching online, which was a solid record for indie bands in Taiwan.\n"
+      "After signing to the independent music label “Black Market Music Production”, the band released their first five-single EP “Plankton of the City” in Aug 2014, which was highly recommended by many noted musicians and critics in Taiwan and China. In January 2015, Hello Nico released some songs from their first album “Familiar Desolation” on the Internet. Many of the songs monopolized the first place of the ranking list for weeks. In February 2015, the band started to sell their album for the first time, and only digital download. As of January 2016, their music video ‘Flower’ had been hit over 1 million times on YouTube.\n"
    ],
    "infobox": {
       "Origin": [

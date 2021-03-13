@@ -1,30 +1,44 @@
 {
-   "Name": "Le Mans (band)",
+   "Name": "The Fluid",
    "rawData": [
-      "Le Mans were an indie rock band from the Basque country, Spain, in existence between 1993 and 1998. Having previously toured and released records under the name Aventuras de Kirlian, the group took a new direction as they hired a new member, Gorka Ochoa, to play the drums.\n",
-      "Together with La Buena Vida it was one of the main exponents of \"Donosti Sound\", a style similar to Twee pop.\n",
-      "In 2000 the Argentine band Suárez recorded the EP 29:09:00, consisting of 5 cover versions of Le Mans songs.\n"
+      "The Fluid was an American rock band from Denver which formed in 1985, disbanded in 1993, but reconvened in 2008. The group cited the Rolling Stones and MC5 as inspirations for their sound, and was the first group based outside the Pacific Northwest to sign with influential Seattle label Sub Pop.\n",
+      "The Fluid was originally called Madhouse. After early 1980s Denver punk band Frantix broke up, bassist Matt Bischoff, drummer Garrett Shavlik and guitarist James Clower began playing as Madhouse. On July 5, 1985, with new band members Rick Kulwicki (guitar) and John Robinson (vocals), they played their first gig at the German House (Denver Turnverein) as \"The Fluid\". That was the only name all five members could agree upon.\n",
+      "In 1986 the Fluid released their first album, Punch N Judy on Rayon Records. The album was also licensed to and released by the German label Glitterhouse. They toured for the next two years in support of the album. \n"
    ],
    "infobox": {
+      "Also known as": [
+         "Madhouse"
+      ],
       "Origin": [
-         "Spain"
+         "Denver, Colorado, U.S."
       ],
       "Genres": [
-         "Indie rock",
-         "Alternative rock"
+         "Garage rock, punk rock"
       ],
       "Years active": [
-         "1993–1998"
+         "1985–1993, 2008"
       ],
       "Labels": [
-         "Elefant Records"
+         "Rayon",
+         "Sub Pop",
+         "Glitterhouse",
+         "Hollywood"
       ],
-      "Members": [
-         "Jone Gabarain",
-         "Teresa Iturrioz",
-         "Ibon Errazkin",
-         "Peru Izeta",
-         "Gorka Ochoa"
+      "Associated acts": [
+         "Nirvana",
+         "Frantix",
+         "Spell",
+         "'57 Lesbian"
+      ],
+      "Website": [
+         "Sub Pop: The Fluid"
+      ],
+      "Past members": [
+         "John Robinson",
+         "Matt Bischoff",
+         "James Clower",
+         "Rick Kulwicki",
+         "Garrett Shavlik"
       ]
    }
 }

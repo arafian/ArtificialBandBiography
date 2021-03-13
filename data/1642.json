@@ -1,42 +1,9 @@
 {
    "Name": "Tequila (band)",
-   "Sections": [
-      "1 Members",
-      "1.1 1976-1982 members",
-      "1.2 2008-present members",
-      "2 Discography",
-      "2.1 Studio albums",
-      "2.2 Compilation albums",
-      "2.3 Live album",
-      "3 References",
-      "4 External links"
-   ],
-   "Summary": {
-      "text": [
-         "Tequila was an Argentine-Spanish rock band, active between 1975 and 1983. The group consisted of Ariel Rot (guitar), Alejo Stivel (voice), Julián Infante (guitar), Felipe Lipe (bass) and Manolo Iglesias (drums). Tequila was one of the most popular bands in the early years of democracy in Spain.[1]\n",
-         "Tequila emerged after the fall of the Franco regime, years before la Movida Madrileña days. Their music has influences from artists such as Chuck Berry and The Rolling Stones,[1] a sound very different from the symphonic rock and urban rock groups predominant on the Spanish scene at the time.[2][3] Songs like Salta!! (which was played for the first time in the well-known television show Un, dos, tres... responda otra vez),[4] Quiero besarte, Me Vuelvo Loco, and Rock and Roll en la plaza del pueblo, catapulted the five Tequila members to stardom.\n"
-      ]
-   },
-   "Members": {
-      "1976-1982 members": {},
-      "2008-present members": {}
-   },
-   "Discography": {
-      "Studio albums": {
-         "text": [
-            "Tequila release four studio albums, and were working in a fifth before their first breakup. The song \"Me estás atrapando otra vez\", intended for the further, would finally appear in the Los Rodriguez album Sin documentos.[5]\n"
-         ]
-      },
-      "Compilation albums": {},
-      "Live album": {}
-   },
-   "References": {},
-   "External links": {},
-   "coreData": [
-      "Tequila was an Argentine-Spanish rock band, active between 1975 and 1983. The group consisted of Ariel Rot (guitar), Alejo Stivel (voice), Julián Infante (guitar), Felipe Lipe (bass) and Manolo Iglesias (drums). Tequila was one of the most popular bands in the early years of democracy in Spain.[1]\n",
-      "Tequila emerged after the fall of the Franco regime, years before la Movida Madrileña days. Their music has influences from artists such as Chuck Berry and The Rolling Stones,[1] a sound very different from the symphonic rock and urban rock groups predominant on the Spanish scene at the time.[2][3] Songs like Salta!! (which was played for the first time in the well-known television show Un, dos, tres... responda otra vez),[4] Quiero besarte, Me Vuelvo Loco, and Rock and Roll en la plaza del pueblo, catapulted the five Tequila members to stardom.\n",
-      "Tequila release four studio albums, and were working in a fifth before their first breakup. The song \"Me estás atrapando otra vez\", intended for the further, would finally appear in the Los Rodriguez album Sin documentos.[5]\n",
-      "This article about a Spanish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   "rawData": [
+      "Tequila was an Argentine-Spanish rock band, active between 1975 and 1983. The group consisted of Ariel Rot (guitar), Alejo Stivel (voice), Julián Infante (guitar), Felipe Lipe (bass) and Manolo Iglesias (drums). Tequila was one of the most popular bands in the early years of democracy in Spain.\n",
+      "Tequila emerged after the fall of the Franco regime, years before la Movida Madrileña days. Their music has influences from artists such as Chuck Berry and The Rolling Stones, a sound very different from the symphonic rock and urban rock groups predominant on the Spanish scene at the time. Songs like Salta!! (which was played for the first time in the well-known television show Un, dos, tres... responda otra vez), Quiero besarte, Me Vuelvo Loco, and Rock and Roll en la plaza del pueblo, catapulted the five Tequila members to stardom.\n",
+      "Tequila release four studio albums, and were working in a fifth before their first breakup. The song \"Me estás atrapando otra vez\", intended for the further, would finally appear in the Los Rodriguez album Sin documentos.\n"
    ],
    "infobox": {
       "Origin": [
