@@ -39,5 +39,10 @@
          "Jeff Hill",
          "Joel Robinow"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in [YEAR] by Black Crowes singer [PERSON_NAME_FULL_1_MALE] while the Crowes were on hiatus. The original lineup consisted of [PERSON_NAME_LAST_1] (vocals, guitar), [PERSON_NAME_FULL_2_MALE] (lead guitar, backing vocals), [MONTH]k Dutton (bass guitar, backing vocals), George Sluppick (drums), and [PERSON_NAME_FULL_0_MALE] (keyboards). Since [YEAR], the band had undergone various personnel changes with [PERSON_NAME_LAST_1] and [PERSON_NAME_LAST_2] remaining the only constant members. Following the death of [PERSON_NAME_FULL_2_MALE] in [MONTH] [YEAR] the [BAND_NAME] announced it would disband.\n",
+      "[BAND_NAME] began as an [GENRE] a 'band' during their California residency tour. The original intention, according to Robinson, was to \"have a local L.A. band, just play in California, see where the music takes us and have a good time.\" They then embarked on a 118 date North American tour in [YEAR]. Robinson names Grateful Dead members [PERSON_NAME_FULL_0_MALE] and Bob Weir, who sat in with the band during CRB's run at the Great American Music Hall, as both musical inspirations and friends. As well as Robinson, the band features fellow Black Crowes member Adam MacDougall, [PERSON_NAME_FULL_2_MALE] collaborator [PERSON_NAME_FULL_1_MALE], bassist [MONTH]k Dutton, and drummer George Sluppick. Robinson describes the Brotherhood as a \"farm-to-table psychedelic band\".\n",
+      "[BAND_NAME] released a version of \"Blue Suede Shoes\" (written by [PERSON_NAME_FULL_0_MALE]) b/w a live version \"Girl, I Love You\" (written by Al Bell and [PERSON_NAME_FULL_1_MALE]) for Record Store Day on [MONTH] 21, [YEAR]. The CD version also features a cover of the Jimmy Reed song, \"Bright Lights Big City\".\n"
+   ]
 }

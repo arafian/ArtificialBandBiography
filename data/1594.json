@@ -30,5 +30,10 @@
          "Treku Armendariz",
          "Kaki Arkarazo"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from the  Basque Autonomous Community formed in Irun in the summer of [YEAR].\n",
+      "[BAND_NAME] was born in the context of the first democracy years in Spain in [YEAR]. They had a big significance for left-wing basque nationalism (which rejected the new constitutional project) as precursors of a new wave of music: Basque Radical Rock (Rock Radikal Vasco or RRV in Spanish). They reached a huge degree of influence in Basque and Spanish punk, as other bands like La Polla Records, Cicatriz and Eskorbuto became famous in the 80s underground scene. It was a very popular band in Basque Country, and also in the rest of Spain.\n",
+      "Although labeled from the beginning as a radical Basque rock, [BAND_NAME] tried to fight against any classification, even if political links with Herri Batasuna were evident. They also faced some censorship problems, especially when they tried to add a picture of Spanish monarch Juan Carlos I depicted as a robot. In the five year life span of the band they moved from ska to punk and even hip hop, eventually disbanding the formation after seeing Public Enemy in Paris and creating a bigger project, Negu Gorriak. Although their lyrics also evolved from \"party-ska\" to \"combat-rock\" (in their last record all the songs were sung in Basque), their style along the lines of social and political protest stayed intact.\n"
+   ]
 }

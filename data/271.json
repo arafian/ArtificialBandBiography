@@ -34,5 +34,10 @@
          "Ryan Young",
          "Eamonn McLain"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME]  are an [GENRE] band from Duluth, Minnesota.  They have released eight full albums, three of which have reached US Billboard bluegrass chart number one spots. Their fifth release, Palomino, maintained a position in the Top 10 on the bluegrass charts for 52 straight weeks. Their latest album, Life is Good on the Open Road, was released on [MONTH] 4, [YEAR].  \n",
+      "Simonett, Saxhaug, and Young also play in a [GENRE]",
+      "Dave Simonett\n"
+   ]
 }

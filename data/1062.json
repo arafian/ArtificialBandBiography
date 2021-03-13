@@ -36,5 +36,10 @@
          "Daniel Freedman",
          "Alan Kashan"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from New York City. Formed in [YEAR] by Basya Schechter, their music is a mix of American folk, Jewish klezmer, and Middle Eastern sounds.\n",
+      "Schechter is currently a [GENRE]",
+      "This article on a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

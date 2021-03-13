@@ -27,5 +27,10 @@
          "Bardo Martinez",
          "Gabriel Villa"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band based in Los Angeles, California. Formed in [YEAR],  the band is composed of Eduardo Arenas (bass, guitar, vocals), [PERSON_NAME_FULL_0_MALE] (guitars, keyboards), Bardo [MONTH]tinez (lead vocals, keyboards, guitar) and Gabriel Villa (drums). The group's sound draws from a mix of genres ranging from psychedelic soul, funk, indie, prog, and rock.\n",
+      "[BAND_NAME] was formed in [YEAR]. NPR's Alt.Latino referred to the band's music as one of the show's and listener's favorites of [YEAR]. [BAND_NAME] provided support for select dates on the [MONTH]–[MONTH] leg of Jack White's Lazaretto Tour [YEAR]. In [MONTH] [YEAR], the band performed on Day 3 ([MONTH] 12 & 19) for both weekends of the Coachella Valley Music and Arts Festival. In [MONTH] [YEAR], [BAND_NAME] performed at Ruido Fest. As of [YEAR], the band has played at Bonnaroo ([YEAR]) and LouFest ([YEAR]), as well as both weekends of Coachella ([YEAR]), Sasquatch! Music Festival ([YEAR]), the Forecastle Festival ([YEAR]), FYF ([YEAR]), [PERSON_NAME_FULL_0_MALE] ([YEAR]).\n",
+      "[BAND_NAME] made their late night television debut on Conan in [YEAR].\n"
+   ]
 }

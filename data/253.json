@@ -31,5 +31,10 @@
          "Béla Fleck",
          "Pat Flynn"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band founded in [YEAR], and composed of Sam Bush, [PERSON_NAME_FULL_0_FEMALE], Ebo Walker, [PERSON_NAME_FULL_2_MALE], Butch Robins, [PERSON_NAME_FULL_1_MALE], Béla Fleck and [PERSON_NAME_FULL_4_MALE]. They were active between [YEAR] and [YEAR], releasing more than twenty albums as well as six singles. Their highest-charting single is \"Callin' Baton Rouge\", which peaked at No. 37 on the U.S. country charts in [YEAR] and was a Top 5 country hit for [PERSON_NAME_FULL_3_MALE] five years later.\n",
+      "In [YEAR], the group were inducted into the Bluegrass Music Hall of Fame.\n",
+      "The origins of [BAND_NAME] lay in the Bluegrass Alliance, which Sam Bush (vocals, fiddle, guitar, mandolin) and [PERSON_NAME_FULL_0_FEMALE] (banjo, vocals) joined in [YEAR]. At the time, the Alliance also featured bassist Ebo Walker and fiddler [PERSON_NAME_FULL_1_MALE]. Within a year after Bush's and [PERSON_NAME_LAST_0]'s arrival, Curtis Burch (dobro, guitar, vocals) joined the band. In [YEAR], [PERSON_NAME_LAST_1] left the band, and the remaining members decided to continue under the new name [BAND_NAME]. The band released their eponymous debut album The Arrival of the [BAND_NAME] later in [YEAR] on Starday Records.\n"
+   ]
 }

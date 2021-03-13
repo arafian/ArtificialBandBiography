@@ -26,5 +26,10 @@
          "Karen Basset",
          "Hillary Burton"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Los Angeles, California with a run [YEAR] to [YEAR]. The band is among the first handful of all-female rock bands to ever be signed. From the beginning, the band found a strong following in the Hollywood garage rock and Paisley Underground scene. [BAND_NAME] enjoyed strong radio support from DJ Rodney Bingenheimer. The band graduated from the garage rock sound to a more contemporary, hard rock style in later years, spawning the off-shoot band The Muffs. [BAND_NAME] founder/singer/songwriter, [PERSON_NAME_FULL_0_FEMALE], died on [MONTH] 10, [YEAR], of a brain aneurysm at the age of 31. The Muffs front-woman/founder [PERSON_NAME_FULL_1_FEMALE] who played bass in the Pandoras from [YEAR] to [YEAR] passed in [MONTH] 2nd, [YEAR] from ALS. [PERSON_NAME_LAST_1] had appeared as lead singer/lead guitarist of the reunited Pandoras in recent years, until her passing.\n",
+      "[BAND_NAME] began in late [YEAR] as part of the [YEAR]s garage rock revival. They were associated with the Paisley Underground era in Hollywood's underground rock scene that shared an aesthetic heavily influenced by [YEAR]s garage rock and psychedelia. Pierce, a resident of Chino, California until [YEAR], had been a member of the Hollywood music scene; playing in bands since [YEAR].\n",
+      "[BAND_NAME] were formed when singer/guitarist Pierce, a member of the mod/garage/pop Action Now, met singer/guitarist/bass player [PERSON_NAME_FULL_0_FEMALE] (aka Menday), at Chaffey College in Rancho Cucamonga  in [YEAR]. [PERSON_NAME_LAST_0], an art \\major, answered an ad that Pierce, a graphic arts major, had posted on the bulletin board in the cafeteria. The ad read, \"Wanted, another female musician to jam with! Influenced by sixties garage punk.\" They began bringing their guitars to school and jamming between classes.\n"
+   ]
 }

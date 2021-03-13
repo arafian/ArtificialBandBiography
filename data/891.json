@@ -26,5 +26,10 @@
          "Natalio Fowler",
          "Christopher Freeland"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Baltimore, [MONTH]yland, United States. Its music has been called math rock or post-punk.\n",
+      "'[BAND_NAME]' is a [GENRE] a confrontational and outlandish racket in public places. These happenings are comparable to the Lettrist scandals and Luther Blissett.\n",
+      "In all of the band's early performances, guitarists [MONTH]c Miller and Natalio Fowler both stood on large black boxes (or pedestals) towering over the audiences, a [GENRE] bands. They would occasionally step down from the boxes to walk into the audience and stand in front of individuals in the crowd (while still playing) in an attempt to make them feel uncomfortable. This was later aided by the much self-publicized acquisition of wireless guitars. Drummer Christopher Freeland would intermittently get up from his set and barge around the stage, mumbling incoherent babble, only to sit back down and lunge into another song. Miller and Fowler are noted for having the birth and death dates of Jimi Hendrix respectively. \n"
+   ]
 }

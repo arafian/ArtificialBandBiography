@@ -5,5 +5,10 @@
       "The band released its first single, \"Talk to the Birds\", in 1985, and subsequently released their debut self-titled album in 1986. The band's second album, Tale of Two Legs, came out in 1990, and the band toured in Ontario in support.  The band released one more album, Cages, on an independent label.\n",
       "After Bob's Your Uncle disbanded, Junger founded a follow up band called the Wingnuts,  toured  with several artists, and pursued a solo career.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band formed in Vancouver.  The band consisted of band founder guitarist Jamie [MONTH]ger, vocalist and guitarist Sook-Yin Lee, bassist [PERSON_NAME_FULL_1_FEMALE], harmonica player Peter Lizotte and drummer [PERSON_NAME_FULL_0_MALE]. Later to be replaced by drummer Karl Cardosa Aka Charles Pinto. The band's music was characterized by Lee's strong voice and lyrics, and with rock, jazz and blues instrumental accompaniment.\n",
+      "The band released its first single, \"Talk to the Birds\", in [YEAR], and subsequently released their debut self-titled album in [YEAR]. The band's second album, Tale of Two Legs, came out in [YEAR], and the band toured in Ontario in support.  The band released one more album, Cages, on an [GENRE]",
+      "After [BAND_NAME] disbanded, [MONTH]ger founded a [GENRE] band called the Wingnuts,  toured  with several artists, and pursued a solo career.\n"
+   ]
 }

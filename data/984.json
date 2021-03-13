@@ -63,5 +63,10 @@
          "Cheryl Rucker",
          "Shirley Starks"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band led by Melvin Seals, who plays electric organ.  Its mission is to continue the musical legacy of the [PERSON_NAME_FULL_0_MALE], of which Seals was a longtime member.\n",
+      "As noted in Rolling Stone, \"... when Garcia died in [YEAR], and the Grateful Dead went on hiatus, Seals took charge. Under his leadership, the slightly renamed '[BAND_NAME] Band' pays tribute to Garcia by performing his songs and remaining faithful to his style.\"\n",
+      "In [YEAR], Seals played several concerts with Jerry Garcia Band bassist [PERSON_NAME_FULL_0_MALE] and other former members of that band.  Their idea was to continue playing the same music with everyone except Garcia himself.  However, [PERSON_NAME_LAST_0] died three weeks later, and Seals and the others continued without him.  The membership of [BAND_NAME] has continued to evolve over the years.\n"
+   ]
 }

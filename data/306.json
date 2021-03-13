@@ -25,5 +25,10 @@
          "Barry Muir",
          "Elmar Spanier"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were a [MONTH]o Award-nominated Canadian alt-country band that existed between [YEAR] and [YEAR], releasing two albums in Canada on Sony Music.\n",
+      "The origins of the group are referenced to Billy Cowsill and [PERSON_NAME_FULL_0_MALE], who had been performing as The Billy Cowsill Band, playing traditional country songs.\n",
+      "The settled initial group formation was [PERSON_NAME_FULL_2_MALE] and Billy Cowsill as guitarists and principal songwriters, plus bassist Elmer Spanier and drummer J.B. \"Jay\" Johnson. Spanier left the band in [YEAR], prior to the release of their first album, and was replaced by [PERSON_NAME_FULL_1_MALE], who had previously worked with [PERSON_NAME_FULL_0_MALE] and The Payolas.  The name of the group, suggested by [PERSON_NAME_LAST_2]'s wife, was based on the song \"Blue Shadows On The Trail\" by Sons of the Pioneers.\n"
+   ]
 }

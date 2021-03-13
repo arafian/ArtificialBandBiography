@@ -45,5 +45,10 @@
          "Gus Farias",
          "Diego Farias"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (stylized sometimes as VOLUMES) is an [GENRE] band and self-proclaimed \"groove metal\" band based in Los Angeles, California. The group consists of  bassist Raad Soudani, vocalists Myke Terry and [PERSON_NAME_FULL_0_MALE], and drummer Nick Ursich. The group was founded in [YEAR] By [PERSON_NAME_FULL_1_MALE], Diego & Gus Farias and debuted with their first EP, The Concept of Dreaming in [YEAR]. This was followed with their debut album Via ([YEAR]) and their sophomore album No Sleep in [YEAR]. Both albums peaked at No. 1 on the iTunes Rock and Metal charts.\n",
+      "[BAND_NAME] make use of \"bouncy\" guitar riffs, groove-driven breakdowns, nu metal influence and dual lead vocalists. The band has been credited as an [GENRE]",
+      "Throughout the band's history, bassist Raad Soudani has remained the only constant member.\n"
+   ]
 }

@@ -18,5 +18,10 @@
       "Labels": [
          "Oppressed Records, Step-1 Music, Oi! Records, Dojo, Knockout, Insurgence Records, Captain Oi! Records"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band that formed in [YEAR] in Cardiff, Wales. Most of the musicians in the band's various lineups have been skinheads. Throughout the band's career, the members (especially vocalist [PERSON_NAME_FULL_0_MALE]) openly expressed opposition to racism and fascism — in their lyrics, interviews, on-stage comments and other actions. In [YEAR], [PERSON_NAME_LAST_0] visited New York City and met a few members of Skinheads Against Racial Prejudice (SHARP). On his return to the United Kingdom, he started promoting SHARP ideals to British skinheads. The band has also had ties to other anti-racist groups, such as Anti-Fascist Action.  [PERSON_NAME_LAST_0] is a Cardiff City F.C. supporter, and some of the band's songs express that support. \n",
+      "The band has split and re-formed several times, the first occasion in [YEAR] after which Moreno focused on his record labels, Oi! Records and Ska Records for the remainder of the decade.\n",
+      "Their most recent split was in [YEAR], but they re-formed in [YEAR], and continue performing today. The present day line-up is [PERSON_NAME_FULL_1_MALE] (vocals/guitar), fellow founder member Russell \"Ducky\" Payne (guitar), Che Jones (drums) and [PERSON_NAME_FULL_0_MALE] (bass).\n"
+   ]
 }

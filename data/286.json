@@ -46,5 +46,10 @@
          "Brent Fitz",
          "Robin Diaz"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (abbreviated as Theory or TOAD) is a [GENRE] band from North Delta, British Columbia. Formed in [YEAR], the band is currently signed to Roadrunner Records as well as 604 Records. The band includes traits of music styles, such as country and acoustic, in addition to their post-grunge and alternative rock foundation. Nine of their singles have entered the top ten of the US Billboard Mainstream Rock chart, including four songs that peaked at number one: \"Bad Girlfriend\", \"Lowlife\", \"Rx (Medicate)\" and \"History of Violence\".\n",
+      "[BAND_NAME] was initially formed in [YEAR] by Lead Guitarist/Vocalist Tyler Connolly, and Bassist Dean Back.  They later  became the first act to sign with Nickelback frontman Chad Kroeger's 604 Records imprint in [YEAR] after Connolly convinced Kroeger's ex-girlfriend Jodi to send him a [GENRE] a barbecue and discussed giving his band a record deal soon after. They released their eponymous debut album [BAND_NAME] on [MONTH] 17, [YEAR]. The name of the band comes from a song from their first album, whose lyrics describe a man preparing to commit suicide. That track was later renamed \"The Last Song\". The album was a large success for the band and was certified platinum in the United States and Canada on [MONTH] 12, [YEAR].\n",
+      "On [MONTH] 29, [YEAR], [BAND_NAME] released their second album, Gasoline. After the release of the album, the band toured with Shinedown and No Address. Starting on [MONTH] 1, [YEAR], Theory began a promotional tour, headlined by Breaking Benjamin and The Exies. Songs from Gasoline appeared in the soundtrack of the [YEAR] video game Fahrenheit, which was released under the title Indigo Prophecy in the United States.\n"
+   ]
 }

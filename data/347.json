@@ -33,5 +33,10 @@
          "Doug Hicks",
          "Soren Rasmussen"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band that was formed in [YEAR] and performed extensively at a number of Vancouver clubs until early [YEAR].\n",
+      "[BAND_NAME] traces its roots to [YEAR] when Robert Anstey formed The Scene with his brother Bruce on guitar, Soren Rasmussen on drums, Doug Hicks on bass and [PERSON_NAME_FULL_0_MALE] on lead vocals. Most of their original material was written by Robert Anstey and [PERSON_NAME_FULL_0_MALE], but the group did play a number of cover songs as well. [PERSON_NAME_FULL_0_MALE] was only with the group a short while, and after his departure the group continued on until the spring of [YEAR] when Doug Hicks was replaced by Ken Ogilvie and the band changed its name to Toad.\n",
+      "In the spring of [YEAR] the band took on a new direction and sound when Don Ogilvie replaced [PERSON_NAME_FULL_0_MALE] as lead guitarist. At that time Robert [PERSON_NAME_LAST_0] changed the band's name to [BAND_NAME] to fit in more with the changing times. In [MONTH] [YEAR] Soren Rasmussen left the band and was replaced by [PERSON_NAME_FULL_1_MALE]. Ken Lerner was added on saxophone and flute which gave the group's sound a distinct jazzy feel.\n"
+   ]
 }

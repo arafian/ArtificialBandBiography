@@ -39,5 +39,10 @@
          "Michael Shiono",
          "Russ Archer"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band founded in [YEAR] by Mason Jones, the owner of the independent music label Charnel Music. Initially the band was a trio (Mason Jones: guitar, Jason Stein: bass, [PERSON_NAME_FULL_1_FEMALE]: drums) and the debut 7\" single release was by the trio. Before the band's first live show, performed at KFJC radio, second guitarist Melynda Jackson joined. That quartet toured for a few years before [PERSON_NAME_FIRST_1] moved to Texas and [PERSON_NAME_FULL_0_MALE] joined as drummer. The role of bassist shifted several times from that point on but the rest of the lineup remained consistent until [YEAR], when Mason left the group so they could tour more. Shortly thereafter the band's core of Melynda and [PERSON_NAME_FIRST_0] relocated to Portland Oregon, where they continued to perform, tour and release albums.  The band completed a fall tour of the US with the Italian group OVO in [MONTH]/[MONTH] [YEAR] before disbanding on [MONTH] 13, [YEAR]. This was accompanied by a farewell show at Mississippi studios. Melynda Jackson and [PERSON_NAME_FULL_0_MALE] went on to form Eight Bells.\n",
+      "\"Char-Broiled Wonderland\" 7-inch single ([YEAR]), Charnel Music\n",
+      " Oregonian Sound Check: \n"
+   ]
 }

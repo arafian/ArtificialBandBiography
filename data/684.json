@@ -27,5 +27,10 @@
          "Solveig Heilo",
          "Turid Jørgensen"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Oslo, formed in [YEAR]. The band consists of Anne [MONTH]it Bergheim, [PERSON_NAME_FULL_1_FEMALE] and [PERSON_NAME_FULL_0_FEMALE]. Former band member [MONTH]ianne Sveen left the band in the beginning of [YEAR].\n",
+      "The members of [BAND_NAME] met in [YEAR] while studying at a [GENRE] band was formed in [YEAR] while listening to Anne [MONTH]it Bergheim perform the song \"Wading in Deeper\" on the piano. They were brought together by a common feeling of being \"the outcasts at the school.\" [BAND_NAME] felt that their music school didn't encourage originality, but \"only wanted to teach what had been done.\"\n",
+      "The band is named after the [BAND_NAME] Kids, the oldest comic strip continually in syndication. They chose this comic strip because they noticed that they resembled the characters in it. The term [BAND_NAME] is a [GENRE] a cat\", and is used in Norway to describe low-grade music and instrumentation (which in Germany would be called Katzenmusik - \"music by cats\").\n"
+   ]
 }

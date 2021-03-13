@@ -5,5 +5,10 @@
       "Michael Sweet (from Stryper) produced their album Electra Glide and also performed on the album.  \n",
       "In 2001 at Kingdom Bound Festival in Darien Lake, New York, they were in the \"Battle of the Bands\" receiving 2nd place. Mu5tard was also invited to take part in Atlanta Fest's \"Battle of the Bands\" in 2001.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band best known for their song \"Resilient\" that charted in [GENRE] radio in [YEAR]. The band was formed in [YEAR] by brothers [MONTH]k Gove and Cole Gove (a.k.a. Manley Cole Gove Jr.). The band released two albums Time Will Tell in [YEAR] and \"Electra Glide\" in [YEAR].\n",
+      "Michael Sweet (from Stryper) produced their album Electra Glide and also performed on the album.  \n",
+      "In [YEAR] at Kingdom Bound Festival in Darien Lake, New York, they were in the \"Battle of the Bands\" receiving 2nd place. [BAND_NAME] was also invited to take part in Atlanta Fest's \"Battle of the Bands\" in [YEAR].\n"
+   ]
 }

@@ -34,5 +34,10 @@
          "Stephen McCarty",
          "Cory Shane"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, formed in Washington, D.C. in [YEAR] and currently composed of vocalist and guitarist Jason Simon, bassist [PERSON_NAME_FULL_0_MALE], and drummer [MONTH]k Laughlin. The band have released seven studio albums, two live albums, and a Peel Session.\n",
+      "[BAND_NAME] formed in [YEAR] from the remnants of two local DC bands, The Impossible Five and Colour. The band started as Jason Simon on vocals and guitar, [PERSON_NAME_FULL_1_MALE] on bass, and [MONTH]k Laughlin on drums. They combined 70's heavy metal and 60's psychedelic rock with themes from authors such as J. R. R. Tolkien and H. P. Lovecraft. The first album, [BAND_NAME], was released in [YEAR] on Tolotta Records, a label run by Fugazi bassist [PERSON_NAME_FULL_0_MALE]. The vinyl LP version was released by Planaria Records. This was followed by [YEAR]'s Howls from the Hills, also released on Tolotta Records.\n",
+      "Having heard the band's first album, John Peel asked the band to record a [GENRE] band recorded their session in Fugazi's home studio using an 8-track recorder previously owned by Minor Threat, the first time a Peel Session was recorded outside the BBC studios. Primarily featuring energetic versions of songs from their first two albums, [BAND_NAME]'s session was officially released in [YEAR] as Peel Sessions, and includes two additional tracks recorded during the same period.\n"
+   ]
 }

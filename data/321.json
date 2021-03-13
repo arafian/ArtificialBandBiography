@@ -26,5 +26,10 @@
          "Kyle Fogden",
          "Cameron McLellan"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Vancouver. [BAND_NAME]'s music is best described as dream pop/shoegazing/new wave with soaring, ethereal vocals, and is currently released by Submerged Records. [BAND_NAME]'s second album The Picture Plane (released [MONTH] [YEAR]) spent three months in the Canadian college radio top 50. [BAND_NAME]'s debut album Under the Waterline won the band several [PERSON_NAME_FULL_0_FEMALE], including best local album, best vocalist, and most underrated band. [BAND_NAME] has been featured on MuchMusic and CBC Television's ZeD.\n",
+      "[BAND_NAME] has shared the stage with artists such as Monade, the Album Leaf, [PERSON_NAME_FULL_0_MALE], Silversun Pickups, The Hermit, Paper Moon, and A Northern Chorus, and has performed across Canada, hitting cities such as Victoria, Calgary, Edmonton, Regina, Winnipeg, and Toronto.\n",
+      "Two of the members who wrote and performed on Under the Waterline and The Picture Plane are no longer with the band. [PERSON_NAME_FULL_2_FEMALE] left before the latter album was released, to be replaced by Greg Williams. [PERSON_NAME_FULL_1_MALE] left the band in the summer of [YEAR]; his spot was filled by [PERSON_NAME_FULL_0_MALE].\n"
+   ]
 }

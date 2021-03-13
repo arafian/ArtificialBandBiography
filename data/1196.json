@@ -36,5 +36,10 @@
          "Brian McLeod",
          "Hayden Scott"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band based in Joshua Tree, California. The group consists of singer/keyboardist/bassist/guitarist Jesika von Rabbit, guitarist/bassist/programmer/singer Todd Rutherford, drummer [PERSON_NAME_FULL_0_MALE] and guitarist/producer Ethan Allen. Their musical style has been described as an amalgamation of psychedelic rock and electropop. Their fanbase is sometimes referred to as a self-styled \"cult\" called The Royal Order of Rabbits.\n",
+      "Jesika von Rabbit (birth name [PERSON_NAME_FULL_0_FEMALE]) grew up in Green Bay, Wisconsin. She started learning the piano at 6 years old. Her mother was a [GENRE] a hotel lounge band which mostly covered '80s pop songs by artists like Madonna, Pat Benatar and [PERSON_NAME_FULL_1_FEMALE]. The Von Rabbit name came from her appreciation of Jefferson Airplane song White Rabbit. Von Rabbit moved to Minneapolis when she was 18 where she started a band called the Porn Flakes, and she was also in a band called the Minx and after five years she eventually moved to Los Angeles in about [YEAR] to seek music collaborators of a like mind as herself.\n",
+      "Rutherford (birth name Todd Rutherford Johnson) grew up in Porterville, California, where he developed his skills on piano and guitar. His father was a [GENRE]"
+   ]
 }

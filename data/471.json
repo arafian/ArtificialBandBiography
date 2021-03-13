@@ -30,5 +30,10 @@
       "Past members": [
          "Mike Betts, Mitchell Kent, Troy Woody, David Starkey, Scot Strickland"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, that was formed in Hollywood, California, United States, in [YEAR]. [BAND_NAME] started playing clubs in Hollywood during the [YEAR]s and attracted the attention of record company Regency Records in [YEAR] and was asked to record two songs for their upcoming California Metal compilation album. After the release of that CD, [BAND_NAME] was signed to Regency to record their self-titled album, which was released the same year.\n",
+      "In [YEAR], the band got back together and was signed by Rugged Records to record their second full-length CD, Torn. [BAND_NAME] has been performing in the US and Dave Reeves and [PERSON_NAME_FULL_0_MALE] were asked by Liberty N' Justice to record a [GENRE] an upcoming compilation album. The song is called \"Snake Eat Snake\". It was recorded in [PERSON_NAME_FULL_0_MALE]'s studio and features all members of the band performing on the song.\n",
+      "Past members\n"
+   ]
 }

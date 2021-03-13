@@ -5,5 +5,10 @@
       "Songlines magazine calls them \"One of the finest American klezmer bands\".\n",
       "The band was formed by drummer (and Yiddish film scholar) Eve Sicular with Ismail Butera (accordion), Michael Hess (violin, ney flutes, kanun zither), Dave Hofstra (bass and tuba), and klezmer legend Howie Leess (1920-2003) (clarinet & tenor sax).\nThe group expanded to include vocalist Deborah Karpel and a dynamic horn section: Debra Kreisberg (clarinet/alto sax), Pam Fleming (trumpet/fluegelhorn), and Rick Faulkner (trombone).\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band that was established in [YEAR].\nWhile clearly a Klezmer band, [BAND_NAME] takes an eclectic approach to Yiddish musical genres from around the globe.\n",
+      "Songlines magazine calls them \"One of the finest American klezmer bands\".\n",
+      "The band was formed by drummer (and Yiddish film scholar) Eve Sicular with [PERSON_NAME_FULL_4_MALE] (accordion), Michael Hess (violin, ney flutes, kanun zither), [PERSON_NAME_FULL_0_MALE] (bass and tuba), and klezmer legend Howie Leess ([YEAR]-[YEAR]) (clarinet & tenor sax).\nThe group expanded to include vocalist [PERSON_NAME_FULL_1_FEMALE] and a dynamic horn section: [PERSON_NAME_FULL_2_FEMALE] (clarinet/alto sax), Pam Fleming (trumpet/fluegelhorn), and [PERSON_NAME_FULL_3_MALE] (trombone).\n"
+   ]
 }

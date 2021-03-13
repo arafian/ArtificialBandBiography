@@ -5,5 +5,10 @@
       "The band formed in 2000 when most of the members were still in their teens. They were first signed to indie label Bettie Rocket and released two albums before signing to Tooth & Nail in 2002. \n",
       "The band broke up in July 2004, but in a deal with Tooth & Nail Records singer/guitarist Seth Roberts' new band Eager Seas, were signed to the same label and released their first album under the name Watashi Wa. They subsequently left the label.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from San Luis Obispo, California on Tooth & Nail Records. \"Watashi wa\" (私は) in Japanese means \"I\".\n",
+      "The band formed in [YEAR] when most of the members were still in their teens. They were first signed to indie label Bettie Rocket and released two albums before signing to Tooth & Nail in [YEAR]. \n",
+      "The band broke up in [MONTH] [YEAR], but in a [GENRE] band Eager Seas, were signed to the same label and released their first album under the name [BAND_NAME]. They subsequently left the label.\n"
+   ]
 }

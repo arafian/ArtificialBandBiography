@@ -26,5 +26,9 @@
          "Joe Yamazaki",
          "Chris Matulich"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from San Francisco, California, United States, that formed in [YEAR].\n",
+      "Prior to their formation, David Jones, the main songwriter in [BAND_NAME], recorded several releases with his pop punk band After School Special on Mutant Pop Records. The group never toured or played a [GENRE] a small dedicated following. In [YEAR], [BAND_NAME] was formed and began rehearsing together. They were heavily inspired by Bad Religion and other melodic punk acts. After [BAND_NAME] began writing tunes together as a band they received interest from [PERSON_NAME_FULL_1_MALE] and his fledgling label, Panic Button Records. [PERSON_NAME_LAST_1] would often call Fat Wreck Chords, and heard about the band through Chris, who was the bassist for [BAND_NAME], and an employee at Fat Wreck Chords. This led to their debut appearance on the four-way split dubbed Four On The Floor alongside Screeching [PERSON_NAME_LAST_1], Teen Idols and Moral Crux. This was followed by their debut album, Where No One Knows My Name, in [YEAR]. Based on the album's success the band was asked to open for a number of notable punk bands including Bouncing Souls, Lagwagon, Bad Religion, T.S.O.L., Mad Caddies, and NOFX. The band released a 7-inch on the Fat Club series on Fat Wreck Chords. They followed that with an [YEAR]s-themed seven inch EP that came out on Geykido Comet Records, titled \"Video to Radio.\" Geykido Comet Records re-released the EP in [YEAR], with all the proceeds going to suicide prevention. Around this time, guitarist, [PERSON_NAME_FULL_0_MALE], started to play guitar for the Hardcore punk band, Western Addiction. He still stayed with [BAND_NAME], though. In [YEAR] the band released their second album, Stories Never Told on Red Scare Industries. David was friends with label owner, Toby Jeg, and the label also eventually re-released \n"
+   ]
 }

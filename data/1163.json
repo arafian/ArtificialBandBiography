@@ -27,5 +27,10 @@
          "Andres Jaramillo",
          "Alejandro Corredor"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, formed in Los Angeles, California, United States, in [YEAR].\n",
+      "The band was founded by [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_1_MALE] of Agony, and Vincent Price of Body Count, as a [GENRE] an official singer for the band, they asked a few musicians to write lyrics and record vocals over their music.\n",
+      "Their first release Day Of The Dead EP was recorded at Dungeon Studios in Los Angeles, mixed by Roy Z and released on Cinismo records in [YEAR], featuring vocals by [PERSON_NAME_FULL_4_MALE] (Static X, Asesino, Ministry, Prong - also known as Maldito X), [PERSON_NAME_FULL_3_MALE] (A.N.I.M.A.L.), Loana dP Valencia (Dreams Of Damnation), [PERSON_NAME_FULL_1_MALE] (Masacre), [PERSON_NAME_FULL_0_MALE] and Vincent Price. Dia De Los Muertos performed at the world's largest 'free of charge' rock festival [PERSON_NAME_FULL_2_MALE] in [YEAR] with Fear Factory and Death By Stereo.\n"
+   ]
 }

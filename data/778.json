@@ -26,5 +26,10 @@
          "David Roy",
          "Martyn Healy"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] band. Signed to Edinburgh's Human Condition Records, [BAND_NAME] (named after a song by [PERSON_NAME_FULL_0_MALE]'s Folk Implosion) were a three piece from Bishopbriggs on the outskirts of Glasgow. They produced instrumental electronica with 'Eno-esque gorgeousness'. 'The Young [MONTH]ble Giants stepping out with a prozac-ed up Godspeed You! Black Emperor while the [MONTH]y Chain bite their ankles'. Influences also included such bands as Tortoise and Mogwai.\n",
+      "They were one of the first bands from the UK (along with fellow Glaswegians Mogwai) to play instrumental, post-rock and subsequently formed an important part of the early [YEAR]s Glasgow music scene.\n",
+      "After a handful of gigs, they were signed to Edinburgh's Human Condition record label. In [MONTH] [YEAR], their debut EP Monotone Mountain was recorded by [PERSON_NAME_FULL_1_MALE] at CaVa Studios. At the time, they were highly thought of by [PERSON_NAME_FULL_0_MALE] (NME), Roy Wilkinson (Select) and [PERSON_NAME_FULL_2_MALE] (BBC Radio 1 Evening Session). 'MM' was described as 'an electropopguitary lullaby'. The EP was released on 17 [MONTH] [YEAR]. The gig to celebrate the EP launch on 27 [MONTH] [YEAR] in Avalanche, Edinburgh was reviewed by the NME.\n"
+   ]
 }

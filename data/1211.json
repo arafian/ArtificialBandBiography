@@ -1,8 +1,8 @@
 {
    "Name": "Ima Robot",
    "rawData": [
-      "Ima Robot is an American band based in Los Angeles, California, United States, that formed in the late 1990s. The band's song, \"Greenback Boogie\", is the main theme song of the USA Network legal drama series Suits.\n",
-      "Ima Robot formed in the late 1990s. In the early 2000s, the band signed with Virgin Records. The band's other original members were Timmy \"The Terror\" Anderson, Oliver \"Oligee\" Goldstein, Justin Meldal-Johnsen, and studio drummer Joey Waronker. Meldal-Johnsen and Waronker were sought-after musicians who had played with Beck before joining Ima Robot.\n",
+      "Ima Robot is an American band based in Los Angeles, California, United States, that formed in the late 1990s. They have released several albums, EPs, and singles, most notably Ima Robot in 2003, Search and Destroy and Monument to the Masses in 2006, and Another Man's Treasure in 2010. The band's song, \"Greenback Boogie\", a B-Side to Another Man's Treasure, is the main theme song of the USA Network legal drama series Suits.\n",
+      "In the 1990's, singer/rapper Alex Ebert and guitarist Tim \"Timmy the Terror\" Anderson worked together under various names including 13's Lucky, The Window Club, and Eiffel Tower Window Masters before deciding on the band name Ima Robot. The phrase \"Ima Robot\" came from an inside joke between members of the band, which Ebert has stated \"was something that we thought was really, really, really, really funny, and I can't, for the life of me, remember why\" In 1997, the duo recruited keyboardist/bassist Oliver \"Oligee\" Goldstein. The trio would perform with various frequently changing members until they recruited drummer Rich Lambert in December 2000 and bassist Justin Meldal-Johnsen in November 2001. The band recorded numerous untitled Demo CDs through the late 90's and early 2000's. In mid/late 2002, Ima Robot was signed to Virgin Records. As Ebert described the first thing Virgin Chairman/CEO said about the band: \"The first thing Matt Serletic said was that seeing us was like seeing the Ramones for the first time, and that he felt this kind of energy that we needed to capture and not try to gloss and glean over.\" Lambert was let go the day after the band was signed, and was replaced by studio drummer Joey Waronker.\n",
       "On September 16, 2003, Ima Robot released their first full-length album, the self-titled Ima Robot. The album featured the singles \"Dynomite\" and \"Song #1\" (released in the UK only).\n"
    ],
    "infobox": {
@@ -21,7 +21,12 @@
       ],
       "Associated acts": [
          "Edward Sharpe and the Magnetic Zeros",
-         "The Lucky 13"
+         "13's Lucky",
+         "Eiffel Tower Rifle Masters",
+         "The Window Club"
+      ],
+      "Website": [
+         "http://imarobot.com/anothermanstreasure/"
       ],
       "Members": [
          "Alex \"Edward Sharpe\" Ebert (Lead vocals)",
@@ -31,5 +36,10 @@
          "Jonas Petri Megyessi (Guitar, percussion)",
          "Orpheo McCord (Drums)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band based in Los Angeles, California, United States, that formed in the late [YEAR]s. They have released several albums, EPs, and singles, most notably [BAND_NAME] in [YEAR], Search and Destroy and Monument to the Masses in [YEAR], and Another Man's Treasure in [YEAR]. The band's song, \"Greenback Boogie\", a B-Side to Another Man's Treasure, is the main theme song of the USA Network legal drama series Suits.\n",
+      "In the [YEAR]'s, singer/rapper [PERSON_NAME_FULL_1_MALE] and guitarist Tim \"Timmy the Terror\" Anderson worked together under various names including 13's Lucky, The Window Club, and Eiffel Tower Window Masters before deciding on the band name [BAND_NAME]. The phrase \"[BAND_NAME]\" came from an [GENRE] band, which [PERSON_NAME_LAST_1] has stated \"was something that we thought was really, really, really, really funny, and I can't, for the life of me, remember why\" In [YEAR], the duo recruited keyboardist/bassist Oliver \"Oligee\" Goldstein. The trio would perform with various frequently changing members until they recruited drummer [PERSON_NAME_FULL_0_MALE] in [MONTH] [YEAR] and bassist Justin Meldal-Johnsen in [MONTH] [YEAR]. The band recorded numerous untitled Demo CDs through the late 90's and early [YEAR]'s. In mid/late [YEAR], [BAND_NAME] was signed to Virgin Records. As [PERSON_NAME_LAST_1] described the first thing Virgin Chairman/CEO said about the band: \"The first thing Matt Serletic said was that seeing us was like seeing the Ramones for the first time, and that he felt this kind of energy that we needed to capture and not try to gloss and glean over.\" [PERSON_NAME_LAST_0] was let go the day after the band was signed, and was replaced by studio drummer [PERSON_NAME_FULL_2_MALE].\n",
+      "On [MONTH] 16, [YEAR], [BAND_NAME] released their first full-length album, the self-titled [BAND_NAME]. The album featured the singles \"Dynomite\" and \"Song #1\" (released in the UK only).\n"
+   ]
 }

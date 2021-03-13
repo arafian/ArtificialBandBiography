@@ -36,5 +36,10 @@
          "Mike Chakar",
          "Mike Wilson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in Tampa, Florida in [YEAR] by guitarist [PERSON_NAME_FULL_0_MALE]. They primarily play a style of alternative rock and hard rock music. The band released, Beyond Broken, a studio album, in [YEAR], with Hollar Records.\n",
+      "[BAND_NAME] is a [GENRE] band from Tampa, Florida, founded in [YEAR]. Its members are guitarist/vocalist, [PERSON_NAME_FULL_1_MALE], bassist Ray Schurr, and drummer/vocalist [PERSON_NAME_FULL_4_MALE]. Having released three well-received independent projects, [BAND_NAME] ([YEAR]), Saving Me A Place EP ([YEAR]), Burn EP ([YEAR]), and Beyond Broken from Hollar Records ([YEAR]), [BAND_NAME] has toured extensively, self-booking hundreds of shows and sharing the stage with top artists including Jars of Clay, newsboys, Stryper, and Flyleaf. In addition to appearing on Petra’s [YEAR] “Farewell Tour,” [BAND_NAME] has showcased its talents at major festivals Atlanta Fest and Ichthus, while performing on behalf of Gibson Guitars at the summer [YEAR] National Association of Music Merchants (NAMM) Show. The band has been covered by major media outlets, Billboard, Guitar World, Vintage Guitar, and the St. Petersburg Times while receiving endorsements from major companies like PRS Guitars, Suhr Guitars & Amplification, KSR Amplification, Eminence Speakers, Crush Drums, [PERSON_NAME_FULL_3_MALE], GHS Strings, Floyd Rose, [PERSON_NAME_FU[PERSON_NAME_LAST_0][PERSON_NAME_LAST_0]_0_MA[PERSON_NAME_LAST_0]E]'s Cables, Fishman, TonePros, Rockett Pedals, Hipshot, [PERSON_NAME_FULL_2_MALE], and Express and Pop-Icon clothing.\n",
+      "Beyond Broken, a studio album and video, was released on [MONTH] 26, [YEAR], by Hollar Records.\n"
+   ]
 }

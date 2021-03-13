@@ -24,5 +24,10 @@
          "Andy Bell ",
          "Joseph Schlegel"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band formed in Camas, Washington, United States. The band's first official-studio album was released [MONTH] 9, [YEAR], and was produced by Mac Powell of Third Day. Their song \"Praying for Sunny Days\" was the ninth-most played song of [YEAR] on CHR radio and the most played new artist for CHR in [YEAR].\n",
+      "The band draws its name from a [GENRE]",
+      "As of [MONTH] 8, [YEAR], the band's website domain registration expired.\n"
+   ]
 }

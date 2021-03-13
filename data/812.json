@@ -29,5 +29,10 @@
          "Niklas Korssell ",
          "Peter Morén"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band formed by Broder Daniel guitarist and subsequent bass player Theodor Jensen in [YEAR].\n",
+      "After having written own songs for a period of time, Jensen met organist [PERSON_NAME_FULL_3_MALE], drummer [PERSON_NAME_FULL_0_MALE] and bass player Peter Morén through mutual friends. The group recorded its first demo in the winter of [YEAR]-[YEAR] and were signed by EMI in early [YEAR]. By that time, Jensen's childhood friend and [PERSON_NAME_FULL_1_MALE] bandmate [PERSON_NAME_FULL_2_MALE] had – on his highly successful debut album Känn ingen sorg för mig Göteborg – already released an interpretation in Swedish of the Plan's song \"Foggy Days\" (called \"Dom dimmiga dagarna\").\n",
+      "The self-titled debut album was recorded during the summer of [YEAR] together with producer [PERSON_NAME_FULL_1_MALE], and at the time of its release in [MONTH] that year, the first single \"Mon Amour\" was already climbing the charts. The album entered the Swedish charts at number 2, and was nominated for Grammis awards in four categories: best debut act, best album, best pop/rock group, and best composer. The album was followed by a [GENRE] band, drummer [PERSON_NAME_FULL_0_MALE] and bass player Peter Morén left the band in [YEAR] to pursue their own musical projects.\n"
+   ]
 }

@@ -22,5 +22,10 @@
          "Matt Brinkman",
          "Brian Chippendale"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Providence, Rhode Island, made up of Brian Chippendale (of Lightning Bolt) and [PERSON_NAME_FULL_0_MALE] (of Forcefield) which was formed out of Fort Thunder.\n",
+      "Much of [BAND_NAME]'s identity, including the band name, are obscure Dungeons & Dragons references.  The name of the band refers to psionic creatures in the Dungeons & Dragons universe, Illithids, commonly referred to as \"mind flayers.\"  The covers of Take Your Skin Off and Die & Mold Services also resemble the Illithid's squid-like faces.  The title to the band's fourth album, Expedition to the Hairier Peaks, plays on the popular Dungeons & Dragons module title, Expedition to the Barrier Peaks.\n",
+      "This article on a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

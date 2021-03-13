@@ -31,5 +31,10 @@
          "Daniel Gilbert",
          "Johan Neckvall"
       ]
-   }
+   },
+   "prunedData": [
+      "Brother Daniel (Swedish: [BAND_NAME]), often abbreviated as BD, was an [GENRE] band from Gothenburg, Sweden. They formed in the late [YEAR]s and then consisted of classmates [PERSON_NAME_FULL_0_MALE] and Daniel Gilbert. The band claims they started playing \"to gain social respect\" and it was decided early on that emotional expression would be more important to their sound than musical correctness.\n",
+      "Musically, they have been inspired by bands such as The Jesus And [MONTH]y Chain, Iggy Pop and The Velvet Underground, relying heavily on distorted guitars and simple arrangements. Their lyrics have mostly centered on existential issues and youth angst.\n",
+      "[BAND_NAME] was largely regarded as an entitative cornerstone of Swedish alternative music during the [YEAR]s, even though the band has proven to be quite unstable ever since the beginning, with members leaving the band every few years.\n"
+   ]
 }

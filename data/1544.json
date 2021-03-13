@@ -31,5 +31,10 @@
       "Associated acts": [
          "Appa, Tokyo Jihen, The Hiatus, Ringo Sheena, H Zhett M, Ohashi Trio"
       ]
-   }
+   },
+   "prunedData": [
+      "Keitaro Izawa (伊澤 啓太郎, Izawa Keitarō, born [MONTH] 4, [YEAR]), better known by his stage name [BAND_NAME] (伊澤 一葉, Izawa Ichiyō) is a [GENRE] band Tokyo Jihen. He is also the lead vocalist and pianist of the band Appa.\n",
+      "[PERSON_NAME_LAST_0] was born in [YEAR] in Kurashiki City, Okayama Prefecture. His father [PERSON_NAME_FULL_0_MALE] is the president of Kurabun Corporation.\n",
+      "Izawa began studying piano at the age of four, and by the age of 14 had also learned to play the guitar and was active in several bands in which he also served as the vocalist. After graduating from Kurashiki's Seiryo Senior High School, he entered the composers' program at the Kunitachi College of Music; however, he left the college two years later before graduation because he felt he would not be able to study and compose music seriously at the same time. He formed a [GENRE]"
+   ]
 }

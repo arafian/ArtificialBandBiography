@@ -27,5 +27,10 @@
          "Andrew \"Red\" Johnson",
          "Nick Tkachyk"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band that blends genres of rock, funk, jazz, reggae, ska, and electro-pop. Members Brian Moss (guitar/vocals) and [PERSON_NAME_FULL_0_MALE] (bass/vocals) formed [BAND_NAME] in Prescott, Arizona on New Year's Eve in [YEAR]. Andrew “Red” Johnson (keys/vocals) joined Moss and [PERSON_NAME_LAST_0] after meeting the duo at an open mic night in Prescott. [PERSON_NAME_FULL_1_MALE] (drums/percussion/vocals) was the last addition of this current formation until [BAND_NAME] and Cam went their separate ways [MONTH] [YEAR]. [BAND_NAME]’s previous drummer, Nick Tkachyk, returned to the band at this point. The group self-releases their music, many of which are soundboard recordings of their live shows.\n",
+      "[BAND_NAME]'s sound is the product of the different songwriters and singers in the band. The band uses an improvisational style to transition between the songs in their sets of live music, selecting diverse covers. [BAND_NAME] tours across the U.S., and each of their shows features a different setlist and approach to each song they play. Through their tours, archives, and live video recordings, the band has a fan base of \"Spaffnerds\" who travel to see the band and maintain an online community surrounding its shows. The band provide live streams and access to recordings of their shows on their website.\n",
+      "Brian Moss and Jordan Fairless are the founding members of [BAND_NAME]. They both played open mic nights at Coyote Joe's in Prescott, Arizona, in [YEAR]. At the time, Moss played guitar and Fairless was the percussionist. In [YEAR], [PERSON_NAME_FULL_2_MALE] ([YEAR]-[YEAR]) became [BAND_NAME]'s drummer, and Fairless took on bass guitar. The first keyboard player was Jonathan Hust ([YEAR]-[YEAR]). In [YEAR], [PERSON_NAME_FULL_0_FEMALE] joined [BAND_NAME], and [PERSON_NAME_FULL_1_MALE]  became [BAND_NAME]'s drummer, replacing Nick Tkachyk ([YEAR]-[YEAR]), in [YEAR], firming up the band's current membership. Nick returned to the band in the spring of [YEAR].\n"
+   ]
 }

@@ -38,5 +38,9 @@
          "Peio Skalari",
          "Hiart Leitza"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band founded in [YEAR] in Navarre by Juantxo [PERSON_NAME_LAST_2] and [PERSON_NAME_FULL_2_MALE]. Their lyrics are in Spanish and Basque. Also in their works the sounds of punk, reggae, and other styles can be found.\n",
+      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

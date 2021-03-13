@@ -51,5 +51,10 @@
          "Marco Forcone",
          "Matt Hurich"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band that formed in Huntington Beach, California in [YEAR]. They split up in [YEAR], but reunited in [YEAR]. The group is also nicknamed the \"Triple Axe Attack\" for pioneering the use of a 3-guitar line-up in heavy metal. \n",
+      "Currently comprising lead vocalist [PERSON_NAME_FULL_1_MALE], guitarists Rob Math and [PERSON_NAME_FULL_0_MALE], bassist Paul Carman, and drummer Dean Roberts, the band has released five studio albums. [BAND_NAME] has undergone many line-up changes during its existence. No member has been constant throughout its entire timeline but several former members have returned at differing times. The band continues to perform live but has not released any studio material since their [YEAR] album New World Asylum.\n",
+      "Formed in the early [YEAR]s, a teenaged [BAND_NAME] emerged on the Southern California scene sharing bills with fellow OC metal acts such as Metallica, Witch, and Slayer at venues like the Woodstock and Radio City. [BAND_NAME] quickly caught the attention of Enigma Records affiliated indie label Tropical Records who financed the band's eponymous [YEAR] 5-song EP, produced by Randy Burns. Germany's Steamhammer/SPV label released the EP, upgraded to a full-fledged album, in [YEAR], titled [BAND_NAME], while Heavy Metal America, who had the rights for Great Britain, issued it as Endangered Species, so named after one of the songs on the album.\n"
+   ]
 }

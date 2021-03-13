@@ -32,5 +32,10 @@
          "Emily Wynne-Hughes",
          "Phil Buckman"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Los Angeles that, along with bands such as Union 13, Los Abandoned, The Dollyrots,  and Left Alone, have been prominent in the Southern California Chicano Punk scene that started in the mid-[YEAR]s and continues today.\n",
+      "The band formed in Glendale, California on [MONTH] 1, [YEAR] and originally consisted of [PERSON_NAME_FULL_1_FEMALE] (lead vocals), [PERSON_NAME_FULL_0_FEMALE] (guitar), Aixa [PERSON_NAME_LAST_1] (drums), and [PERSON_NAME_FULL_2_FEMALE] (bass). [PERSON_NAME_FIRST_1] and Aixa are sisters. The name originates from a [GENRE] band used to chant to try to get guitarist, [PERSON_NAME_FULL_0_FEMALE], to start a song.\n",
+      "The band released two CDs for SideOneDummy Records.  The first was \"Worst Enemy\" in [YEAR]. The second was \"Nothing Is More\", produced by Flogging Molly’s [PERSON_NAME_FULL_0_MALE], in [YEAR].  They also took part in the Warped Tours of [YEAR] and [YEAR].\n"
+   ]
 }

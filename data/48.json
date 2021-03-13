@@ -45,5 +45,10 @@
          "Cathy Richardson",
          "Tommy Odetto"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band that formed in San Francisco in [YEAR] as part of the same psychedelic music scene that produced the Grateful Dead, Quicksilver Messenger Service, and [PERSON_NAME_FULL_0_MALE]. They are best known as the band that featured [MONTH]is Joplin as their lead singer. Their [YEAR] album Cheap Thrills is considered one of the masterpieces of the psychedelic sound  of San Francisco; it reached number one on the Billboard charts, and was ranked number 338 in Rolling Stone's the 500 greatest albums of all time. The album is also included in the book [YEAR] Albums You Must Hear Before You Die.\n",
+      "Leader Peter Albin, a country-blues guitarist who had played with future Grateful Dead founders [PERSON_NAME_FULL_3_MALE] and Ron McKernan, met [PERSON_NAME_FULL_0_MALE], a professional rock guitarist with a jazz and classical background. After playing together at Albin's home, [PERSON_NAME_LAST_0] suggested they form a band. The pair approached guitarist James Gurley, the resulting threesome playing open jam sessions hosted by entrepreneur [PERSON_NAME_FULL_1_MALE] in [YEAR]. [PERSON_NAME_LAST_1] found them a drummer, Chuck Jones, and [BAND_NAME] was formed at their first gig, the Trips Festival in [MONTH] [YEAR]. In the audience was painter and jazz drummer [PERSON_NAME_FULL_2_MALE], who soon displaced Jones.\n",
+      "Big Brother went on to become the house band at the Avalon Ballroom, playing a [GENRE] a need for a strong vocalist, Helms contacted [MONTH]is Joplin, who at the time was considering joining up with Roky Erickson of The 13th Floor Elevators. She traveled to San Francisco from Austin, Texas and debuted with Big Brother at the Avalon on [MONTH] 10, [YEAR].\n"
+   ]
 }

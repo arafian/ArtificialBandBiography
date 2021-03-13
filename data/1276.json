@@ -32,5 +32,10 @@
          "Scott Travis",
          "Walt Woodward III"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band, originally formed in [YEAR] as Saints Or Sinners. The band originally featured former Angora singer John Corabi and former Racer X members guitarist [PERSON_NAME_FULL_2_MALE], bassist [PERSON_NAME_FULL_1_MALE], and drummer Scott Travis. However, Scott Travis quickly left to join Judas Priest, and was replaced by former Shark Island drummer [PERSON_NAME_FULL_0_MALE]. Scott Travis co-wrote \"I Don't Care\" on Let It Scream, though he did not actually play on the album.\n",
+      "They changed their name from Saints Or Sinners to [BAND_NAME] shortly after Walt Woodward III replaced [PERSON_NAME_FULL_0_MALE]. Many of the songs on their [YEAR] debut Let It Scream were performed by the band in concert before the album was ever recorded.\n",
+      "After releasing their [YEAR] debut Let It Scream on Hollywood Records, which included the single \"I Believe in Me,\" Corabi left the band to replace the recently departed [PERSON_NAME_FULL_2_MALE] in Mötley Crüe.  [BAND_NAME] then recruited former Dashboard [MONTH]y singer Billy Fogarty and recorded their second album, Takin' It To The Next Level, but were dropped from the record label before the album could be released. [BAND_NAME] split up and Fogarty, Bouillet and Alderete went on to form a brief musical project with [PERSON_NAME_FULL_1_MALE] and drummer [PERSON_NAME_FULL_0_MALE], Jr. called DC-10, which recorded and released the album Co-Burn.\n"
+   ]
 }

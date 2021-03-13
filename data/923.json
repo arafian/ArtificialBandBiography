@@ -29,5 +29,10 @@
          "Ilk Koskelo",
          "Myke Stryker"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from San Francisco. They play a blend of math rock, brutal prog, punk, jazz and heavy metal with dub influenced bass lines. The band's sound is based on melodic and rhythmically challenging short songs that often incorporate shred guitar. They formed in [YEAR] from the remnants of the Bay Area experimental band Bm Relocation Program.\n",
+      "The band members have also variously played (or continue to play) in other bands/projects including UK-based hardcore punk bands Voorhees and Break It Up, and San Francisco-based The John Francis, [PERSON_NAME_FULL_0_FEMALE], Life Fire In Peopledom, The Mao, Drift Erratics, Bm Relocation Program and others.\n",
+      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

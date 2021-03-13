@@ -55,5 +55,10 @@
          "Rodney Dangerous",
          "Anne Dromeda"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band founded in San Francisco in [YEAR] by musician Damon Edge and associated with the [YEAR]s post-punk movement. The group's raw sound blended elements of punk, psychedelia, and early industrial music, incorporating science-fiction themes, tape experimentation, distorted acid rock guitar, and  electronic noise. They have been cited as forerunners of the [YEAR]s industrial music boom.\n",
+      "They found little commercial success as part of San Francisco's [YEAR]s music scene, but developed a cult following in the United Kingdom and Germany following the release of the LPs Alien Soundtracks ([YEAR]) and Half Machine Lip Moves ([YEAR]). Edge died in [YEAR]; subsequently, guitarist Helios Creed has revived the [BAND_NAME] name for recordings and performances.\n",
+      "[BAND_NAME] was formed in [YEAR] by Damon Edge (real name [PERSON_NAME_FULL_0_MALE]: drums, vocals, synths, production) and Gary Spain (bass guitar, violin) in San Francisco. While studying at the California Institute of the Arts, Edge became influenced in making unusual sounds; this progressed after a [GENRE] a lot of Arabic music. In his head, he began putting a beat behind the music and started coming up with ideas for songs. [BAND_NAME]'s music contained a lot of atmosphere in the sound production, featuring three- and eight-note melodies, usually layered with an atonal drone backed by a rhythm section. This sort of atmosphere was influenced by the music he had heard in Morocco. About six months after that trip, Edge began forming a band and recording his new music.\n"
+   ]
 }

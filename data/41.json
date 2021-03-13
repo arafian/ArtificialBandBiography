@@ -27,5 +27,10 @@
          "Jen Cohen ",
          "Dan Lee"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band that formed in San Francisco in [YEAR], after the breakup of chief songwriter [PERSON_NAME_FULL_0_FEMALE]'s former band Henry's Dress. [BAND_NAME]'s music is influenced by C86-style British indie pop.\n",
+      "Their first record, Terrible Things Happen was released in [YEAR], receiving glowing reviews in CMJ, The Big Takeover, and numerous indie pop zines, earning enough of a [GENRE] a tour of Japan in [MONTH] [YEAR]. Terrible Things Happen (as with the rest of the Aislers Set's music) was recorded in Linton's tiny basement studio on an analog 8 track machine.\n",
+      "Spin.com placed the band's second album The Last Match on its Top 20 of [YEAR], saying, \"Linton has cleared the cobwebs off the Pop conundrum and dolled them up in a perfect dress.\" On Salon.com, Greil [MONTH]cus wrote, \"They make dream pop feel as easy to make as a can of soup, and as dangerous: Watch that jagged edge.\" High praise followed in the New York Times, NME, Gear, and Alternative Press, and the band set out on lengthy tours supporting acts such as Sleater Kinney and Bratmobile.\n"
+   ]
 }

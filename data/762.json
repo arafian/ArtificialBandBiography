@@ -25,5 +25,10 @@
          "Rimi Mizusawa",
          "Erika Kawamura"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (ホワイトベリー) were a [GENRE] band from Kitami, Hokkaido, Japan. Although not reaching more than cult status outside of their native country, the group gained a loyal following with their recordings and live performances.\n",
+      "The band - vocalist [PERSON_NAME_FULL_0_FEMALE], guitarist [PERSON_NAME_FULL_1_FEMALE], bassist [PERSON_NAME_FULL_2_FEMALE], keyboardist Rimi Mizusawa, and drummer [PERSON_NAME_FULL_3_FEMALE] - formed in [YEAR] while the members - all lifelong friends, while [PERSON_NAME_LAST_0] and [PERSON_NAME_LAST_3] were also cousins - were in elementary school. A few years and a [GENRE] band Judy and [MONTH]y and were offered a recording deal with Sony Japan's Pop Artist imprint in [YEAR].\n",
+      "The group, still in high school at the time, recorded and released their first EP After School, which they quickly followed up with several singles, all original material with the exception of their fourth, a [GENRE] band's most popular number and is now more identified with them than with the original group.  Capitalizing on the momentum, the group completed and released their debut full-length album, \"Hatsu\".\n"
+   ]
 }

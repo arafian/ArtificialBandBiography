@@ -28,5 +28,10 @@
          "Paula",
          "Dominique Davison"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band founded in the San Francisco bay area, in California in [YEAR].  The all-female band aggressively criticized patriarchy and gender roles but did not associate with the contemporaneous riot grrrl movement.  They released several records and toured extensively before disbanding in [YEAR]. Members later played in the bands Instant Girl and Aus Rotten, while drummer [PERSON_NAME_FULL_1_FEMALE] and vocalist Adrienne Droogas have been active as writers.\n",
+      "[BAND_NAME] was founded by drummer Michelle \"Todd\" Gonzales, vocalist [PERSON_NAME_FULL_2_FEMALE], bassist [PERSON_NAME_FULL_0_FEMALE], and guitarist [PERSON_NAME_FULL_1_FEMALE]. [PERSON_NAME_FULL_0_FEMALE] left the band before the release of the Rasana 7\" EP and was replaced by Dominique Davison.\n",
+      "The band toured the United States, Europe, Australia, New Zealand, and Japan.  Their records were released on prominent punk rock labels Lookout Records, Allied Recordings, and Ebullition Records, including a [GENRE]"
+   ]
 }

@@ -59,5 +59,10 @@
          "Denish Chaudhuri",
          "Stefan Mark Anthony"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in Venice Beach, California, in [YEAR] by Michael Alvarado, [PERSON_NAME_FULL_0_MALE], Mike Jensen and [PERSON_NAME_FULL_1_MALE]. The group never gained a large mainstream success, but is considered one of the first bands that defined the \"Venice Scene\" in the [YEAR]s, along with Suicidal Tendencies, Los Cycos, Neighborhood Watch, No Mercy, Excel and Uncle Slam, who all played a mix of skate punk, hardcore, heavy metal and thrash.\n",
+      "As of [YEAR], [BAND_NAME] has released six studio albums. They split up in [YEAR], but reformed in [YEAR]. The band has had numerous line-up changes and Henderson has been the only constant member. Their classic line-up is Henderson (vocals), Mike Jensen (guitar), [PERSON_NAME_FULL_0_MALE] (bass) and Michael Alvarado (drums).\n",
+      "The band started in [YEAR] as Black Sheep with [PERSON_NAME_FULL_0_MALE] on vocals and guitar, former Neighborhood Watch guitar player Mike Jensen on guitar, [PERSON_NAME_FULL_1_MALE] on bass and Mike Jensen's cousin, [PERSON_NAME_FULL_2_MALE], on drums. The band played many parties, bars and clubs in Venice in [YEAR]–[YEAR] before [PERSON_NAME_LAST_2] became the band manager and was replaced by Michael Alvarado on drums in [YEAR], changing the name of the band to [BAND_NAME] or BWF (The F being inverted) as they wrote it in Venice \"graffiti slang\".\n"
+   ]
 }

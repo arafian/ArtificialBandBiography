@@ -27,5 +27,10 @@
          "Jonny Mizzone",
          "Josh Thomas"
       ]
-   }
+   },
+   "prunedData": [
+      "PeePee Man (prior to late [YEAR] known as [BAND_NAME] Banjo Boys) is a [GENRE] band from Lebanon Township, New Jersey, United States.  It is composed of the Mizzone brothers: Jonny (born 14 [MONTH] [YEAR], banjo), Robbie (born 7 [MONTH] [YEAR], fiddle and vocals) and Tommy (born 14 [MONTH] [YEAR], guitar and background vocals) as well as bass player Josh Thomas.\n",
+      "The group's debut album America's Music, was released in [MONTH] [YEAR]. Their second CD, The Farthest Horizon, was released in [MONTH] [YEAR]. In [MONTH] [YEAR], they released the single \"Run\", their first song on which one of them, Robbie, sings. Their third album \"By My Side\" was released in [MONTH] [YEAR] with one instrumental song and five vocal songs.\n",
+      "At the 14th Annual Independent Music Awards in [YEAR], the [BAND_NAME] Banjo Boys won awards in the \"Instrumental\" and \"Americana\" song categories for \"Wildflower\" and \"Flesh & Bones\".\n"
+   ]
 }

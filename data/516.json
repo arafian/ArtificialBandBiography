@@ -35,5 +35,10 @@
          "Robbie Barnett",
          "Scott Chappell"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (formerly, A Feast for Kings (AFFK)) is an American [PERSON_NAME_FIRST_0] metal band that also takes influences from Alternative metal and Post-hardcore. They come from Carrollton, Kentucky, where they were formed in [YEAR], with lead vocalist Eric Gentry. Eric's death in [YEAR] was the reasoning behind the band's name change, with '[BAND_NAME]' (Roman numerals for '21') being Eric's age at the time of his death. Their first extended play, Hell on Earth, was released in [YEAR], shortly before Eric's death, and under their former name. The debut studio album, Inside Out, was released with Carson Butcher as lead vocalist on Tooth & Nail Records in [YEAR]. This album was their breakthrough album on both the Billboard magazine [PERSON_NAME_FULL_0_MALE] and Heatseekers [PERSON_NAME_LAST_0] charts.\n",
+      "The band is from Carrollton, Kentucky, where they formed in [YEAR] under the name A Feast for Kings, with their members being lead vocalist, Eric Gentry; background vocalist and guitarist, [PERSON_NAME_FULL_1_MALE]; guitarist, Jamie King; bassist, [PERSON_NAME_FULL_0_MALE]; and drummer Carson Butcher. After Gentry's death, the group changed their name to [BAND_NAME] to memorialize his age at his time of death. Their drummer went on to become their lead vocalist, and the bassist took over on the drums.\n",
+      "The band commenced as a musical entity in [YEAR], with their first extended play, Hell on Earth, which was released on [MONTH] 17, [YEAR], as A Feast for Kings.  Their second release, Inside Out, a studio album, was released on [MONTH] 18, [YEAR], with Tooth & Nail Records. This album was their breakthrough release upon the Billboard magazine charts, where it placed at No. 20 on the Christian Albums, and No. 19 on the Heatseekers Albums.\n"
+   ]
 }

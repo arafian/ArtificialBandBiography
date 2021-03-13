@@ -26,5 +26,9 @@
          "Chase Becker",
          "Adrian Aguilar"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR], whose lyrics mostly deal with battles and war.\n",
+      "Timeline\n"
+   ]
 }

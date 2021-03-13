@@ -26,5 +26,10 @@
          "Peru Izeta",
          "Gorka Ochoa"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were an [GENRE] band from the Basque country, Spain, in existence between [YEAR] and [YEAR]. Having previously toured and released records under the name Aventuras de Kirlian, the group took a new direction as they hired a new member, Gorka Ochoa, to play the drums.\n",
+      "Together with La Buena Vida it was one of the main exponents of \"Donosti Sound\", a [GENRE]",
+      "In [YEAR] the Argentine band Suárez recorded the EP 29:09:00, consisting of 5 cover versions of [BAND_NAME] songs.\n"
+   ]
 }

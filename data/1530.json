@@ -41,5 +41,10 @@
       "Past members": [
          "Aoki Yutaka (guitar)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (also known as Vola) is a [GENRE] band formed by ex-Number Girl and Zazen Boys drummer Ahito Inazawa in [YEAR]. The group is named after the soccer team Vola F.C., which was also the name of the short-lived band formed by Inazawa before Number Girl's disbandment in [YEAR].\n",
+      "After parting ways with Zazen Boys due to creative differences in early [YEAR], drummer Ahito Inazawa formed [BAND_NAME]. Inazawa, well known for his maniac drumming in Number Girl, Zazen Boys and numerous other projects, surprised the Japanese rock scene by ditching his drumsticks and taking the position of a [GENRE] band. Aoki Yutaka from downy joined him on the guitar, Nakahata Daiki from Syrup16g was recruited to handle the drums and [PERSON_NAME_FULL_0_MALE] from Lost in Time on the bass guitar.\n",
+      "The band released their debut, a 7-track mini-album Waiting for My Food on [MONTH] 25, [YEAR]. The band's first full album Android: Like a House Mannequin was released [MONTH] 11, [YEAR]. The CD includes a remix of Yume Shindan produced by Polysics lead singer, [PERSON_NAME_FULL_0_MALE]. Music from the album was featured in a commercial for the popular Japanese magazine, PS (Pretty Style).\n"
+   ]
 }

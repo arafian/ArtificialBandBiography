@@ -30,5 +30,10 @@
       "Past members": [
          "Joe Brodie"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band formed in New York City in [YEAR] by Matthew Hitt (lead vocals, guitar), [PERSON_NAME_FULL_1_MALE] (lead guitar), Erik Lee Snyder (bass) and [PERSON_NAME_FULL_0_MALE] (drums). Their first release was the EP Between Us Girls which appeared in early [YEAR]. In [MONTH] [YEAR] their debut album [BAND_NAME] was released worldwide preceded by the single \"Luv, Hold Me Down\". In [YEAR], the band released their second album On Desire. The band has toured both North America and Europe.\n",
+      "The band was formed when Welsh-born Matthew Hitt moved to New York City in [YEAR] to pursue a [GENRE] a degree in English Literature, he found time to \"write and jam on  guitar every day\". He recruited three musicians and began rehearsing and recording the songs. Guitarist Jack Ridley is originally from the North West of the US while bass player [PERSON_NAME_FULL_0_MALE] grew up outside Philadelphia. On [MONTH] 4, [YEAR], [BAND_NAME] released their first EP Between Us Girls on the English label Birthday Records. The EP contains three short songs, including \"Long Hair\", oft cited as the lead track.\n",
+      "[PERSON_NAME_LAST_0]he band signed with a Frenchkiss Records, and began to record their first studio album in [MON[PERSON_NAME_LAST_0]H] [YEAR]. [PERSON_NAME_LAST_0]he album was produced by Gus Oberg and [PERSON_NAME_FULL_0_MALE], while recording took place over a three-week period. It received mixed reviews.\n"
+   ]
 }

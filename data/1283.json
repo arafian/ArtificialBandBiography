@@ -33,5 +33,10 @@
          " Zinny J. Zan ",
          " Stixx Galore"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band, originally from Skövde, Sweden formed by guitarist Harry Cody, bassist [PERSON_NAME_FULL_0_MALE], and drummer Stixx Galore. Cody and [PERSON_NAME_LAST_0] were the mainstays of the band, and along with various personnel released three albums—[BAND_NAME], Second Coming and Violent New Breed.\n",
+      "[BAND_NAME] disbanded in [YEAR]. \n",
+      "In [YEAR], the band formed in Skövde, Sweden as Kingpin with the lineup of local musicians [PERSON_NAME_FIRST_1] Skold (going by \"[PERSON_NAME_FULL_1_MALE]\") (bass), Harry K. Cody (guitar) and Pekka \"Stixx Galore\" (later simply \"Stixx\") Ollinen (drums), and original singer J.K. Knox ([PERSON_NAME_FULL_0_MALE]). The band recorded the album Welcome To Bop City released by CMM Records in [YEAR], which yielded a No. 1 single in Sweden called \"Shout It Out.\" In the US, the song rose to the top 100 of the Billboard Album Chart.\nDuring the recording of Welcome To Bop City, Knox was replaced by Easy Action singer Zinny J. Zan (vocals), after the latter auditioned.\n"
+   ]
 }

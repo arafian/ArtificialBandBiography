@@ -16,6 +16,7 @@ from urllib.request import urlopen
 import json
 import pandas
 from parse_infobox import parse_infobox
+from paragraph_placeholders import get_paragraph_placeholders
 
 
 def extractRawData(soup):
@@ -44,13 +45,13 @@ def createJSONData(url):
 
   extractRawData(soup)
   bandData["infobox"] = parse_infobox(soup)
-  allBandNames.append(bandData["Name"])
+  bandData["prunedData"] = get_paragraph_placeholders(bandData)
 
 def appendToConsolidatedData(): 
    for key in bandData:
-      if key == "rawData":
+      if key == "rawData" or key == "prunedData":
          for i in range(len(bandData[key])):
-            allKey = "all"+"Para_" + str(i)
+            allKey = "all"+"RawPara_" + str(i) if key == "rawData" else "all"+"PrunedPara_" + str(i)
             if allKey in consolidatedData:
                currData = consolidatedData[allKey]
                currData.append(bandData[key][i])
@@ -80,9 +81,6 @@ def appendToConsolidatedData():
 colnames = ['url']
 data = pandas.read_csv('list_of_bands.csv', names=colnames)
 urls = data.url.tolist()
-
-allBandNames = []
-allGenres = []
 
 consolidatedData = {}
 

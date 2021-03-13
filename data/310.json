@@ -25,5 +25,10 @@
          "Ida Nilsen",
          "Torben Wilson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were a [GENRE] band from Victoria, British Columbia, Canada. The group played a hybrid of punk, new wave and alternative country music. Band members included [PERSON_NAME_FULL_0_MALE] on vocals, guitar and banjo, Morgan McDonald on keyboards, [PERSON_NAME_FULL_1_MALE] on guitar and synthesizer, Torben Wilson on drums and [PERSON_NAME_FULL_2_FEMALE] on vocals, accordion, synthesizer and euphonium.\n",
+      "[BAND_NAME] were formed in [YEAR]. In [YEAR] they released a self-titled CD. Their third album, Death Scenes I II III came out in [YEAR], and had a country rock theme.\n",
+      "In [YEAR] the band released Where Night Holds Light on Mint Records, and the album soon appeared on the campus and community radio charts. They were featured on CBC Radio 3's Sessions in [MONTH] [YEAR].\n"
+   ]
 }

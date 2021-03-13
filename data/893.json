@@ -47,5 +47,10 @@
          "Brandon Burkhalter",
          "Lane Duskin"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band based in Dallas, Texas that formed in [YEAR].\n",
+      "[BAND_NAME] first achieved mainstream success when the guitar play-through of \"Impassion\", from the EP, Inspire, went viral on YouTube. The band continues to grow in popularity and have gone on several national tours sharing the stage with the likes of progressive metalcore giants such as Periphery, Between the Buried and Me, and [MONTH] Burns Red.\n",
+      "[BAND_NAME] has featured artists such as Jason Richardson (ex-Chelsea Grin, ex-Born of Osiris, ex-All Shall Perish and All That Remains), Aaron [MONTH]shall (Intervals), [MONTH]io Camarena (Chon), [PERSON_NAME_FULL_2_MALE] (Chon), Yvette Young (Covet), [PERSON_NAME_FULL_1_MALE], Nick Johnston, [PERSON_NAME_FULL_0_MALE], Lewis Grant, Ichika Nito and [PERSON_NAME_FULL_3_MALE].\n"
+   ]
 }

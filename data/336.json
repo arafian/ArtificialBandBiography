@@ -27,5 +27,10 @@
          "Max Myth",
          "Shawn Dicey"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band based in Vancouver, British Columbia and later Sudbury, Ontario. The core of the band consists of [MONTH]k Browning on lead vocals and guitar, Ryan Bishops on guitar and piano, [PERSON_NAME_FULL_0_MALE] on bass and Max Myth on drums. [PERSON_NAME_FULL_1_MALE], [PERSON_NAME_FULL_2_MALE], [PERSON_NAME_FULL_3_MALE] and the members of Be Good Tanyas are among the band's frequent guest collaborators.\n",
+      "[BAND_NAME] was formed in Vancouver in [YEAR] after Browning and Bishops moved there from Sudbury. The band released its debut album, Dust Bowl Revival, in [YEAR]. The album was popular on Canadian campus radio where it reached No. 1 across Canada (#56 in the USA CMJ Chart), and the band toured across Canada, the United States and Europe to support the album.\n",
+      "In [YEAR] the band released a [GENRE] band Kid Lightning.\n"
+   ]
 }

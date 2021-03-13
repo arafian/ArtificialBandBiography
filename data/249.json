@@ -34,5 +34,10 @@
          "Bob Warford",
          "Bobby Crane"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] were a [GENRE] band that was popular during the American folk music revival of the early [YEAR]s. Formed in Burbank, California in [YEAR], the group released two albums, The New Sound of Bluegrass America ([YEAR]) and Appalachian Swing! ([YEAR]). The band featured the influential [GENRE] guitarist Clarence White, who was largely responsible for making the acoustic guitar a lead instrument within [GENRE], and who later went on to join the Los Angeles rock band the Byrds.  The [BAND_NAME] disbanded in late [YEAR], with two short-lived reunions taking place in [YEAR] and [YEAR].\n",
+      "In [YEAR], the three White brothers, Roland (mandolin), Clarence (acoustic guitar), and Eric Jr. (banjo and double bass) formed a [GENRE] a talent contest early on in their career, on radio station KXLA in Pasadena, and, by [YEAR], had managed to attract the interest of country guitarist [PERSON_NAME_FULL_0_MALE].  With [PERSON_NAME_LAST_0]'s help, the Three Little Country Boys made several appearances on the popular television program Town Hall Party.\n",
+      "As a [GENRE] an entirely bluegrass repertoire.  In [YEAR], banjoist Billy Ray Latham and Dobro player LeRoy Mack were added to the line-up, with the group renaming themselves the Country Boys soon after.  In [YEAR], bassist [PERSON_NAME_FULL_1_MALE] replaced Eric Jr., who had left the band to get married.  That same year, the quartet had become popular enough to appear twice on The [PERSON_NAME_FULL_0_MALE].  Between [YEAR] and [YEAR], the Country Boys released three singles on the Sundown, Republic and Briar International record labels.\n"
+   ]
 }

@@ -5,5 +5,10 @@
       "Amy Pickering had been involved in the D.C. hardcore scene as a high school student at H-B Woodlawn. She then went on to work at Dischord Records.  On her first day of work there, she tore down a sign that said \"No Skirts Allowed\".\n",
       "Fire Party released a six-song self-titled mini-LP, an eight-song album (New Orleans Opera) while together. They played some Midwest shows with Scream, and in early 1988, they toured Europe with them and also supported That Petrol Emotion. While in Europe, they recorded a session for John Peel's BBC Radio 1 show.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] were a band from Washington, D.C. They were together from the autumn of [YEAR] to the spring of [YEAR].  The band members were [PERSON_NAME_FULL_1_FEMALE] (vocals), [PERSON_NAME_FULL_0_FEMALE] (guitar), Kate Samworth (bass), and Nicky Thomas (drums).\n",
+      "Amy Pickering had been involved in the D.C. hardcore scene as a [GENRE] a sign that said \"No Skirts Allowed\".\n",
+      "[BAND_NAME] released a [GENRE] an eight-song album (New Orleans Opera) while together. They played some Midwest shows with Scream, and in early [YEAR], they toured Europe with them and also supported That Petrol Emotion. While in Europe, they recorded a session for [PERSON_NAME_FULL_0_MALE]'s BBC Radio 1 show.\n"
+   ]
 }

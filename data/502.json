@@ -25,5 +25,10 @@
          "Evan Crowley",
          "Reed Corbin"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (styled as subseven) is a [GENRE] band formed in [YEAR] in Weatherford, Oklahoma. They played in the Midwest for four years as an independent, where they released one album and one EP and gained a large local fan base. In [YEAR], they signed a record deal with Flicker Records and soon after released subseven: the EP. One year later they released their final album, Free to Conquer. \n",
+      "The band's members included Wesley Fite, [PERSON_NAME_FULL_0_MALE], Reed Corbin, [PERSON_NAME_FULL_1_MALE] and Jake Sullivan before their breakup in [MONTH] [YEAR]. Ever since their breakup in [YEAR], the band members engaged in other musical activities, including bands and solo projects.  In [MONTH] [YEAR], their bass guitarist, Reed Corbin, died from a [GENRE]",
+      "In [YEAR], the band announced that they would be reuiniting.\n"
+   ]
 }

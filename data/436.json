@@ -27,5 +27,10 @@
          " Conrad Tolosa",
          " Jamie Tolosa"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Fairfax, Virginia. The band formed in [YEAR], signed to Tooth & Nail Records in [YEAR], and disbanded in [YEAR].\n",
+      "Joel Bell, Adam Neubauer, and [PERSON_NAME_FULL_1_MALE] formed the group in [YEAR]. Conrad [PERSON_NAME_LAST_2] and [PERSON_NAME_FULL_0_MALE], who also went to the same youth group, joined the band shortly after. [PERSON_NAME_FULL_1_MALE] left the band after one year to pursue other interests. Conrad's cousin, [PERSON_NAME_FULL_2_FEMALE], was asked to join the band soon after. In [YEAR] they started to develop their pop-punk sound. The group released two independent EPs in [YEAR] and [YEAR], both produced by Kevin 131 at Assembly Line Studios. They built a following primarily in central Pennsylvania. [BAND_NAME] signed to Tooth and Nail Records in [YEAR], then released four albums: Sumo Surprise, Banana Man, Songs We Didn't Write, and Two Years To Never.\n",
+      "Conrad, the guitarist and a [GENRE] band, decided to leave [BAND_NAME] after the release of \"Banana Man\" and the subsequent tour promoting its release.  He left the band when the band began to tour full-time so he could finish seminary and continue with his accounting career. His last show was in the fall of [YEAR] at a show promoted by Javacasa in Lebanon, PA. [MONTH]k Lacasse joined on lead guitar in [YEAR] and helped to  write and record \"Two Years to Never\". Christian Ergueta left the band sometime after the recording of \"Two Years to Never\" with [MONTH]k leaving a few months later.\n"
+   ]
 }

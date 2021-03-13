@@ -37,5 +37,10 @@
          "Germán Vilella",
          " Daniel Zamora (†)"
       ]
-   }
+   },
+   "prunedData": [
+      "\n[BAND_NAME] were a [GENRE] band composed of two Argentines, two Spaniards and one Puerto Rican that played during the [YEAR]s.\n",
+      "The group was born in [YEAR] when Ariel Rot and [MONTH]ián Infante (members of the famous group Tequila) joined [PERSON_NAME_FULL_1_MALE], from the band Los Abuelos de la Nada, and [PERSON_NAME_FULL_0_MALE]. They started touring around small clubs in Madrid.\n",
+      "In [YEAR] their first album, Buena Suerte, was released .\n"
+   ]
 }

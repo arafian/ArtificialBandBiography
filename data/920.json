@@ -34,5 +34,9 @@
          "Kirk Covington",
          "Phil Nicholas"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band, originally formed in [YEAR] by guitarist Scott Henderson and bass player [PERSON_NAME_FULL_1_MALE]. From [YEAR] forward the band included Scott Kinsey on keyboard and [PERSON_NAME_FULL_0_MALE] on drums, and has produced nine albums that stretch the borders between blues, jazz, and rock. The band dissolved following the release of [YEAR]'s Rocket Science, with the various members pursuing solo careers. However, they re-formed to release another album, X, in [YEAR].\n",
+      "Members:\n"
+   ]
 }

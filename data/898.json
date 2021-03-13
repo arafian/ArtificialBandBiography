@@ -30,5 +30,8 @@
          "Jin Harada",
          "Youichi Okabe"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band founded in [YEAR] in Tokyo by former Boredoms guitarist Seiichi Yamamoto, Bondage Fruit electric violinist [PERSON_NAME_FULL_2_MALE], and synthesizer/effects technician [PERSON_NAME_FULL_4_MALE], and featuring [PERSON_NAME_FULL_0_MALE] on drums and percussion, [PERSON_NAME_FULL_1_MALE] on drums and percussion, and [PERSON_NAME_FULL_5_FEMALE] on bass guitar.  [BAND_NAME] defines their music as \"man-drive trance,\" and many of their compositions have a repetitive minimalism, blended with progressive rock and psychedelic music, related to the style of bands such as Gong, Neu!, and Simple Minds (circa [YEAR]).  They collaborated with Gong guitarist (and former Simple Minds producer) [PERSON_NAME_FULL_3_MALE]'s group System 7 on the [YEAR] album \"Phoenix Rising\". \n"
+   ]
 }

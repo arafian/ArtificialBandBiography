@@ -17,5 +17,9 @@
       "Labels": [
          "Posh Boy Records, Slag Records, Hostage Records, Grand Theft Audio Records, Finger Records"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Southern California, United States. Formed in [YEAR] by Kerry [MONTH]tinez, currently guitarist for U.S. Bombs, and Spencer Bartsch, now lead vocalist for Firecracker 500, the group featured songs with a political and biblical bent. [BAND_NAME] emerged from the Southern California punk scene, among the more notable bands China White and The Vandals, along with other SoCal punk rock bands.\n",
+      "\n"
+   ]
 }

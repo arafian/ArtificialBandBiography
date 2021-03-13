@@ -36,5 +36,10 @@
          "Wes Bailey",
          "Tyler Ritter"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band based in Nashville, Tennessee. The band was founded in [YEAR] by [PERSON_NAME_FULL_0_MALE] (vocals, guitar), [PERSON_NAME_FULL_1_MALE] (bass), Spencer Thomson (guitar, programming), [PERSON_NAME_FULL_2_MALE] (drums), and Wes Bailey (keys) while attending Belmont University.\n",
+      "The band has released six studio albums: Melodica, Cabaret, Mountains Beaches Cities, Daybreaker, and Let the Record Play, and [PERSON_NAME_FULL_0_MALE]. [BAND_NAME] signed to RCA Records in [YEAR].\n",
+      "[BAND_NAME] has appeared on The Late Show with David Letterman, Conan, Late Night with [PERSON_NAME_FULL_0_MALE], and most recently Jimmy Kimmel Live.\n"
+   ]
 }

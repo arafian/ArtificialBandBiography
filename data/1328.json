@@ -5,5 +5,10 @@
       "The band consisted of four members:\n",
       "Lifelong friends Ray Simone and Martin Lee, together with Dave Sumeray (who was the bass player with Simone and Lee in a band called Woodfog) placed an advert in Melody Maker in an attempt to recruit bandmates at an open audition. An astounding number of enthusiastic musicians queued patiently waiting their turn to prove their worth; ultimately Edwards' natural vocal flair, Wilkin's 'Wilkey Fingers' and, after Dave Sumeray decided to quit the band and the music business, Steed's conquering bass prevailed to form Masterswitch.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "\n[BAND_NAME] was an [GENRE] band active in the late [YEAR]s.\n",
+      "The band consisted of four members:\n",
+      "Lifelong friends Ray Simone and [MONTH]tin Lee, together with [PERSON_NAME_FULL_0_MALE] (who was the bass player with Simone and Lee in a band called Woodfog) placed an advert in Melody Maker in an attempt to recruit bandmates at an open audition. An astounding number of enthusiastic musicians queued patiently waiting their turn to prove their worth; ultimately Edwards' natural vocal flair, Wilkin's 'Wilkey Fingers' and, after [PERSON_NAME_FULL_0_MALE] decided to quit the band and the music business, Steed's conquering bass prevailed to form [BAND_NAME].\n"
+   ]
 }

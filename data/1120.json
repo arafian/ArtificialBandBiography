@@ -47,5 +47,10 @@
          "Steve Vai",
          "Danny Johnson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR] by Graham Bonnet, [PERSON_NAME_FULL_2_MALE] and Gary Shea. They are best known for their songs \"Island in the Sun\" and \"God Blessed Video\", and have gone through a number of line-up changes, leaving Bonnet as only member to be in every incarnation of [BAND_NAME] until his split with the band in [YEAR]. They are also notable for featuring a previously-unknown Yngwie Malmsteen, who was the guitarist of [BAND_NAME] during [YEAR]–[YEAR], and was subsequently replaced by [PERSON_NAME_FULL_0_MALE], Danny Johnson, and currently by [PERSON_NAME_FULL_1_MALE].\n",
+      "After breaking up in [YEAR], and reuniting for occasional live performances between [YEAR] and [YEAR], [BAND_NAME] reformed once more in [YEAR] under Bonnet and Waldo, and Shea would rejoin the band shortly. To date, the band has released four studio albums: No Parole from Rock 'n' Roll ([YEAR]), Disturbing the Peace ([YEAR]), Dangerous Games ([YEAR]) and Born Innocent ([YEAR]). Several months after the release of Born Innocent, [BAND_NAME] announced that they had parted ways with Bonnet, who was replaced by Doogie White; however, Bonnet later announced that he is intending to move forward with his own version of [BAND_NAME], with a new lineup to be announced in the spring of [YEAR] and a new album in the works.\n",
+      "The band's initial line-up consisted of former Rainbow singer frontman Graham Bonnet, young Swedish guitarist Yngwie Malmsteen, who had recently left the American band Steeler, Gary Shea and [PERSON_NAME_FULL_0_MALE] from New England and Clive Burr of Iron Maiden fame. Burr was reportedly only in the band for a [GENRE] band was going to be based in the United States, as opposed to his native England. Burr was soon replaced by former Iron Butterfly drummer [MONTH] Uvena, who had just left Alice Cooper's backing band. Shea dubbed the group \"[BAND_NAME]\". For the first album, the bulk of the material was written by Bonnet and Malmsteen, with [PERSON_NAME_LAST_0] contributing to several tracks.\n"
+   ]
 }

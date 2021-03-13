@@ -42,5 +42,10 @@
          "Joey Garibaldi",
          "Mike Carter"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in Hollywood, Los Angeles, California, United States, in [YEAR] by the brothers [MONTH]k, Adam, and Shawn Stern. The band subsequently founded BYO (Better Youth Organization). Many later punk bands cite [BAND_NAME] as an influence, including The Nation of Ulysses and The Briefs.\n",
+      "[BAND_NAME] has released five studio albums (counting one released as The Brigade), of which the last was released in [YEAR]. Almost each album was recorded with the original lineup of the Stern brothers ([MONTH]k, Adam and Shawn); bassist Bob Gnarly replaced Adam in [YEAR] during the recording of The Dividing Line, which was released as The Brigade. Adam returned in [YEAR] (when the band reunited) and contributed to the band's [YEAR] EP Come Again and their next two albums (Happy Hour and To Sell the Truth) before leaving once again in [YEAR]. [BAND_NAME] continues to tour to this day, although, other than six new tracks on the [YEAR] split album BYO Split Series Volume II, they have not released a full-length studio album since To Sell the Truth in [YEAR].\n",
+      "The Stern family, consisting of older brothers Shawn (guitar and vocals) and [MONTH]k (drums) and younger brother Adam (who would later play bass), moved from Toronto, Canada to Los Angeles in [YEAR], because their father worked in the film industry.  As teenagers, Shawn and [MONTH]k were surfers who would skip school to smoke marijuana and attend rock concerts. At 16 and 17, they played in their first band, called Mess, which would play Led Zeppelin and [PERSON_NAME_FULL_0_MALE] covers at parties. A year later in [YEAR], they discovered punk rock, and formed a [GENRE] band called The Extremes, releasing a four-song EP in which Shawn would sing with a fake English accent.\n"
+   ]
 }

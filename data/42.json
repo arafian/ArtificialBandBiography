@@ -24,5 +24,10 @@
       "Past members": [
          "See band members section"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from San Francisco, California, formed in [YEAR]. The band released three studio albums, toured in United States, Europe and disbanded in [YEAR]. The classic lineup of [BAND_NAME] consisted of vocalist Leo Miller, guitarists [PERSON_NAME_FULL_0_MALE] and Chase Fraser, bassist [PERSON_NAME_FULL_1_MALE] and drummer Navene Koperweis.\n",
+      "[BAND_NAME] formed in  [YEAR] in San Francisco, California. They released their debut album, Shut It Down, on Tribunal Records in [YEAR], when the members of the band were 16 and 17 years old. In [YEAR], they released their second disc, Empires, on Black [MONTH]ket Activities (with distribution through Metal Blade Records) and toured the United States with Origin and Malevolent Creation. Their third album, Animal, was produced by [PERSON_NAME_FULL_0_MALE] of Converge and released in [MONTH] [YEAR]. They have also toured Europe with Converge and Belgian hardcore/punk band Rise and Fall. [BAND_NAME] disbanded officially after nearly a year of non-activity in [MONTH] [YEAR]. The band's frontman Leo Miller stated that their \"musical and experiential goals have been exceeded\" and: \"If you haven't gotten enough of [BAND_NAME], please rest assured that we have.\"\n",
+      "According to Blabbermouth.net, on their debut album, Shut It Down, [BAND_NAME] \"mixed a death metal based sound with thrash and hardcore, (...) incorporating the brutal aspects of  styles with accomplished musicianship and little concern for mass appeal\", while their following album, Empires, went into an even more death metal-oriented direction.\n"
+   ]
 }

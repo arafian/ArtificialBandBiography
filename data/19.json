@@ -46,5 +46,10 @@
          "Andrew Wood",
          "Regan Hagar"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band that formed in Seattle, Washington, in [YEAR]. The band was active from [YEAR] to [YEAR]. Frontman Andrew Wood's personality and lyrics helped to catapult the group to the top of the burgeoning late [YEAR]s/early [YEAR]s Seattle music scene. Wood died only days before the scheduled release of the band's debut album, Apple, thus ending the group's hopes of success. The album was finally released a few months later.\n",
+      "As well as being influential to grunge, they are also considered early pioneers in the alternative metal genre.\n",
+      "[BAND_NAME] was established in [YEAR] by ex-Green River members Jeff Ament, [PERSON_NAME_FULL_2_MALE] and Stone Gossard, ex-Malfunkshun frontman [PERSON_NAME_FULL_1_MALE] and ex-Ten Minute Warning and Skin Yard drummer [PERSON_NAME_FULL_0_MALE]. Initially, the group was formed in [YEAR] out of the cover band Lords of the Wasteland which featured [PERSON_NAME_LAST_1], Gossard, Ament and Malfunkshun drummer [PERSON_NAME_FULL_3_FEMALE]. By early [YEAR] the band had added [PERSON_NAME_LAST_2], replaced [PERSON_NAME_LAST_3] with drummer [PERSON_NAME_FULL_0_MALE] and changed its name to [BAND_NAME].\n"
+   ]
 }

@@ -27,5 +27,10 @@
       "Past members": [
          "Alan Hertz"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band formed in [YEAR] that combines jazz, rock, Indian music, and funk. The band consists of Fareed Haque (guitar), [PERSON_NAME_FULL_1_MALE] (bass), [PERSON_NAME_FULL_0_MALE] (drums), and Eric Levy (keyboards). [BAND_NAME] allows its music to be recorded at concerts.\n",
+      "In early [YEAR], Mahal's Blueberry Cave won Best Jam Album in the 6th Annual Independent Music Awards \n",
+      "This article about an [GENRE] a stub. You can help Wikipedia by expanding it."
+   ]
 }

@@ -31,5 +31,10 @@
          "Aaron Sleator",
          "Todd Hill"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Madison, Wisconsin formed in [YEAR]. Formerly on the Madison-based record label Layered Music (the label of Youngblood Brass Band, of which drummer D.H. Skogen is also a member), [BAND_NAME] is now signed to London label [PERSON_NAME_FULL_0_FEMALE]. [BAND_NAME] toured the United States, Europe and the UK on the release of their debut album Law during early [YEAR], including a well-received show in Madison.\n",
+      "Law is [BAND_NAME]'s début album. It was recorded at Layered Studios in Madison and released by Layered Music in Europe in [MONTH] [YEAR], and in America release was one year later, on [MONTH] 20, [YEAR]. It was distributed by Play It Again Sam.\n",
+      "All tracks written by [BAND_NAME].\n"
+   ]
 }

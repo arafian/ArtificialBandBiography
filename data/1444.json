@@ -27,5 +27,10 @@
       "Associated acts": [
          "Coke Studio, Simon Phillips (drummer), Roman Miroshnichenko, Charlie Bisharat, Stuart Hamm, Haroon, Faakhir, Shiraz Uppal, Najam Sheraz, Mizmaar, Raeth, Usman Riaz, Pepsi Battle of the Bands, Acoustic Station"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band Mizmaar. Born in Karachi, Kashan has performed with many renowned musicians including the Grammy nominated drummer and music producer Simon Phillips (drummer). He took to keyboards with he was only 5 years old and by the time he reached 4th grade, he had composed his first song.\n",
+      "[BAND_NAME] began his mainstream career with his band Mizmaar and he released his debut album Kash in [YEAR]. In his career, Kashan has performed with renowned musicians of Pakistan including Strings, Najam Sheraz, Haroon, [MONTH]oon (band) Strings, Faakhir, Shuja Haider, and many others. He is also the founder and owner of state of the art music production facility Dream Station Productions located in Karachi. [BAND_NAME] has had many accolades in the world of music including his song Sitara featuring in Hollywood movie Dragon War. He has also been producing music of various TVCs for multiple brands. He has also produced the debut album for the band Raeth (band). He has also produced songs and albums for multiple artists like Najam Sheraz, Haroon, [PERSON_NAME_FULL_0_MALE], and others. \n",
+      "[BAND_NAME] formed Mizmaar in [YEAR] with drummer [PERSON_NAME_FULL_0_MALE], bassist Russell Owen, and vocalist Rehan-ul-Haq. The band also performed in Pepsi Battle of the Bands in [YEAR]. Post Pepsi Battle of the Bands, Rehan-ul-Haq parted ways and Daniyal Badshah joined Mizmaar as the vocalist. The band has released two albums Kash and Sitara. Their second album Sitara was released by Universal Music India. \n"
+   ]
 }

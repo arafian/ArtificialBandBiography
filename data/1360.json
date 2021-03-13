@@ -27,5 +27,10 @@
          "Nate Pearson (2016 to 2018)",
          "Pierre Anders (2018 to 2019)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (German for \"Earthling\") are a [GENRE] band founded in [YEAR] from former band members of the band Stahlmann.\n",
+      "The band members include [PERSON_NAME_FULL_1_MALE] (vocals, guitar, programming), Neno Knuckle (guitar), [PERSON_NAME_FULL_0_MALE] (drums), and Robin Sem Vedrfölnir (bass guitar).\n",
+      "Singer [PERSON_NAME_FULL_0_MALE]\n"
+   ]
 }

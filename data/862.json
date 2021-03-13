@@ -49,5 +49,10 @@
          "Andrew Gerfers",
          "Mike Semple"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band featuring members of Giant Sand, Calexico, and Naked Prey. The band combines Americana with electronica, ambient, lounge, psychedelia and dub and intertwines surf rock-inspired lead guitars.\n",
+      "The band was formed in Tucson, Arizona as an experimental side-project by various members of Giant Sand, Calexico and Naked Prey. Their debut album, The Shadow of Your Smile, was released on the Sub Pop label in [YEAR].\n",
+      "[BAND_NAME] have gone through a [GENRE] band includes Bill Elm on steel guitar and organ, [PERSON_NAME_FULL_2_MALE] on guitar, [PERSON_NAME_FULL_0_MALE] on percussion, [PERSON_NAME_FULL_1_MALE] on drums and Thøger Tetens Lund on bass. Former members Burn and Convertino started the band Calexico.\n"
+   ]
 }

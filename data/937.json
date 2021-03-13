@@ -24,5 +24,10 @@
          "Reed Mathis",
          "Aron Magner"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR] by Grateful Dead drummer [PERSON_NAME_FULL_1_MALE], [PERSON_NAME_FULL_2_MALE]'s Almost Dead guitarist Tom Hamilton, [PERSON_NAME_FULL_0_FEMALE] bassist Reed Mathis and the Disco Biscuits keyboardist [PERSON_NAME_FULL_3_MALE].\n",
+      "In [MONTH] [YEAR] Bill Kreutzmann appeared at the second annual Lockn' Festival with a [GENRE] band was assembled to help fill in for [PERSON_NAME_FULL_1_MALE] & RatDog who cancelled their appearance at the festival and it consisted of Kreutzmann, Hamilton, Magner, Oteil Burbridge and [PERSON_NAME_FULL_0_MALE]. They were joined for some songs by special guests Keller Williams, Taj Mahal, and Papa Mali.\n",
+      "In late [YEAR] Kreutzmann announced the formation of [BAND_NAME] which consists of almost the same lineup as the Locknstep Allstars, without [PERSON_NAME_FULL_0_MALE] and with Reed Mathis playing bass in place of Oteil Burbridge. They performed their first concert on [MONTH] 13 at the 26th Warren Haynes Christmas Jam, where they were joined by special guests such as Col. [PERSON_NAME_FULL_1_MALE] and Warren Haynes.\n"
+   ]
 }

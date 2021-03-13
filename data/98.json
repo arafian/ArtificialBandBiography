@@ -24,5 +24,10 @@
       "Past members": [
          "Jerry Martini, Greg Eckler, Brad Gillis, Max Haskett, Dennis Marcellino, Jim Pugh, Jack Blades, Johnny Colla, Chuck Crenshaw, J.P. Michaels, David Christians, Randy Newhouse."
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band, whose \"I'm Gonna Take Care of Everything\" spent 11 weeks on the Billboard Hot 100 in [YEAR], peaking at number 28.\n",
+      "[BAND_NAME] was formed in San Francisco by Jerry [MONTH]tini, who was an original member of Sly & the Family Stone. Other members of the group included [PERSON_NAME_FULL_4_MALE] (vocals, drums), Brad Gillis (guitar), [PERSON_NAME_FULL_2_MALE] (lead vocals, horns), Dennis [MONTH]cellino (sax, vocals), [PERSON_NAME_FULL_3_MALE] (keyboards), Jack Blades (bass) and [PERSON_NAME_FULL_0_MALE] (guitar). Their first album, the self-titled [BAND_NAME], released in [YEAR], generated their only chart single.  They released a second album in [YEAR], entitled America Dreams, before disbanding. Drummer Kelly Keagy was brought on as a touring drummer before the breakup. Keagy, Gillis and Blades went on to form the successful band [PERSON_NAME_FULL_1_FEMALE]. [PERSON_NAME_FULL_0_MALE] would become a founding member of Huey Lewis and the News.\n",
+      "[BAND_NAME] reformed in the early [YEAR]s as a [GENRE] band with [PERSON_NAME_FULL_0_MALE] (drums), Chuck Crenshaw (keyboards), J.P. Michaels (vocals, bass guitar), [PERSON_NAME_FULL_1_MALE] (vocals, lead guitar), and Randy Newhouse (guitar). This version of [BAND_NAME] produced one CD called Best of [BAND_NAME], and a single \"Whipping Boy\", written by Michaels and Crenshaw.\n"
+   ]
 }

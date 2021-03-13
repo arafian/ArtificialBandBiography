@@ -32,5 +32,10 @@
       "Past members": [
          "Jesús Mateos, Miguel Baleato"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band comprising three members: Álvaro on guitar and vocals, Polo on drums, and Pablo on bass.\n",
+      "After Álvaro, a [GENRE] a serious injury, he began to play guitar and compose songs during his rehabilitation period. He finally quit football and created a band called PIG NOISE. The group later used many of the songs he composed while in rehabilitation. Later Polo, another former soccer player for Real Zaragoza and other teams, joined the group. The last to join was Pablo, a student who had come from Asturias to Madrid to study theater. Their popularity increased sharply after appearing in a very well known Spanish show, Los hombres de Paco.\n",
+      "During the elections in the Basque Autonomous Community the band played in a [GENRE] band has been heavily criticized after that, but during an interview for 20minutos.es, the bandmembers said that they thought it was just an event for young people created by Partido Popular and concluded saying that they'll never play in a political meeting again.\n"
+   ]
 }

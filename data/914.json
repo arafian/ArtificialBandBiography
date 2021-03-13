@@ -18,5 +18,10 @@
       "Website": [
          "facebook.com/thispatchofskymusic"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were an [GENRE] band, formed in [YEAR] in Eugene. The band typically composed cinematic instrumental pieces that combine subtle-nuanced melodies and wall-of-sound guitars to create a symphonic landscape.  The band was signed to German indie label Oxide-Tones in [YEAR] and released \"The Immortal, The Invisible\" and \"Newly Risen, How Brightly You Shine\".  In [YEAR] Oxide-Tones became extinct, resulting in the band releasing full-length album \"Heroes and Ghosts\" independently.  In [MONTH] [YEAR], the band released a full length self-titled album independently. In [MONTH] [YEAR], the band signed with Graphic Nature Records, an imprint of Equal Vision Records and released a full length \"These Small Spaces\". In [MONTH] [YEAR], they disbanded. \n",
+      "On [MONTH] 30, [YEAR] [BAND_NAME]'s studio album Heroes and Ghosts was chosen as AmpKicker's Top 20 albums of [YEAR].\n",
+      "In [MONTH] [YEAR], [BAND_NAME] was voted as \"Most Improved Artist\" in the annual Postrockstar [YEAR] Year End awards.\n"
+   ]
 }

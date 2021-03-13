@@ -48,5 +48,10 @@
       "Past members": [
          "See members section"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in Los Angeles in [YEAR]. Led by Arthur Lee, [BAND_NAME] was one of the first racially-diverse American rock bands. Their style drew from an eclectic range of sources including hard rock, blues, jazz, flamenco, and orchestral pop.\n",
+      "While finding only modest success on the music charts, peaking in [YEAR] with their only Top 40 hit \"7 and 7 Is\", [BAND_NAME] would come to be praised by critics as their third album, Forever Changes ([YEAR]), became generally regarded as one of the best albums of the [YEAR]s. It was added to the Library of Congress's National Recording Registry in [YEAR].\n",
+      "Singer/multi-instrumentalist Arthur [PERSON_NAME_LAST_1], who was originally from Memphis, Tennessee but had lived in Los Angeles since the age of five, had been recording since [YEAR] with his bands the LAG's and [PERSON_NAME_LAST_1]'s American Four. He wrote and produced the single \"My Diary\" for [PERSON_NAME_FULL_1_FEMALE] in [YEAR], which featured Jimi Hendrix on guitar. The Sons Of Adam, which included future [BAND_NAME] drummer [PERSON_NAME_FULL_0_MALE], recorded the [PERSON_NAME_LAST_1] composition \"Feathered Fish\". After attending a performance by the Byrds, [PERSON_NAME_LAST_1] decided to form a band that joined the newly minted folk-rock sound of the Byrds to his primarily rhythm and blues style.\n"
+   ]
 }

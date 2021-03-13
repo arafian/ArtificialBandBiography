@@ -44,5 +44,10 @@
          "Eric Krasno",
          "Neal Evans"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band that originated in Boston, Massachusetts in [YEAR]. Its members are guitarist [PERSON_NAME_FIRST_1] \"Shmeeans\" Smirnoff, Nigel Hall (keyboards, Hammond B-3 organ, piano, vocals), [PERSON_NAME_FULL_1_MALE] (drums/percussion), Erick \"Jesus\" Coomes (bass), [PERSON_NAME_FULL_0_MALE] (saxophone) and trumpeter Eric \"Benny\" Bloom.\n",
+      "[BAND_NAME] began in the summer of [YEAR], when all of its members attended a [GENRE] bands including Herbie Hancock, Earth, Wind and Fire, and Tower of Power, the band jammed throughout that summer before going their separate ways.\n",
+      "In the fall of [YEAR], the band reconvened as undergrads at Berklee and attempted to play at various Boston jazz clubs, walking in and asking the club owners and other musicians if they would \"let us play\", giving birth to the name [BAND_NAME]. Matt Butler played keyboards with the band early on and then [PERSON_NAME_FULL_0_MALE] took on the role. When he left, Neal Evans joined.\n"
+   ]
 }

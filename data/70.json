@@ -34,5 +34,10 @@
          "James Smith",
          "Dave Dupuis"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Los Angeles and [PERSON_NAME_FULL_0_MALE].\n",
+      "The band was formed in [YEAR] by lead singer [PERSON_NAME_FULL_0_MALE]. Initially, the band only consisted of [PERSON_NAME_LAST_0] working with members of Fuck and Pavement when they released their debut album Brilliant Career, on MeToo! records in [YEAR]. Jason Ruck (keyboards), Nyles Lannon (guitar), [PERSON_NAME_FULL_1_MALE] (bass guitar), and Ben Montesano (drums) joined the band on a [GENRE]",
+      "In [YEAR], the band released Alwaysnever, an [GENRE] a record label founded by Scott Kannberg from the band Pavement. [PERSON_NAME_FULL_0_MALE] later replaced Montesano on drums. Their self-titled album was released in [MONTH] [YEAR] on Beggars Banquet Records. [BAND_NAME] has also provided music for a series of short films by Demetri [MONTH]tin, known collectively as \"Clearification\", an advertising campaign for Windows Vista.\n"
+   ]
 }

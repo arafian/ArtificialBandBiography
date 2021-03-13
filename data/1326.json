@@ -5,5 +5,10 @@
       "Between 1992 and 1995, Hooton Three Car recorded three sessions at Maida Vale Studios in London for broadcast on John Peel's BBC Radio 1 show. These recordings were compiled on the band's 43-song discography released by Crackle! Records.\n",
       "The name of the band derives from the indicators often seen on Merseyrail Wirral Line stations showing that the next train is a 3 coach train to Hooton.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "\n[BAND_NAME] was an [GENRE] band, formed in [YEAR] and active until [YEAR]. The band's members were Graham Williams (guitar, vocals), [PERSON_NAME_FULL_2_MALE] (guitar, vocals), [PERSON_NAME_FULL_0_MALE] (bass, vocals) and [PERSON_NAME_FULL_1_MALE] (drums, vocals). Their original drummer was Stephen Emm who left the band in [YEAR].\n",
+      "Between [YEAR] and [YEAR], Hooton Three Car recorded three sessions at Maida Vale Studios in London for broadcast on [PERSON_NAME_FULL_0_MALE]'s BBC Radio 1 show. These recordings were compiled on the band's 43-song discography released by Crackle! Records.\n",
+      "The name of the band derives from the indicators often seen on Merseyrail Wirral Line stations showing that the next train is a [GENRE]"
+   ]
 }

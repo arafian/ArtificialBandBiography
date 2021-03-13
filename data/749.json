@@ -31,5 +31,8 @@
          " Chris Juarez ",
          " Rachel Gagliardi"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band formed in [YEAR]. The band originally consisted of Ali Koehler on guitar and lead vocals, [PERSON_NAME_FULL_0_FEMALE] on lead guitar and vocals, Chris Juarez on bass, and [PERSON_NAME_FULL_1_FEMALE] on drums. After the recording and release of their debut album She's Gone, [PERSON_NAME_LAST_0] departed the band to work on other projects, with Lauren Freeman joining the band on lead guitar and [PERSON_NAME_FULL_2_FEMALE] on bass and vocals. Koehler is the former drummer of the bands Best Coast and Vivian Girls. [PERSON_NAME_LAST_1] rose to prominence as the drummer of Hole and currently also drums for the band Death Valley Girls.  The band released their debut album on Don Giovanni Records on [MONTH] 29, [YEAR].\n"
+   ]
 }

@@ -25,5 +25,10 @@
       "Past members": [
          "Amelia Cutler"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band, often described as riot grrrl, formed in London, England. The group consists of singer, songwriter and guitarist Delilah Holliday and drummer Ursula Holliday.\n",
+      "Sisters Delilah and Ursula Holliday had played together in a two piece called Typical Girls, before forming [BAND_NAME] with their cousin Amelia Cutler around [YEAR] whilst all were in their early teens. The name is a reference to feminist critique of the dieting industry. Amelia left the band in [YEAR]; the Holliday sisters continue as a two piece.\n",
+      "[BAND_NAME] performed their first gig in their early teens as the opening act for former Slits guitarist Viv Albertine. Since then, they have become known for bringing an updated approach to the feminist art punk ideals associated with the riot grrrl Movement of the [YEAR]s. They have been vocal about addressing the lack of female musicians that still exists in today's music industry, as well as other issues of equality under a contemporary feminist context.\n"
+   ]
 }

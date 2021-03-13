@@ -38,5 +38,10 @@
          "Davey French",
          "Robbie Hunter"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] band. Their music also includes some glam rock.\n",
+      "The band was founded in [YEAR] by lead singer Billy Hopeless and guitarist [PERSON_NAME_FULL_0_MALE], and at first, was called The Black [MONTH]ket Babies. They released their first album, Black Halos (Die Young Stay Pretty) in [YEAR].\n",
+      "The band went through a [GENRE] an album, The Violent Years, on Sub Pop Records in [YEAR]. They later signed with History Music. They performed at Canada Music Week in [YEAR].\n"
+   ]
 }

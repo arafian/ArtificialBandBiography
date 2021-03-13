@@ -5,5 +5,10 @@
       "In early 2003, Soulhat won the Austin Regional Poll in The 2nd Annual Independent Music Awards for their song \"Flat Feet\"\n",
       "Barry \"Frosty\" Smith (born March 20, 1946 in Bellingham, Washington) died after a long illness on April 12, 2017, at the age of 71.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAM[PERSON_NAME_LAST_0] is an [GENRE] band from Texas. The group formed in [Y[PERSON_NAME_LAST_0]R] around the nucleus of [PERSON_NAME_FULL_2_MALE], Bill Cassis, and [PERSON_NAME_FULL_3_MALE]; [P[PERSON_NAME_LAST_0]SON_NAM[PERSON_NAME_LAST_0]FULL_0_MAL[PERSON_NAME_LAST_0] \"Frosty\" Smith, who had previously played drums with Lee Michaels and Funkadelic, joined soon after: at first playing percussion alongside, and eventually replacing original drummer [PERSON_NAME_FULL_1_MALE]. Their self-released debut followed in [Y[PERSON_NAME_LAST_0]R], and was reissued after they signed to [PERSON_NAME_LAST_0]ic Records later that year. Their single \"Bonecrusher\" peaked at #25 on the Billboard Mainstream Rock charts. A follow-up studio album appeared in [Y[PERSON_NAME_LAST_0]R], and a third in [Y[PERSON_NAME_LAST_0]R].\n",
+      "In early [YEAR], [BAND_NAME] won the Austin Regional Poll in The 2nd Annual Independent Music Awards for their song \"Flat Feet\"\n",
+      "Barry \"Frosty\" Smith (born [MONTH] 20, [YEAR] in Bellingham, Washington) died after a long illness on [MONTH] 12, [YEAR], at the age of 71.\n"
+   ]
 }

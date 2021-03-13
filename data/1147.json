@@ -25,5 +25,10 @@
          "Willie Chambers",
          "Brian Keenan"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band, best known for their eleven-minute [YEAR] hit \"Time Has Come Today\". The group was part of the wave of new music that integrated American blues and gospel traditions with modern psychedelic and rock elements. Their music has been kept alive through heavy use in film soundtracks.\n",
+      "Originally from Carthage, Mississippi, the Chambers Brothers first honed their skills as members of the choir in their Baptist church. This set up ended in [YEAR] when the eldest brother George was drafted into the Army. George relocated to Los Angeles after his discharge, and his brothers soon settled there as well. As a foursome, they began performing gospel and folk throughout the Southern California region in [YEAR], but they more or less remained unknown until appearing in New York City in [YEAR].\n",
+      "Consisting of George ([MONTH] 26, [YEAR] - [MONTH] 12, [YEAR]) on washtub bass (later on Danelectro bass guitar), Lester (b. [MONTH] 13, [YEAR]) on harmonica, and Willie (b. [MONTH] 3, [YEAR]) and Joe (b. [MONTH] 22, [YEAR]) on guitar, the group started to venture outside the gospel circuit, playing at coffeehouses that booked folk acts. They played at places like The Ash Grove, a very popular Los Angeles folk club. It became one of their favorite haunts and brought them into contact with [PERSON_NAME_FULL_1_MALE], Ramblin' Jack Elliott, Reverend Gary Davis, and Barbara Dane. Dane became a great supporter, performing and recording with the brothers. With the addition of Brian Keenan ([MONTH] 28, [YEAR] – [MONTH] 5, [YEAR]) on drums, Dane took them on tour with her and introduced them to [PERSON_NAME_FULL_0_MALE], who helped put the Chambers Brothers on the bill of the [YEAR] Newport Folk Festival. One of the songs they performed, \"I Got It\", appeared on the Newport Folk Festival [YEAR] compilation LP, which was issued on the Vanguard label.\n"
+   ]
 }

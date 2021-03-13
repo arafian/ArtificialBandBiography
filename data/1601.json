@@ -19,5 +19,8 @@
       "Website": [
          "www.marlango.net"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band deeply influenced by Tom Waits. The members of the band are [PERSON_NAME_FULL_0_FEMALE], [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_1_MALE].\n"
+   ]
 }

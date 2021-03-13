@@ -65,5 +65,10 @@
          "Patrick Gauthier",
          "Yochiko Seffer"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band founded in Paris in [YEAR] by classically trained drummer Christian Vander, who claimed as his inspiration a \"vision of humanity's spiritual and ecological future\" that profoundly disturbed him. In the course of their first album, the band tells the story of a group of people fleeing a doomed Earth to settle on the planet Kobaïa. Later, conflict arises when the Kobaïans—descendants of the original colonists—encounter other Earth refugees. The style of progressive rock that Vander developed with [BAND_NAME] is termed Zeuhl, and has been applied to other bands in France operating in the same period, and to some recent Japanese bands.\n",
+      "Vander created a [GENRE] a [YEAR] interview with Vander and long-time [BAND_NAME] vocalist [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_LAST_0] said that Kobaïan is a \"phonetic language made by elements of the Slavonic and Germanic languages to be able to express some things musically. The language has of course a content, but not word by word.\" Vander himself has said, \"When I wrote, the sounds  came naturally with it—I didn't intellectualise the process by saying 'Ok, now I'm going to write some words in a particular language', it was really sounds that were coming at the same time as the music.\" Later albums tell different stories set in more ancient times; however, the Kobaïan language remains an integral part of the music.\n",
+      "In [YEAR], the French label Seventh Records was founded to (re-)publish [BAND_NAME]'s and [PERSON_NAME_LAST_0]'s work. Over the years, Seventh has also released albums by related artists such as [PERSON_NAME_FULL_0_FEMALE], Patrick Gauthier and Collectif Mu.\n"
+   ]
 }

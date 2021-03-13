@@ -31,5 +31,10 @@
          " Andy Mac",
          "Mark Parry"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] band from Vancouver. The band consists of the singer, songwriter and guitarist Mikey Manville, bass guitarist Jason Skiendziel and drummer [PERSON_NAME_FULL_0_MALE].\n",
+      "[BAND_NAME] have appeared on stage with Stereophonics, Suicide Girls, The Bellrays, The Horror Pops. Metric, [PERSON_NAME_FULL_0_MALE], Jarvis Cocker, Bif Naked, Sonic Youth, [PERSON_NAME_FULL_1_MALE] and The Relentless7, Daniel Wesley and Dragonette.\n",
+      "The band signed a recording contract with the Vancouver indie label Sandbag Records in early [YEAR].\n"
+   ]
 }

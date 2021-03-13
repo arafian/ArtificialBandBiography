@@ -31,5 +31,10 @@
          "Debi Martini (died 2019)",
          "Lesley Noelle"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] were an [GENRE] band that formed in [YEAR] in Long Beach, California, United States, when [PERSON_NAME_FIRST_5] [PERSON_NAME_LAST_0] (a.k.a. Angel, or Louise Lee Outlaw) recruited friends [PERSON_NAME_FULL_1_FEMALE] (a.k.a. Sapphire, or Taffy [PERSON_NAME_LAST_1]) and Debi [MONTH]tini (a.k.a. E.Z. Wider, a.k.a. [PERSON_NAME_FULL_6_FEMALE], or Debbi Dip). [PERSON_NAME_LAST_0] would become the guitarist, sharing vocal duties with [PERSON_NAME_LAST_1] who also played rhythm guitar and [MONTH]tini as bassist. [PERSON_NAME_LAST_0]'s ex-husband, [PERSON_NAME_FULL_0_MALE] of the band Claw Hammer, stood in as drummer under the alias [PERSON_NAME_FULL_4_FEMALE] until he was replaced full-time by [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_3] (a.k.a. [PERSON_NAME_FULL_2_FEMALE], [PERSON_NAME_LAST_3] Destroyer, or Cougar).\n",
+      "None of the women had formal musical training or previous experience in bands. They received slight help from both Scott Drake of fellow Long Beach band the Humpers, and [PERSON_NAME_FULL_0_MALE]. Dip put out the punk fanzine, Real Life in a Big City.  The [BAND_NAME] rapidly developed their own sound, going from raw simple punk to more complicated garage-punk-blues within the space of their seven years and five full-length albums. They disbanded in [YEAR]. Singer Terri [PERSON_NAME_LAST_0] opened a catering company and 5 years later her own restaurant/bakery in Los Angeles. Other members have gone on to work with other bands like The Screws, Beehive and the Barracudas and others. Singer and guitarist [PERSON_NAME_FULL_1_FEMALE] currently records under the name Two Tears.\n",
+      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

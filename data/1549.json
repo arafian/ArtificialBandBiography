@@ -27,5 +27,10 @@
       "Producer(s)": [
          "Tokyo Jihen"
       ]
-   }
+   },
+   "prunedData": [
+      "\"[BAND_NAME]\" (閃光少女, \"Flash Girl\") (also known by its English title \"Put Your Camera Down\") is a [GENRE] band Tokyo Jihen. It was released on [MONTH] 16, [YEAR], as a promotional track from their vinyl extended play Variety Zōkangō and music video clips DVD [BAND_NAME], and was later added to their [YEAR] album Sports.\n",
+      "The song was released directly after Variety ([YEAR]), an [GENRE] band members other than [PERSON_NAME_FULL_0_MALE] served as the songwriters. The cover work is in the same style as Variety and its singles \"OSCA\" and \"Killer-tune.\" Previously, [PERSON_NAME_FULL_1_MALE] had worked on the songs \"Superstar\" and \"Tōmei Ningen\" from Adult ([YEAR]), and \"Shiseikatsu\" from Variety.\n",
+      "The song featured lyrics written by [PERSON_NAME_FULL_0_MALE], and music by [PERSON_NAME_FULL_2_MALE]. It was recorded during sessions for Variety, and was performed during their Spa & Treatment tour in [MONTH] and [MONTH] [YEAR]. It was originally titled \"Hood\" (フード) during demo sessions. [PERSON_NAME_LAST_2] was inspired to write the song after seeing a pre-teen girl walking home late at night, with her jacket hood up. [PERSON_NAME_LAST_2] wondered what her future would be like, and created the melody for the song. The first version recorded was \"Put Your Camera Down,\" an English version with lyrics written by [PERSON_NAME_FULL_1_MALE] That version was later featured on the Variety Zōkangō vinyl, as well as on the [BAND_NAME] DVD credits. It was eventually released to CD in [YEAR], on Tokyo Jihen's Hard Disk box set.\n"
+   ]
 }

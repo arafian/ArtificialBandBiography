@@ -15,5 +15,10 @@
       "Years active": [
          "1980s-2000s"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band formed [YEAR] in Gothenburg by singer Russ Ryden, drummer [PERSON_NAME_FULL_0_MALE] and guitarist Max Abbey.\n",
+      "Their second single \"Crash Slowly\" was produced by Midge Ure, who thought [BAND_NAME] was a [GENRE]",
+      "[BAND_NAME] released their debut album \"Följa John\" in [YEAR] were they got help with the producing by both Midge Ure and the Swedish artist [PERSON_NAME_FULL_0_MALE].\n"
+   ]
 }

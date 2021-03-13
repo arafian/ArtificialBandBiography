@@ -29,5 +29,10 @@
          "Kyle Taylor",
          "Tegan Ceschi-Smith"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] band from Vancouver.  The band combines a wide range of European folk music with modern street punk.  In late [YEAR] they announced an indefinite hiatus. However, they followed this by playing shows occasionally, such as annual Vancouver shows, a two-week European tour in [MONTH] [YEAR], and two [MONTH] gigs with Guttermouth in [YEAR]. On [MONTH] 11, [YEAR] they released their fourth full-length album Foreign Skies. They followed this up with the album Into The North on [MONTH] 15, [YEAR].\n",
+      "The band has four full-lengths and two EPs on various labels and has played around 500 shows in around 30 countries. Their performance peak was in [YEAR], when 180 shows were played.\n",
+      "[BAND_NAME] formed in [YEAR] in the Downtown Eastside area of Vancouver, British Columbia, Canada.\n"
+   ]
 }

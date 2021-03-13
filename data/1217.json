@@ -41,5 +41,10 @@
          "Heather Dunham",
          "Jack Atlantis"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, formed in [YEAR], that helped establish what came to be known as the deathrock scene in Los Angeles, California, United States.\n",
+      "The band was formed in [YEAR] by singer Patrick Mata, who was influenced by musicians Throbbing Gristle, [PERSON_NAME_FULL_0_MALE] and Joy Division as well as other artistic inspirations like Dadaism, anti-art, noise, musique concrète and the Brion Gysin/William Burroughs cut-up technique.\n",
+      "Though initially named \"Kommunity Fuck\", after a [GENRE]"
+   ]
 }

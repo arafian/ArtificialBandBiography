@@ -5,5 +5,10 @@
       "Over the years, as with most bluegrass bands, the Nashville Grass saw numerous changes in personnel, including the addition of contemporary country music star Marty Stuart, who started with Flatt at the age of 13.  Lester Flatt continued to record and perform with the Nashville Grass until his death in 1979; at that time, Curly Seckler became leader of the band.\n",
       "This article on a United States country music band is a stub. You can help Wikipedia by expanding it."
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "The [BAND_NAME] was a [GENRE] band founded by Lester Flatt in [YEAR], after the end of his partnership with [PERSON_NAME_FULL_0_MALE] and the Foggy Mountain Boys. Flatt hired most of the Foggy Mountain Boys for his new band. \n",
+      "Over the years, as with most bluegrass bands, the [BAND_NAME] saw numerous changes in personnel, including the addition of contemporary country music star [MONTH]ty Stuart, who started with Flatt at the age of 13.  Lester Flatt continued to record and perform with the [BAND_NAME] until his death in [YEAR]; at that time, Curly Seckler became leader of the band.\n",
+      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

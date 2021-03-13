@@ -28,5 +28,9 @@
          "Jeff Jelen",
          "Max Ward"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from DeKalb, Illinois, existing from [YEAR] to [YEAR].\n",
+      "[BAND_NAME] borrowed from the early powerviolence of Infest, who blended youth crew hardcore with the velocity and dissonance of thrashcore. Songs were very brief, and sometimes punctuated by samples taken from various media (including [BAND_NAME] films). Lyrically, the group tended towards satirical commentary on the hardcore punk scene. The group has been described as a [GENRE] a lot to say (which you would only know if you read the liner notes)\". The group was sometimes criticized for its conceptual take on hardcore and art school tendencies, maintaining a long-standing feud with Felix Havoc of Code 13.\n"
+   ]
 }

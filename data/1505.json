@@ -41,5 +41,10 @@
          "Camilo Gonzalez",
          "John Lundin"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in the Beverly neighborhood of Chicago in [YEAR]. Initially active until [YEAR], the band had several short-lived reunions afterwards and a full-time reformation in [YEAR].\n",
+      "The band was formed in [YEAR] by Santiago Durango, [MONTH]ko [PERSON_NAME_LAST_4] and later [PERSON_NAME_FULL_4_MALE]. Singer [PERSON_NAME_FULL_4_MALE] was the sole constant member through multiple personnel changes. Members over time include drummers [PERSON_NAME_FULL_2_MALE], [PERSON_NAME_FULL_3_MALE], and Eric Spicer; bassists [MONTH]ko [PERSON_NAME_LAST_4], [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_5_MALE] and Sensitive Pete; guitarists Santiago Durango, John Haggerty, and [PERSON_NAME_FULL_1_MALE]; and keyboardist John Lundin.\n",
+      "Durango and [PERSON_NAME_FULL_0_MALE] were also members of Big Black.\n"
+   ]
 }

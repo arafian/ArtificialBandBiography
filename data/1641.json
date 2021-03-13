@@ -5,5 +5,10 @@
       "Its members were Aurora Beltrán Gila (voice, composition and guitar), Manuel Beltrán Gila (Lolo Beltrán, Aurora's brother, guitarist), Luis salcedo (until 1990, bass), Juan Manuel Ugarte (from 1990 on, bass), Javier Lizarazu (alias Punxes, drummer).\n",
       "They were influenced by The Who, Led Zeppelin, David Bowie, and Lou Reed\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] (Left-handed Gamblers) was a [GENRE] band active from [YEAR] to [YEAR].\n",
+      "Its members were Aurora [PERSON_NAME_LAST_2] Gila (voice, composition and guitar), [PERSON_NAME_LAST_0] [PERSON_NAME_LAST_2] Gila (Lolo [PERSON_NAME_LAST_2], Aurora's brother, guitarist), Luis salcedo (until [YEAR], bass), [PERSON_NAME_FULL_0_MALE] (from [YEAR] on, bass), [PERSON_NAME_FULL_1_MALE] (alias Punxes, drummer).\n",
+      "They were influenced by The Who, Led Zeppelin, [PERSON_NAME_FULL_0_MALE], and Lou Reed\n"
+   ]
 }

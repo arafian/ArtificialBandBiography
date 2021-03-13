@@ -23,5 +23,8 @@
          "Rasmus Hägg",
          "Dan Lissvik"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band. They have been described as the missing link between The Cure and Lindstrøm - while simultaneously touching upon Can, Neu, Happy Mondays and The Smiths -  in their creation of an \"afrobeat-dub-disco-indie-pop\" adventure. Their album West Coast was chosen by Rough Trade in London as one of the 10 best albums of [YEAR] and they have remixed artists such as Kylie Minogue and A Mountain of One.\n"
+   ]
 }

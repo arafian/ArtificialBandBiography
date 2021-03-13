@@ -39,5 +39,10 @@
          "Josh Oliver",
          "Chris Furr"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR] and based in Morehead City, North Carolina, United States. Until [YEAR] – the year that Christopher Clonts joined the band – they went by the moniker Allysonhymn (pronounced All-eyes-on-Him). [BAND_NAME] is well known in Christian music, but the band is also known for their mainstream success, having toured with bands like Puddle of Mudd and Breaking Benjamin.\n",
+      "[BAND_NAME] was originally formed in [YEAR] as Allysonhymn by guitarist Brandon Mills and drummer [PERSON_NAME_FULL_0_MALE], who met in high school. Formerly an [GENRE] a more rock-oriented sound after [PERSON_NAME_FIRST_0]'s brother, Caleb, joined the band. Caleb [PERSON_NAME_LAST_0] started out doing percussion with [PERSON_NAME_FIRST_0], up until their bassist left the band. Caleb stated \"After our bass player left, we found ourselves needing someone to carry the low end. So, I picked up the bass and had a quick crash course.\" In [YEAR] guitarist [PERSON_NAME_FULL_1_MALE] joined, cementing their sound. [PERSON_NAME_LAST_1] met Caleb, Brandon and [PERSON_NAME_FIRST_0] at Morehead City, after graduating from high school, and later on, joined Allysonhymn. The band changed their name to [MONTH]yfer shortly afterwards. In [MONTH] [YEAR], the band released two singles named \"Fallen\" and \"Reflections\" on their website unofficially, for free. In early [YEAR], the band independently released their first EP, called \"[MONTH]yfer EP\".\n",
+      "The band was first signed by SRE Recordings in mid-[YEAR]. In an [GENRE] a little challenging to have bands named [MONTH]yfer and Disciple on the same label\". Hence, they changed their name to [BAND_NAME].\n"
+   ]
 }

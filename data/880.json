@@ -27,5 +27,10 @@
       "Past members": [
          "Dave Weeks"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Seattle, Washington. They have released eight albums, a number of split albums and EP.\n",
+      "They formed in [YEAR] in a [GENRE] a conversation between two customers, Chris [MONTH]tin (guitar) and [PERSON_NAME_FULL_0_FEMALE] (bassist)  about analog recording. Weeks joined the discussion, and they found they also shared mutual musical interests, and hence agreed to form a band. They started playing live the same year.\n",
+      "Near the end of [YEAR], guitarist/keyboardist/flautist Matthew Reid Schwartz was added to the line-up. [BAND_NAME] issued its first record Space Launch for Frenchie earlier that same year consisting of six tracks running for 45 minutes. The band went on their first US tour with Mainliner from Japan, where they befriended Kawabata Makoto, also of Acid Mothers Temple.\n"
+   ]
 }

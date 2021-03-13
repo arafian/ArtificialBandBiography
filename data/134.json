@@ -37,5 +37,10 @@
          "Pam the Funkstress (deceased)",
          "DJO"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Oakland, California. Their music is an amalgamation of influences, including funk, punk, hip hop, and soul. Frontman Boots Riley's revolutionarily-charged lyrics rank [BAND_NAME] as a renowned political hip hop band aligned to radical music groups such as Crass, Dead Prez and Rage Against the Machine.\n",
+      "[BAND_NAME]'s music is driven by assertive and danceable bass-driven backbeats overlaid by critical, hopeful, and witty lyrics, often with a bent towards the literary. [BAND_NAME]'s songs critique, observe, and lampoon capitalism, American politics, white patriarchal exploitation, police brutality, marijuana addiction, romance, and disparities among races and social classes.\n",
+      "[BAND_NAME]'s debut album was [YEAR]s The EP and almost all of the songs on it (except \"Economics 101\") were put on [YEAR]'s Kill My Landlord.  In [YEAR], the group released its second album, Genocide & Juice. The group took a four-year recording hiatus to work as community activists before releasing Steal This Album to critical acclaim in [YEAR]. The record's title pays tribute to [YEAR]s radical [PERSON_NAME_FULL_0_FEMALE]'s yippie manifesto, Steal this Book. Steal This Album featured the stand-out single, \"Me and Jesus the Pimp in a ’79 Granada Last Night.\" The online magazine Dusted called Steal This Album \"the best hip-hop album of the [YEAR]s\".\n"
+   ]
 }

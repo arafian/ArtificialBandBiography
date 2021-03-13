@@ -24,5 +24,10 @@
       "Songwriter(s)": [
          "Ringo Sheena"
       ]
-   }
+   },
+   "prunedData": [
+      "\"[BAND_NAME]\" (今夜はから騒ぎ, \"Tonight Is Much Ado About Nothing\"), also known by its French language title \"Beaucoup de Bruit pour Rien\", is a [GENRE] band Tokyo Jihen, led by musician Ringo Sheena. It was a promotional song for the band's final original release, the extended play Color Bars, released on [MONTH] 18, [YEAR].\n",
+      "In [YEAR], the band performed their Discovery tour for their fifth album [PERSON_NAME_FULL_2_FEMALE]. The extended play Color Bars was first announced on [MONTH] 15, [YEAR], as a [GENRE] a different member of the band. \"[BAND_NAME]\" represented the song vocalist [PERSON_NAME_FULL_0_MALE] wrote for the release. Vocalist [PERSON_NAME_FULL_0_MALE] made their first performance at the 62nd NHK Kōhaku Uta Gassen on [MONTH] 31, [YEAR], at which she and the band performed a medley of \"Onna no Ko wa [PERSON_NAME_FULL_1_MALE]\" and [PERSON_NAME_LAST_0]'s solo song \"Carnation\".\n",
+      "The song features lyrics and music by Sheena. The other Color Bars songs were songs that had existed before the release that were suggested but did not appear on other releases. \"[BAND_NAME]\" was the final song, which Sheena struggled over on the best way to express. She wrote the lyrics in the image of Tokyo, and wrote the melody in the most natural way she composes songs, without deviating.\n"
+   ]
 }

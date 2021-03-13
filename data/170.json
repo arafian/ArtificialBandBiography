@@ -56,5 +56,10 @@
       "Past members": [
          "Brett Reed"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in Berkeley, California in [YEAR]. Founded by former members of the band Operation Ivy, [BAND_NAME] is often credited as being among the wave of bands that revived mainstream interest in punk rock in the United States during the mid-[YEAR]s. Over their 30-year career, [BAND_NAME] remained signed to an independent record label and retained much of its original fan-base, most of which was connected to its underground musical roots.\n",
+      "[BAND_NAME] has had two lineup changes since its inception, with Tim Armstrong and [PERSON_NAME_FULL_0_MALE] being the only continuous members. Their current lineup consists of Armstrong on guitar and vocals, [PERSON_NAME_LAST_0] on bass and vocals, [PERSON_NAME_FULL_2_MALE] on guitar and vocals, and [PERSON_NAME_FULL_1_MALE] on drums. The band was formed by Armstrong, [PERSON_NAME_LAST_0], and former drummer Brett Reed, who left the band in [YEAR] and was replaced by [PERSON_NAME_LAST_1]. This lineup recorded their first album, with [PERSON_NAME_LAST_2] joining the band on their subsequent tour.\n",
+      "To date, [BAND_NAME] has released nine studio albums, one split album, one compilation, two extended plays, and a [GENRE] a number of compilation albums. The band has independently sold over four million records worldwide, making it one of the most successful independent punk rock groups of all time. The band rose to fame in [YEAR] with its second studio album, Let's Go, featuring the single \"Salvation\". In the following year, [BAND_NAME] released its highly successful album ...And Out Come the Wolves, which produced its best-known songs \"Roots Radicals\", \"[PERSON_NAME_FULL_0_FEMALE]\", and \"Time Bomb\", and was certified gold and platinum by the RIAA, selling over one million copies in the United States alone. Its next five albums – Life Won't Wait ([YEAR]), [BAND_NAME] ([YEAR]), Indestructible ([YEAR]), Let the Dominoes Fall ([YEAR]), and ...Honor Is All We Know ([YEAR]) – were also critically acclaimed, though not as successful as ...And Out Come the Wolves. Their most recent studio album, Trouble Maker, was released on [MONTH] 9, [YEAR], and they are currently working on a follow-up album for a tentative [YEAR] or [YEAR] release.\n"
+   ]
 }

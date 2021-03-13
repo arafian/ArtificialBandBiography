@@ -5,5 +5,10 @@
       "After releasing their first album in 2009 on White Shoe Records, they were signed to the American label Paper Garden Records in 2010.\n",
       "In 2013, for their new album \"Strange Range\", they held a release party at the historic Friars Club in NYC with DJ sets from Popwell and Andrew W.K.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "\n[BAND_NAME] is an [GENRE] band formed in Brooklyn in [YEAR]. Led by [MONTH]c Cantone (singer/composer) who writes indie pop songs about such topics as breakups and OCD breakdowns. Cantone is influenced by The Beatles, The Kinks, The Smiths, Belle and Sebastian, and Sebadoh. The band has released 3 albums to date.\n",
+      "After releasing their first album in [YEAR] on White Shoe Records, they were signed to the American label Paper Garden Records in [YEAR].\n",
+      "In [YEAR], for their new album \"Strange Range\", they held a [GENRE]"
+   ]
 }

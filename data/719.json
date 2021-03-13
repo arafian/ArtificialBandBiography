@@ -30,5 +30,10 @@
       "Past members": [
          "Camilla Wynne Ingr"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band based in Montreal, Quebec. They are known for their guitar-and-keyboard based upbeat music and their personal and sometimes sexually suggestive lyrics.\n",
+      "[BAND_NAME]! was formed on New Year's Eve [YEAR]. The members were bassist Lisa Smith, drummer [PERSON_NAME_FULL_1_FEMALE], keyboardist Laura [PERSON_NAME_LAST_1], guitarist [PERSON_NAME_FULL_2_FEMALE], and vocalist [PERSON_NAME_FULL_3_FEMALE]. The group released their debut, self-titled EP, [BAND_NAME]! (which included their song \"Matthew Modine\") in [YEAR], via [PERSON_NAME_FULL_0_MALE]'s label, Dim Mak.\n",
+      "In [MONTH] [YEAR], [BAND_NAME] released their first full-length album, Make Love to the Judges with Your Eyes. To promote their debut, the band toured Australia in the summer of [YEAR], where their single \"The Truth About Cats and Dogs (Is That They Die)\" would later be voted No. 47 on Triple J's Hottest 100.\n"
+   ]
 }

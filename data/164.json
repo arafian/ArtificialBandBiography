@@ -26,5 +26,9 @@
          "Joshua John Fanene (keyboardist, composer) ",
          " Micheal Bailey (keyboardist, composer)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Oakland, California that formed in [YEAR]. The two band members met through Mp3.com in mid-[YEAR]. Joshua Fanene and [PERSON_NAME_FULL_2_MALE] co-write the band's songs  with influences including Nine Inch Nails, Pendulum, [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_1_MALE], Pitchshifter, and Aphex Twin. The band has four albums including liminal space, which was self-released in [YEAR], OVRMND, 201X and 201Y. They have been featured in both local and national publications like Hyperactive Magazine issue #7.\n",
+      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

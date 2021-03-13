@@ -26,5 +26,9 @@
          "Jamie Janover",
          "Aaron Holstein"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band based in Boulder, CO.  It consists of Jamie [MONTH]over, Michael Travis and [PERSON_NAME_FULL_0_MALE].  The group began as a side project for Travis in his time away from the more popular String Cheese Incident.  However, since SCI's hiatus in [YEAR] [BAND_NAME] and EOTO have become Travis' main projects.  The band's shows are 100% improvised, as are their two studio recordings.\n",
+      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

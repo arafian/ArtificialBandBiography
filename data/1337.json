@@ -38,5 +38,10 @@
          "Leslie Joachim Barrett",
          "Julie Wood"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from Nottingham, England, initially active between [YEAR] and [YEAR].\n",
+      "Emerging in [YEAR] out of the Nottingham punk/rhythm & blues band The Press, [BAND_NAME]'s first single was \"Them or Me\", which was released in late [YEAR] and was still selling well enough in [YEAR] to appear in the UK Independent Chart. The second single, \"Hungry, So Angry\", was released in [MONTH] [YEAR] on [PERSON_NAME_FULL_0_FEMALE]. One of the first records to introduce slap bass - a [GENRE] a generally white audience, \"Hungry, So Angry\" reached #48 in the Billboard Disco chart - the single and the album were released in [YEAR] on the New York-based indie label Cachalot Records - and has appeared on over a dozen compilations over the years.\n",
+      "The band released one studio album, The Glitterhouse, in late [YEAR]. Its stark, stripped-down dub and dance rhythms and chiming, funk guitar with occasional saxophone and other sounds, failed to attract a [GENRE]"
+   ]
 }

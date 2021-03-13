@@ -51,5 +51,10 @@
          "Dave Stark",
          "Tommy Ufkes"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME], stylized as FEAR, is an [GENRE] band from Los Angeles, California, formed in [YEAR]. The band is credited for helping to shape the sound and style of Californian hardcore punk. The group gained national prominence after an infamous [YEAR] performance on Saturday Night Live.\n",
+      "Frontman Lee Ving has been the band's only constant member. Since its formation, the band has gone through various lineup changes, and at one point even featured Flea of the Red Hot Chili Peppers on bass. The classic FEAR lineup existed from [YEAR] to [YEAR], and was composed of Ving, guitarist Philo Cramer, bassist Derf Scratch and drummer Spit Stix.\n",
+      "[BAND_NAME] was formed in [YEAR] by singer/guitarist Lee Ving and bassist Derf Scratch, who recruited guitarist Burt Good and drummer [PERSON_NAME_FULL_0_MALE]. In [YEAR], [BAND_NAME] released the single \"I Love Livin' in the City\". Shortly after this, Good and [PERSON_NAME_LAST_0] left the band and were replaced by Philo Cramer and Spit Stix.\n"
+   ]
 }

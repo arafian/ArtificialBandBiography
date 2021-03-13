@@ -29,5 +29,9 @@
       "Past members": [
          "José Luis Nieto \"Selu\""
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band. They started playing in the [YEAR]s as Incidente Local, formed by [PERSON_NAME_FULL_2_MALE] on drums, [PERSON_NAME_FULL_1_MALE] on guitar, and Fernando Medina on bass and vocals. They performed their first live concert in [YEAR] at University of Seville. After became finalists at a local rock contest and joined sax player [PERSON_NAME_FULL_0_MALE], they recorded their debut album in [YEAR] released by Discos Trilita. After signing up to Discos Suicidas label and participating in Seville Expo '92, they started touring Central America. Later, Selu left the band and Finito de Badajoz became the new guitarist. In [YEAR], the band signed up to BMG and shortly thereafter their live album Algazara achieved their first gold record in Spain in [YEAR].\n",
+      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

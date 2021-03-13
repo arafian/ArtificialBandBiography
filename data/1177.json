@@ -32,5 +32,9 @@
          "John Haddad",
          "Bobby Thomas"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band formed in [YEAR] originally under the name Shiva.  In [YEAR] they signed with Century Media Records and have since released one EP and two albums.\n",
+      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

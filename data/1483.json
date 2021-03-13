@@ -30,5 +30,10 @@
          "Roland Barker",
          "Paul \"Ion\" Barker"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were a [GENRE] band formed in Seattle in [YEAR] by singer/guitarist [PERSON_NAME_FULL_1_MALE], bassist Mike Davidson, and drummer [PERSON_NAME_FULL_0_MALE], who were all former members of a local punk band, The Telepaths. They were joined by Roland Barker, first on synthesizer and later on saxophone.\n",
+      "Following a single and EP on small local labels, Davidson was replaced by Roland's brother Paul Barker in [YEAR].  This line-up recorded the \"Exchange of Goods\" single for English label Situation Two, and relocated to Boston in [YEAR]. There they met [PERSON_NAME_FULL_0_MALE] of Ministry, who produced their last recording, the Lost Soul's Club EP for Wax Trax! Records.\n",
+      "The band relocated a second time to San Francisco in [YEAR], and toured the East Coast with Ministry that year before breaking up.  Jourgensen recruited Paul and Roland Barker and Rieflin to the line-up of Ministry, playing a major part in the transformation of Ministry from a synth-driven dance band to one of the top exponents of industrial metal. This started a long collaboration between Paul Barker and Jourgensen in Ministry, Revolting Cocks, Lard, and other projects. Rieflin released his first solo album in [YEAR], Birth of a Giant, worked with KMFDM, Pigface, Ruby, [PERSON_NAME_FULL_0_MALE], Nine Inch Nails, Swans, and King Crimson, and was the studio and touring drummer for R.E.M.. [PERSON_NAME_FULL_1_MALE] went on to join the Toiling Midgets.\n"
+   ]
 }

@@ -29,5 +29,10 @@
       "Past members": [
          "Elina Hakkarainen"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were an [GENRE] band. They were active from [YEAR] to [YEAR], gaining a cult following both in Finland and abroad. The band released two albums and several EPs and singles. [BAND_NAME] did over 250 concerts, of which some 100 outside Finland. The band's principal line-up was a trio: drums, electric guitar and combo organ, with all band members singing.\n",
+      "[BAND_NAME] got started during Provinssirock outdoor rock festival in [MONTH] [YEAR]. Four young ladies from Kuopio listened to garage rock compilation cassettes for the whole weekend in a [GENRE] a band. Their friends' band Aavikko, while performing at the festival, had dedicated one of their songs to \"Micratytöt\". This was then translated to the English name of the newborn group.\n",
+      "Right after coming home from the festival the ladies walked into the rehearsal room of their friends and selected their instruments. [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_0] took on the drums as she had sat behind a [GENRE] a couple of times, her sister [PERSON_NAME_FULL_0_FEMALE] chose a career with keyboards, and petite [PERSON_NAME_FULL_1_FEMALE] picked up the bass guitar. [MONTH]i Halonen became the guitar player and lead vocalist, being the only one with any previous musical experience – on violin.\n"
+   ]
 }

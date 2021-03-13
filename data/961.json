@@ -28,5 +28,10 @@
          "Michael Travis",
          "Jason Hann"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (/ˈiːoʊtoʊ/ EE-oh-toh) is an [GENRE] band consisting of Michael Travis and [PERSON_NAME_FULL_0_MALE].\n",
+      "The band's music is created live and without prerecorded loops.\nThe band formed in [YEAR] as a [GENRE] a new electronic flavor.\n",
+      "The band played their first show at Sonic Bloom in [MONTH] [YEAR]. In [YEAR] they played over 200 live shows  and more than seven hundred shows in 48 different states during the five years since their founding.  The band performs at Apple Stores to demonstrate how they produce their music in concert.\n"
+   ]
 }

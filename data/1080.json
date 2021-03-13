@@ -28,5 +28,10 @@
          "Johnny DeBlase",
          "Eli Litwin"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Philadelphia. They were formed in [YEAR] by trombonist [PERSON_NAME_FULL_2_MALE] and guitarist Nick Millevoi, later adding guitarist [PERSON_NAME_FULL_0_FEMALE], bassist Johnny DeBlase, and drummer [PERSON_NAME_FULL_1_FEMALE]. Their debut album, Pillar Without Mercy, was released through Tzadik Records on [MONTH] 18, [YEAR], as part of the label's \"Radical Jewish Culture\" Series.\n",
+      "[BAND_NAME]' music combines nigunnim, traditional wordless Hasidic melodies, with a [GENRE] bands like Earth and Sunn O))). Their name is a Yiddish spelling of devekut, a genre of slow, meditative niggunim.\n",
+      "[BAND_NAME] was formed in [YEAR] by trombonist [PERSON_NAME_FULL_0_MALE] and guitarist Nick Millevoi, who had known each other since middle school and played together in several bands, including the hardcore punk act Electric Simcha. [PERSON_NAME_LAST_0], a [GENRE] band.\n"
+   ]
 }

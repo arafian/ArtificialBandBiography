@@ -24,5 +24,10 @@
          "Johan Reivén",
          "Thomas Brandt"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] band formed in [YEAR], disbanded in [YEAR] and reunited in [YEAR].\n",
+      "The band was created in Partille, a suburb to Göteborg in [YEAR], as a fusion of the two rock bands \"PsychoBetaBuckDown\" (with [MONTH]tin as vocalist) and \"Hyperbug\" (with Johan as bassist). The two bands shared the same rehearsal space and had played together a few times. The bands had also finished second and first respectively in a communal rock band competition in [YEAR]. [MONTH]tin and Johan decided to play together in the [YEAR] competition and Johan also changed from bass to his original instrument, drums. They needed a guitarist and a bassist and found Daniel (from the band \"In a Pig's Eye\") and Thomas (from the Judas Priest cover band \"Just as Priest\").\n",
+      "Their first rehearsal was held in [MONTH] [YEAR], with [MONTH]tin singing in English for about ten minutes before fooling around and starting to sing in Swedish. It sounded strange, and they decided to continue with Swedish lyrics. The name of the band, which is an [GENRE] a reference to their music style; \"heavy, relentless and totally over-running\"!\n"
+   ]
 }

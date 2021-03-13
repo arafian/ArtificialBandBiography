@@ -34,5 +34,10 @@
          " Aaron Rossi,",
          " Pepe Clarke Magaña"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (correctly: \"Ancla\" meaning anchor in Spanish) is a [GENRE] band with Latin influences such as flamenco from Los Angeles, California.\n",
+      "[BAND_NAME] was formed in [YEAR] by Puya guitarist [PERSON_NAME_FULL_0_MALE]. The band independently released a self-titled 7-track EP in [YEAR], produced by Stone Sour drummer Roy [MONTH]orga.\n",
+      "On [MONTH] 8, [YEAR], it was announced that [BAND_NAME]  signed with Bieler Bros. Records. Their debut album Steep Trails was produced by Bob [MONTH]lette, and was released on [MONTH] 25, [YEAR].\n"
+   ]
 }

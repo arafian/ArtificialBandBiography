@@ -35,5 +35,10 @@
          "Magnús Trygvason Eliassen",
          "Kippi Kaninus (Guðmundur Vignir Karlsson)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (formerly Amína, stylized in lowercase) is an [GENRE] band composed of [PERSON_NAME_FULL_0_FEMALE] (born [MONTH] 31, [YEAR]), Edda Rún Ólafsdóttir (born [MONTH] 3, [YEAR]), [MONTH]ia Huld [MONTH]kan Sigfúsdóttir (born [MONTH] 29, [YEAR]), and [PERSON_NAME_FULL_3_FEMALE] (born [MONTH] 10, [YEAR]). They have frequently performed live and in the studio with Sigur Rós. In [YEAR] [PERSON_NAME_FULL_1_MALE] (born [MONTH] 18, [YEAR]) and [PERSON_NAME_FULL_2_MALE] (a.k.a. Kippi Kaninus) (born [MONTH] 10, [YEAR]) joined the group on a permanent basis.\n",
+      "Their music is made with a [GENRE]",
+      "Before adopting the name amiina the group was initially a string quartet dating back to the late [YEAR]s when they were studying string instruments at the Reykjavík College of Music. The group started out playing classical music, but increasingly moved on to play all sorts of music with various bands in Reykjavík: [MONTH]ía and Hildur as violinists, Edda as violist, and Sólrún as cellist.\n"
+   ]
 }

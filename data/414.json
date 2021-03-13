@@ -23,5 +23,9 @@
          "Steven Dail",
          "Alex Albert"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band Project 86. It was founded by Alex Albert, [PERSON_NAME_FULL_0_MALE] and Joby Harris, with [PERSON_NAME_FULL_1_MALE] joining later. [BAND_NAME] released their self-titled album on [MONTH] 11, [YEAR] on Tooth & Nail Records. Their second album, The Unknown Clarity, was released on iTunes on [MONTH] 11, [YEAR].\n",
+      "This Christian music-related article is a [GENRE]"
+   ]
 }

@@ -29,5 +29,10 @@
          "Mark Hill",
          "Brian Fullen"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band. They released six albums during the [YEAR]s and early [YEAR]s.\n",
+      "The most notable band members were guitarist Randy Thomas, formerly of the Jesus music group Sweet Comfort Band and vocalist Bob Carlisle. Carlisle went on to pursue a [GENRE]",
+      "Sam Scott and Jimmy Erickson were both formerly of Psalm 150.\n"
+   ]
 }

@@ -32,5 +32,10 @@
          "Tom Wenzel",
          "Loomis"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in Los Angeles, California, in [YEAR] by Warren Mansfield (vocals, bass, keyboards) and [MONTH]vin Rinnig (guitar).\n",
+      "The duo of Mansfield and Rinnig recorded a five-song 12\" EP, Strobelight Funeral, released in [YEAR] on their own Dark Illusion Records label. \n",
+      "English bassist Billy Budd and local drummer [PERSON_NAME_FULL_0_FEMALE] joined in [YEAR], and the band became regular performers at LA clubs such as Scream, The Roxy and the Whisky A Go Go.\n"
+   ]
 }

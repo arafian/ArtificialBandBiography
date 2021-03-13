@@ -21,5 +21,8 @@
          "Devin Robinson",
          "Clint Curtis"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Springdale, Newfoundland and Labrador, Canada. The band's music falls into the pop [GENRE] music genre. The three members of the band are Glenn Thomas, [PERSON_NAME_FULL_1_MALE], and Clint Curtis. The band formed in [YEAR]. On [MONTH] 14, [YEAR], [BAND_NAME] performed alongside [PERSON_NAME_FULL_0_FEMALE] at a benefit concert at Springdale's Indian River High School. The band signed with Nashville, Tennessee, United States-based Contemporary Christian record label Broken Records in [YEAR].\n"
+   ]
 }

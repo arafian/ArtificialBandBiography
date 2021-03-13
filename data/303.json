@@ -23,5 +23,10 @@
          "Andrea Lo",
          "Katrina Jones"
       ]
-   }
+   },
+   "prunedData": [
+      "Belle Game is an [GENRE] band originating from Vancouver, British Columbia. Formed in [MONTH] [YEAR], the band currently consists of members Adam Nanji, [PERSON_NAME_FULL_0_FEMALE], and Katrina Jones.\n",
+      "After releasing a 7\" vinyl record of the single \"Wait Up for You\" through labels Boompa Records and [PERSON_NAME_FULL_0_FEMALE], it was announced that their debut album Ritual Tradition Habit would be released on [MONTH] 16, [YEAR]. Ritual Tradition Habit earned [BAND_NAME] positive reviews from many notable blogs upon its release in [MONTH] [YEAR]. “Wait Up For You” was put into rotation on the Vancouver station the Peak 102.7 FM as well as other radio stations across the country, and upon the album's release, Rolling Stone chose the track “Blame Fiction” as the track of the day.\n",
+      "The second single, “River,” was reviewed by Pitchfork Media in [MONTH] [YEAR] and posted as a [GENRE] a week later, Pitchfork reviewed the entirety of Ritual Tradition Habit, giving it a 7.2 overall. The music video for “River” was put into rotation on MuchMusic, and the channel ended up posting the video on Much's 100 Greatest Videos Ever. The video was also nominated for the [YEAR] Prism Prize, and, after making it into the top ten list, it won the Audience Award.Pitchfork Media also posted about the music video for “River” when it was released.\n"
+   ]
 }

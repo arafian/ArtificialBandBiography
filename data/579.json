@@ -48,5 +48,10 @@
          "Adee Silva",
          "Yossi Sa'aron Sassi"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, formed in [YEAR] under the name Resurrection (changing their name in [YEAR] to the current name), that combines Israeli Jewish, Mizrahi, and other West Asian influences. They are considered 'The pioneers of Oriental Metal'. The band has gone through several lineup changes over the years, but has retained two of the founding members, [PERSON_NAME_FULL_5_MALE] (vocals) and [PERSON_NAME_FULL_4_MALE] (bass).  They are joined by [PERSON_NAME_FULL_0_MALE] (drums), Chen Balbus (guitar/keyboard) who replaced co-founding member [PERSON_NAME_FULL_3_MALE] in [YEAR], and [PERSON_NAME_FULL_1_MALE] (guitars/bouzouki) who replaced co-founding member [PERSON_NAME_FULL_2_MALE] in early [YEAR]. Their lyrics promote a message of peace and unity, particularly between the three main Abrahamic religions (Judaism, Islam, and Christianity).\n",
+      "In [YEAR], the band changed its name from the original Resurrection to [BAND_NAME].\n[BAND_NAME] fuse progressive, doom, and death metal as well as Middle-Eastern folk music and Arabic traditions in a [GENRE] a meeting of East and West, past and present, light and darkness, and God and Satan.\n",
+      "The band’s first album was Sahara ([YEAR]) which was originally released as a demo. The second album, El Norra Alila ([YEAR]), had many Eastern/Oriental influences, such as \"El Norra Alila\" (\"Illustrious God\"), based on a poem sung during Yom Kippur as a plea of forgiveness. It also included songs with traditional oriental Jewish piyyut and Arabic melodies. The album explored the themes of light and darkness, as well as conveying the message of commonality between the three main Abrahamic religions (Judaism, Islam, and Christianity).\n"
+   ]
 }

@@ -20,5 +20,9 @@
       "Labels": [
          "Beware Records, Alternative Tentacles"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] is an [GENRE] band formed in [YEAR]. The band members wear masks that resemble Indian ghost warriors. They claim to believe the masks allow them to channel the spirit world to gain control of their bodies and play better music.\n",
+      "Vocalist/producer Mörizen Föche originally created and directed Thrasher Magazine's Skate Rock compilation series, and was ultimately responsible for identifying the musical phenomenon in a series of magazine articles, and is credited with coining the term \"Skate Rock\". In [YEAR], MoFo approached the members of the seminal [PERSON_NAME_FULL_0_MALE] skate punk band Los Olvidados about forming a new band. MoFo suggested the group don Indian masks.\n"
+   ]
 }

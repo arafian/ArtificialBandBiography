@@ -18,5 +18,10 @@
       "Website": [
          "evolovetheband.com"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band. The band’s members are Lucy Levinsohn (lead vocals), [PERSON_NAME_FULL_0_MALE] (guitar), Billy Berman (Bass), and [PERSON_NAME_FULL_1_MALE] (rhythm guitar). The band’s name is a palindrome (the word ‘love’ spelled backwards then forwards).\n",
+      "[BAND_NAME] was thrust in the public spotlight as finalists of the Freecreditscore.com national band search . Their national commercial made its debut during the MLB All-Star game, viewed by 12 million and has subsequently been aired on national networks. [BAND_NAME] also made several television appearances (to include MTV and KTLA News) related to their success with their commercial.\n",
+      "[BAND_NAME]'s debut EP, [YEAR]: Countdown to the End, was released in [MONTH] [YEAR]. The EP was produced by [PERSON_NAME_FULL_0_MALE], and mixed by Brian Virtue (Audioslave, 30 Seconds to [MONTH]s, Deftones) and gained critical acclaim with HollywoodMusicMagazine.com lauding, \"Pop inspired guitar riffs and personal yet direct lyrics are what make this album a [GENRE] band signed a music licensing agreement with MTV  and was heard on the MTV shows Made, True Life and Teen Mom. In the summer of [YEAR], the band placed three songs off the EP on ABC's top-rated teen drama Pretty Little Liars.\n"
+   ]
 }

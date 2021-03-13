@@ -5,5 +5,10 @@
       "The Hard Rubber Orchestra was founded in 1990 by John Korsrud.  It had instrumentation similar to a big band, but the music was \"an unholy mashup of minimalism, free jazz, noise, and funk\".\n",
       "In 1992, a non-profit \"Hard Rubber Music Society\" was created as a vehicle for funding the orchestra. It operates with a mix of private donations, city funding, and Canada Council grants.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "The [BAND_NAME] is a [GENRE] band led by composer and trumpeter John Korsrud in Vancouver, British Columbia, Canada. Founded in [YEAR], it has a shifting membership of 15-30 musicians. It is known for spotlighting work by contemporary composers and won the Alcan Performing Arts Award in [YEAR].\n",
+      "The [BAND_NAME] was founded in [YEAR] by John Korsrud.  It had instrumentation similar to a [GENRE] band, but the music was \"an unholy mashup of minimalism, free jazz, noise, and funk\".\n",
+      "In [YEAR], a [GENRE] a vehicle for funding the orchestra. It operates with a mix of private donations, city funding, and Canada Council grants.\n"
+   ]
 }

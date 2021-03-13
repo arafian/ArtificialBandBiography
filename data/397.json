@@ -36,5 +36,10 @@
          "Andrey Shatalin",
          "Igor Chumychkin"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (Russian: Алиса) is a [GENRE] band, which is considered one of the most influential bands in the Russian rock movement.\n",
+      "[BAND_NAME] was formed in [MONTH] [YEAR] by bassist [PERSON_NAME_FULL_1_MALE]. The band's name originated from [PERSON_NAME_LAST_1]'s nickname. The band's lineup was finally completed in [YEAR], when new vocalist Kostya Kinchev (real name [PERSON_NAME_FULL_0_MALE]) and guitarist [PERSON_NAME_FULL_2_MALE] joined. Their debut album Energia was recorded between [YEAR] and [YEAR]. Energia was released by the state publishing monopoly Melodiya in [YEAR] and sold more than a [GENRE]",
+      "The relations between [BAND_NAME]'s two leaders, Kinchev and Zadery, deteriorated, and Zadery left the band. This occurred just one hour before [BAND_NAME] was to perform at a concert. Kino bassist [PERSON_NAME_FULL_0_MALE] was asked to replace Zadery for one concert. Later, Zadery created his own band Nateh! (Russian: НАТЕ!, lit. 'Take that!'). Zadery died on 6 [MONTH] [YEAR] due to complications from a stroke at the age of 50.\n"
+   ]
 }

@@ -32,5 +32,10 @@
          "Brit Turner",
          "Richard Turner"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Atlanta, Georgia, United States. The lineup consists of Charlie Starr (lead vocals, guitar), [PERSON_NAME_FULL_1_MALE] (bass, vocals), Brit [PERSON_NAME_LAST_1] (drums), [PERSON_NAME_FULL_2_MALE] (guitar, vocals), Brandon Still (keyboards), in [YEAR] they added touring personnel Benji Shanks ( guitar), and [PERSON_NAME_FULL_0_MALE] (percussion). They have released six studio albums, two live albums and five extended play recordings. A 7th studio album is set to be released in [YEAR].\n",
+      "[BAND_NAME] was formed in Atlanta, Georgia in [YEAR], and released their debut album, Bad Luck Ain't No Crime, in [YEAR]. They have performed throughout the United States both as headliner and as the supporting act for artists such as Zac Brown Band, Eric Church, ZZ Top and Lynyrd Skynyrd.  Their second album released in [YEAR], Little Piece of Dixie. has been featured by Paste magazine and other publications.\n",
+      "The band had their first chart success with their third album, The Whippoorwill, which was released in [MONTH] [YEAR] and reached top 40 on Billboard 200.  The album was released under the Southern Ground record label. On [MONTH] 26, [YEAR], they performed at a [GENRE]"
+   ]
 }

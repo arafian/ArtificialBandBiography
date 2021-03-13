@@ -5,5 +5,10 @@
       "Contradanza offers a different perspective of folk and traditional music by collecting various influences they manage to blend in their acoustic mixer: traditional music, flamenco, jazz, Arab music, renaissance dances. Special focus is set on the revision of traditional ballads and of Andalusian popular lyrical poems as well as on the composition of their own pieces based on the study of contemporary Spanish poetry.\n",
       "Another andalusia by Patricia Herlevi\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band formed in [YEAR] in Seville (Andalusia, Spain), playing traditional music as well as original compositions in the style.\n",
+      "[BAND_NAME] offers a [GENRE]",
+      "Another andalusia by [PERSON_NAME_FULL_0_FEMALE]\n"
+   ]
 }

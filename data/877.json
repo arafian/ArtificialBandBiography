@@ -5,5 +5,10 @@
       "The group consists of Finn on guitar, Joe Santerre on bass, Ross Ramsay on keyboards, and Larry Finn on drums; all of the members are teachers at the Berklee College of Music.\n",
       "This article on a United States rock music band is a stub. You can help Wikipedia by expanding it."
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "The [BAND_NAME] is a [GENRE] band formed and led by the Boston guitarist Jon Finn. The band plays instrumental progressive [GENRE], sounding like a mix between Dream Theater and Dixie Dregs with a blues approach.\n",
+      "The group consists of [PERSON_NAME_LAST_0] on guitar, [PERSON_NAME_FULL_1_MALE] on bass, Ross Ramsay on keyboards, and [PERSON_NAME_FULL_0_MALE] on drums; all of the members are teachers at the Berklee College of Music.\n",
+      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

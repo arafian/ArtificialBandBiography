@@ -24,5 +24,10 @@
          "Shaul Judelman",
          "Eliyahu Rosenblum"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (\"End of Days\") is an [GENRE] band formed in Jerusalem in [YEAR].\n",
+      "The music of [BAND_NAME] is described as a [GENRE] band is influenced by the Hasidic rabbi Nachman of Breslov and recorded some of its [YEAR] demo in the Ukrainian city of Uman, a popular Breslov pilgrimage site. Two of [BAND_NAME]'s members grew up in the Gush Etzion settlement bloc, but are now based in Jerusalem.  [BAND_NAME] also organizes a yearly festival of the same name, held near the Judea and Samaria village of Bat Ayin, which attracts a mixed religious and secular audience of more than 1,000 people.\n",
+      "The band released a demo in [YEAR] and a self-released, self-titled debut album in [YEAR].  In [YEAR], they collaborated with the Dar Fur Stars, a band made up of Darfuri refugees living in Israel. They toured the US in [YEAR] and [YEAR], spurring criticism of their politics by blogger Daniel Sieradski and the Jewish student magazine New Voices, which the blog Jewlicious then responded to.\n"
+   ]
 }

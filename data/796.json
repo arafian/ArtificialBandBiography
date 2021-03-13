@@ -32,5 +32,10 @@
          "Daniel Cordero",
          "Ian-Paolo Lira"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band formed in Gothenburg in [YEAR]. They released their debut album, Hjärndöd musik för en hjärndöd generation (Braindead Music For A Braindead Generation) in [MONTH] [YEAR].\n",
+      "[BAND_NAME] (meaning Little Sister) was formed as Rallypack in [YEAR], by former LOK members [MONTH]tin Westerstrand (lead vocals) and [PERSON_NAME_FULL_0_MALE] (bass). After a while, Rallypack changed the name to [BAND_NAME]. In [MONTH] [YEAR] their first single \"Berätta det för Lina\" (\"Tell It to Lina\" in English) was released and in [MONTH] [YEAR] they released their first album. They are also known for their cover versions of R&B star Rihanna's \"Umbrella\" the same year ([YEAR]) and Katy Perry's \"Roar\" ([YEAR]) which became successful.\nThe style of [BAND_NAME]'s music is very similar to LOK's music.\n",
+      "They will participate in Melodifestivalen [YEAR].\n"
+   ]
 }

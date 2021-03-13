@@ -5,5 +5,10 @@
       "Hailing from New-Delhi India, Musafir-the-band streamlines the contemporary Hindi pop and folk sound, adding an arena-rock sincerity that’s well consented by its fans as ‘Indian-Pop-Rock’.\nThe band’s youthful attitude and emotive style, personified by front man Ashutosh’s dulcet vocals, and steady strings of radio-friendly rocks and manly ballads give Musafir’s music a presence, relished by the listeners of diverse genres.\n",
       "The group came together in the 2006. Lead singer Ashutosh Jain returning from Fame Gurkul – 2, set up a Music studio, joined by Rakesh Mandal and Kundan Messey, the experts who also had immense industry experience, just like Ashutosh. Amazed by the output, they decided to take music-business forward and created a live band line-up. The band completed when joined Arjun Desai on Guitars and Ravi Singh on Drums.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] (Hindi: मुसाफ़िर, Urdu: مسافر‎) is an [GENRE] band from Delhi. The name of the band, [BAND_NAME], means \"traveler\" in Hindi.  Its members include Ashutosh Jain, [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_1_MALE]. Being named one of the top five Hindi bands of India, [BAND_NAME] is becoming a popular band in South Asia.\n",
+      "Hailing from New-Delhi India, [BAND_NAME]-the-band streamlines the contemporary Hindi pop and folk sound, adding an [GENRE] band’s youthful attitude and emotive style, personified by front man Ashutosh’s dulcet vocals, and steady strings of radio-friendly rocks and manly ballads give [BAND_NAME]’s music a presence, relished by the listeners of diverse genres.\n",
+      "The group came together in the [YEAR]. Lead singer Ashutosh Jain returning from Fame Gurkul – 2, set up a Music studio, joined by [PERSON_NAME_FULL_3_MALE] and [PERSON_NAME_FULL_1_MALE], the experts who also had immense industry experience, just like Ashutosh. Amazed by the output, they decided to take music-business forward and created a live band line-up. The band completed when joined [PERSON_NAME_FULL_2_MALE] on Guitars and [PERSON_NAME_FULL_0_MALE] on Drums.\n"
+   ]
 }

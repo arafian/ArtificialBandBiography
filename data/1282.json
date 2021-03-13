@@ -35,5 +35,10 @@
          "Sisely Treasure",
          "Steven Petree"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in Los Angeles, California in [YEAR]. The band is composed of guitarist/vocalist Chad Petree, vocalist Carah Faye Charnow, keyboardist Jeremy Dawson, and drummer Mikey [MONTH]tin.\n",
+      "Their first studio album We Are Pilots ([YEAR]) had three singles peak inside the top 30 in the Alternative Songs Chart and was nominated for Best Electronic/Dance Album at the 50th Grammy Awards. Their second album Season of Poison ([YEAR]) had two singles peak inside the top 30 in the Alternative Songs Chart. \n",
+      "The band was founded in [YEAR] by bassist and keyboardist, Jeremy Dawson, and vocalist and guitarist, [PERSON_NAME_FULL_0_MALE]. Both had known each other for years growing up in Shawnee, Oklahoma and worked together on previous music projects such as Cloud2Ground and Slyder. After these projects, they went underground for a brief time and continued making music together, eventually enlisting vocalist Carah Faye Charnow to be their female vocalist, as well as drummer Mikey [MONTH]tin.\n"
+   ]
 }

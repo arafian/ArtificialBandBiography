@@ -27,5 +27,10 @@
          "Rob Nicholson",
          "Scott Peterson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band based in Santa Monica, California, United States, and originally formed in [YEAR].\n",
+      "[BAND_NAME] was formed in [YEAR] by Les Evans (age 17), [PERSON_NAME_FULL_0_MALE] (age 14) and Adam [PERSON_NAME_FIRST_0] (age 15), who met through their mutual participation in the American Youth Soccer League (AYSO). Soon they were joined by [PERSON_NAME_FULL_1_MALE] (age 15), a friend of Adam [PERSON_NAME_FIRST_0] and a fellow soccer player. Adam [PERSON_NAME_FIRST_0] was let go a few months later due to conflicts regarding his parents and school.\n",
+      "Their first demo, Life in Grave, was produced in [YEAR] and became well circulated in the burgeoning tape-trader underground. Their first full-length LP, Convicted, was released in [YEAR] on Death/Metal Blade records, whose artist roster also boasted D.R.I., Corrosion of Conformity, Dr. Know, The Mentors, and Beyond Possession. Within its first year of release, Convicted sold over 25,000 copies and earned [BAND_NAME] the reputation as being one of the fastest bands in hardcore. Next came Money Talks in [YEAR], which is still considered by many to be the band's best effort. Mixing crushing grooves with lightning speed, Money Talks surpassed Convicted's success by selling 35,000 in its first year and by earning [BAND_NAME] a fanatical following around the world. They took on the right-wing theocracy directly, with songs like \"Freedom of Expression\" that skewered the censorial nature of the Parents Music Resource Center (PMRC), founded by Al Gore's wife Tipper.  Their \"American Heroes\" directly confronted the mass media heroic mythology of the astronauts who died in the explosion of the space shuttle Challenger, when millions toil to survive daily in a world of injustice.  Along with DRI they were at the forefront of a musical genre known as much for its relentless energy as its radical anti-authoritarian politics, even if not all the listeners paid attention.\n"
+   ]
 }

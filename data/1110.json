@@ -32,5 +32,10 @@
          "Dan \"DeeRock\" Racadio",
          "Willis Mathiasen"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Malibu, California. The band is known for their energetic live performances and extensive touring history.\n",
+      "[BAND_NAME] was formed by brothers, Adam and Dave O’Rourke who shared a [GENRE] bands like Pantera and Slayer as well as Southern California punk bands such as Pennywise and Black Flag. The band released their first album Victims Of Pop Culture on Centsless Records in [YEAR].\n",
+      "The band first gained national attention with the release of Lost At Sea on Gotizm/Atlantic Records in the summer of [YEAR]. The record, produced by veteran producer Matt Hyde, received positive reviews from the metal community but little promotion from the label. The band took matters into their own hands, embarking on a grueling tour schedule for over two years which found [BAND_NAME] appearing at festivals such as Rock on the Range and the HFStival with some of the biggest names in the metal and rock world.  They also appeared on major package tours like Sounds of the Underground and gained attention by performing at several maximum security youth facilities.\n"
+   ]
 }

@@ -31,5 +31,10 @@
       "Producer": [
          "Alice in Chains"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is the third studio EP by the American rock band Alice in Chains, released on [MONTH] 25, [YEAR], through Columbia Records. This is Alice in Chains' second acoustic EP, preceded by [YEAR]'s Sap, and it is the first EP in music history to debut at No. 1 on the Billboard 200 chart, with the first week sales exceeding 141,000 copies in the United States. The self-produced EP was written and recorded over the course of just one week at the London Bridge Studio in Seattle. The tracks \"No Excuses\", \"I Stay Away\" and \"Don't Follow\" were released as singles to promote the album. [BAND_NAME] was nominated for two Grammy Awards in [YEAR]; Best Recording Package and Best Hard Rock Performance for \"I Stay Away\".\n",
+      "The EP was well received by critics and has been certified triple-platinum by the RIAA, selling 4 million copies worldwide, making [BAND_NAME] one of the band's most successful releases. In Canada, [BAND_NAME] was certified double-platinum for the sale of 200,000 copies. In Great Britain, the album was certified silver after selling 60,000 copies.\n",
+      "Following Alice in Chains' extensive [YEAR] world tour for Dirt, bassist Mike Starr getting fired during the tour for his drug use, and [PERSON_NAME_FULL_0_MALE] bassist Mike Inez joining the band, the members returned home to Seattle after the end of their Lollapalooza tour and found themselves evicted from their residence after failing to pay the rent. Homeless, the band then moved into the London Bridge Studio in Seattle.\n"
+   ]
 }

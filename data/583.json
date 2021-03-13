@@ -42,5 +42,10 @@
          "John Schlegel",
          "John Haughm"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, mixing melodic and atonal segments.\n",
+      "[BAND_NAME]'s unusual style is particularly evident on the first track of Apollo Ends, \"Washing My Hands of It\", while the track \"Snow Covers All\" uses a [GENRE] a Twelve-tone technique solo. The band also introduces classical orchestrations in some of its pieces.\n",
+      "The history and fate of [BAND_NAME] is inherently related to Agalloch because of Don Anderson's significant involvement with both bands. Because of this, [BAND_NAME] left The End Records at the same time as Agalloch.\n"
+   ]
 }

@@ -50,5 +50,10 @@
          "Troy Meiss (touring member)",
          "Ted Marcus"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band formed in [MONTH] [YEAR] in Phoenix, Arizona. The group's original lineup was Curt [PERSON_NAME_LAST_0] (guitar/vocals), his brother [PERSON_NAME_FULL_0_MALE] (bass guitar/vocals), and Derrick Bostrom (drums). The [PERSON_NAME_LAST_0] brothers met Bostrom while attending Brophy Prep High School in Phoenix. The three then moved to Tempe, Arizona (a Phoenix suburb and home to Arizona State University), where the [PERSON_NAME_LAST_0] brothers purchased two adjacent homes, one of which had a shed in the back where they regularly practiced.\n",
+      "[BAND_NAME] started as a [GENRE] band, but like most of their labelmates on SST Records, they established their own unique style, blending punk with country and psychedelic rock, and featuring Curt's warbling vocals. [BAND_NAME] later gained significant exposure when the Kirkwood brothers served as guest musicians on Nirvana's MTV Unplugged performance in [YEAR]. The band's [YEAR] album Too High to Die subsequently became their most successful release. The band broke up twice, in [YEAR] and [YEAR], but reunited again in [YEAR].\n",
+      "[BAND_NAME] have influenced a [GENRE] bands, including Nirvana, Soundgarden, Dinosaur Jr, Sebadoh, Pavement, and Jawbreaker.\n"
+   ]
 }

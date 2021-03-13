@@ -33,5 +33,10 @@
          "Eric Mauk",
          "Terry Evans (d. 2019)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band from Columbus, Ohio, United States, that formed in [YEAR].\n",
+      "Formed in [YEAR], the band conceived their moniker only to later learn of a band from New York City already known as the Godz. A monetary settlement allowed them to keep their name. [BAND_NAME] did not have a recording contract when they hit the road with Kiss alongside Cheap Trick in [YEAR]. The band released its debut album, [BAND_NAME], the next year on Millennium Records. In addition to being on the Kiss Love Gun tour, they played on what was billed as the \"Heaven and Hell Tour\" by embarking on the road with Angel. \"Godz are macho, mean biker boys,\" wrote [PERSON_NAME_FULL_0_FEMALE] in [YEAR]. \"Their songs are about dope and bikes and rock and sex. They're loud, brash, crude, but a bloody good rock band.\"\n",
+      "In [YEAR], band's original label, Millennium Records, changed its distribution from Casablanca Records to RCA Records and the Millennium label was subsequently folded altogether. Millennium's parent label, Casablanca Records, picked up the Godz to fulfill their contractual obligation with the band but had no particular enthusiasm for them when their second album, Nothing is Sacred, was released the same year.\n"
+   ]
 }

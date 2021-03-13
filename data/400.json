@@ -5,5 +5,10 @@
       "Anchordown started in early 2006. The band formed from a community of Christ-followers in Reno, NV called Living Stones. Donald Zimmerman started the band, with the notion that music could challenge the corporate church. Their music is melodic, with hopeful lyrics.\n",
       "The band toured extensively throughout 2006-2008, covering most of the western United States, particularly Colorado, Utah, Washington, California, Nebraska and Texas.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from Reno, Nevada.  They disbanded and reformed in [MONTH] of [YEAR] under the new name, Zimmerman.\n",
+      "[BAND_NAME] started in early [YEAR]. The band formed from a community of Christ-followers in Reno, NV called Living Stones. [PERSON_NAME_FULL_0_MALE] started the band, with the notion that music could challenge the corporate church. Their music is melodic, with hopeful lyrics.\n",
+      "The band toured extensively throughout [YEAR]-[YEAR], covering most of the western United States, particularly Colorado, Utah, Washington, California, Nebraska and Texas.\n"
+   ]
 }

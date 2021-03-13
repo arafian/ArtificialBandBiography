@@ -25,5 +25,10 @@
       "Members": [
          "Daniel Granstedt, Niklas Österlund, Håkan Skoger, Johan Andreassen, Hezzy"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from the city of Gothenburg. The band was formed back in [YEAR], by drummer Niklas Österlund and guitarist Daniel (Schou) Granstedt. Almost all of their songs are free to download at their own website.\n",
+      "In [YEAR] the band signed with Gain Productions / Gain Recordings, also from Gothenburg, Sweden. [BAND_NAME] performed at several Scandinavian festivals during [YEAR] and [YEAR], for instance Hultsfredsfestivalen [YEAR] and Tuska Open Air Metal Festival in [YEAR]. During these years they also did a [GENRE] band has released four studio albums: \"Bullsized\" ([YEAR]), \"Delicate\" ([YEAR]), \"Pieces\" ([YEAR]) and \"12-12-12\" ([YEAR]).\n",
+      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

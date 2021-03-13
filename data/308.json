@@ -28,5 +28,10 @@
       "Past members": [
          "Garnet Kulhavy"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from Vancouver, British Columbia.\n",
+      "The band formed in [YEAR] near Surrey. and were commonly known as the acronym B.N.U. in the early years, as a [GENRE] a playbill.  They started by playing locally in Vancouver.\n",
+      "They were featured on Thrasher Skate Rock Vol. 11 and in [YEAR] they were winners of CITR-FM's [YEAR] SHiNDiG live performance contest, which awarded them some studio time.\n"
+   ]
 }

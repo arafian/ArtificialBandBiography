@@ -45,5 +45,10 @@
          "Shannon Hoon",
          "Brad Smith"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR] in Los Angeles, California, by five musicians: three from Mississippi, one from Pennsylvania and one from Indiana. The band currently consists of guitarists Rogers Stevens and [PERSON_NAME_FULL_1_MALE], drummer Glen Graham, vocalist [PERSON_NAME_FULL_0_MALE] and bassist [PERSON_NAME_FULL_2_MALE]. They are best known for their [YEAR] hit \"No Rain\", and enjoyed critical and commercial success in the early [YEAR]s with their neo-psychedelic take on alternative rock.\n",
+      "[BAND_NAME] released two albums on Capitol Records – [BAND_NAME] ([YEAR]) and Soup ([YEAR]) – before their original lead vocalist [PERSON_NAME_FULL_0_FEMALE] died of a [GENRE] band's tour bus in New Orleans on [MONTH] 21, [YEAR]. After four years of unsuccessfully searching for a replacement for [PERSON_NAME_LAST_0], [BAND_NAME] officially dissolved in [YEAR]. The remaining members reformed the band in [YEAR] with Warren and recorded one album with him, For My Friends ([YEAR]). Shortly after its release, Warren left [BAND_NAME] but rejoined in [YEAR], when the band returned to performing occasional gigs.  [BAND_NAME] is currently working on their fourth studio album. [BAND_NAME] has been nominated for 4 Grammy Awards.\n",
+      "[BAND_NAME] formed in Los Angeles in [MONTH] [YEAR] after West Point, Mississippi, transplants Rogers Stevens and [PERSON_NAME_FULL_0_MALE], a [GENRE] a native of Lafayette, Indiana.  Guitarist Christopher Thorn, originally from Pennsylvania, was added shortly thereafter; the four eventually convinced drummer Glen Graham to relocate from Mississippi to complete the group after failing to find a drummer in Los Angeles.  Their moniker derived from a nickname [PERSON_NAME_LAST_0] had observed among Mississippi hippies, a name with precedent in the [YEAR]s blues artist Blind Lemon Jefferson and the Cheech & Chong character [BAND_NAME] Chitlin'.\n"
+   ]
 }

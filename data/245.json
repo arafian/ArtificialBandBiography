@@ -4,5 +4,9 @@
       "Ila Auto is a Spellemannprisen winning bluegrass band from Oslo, Norway. The band was established in 2005.\n",
       "This article about a Norwegian band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Oslo, Norway. The band was established in [YEAR].\n",
+      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

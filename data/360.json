@@ -35,5 +35,10 @@
          "Will Campagna",
          "Chris Stanley"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Vancouver. The band formed in [YEAR], and features former Strapping Young Lad members Byron Stroud, [PERSON_NAME_FULL_1_MALE] and Gene Hoglan, along with vocalist [PERSON_NAME_FULL_0_MALE].\n",
+      "[BAND_NAME] began life as a [GENRE] band's debut album Bound by Fire was produced by [PERSON_NAME_FULL_2_MALE] and released on his label Hevy Devy Records. The band was named after the sphincter of the band's late mutual friend [PERSON_NAME_FULL_3_MALE], who would chase other people with his buttcheeks spread during parties. Lyrics took inspiration from comedic anecdotes from tours past, backed by middle-of-the-road \"metal flying V riffs\", usually stolen from Kiss and Morbid Angel. Details of the bizarre back stories for all the songs were provided by [PERSON_NAME_FULL_0_MALE] (\"'Gospel Sodomy Boy on Blow' is about an asshole called Troy who wouldn't stop doing coke and spouting about Jesus\") and posted on the official Strapping Young Lad forums by [PERSON_NAME_FULL_1_FEMALE] around [YEAR].\n",
+      "In [YEAR], when Strapping Young Lad finished touring, [PERSON_NAME_FULL_1_MALE] and Byron Stroud had Townsend to produce the second album, Legion of Flames. It was released on Townsend's label Hevy Devy Records. Legion of Flames included song parodies such as \"Gender of the Beast\" (\"Number of the Beast\", Iron Maiden), \"Sodomanaz\" (\"Go for a Soda\", [PERSON_NAME_FULL_0_FEMALE]), and a spoof of Metallica's \"Master of Puppets\" in the song \"Evil Robots\", with the line \"Napster, Napster, where's the cash that I've been after?\". The album also contained a cover of Joni [PERSON_NAME_LAST_0]'s \"This Flight Tonight\", with humorously altered lyrics.\n"
+   ]
 }

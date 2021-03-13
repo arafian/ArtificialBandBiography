@@ -33,5 +33,10 @@
          "L.J. Granstaff",
          "Jason Killebrew"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, while they were formerly known as, Special D. They come from Hopkinsville, Kentucky, where the band started making music in [YEAR], and their frontman is [PERSON_NAME_FULL_0_MALE]. The first studio album, [BAND_NAME], was released by Revolution Art, in [YEAR]. Their subsequent studio album, For All of Us, was released independently, in [YEAR].\n",
+      "[BAND_NAME] is a [GENRE] band from Hopkinsville, Kentucky, while they were formed in [YEAR], being known as Special D.  They changed the name to [BAND_NAME] around [YEAR]. Their current members are lead vocalist, [PERSON_NAME_FULL_0_MALE], guitarist and background vocalist, [PERSON_NAME_FULL_2_MALE], and bassist, Joel Purdy, while their past members were background vocalist and guitarist, L.J. Granstaff, and drummer, [PERSON_NAME_FULL_1_MALE].\n",
+      "The band commenced as a musical entity in [YEAR], with their first release, Over and Over, an extended play as Special D, that was released independently, in [YEAR]. They released, a studio album, [BAND_NAME], on [MONTH] 26, [YEAR], with Revolution Art. Their subsequent studio album, For All of Us, was released independently, on [MONTH] 15, [YEAR].\n"
+   ]
 }

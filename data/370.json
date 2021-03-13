@@ -24,5 +24,10 @@
          "Nathan Gage",
          "John Crellin"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] band from Victoria, British Columbia. There are four members — Nathan Gage, singers Caila Thompson-Hannant and [PERSON_NAME_FULL_0_MALE], and John Crellin. \n",
+      "Shapes and sizes came together in Victoria and self-released their self-titled first album in early [YEAR].  The band signed with New York record label Asthmatic Kitty and became the only Canadian band on its roster. The label reissued the band's album in [MONTH] [YEAR]. \n",
+      "In [MONTH] [YEAR], the band released a [GENRE] band's second full-length album, Split Lips, Winning Hips, A Shiner, was released in [MONTH] [YEAR].\n"
+   ]
 }

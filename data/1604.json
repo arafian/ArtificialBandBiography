@@ -21,5 +21,10 @@
          "Rosca Lopez (keyboards and vocals)",
          "Rafael Zorilla (drums and vocals)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were a [GENRE] band famous for having released Recuerdos de mi tierra ([YEAR]). It is a mix of flamenco-rock and progressive rock that's energetic, powerful and melodic from start to finish.\n",
+      "They released a second album, Califas del rock, in [YEAR].\n",
+      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

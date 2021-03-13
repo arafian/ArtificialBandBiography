@@ -5,5 +5,10 @@
       "To capitalise on the attention, the song was recorded and released as a single by Dos Rombos records, which went on to sell 12000 copies. However, legal difficulties created problems for the group on their promotional tour. The band dissolved in 1983 although they reformed briefly in 1985 to play some gigs.\n",
       "Lupe Vázquez died in 1993. The remaining Vulpes reformed for a concert in 2005. An album of rerecordings, Me Gusta Ser, was released in 2006.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] (aka Las VulpeSS) was the first Spanish all-female punk rock band, formed in Barakaldo (Greater Bilbao, Basque Country) in the summer of [YEAR]. They became famous the following year when they appeared on TV programme Caja de Ritmos, performing their song \"Me Gusta Ser una Zorra\" (\"I Like Being a Slut\"). The song is a cover of The Stooges song \"I Wanna Be Your Dog\" with adapted Spanish lyrics. Many viewers complained about their performance, which led to a media scandal and court case.\n",
+      "To capitalise on the attention, the song was recorded and released as a single by Dos Rombos records, which went on to sell [YEAR]0 copies. However, legal difficulties created problems for the group on their promotional tour. The band dissolved in [YEAR] although they reformed briefly in [YEAR] to play some gigs.\n",
+      "Lupe Vázquez died in [YEAR]. The remaining [BAND_NAME] reformed for a concert in [YEAR]. An album of rerecordings, Me Gusta Ser, was released in [YEAR].\n"
+   ]
 }

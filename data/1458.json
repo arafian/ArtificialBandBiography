@@ -12,5 +12,10 @@
       "Notable honours": [
          "World Champions: 1921, 1922, 1923, 1925, 1932, 1933, 1934, 1953"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] was a [GENRE] band based in Glasgow. \n",
+      "The civilian City of Glasgow Pipe Band was established by [PERSON_NAME_FULL_0_MALE] in [MONTH] [YEAR], who had previously led the pipe band of the 7th (Blythswood) Battalion Highland Light Infantry, a [GENRE] band of the 7th Battalion won the World Pipe Band Championships in [YEAR], and [PERSON_NAME_LAST_0] resigned along with much of his band after the annual camp of [YEAR]. The first time the City of Glasgow Pipe Band entered the World Championships in [YEAR] it won second place.\n",
+      "When World War I broke out the band was disbanded, but was reformed under the leadership of [PERSON_NAME_FULL_0_MALE] in [YEAR]. MacRae died in [YEAR], and the name of the band was changed to the [BAND_NAME] at some point in the [YEAR]s. At one point under Ferguson's leadership, the band contained six qualified Pipe majors.\n"
+   ]
 }

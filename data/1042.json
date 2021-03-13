@@ -42,5 +42,10 @@
          "A.J. Vincent",
          "Joseph Mirasole"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Austin, Texas. The band is composed of Jackie O'Brien on bass and vocals, [PERSON_NAME_FULL_0_MALE] on guitar and vocals, Edward \"Shreddward\" Braillif on synthesizers and guitar, and Zac Catanzaro on drums.\n",
+      "In [MONTH] [YEAR], Southwestern University students Curtis Roush (guitar), [PERSON_NAME_FULL_0_MALE] (drums) and Jack O’Brien (vocals/keyboards), along with Ryan “Badcock” O’Donoghue (bass) began playing together as a [GENRE] bands such as 25 Dollar Massacre, Thumbscrew and At All Cost and quickly grew a reputation for their visceral live shows. The band took a year hiatus while Roush studied audio engineering and O’Brien studied linguistics and Flamenco guitar in Madrid, during which time [PERSON_NAME_LAST_0] moved away to study eco building.\n",
+      "In [MONTH] [YEAR], upon O’Brien's return, the band brought in Joseph Mirasole, a [GENRE] a local high school drum line, via Craigslist. During this period the band recorded their first studio EP, Touches.  Soon after, the band relocated to Austin where O’Brien and Roush enrolled in Master's programs at the University of Texas. They parted ways amicably with Badcock, with Jack taking over bass duties and Roush helping with vocals.\n"
+   ]
 }

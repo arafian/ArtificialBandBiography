@@ -33,5 +33,10 @@
          "Hugo Barrientos Jr – drums",
          "Chris Swimley – drums"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band based in Oakland, California. They gained fame for winning YouTube's first music contest, \"The Youtube Underground\", for their music video  \"He Said, She Said\".\n",
+      "[BAND_NAME] was founded in [YEAR] by lead singer [PERSON_NAME_FULL_0_MALE], who used the stage name [PERSON_NAME_FIRST_0] Divine. Born and raised in Santa Cruz, Divine founded [BAND_NAME] in [MONTH] [YEAR], picking musicians he had worked with from defunct Bay Area bands Solemite, Soundboy, and The K.G.B. The band made its first EP Malfunction later that year produced by guitarist [PERSON_NAME_FULL_1_MALE]. Divine and [PERSON_NAME_LAST_1] had both worked as music producers for other Bay Area bands.\n",
+      "Divine said the name \"[BAND_NAME]\" comes from the term for a [GENRE]"
+   ]
 }

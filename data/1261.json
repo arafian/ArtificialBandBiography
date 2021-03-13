@@ -32,5 +32,10 @@
          "Rich \"Evac\" Robinson",
          "Mariska Leyssius"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band of the early [YEAR]s, consisting of Perry Farrell (vocals), [PERSON_NAME_FULL_1_MALE] (drums and percussion), [PERSON_NAME_FULL_0_MALE] (guitar) and Kelly Wheeler (bass). Prominent in the underground Los Angeles music scene, the group were noted for being the first band of Farrell, who went on to achieve greater fame in the bands [MONTH]e's Addiction, Porno for Pyros and the Satellite Party.\n",
+      "The first incarnation of the band, later known as [BAND_NAME], was initiated in [YEAR] by Duran, bassist Rich \"Evac\" Robinson (formerly of Afterimage), and Robinson's wife, keyboardist [MONTH]iska Leyssius. Lacking a [GENRE] a classified ad in the free weekly L.A. newspaper The Recycler. Farrell responded to the ad, with the intention of becoming the group's singer rather than drummer. Robinson agreed to let Farrell join the band as the vocalist in early [YEAR].\n",
+      "On [MONTH] 27, [YEAR], the band recorded and rough-mixed a three-song demo cassette known as Worktape 1 at Pacifica Studios in Los Angeles. The tape, consisting of \"Hopeful\", \"Them\" and \"[BAND_NAME] Theme\", was produced by the band and [PERSON_NAME_FULL_0_MALE], and engineered by Glenn Feit. Additional copies of the cassette were manufactured and sold at [BAND_NAME] concerts. Robinson and Leyssius left after the demo recording. The drummer ad was left in The Recycler because the band was still practicing with the aid of a drum machine. Sherer called Farrell in response to the ad, and after he finally joined Duran and Farrell, [BAND_NAME] played their first significant live show, opening for the Cult at L.A.'s Music Machine club on [MONTH] 1, [YEAR]. One notable gig was held on the roof of the Oki Dog fast food restaurant, playing with the Minutemen.\n"
+   ]
 }

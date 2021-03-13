@@ -26,5 +26,9 @@
          " J.W. Brown ",
          " Liza Flood"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band located in Crozet, Virginia. The band is made up of four musicians who play a wide range of traditional instruments and their recordings receive regular airplay on [GENRE] Sunday Morning on WNRN.\n",
+      "The band recorded two self-produced albums:\n"
+   ]
 }

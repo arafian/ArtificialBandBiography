@@ -36,5 +36,10 @@
          "Greg Hosharian",
          "Ray Alder"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, based in Los Angeles, California, United States, but with multinational members, and currently signed to AFM Records. \n",
+      "The New Jersey-based independent label Sensory Records -- associated with many up-and-coming progressive metal bands and responsible for signing Riverside, Delain and Circus Maximus, among others -- signed [BAND_NAME] to a two-record deal including the self-titled debut record which was released in [YEAR]. The band was invited to perform at Progpower USA IV on [MONTH] 5, [YEAR] at Center Stage (then called Earthlink Live) in Atlanta, GA. With Versailles now a member but with Rullo being unavailable to perform due to commitments to Symphony X, van Dyk scouted Los Angeles-based progressive metal band Prymary and met drummer [PERSON_NAME_FULL_0_MALE], bassist James Sherwood and keyboardist Smiley Sean, whom he recruited to perform with the band. As Mythiasin was considered not to be the best fit with the band, van Dyk approached Colorado-based vocalist Corey Brown to perform. [PERSON_NAME_FULL_1_MALE] made a guest appearance on the one track that he performed on the record.\n",
+      "Inspired by a [GENRE] an instrumental which was released as one of the winners of the contest to members of Dream Theater's fan club at the time. Energized by the experience, van Dyk wrote more music which reflected significant musical growth from the band's initial release as well as lyrics that were more contemplative first-person accounts of real life experience instead of the third party storytelling that made up the bulk of the band's first record. With the working title of The Fullness of Time, the band recorded the music and before they could approach [PERSON_NAME_FULL_0_MALE] to determine if he would sing on it, Ray Alder said that he felt the material was strong enough to join the band. \n"
+   ]
 }

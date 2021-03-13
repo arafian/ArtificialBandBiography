@@ -32,5 +32,10 @@
          "Joan Osborne",
          "Warren Haynes"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band composed of some of the former members of the Grateful Dead.\n",
+      "After the death of Jerry Garcia in [YEAR], [PERSON_NAME_FULL_2_MALE], [PERSON_NAME_FULL_1_MALE], Mickey Hart, and [PERSON_NAME_FULL_0_MALE] formed the band The Other Ones, performing concert tours in [YEAR] (without [PERSON_NAME_LAST_0]), [YEAR] (without [PERSON_NAME_LAST_1]), and [YEAR], and released one album, The Strange Remain.  In [YEAR], they changed their name to [BAND_NAME].\n",
+      "In addition to Weir, Lesh, Hart and Kreutzmann, the [YEAR] lineup of the band included Jimmy Herring, [PERSON_NAME_FULL_1_MALE], Rob Barraco, and [PERSON_NAME_FULL_0_FEMALE]. The band was first officially billed as [BAND_NAME] on [MONTH] 14, [YEAR] at the Warfield in San Francisco. Later that year, the band opened up their summer tour (titled as \"Summer Getaway\") on [MONTH] 15 at the Bonnaroo Music Festival. They ended [YEAR] with two New Year's dates at the Oakland Coliseum on [MONTH] 30 and 31.\n"
+   ]
 }

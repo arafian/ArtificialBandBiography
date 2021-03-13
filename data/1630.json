@@ -33,5 +33,9 @@
          "Manuel Ramil",
          "Alberto Ardines"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Asturias, Spain. The band was formed in [YEAR] after the departure of the ex-WarCry members [PERSON_NAME_FULL_1_MALE], Fernando Mon, and [PERSON_NAME_FULL_0_MALE], along with ex-Hard Spirit Toni Amboaje.\n",
+      "When they were out of WarCry they decided to form a [GENRE] band, Ardines called Mon to show him an album by Hard Spirit a metal band that had just been created and helped by Triple-A-Metal (Ardines's own record label), with the purpose of showing Mon the vocal qualities of Amboaje. They decided that he was the singer they were looking for, and called [PERSON_NAME_LAST_0] to join them. [PERSON_NAME_FULL_0_MALE] was trying to participate in both bands WarCry and [BAND_NAME], but it was getting more difficult due to the distance between his home in Galicia and the rest of the members' in Asturias, they decided that [PERSON_NAME_LAST_0] could no longer be a member of the band and he left WarCry, now he's completely dedicated to [BAND_NAME], which is currently working on what it will be their debut album.\n"
+   ]
 }

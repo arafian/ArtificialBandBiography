@@ -24,5 +24,10 @@
       "Website": [
          "www.holyokecaledonians.com"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] is a [GENRE] band based out of Holyoke, Massachusetts. Founded in [YEAR], it is the oldest [GENRE] band in continuous existence in the United States. A regular feature in the Holyoke Saint Patrick's Day Parade since the first in [YEAR], the band also performs at Smith College's annual commencement, as well as charity and private events.\n",
+      "The pipe band was first founded by two Scottish immigrants Bob Ramsay and [PERSON_NAME_FULL_0_MALE], soon after arriving in Holyoke, and was initially connected to the Holyoke Caledonian Benefit Club. The Caledonian club, established in [YEAR], was a [GENRE] band would hold regular rehearsals on the top floor of their namesake Caledonia Building in downtown Holyoke until [YEAR].\n",
+      "The band would make its first official appearance in Holyoke in the [MONTH] 4th parade of [YEAR], with 8 pipers, 2 snares, and a [GENRE] band in this capacity until [YEAR]. In their first appearance the pipe band wore no special uniforms or tartan. Within the next year the band had taken up the Ramsay Tartan, which it wore until [YEAR] when the Gordon tartan was adopted, as this tartan was readily produced by a local Holyoke mill. From [YEAR] until today the band has worn the Royal Stewart tartan.\n"
+   ]
 }

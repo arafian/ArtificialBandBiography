@@ -49,5 +49,10 @@
          "Skoota Warner",
          "Barry Mitterhoff"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR] by former Jefferson Airplane members [PERSON_NAME_FULL_0_MALE] (guitarist/vocals) and Jack Casady (bassist). Although it has always been a fluid aggregation, with musicians coming and going over the years, the band's name has essentially become a metonym for [PERSON_NAME_LAST_0] and Casady's ongoing collaboration.\n",
+      "[BAND_NAME] began as a side project to Jefferson Airplane, intended to mark time while [PERSON_NAME_FULL_0_FEMALE] recovered from throat node surgery that had left her unable to perform. The band's name came from someone [PERSON_NAME_FULL_2_MALE] referred to as a \"witty wag\" who called out, \"hot tuna\" after hearing the line 'What's that smell like fish, oh baby,' from the song \"Keep On Truckin'.\" [PERSON_NAME_LAST_2], Jack Casady, [PERSON_NAME_FULL_1_MALE] and new drummer [PERSON_NAME_FULL_4_MALE] played several shows around San Francisco, including the Airplane's original club, The Matrix, before Jefferson Airplane resumed performing to support Volunteers. (Although [PERSON_NAME_LAST_4] had been hired by Jefferson Airplane, he only performed at select engagements, with Spencer Dryden continuing to perform as the band's principal drummer until his [YEAR] dismissal). Once the Airplane had resumed touring, Tuna found itself opening for the Airplane. Their early repertoire derived mainly from [PERSON_NAME_LAST_2]'s Airplane material and covers of American country and blues artists such as Reverend Gary Davis, Jelly Roll Morton, [PERSON_NAME_FULL_3_MALE] and Blind Blake.\n",
+      "In [MONTH] [YEAR], Kaukonen and Casady employed the moniker for a [GENRE] band's eponymous debut album in [YEAR]. This album has become affectionately known by the group's fans as the \"breaking glass album\", because of the sound of breaking beer glasses during the recording of \"Uncle Sam Blues.\" Some tracks included [PERSON_NAME_FULL_0_MALE] on harmonica.  After the album was recorded, Jorma's brother Peter Kaukonen soon replaced Kantner on rhythm guitar and [PERSON_NAME_FULL_1_MALE] co-lead vocalist [MONTH]ty Balin joined on vocals for the electric songs. In [YEAR], the younger Kaukonen was replaced by Paul Ziegler.\n"
+   ]
 }

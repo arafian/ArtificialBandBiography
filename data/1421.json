@@ -20,5 +20,10 @@
          "Ada",
          "Jackson Pollis"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band, consisting of siblings [PERSON_NAME_FULL_0_MALE] (born [MONTH] 21, [YEAR]) and [PERSON_NAME_FULL_1_FEMALE] (born [MONTH] 4, [YEAR]) and their friend Jackson Pollis. All members are from Brooklyn, New York.\n",
+      "The adolescent punk group came to international attention after putting some of their homemade recordings on a Myspace page in the spring of [YEAR]. Before they had even performed their first live show, they were featured in Newsweek, who called their \"brief, bratty\" songs \"remarkable\".\n",
+      "Shortly thereafter, British independent label Tigertrap Records, compiled three songs from the home recordings as the EP Big Noise. The entire pressing sold out almost immediately and influential UK music tastemakers Artrocker Magazine featured them on the cover proclaiming them \"the future of rock and roll.\" Influential rocker David Bowie praised the band in several media outlets, declaring their first single \"Genius.\"  A second home-recorded EP K.I.D.S. was released in [MONTH] [YEAR] and also sold out immediately.\n"
+   ]
 }

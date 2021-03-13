@@ -52,5 +52,10 @@
          "Spencer Bartz",
          "Jason Kaye"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band based in Los Angeles, California. The group was formed in [YEAR], by [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_0_MALE]. The band has released four full-length albums, Goblin Island, Stench, Heavy Meta, and Welcome to Bonkers and one EP, Power. The band's music centers around goblins.\n",
+      "[BAND_NAME] was formed in [YEAR] by [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_4_MALE] in Palo Alto, California. The two of them recorded [BAND_NAME]'s first album, Goblin Island, in [PERSON_NAME_LAST_4]'s basement. On his return to school at the University of California, [PERSON_NAME_FULL_5_FEMALE], [PERSON_NAME_LAST_4] found [PERSON_NAME_FULL_6_FEMALE], [PERSON_NAME_FULL_1_MALE], Spencer Bartz, [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_2], and Austin Nickel to form the rest of the band. The group played eleven shows before Bartz moved to Japan, and was replaced by [PERSON_NAME_FULL_3_MALE].\n",
+      "On [MONTH] 19, [YEAR] the band released Stench. Stench was reviewed positively by \"Pop and Hiss\", the Los Angeles Times music blog, which praised its technical proficiency and songwriting, and described its inclusion of electronic elements as working \"surprisingly well.\" Metal Sucks also praised the album with a [GENRE] a 9/10 rating, calling it \"fun and entertaining.\"\n"
+   ]
 }

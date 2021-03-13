@@ -48,5 +48,10 @@
          "Luke Johnson\n",
          "Joe Letz\n  "
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in Los Angeles, California in [YEAR]. The band was founded by front man and singer Casey Chaos and combines elements of punk rock, hardcore, and heavy metal. [BAND_NAME] has released four studio albums, one live album, and the songs \"Coma America\", \"The Price of Reality\", and \"California's Bleeding\". The band saw continuous changes in membership, with Casey Chaos remaining the sole original member. In [YEAR], [BAND_NAME] went on hiatus and returned in [YEAR] with an appearance at that year's Knotfest.\n",
+      "[BAND_NAME] was formed in [YEAR] in Los Angeles, California, after the disbanding of its frontman and singer Casey Chaos's previous band, Disorderly Conduct. The name \"[BAND_NAME]\" is a reference to the title of Disorderly Conduct's [YEAR] album of the same name.\n",
+      "The band's first album, Slave, was written and performed almost entirely by Chaos himself, with [PERSON_NAME_FULL_0_MALE] performing guitars and keyboards on a few tracks. Slave was recorded at Sandbox & [MONTH]quee West and mixed at Convent Studio in Los Angeles, California, and was limited to a run of only [YEAR] copies.\n"
+   ]
 }

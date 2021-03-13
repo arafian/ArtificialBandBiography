@@ -38,5 +38,10 @@
          "Jonathan Moos",
          "Steven Krow"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band led by [PERSON_NAME_FULL_0_MALE], and part of the [GENRE] ministry of New Life Church in Colorado Springs, Colorado.\n",
+      "The band has been featured on the main stage at Creation East and Kingdom Bound, and has led worship in the Worship Tent at both Creation East and KingdomBound. They have also been featured on Teen Mania's Acquire the Fire tour dates in stadiums around the country. Their albums, recorded live at New Life Church, appear on Integrity’s Vertical Music label and feature \"high-energy, passionate new worship songs that convey the hunger of their generation for God.\"\n",
+      "[BAND_NAME] was first formed in [YEAR], when New Life Church pastor David Perkins suggested that [PERSON_NAME_FULL_1_MALE], Jared Anderson, and [PERSON_NAME_FULL_0_MALE] play together with their bands at the first Desperation Conference. Held annually in [MONTH], Desperation Conferences draw thousands of college and high school students.\n"
+   ]
 }

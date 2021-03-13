@@ -46,5 +46,10 @@
          "Kenny Susan",
          "others listed below"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band based in Sonoma County, California, formed in [YEAR]. The main members are [PERSON_NAME_FULL_3_MALE] (lead vocals, guitar, harmonica), Rob Ruiz (bass guitar, backing vocals), [PERSON_NAME_FULL_0_MALE] (drums), [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_2] (lead guitar, backing vocals), Russ Kerger (keyboards), and [PERSON_NAME_FULL_1_MALE] (lead guitar, backing vocals).\n",
+      "[PERSON_NAME_FULL_0_MALE], by his own estimation, has written about 1,000 songs. [BAND_NAME], including solo albums and side projects by [PERSON_NAME_FULL_0_MALE], have recorded 26 albums. They have performed thousands of gigs, mostly in the greater San Francisco Bay and North Bay Areas, but also throughout California and the United States, and have toured in the United Kingdom as well. They have performed as an [GENRE]",
+      "Danny Sorentino was born in [YEAR] in San Francisco, and grew up in the Excelsior District. He moved to Petaluma (Sonoma County) in [YEAR]. He graduated from Rancho Cotate High School in Rohnert Park (Sonoma County), and studied at Santa Rosa [MONTH]ior College (Santa Rosa, California). He started playing the guitar at age 17, and wrote his first song in [YEAR]. Danny has worked as a longshoreman in the San Francisco Bay Area since [YEAR], and is a member of the ILWU. He and his wife have three grown children and four grandchildren. Danny was the founder and lead singer of the rock band The Chills, a precursor band to [BAND_NAME].\n"
+   ]
 }

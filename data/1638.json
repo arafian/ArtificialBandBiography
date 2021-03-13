@@ -27,5 +27,10 @@
          "Charly Domínguez",
          "Tino"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Ourense, Galicia. The band was founded in the [YEAR]s by the Domínguez brothers: Charly, bassist and Yosi Domínguez, vocalist.\n",
+      "The chance to record their first album, Esta vida me va a matar (This Life is going to kill me), appeared after being the support band of The Ramones in A Coruña, during one of the visits of this punk band to Europe. With this album important songs like \"Peligrosa [MONTH]ía\" or \"Viene el tren\" were published. After eight years passed going unnoticed they achieved a real success with their third album Ese día piensa en mí ([YEAR]). This point marked the beginning of their most successful stage.\n",
+      "The band is considered to be one of the best live band of the country ever.\n"
+   ]
 }

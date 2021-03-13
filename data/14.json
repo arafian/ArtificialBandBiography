@@ -24,5 +24,10 @@
          "Eric Vermillion",
          "Malcolm Riviera"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in New York City in [YEAR]. The original lineup consisted of Don Fleming (vocals and guitar), [PERSON_NAME_FULL_0_MALE] (vocals, bass), and Jay Spiegel (drums). In [YEAR], a fourth member was added, [PERSON_NAME_FULL_1_MALE] (guitar, keyboards) who had previously played with Fleming and Spiegel in the Velvet Monkeys.\n",
+      "After Fleming and [PERSON_NAME_LAST_0]'s group B.A.L.L. broke up in [YEAR], the duo briefly joined Dinosaur Jr. and released one single on the Sub Pop label. The two left Dinosaur Jr. shortly after the release of the single. [PERSON_NAME_FULL_0_MALE] approached his friend Eric Vermillion, a [GENRE] a week's rehearsal, the new trio played its first show and [BAND_NAME] was born. \n",
+      "The fall of [YEAR] found [BAND_NAME] in the studio, and their first release came out shortly thereafter on the Paperhouse/Sire label in England. The release was a [GENRE]"
+   ]
 }

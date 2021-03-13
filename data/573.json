@@ -36,5 +36,10 @@
          "Ulrik Lindblom",
          "Magnus Sahlgren"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band originally formed in [YEAR], generally considered to play gothic metal/gothic rock and doom metal. However, their sound has expanded to include psychedelic rock and progressive rock elements. The band broke up in [YEAR] amid creative differences, but reunited in late [YEAR], releasing the acclaimed album Black Brick Road. They released their eighth studio album, Illwill, in [MONTH] [YEAR]. In [YEAR] they released their first live album, By the Black Sea. The band's newest album, titled Ominous, was released on [MONTH] 18th [YEAR].\n",
+      "[BAND_NAME] was founded in the early [YEAR]s by Daniel Brennare, [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_2_MALE].  Their first album, entitled Greater Art, was released through the record label Black [MONTH]k Production in [YEAR]. The album is doom metal featuring coarse, ragged vocals and crushing guitars. The band would subsequently steer away from such a directly categorized style, only revisiting it on their [YEAR] release Illwill.\n",
+      "[BAND_NAME] wowed critics and fans alike with their second recording, Headstones, released in [YEAR]. The music underwent important changes, expanding on the riff-base of doom metal to achieve a [GENRE]"
+   ]
 }

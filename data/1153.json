@@ -87,5 +87,10 @@
          "Tiia",
          "Gian Peres"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in Los Angeles County, California, in [YEAR] by Rozz Williams. With major line-up changes over the years, [BAND_NAME] has retained \"a relentlessly confrontational stand against organized religion and conventional morality\".\n",
+      "Williams was eventually joined by guitarist Rikk Agnew of the band Adolescents, James McGearty on bass guitar and [PERSON_NAME_FULL_2_MALE] on drums. This line-up was responsible for producing the band's best known work, their [YEAR] debut album Only Theatre of Pain, which was highly influential in the development of the style of music known as deathrock, as well as on the American gothic scene which also produced bands such as Kommunity FK and 45 Grave.\n",
+      "Following the release of Only Theatre of Pain, [BAND_NAME]'s line-up had fallen apart, and by the time of the band's second album, Catastrophe Ballet ([YEAR]), Rozz was joined by Valor Kand of tour mates Pompeii 99 on vocals and guitar. Following the release of the band's third album, Ashes, in [YEAR], Williams left the band and was controversially replaced by Valor as frontperson of the band, with no original members of the band remaining, causing a [GENRE] band's fanbase that has continued to this day.\n"
+   ]
 }

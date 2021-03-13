@@ -51,5 +51,10 @@
       "Past members": [
          "see past members"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, originating in Oakland, California, that has been performing since [YEAR]. There have been a number of lead vocalists, the most well-known being Lenny Williams, who fronted the band between early [YEAR] and late [YEAR], the period of their greatest commercial success. They have had eight songs on the Billboard Hot 100; their highest-charting songs include \"You're Still a Young Man\", \"So Very Hard to Go\", \"What Is Hip?\", and \"Don't Change Horses (in the Middle of a Stream)\".\n",
+      "In the summer of [YEAR], tenor saxophonist/vocalist [PERSON_NAME_FULL_0_MALE] met Stephen \"Doc\" Kupka, who played baritone sax. [PERSON_NAME_LAST_0] had played in several bands, but [PERSON_NAME_LAST_0]'s father told his son to \"hire that guy\" after a [GENRE]",
+      "Castillo wanted to play Bill Graham's Fillmore Auditorium in San Francisco, but he realized he would never get in with a [GENRE] band agreed on [BAND_NAME] and the name stuck.\n"
+   ]
 }

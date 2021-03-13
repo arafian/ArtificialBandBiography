@@ -59,5 +59,10 @@
          "Luke Dawson",
          "Thomas Bellier"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, created by singer-songwriter-composer-producer-actor  Kirpatrick Thomas. Founded in [YEAR], the band originated in Newark, Delaware along with such other local bands of the period including Jake and the Stiffs, The Verge, [PERSON_NAME_FULL_1_MALE], Zen Guerilla and Smashing Orange. Heavily influenced by The Doors, [PERSON_NAME_FULL_0_FEMALE], Hawkwind, Bruce Haack, and Chrome, [BAND_NAME]'s early stages were experimental and differed greatly from their present sound though the band's musical style is ever in a period of flux.\n",
+      "In the summer of [YEAR], band members Kirpatrick Thomas, [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_0_MALE] re-located to Los Angeles. The band re-formed to include Bobby Bones, [PERSON_NAME_FULL_1_MALE], Frankie \"Teardrop\" Emerson and Rob Campanella of The Brian Jonestown Massacre and Jason “Plucky” Anchondo of The Warlocks. Inspired by their new locale, the band began a [GENRE]",
+      "In [YEAR], Kirpatrick Thomas along with filmmaker [PERSON_NAME_FULL_0_MALE] began production on the psychedelic western independent feature film, The Legend Of God’s Gun, inspired by the same classic Western Films that influenced their music, most often those directed by Sergio Leone and scored by [PERSON_NAME_FULL_1_MALE].\n"
+   ]
 }

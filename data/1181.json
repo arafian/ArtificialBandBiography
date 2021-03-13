@@ -24,5 +24,10 @@
       "Members": [
          "Jeff Spry and Joe Spry"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in Los Angeles, California, in the early [YEAR]s by brothers Jeffrey Scott Spry (Lead Vocals), [PERSON_NAME_FULL_0_MALE] (Guitars and Vocals), and brothers Danny [PERSON_NAME_LAST_1] (Piano and Keyboards) and [PERSON_NAME_FULL_1_MALE] (Sound Engineer).\n",
+      "Before [BAND_NAME], Jeffrey Spry had been the singer with Detroit Proto-Punk/Hard rock legends, [PERSON_NAME_FULL_0_MALE] (of Iggy & The Stooges) and Dennis \"Machine Gun\" Thompson (of The MC5) in a short lived super-group (based in Los Angeles) that was called \"The New Order\" (preceding the English new wave group of the same name). Jeff was in the band in [YEAR] and recorded an album with them that was released in [YEAR].\n",
+      "After a period playing shows and making music business connections in the Los Angeles scene, [BAND_NAME] appeared in the horror b-movie Graduation Day ([YEAR]), playing their song \"Gangsters of Rock.\"  Soon after, they signed with producers/managers Don Rubin, formerly of pop group The Ivy Three, and [PERSON_NAME_FULL_0_MALE].\n Live shows mixed by sound engineer Steve Sands, who is  also credited as second engineer on the debut album “The Fanatic”\n"
+   ]
 }

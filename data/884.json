@@ -23,5 +23,9 @@
       "Past members": [
          "Mike Bell (deceased)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Tempe, Arizona, United States, which formed in [YEAR], consisting of brothers Jared and Michael Bell. Their sound combines elements of instrumental rock and electronic music.  [BAND_NAME] have toured with Broken Social Scene, The Books, Crystal Castles, The Album Leaf,  Her Space Holiday, Buckethead, This Will Destroy You, Foxing and The One AM Radio.  The duo have released records with Mush Records, Magic Bullet Records, Hobbledehoy Record Co, Western Vinyl and & Records (Japan). Michael Bell died on [MONTH] 10, [YEAR], under undisclosed circumstances, leaving the future of [BAND_NAME] uncertain.\n",
+      "Jared Bell says the intentional misspelling of the Limbic System was to own it, lamenting comparisons to Lynyrd Skynyrd. For much of the recording of their [YEAR] album, Symbolyst the brothers were not in the same state. \"Our first full length when we lived in the same house in south Scottsdale, we were treating it like a [GENRE] a process of exchanging ideas online ... Even when we lived in New York, we never met up until the end. We worked on stuff separately and exchanged ideas \"\n"
+   ]
 }

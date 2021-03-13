@@ -39,5 +39,10 @@
          "Dave Moreno",
          "Keri Kelli"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band.\n",
+      "[BAND_NAME] was formed in [YEAR], when Jizzy Pearl (real name [PERSON_NAME_FULL_0_MALE]) joined Jon E. Love, Skid Rose, and Joey Gold, in a [YEAR]s influenced electronica band called Dataclan, after their previous lead singer walked out while playing in Japan. They lived together in a Los Angeles warehouse called SoulHouse, and in the first year put out a four track EP and played a short and not very well received tour of Mexico. At this time the band had a very 'glam' look, wearing make up.\n",
+      "In [YEAR] the band renamed themselves as [BAND_NAME] from a [GENRE] a more gothic image, having been influenced by the release of the album Love by The Cult. For the next couple of years they tried various styles of music and were pitched to many record companies in an attempt to get signed.\n"
+   ]
 }

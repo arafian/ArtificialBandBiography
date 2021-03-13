@@ -50,5 +50,10 @@
          "Scott Metaxas",
          "Scott Harrington"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in New York City in [YEAR]. Part of the mid-to-late [YEAR]s thrash metal movement, they were one of the main bands of the genre to emerge from the East Coast along with Overkill, Whiplash, Toxik, Carnivore, and Anthrax; the latter was co-founded by [BAND_NAME] bassist [PERSON_NAME_FULL_0_MALE], who left Anthrax shortly after the release of their first album. [BAND_NAME] released five full-length albums and toured relentlessly throughout the [YEAR]s and early [YEAR]s, and broke up in [YEAR]. The band reunited briefly in [YEAR] and then permanently in [YEAR].\n",
+      "[BAND_NAME] has released six studio albums to date, the latest being Third World Genocide ([YEAR]). Their most successful records are Survive ([YEAR]) and Handle with Care ([YEAR]), which peaked at #145 and #126 on the Billboard 200 chart respectively.\n",
+      "After the release of Anthrax's debut album Fistful of Metal, bassist [PERSON_NAME_FULL_1_MALE], a [GENRE] band. He decided to pursue a more aggressive style of music and formed [BAND_NAME] with guitarist/vocalist John Connelly, who had been involved in an early version of Anthrax. They were joined by guitarist [PERSON_NAME_FULL_0_MALE] and drummer Scott Duboys (later of Cities, Cycle Sluts From Hell and Warrior Soul). They then recorded the first of two demos, which included the songs \"Stranded in Hell\", \"The Plague\", and \"Hang the Pope\".\n"
+   ]
 }

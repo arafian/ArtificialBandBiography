@@ -35,5 +35,10 @@
          "Lee Buick",
          "Graham Revell"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band formed in Manchester in [YEAR], which featured artist, designer and singer Linder Sterling. It played jazz-, avant-garde- and punk- oriented material. The band influenced singer Morrissey, later of The Smiths and a solo artist, who remains one of the group's most vocal fans.\n",
+      "The band was founded by Linder Sterling, who in the arts and music scene is credited as Linder, having designed the cover of Buzzcocks' single \"Orgasm Addict\" and Magazine's debut album Real Life; and Arthur Kadmon, formerly of Manicured Noise. Shortly after the formation, ex-Nosebleeds drummer Philip \"[PERSON_NAME_FULL_0_MALE]\" Tomanov and bassist Willie Trotter joined to complete the band. It debuted live at the Factory Club, supporting The Pop Group, in [MONTH] [YEAR], recording a studio demo the same month. The following month, [BAND_NAME] played shows at well-known 'punk' venues like Eric's Club in Liverpool and, travelling with Magazine, The Venue in London.\n",
+      "Since its live debut at The Factory, [BAND_NAME] was favourably reviewed in the press. In [MONTH] [YEAR], Paul Morley, writing for NME, remarked: \n"
+   ]
 }

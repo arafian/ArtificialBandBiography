@@ -39,5 +39,10 @@
          " Conrad Schrenk ",
          " Georgij Alexandrowitsch Makazaria"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (German for \"Steel Hammer\") is a [GENRE] band from Austria that formed in [YEAR]. They incorporate elements from hardcore, groove metal, industrial metal and symphonic metal into their songs. The band has to this date produced six albums, where the majority of songs are in German. Their latest album is Opera Noir, which was released in [MONTH] [YEAR].\n",
+      "[BAND_NAME] is one of the most popular bands to ever come out of Austria. The band name was originally going to be \"Eisenherz\", but copyright laws for the German \"Prince Valiant\" stories prohibited this, though this later became the name of their fourth album. Their first album Killer Instinkt, released in [YEAR], became widely known throughout Austria and Germany due to the success of their video for the Pink Floyd cover \"Another Brick In The Wall\". Among [BAND_NAME]'s several covers is a [GENRE]",
+      "Gary Wheeler (vocals), Thomas Schuler (guitar), [PERSON_NAME_FULL_0_MALE] (bass), and Michael Stocker (Drums).\n"
+   ]
 }

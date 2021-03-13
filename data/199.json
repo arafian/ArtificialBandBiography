@@ -30,5 +30,10 @@
          "Andrew Webster",
          "John Pamer"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Arlington, Virginia, United States, formed by housemates Jenny Toomey and [PERSON_NAME_FULL_0_FEMALE] in late [YEAR] to play at New Year's party. They enlisted former housemate John Pamer to play drums and [PERSON_NAME_FULL_1_MALE] from Bricks and Jenny's previous band Geek to complete the line up.\n",
+      "Following their inception, [BAND_NAME] split their time between touring, recording various 7\" singles and devoting time to Toomey and Thomson's Simple Machines record label- from which [BAND_NAME] would release the majority of their own music. The band recorded their debut album, Deep End during the summer of [YEAR]. However, due to manufacturing and mixing problems this was not released until early [YEAR]. It was then that the band were invited to play the side stage at Lollapalooza, going on to play six shows with Sebadoh, Free Kitten and Thurston Moore. After the release of the band's second album The Heart's Tremolo, [BAND_NAME] completed two tours of the US, a [GENRE] an appearance at the Phoenix Festival on the Melody Maker Stage.\n",
+      "In [YEAR], [BAND_NAME] continued to tour the States and also managed to release their third album World Tour & Other Destinations. The band subsequently had an [GENRE]"
+   ]
 }

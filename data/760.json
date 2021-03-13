@@ -30,5 +30,10 @@
          "Paulina Villarreal",
          "Alejandra Villarreal"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Monterrey, México formed in [YEAR] by three sisters. Daniela (guitar, lead vocals), Paulina (drums, vocals, piano), and [PERSON_NAME_FULL_0_FEMALE] (bass guitar, piano, backing vocals) first gained attention for their [YEAR] cover of Metallica's \"Enter Sandman\" on their YouTube page, which has reached over 22 million views as of [MONTH] [YEAR].\n",
+      "Drummer [PERSON_NAME_FULL_0_FEMALE] was interviewed by Tom Tom Magazine a year before [BAND_NAME]'s cover of \"Enter Sandman\" became popular. Metallica lead guitarist Kirk Hammett praised Pau's performance on the song, stating \"The drummer kicks maximum ass!\"\n",
+      "In [YEAR], [BAND_NAME] raised enough money on GoFundMe to release an EP of six original songs, titled Escape the Mind. The popularity of [BAND_NAME]'s cover of Enter Sandman led to a guest appearance on The Ellen DeGeneres Show on [MONTH] 24, [YEAR]. In addition to their GoFundMe page, they received funding by The Ellen Show and Target in order to attend a 5-week long summer program at Berklee College of Music.\n"
+   ]
 }

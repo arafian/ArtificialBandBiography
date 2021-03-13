@@ -42,5 +42,10 @@
          "Dave Carroll",
          "Jerry Angel"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] band formed in [YEAR] in Downey, California, by brothers [PERSON_NAME_FULL_1_MALE] (vocals and guitar) and [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_1] (guitar), with bass guitarist John Bazz and drummer [PERSON_NAME_FULL_0_MALE]. Their self-described \"American Music\" is a blend of rockabilly, early [GENRE], punk rock, mountain music, and rhythm and blues and country.\n",
+      "The [PERSON_NAME_LAST_0] brothers grew up in a household filled with music and parents who exposed their sons to different kinds of American music. They made friends with Bazz and Bateman, and together the boys were brave enough to go into Los Angeles blues clubs to watch their musical idols. They learned firsthand from the likes of Joe Turner and T-Bone Walker. [PERSON_NAME_FULL_0_MALE] recalled how his mother would drive the boys anywhere, and around [YEAR] or [YEAR], she took [PERSON_NAME_FIRST_0] to  see Sonny Terry and Brownie McGhee. At [PERSON_NAME_FIRST_0]'s request, Big Joe Williams introduced him to Terry, and [PERSON_NAME_FIRST_0] wound up taking a number of harmonica lessons from Terry. Another mentor was tenor saxophonist [PERSON_NAME_FULL_1_MALE], who later joined [BAND_NAME].\n",
+      "Phil Alvin explained the origin of the band's name: \" I thought Joe Turner's backup band on his Atlantic records–I had these 78s–I thought they were the Blues Blasters. That ends up it was [PERSON_NAME_FULL_0_MALE]. I just took the 'Blues' off and Joe finally told me, that's [PERSON_NAME_FULL_0_MALE]'s name, but you tell ‘im I gave you permission to steal it \"\n"
+   ]
 }

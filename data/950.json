@@ -49,5 +49,10 @@
          "Mick Schauer",
          "Roger Smalls"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Germantown, [MONTH]yland. Since its formation in [YEAR], the band line-up has included [PERSON_NAME_FULL_0_MALE] (lead guitar), Dan Maines (bass), [PERSON_NAME_FULL_2_MALE] (drums), and [PERSON_NAME_FULL_1_MALE] (vocals, rhythm guitar, keyboards). To date, [BAND_NAME] has released twelve studio albums, and several rarities and live albums. Since [YEAR], the band have been signed to their own record label, Weathermaker.\n",
+      "[BAND_NAME] was formed in [YEAR] by Dan Maines (bass), [PERSON_NAME_FULL_2_MALE] (drums), [PERSON_NAME_FULL_0_MALE] (guitar), and Roger Smalls (vocals) in Germantown, [MONTH]yland. Before settling on the name [BAND_NAME], the band used the early names Glut Trip and Moral Minority. Smalls soon departed and was replaced by [PERSON_NAME_FULL_1_MALE], a [GENRE] band quickly gained notice through constant touring. The 12\" single Passive Restraints on the Earache label was [BAND_NAME]'s first commercial release, garnering attention from other labels. Their debut LP, Transnational Speedway League, was released in [YEAR]. It was followed by a self-titled album two years later that gained [BAND_NAME] mainstream exposure. The band moved to the larger Columbia label for the [YEAR] album The Elephant Riders. They followed it in [YEAR] with a self-released groove-based album Jam Room.\n",
+      "The album Pure Rock Fury was released by Atlantic Records in [YEAR]. The title track was initially released as the first single. The program director for North Carolina rock station WXQR (Rock 105), [PERSON_NAME_FULL_0_MALE], suggested that the label switch singles to another track from the album, \"Careful with That Mic\". Atlantic did so, and [BAND_NAME] achieved a surprise hit single. The follow-up tracks, \"Immortal\" and \"Open Up the Border\", were also well received by American rock stations. In [YEAR] they issued Live at the Googolplex and the rarities record Slow Hole to China.\n"
+   ]
 }

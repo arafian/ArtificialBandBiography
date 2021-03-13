@@ -29,5 +29,10 @@
          "Chris Brady",
          "David Triebwasser"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a band from Portland, Oregon. They formed in [YEAR] and broke up in [YEAR].  They were signed to Sub Pop (first two albums) and the Work Group records sub-label of Sony Records (last album).\n",
+      "On [MONTH] 23, [YEAR], [BAND_NAME] reunited for a [GENRE]",
+      "This article about a [GENRE] band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

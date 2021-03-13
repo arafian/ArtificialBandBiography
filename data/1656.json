@@ -31,5 +31,10 @@
          "Feng Huiyuan（馮會元)",
          "Shao Jiaying（邵佳瑩)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (Traditional Chinese: 老王樂隊) is a [GENRE] band. The band was established in [YEAR] in Taipei, Taiwan. It currently consists of five members: [PERSON_NAME_FULL_3_FEMALE] (lead singer), [PERSON_NAME_FULL_0_FEMALE] (guitar), Liao Jiemin (drums), [PERSON_NAME_FULL_1_MALE] (bass), and [PERSON_NAME_FULL_2_FEMALE] (cello).\n",
+      "The band is most well-known for their EP Stolen Childhood (吾十有五而志於學), which focuses on the failures of the Taiwanese education system. In [YEAR], the band won the Golden Indie Award Best Folk Single for the song \"Cram Schools Killed the Children\" on the same album.\n",
+      "The band's Chinese name, 老王樂隊 (Lǎowáng yuèduì), directly translates to \"Old Wang Band.\" In Chinese, \"Old Wang\" is often used as slang for the man next door who his wife has an [GENRE] band's English name, \"[BAND_NAME].\"\n"
+   ]
 }

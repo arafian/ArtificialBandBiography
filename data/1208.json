@@ -62,5 +62,10 @@
          "Matt McKenna",
          "Chris McCarvill"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band based out of Connecticut, with members in New Jersey and Florida.\n",
+      "[BAND_NAME] was formed in [YEAR] by former Angel member and keyboardist [PERSON_NAME_FULL_0_MALE] after his solo project [PERSON_NAME_LAST_0]. After listening to demos – originally intended for [PERSON_NAME_LAST_0]'s third record – a [GENRE] band's name be changed (to [BAND_NAME]) and a new lead singer recruited (firing David Glen Eisley in the process). [PERSON_NAME_FULL_2_MALE] thus replaced Eisley, after [PERSON_NAME_LAST_2] was suggested by ex-[PERSON_NAME_LAST_0] and Quiet Riot bassist [PERSON_NAME_FULL_1_MALE], after having worked together in L.A. Rocks.\n",
+      "[BAND_NAME]' eponymous debut was released in [YEAR], featuring a [GENRE] a lower keyboard mix. The album received critical acclaim and the band toured with Cheap Trick, [PERSON_NAME_FULL_0_MALE] and the Scorpions in [YEAR].\n"
+   ]
 }

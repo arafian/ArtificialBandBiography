@@ -33,5 +33,10 @@
          "Dan Isbell",
          "Jaime Hays"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Tupelo, Mississippi.\n",
+      "[BAND_NAME] formed in [YEAR] under the name Freshmen 15, and independently released two albums under this name. The group changed its name after signing to Flicker Records because they \"didn't want to be thirty years old and be like, 'I'm in \"Freshmen 15\". I have three kids.'\" The name [BAND_NAME] comes from a haunted mansion in West Point, Mississippi. Their major label debut, Conquering the Fear of Flight, was released on Flicker on [MONTH] 12, [YEAR], and has lyrics significantly influenced by the writings of C. S. Lewis.\n",
+      "The band's single \"Part One\" received significant airplay on US Christian radio and was heavily rotated on the Gospel Music Channel's [PERSON_NAME_FULL_0_MALE]. Also, it had been confirmed that [BAND_NAME] was in the process of finishing their next album, which was slated for a [YEAR] release. Rob Graves, producer of Conquering the Fear of Flight and other bands such as RED and Pillar, was confirmed as producer. Former RED guitarist [PERSON_NAME_FULL_1_MALE] had also been confirmed as a co-producer.\n[BAND_NAME] released an EP entitled \"The EP\" On [MONTH] 11, [YEAR].\n"
+   ]
 }

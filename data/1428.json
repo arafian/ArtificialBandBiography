@@ -30,5 +30,10 @@
          "Alex Dziena",
          "Bill Kovalcik"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from New York City whose music combines elements of ethereal wave, gothic rock, shoegaze, post-punk and synthpop. Formed in [YEAR] by singer and guitarist Eric \"Doc\" Hammer (formerly of Requiem in White and Mors Syphilitica, and writer and voice actor for the animated television series The Venture Bros.), the band's lineup also includes bass guitarist [PERSON_NAME_FULL_0_MALE], keyboardist [PERSON_NAME_FULL_1_MALE] and drummer Bill Kovalcik. Their debut EP, Never Ever, was released in [YEAR] by Hammer's Astro-Base Go company and Projekt Records, followed by the full-length albums Worn Thin ([YEAR]), Alate ([YEAR]) and [BAND_NAME] ([YEAR]).\n",
+      "[BAND_NAME]'s music has been described as dark and expansive, with \"shimmering guitars and spacy synthesizers\". Hammer's singing voice has been noted for its gravelly, robotic qualities which provide a [GENRE] band to a number of post-punk, alternative rock and shoegaze acts of the [YEAR]s and [YEAR]s.\n",
+      "Prior to forming [BAND_NAME], [PERSON_NAME_LAST_0] had performed in the gothic rock acts Requiem in White (from [YEAR] to [YEAR]) and Mors Syphilitica (from [YEAR] to [YEAR]), both with his then-wife [PERSON_NAME_FULL_0_FEMALE] on vocals. Over the next several years, he continued to write music, while also working as a writer and voice actor on the animated television series The Venture Bros., beginning in [YEAR].\n"
+   ]
 }

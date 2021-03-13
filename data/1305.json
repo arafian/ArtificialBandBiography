@@ -34,5 +34,10 @@
          "Andy Prieboy",
          "Ned Leukhardt"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Los Angeles, California, United States, best known for its [YEAR] hit \"Mexican Radio\". The band had a sound that was a fusion of synthesizer-based new wave music with the spaghetti Western soundtrack style of [PERSON_NAME_FULL_0_MALE].\n",
+      "[BAND_NAME] had its roots in Acme Soundtracks, a film score business started by [PERSON_NAME_FULL_1_MALE], later the vocalist and harmonica player for [BAND_NAME]. Acme Soundtracks' office was across the street from the Hollywood punk club The Masque and [PERSON_NAME_LAST_1] was soon drawn into the emerging punk/new wave scene. [MONTH]c [PERSON_NAME_LAST_0], guitarist for the Skulls, began jamming with [PERSON_NAME_LAST_1] at the Acme Soundtracks office and the soundtrack company morphed into a new wave band. In [YEAR], with the addition of Skulls members [PERSON_NAME_FULL_0_MALE] ([MONTH]c [PERSON_NAME_LAST_0]'s brother) as bassist and Chas T. Gray as keyboardist, along with [PERSON_NAME_FULL_2_MALE], who had been the drummer for the Bags, the Eyes, and Black Randy and the Metrosquad, the first lineup of [BAND_NAME] was born.\n",
+      "The band was named [BAND_NAME] before their first gig in reference to a comment made by [PERSON_NAME_FULL_0_MALE], a friend of Ridgway's and member of the Fibonaccis. [PERSON_NAME_LAST_0] was listening to some of the Acme Soundtracks music Ridgway and Moreland had created in their studio. When Ridgway jokingly compared the multiple-drum-machine- and Farfisa-organ-laden recordings to [PERSON_NAME_FULL_1_MALE]'s Wall of Sound, [PERSON_NAME_LAST_0] commented it sounded more like a \"wall of voodoo\" and the name stuck.\n"
+   ]
 }

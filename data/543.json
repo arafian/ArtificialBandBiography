@@ -4,5 +4,9 @@
       "Aardvark Jazz Orchestra is an eclectic big band founded in 1973 by bandleader and trumpeter Mark Harvey. The orchestra plays music from across the jazz tradition with specialties in Ellingtonia and the original postmodern compositions of music director Mark Harvey. The group has won various awards, including one for Jazz Song at The 1st Annual Independent Music Awards (\"Scamology\"), and has released at least eight albums since 1993.\n",
       "For Aardvark's 2018 Christmas concert, the musicians performing were:\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band founded in [YEAR] by bandleader and trumpeter [MONTH]k Harvey. The orchestra plays music from across the jazz tradition with specialties in Ellingtonia and the original postmodern compositions of music director [MONTH]k Harvey. The group has won various awards, including one for Jazz Song at The 1st Annual Independent Music Awards (\"Scamology\"), and has released at least eight albums since [YEAR].\n",
+      "For Aardvark's [YEAR] Christmas concert, the musicians performing were:\n"
+   ]
 }

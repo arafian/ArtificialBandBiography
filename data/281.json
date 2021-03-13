@@ -29,5 +29,10 @@
          "Josh Mitchinson",
          "Josh \"Gypsy\" McDaniel"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band, formed in [YEAR] in Chilliwack, British Columbia, Canada. They were \"discovered\" on MuchMusic's disBand and signed to a contract with Capitol Records/EMI. They have performed with acts such as Hedley, Faber Drive, Forever the Sickest Kids, Good Charlotte and Lights. The band's debut single and music video \"Break It Up\" debuted at No. 60 on the Canadian Hot 100. They re-issued their EP on [MONTH] 31, [YEAR].\n",
+      "In Fall [YEAR], [BAND_NAME] returned to the studio to record their full-length album, entitled Jumpstart, which was released on [MONTH] 1, [YEAR].  One of the singles released was a cover of the Whitney Houston song \"I Wanna Dance With Somebody (Who Loves Me)\" featuring Mexican actress and singer, Eiza González.\n",
+      "Alex and Alan knew each other from high school, where they wrote songs together. Following a [GENRE] a rapper and Alan continued to hone his producing skills, they recorded a short EP as Goodnight Moon, but it was never released.   Shortly after completing that CD, Alex and Alan formed Goodnight Medic along with Matt Vink, [PERSON_NAME_FULL_1_MALE] and [MONTH]k Sawatzky. Goodnight Medic placed in the top 10 of the [YEAR] Fox Seeds contest, but broke up in [MONTH] [YEAR] via a Facebook announcement, stating \"We will be back again in the form of something great and new.\" Following the departure of [PERSON_NAME_FIRST_1] and [MONTH]k, Alex, Alan, and Matt formed a new group, recruiting guitarist [PERSON_NAME_FULL_0_MALE]. Drummer Josh Mitchinson found out about the project via MySpace and joined [BAND_NAME] as named by Matt. In summer [YEAR], TKWC recorded their original EP, recorded and produced at the Sound Suite in Abbotsford, British Columbia. The original EP was released on [MONTH] 11, [YEAR]. In Fall [YEAR], the band went on a cross-Canada tour with fellow Vancouver-area band A Trophy Life. During this tour, they received news that they were selected to appear on MuchMusic's disBand in Toronto, Ontario. Needing a second guitarist, they recruited A Trophy Life's guitarist Joshua \"Gypsy\" McDaniel.\n"
+   ]
 }

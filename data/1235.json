@@ -27,5 +27,10 @@
       "Past members": [
          "Jennifer Clavin, Jessie Clavin, Jenna Thornhill, Michelle Suarez, Seth Densham, Jerik Edrosa, Kate Hall"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a band formed in [YEAR] in Los Angeles, California. In [YEAR], they gained local popularity for their frenetic live performances. Featuring Victor Fandgore (Jennifer [PERSON_NAME_LAST_0]), [PERSON_NAME_FULL_1_FEMALE] ([PERSON_NAME_FULL_3_FEMALE]), [PERSON_NAME_FULL_4_FEMALE], [PERSON_NAME_FULL_0_FEMALE], and [PERSON_NAME_FULL_2_MALE], the original line up of the band made its first demo CD-R, its first 7\" record, and toured the West Coast extensively before replacing their original drummer with Kate Hall and embarking on their first national tour in the summer of [YEAR]. Also in [YEAR], they were featured on two compilations released by Los Angeles-based record labels, produced their first two self-released cassettes, and two members of the band appeared on the Hawnay Troof EP, Community. \n",
+      "Their first full-length album was co-released by Post Present Medium and Kill Rock Stars in the summer of [YEAR].  A second pressing on vinyl was later released by Sweden based label Deleted Art.  In [MONTH] [YEAR], the band appeared on the cover of Maximum Rocknroll, alongside an interview and photoshoot by Vice Cooler. In [MONTH] [YEAR], they were featured in ANP Quarterly. Members of the band appeared in the film 40 Bands/80 Minutes!, released in [YEAR]. The band was featured in the Static section of Punk Planet's 76th issue ([MONTH]/[MONTH] [YEAR]). They often played at The Smell, an all-ages venue in Los Angeles, where they were also volunteers. The band toured in Europe and Japan in [YEAR].\n",
+      "Despite a [GENRE] band stated they are best appreciated live. As [PERSON_NAME_FULL_0_FEMALE] told ClashMusic.com: \"I think we come off better live than we do recorded. It's better to have that impact as a live band, isn't it? If we had to choose to be better live or recorded, we'd go with live.\" \n"
+   ]
 }

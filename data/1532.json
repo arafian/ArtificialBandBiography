@@ -24,5 +24,10 @@
       "Website": [
          "numbergirl.com"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (ナンバーガール) is a [GENRE] band formed in Fukuoka, Japan in [MONTH], [YEAR] by guitarist and vocalist Shutoku Mukai. They disbanded in [YEAR] following bassist [PERSON_NAME_FULL_0_MALE]'s departure from the band.\n",
+      "[BAND_NAME] played fast, guitar-driven rock similar to the Pixies, Sonic Youth, and Hüsker Dü.  Over the course of seven years their sound evolved greatly, serving as a basis for Mukai's post-[BAND_NAME] project, Zazen Boys.\n",
+      "In [MONTH] [YEAR], it was announced that the band would be reuniting to perform at Rising Sun Rock Festival [YEAR] in Ezo. Although the first day of the festival was cancelled and [BAND_NAME] did not perform, they had already announced a four-date Japanese tour by this time, beginning at Hibiya Open-Air Concert Hall on [MONTH] 18. The day after the Hibiya concert, they announced a further twelve Japanese tour dates, set to span over [MONTH] [YEAR] to [MONTH] [YEAR].\n"
+   ]
 }

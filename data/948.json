@@ -32,5 +32,10 @@
          "Chris Feinstein",
          "Jamie Candiloro"
       ]
-   }
+   },
+   "prunedData": [
+      "The Cardinals were an [GENRE] band that were formed in [YEAR] by alternative country singer-songwriter Ryan Adams and fronted by him until [YEAR]. The band was featured on Ryan Adams and the Cardinals albums, Cold Roses, Jacksonville City Nights, Follow the Lights, Cardinology and III/IV. Though credited as a solo Ryan Adams release, the [YEAR] album Easy Tiger also features the Cardinals.\n",
+      "Regarding the band's name, Adams states that he \"suggested the Cardinals because it was my high school football team.\" \n",
+      "Along with their work with Adams, The Cardinals recorded an album with Willie Nelson in [YEAR], and following Adams' departure in [YEAR], The Cardinals recorded an album with singer-songwriter Gin Wigmore.\n"
+   ]
 }

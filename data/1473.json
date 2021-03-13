@@ -25,5 +25,8 @@
       "Website": [
          "www.manchesterpb.org"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] is a [GENRE] band from Manchester, Connecticut. It was founded in [YEAR] and is the second oldest pipe band in continuous existence in the United States, after the Holyoke Caledonian Pipe Band which inspired its founding. Currently, the band competes in grade 3 of the Eastern United States Pipe Band Association. The band has previously been in Grade 2, in which it took second place in [YEAR] and first place in [YEAR].\n"
+   ]
 }

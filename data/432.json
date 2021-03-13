@@ -36,5 +36,10 @@
          "Derek Drye",
          "Dallas Farmer"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band formed in Winston-Salem/Greensboro, North Carolina. It was founded by TJ Harris and Dallas Farmer. They played together for several years before they met up with [PERSON_NAME_FULL_0_MALE] in the Winston-Salem/Greensboro area. [PERSON_NAME_FULL_0_MALE] came up with the band's name.\n",
+      "They released their first CD, [BAND_NAME], in mid-[YEAR]. The first single off this album, \"I Found Forever,\" was featured on both rock and Christian radio stations. \"I Found Forever\" rose to No. 31 on the active rock charts with virtually no touring. The band's Christian single, \"Back to You\", reached No. 5 on the Christian CHR charts. \"Back to You\" and \"Just to Please You\" were only released to Christian radio stations. In [MONTH] [YEAR], the band announced on their MySpace that they were releasing a [GENRE]",
+      "Their Lead Vocalist, TJ Harris, joined the band [MONTH]yfer Down in [YEAR].\n"
+   ]
 }

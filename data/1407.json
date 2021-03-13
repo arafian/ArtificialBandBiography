@@ -24,5 +24,10 @@
          "Jack Koch(bass guitar)",
          "Will Haywood Smith (drums)"
       ]
-   }
+   },
+   "prunedData": [
+      "PaperDoll is an [GENRE] band from New York City, consisting of Teresa Lee (vocals), [PERSON_NAME_FULL_0_MALE] (guitar), Jack Koch (bass guitar), and [PERSON_NAME_FULL_1_MALE] (drums).  \n",
+      "The band gained international attention when they played at the Shanghai World Expo [MONTH] [YEAR] on their first tour of China.\n",
+      "On their second tour, in [MONTH] [YEAR], they once again attracted TV headlines with record-breaking crowds during the closing of the Shanghai World Expo. They also made history as the final guests on EXPO 360, a [GENRE] a dress by [PERSON_NAME_FULL_0_FEMALE]. Chinese press, including People's Daily, praised the US band for their action-packed live performances.\n"
+   ]
 }

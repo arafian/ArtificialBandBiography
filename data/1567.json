@@ -23,5 +23,10 @@
          "Óscar Quijano",
          "Raúl Quijano"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band formed by three brothers, Manuel, Óscar, and [PERSON_NAME_FULL_0_MALE], all of whom are singers. The brothers are originally from León, along with their father, who ran a musical pub called \"La Lola\" in the city centre, which gave name to one of their most well-known songs. Apart from publishing four successful albums, they presented galas, collaborated with Disney for soundtracks, and worked on a project with Castilla y León's image to promote tourism to the region.\n",
+      "Their third album was a [GENRE]",
+      "Throughout its history, the band has collaborated with artists such as the outstanding Cuban musician [PERSON_NAME_FULL_0_MALE] on their debut album. [PERSON_NAME_FULL_1_FEMALE] sings with them in \"La Taberna del Buda\", and on their last production, they sang with [PERSON_NAME_FULL_2_MALE] and Celine Dion.\n"
+   ]
 }

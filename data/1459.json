@@ -27,5 +27,10 @@
       "Website": [
          "www.ddpb.net"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] is a [GENRE] band located in Fife, Scotland.\n",
+      "The band was founded in [YEAR] as the Dundonald Juvenile Pipe Band, with Bob Mackay as pipe major. [PERSON_NAME_FULL_0_MALE] became pipe major in [YEAR], and after disbanding during the Second World War, the band reformed in [YEAR] with Hunter Wylie as pipe major. In [YEAR], [PERSON_NAME_FULL_1_MALE] became pipe major and the name of the band was changed to the Dundonald Colliery Pipe Band. With sponsorship from the colliery, the band won the Juvenile Championship at Cowal in [YEAR]. The band went on to win the Grade 3 World Championships in [YEAR], and after promotion, the Grade 2 World Championships in [YEAR].  After this point the band went into decline, and in [YEAR] the Dundonald Colliery closed and both the band and the village lost their primary means of support. The Frances Colliery in Dysart adopted the band at this time, resulting in the addition of Dysart to the band's name.\n",
+      "In [YEAR] [PERSON_NAME_FIRST_0] Shepherd replaced [PERSON_NAME_FULL_0_MALE] as pipe major, and a [GENRE] band began to train young players, marking the start of the \"Youth Policy\". A [MONTH]ice Juvenile band  was formed in [YEAR] won the World Championships in its grade that year. In [YEAR], after winning the Champion of Champions in Grade 3, the senior band was promoted to Grade 2, and the juvenile band changed its name to Ballingry High School. The senior band reached Grade 1 in [YEAR], after winning eight out of ten competitions in Grade 2, and coming second in the others.\n"
+   ]
 }

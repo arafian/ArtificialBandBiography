@@ -30,5 +30,10 @@
       "Website": [
          "www.lascots.org"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME], or, more commonly, the LA Scots, is a [GENRE] band located in Orange County, California.  The LA Scots have competed at the grade one level since [YEAR].  In [MONTH] [YEAR], the Western United States Pipe Band Association granted a request by the LA Scots to move to Grade 2.\n",
+      "During their time in Grade 1, the band placed ninth in the qualification round at the [YEAR] World Pipe Band Championships, and placed 14th in the qualification round of [YEAR].  In [YEAR], the band qualified for the Grade 1 competition and placed 11th.\n",
+      "This article on a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

@@ -41,5 +41,10 @@
          "Jeff Chimenti",
          "Susan Tedeschi"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in [YEAR] by former Grateful Dead members Bob Weir, [PERSON_NAME_FULL_1_MALE], and Mickey Hart, along with part-time Grateful Dead collaborator [PERSON_NAME_FULL_3_MALE]. In [YEAR], Bill Kreutzmann, another Grateful Dead alumnus, joined the group, while [PERSON_NAME_FULL_1_MALE] dropped out.  In [YEAR], [PERSON_NAME_LAST_1] rejoined the band, and [PERSON_NAME_LAST_3] left.  At different times the shifting lineup of [BAND_NAME] also included [MONTH]k Karan, [PERSON_NAME_FULL_4_MALE], John Molo, [PERSON_NAME_FULL_0_MALE], Alphonso Johnson, [PERSON_NAME_FULL_6_MALE], Rob Barraco, [PERSON_NAME_FULL_5_MALE], and [PERSON_NAME_FULL_2_FEMALE].  In [YEAR], [BAND_NAME] changed their name to The Dead.\n",
+      "[BAND_NAME] continued the musical legacy of the Grateful Dead after Jerry Garcia died in [YEAR], playing many Grateful Dead songs and utilizing a [GENRE] band style that emphasized musical improvisation.  The name of the band was taken from the title of the Grateful Dead song \"That's It for the Other One\", from [YEAR]'s Anthem of the Sun.\n",
+      "In [YEAR], [BAND_NAME] released The Strange Remain, a two-disc CD recorded live during their [YEAR] Furthur Festival tour.\n"
+   ]
 }

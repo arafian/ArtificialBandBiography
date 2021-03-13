@@ -5,5 +5,10 @@
       "Their early endeavors culminated with the release of their first album, Feel Time, in March 2014.  While not garnering much attention outside of the LA area, Feel Time propelled the band into over 40 local performances, and in May 2014, CHILDREN was voted The Deli Magazine - Los Angeles's artist of the month.  Music from the Feel Time album was played on the radio in both Atlanta, Georgia and Los Angeles, California.\n",
       "In October 2014, all five members of the band travelled to a house in Mississippi to record their sophomore album, Great River.  Prior to the album's release on April 24, 2015 on Future Force Records, CHILDREN's Great River was featured on Los Angeles music blogs Free Bike Valet and Buzzbands LA.  Their song Incantation was played on AM radio in Montreal, Quebec, Canada by the independent music radio show Killer Baby Tomatoes.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "CHILDREN is a [GENRE] band with five members: Tom Gil, [PERSON_NAME_FULL_0_MALE], [MONTH]k Yates, Graham Walker, and [PERSON_NAME_FULL_1_MALE].  The group initially began playing together informally in [YEAR], out of a warehouse practice space in Long Beach, California.\n",
+      "Their early endeavors culminated with the release of their first album, Feel Time, in [MONTH] [YEAR].  While not garnering much attention outside of the LA area, Feel Time propelled the band into over 40 local performances, and in [MONTH] [YEAR], CHILDREN was voted The Deli Magazine - Los Angeles's artist of the month.  Music from the Feel Time album was played on the radio in both Atlanta, Georgia and Los Angeles, California.\n",
+      "In [MONTH] [YEAR], all five members of the band travelled to a house in Mississippi to record their sophomore album, Great River.  Prior to the album's release on [MONTH] 24, [YEAR] on Future Force Records, CHILDREN's Great River was featured on Los Angeles music blogs Free Bike Valet and Buzzbands LA.  Their song Incantation was played on AM radio in Montreal, Quebec, Canada by the independent music radio show Killer Baby Tomatoes.\n"
+   ]
 }

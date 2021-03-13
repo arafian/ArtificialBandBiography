@@ -21,5 +21,10 @@
       "Past members": [
          "Patrick Andrew, Greg Pope, Mark Kloos, Paul Eckberg"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band PFR. Patrick began forming the new band with [PERSON_NAME_FULL_0_MALE] in [YEAR]. [PERSON_NAME_FIRST_0], who was also a songwriter, had been touring with PFR as a backup guitarist. To quell rumors of the unannounced but impending PFR breakup, Patrick publicly explained the new band as just \"a side project\". The two songwriters recruited drummer Paul Eckberg in Minneapolis, Minnesota, and the three moved to Nashville, Tennessee in the fall of [YEAR]. They quickly enlisted [MONTH]k Kloos from Raleigh, North Carolina, who was [PERSON_NAME_FIRST_0]'s former bandmate in Apple Green and The [PERSON_NAME_FULL_0_MALE] Band.\n",
+      "The group recorded a self-titled album in early [YEAR], which Jimmie Lee Sloas produced. It was released that fall. The band continued touring and playing live shows until disbanding in mid-[YEAR].\n",
+      "[BAND_NAME] ([YEAR], Warner Bros. Records, Questar/Mission Records)\n"
+   ]
 }

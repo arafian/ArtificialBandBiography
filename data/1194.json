@@ -21,5 +21,10 @@
       "Associated acts": [
          "The Obsessed, Thorr's Hammer, Engine Kid, Scream, Burning Witch, Sunn O))), Beaver, Brotherhood, Wool, Acid King, Teeth of Lions Rule the Divine, Kyuss, Cave In, Asva, Earthlings?, Desert Sessions, Sugartooth"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Los Angeles, California. They have released three studio albums, the first being [YEAR]'s [BAND_NAME] Vol. 1.\n",
+      "[BAND_NAME] was formed in [YEAR] after the disbanding of The Obsessed. After The Obsessed's disbanding, the rhythm section consisting of bassist Guy Pinhas (also former of the Dutch Beaver) and drummer [PERSON_NAME_FULL_0_MALE] began jamming with guitarist [PERSON_NAME_FIRST_0] Anderson (Thorr's Hammer, Burning Witch, Sunn O)))). They soon found a vocalist in Pete Stahl (Scream, Wool, Earthlings?, The Desert Sessions). \n",
+      "[BAND_NAME] recorded and released two 7\" EPs in [YEAR] and were featured on several metal compilations. They released their debut full-length, 1, in [YEAR] on Man's Ruin Records/Rise Above Records.\n"
+   ]
 }

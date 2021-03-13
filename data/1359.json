@@ -42,5 +42,10 @@
          " Neill Freiwald",
          " AblaZ"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (literally \"Steelman\") is a [GENRE] band that formed in [YEAR] in Göttingen, Germany\n",
+      "[MONTH]tin Soer met Alexander Scharfe in [YEAR] and formed the band [[PERSON_NAME_LAST_2]AND_NAME] later that year, writing their own songs. Soon after [PERSON_NAME_FULL_2_MALE] joined and in [YEAR], the debut EP Herzschlag was released which entered the top 20 of the Deutsche Alternative Charts for four weeks.\nFollowing Herzschlag [[PERSON_NAME_LAST_2]AND_NAME] performed with well-known artists such as Doro, In Extremo and Saltatio Mortis.\n",
+      "Dirk \"Fire-Abend\" Feierabend and Oliver \"O-Lee\" Schmidt joined in [YEAR]. [BAND_NAME] went on a tour in [YEAR] presented by the music magazine Zillo. The single \"Hass Mich ...Lieb Mich\" and debut album [BAND_NAME] were released in [MONTH] [YEAR] on AFM Records. At the same time the band began a tour supporting for Eisbrecher in Germany, Austria and Switzerland.\n"
+   ]
 }

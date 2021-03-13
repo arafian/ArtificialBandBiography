@@ -37,5 +37,10 @@
       "Past members": [
          "Drew Pelisek"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (sometimes stylized as CHON) is an [GENRE] band from Oceanside, California. Their music is largely instrumental with only a few songs containing vocal performances. The band consists of [MONTH]io [PERSON_NAME_LAST_0] (guitar), [PERSON_NAME_FULL_1_MALE] (guitar), Esiah [PERSON_NAME_LAST_0] (bass) and [PERSON_NAME_FULL_0_MALE] (drums). \n",
+      "Since [YEAR], they have been releasing demos via internet. In [YEAR], the band began a brief hiatus, but reunited in [YEAR] to record two new songs, \"O.G.\" and \"Breathe\". They returned in [YEAR] with the release of their debut EP entitled Newborn Sun. In [YEAR], [BAND_NAME] released their second EP, entitled Woohoo! and embarked on two consecutive nationwide tours with Animals as Leaders. \n",
+      "In [MONTH] [YEAR], [BAND_NAME] signed with the record label Sumerian Records, and announced they would be releasing their debut full-length album the following year. On [MONTH] 5, [YEAR], the band announced their debut full length titled Grow would be released in [MONTH] [YEAR]. On [MONTH] 5, the band premiered their song Can't Wait from the album via [PERSON_NAME_FULL_0_MALE]. They released the album on [MONTH] 24. Eight days prior the band embarked on a 27 date tour supporting Circa Survive. On [MONTH] 16, [YEAR], [BAND_NAME] announced their first full US headlining tour, titled the Super [BAND_NAME] Bros Tour, with accompanying bands Polyphia and Strawberry Girls. They sold out every single show on the tour. [BAND_NAME] was also an opening band during the Sonic Unrest Tour, featuring headliner Periphery, and bands Sikth and Toothgrinder.\n"
+   ]
 }

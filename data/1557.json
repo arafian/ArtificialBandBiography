@@ -5,5 +5,10 @@
       "Formed in Vigo in 1981 by Miguel Costas and his friends Flechi and Silvino. In the beginning, they played guitar, bass and beatbox. By 1983, the group incorporated a drum-kit and Flechi became the singer of the band. That same year, they won the rock contest of Radio 3 at Coruña and Flechi left the band to join the group Las Termitas. Flechi died from a heart-attack in London in 2002.\n",
       "The next line-up was composed by Miguel Costas, Silvino, Luis and the girls Coral and Rosa, making songs with powerful guitars and fun and surreal lyrics.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from the decade of the [YEAR]s. It was formed in Vigo, Galicia.\n",
+      "Formed in Vigo in [YEAR] by Miguel Costas and his friends Flechi and Silvino. In the beginning, they played guitar, bass and beatbox. By [YEAR], the group incorporated a [GENRE] band. That same year, they won the rock contest of Radio 3 at Coruña and Flechi left the band to join the group Las Termitas. Flechi died from a heart-attack in London in [YEAR].\n",
+      "The next line-up was composed by Miguel Costas, Silvino, Luis and the girls Coral and Rosa, making songs with powerful guitars and fun and surreal lyrics.\n"
+   ]
 }

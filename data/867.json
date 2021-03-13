@@ -36,5 +36,10 @@
          "Jonathan Mones",
          "Mike Jelani Brooks"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] a rotating membership based around founding drummer Robert \"Sput\" Searight and founding percussionist Nate Werth, two members of the jazz band Snarky Puppy. The group also includes bassist MonoNeon, a.k.a. Dywane Thomas Jr., keyboardist Dominique Xavier Taplin, saxophonist/flutist [PERSON_NAME_FULL_0_MALE], saxophonist/flutist Jonathan Mones, and saxophonist/flutist Sylvester Onyejiaka.\n",
+      "[BAND_NAME]'s two albums – Fortified and Swagism – both reached No. 1 on the iTunes Jazz Chart.\n",
+      "Robert \"Sput\" Searight founded God's Property, a [GENRE] a music student at the University of North Texas and a member of Snarky Puppy, then playing jam sessions around Dallas. Searight and Werth performed together with Snarky Puppy through seven albums (of nine the group recorded during that time).\n"
+   ]
 }

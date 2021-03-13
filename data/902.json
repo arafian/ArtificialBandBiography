@@ -29,5 +29,10 @@
       "Past members": [
          "Reid Diamond"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [MONTH]o Award-winning Canadian instrumental rock band, formed in [YEAR].  They remain best known for the track \"Having an Average Weekend\", which was used as the theme to the Canadian sketch comedy TV show The Kids in the Hall. Although commonly classified as a surf rock band they rejected the label, going so far as to release a track called \"We're Not a Fucking Surf Band\", although they also later released a compilation box set titled Oh, I Guess We Were a Fucking Surf Band After All.\n",
+      "The band's origins are in Calgary, where founding members Reid Diamond and [PERSON_NAME_FULL_0_MALE] were members of the punk rock band Buick McKane in the [YEAR]s. After that band broke up, Diamond, [PERSON_NAME_LAST_0] and drummer Alex Koch moved to Toronto, where they joined with [PERSON_NAME_FULL_1_MALE] to form a [GENRE] band, Crash Kills Five. That band released one EP, What Do You Do At Night?, in [YEAR] before breaking up in [YEAR], and the members briefly pursued other projects before Diamond, [PERSON_NAME_LAST_0] and [PERSON_NAME_LAST_1] reunited in [YEAR] as Shadowy Men.\n",
+      "Signed to Cargo Records, they released a string of EPs and singles throughout the [YEAR]s and early [YEAR]s. The group also appeared on many compilation albums, and played on some tracks of [PERSON_NAME_FULL_0_MALE]'s solo album, Just [PERSON_NAME_FIRST_0]. The band won a [MONTH]o Award for Instrumental Artist of the Year at the [MONTH]o Awards of [YEAR].\n"
+   ]
 }

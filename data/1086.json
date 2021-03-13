@@ -29,5 +29,10 @@
          "Ravi Brooks",
          "Danny Feinberg"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Silver Spring, [MONTH]yland. Formed in [YEAR] by lead singer [PERSON_NAME_FULL_0_MALE] and guitarist Yaniv Hoffman, the band released an EP, Forty Days, in [YEAR].\n",
+      "Founding members [PERSON_NAME_FULL_0_MALE] and Yaniv Hoffman met while they were in seventh grade at Melvin J. Berman Hebrew Academy and began playing together in [YEAR]. They added additional members in [YEAR] and began \"playing seriously\" in [YEAR], according to Hoffman.\n",
+      "They were the winning group at the [YEAR] Five Towns Battle of the Bands. That same year, they opened for Moshav Band at \"Mexicali Live\" in Teaneck, New Jersey and performed at Congregation Ramath Orah's \"Roc House\" event.\n"
+   ]
 }

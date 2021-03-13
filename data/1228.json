@@ -25,5 +25,10 @@
          "Jon Pancoast (bassist)",
          "Anthony Polcino (singer/guitarist)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in [YEAR] by Lucas Field, [PERSON_NAME_FULL_1_MALE], and Tad Moore (birth name: [PERSON_NAME_FULL_2_MALE] IV) while they were students at the University of Colorado.  Following graduation, they relocated to Los Angeles, where they met up with the other two members of the band, Anthony Polcino and [PERSON_NAME_FULL_0_MALE].  [BAND_NAME] released their debut EP, Life After Love, in [MONTH] [YEAR], and their self-titled debut album in [MONTH] [YEAR].\n",
+      "Singer/guitarist Lucas Field, drummer [PERSON_NAME_FULL_2_MALE], and keyboardist Tad Moore were undergrads at the University of Colorado at Boulder in [YEAR] when they began to play together in a [GENRE] band. [PERSON_NAME_LAST_2] graduated in [MONTH] of '01 and moved to Los Angeles prior to Moore beginning at CU in the fall of [YEAR] where he met Field. Outside of typical [GENRE] band influences such as [PERSON_NAME_FULL_3_MALE] and Phish, the group were influenced by a diversity of artists, including David Bowie, [PERSON_NAME_FULL_1_FEMALE], [PERSON_NAME_FULL_0_MALE], Serge Gainsbourg, and Air.  After graduation, the group relocated to Los Angeles, where their band began to explore a more indie rock sound.\n",
+      "They went through various bandmember and name changes (including [YEAR] and Colored Shadows) before deciding on [BAND_NAME].  The name supposedly refers to [PERSON_NAME_FULL_1_MALE]'s fighting with ex-member Ben Pollock's girlfriend, Lo (the couple later went on to form synthpunk group Hearts Revolution).  Two bandmembers, Anthony Polcino (guitar/vocals) and [PERSON_NAME_FULL_0_MALE] (bass), eventually completed the band's line-up.  The quintet played gigs all over Los Angeles, where they prepared material to record in the studio.\n"
+   ]
 }

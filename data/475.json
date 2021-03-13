@@ -30,5 +30,10 @@
          "Wes Sharon",
          "Dustin Holt"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band formed in the mid-[YEAR]s.  They released three full-length albums and one Split EP for Tooth & Nail Records.\n",
+      "Three of [BAND_NAME]'s members were also members of For Love Not Lisa, who released two albums for Atlantic Records in the early [YEAR]s.\n",
+      "The following is a partial list of the members involved in [BAND_NAME].\n"
+   ]
 }

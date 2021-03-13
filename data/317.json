@@ -36,5 +36,10 @@
          "Ziggy Sigmund",
          "Dayvid Swart"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia, formed in [YEAR]. They have released five studio albums and are known for their charting singles such as \"You Don't Know What It's Like\", \"Home\", \"Surefire (Never Enough)\", \"All That You Are (X3)\", \"Make It Right\", and \"Dirty\". They achieved platinum status with the [YEAR] album The Devil You Know and also received two [MONTH]o nominations, in [YEAR] and [YEAR].\n",
+      "[BAND_NAME] was formed in [YEAR] when singer [PERSON_NAME_FULL_1_MALE] moved to Vancouver from Seattle after he answered an [GENRE] a vocalist in the local Seattle newspaper, The Rocket, placed by [PERSON_NAME_FULL_0_MALE]. Tom Ferris (previously known for the band Moev) and [PERSON_NAME_LAST_0] had been advertising and searching for a vocalist before [PERSON_NAME_LAST_1] contacted [PERSON_NAME_LAST_0] from Seattle. The trio began writing demos and shortly thereafter, the band started to receive fan and music industry attention. Guitarist Robbie Morfitt, guitarist Hack, bassist [PERSON_NAME_FULL_2_MALE], and drummer [PERSON_NAME_FULL_3_MALE] had rounded out the lineup. In [YEAR], Ferris (whom had songwriting credits on the next two releases) and [PERSON_NAME_LAST_0] had left the band, and [BAND_NAME] signed a record deal with EMI Music Canada, after playing only 26 shows total.\n",
+      "In [YEAR], the band released their first EP called Purge, with producer Dale Penner (later famous for Nickelback) and keyboardist/programmer [PERSON_NAME_FULL_0_MALE]. \"T.D.M.\" was the only song to be released as a single, and its music video aired sporadically on the television program MuchOnDemand. In [YEAR], the band gained their first nomination for a [MONTH]o Award in Canada due to Purge.\n"
+   ]
 }

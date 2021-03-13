@@ -48,5 +48,10 @@
          "Michael McDonald",
          "Jeff Porcaro (deceased)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band founded in [YEAR] by core members Walter Becker (guitars, bass, backing vocals) and [PERSON_NAME_FULL_0_MALE] (keyboards, lead vocals). Blending elements of rock, jazz, latin music, R&B, blues and sophisticated studio production with cryptic and ironic lyrics, the band enjoyed critical and commercial success starting from the early [YEAR]s until breaking up in [YEAR]. Initially the band had a core lineup, but in [YEAR], Becker and [PERSON_NAME_LAST_0] retired the band from live performances altogether to become a studio-only band, opting to record with a revolving cast of session musicians. Rolling Stone has called them \"the perfect musical antiheroes for the Seventies\".\n",
+      "After the group disbanded in [YEAR], [PERSON_NAME_LAST_0] and Fagen were less active throughout most of the next decade, though a cult following remained devoted to the group. Since reuniting in [YEAR], [BAND_NAME] has toured steadily and released two albums of new material, the first of which, Two Against Nature, earned a Grammy Award for Album of the Year.  They have sold more than 40 million albums worldwide and were inducted into the Rock and Roll Hall of Fame in [MONTH] [YEAR]. VH1 ranked [BAND_NAME] at No. 82 on their list of the 100 Greatest Musical Artists of All Time. Rolling Stone ranked them No. 15 on its list of the 20 Greatest Duos of All Time. Founding member [PERSON_NAME_FULL_0_MALE] died on [MONTH] 3, [YEAR], leaving Fagen as the sole official member.\n",
+      "Becker and Fagen met in [YEAR] at Bard College, in Annandale-on-Hudson, New York. As Fagen passed by a [GENRE] an interview, Fagen recounted the experience: \"I hear this guy practicing, and it sounded very professional and contemporary. It sounded like, you know, like one of them colored people, really.\" He introduced himself to Becker and asked, \"Do you like jazz?\" Discovering that they enjoyed similar music, the two began writing songs together.\n"
+   ]
 }

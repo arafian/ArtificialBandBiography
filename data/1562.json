@@ -26,5 +26,10 @@
          "Ibon Errazkin",
          "Peru Izeta"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band in the [YEAR]s. Although they experienced only moderate commercial success, they achieved a significant cult following in the Basque country, and their music has been a major influence on many Spanish bands of the [YEAR]s. The band dissolved in [YEAR] and the members teamed up with drummer Gorka Ochoa to form a new group under the name of Le Mans.\n",
+      "The core of the band was formed by [PERSON_NAME_FULL_1_MALE] and Teresa Iturrioz, who began to jam together in the summer of [YEAR], both initially playing bass guitar. In [MONTH] [YEAR], [PERSON_NAME_FULL_0_FEMALE] and Peru Izeta came on board and together they formed the group under the name [BAND_NAME].\n",
+      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

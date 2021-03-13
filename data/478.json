@@ -30,5 +30,10 @@
          "Sambo Moncivaiz",
          "Ryan Dugger"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, and they primarily play alternative metal, nu metal, post-rock, and rap rock. They come from both Phoenix, Arizona and Nashville, Tennessee. The band started making music, in [YEAR], with lead vocalist and guitarist, Jason Moncivaiz, bassist and background vocalist, Sambo Moncivaiz, and drummer and background vocalist, [PERSON_NAME_FULL_0_MALE]. Their first full-length studio album, The Truth Is Dangerous, was released in [YEAR] by WuLi Records.\n",
+      "[BAND_NAME] is a [GENRE] band from both Phoenix, Arizona and Nashville, Tennessee. The band formed in [YEAR], with members, lead vocalist and guitarist, Jason Moncivaiz, bassist and background vocalist, Sambo Moncivaiz, and drummer and background vocalist, [PERSON_NAME_FULL_0_MALE]. The two Moncivaiz brothers were in the band, Justifide.\n",
+      "The band commenced as a musical entity in [YEAR], with their release, The Truth Is Dangerous, a studio album, that was released by WuLi Records, on [MONTH] 26, [YEAR]. On [MONTH] 7, [YEAR] the band released the album DOS.\n"
+   ]
 }

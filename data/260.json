@@ -40,5 +40,10 @@
          "Shane Bartley",
          "Chris Stockwell"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band from Athens County, Ohio, founded in [YEAR], playing progressive and traditional bluegrass as well as their own unique compositions and adaptations from other genres.\n",
+      "[BAND_NAME] toured extensively on the festival circuit, where audiences enjoyed their close vocal harmonies and high energy performances. In [YEAR] they performed in Scarborough, Ontario, Canada as part of the Bluegrass Sundays Concert Series organized by the Northern Bluegrass Committee.  In [YEAR] they were headliners at the Central Canadian Bluegrass Awards festival in Huntsville, Ontario.\n",
+      "In [YEAR] the Rarely Herd showcased at the International Bluegrass Music Awards.  That year their first album, \"Midnight Loneliness\" was issued by Pinecastle, followed by \"Heartbreak City\" in [YEAR]. \"What About Him\", released in [YEAR], earned then a Dove Award nomination. \"Coming of Age\" was released in [YEAR], \"Part of Growing Up\" was released in [YEAR], both produced by [PERSON_NAME_FULL_0_MALE]. Three more CD's, \"Return Journey\" in [YEAR], \"Round-up, Vol One\" in [YEAR], and \"Fields of the Harvest\" in [YEAR], were released on their own label.\n"
+   ]
 }

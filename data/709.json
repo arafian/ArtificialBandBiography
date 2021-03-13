@@ -33,5 +33,10 @@
          "Nishikawachi",
          "Pop"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (in Japanese おとぼけビ～バ～) is a [GENRE] band from Kyoto, Japan. According to its members, the band plays a \"fast-paced and aggressive style of punk-rock,\" with \"frequent changes in rhythm and tempo,\" accompanied by \"gang vocals.\" Their songs feature love and relationships as regular themes, often based on singer Accorinrin's own experiences.\n",
+      "The band is named after a [GENRE] band members. They formed in [YEAR] while the members were active in the \"Rock Commune\" music club at Ritsumeikan University in Kyoto. The original members were Accorinrin on lead vocals, Yoyoyoshie on guitar, Pop on drums, and Nishikawachi on bass.\n",
+      "In [MONTH] [YEAR], [BAND_NAME] released a [GENRE] an early version of \"Chuchu Song\", a live track that would be later re-recorded and distributed to people who helped fund the band's first trip to the United States.\n"
+   ]
 }

@@ -24,5 +24,10 @@
          "Christian Nyquist",
          "Attila Publik"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Gothenburg, Sweden. They went under the name Highlander from [YEAR] until [YEAR] (with Joacim Cans on vocals and other future HammerFall members) before the band was put on hold. Reformed in the late nineties, briefly under the same name, before changing it to [BAND_NAME]. The band is Swedish but Wojtek Lisicki is from Poland. Daniel Heiman and [PERSON_NAME_FULL_0_MALE] departed from [BAND_NAME] in [YEAR], and although the band released three short instrumental teaser clips: \"Wizard\", \"Spirit\", and \"Fire\" in [YEAR] and the band still sells merchandise, no other new music activity has been announced since then.\n",
+      "Onstage and in photoshoots, [BAND_NAME] members are seen wearing studded leather, cloaks, bare chests and face paint. They also adopt pseudonyms and use obscure terms to describe their roles within the band. For example, Wojtek Lisicki, using the name \"Transcendental Protagonist\" describes himself as being responsible for \"Poesy of Spiritual Enlightenment/String Romanticism\" with a [GENRE]",
+      "Studio albums:\n"
+   ]
 }

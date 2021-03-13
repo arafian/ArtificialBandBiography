@@ -29,5 +29,10 @@
          "Jaime Burgos",
          "Jimmy Jenks Jimenez"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were a [GENRE] band, once led by singer, songwriter and guitarist [PERSON_NAME_FULL_0_MALE].\n",
+      "On 9 [MONTH] [YEAR], Donés died at the age of 53.\n",
+      "In [YEAR], the band announced they were going to leave their record company and go independent, founding their own record label Tronco Records. They changed their name to \"Jarabedepalo\" because their former record label had the rights to the name.\n"
+   ]
 }

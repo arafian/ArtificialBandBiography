@@ -35,5 +35,10 @@
          "Juantxu \"Mongol\" Olano",
          "Jesús \"Maguila\" García"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (Spanish pronunciation: ) was a [GENRE] band formed in Bilbao in the [YEAR]s, and disbanded in [YEAR]. Their lyrics mainly deal about drugs, bar issues and love, and their style, being mainly influenced by bands such as Status Quo, AC/DC or Leño, and guitarists like [PERSON_NAME_FULL_0_MALE] from Creedence Clearwater Revival, broke with the Basque Radical Rock trend of the moment.\n",
+      "[BAND_NAME] was formed in Bilbao, in the late 80s. Juantxu and Uoho were the first ones to practice together, after their former band, Ke, broke up. Maguila joined later, as a [GENRE] a practicing session, and he ended up joining the group as singer and guitarist.\n",
+      "They recorded their first demo in the Arion studios in Pamplona with the money from their first performances, and took the name \"[BAND_NAME]\" that would become definitive. The demo, which they called Burrok'n'Roll, was edited with only a [GENRE] a collector's item.\n"
+   ]
 }

@@ -39,5 +39,10 @@
          "Dusty Watson",
          "Alf Silva"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME], also known as CH3, is an [GENRE] band from Cerritos, California.\n",
+      "[BAND_NAME] was formed in [YEAR] by [PERSON_NAME_FIRST_1] Magrann (vocals, guitar), [PERSON_NAME_FULL_0_FEMALE] (guitar), Larry Kelly (bass) and [PERSON_NAME_FULL_1_MALE] (drums), in the suburban community of Cerritos, South Los Angeles, California. Their first release was a self-titled EP on California label Posh Boy Records in [YEAR]. \"Manzanar\", a track from that EP, was played heavily by UK disc jockey [PERSON_NAME_FULL_2_MALE].\n",
+      "In [YEAR], Jack DeBaun become their new drummer and their release Fear of Life was retitled I’ve Got A Gun in the UK with some differences in the track-listing.\n"
+   ]
 }

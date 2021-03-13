@@ -5,5 +5,10 @@
       "It was created in 1952 on the naval air base Lann-Bihoué near Lorient (Morbihan). Having almost been disbanded twice in 1969 and in 2000, it secured its existence in 2001 by becoming a professional band. It has recorded about fifteen albums during its over 60 years of existence and has participated in several songs or albums from other artists.\n",
       "30 sonneurs sign a one-year contract renewable three times. They write and arrange the bagad directory themselves, reflecting their personality and their knowledge of their terroir or of a particular music style.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "The Bagad de Lann-Bihoué is a [GENRE] a Breton pipe band. It is the bagad of the French Navy. It represents the French Navy and France in multiple national and international events. It has performed regularly in front of Heads of State. It is a source of cultural influence in Brittany, as in the rest of France.\n",
+      "It was created in [YEAR] on the naval air base Lann-Bihoué near Lorient (Morbihan). Having almost been disbanded twice in [YEAR] and in [YEAR], it secured its existence in [YEAR] by becoming a [GENRE] band. It has recorded about fifteen albums during its over 60 years of existence and has participated in several songs or albums from other artists.\n",
+      "30 sonneurs sign a [GENRE] a particular music style.\n"
+   ]
 }

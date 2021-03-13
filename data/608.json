@@ -33,5 +33,10 @@
          "Mika Nakajima",
          "Masuhiro Goto"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band. The current members are [PERSON_NAME_FULL_1_FEMALE] (keyboards), Shinko \"Panky\" Shibata (bass guitar), Hazime (drums) and [PERSON_NAME_FULL_0_MALE] (guitar).\n",
+      "[BAND_NAME]'s music features keyboards heavily—this was particularly true between [YEAR] and [YEAR] when the band had two keyboard players. Common sounds include the ubiquitous Hammond organ, as well as more recent digital sounds. Almost all of their music is instrumental.\n",
+      "The band's musical influences are ELP, Goblin, PFM, Rick Wakeman, Balletto di Bronzo and classical music. Kumagai, the keyboard player, writes all of the band's compositions. She has played on the Ayreon album Universal Migrator Part 2: Flight of the Migrator ([YEAR]). For much of its history (until Hazime and more recently Handa joined), the band was all-female, unusual in the world of progressive rock.\n"
+   ]
 }

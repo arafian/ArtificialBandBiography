@@ -33,5 +33,10 @@
          "S. Paul Wilson",
          "David Kovacevic"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were a [GENRE] band from London that grew out of the glam rock-influenced punk rock band Raped.\n",
+      "The punk band Raped formed in [YEAR] with a line-up of Sean Purcell (vocals), Faebhean Kwest (guitar), [PERSON_NAME_FULL_0_MALE] (bass), and Paddy Phield (drums). They released the Pretty Paedophiles EP and the \"Cheap Night Out\" single in [YEAR] on Parole Records. Their last gig as 'Raped' was in Belfast with the punk band Rudi at Christmas [YEAR]. In [MONTH] [YEAR] they changed their name to '[BAND_NAME]'.\n",
+      "On the first recording sessions as [BAND_NAME] (that later were to appear on the album \"Guillotine Theatre\"}, they were augmented by Alig Fodder and [PERSON_NAME_FULL_0_MALE] (piano). Then Billy Surgeoner joined the band for further album sessions as well as live appearances, playing keyboard synthesisers. The band's first release was the single \"Madman\", a song written by [PERSON_NAME_FULL_1_MALE] and [MONTH]c Bolan shortly before Bolan's death, which reached No. 3 in the UK Indie Chart. They next released the Guillotine Theatre album in [YEAR] on Japanese label Teichiku, and a remixed version issued in the UK in [YEAR] on Fresh Records, which reached No. 1 in the indie album chart and 8 in the main billboard charts. The album was described by [PERSON_NAME_FULL_2_MALE], in a review for Allmusic, as \"one of the underrated classics of the late [YEAR]s, as delivered by one of the most underrated bands\".  The band continued with various personnel changels through until [YEAR]. \n"
+   ]
 }

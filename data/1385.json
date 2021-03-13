@@ -30,5 +30,10 @@
       "Website": [
          "http://www.FourToTheBar.com"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from New York City during the early to mid-[YEAR]s.\n",
+      "[BAND_NAME] was formed in the working-class/immigrant Irish community of Woodside, Queens, New York City, in [YEAR]  The initial lineup was [MONTH]tin Kelleher (from Cork) on bass guitar, David Yeates (from Dunboyne, County Meath) on vocals and flute, David Livingstone (from County Monaghan) on mandolin, and Gerry Singleton guitar.\n",
+      "That [MONTH], Kelleher switched to guitar and the band placed a [GENRE] a bass player in the Irish Voice newspaper. Patrick Clifford (from New York City) answered the ad, was hired, and completed the Kelleher-Yeates-Clifford nucleus that would hold for the remainder of the band's existence.\n"
+   ]
 }

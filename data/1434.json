@@ -32,5 +32,10 @@
          "Usman",
          "Rawal Shadab Ahamad"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (Urdu: سیٹرن‎) is a [GENRE] band from Islamabad, Pakistan, formed in [YEAR]. The group was founded by lead guitarist and songwriter [PERSON_NAME_FIRST_3] [PERSON_NAME_LAST_0] and vocalist & lyricist [PERSON_NAME_FULL_0_MALE], who were later joined by bassist Aashir, drummer [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_1], and rhythm guitarist [PERSON_NAME_FULL_2_MALE] Ahmad Khan.\nThe band is well known for being one of the pioneering [GENRE] groups in Pakistan. [BAND_NAME] became famous after releasing their debut track \"Raakh\" which is Urdu for \"Ashes\". They later gained more popularity for their energetic performances and stage presence. [BAND_NAME] is known as one of the loudest bands of Pakistan. Their debut album Naya Din was released on [MONTH] 7, [YEAR].\n",
+      "[BAND_NAME] was formed by brothers Salman and Shahbaz in [YEAR] and was joined by Hasham Kazi with whom they started recording \"Raakh,\" their debut track, at S & M Studios Islamabad. Hasham left the band due to personal reason shortly after the release of the song and the two brothers moved on. In [YEAR] [BAND_NAME] released their second song with a completely new line up and started playing concerts regularly until late [YEAR]. In the start of [YEAR] [BAND_NAME] disbanded and the band went into idle years.  From [YEAR] to [YEAR] [BAND_NAME] remained out of the music scene, occasionally performing at music festivals, but not playing many concerts. It was later revealed that the band had been working on their debut album Naya Din.\n",
+      "In [YEAR] [BAND_NAME] announced that they were back and now in studio to record their untitled album with [PERSON_NAME_FULL_0_MALE] at S & M Studio. In [YEAR] [BAND_NAME] played almost forty concerts for U ROCK, a [GENRE] band's line-up had again changed but this time they were not willing to change it and went straight to studio. On [MONTH] 7, [YEAR] [BAND_NAME] finally released the long-awaited video for their second song \"Kuch Nahi\" and later that same year announced on radio that they were ready for their debut album’s release which was still untitled. It took almost three years to record all the songs but in [MONTH] [YEAR] they announced that the album would be called Naya Din.\n"
+   ]
 }

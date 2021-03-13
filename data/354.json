@@ -28,5 +28,10 @@
          "Scott Brown",
          "Clayton Hill"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band that developed from a group formed by vocalist Ra McGuire and guitarist Brian Smith in [YEAR]. The group is best known for its Canadian hits: \"Raise a Little Hell\", \"We're Here for a Good Time (Not a Long Time)\", \"The Boys in the Bright White Sports Car\", \"General Hand Grenade\", \"3 Dressed Up as a 9\", \"[MONTH]ine\", \"Two for the Show\", \"Oh, Pretty Lady\" and \"Santa [MONTH]ia\".\n",
+      "In [YEAR], Ra McGuire and [PERSON_NAME_FULL_0_MALE] played in a [GENRE] a Monkey\" and \"Jump in the River Blues\", on the Rumble Records Label. \"Are You a Monkey\" later appeared on a rock collection: [YEAR]'s \"The History of Vancouver Rock and Roll, Vol. 3\".\n",
+      "In the early seventies, Winter's Green changed their name to Applejack and added drummer Tommy Stewart and bassist [PERSON_NAME_FULL_1_MALE] to their lineup. Applejack became a [GENRE] band in the Vancouver area, and began touring extensively in British Columbia. The band played a few original tunes such as \"Raise a Little Hell\" and \"Oh, Pretty Lady\", as well as Top 40 songs by artists such as [PERSON_NAME_FULL_0_MALE] and Chicago.\n"
+   ]
 }

@@ -29,5 +29,10 @@
          "Joel Patterson",
          "Jason 71"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Southern California. Their style has been described as \"pink noise pop.\" They disbanded in [YEAR] after having released three albums as well as several EPs, but have reunited and are working on a new full-length album.\n",
+      "Formed in [YEAR], [BAND_NAME] released their first EP, California. California defined the group’s sound, a mix of the smooth [YEAR]s and early [YEAR]s West Coast pop music and the sonic power of British shoegaze music. Lassie followed up its EP with their first full-length album, Pacifico. Pacifico caught British attention by being featured in the \"What's on the NME Stereo\" section of New Musical Express magazine. In [YEAR] the band released the El Rey EP (also featured in NME), whose title track was featured on TV's \"Buffy the Vampire Slayer\", \"Popular\", \"MTV's The Real World\", and \"MTV Road Rules\". Singles in the U.S. and Australia followed, and the band continued its regimen of performing in Southern California clubs with bands like Phantom Planet, At the Drive-In, Mates of State, Creeper Lagoon, and Imperial Teen.\n",
+      "[YEAR] saw a [GENRE] band’s musical direction with its split soundtrack for the independent film I Duel Sioux and the Ale of Saturn, followed soon thereafter by The El Dorado LP, their second full-length album. Both albums abandoned their traditional shoegaze elements for a cleaner pop sound. It also marked the end of the band.\n"
+   ]
 }

@@ -3,5 +3,8 @@
    "rawData": [
       "Pata Negra is a Spanish flamenco-blues band, established by brothers Raimundo Amador (singer and guitarist, b. 1959 in Seville) and Rafael Amador (guitarist and cantaor, b. 1960 in Seville) after the breakup of their previous band Veneno. Their style of derivative rhythms based on flamenco nuevo and blues, which they titled \"blueslería\", made an impact on other modern flamenco music bands. The Amador brothers as Pata Negra, recorded six records between 1981 and 1995.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band, established by brothers [PERSON_NAME_FULL_0_MALE] (singer and guitarist, b. [YEAR] in Seville) and [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] (guitarist and cantaor, b. [YEAR] in Seville) after the breakup of their previous band Veneno. Their style of derivative rhythms based on flamenco nuevo and blues, which they titled \"blueslería\", made an impact on other modern flamenco music bands. The [PERSON_NAME_LAST_0] brothers as [BAND_NAME], recorded six records between [YEAR] and [YEAR].\n"
+   ]
 }

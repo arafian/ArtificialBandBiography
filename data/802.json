@@ -33,5 +33,10 @@
          "Robert Axelsson",
          "Jonas Blom"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band, that played a fusion of melodic death metal and thrash metal. The band was formed by vocalist [PERSON_NAME_FULL_0_MALE] after the breakup of The Crown. After two albums on Nuclear Blast Records, they moved to Massacre Records. Their third album, Grim Tales, received lukewarm reviews.\n",
+      "The band officially split-up in [YEAR].\n",
+      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

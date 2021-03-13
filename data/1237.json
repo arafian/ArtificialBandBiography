@@ -65,5 +65,10 @@
          "Tig Moore",
          "Johnny Marr"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band from Berkeley, California that is best known for the singles \"Only the Lonely\" and \"Suddenly Last Summer\", each of which peaked at No. 9 on the Billboard Hot 100, in [YEAR] and [YEAR], respectively. In [YEAR], [BAND_NAME] song \"Total Control\" reached No. 7 on the Australian chart (for two weeks), and their song \"Danger\" reached No. 15 on the French chart.\n",
+      "[MONTH]tha Davis, the lead singer, reformed a [GENRE] band called \"[BAND_NAME] featuring [MONTH]tha Davis\" in [YEAR] and toured under that name with various line-ups of musicians.\n",
+      "In [YEAR], the band was re-christened with a permanent name, [MONTH]tha Davis and [BAND_NAME]. That band is touring the world with a line-up of musicians that have been playing with Davis for over 10 years, longer than the original Motels.\n"
+   ]
 }

@@ -23,5 +23,9 @@
       "Producer": [
          "Robert Roth, Truly, Jonathan Aver"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band Truly.  \"[BAND_NAME]\" was featured in the [YEAR] film Singles.\n",
+      "This [YEAR]s alternative rock album–related article is a [GENRE]"
+   ]
 }

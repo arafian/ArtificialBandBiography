@@ -27,5 +27,10 @@
          "Madeline Brout",
          "Nicholas Burrows"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were an [GENRE] band band based in New York City, featuring triplets Emily, Madeline, and [PERSON_NAME_FULL_1_MALE], along with Windsor, Ontario, Canada-based Nicholas Burrows The band emerged from the local music scene, garnering a significant amount of attention for their age and style. [BAND_NAME] was signed to [PERSON_NAME_FULL_0_MALE] in early [YEAR].\n",
+      "The Brout triplets were born on [MONTH] 28, [YEAR], and have been performing together since the age of 8.  They came together formally as [BAND_NAME] in the summer of [YEAR], originally under the aegis of producers Stuart Chatwood and musician and former record executive [PERSON_NAME_FULL_0_MALE].  Around this time, Chatwood suggested to the group that drummer Nicholas Burrows (born [MONTH] 8, [YEAR]), the son of Tea Party and Crash Karma drummer Jeff Burrows, join the band.  In the spring of [YEAR], the band went into the Cutting Room Studio and Shelter Island Sound Studio, both in New York City, with [PERSON_NAME_LAST_0] producing, and [MONTH]k Dearnley engineering and mixing, and the band's first album, Her Screwed Up Head, was released on [MONTH] 15, [YEAR].\n",
+      "The band first gained attention with a [GENRE] a cover of \"White Rabbit\" by Jefferson Airplane, soon followed by a video for their own song. The band's first video from their debut album, Her Screwed Up Head, \"25 Steps,\" was directed by  Noah Hutton.  Following this, the band released three more videos:  \"Soybean\" (also from the album), \"Lucky Ones\" (a new track, produced by [MONTH]ian Raymond and [PERSON_NAME_FULL_0_MALE]), and a new version of the song \"Her Screwed Up Head,\" also produced by Raymond and [PERSON_NAME_LAST_0].  \n"
+   ]
 }

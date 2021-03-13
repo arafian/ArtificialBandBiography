@@ -19,5 +19,10 @@
          "Spin Records",
          "Atco Records"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were an [GENRE] band started by Steve \"Eddie\" Rice in [YEAR]. They continued to play the San Francisco Bay Area from [YEAR] to [YEAR]. They released five albums and one EP. They appeared on the Lost Boys soundtrack with their song, \"Power Play\".\n",
+      "[BAND_NAME] (originally named \"The Suburbs\" until forced to change their name by court order) played frequently during the early [YEAR]s in the Santa Cruz and San Francisco Bay Area at venues such as the Monterey Music Hall in Monterey, The Keystone in Palo Alto, The Stone in San Francisco, and The Catalyst in Santa Cruz and built a loyal following. Eventually signed by [PERSON_NAME_FULL_0_MALE] who owned the Keystone night clubs, they released the independent EP \"[MONTH]be I'll Get Lucky\" in [YEAR] which went on to be the biggest selling indie release to date in California.\n",
+      "In [YEAR], they independently released their first full-length album I Do It For You, with the track \"Running Wild, Running Free\" receiving a music video which was aired on the MTV Basement Tapes in [YEAR]. They were signed by Atco/Atlantic Records and released two albums Go Out and Get It and Looking for Adventure in [YEAR] and [YEAR], respectively. Failing to reach the popularity expected, they were subsequently dropped from their label. They returned to the studio and released Dig Down Deep  independently in [YEAR] followed by Stand Tall in [YEAR]. They also flirted with a name change to \"The Tide\" around this time. Eventually, they withdrew from the music scene and moved on with their personal lives.\n"
+   ]
 }

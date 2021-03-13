@@ -42,5 +42,10 @@
          "Daphne Chen",
          "Michael Panes"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Los Angeles, California. They formed in [YEAR] and have released five albums.\n",
+      "[BAND_NAME] consists of [PERSON_NAME_FULL_2_MALE] (guitar, lead vocals), [PERSON_NAME_FULL_1_MALE] (bass guitar), James Scott Rubia (guitar, keys) and [PERSON_NAME_FULL_0_FEMALE] (drums, guitar, vocals).\n",
+      "[BAND_NAME] formed in [YEAR] in Los Angeles, CA. They played their first show in [YEAR] at Los Angeles club, Spaceland, with  [PERSON_NAME_FULL_4_MALE] and Chokebore. In summer [YEAR], [BAND_NAME] released its first E.P. entitled The Sexlife of Flowers. The band worked with the actor/director Adam Goldberg to score two of his films, Running with the Bulls, which was premiered on the Independent Film Channel in [YEAR], and I Love Your Work, which starred [PERSON_NAME_FULL_1_FEMALE], [PERSON_NAME_FULL_3_MALE], Jason Lee and [PERSON_NAME_FULL_2_FEMALE]. [BAND_NAME] also played as the backing band for the comedian Sarah Silverman's one woman show, \"Sarah Silverman: Jesus Is Magic\", performed at Second City in Los Angeles and The Canon Theater in Beverly Hills, California. The band released its second album, With Us, on the independent label, The New Black, founded by the Los Angeles band, The Antarcticans. Two songs from the album \"With Us\" : Early Morning and Focus 6 were featured in the film \"Under Still Waters\" starring Lake Bell, Jason Clarke, and [PERSON_NAME_FULL_0_MALE] Jr. . The band's third album, \"Still Life\"  was released in [MONTH] [YEAR] on [MONTH] le Fit records. \"The Morning Sun\", the band's fourth album was self released in [MONTH] [YEAR].\n"
+   ]
 }

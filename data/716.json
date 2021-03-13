@@ -31,5 +31,10 @@
          "Allison Pierce",
          "Catherine Pierce"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] band consisting of sisters Allison and Catherine Pierce.\n",
+      "Allison [MONTH]garet Pierce (born [MONTH] 22, [YEAR]) and Catherine Eleanor Pierce (born [MONTH] 12, [YEAR]) were born in Birmingham, Alabama. They traveled frequently and received home-schooling from their self-described hippie parents. Their father played the guitar in various bands, while their mother was a [GENRE] an early age, the Pierce sisters grew up listening to The Beatles, [PERSON_NAME_FULL_0_FEMALE] and Simon & Garfunkel. As children, they were encouraged to explore their creative side and would perform at parties, weddings and churches. Allison started dancing at age three, and both sisters are accomplished ballet dancers.\n",
+      "It was while they attended Auburn University that a [GENRE] a tape to a record company in Nashville. This eventually resulted in their debut album [BAND_NAME] ([YEAR]). It featured folk harmonies and \"adult alternative\" songs. In a [YEAR] interview, [PERSON_NAME_FULL_0_FEMALE] commented that the album \"sort of got lost in the shuffle\". Allmusic attributes the poor reception to \"no label support\".\n"
+   ]
 }

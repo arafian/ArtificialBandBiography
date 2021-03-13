@@ -28,5 +28,10 @@
       "Past members": [
          "Kyle Lee"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (PFOR) is an [GENRE] band formed in [YEAR].\n",
+      "The band operated independently for 10 years, releasing two albums: Songs to the King ([YEAR]) and To Make You Famous ([YEAR]). In [YEAR], they signed with Warner Bros. gospel music entity Word/Myrrh Records.\n",
+      "In [YEAR], the band was nominated for a [GENRE] a Dove Award at the 39th GMA Dove Awards.\n"
+   ]
 }

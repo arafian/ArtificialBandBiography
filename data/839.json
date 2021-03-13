@@ -23,5 +23,10 @@
          "Domenic Stanton",
          "Jacob Pearce"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band based in Melbourne, Australia.\n",
+      "They are often compared to bands such as Dirty Three or Godspeed You! Black Emperor.\n",
+      "The band is known for their unique take on instrumental rock and their (often handmade) CD artwork illustrated by guitarist Reuben Stanton.\n"
+   ]
 }

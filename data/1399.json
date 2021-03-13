@@ -29,5 +29,10 @@
          "Rob Youngberg",
          "Tony Zajkowski"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band, formed in [YEAR] by brothers Bill and [PERSON_NAME_FULL_1_MALE] (bass guitar and guitar respectively), drummer Rob Youngberg, and vocalist/guitarist [PERSON_NAME_FULL_0_MALE].\n",
+      "[BAND_NAME] formed in New York City's East Village and released two seven-inch singles \"Head\" and \"Tear\" on Kokopop before releasing their debut album, full Isaac, through spinArt Records in [YEAR].\n",
+      "To promote the release of full Isaac, [BAND_NAME] toured America and Europe with Pavement, Throwing Muses, and Mercury Rev.  In [YEAR], the band released a [GENRE] a second EP, The Agnew Funeral E.P., recorded the next year. In [YEAR], [BAND_NAME] released their second album, Nobody's Cool, with liner notes by Thomas Pynchon.\n"
+   ]
 }

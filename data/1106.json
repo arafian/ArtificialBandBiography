@@ -5,5 +5,10 @@
       "Saddle Creek Records is planning to re-release Neva Dinova's earlier albums.\n",
       "Neva Dinova's music contains elements of folk, psychedelia, rock, acoustic, and country. They are known for having small and intimate live shows.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Omaha, Nebraska. The band is named after the grandmother of lead singer Jake Bellows. They were initially on crank! a record company (though their second release was licensed to Sidecho Records), and recorded a collaborative album with Bright Eyes entitled One Jug of Wine, Two Vessels. In [MONTH] [YEAR], the band released their first album from Saddle Creek Records entitled You [MONTH] Already Be Dreaming. Drummer Roger Lewis is also the drummer for fellow Saddle Creek band The Good Life, with whom Bellows completed a solo tour in the fall of [YEAR]. Bellows remained a key associate with Bright Eyes in [YEAR] and [YEAR] and contributed to the album Cassadaga.\n",
+      "Saddle Creek Records is planning to re-release [BAND_NAME]'s earlier albums.\n",
+      "[BAND_NAME]'s music contains elements of folk, psychedelia, rock, acoustic, and country. They are known for having small and intimate live shows.\n"
+   ]
 }

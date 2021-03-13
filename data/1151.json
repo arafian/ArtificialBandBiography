@@ -39,5 +39,10 @@
          "James Lugo",
          "Sandy Hancock"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Huntington Beach, California, famous for their EP Danger Zone and their violent gigs. They were, along with the Crowd, Adolescents,\nSocial Distortion, T.S.O.L. and Shattered Faith, the most preeminent figures of the early Orange County punk scene.\n",
+      "Photographer Glen E. Friedman once described the band's sound as:\n",
+      "\"Full doses of [BAND_NAME] ... send staggering chills through your veins as you experience this nitro-punk injection.\""
+   ]
 }

@@ -37,5 +37,9 @@
          "Robert Kelly Turner",
          "Matt Wood"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band originally from Northampton, Massachusetts and now located in Phoenix, Arizona. They are known for their video game music covers, which are instrumental rock variations of the theme music from classic Nintendo video games such as Mega Man, Metroid, and Castlevania. The Phoenix New Times awarded [BAND_NAME] their best cover band award in [YEAR].\n",
+      "From [YEAR] to [YEAR], guitarist Aaron Burke and drummer [PERSON_NAME_FULL_0_MALE] played in Jenova Project, one of the earliest video game cover bands, along with other friends from the same dorm at the University of Massachusetts Amherst. In [MONTH] [YEAR], Burke and [PERSON_NAME_LAST_0] recruited bassist Ben Baraldi to form [BAND_NAME]. Initially, the band played both video game covers as well as original songs, and self-released their first album, [BAND_NAME], in [MONTH] [YEAR]. They were unsatisfied with the quality of this album and have since released new versions of their covers (as well as new covers) on the [BAND_NAME]/Penny Winblood split and Brass album. At the same time, they replaced their older songs, which had been freely available to download, with the newer versions found on Brass. From [YEAR] to present, the band has toured continuously while recording material for new albums.\n"
+   ]
 }

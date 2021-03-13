@@ -5,5 +5,10 @@
       "Never a very commercially successful band, Stud had its biggest successes in Germany.\n",
       "This article on a United Kingdom band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "\n[BAND_NAME] is an [GENRE] band from the early [YEAR]s, that featured two members of Taste - bassist [PERSON_NAME_FULL_1_MALE] (born [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_1], 26 [MONTH] [YEAR], in Omagh, County Tyrone, Northern Ireland) and drummer [PERSON_NAME_FULL_0_MALE] (born 6 [MONTH] [YEAR], in Belfast, Northern Ireland) - along with two members of Family - former bass guitarist [PERSON_NAME_FIRST_0] Weider and future bass player, [PERSON_NAME_FULL_3_MALE].\n",
+      "Never a [GENRE] band, [BAND_NAME] had its biggest successes in Germany.\n",
+      "This article on a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

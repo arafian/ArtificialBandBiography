@@ -39,5 +39,10 @@
          "David Woodward",
          "Daryl Bennett"
       ]
-   }
+   },
+   "prunedData": [
+      "The Powder Blues is a [GENRE] band formed in [YEAR] in Vancouver. Its first album Uncut went double platinum in Canada. The second album Thirsty Ears was similarly popular.\n",
+      "Their best known songs include: \"Boppin' with the Blues\", \"Doin' It Right\", \"Thirsty Ears\", \"Hear That Guitar Ring\", and \"What've I Been Drinkin\".\n",
+      "The Powder Blues was founded in [YEAR] as a [GENRE] band in Vancouver, British Columbia. The band was founded by brothers Tom [PERSON_NAME_LAST_1] (guitar, vocals), [PERSON_NAME_FULL_1_MALE] (bass, vocals), and [PERSON_NAME_FULL_0_MALE] (keyboards, vocals). After playing in local clubs for 18 months, the band released their self-financed and self-produced debut album, Uncut, in [YEAR], followed by a tour of Canada and the US. The band won the [MONTH]o Award for \"Most Promising Group of the Year\" in [YEAR]. Uncut went double platinum in Canada in [YEAR], selling over 200,000 copies. Their second album, Thirsty Ears, was released in [YEAR] and was certified platinum in Canada. In [YEAR], the band won the American W.C. Handy Award for \"Foreign Band of the Year\". The band's greatest hits album First [MONTH]ade was released in [YEAR] and was certified gold.\n"
+   ]
 }

@@ -30,5 +30,10 @@
          "Jayce Fincher",
          "Mitch McLee"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band composed of lead vocalist Jesse Harte, guitarist [PERSON_NAME_FULL_0_MALE], bassist [PERSON_NAME_FULL_1_MALE], and drummer Mitch \"Slug\" McLee, active in the late [YEAR]s and early [YEAR]s.  The band's original name was Byte the Bullet, which was changed to [BAND_NAME] before they released their first album, Tainted Angel. They had a similar style to many of the other \"hair bands\" of the era. The band is best remembered for their [YEAR] single \"Tainted Angel,\" which received some MTV airplay, especially during Headbanger's Ball.\n",
+      "Tainted Angel was produced by Howard Benson and [PERSON_NAME_FULL_0_MALE].\n",
+      "After the band's breakup in the mid-[YEAR]s, Butch Walker, [PERSON_NAME_FULL_0_MALE], and [PERSON_NAME_FULL_1_MALE] went on to form power pop band [MONTH]velous 3, scoring a minor hit with \"Freak of the Week\" in [YEAR].\n"
+   ]
 }

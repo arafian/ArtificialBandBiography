@@ -33,5 +33,10 @@
          "Daniel Olivencia",
          "Joshua Scott"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in [YEAR] in New York City, New York. The band announced their breakup on [MONTH] 21, [YEAR]. The last line-up of the band featured Andrew Hock on vocals and guitar, [PERSON_NAME_FULL_0_MALE] on drums and Krallice member Nicolas McMaster on bass guitar.\n",
+      "The band was formed by guitarist Andrew Hock, bassist [PERSON_NAME_FULL_1_MALE] and drummer [PERSON_NAME_FULL_0_MALE]. [PERSON_NAME_LAST_0] performed with the death metal act Copremesis. Hock and [PERSON_NAME_LAST_1] were a member of the extreme metal acts Biolich and Ehnahre while attending New England Conservatory. After releasing Stones/Salts in [YEAR], the band signed to Profound Lore Records and released their debut album, Mounds of Ash in [YEAR], gaining a critical acclaim. After parting ways with two previous bassists, the band recruited Krallice bassist Nicholas McMaster and released their sophomore album, Obsian in [YEAR].\n",
+      "In [YEAR], the band embarked a [GENRE] band Thantifaxath and performed at [MONTH]yland Deathfest.\n"
+   ]
 }

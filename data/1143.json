@@ -32,5 +32,10 @@
          "Mike Botts",
          "Larry Knechtel"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Los Angeles, California. They had 13 songs chart on the Billboard Hot 100 between [YEAR] and [YEAR].\n",
+      "The band was fronted by David Gates (vocals, bass guitar, guitar, keyboards, violin, viola, percussion), with [PERSON_NAME_FULL_2_MALE] (vocals, guitar, keyboards, percussion) and [PERSON_NAME_FULL_1_MALE] (bass guitar, guitar, flute, keyboards, percussion, recorder, backing vocals). On their first album session musicians Ron Edgar played drums and [PERSON_NAME_FULL_3_MALE] played drums, percussion, and piano. Mike Botts became their permanent drummer when he joined in the summer of [YEAR], and [PERSON_NAME_FULL_0_MALE] replaced [PERSON_NAME_LAST_1] in [YEAR], playing keyboards, bass guitar, guitar, and harmonica.\n",
+      "David Gates was from Tulsa, Oklahoma. He released a song in the late [YEAR]s entitled  \"Jo-Baby\"/\"Lovin' at Night\". Gates knew Leon Russell and both played in bar bands around the Tulsa area.  Both Gates and Russell headed for California to check out the music scene there. Before forming [BAND_NAME], Gates had worked with Royer's previous band, the Pleasure Fair, who recorded one album for the UNI Records label with Gates producing and arranging. Royer then introduced Gates to his songwriting partner, Griffin, and the trio joined together in [YEAR] and signed with Elektra Records in [MONTH] [YEAR]. The group's first single, \"Dismal Day\", was released in [MONTH] [YEAR] but did not chart. Their debut album, [BAND_NAME], was released in [MONTH] [YEAR] and peaked at No. 127 on the Billboard 200. Songwriting on the album was split evenly between Gates and the team of Griffin-Royer. Session musicians [PERSON_NAME_FULL_0_MALE] and Ron Edgar accompanied the band on drums for the album.\n"
+   ]
 }

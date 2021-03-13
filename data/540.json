@@ -5,5 +5,10 @@
       "Their sound has been described as psychedelic folk rock, progressive folk and psychedelic pop, characterized by male/female harmonies. With the encouragement of David Crosby, they were signed personally by Ahmet Ertegun, managed by David Geffen and Elliot Roberts, and recorded their first album produced by Stephen Barncard in the space of one month. The album was shelved two months later due to management malfunction and was never released.\n",
       "Later two member of the band formed a spinoff electric band and recorded one album, Oasis, again produced by Barncard, released on the Cranbus label in 1973.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from [MONTH]in County, California, active in the [YEAR]s.\n",
+      "Their sound has been described as psychedelic folk rock, progressive folk and psychedelic pop, characterized by male/female harmonies. With the encouragement of David Crosby, they were signed personally by [PERSON_NAME_FULL_1_MALE], managed by David Geffen and [PERSON_NAME_FULL_0_MALE], and recorded their first album produced by Stephen Barncard in the space of one month. The album was shelved two months later due to management malfunction and was never released.\n",
+      "Later two member of the band formed a [GENRE] band and recorded one album, [BAND_NAME], again produced by Barncard, released on the Cranbus label in [YEAR].\n"
+   ]
 }

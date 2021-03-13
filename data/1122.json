@@ -27,5 +27,10 @@
          "Noah Shain (drums)",
          "Rodney Rocha (bass)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from Los Angeles, California. They released one studio album through Wind-up Records in [YEAR] and toured internationally before disbanding two years later.\n",
+      "Formed in [YEAR], [BAND_NAME] started with guitarist [PERSON_NAME_FULL_2_MALE], who owns a famed Sunset Boulevard tattoo shop, and [PERSON_NAME_LAST_2]'s frequent customer, singer and guitarist [PERSON_NAME_FIRST_2] Roentgen of the band SOUL. They broke from individual music projects to begin a new band together and were soon joined by [PERSON_NAME_FULL_1_MALE] (drums) of The Imposters and [PERSON_NAME_FULL_0_MALE] (bass). [BAND_NAME] played in various L.A. clubs before being signed to Wind-up Records in [YEAR]. This allowed them the opportunity to open concerts for Buckcherry and The Cult, as well as play at Woodstock '99. The band released its self-titled debut album, produced by Steve Jones of the Sex Pistols and Mudrock, in [MONTH] [YEAR]. This featured the singles \"Free Your Mind\" and \"If We Were Kings.\" [BAND_NAME] toured extensively through North America and Japan, as a headliner and as support act for KISS, Creed, 3 Doors Down, and Days of the New before disbanding in [YEAR].\n",
+      "Kevin Roentgen went on to record and perform under the moniker Praying Hands. In [YEAR], Roentgen joined Los Angeles band Orson as guitarist. Drummer Noah Shain is a record producer in Los Angeles. His production credits include Orson, [PERSON_NAME_FULL_1_FEMALE], Praying Hands, and All Day Sucker. In [YEAR] Kevin joined the band Buckcherry as guitar player and backing vocalist upon the departure of original guitarist and one of the founding members of Buckcherry, [PERSON_NAME_FULL_0_MALE]. \n"
+   ]
 }

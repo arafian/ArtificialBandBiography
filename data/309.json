@@ -37,5 +37,10 @@
          "Alan Keelan",
          "William Shand"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia. The band plays a unique style that mixes the intensity of punk rock and rockabilly with the dancy, horn driven sounds of ska.\n",
+      "[BAND_NAME] formed in [YEAR] in Vancouver, BC, and have since released three independent full-length albums.\n",
+      "The band's first album, entitled Making Waves ([YEAR]), was recorded over a [GENRE] a compilation of EP albums released during that time. The album was recorded and engineered by Paul Boechler at Fader Mountain Sound and Armoury Studios in Vancouver, BC. Mastering was done by [PERSON_NAME_FULL_0_MALE] at CPS Mastering.\n"
+   ]
 }

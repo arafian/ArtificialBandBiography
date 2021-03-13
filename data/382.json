@@ -29,5 +29,10 @@
          "Lenin",
          "Mando"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Chicago, Illinois active from [YEAR] to [YEAR] and from [YEAR] onward. Comprising all Latino members, the band paved the way for later Spanish-speaking punk bands in the United States and helped to increase the presence of Latinos in the country's predominantly white punk subculture.\n",
+      "[BAND_NAME] express a [GENRE] bands\" and \"one of the greatest hardcore bands...ever.\" [PERSON_NAME_FULL_1_MALE] additionally describes them as \"very popular in both the 'crusty' and Emo/straight edge scenes in North America.\"\n",
+      "The band formed in the early [YEAR]s by singer [MONTH]tin Sorrondeguy and guitarist [PERSON_NAME_FULL_1_MALE], who remained the group's consistent members through changing rhythm sections. Their lyrics were almost always sung in Spanish; the song \"We're That Spic Band\" (written in response to an [GENRE] a \"spic band\") is the sole exception. [BAND_NAME]' lyrics were explicitly political, addressing issues such as class, police brutality, homophobia, and California ballot propositions directed against immigrants.  At concerts, Sorrondeguy would often speak at length about the songs' meanings between songs, partly as a way of getting around the language barrier (audiences were not always happy about this).  Their music was loud, fast, and energetic with songs built around three chords or fewer. \"We're That Spic Band\" and \"Asesinos\" (about \"the disappearances of radical youth during military dictatorships in Latin America\") have both been described as their most well-known songs.\n"
+   ]
 }

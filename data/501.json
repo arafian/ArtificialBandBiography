@@ -22,5 +22,8 @@
          "Joe Wiles",
          "Mikey Middleton"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR] in Seattle, Washington. Their internationally distributed album: Another Day to Start Again (Steelroots/Flicker, [YEAR]) was received well by critics and radio. Before signing with Steelroots Records, they had been voted as one of the top 25 independent bands of [YEAR] by readers of 7 Ball Magazine. They are most notable for their single Reach which peaked at No. 6 on Radio & Records CR chart. [BAND_NAME] disbanded in [YEAR].\n"
+   ]
 }

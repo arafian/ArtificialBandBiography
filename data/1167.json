@@ -43,5 +43,10 @@
          "Morley Bartnoff",
          "Ray Barwick"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, who later moved to Los Angeles. The band was formed in New Jersey in [YEAR] and disbanded in [YEAR]. The band formally reunited in [YEAR] following an appearance on VH1's Bands Reunited reality show.\n",
+      "Since [YEAR], an [GENRE] band, always fronted by singer/songwriter John Easdale, has been performing in one incarnation or another (initially billed as Easdale solo but usually joined by former [BAND_NAME] bandmates), and from then until [YEAR] played occasional shows in the L.A. area, as well as in New Jersey. However, amid renewed interest since the VH1 Bands Reunited episode in [MONTH] [YEAR] and a large-scale appearance at KROQ-FM's annual Inland Invasion festival concert (attended by more than 78,000 fans) in [MONTH] [YEAR], [BAND_NAME] then toured nationally and released a new, full-length studio CD titled Everybody Dies on [MONTH] 25, [YEAR]. Fifteen years later, they released their seventh album: Color TV.\n",
+      "In [YEAR], [BAND_NAME] formed in the basement of a Wayne, New Jersey, record store owned by founding member Chris Carter. Carter operated the alternative record store Looney Tunez Records (previously known as Dirt Cheap Records). Initially the line-up consisted of; singer/songwriter [PERSON_NAME_FULL_0_MALE], \"Mr. E Boy\" ([MONTH]k Englert) and Carter, later joined by [PERSON_NAME_FULL_1_MALE] on guitars and Ron Machuga on drums.\n"
+   ]
 }

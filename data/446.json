@@ -23,5 +23,9 @@
       "Past members": [
          "Doug Moss, Billy Wan, Roger Moss, Paul Lagestee"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band composed of Doug [PERSON_NAME_LAST_3], [PERSON_NAME_FULL_4_MALE], Billy Wan, and [PERSON_NAME_FULL_3_MALE].  The band recorded three albums between [YEAR] and [YEAR].  The first two, Lovely and Lost on You, were released on the now-defunct Sub•Lime Records.  Their third album, aptly titled Three, was released by Northern Records.  The first effort was produced by Christian alt/rock legend [PERSON_NAME_FULL_2_MALE] and was characterised by a rough, guitar-driven sound.  For their second effort, production credits were diverse but significant with Jars of Clay's [PERSON_NAME_FULL_1_MALE] and Stephen Mason lending a hand as well as The Prayer Chain alumni [PERSON_NAME_FULL_0_MALE] and Wayne Everett.  The result was a more approachable sound that was at once extraordinarily mellow and enormously engaging.  As a departure from their first album, the work could be described as a \"concept worship album\".  Indeed, many songs read as abstract praises of God.  With their third album, [BAND_NAME] made a strong musical departure, moving to an up-tempo, alt/pop flavour.  Thematically, the focus moved from theology to what could be described as \"a soundtrack to a wistful, longing, romantic love life\".  They disbanded soon after the release of Three.\n",
+      "This article about a [GENRE] band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

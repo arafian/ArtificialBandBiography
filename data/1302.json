@@ -28,5 +28,10 @@
          "Mark Slaughter",
          "Robert Fleischman"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band, formed in [YEAR] by former Kiss guitarist [PERSON_NAME_FULL_0_MALE].\n",
+      "Forming the band in [YEAR], [PERSON_NAME_FULL_1_MALE] recruited bassist Dana Strum, who had served as a [GENRE] band members for the likes of [PERSON_NAME_FULL_2_MALE]. Strum had found both Jake E. Lee and the late [PERSON_NAME_FULL_0_MALE] for [PERSON_NAME_FULL_2_MALE], so when Paul Stanley had contacted [PERSON_NAME_LAST_2] to inquire about where he found the guitarists, he was given Strum's name. Unable to find anyone KISS considered to be on [PERSON_NAME_LAST_1]'s level, Strum decided to find [PERSON_NAME_LAST_1] himself in hopes of working together. [PERSON_NAME_FULL_3_MALE] came on board as the drummer. With the nucleus of the band completed, the band searched for a lead vocalist.\n",
+      "Former Journey singer Robert Fleischman provided vocals on [BAND_NAME]'s self-titled debut album. The record included primarily the style of glam metal, with much of it re-worked versions of demos Vincent recorded in [YEAR] with former New England members Hirsch Gardner, Gary Shea, and [PERSON_NAME_FULL_0_MALE] under the band name Warrior, with Vincent essentially replacing John Fannon as guitarist and vocalist. Warrior disbanded when Vincent was selected to be a [GENRE]"
+   ]
 }

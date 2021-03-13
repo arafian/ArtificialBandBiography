@@ -25,5 +25,10 @@
          "Pau Debon (vocals)",
          "Pere Debon (drums)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (Catalan pronunciation: ) was a [GENRE] band, formed in [YEAR]. They are characterized by their festive music and their humorous and fantastic lyrics. The group's creative universe includes elements such as outer space and astronautics, combined with themes from everyday life. Their lyrics are written in the Catalan variant spoken in Mallorca. \nThey are generally classified as a pop group, though they have stated that they do not have any \"stylistic prejudices\" when composing songs.\n",
+      "Joan Miquel Oliver, the group's guitarist, composed the songs. Oliver has also recorded solo albums and written for other groups, including Fora des Sembrat.\n",
+      "On 28 [MONTH] [YEAR], the band announced that they officially retired, leaving behind 16 years of musical career.\n"
+   ]
 }

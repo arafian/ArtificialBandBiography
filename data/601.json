@@ -5,5 +5,10 @@
       "American Girls originally started as a film project, which fizzled. After some personnel changes and more rehearsing, the band sustained many comparisons to the Go-Go's, who were popular at the time as well assigned to the same label, IRS Records. However, American Girls featured veterans of the all-women band scene including Brie Howard who had played drums for Fanny and Miiko Watanabe who played bass with the Screamin' Sirens. They recorded one album only, which was intended as a demo but was pressed to vinyl in its original form. The eponymous debut album was released in March 1986.  The cover shows the band in a hotel room, with alcohol, a deck of cards, and a copy of The National Enquirer.\n",
       "The video for their single \"American Girl\" received some airplay on MTV.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] were an [GENRE] band based in California, United States.\n",
+      "[BAND_NAME] originally started as a [GENRE] band sustained many comparisons to the Go-Go's, who were popular at the time as well assigned to the same label, IRS Records. However, [BAND_NAME] featured veterans of the all-women band scene including Brie Howard who had played drums for Fanny and Miiko Watanabe who played bass with the Screamin' Sirens. They recorded one album only, which was intended as a demo but was pressed to vinyl in its original form. The eponymous debut album was released in [MONTH] [YEAR].  The cover shows the band in a hotel room, with alcohol, a deck of cards, and a copy of The National Enquirer.\n",
+      "The video for their single \"American Girl\" received some airplay on MTV.\n"
+   ]
 }

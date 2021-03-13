@@ -44,5 +44,10 @@
          "Dashiel Arkenstone",
          "Chris Prophet"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (stylized as HORSE the band) is an [GENRE] band from Lake Forest, California who are best known for their 8-bit video game-influenced sound combined with metalcore. Frontman Nathan Winneke once jokingly described their sound as \"Nintendocore,\" although the band have gone to lengths to distance themselves from the label, reiterating that this merely describes the sound, not the substance.\n",
+      "HORSE the Band was started in Lake Forest, CA in [YEAR] while founding members [PERSON_NAME_FULL_2_MALE] and David Isen were attending [PERSON_NAME_FULL_4_FEMALE]. The original lineup included vocalists Adam Crook and [PERSON_NAME_FULL_1_MALE], drummer [PERSON_NAME_FIRST_0] Karuza and bassist [PERSON_NAME_FULL_0_MALE]. At the time, the band had a more traditional hardcore punk style. From late [YEAR] onwards, the band had a stable lineup with [PERSON_NAME_LAST_2] and Isen, vocalist Adam Crook, drummer [PERSON_NAME_FIRST_0] Karuza and bassist [PERSON_NAME_FULL_3_MALE], who had previously stood in as drummer for Karuza, and recorded their self-produced album Secret Rhythm of the Universe in [YEAR].\n",
+      "The band booked its own tours starting the summer of [YEAR], including a three-month tour spanning seven countries, and also released the EP Beautiful Songs by Men. In late [YEAR], vocalist Adam Crook left the band so that he could continue his formal education. Following his departure, bassist [PERSON_NAME_FULL_0_MALE] took over vocal duties, while Andy Stokes replaced him on bass.\n"
+   ]
 }

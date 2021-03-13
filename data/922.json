@@ -49,5 +49,10 @@
          "JD Hoag",
          "Harvey Wicklund"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band, formed in [YEAR] in Tacoma, Washington, by Don Wilson and [PERSON_NAME_FULL_1_MALE].  The band, a quartet for most of its existence, helped to popularize the electric guitar in the United States and across the world during the [YEAR]s. While their popularity in the United States waned in the [YEAR]s, the group remains especially revered in Japan, where they tour regularly to this day. The classic lineup of the band consisted of Wilson (rhythm guitar), [PERSON_NAME_LAST_1] (initially lead guitar, switched to bass), Nokie Edwards(initially bass, switched to lead guitar), and [PERSON_NAME_FULL_0_FEMALE] (drums).\n",
+      "Their first wide-release single, \"Walk, Don't Run\", brought international fame to the group, and is often cited as one of the top songs ever recorded for guitar.\nIn the [YEAR]s and early [YEAR]s, 38 of the band's albums charted in the US, ranking them as the 6th best album chart performer during the [YEAR]s, and the band had 14 singles in the Billboard Hot 100.\nWith over 100 million records sold, the Ventures are the best-selling instrumental band of all time.\n",
+      "[BAND_NAME] have had an [GENRE] band was among the first to employ and popularize fuzz and flanging guitar effects, concept albums, and twelve-string guitars in rock music.  Their instrumental virtuosity, innovation, and unique sound influenced many musicians and bands, earning the group the moniker \"The Band that Launched a Thousand Bands\".\nTheir recording of \"Walk, Don't Run\" was inducted into the Grammy Hall of Fame for its lasting impact,\nand in [YEAR] the group was inducted into the Rock and Roll Hall of Fame.\n"
+   ]
 }

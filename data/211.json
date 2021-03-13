@@ -15,5 +15,10 @@
       "Labels": [
          "Music For Nations, Rm2k"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] band, formed in [YEAR].\n",
+      "[BAND_NAME] was the brainchild of Northern Ireland-born singer and guitarist [PERSON_NAME_FULL_0_MALE], who had previously been in the Northern Irish punk rock band Pretty Boy Floyd and The Gems. Moving to London in the late 70s, he decided to put together a [GENRE] bands of the time. The band signed to the UK heavy metal label Music for Nations and subsequently Elektra in the USA. Shortly afterwards, the band were invited to appear on the E.C.T. (Extra Celestial Transmission) Heavy Metal music programme on England's Channel 4 where they performed 2 songs live on 19 [MONTH] [YEAR].\n",
+      "The first [BAND_NAME] album, First Visit, was recorded by Lyttle on guitar and vocals, [PERSON_NAME_FULL_0_MALE] on lead guitar, Phil Clark on bass, and [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_2] on drums. Kinglsey was later replaced by Danny Fury. The album was produced by [PERSON_NAME_FULL_1_MALE]. [BAND_NAME] toured the UK/Europe and the USA in support of it. Kerrang magazine in the UK gave the band several features, and a [GENRE] a 12-inch single. The second album Animal Man, was released a year later. [BAND_NAME] subsequently dropped their record companies  and started legal proceedings.  The [YEAR]s incarnation of the band played their final show in late [YEAR].\n"
+   ]
 }

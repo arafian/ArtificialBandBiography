@@ -34,5 +34,10 @@
          "Dag Nilsen",
          "Anders Risberget"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Kolbotn, Norway, formed in [YEAR] as a death metal band under the name Black Death. In [YEAR], the band embraced a [GENRE] style influenced by Bathory and Celtic Frost and became one of the leading bands in the Norwegian [GENRE] scene. \n",
+      "Their first three black metal albums—A Blaze in the Northern Sky ([YEAR]), Under a Funeral Moon ([YEAR]) and Transilvanian Hunger ([YEAR])—are sometimes dubbed the \"Unholy Trinity\". They are considered the peak of the band's black metal career and to be among the most influential albums in the genre. \n",
+      "[BAND_NAME] has been a [GENRE] band in [YEAR]. Since [YEAR], their work has strayed from the traditional black metal style and incorporated more elements of traditional heavy metal, punk, and speed metal, being likened to Motörhead. The band have sought to remain outside the music mainstream.\n"
+   ]
 }

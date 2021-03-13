@@ -25,5 +25,8 @@
          "Dan Ostebo",
          "Ryan DeYounge"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from Minneapolis, Minnesota. The band was formed in [YEAR] and is signed to BEC Recordings. While a lot of the band's music has decidedly Christian lyrics and messages, their music appeals to a large secular fanbase as well. Their music style has been compared to Copeland, Kutless, Sanctus Real, Lifehouse and The Goo Goo Dolls. Their debut album, Well Meaning Fiction, was released on [MONTH] 21, [YEAR].\n"
+   ]
 }

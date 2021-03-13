@@ -34,5 +34,10 @@
          "Rob Maramonte",
          "Jason Richardson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Oakland, California, United States, formed in [YEAR]. The band was signed to Nuclear Blast and have released four full-length albums through the label. Their final album, This Is Where It Ends, was released on [MONTH] 26, [YEAR].\n",
+      "[BAND_NAME] are noted for being one of the earliest pioneering bands in the deathcore genre.\n",
+      "[BAND_NAME] was founded in [YEAR] from the former members of the San Francisco Bay Area bands Antagony, End of All, and Boof. The founding members were Matt Kuykendall, [PERSON_NAME_FULL_0_MALE], Mike Tiner, Caysen Russo, and [PERSON_NAME_FULL_1_MALE]. The band released their demo in [YEAR] and caught the attention of Japanese label Amputated Vein Records. On [MONTH] 19, [YEAR], they released their debut album Hate, Malice, Revenge, which was re-released by Nuclear Blast in [YEAR]. In [YEAR], The Price of Existence was released, whose first single, \"Eradication,\" was made into a [GENRE] a Dead Planet\" set to the boy-band 'N Sync's video for \"Bye Bye Bye\" helped to garner a new fanbase for the band.\n"
+   ]
 }

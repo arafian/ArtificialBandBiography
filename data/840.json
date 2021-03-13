@@ -29,5 +29,10 @@
       "Past members": [
          "Charlie Zeleny, Weasel Walter"
       ]
-   }
+   },
+   "prunedData": [
+      "Behold… The Arctopus is an [GENRE] band from Brooklyn, New York, formed in [YEAR].\n",
+      "Behold The Arctopus was formed by Colin [MONTH]ston and Mike Lerner, who had been playing guitar together for over a [GENRE] a drummer. Their demo We Need a Drummer (on which a drum machine was used) was picked up by drummer [PERSON_NAME_FULL_0_MALE]. [PERSON_NAME_LAST_0] met Lerner and [MONTH]ston and impressed the duo. He was immediately asked to join the band.\n",
+      "After releasing two EPs and a split, Behold The Arctopus released their first full-length, entitled Skullgrid, on [MONTH] 16, [YEAR]. The band went on tour with Genghis Tron and The Dillinger Escape Plan to support the album, but it was cut short by an injury of one of the members of The Dillinger Escape Plan. To help them recoup financial losses from that tour, Between the Buried and Me took the band on tour, supported by [MONTH] Burns Red.\n"
+   ]
 }

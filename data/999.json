@@ -50,5 +50,10 @@
          "Bea \"B. B.Queen\" Gayle",
          "Tim Stombaugh"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME]  (formerly Mofro) is an [GENRE] band from Jacksonville, Florida.\n",
+      "The early days of Mofro can be traced back to the mid-nineties when John Higginbotham aka \"JJ Grey\" and [PERSON_NAME_FULL_0_MALE] signed with a United Kingdom label and played shows in Europe as Mofro Magic.  Grey and [PERSON_NAME_LAST_0] met in their hometown of Jacksonville, Florida while working for an air conditioning company and developed a friendship through music. Their first band together was a rock band called [PERSON_NAME_FULL_2_FEMALE] followed by a funk band called [PERSON_NAME_FULL_1_FEMALE]. The deal with the record label in London fell through, and Grey and [PERSON_NAME_LAST_0] returned to their native Jacksonville and formed Mofro, then signed with Fog City Records in [YEAR].\n",
+      "The name \"Mofro\" was coined by JJ Grey as an [GENRE] band made. Grey says the word was originally a nickname that a co-worker gave him and Grey adopted it as the band name because it \"sounded southern.\" Grey later changed the band name to \"[BAND_NAME]\" when his grandmother asked him if he was ashamed to use his own name.\n"
+   ]
 }

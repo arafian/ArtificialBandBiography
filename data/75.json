@@ -29,5 +29,10 @@
          "Willie Sparks[3]",
          "Patryce \"Chocolate\" Banks[4]"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band named after founder Larry Graham (formerly of Sly & the Family Stone). The name is a pun on New York City's Grand Central Terminal, often colloquially called Grand Central Station.\n",
+      "The band's origins date from when Santana guitarist [PERSON_NAME_FULL_0_MALE] formed the band Azteca in [YEAR] along with Larry Graham (bass guitar) and [PERSON_NAME_FULL_1_MALE] (drums), both from Sly & the Family Stone, and Pete Sears (keyboards), from Hot Tuna and Jefferson Starship. Santana bass guitar player [PERSON_NAME_FULL_2_MALE] would move into the bass spot with Azteca. That band, like Santana with heavy Latin influences, would eventually morph into [BAND_NAME], while [PERSON_NAME_LAST_0] would form Journey. The invention of electric slap bass is attributed by many (including Victor Wooten and Bootsy Collins) to Graham, which influenced many musical genres, such as funk, R&B and disco.\n",
+      "[BAND_NAME]'s biggest hit was \"Your Love\", which charted at number 38 in [YEAR]. The group also integrated gospel music into their repertoire, and played with the dichotomy between the funk/rock star image and the \"sanctified\" gospel group image. Some of their recordings feature the Tower of Power horn section.\n"
+   ]
 }

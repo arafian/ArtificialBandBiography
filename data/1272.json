@@ -62,5 +62,10 @@
          "Jeff Mayer",
          "John Homan"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Los Angeles, California, United States, who released two studio albums on Warner Bros. Records in the mid-[YEAR]s.  [BAND_NAME] never achieved the commercial success enjoyed by many other Los Angeles bands of that time but various members went on to success in other groups, including Jake E. Lee with [PERSON_NAME_FULL_0_MALE], Amir Derakh with Orgy, [PERSON_NAME_FULL_3_MALE] with Quiet Riot, and [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_1_MALE] with Dio.\n",
+      "After the end of their work with Warner Brothers, [BAND_NAME] signed with Virgin Records in the early [YEAR]s. The band released its fourth studio album, Lapsed On My Own ([YEAR]), and toured steadily, playing festivals in the United States, United Kingdom, Germany.\n",
+      "The current line-up of [BAND_NAME], which debuted on [MONTH] 29, [YEAR] at the Bossanova Ballroom in Portland, Oregon is drummer [PERSON_NAME_FULL_1_MALE], first guitarist [PERSON_NAME_FULL_2_MALE], second guitarist [PERSON_NAME_FULL_0_MALE] (Shrapnel Records recording artist, Love/Hate, War & Peace), bassist [PERSON_NAME_FULL_3_MALE] (The Loyal Order), and lead vocalist Steven St. James.\n"
+   ]
 }

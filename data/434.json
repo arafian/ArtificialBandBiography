@@ -25,5 +25,10 @@
          " Shaul Hagen",
          " James Rightmer"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band previously signed with Inpop Records.\n",
+      "The band took their name from 1 Corinthians 1:27–29 \"God chose the foolish things of the world to shame the wise\".\n",
+      "The band won the coveted Music in the Rockies competition for unknown Christian artists in [YEAR].\n"
+   ]
 }

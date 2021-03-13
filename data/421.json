@@ -26,5 +26,10 @@
          "Robyn Kyle Basauri",
          "Greg Chaisson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band. The group was formed in [YEAR] when Vengeance Rising members [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_1_MALE], Glen Mancaruso, and [PERSON_NAME_FULL_2_MALE] [MONTH]tin split the band, citing unrest with that band's front man and vocalist, [PERSON_NAME_FIRST_2] [MONTH]tinez. They hired [PERSON_NAME_FULL_3_FEMALE], formerly of Jaguar, as a vocalist and he officially joined the band after the release of their eponymous debut.\n",
+      "At the time of their first album the band was seen as \"Vengeance Rising with a [GENRE] a hard, classic rock sound. Lyrically, the band was socially focused. Songs dealt with issues such as Magic Johnson and HIV-AIDS (\"Real\") and American Indian massacres (\"Painted Truth\").\n",
+      "Following the demise of [BAND_NAME], [PERSON_NAME_FULL_3_FEMALE] and bassist [PERSON_NAME_FULL_0_MALE] formed the band Red Sea. Hiring [PERSON_NAME_FULL_1_MALE] on guitar and Jeff [MONTH]tin on drums, the band released one album, Blood, on Rugged Records in [YEAR]. They were initially scheduled for a support tour with [PERSON_NAME_FULL_2_MALE], but were dropped in favor of [PERSON_NAME_FIRST_0] X. Volz. Musically, they were compared to the English band Deep Purple.\n"
+   ]
 }

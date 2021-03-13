@@ -34,5 +34,10 @@
       "Past members": [
          "Chris Woods, Devon Presseau, Chris West, Bob Fugger, Troy Zak"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Chilliwack, British Columbia, Canada. Their music largely consists of often tongue-in-cheek homages to the works of H. P. Lovecraft, specifically the Cthulhu Mythos.\n",
+      "[BAND_NAME] formed in [MONTH] [YEAR] after meeting at Fraser Valley College in Abbotsford, British Columbia. Lead singer Toren Atkinson and lead guitarist Warren Banks formed the band so they could open for local group Mystery Machine. Even though they \"had no musical training or experience\" they were able to create a [GENRE]",
+      "The band's name is drawn from a [GENRE] a band around the Cthulhu mythos because it was a topic they were interested in, and it was a unique \"niche that  to be filled\". \n"
+   ]
 }

@@ -81,5 +81,10 @@
          "Tormentor",
          "Bøddel"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band based in Bergen. It was formed in [YEAR] by guitarist Infernus, who is also the only original member remaining, and the band have since released nine studio albums. [BAND_NAME] are a Satanic band and have drawn controversy due to some of their concerts, which have featured impaled sheep heads and mock crucifixions. The band is named after the dead plateau of darkness in the land of Mordor from J. R. R. Tolkien's fantasy novel The Lord of the Rings.\n",
+      "[BAND_NAME] was founded in [YEAR] by guitarist Infernus. In [YEAR], the band released their first demo, entitled A Sorcery Written in Blood. On [MONTH] 7, [YEAR], Firda, the major newspaper in the county of Sogn og Fjordane where the band originated from, ran a cover story on the demo, with the headline \"Local music with Satanic symbolism\". According to the article, the release of the demo and flyers with Satanic symbols led to \"concerned parents contacting the Sheriff's Office in Fjaler\". After the demo was released, [BAND_NAME] signed a record deal with Embassy Productions and started work on their debut full-length Pentagram. When bassist Kjettar left the band in [YEAR], Samoth of Emperor joined [BAND_NAME] as their new bassist, and participated in the recording of the album. After Pentagram was completed and released in [YEAR], drummer Goat left the band and was replaced by Frost from Satyricon. The band performed their first concert at Lusa Lottes Pøbb in Oslo, Norway, on [MONTH] 3, [YEAR], at a four-day Black Metal Nights festival with bands such as Dark Funeral (who also made their live debut), Dissection, Enslaved, [MONTH]duk (who played their first gig abroad), Gehenna and Hades Almighty.\n",
+      "This was followed by gigs with Enslaved in Bergen (in [MONTH] and [MONTH]) and in Haugesund (in [MONTH]), and the band performed their first gig abroad in Annaberg-Buchholz in Germany on [MONTH] 10, [YEAR]. The same year, the band commenced the recording of Antichrist (originally titled Død), their second full-length album.\n"
+   ]
 }

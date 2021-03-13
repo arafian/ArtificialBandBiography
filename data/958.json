@@ -31,5 +31,10 @@
          "Scotty Zwang",
          "Michelangelo Carubba"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Boston, Massachusetts. The current lineup includes keyboardist/vocalist [PERSON_NAME_FULL_1_FEMALE], guitarist/vocalist Rob Compa, bassist [PERSON_NAME_FULL_0_MALE], drummer Neal “Fro” Evans, and lighting director Luke Stratton. Although classified as a jam band, [BAND_NAME] incorporates bits of funk, heavy metal, jazz fusion, and country. They have self-released five studio albums, and spend most of their time touring.\n",
+      "[BAND_NAME] was formed at Boston's Berklee College of Music in [YEAR], as a duo with [PERSON_NAME_FULL_2_FEMALE] and drummer Michelangelo Carubba.  They performed in this format around New England for a year or so before adding [PERSON_NAME_FULL_0_MALE] on guitar another Berklee student.  After a year as a trio, they added Chuck Jones on bass—who at the time had another band and with [PERSON_NAME_LAST_2] called The Actual Proof—and Neal Evans on percussion. In [YEAR], Carubba became the full-time drummer for Turkuaz and Evans took over drums for [BAND_NAME]. The band split with Evans in [YEAR], and he was replaced by [PERSON_NAME_FULL_1_MALE] until Evans returned in [YEAR].\n",
+      "After releasing their debut album, Radar in [YEAR], [BAND_NAME] began touring the next year on their own and on bills with other artists. The band appeared on the [YEAR] Bonnaroo lineup and was cited by  Rolling Stone as Bonnaroo's “Best-Kept Secret” comparing them to Phish, Disco Biscuits and [PERSON_NAME_FULL_0_MALE].\n"
+   ]
 }

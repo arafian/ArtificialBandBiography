@@ -37,5 +37,10 @@
          "Mark Berdon",
          "Johnny Gale"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed by frontman [PERSON_NAME_FIRST_0] Karloff in [YEAR] and based in [PERSON_NAME_FULL_1_MALE], California. Originally named \"[PERSON_NAME_FULL_0_MALE]'s Parallel Universe\", the first lineup consisted of Charlie Hunter, Rudy [MONTH]nard and [MONTH]k Berdon and played in the local [PERSON_NAME_FULL_1_MALE] club scene. In [YEAR], after Hunter and Berdon left to pursue other projects, the band was rebranded with the addition of Judd Austin and Trey Sabatelli as \"[BAND_NAME]\", releasing their first album Out and About with the Gone Jackals in [YEAR].\n",
+      "The band's music generally consisted of hard, garage and blues rock. Their next album, Bone to Pick ([YEAR]) also incorporated heavy metal. The band collaborated with Peter McConnell of LucasArts to produce the soundtrack to the biker-themed adventure game Full Throttle; tracks from Bone to Pick were specifically adapted for this purpose. Blue Pyramid ([YEAR]), their third and final album, also included experimentation with psychedelic rock.\n",
+      "The band broke up in [YEAR], though not before signing up a new label for distributing their music in Europe. In late [YEAR], Karloff started working on a new musical project. Led by his passion for the old style rock music, he formed the Bonedrivers, a blues rock power trio which has since then toured the United States and published a locally acclaimed debut album named Roadhouse Manifesto, an even bigger second outing titled Mobile, and a third one titled Greasefire.\n"
+   ]
 }

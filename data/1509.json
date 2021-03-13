@@ -4,5 +4,9 @@
       "Phantom Tollbooth was a post-punk/noise rock band from New York City. They played a style of post punk that included elements from jazz, noise rock, and art rock. This allowed Phantom Tollbooth to make sudden starts, stops, and tempo changes in their music.  All of their albums were released in a four-year window between 1984 and 1988 on Homestead Records. In 2003, Guided by Voices frontman Robert Pollard created new lyrics and melodies for Phantom Tollbooth's 1988 album Power Toy. The resulting work was released as Beard of Lightning.\n",
       "Band Website\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from New York City. They played a style of post punk that included elements from jazz, noise rock, and art rock. This allowed [BAND_NAME] to make sudden starts, stops, and tempo changes in their music.  All of their albums were released in a four-year window between [YEAR] and [YEAR] on Homestead Records. In [YEAR], Guided by Voices frontman Robert Pollard created new lyrics and melodies for [BAND_NAME]'s [YEAR] album Power Toy. The resulting work was released as Beard of Lightning.\n",
+      "Band Website\n"
+   ]
 }

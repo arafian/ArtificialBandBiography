@@ -30,5 +30,10 @@
          "Andy Nichols",
          "Tyler Bottles"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Kansas City, Missouri who were signed to Tooth & Nail Records. [BAND_NAME] formed in [YEAR] with former members of The Chariot, [PERSON_NAME_FULL_2_MALE] (Vocals/ guitar), and [PERSON_NAME_FULL_0_MALE] (drums), as well as [PERSON_NAME_FULL_3_MALE] (guitar) and Tyler Bottles (bass). The band signed to Tooth and Nail records in [YEAR], and has released one EP, Nightmarer, and one full-length album [PERSON_NAME_FULL_1_FEMALE].\n",
+      "Since signing with Tooth & Nail the band has toured with Breathe Carolina, Hyper Crush, Let's Get It, The Forecast, Emery, Sent by Ravens, Cash Cash and Family Force 5.\n",
+      "The band announced their breakup in [MONTH] [YEAR] via their Facebook Page in the midst of the creating of their new album. After losing their lead vocalist, [PERSON_NAME_FULL_0_MALE], who is pursuing his own solo career the band decided to move on. Most of the members plan on continuing in the music and art field.\n"
+   ]
 }

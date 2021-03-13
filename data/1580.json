@@ -5,5 +5,10 @@
       "The band was composed with musicians Jordi Ramiro (drum), Julio Cascán (bass guitar), Hugo (guitar) and Shuarma (vocals and composer of the musical themes). \n",
       "The band was active from 1994 to 2006.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band playing pop music\n",
+      "The band was composed with musicians [PERSON_NAME_FULL_0_MALE] (drum), [MONTH]io Cascán (bass guitar), Hugo (guitar) and Shuarma (vocals and composer of the musical themes). \n",
+      "The band was active from [YEAR] to [YEAR].\n"
+   ]
 }

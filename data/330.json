@@ -30,5 +30,10 @@
          "Madelaine Morris",
          "Drew Maxwell"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, based in Vancouver, British Columbia, that recorded on Atlantic Records, Nettwerk Records, Go! Records and Cop International.\n",
+      "[BAND_NAME] was formed in [YEAR] by Tom Ferris and [PERSON_NAME_FULL_0_MALE]. The band released and EP in [YEAR], and later that year the electro/techno pop album Zimmerkampf.\nIn an [GENRE] band meant. \nHe Stated that \" Mauve - M.A.U.V.E is a pretty purplish pink, and [BAND_NAME] - M.O.E.V. is the colour of insanity\"\n",
+      "Stephenson, along with early members [MONTH]k Jowett and [PERSON_NAME_FULL_2_FEMALE], left the band before the recording of its best-known album Yeah Whatever in [YEAR]. [PERSON_NAME_FULL_1_FEMALE], Anthony Valcic and [PERSON_NAME_FULL_0_MALE] contributed to the album, which combined dark, solemn, anthemic lyrics with disjointed beats, trickling electronics, and occasional spoken-word samples.  Singles from the album include \"Yeah Whatever\", \"Wanting\", and \"Crucify Me\", the only lyrics to which are \"Why would you / Crucify me?\" (Other than isolated spoken-word samples \"Properly sedated\", \"Take four red capsules, help is on the way\" and \"For the masses\", which are all taken from George Lucas' [YEAR] film THX [YEAR].)  \"Crucify Me\" rose to number 4 in Rolling Stone magazine's Top Dance Tracks.\n"
+   ]
 }

@@ -27,5 +27,10 @@
          "Sean Hawryluk",
          "Ryan Peters"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band based in Vancouver, British Columbia.  The band released three albums and an EP, and toured across Canada several times.\n",
+      "[BAND_NAME] formed in [MONTH] [YEAR] in Vancouver. Their debut album, [BAND_NAME] was released on [MONTH] 6, [YEAR] on Jagjaguwar Records. The lead single on the album was \"Dugout\", followed by \"My Old Jacknife\". Their next album Shots , was recorded in an old barn in their hometown of Kelowna, and released in [YEAR]. During the making of Shots, a documentary was filmed about the [BAND_NAME]s, called \"Let Me Be Fictional\".\n",
+      "The songs \"Drunk Eyes\" and \"The Dugout\" (from [BAND_NAME]) can be heard in the [YEAR] film The Thaw.\n"
+   ]
 }

@@ -35,5 +35,10 @@
          "Robert Andow",
          "Al Boyle"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (formerly [BAND_NAME]! We Say Die!) is a [GENRE] band from Abbotsford, British Columbia.\n",
+      "Their first album Hit the Floor! was released in [MONTH] [YEAR], and the band completed their second Canadian tour, an [GENRE] a tour of the United States, before touring the United Kingdom and Germany. Their second album Lose All Time was released in Canada on [MONTH] 20, [YEAR], and in the United States on [MONTH] 18, [YEAR], on Paper Bag Records, in the United Kingdom on [MONTH] 18, [YEAR], on Fierce Panda Records and in Germany, Austria and Switzerland on [MONTH] 17, [YEAR], on PIAS. Their third album XXXX was released on [MONTH] 29, [YEAR], in Canada, [MONTH] 9, [YEAR], in the US and [MONTH] 17, [YEAR], in the UK. The band's fourth album, [BAND_NAME], was released on [MONTH] 12, [YEAR].\n",
+      "[BAND_NAME]! We Say Die! was conceived by Stephen O'Shea, [PERSON_NAME_FULL_1_FEMALE] and [PERSON_NAME_FULL_0_FEMALE] in [MONTH] [YEAR]. The band was birthed out of a bike gang known as The Smoking Spokes.  [MONTH] was too cold to ride bikes, so they started jamming in [PERSON_NAME_LAST_1]'s parents' basement.\n"
+   ]
 }

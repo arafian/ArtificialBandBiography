@@ -25,5 +25,10 @@
          "Ken Topham",
          "Joseph Andreoli"
       ]
-   }
+   },
+   "prunedData": [
+      "Giraffes? Giraffes! (often abbreviated as G? G!) are an [GENRE] band formed in [YEAR] in Massachusetts, by guitarist/drummer [PERSON_NAME_FULL_0_MALE] and guitarist Joseph Andreoli. Along with math rock, the band's music frequently touches on post-rock, progressive rock and experimental rock.\n",
+      "Ken Topham and Joseph Andreoli both grew up in Western Massachusetts and met at Keene State college in [YEAR]. Topham studied Music Composition and Music History and Andreoli studied English. They met through mutual friends and connections in Keene's music scene. Some of their first practices and brain storming sessions were held in Topham's studio apartment on Court Street in Keene. Their first show together was at the Owl's [PERSON_NAME_FULL_0_FEMALE] at Keene State College under the name \"A Heart Breaking Work of Staggering Genius\" taken from a [GENRE]",
+      "In [YEAR], the pair moved to Santa Cruz, California. Shortly after arriving on the west coast Topham and Andreoli committed to working together under the name Giraffes? Giraffes!, also taken from an Eggers book. Moving around the country exposed the duo to several \"musical communities,\" which Andreoli described as \"totally weird to join, and then (the band would) leave them and start again somewhere else.\"\n"
+   ]
 }

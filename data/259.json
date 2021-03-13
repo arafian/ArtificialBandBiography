@@ -32,5 +32,10 @@
          "Bryan Sutton",
          "Greg Garrison"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band consisting of [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_3] (mandolin), [PERSON_NAME_FULL_1_MALE] (fiddle/violin), [PERSON_NAME_FULL_2_MALE] (banjo), [PERSON_NAME_FULL_0_MALE] (guitar), and Paul Kowert (bass). Their style has been described as \"bluegrass instrumentation and spontaneity in the structures of modern classical\" as well as \"[GENRE] country-classical chamber music\".\n",
+      "The band's most recent album, [YEAR]'s All Ashore was awarded the Grammy Award for Best Folk Album at the 61st Grammy Awards on [MONTH] 10, [YEAR].\n",
+      "Thile formed the band in [YEAR] to record the album How to Grow a [GENRE] an interview with the Nashville City Paper, Thile described the formation of the band:\n"
+   ]
 }

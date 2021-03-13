@@ -5,5 +5,10 @@
       "Siska was born in Tallinn, Estonia.  Alongside her musical commitments, she has also been studying finance and accounting at a vocational school and international relations and diplomacy in Tallinn. After moving back to Estonia with Vanilla Ninja from Germany in 2006 she returned to university to study law at Tallinn University of Technology.\n",
       "She is fluent in Estonian, Russian, English, German and Finnish. At the university she has been studying also French.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] (born [MONTH] 10, [YEAR]) is an [GENRE] band Vanilla Ninja.\n",
+      "Siska was born in Tallinn, Estonia.  Alongside her musical commitments, she has also been studying finance and accounting at a vocational school and international relations and diplomacy in Tallinn. After moving back to Estonia with Vanilla Ninja from Germany in [YEAR] she returned to university to study law at Tallinn University of Technology.\n",
+      "She is fluent in Estonian, Russian, English, German and Finnish. At the university she has been studying also French.\n"
+   ]
 }

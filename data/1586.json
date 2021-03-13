@@ -27,5 +27,10 @@
          "Azrhael",
          "Sento"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band, founded by Servalath ([PERSON_NAME_FULL_0_MALE]) and vocalist Lady Angellyca in [YEAR].\n",
+      "They recorded two demos, \"Hate\" and \"Schwarzer Engel\", in [YEAR] and [YEAR] respectively, returning with another demo in [YEAR], \"Resurrection\".\n",
+      "In [MONTH] [YEAR] they released their first full-length album, Alice's Inferno, produced by [PERSON_NAME_FULL_1_MALE] and released by Armageddon Music. The group released a second album, Tales for Bad Girls, in [MONTH] [YEAR]. They are currently working on a follow up\n"
+   ]
 }

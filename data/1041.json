@@ -5,5 +5,10 @@
       "The improvisational groove rock band Ten Ton Chicken has performed generously throughout the west coast since being hatched in 1998. Their inception coincided with the revitalization of the Bay Area's jam music scene at the turn of the new century.\n",
       "The Chicken is mostly known for their energy packed live shows featuring quirky, original songs influenced by diverse selection of music genres. The band's original line-up of; Gary Morrell (Guitar, Vocals), Rich Di Benedetto (Drums), Nick Peck (Keys, Vocals) and Eric \"Doc\" Kampman (Bass, Vocals), recorded the bands, seldom heard and very limited released, first LP, \"De Cocksdorp\" (1999).\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band out of Berkeley, California. Their music blends psychedelia, progressive, funk, and rock. The band has played hundreds of concerts through the western United States.\n",
+      "The improvisational groove rock band [BAND_NAME] has performed generously throughout the west coast since being hatched in [YEAR]. Their inception coincided with the revitalization of the Bay Area's jam music scene at the turn of the new century.\n",
+      "The Chicken is mostly known for their energy packed live shows featuring quirky, original songs influenced by diverse selection of music genres. The band's original line-up of; Gary Morrell (Guitar, Vocals), [PERSON_NAME_FULL_0_MALE] (Drums), Nick Peck (Keys, Vocals) and Eric \"Doc\" Kampman (Bass, Vocals), recorded the bands, seldom heard and very limited released, first LP, \"[PERSON_NAME_FULL_1_MALE]\" ([YEAR]).\n"
+   ]
 }

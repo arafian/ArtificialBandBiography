@@ -27,5 +27,10 @@
       "Past members": [
          "Vanessa Jeanne Long, Brent Freaney, Meredith Sheldon"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band based in Los Angeles, California. It consists of members Joseph [PERSON_NAME_LAST_2] (vocals/guitar), [PERSON_NAME_FULL_2_MALE] (drums/vocals), James Buckey (guitar/vocals), and [PERSON_NAME_FULL_1_FEMALE] (keyboard/vocals). Their music uses melodic male/female vocal harmonies and folktale-style lyrics. Their [YEAR] song \"Hero\" was featured in [PERSON_NAME_FULL_0_MALE]'s [YEAR] film Boyhood and became a top 10 hit in Austria, Belgium, Germany, and Switzerland.\n",
+      "Though [BAND_NAME] is currently based in Los Angeles, California, brothers [PERSON_NAME_FIRST_0] and [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_0] were born in Massachusetts, spent their teenage years in Wales, and eventually moved to [MONTH]tha's Vineyard. James Buckey is from  Jacksonville, Florida, while [PERSON_NAME_FULL_1_FEMALE] is from Orange County, California. Prior to forming [BAND_NAME], members [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_0] enjoyed local Boston success in previous bands  Unbusted and The Billionaires.\n",
+      "[BAND_NAME] self-released their debut EP Where's the Sun on their Washashore imprint in [MONTH] [YEAR]. The EP includes \"Let's Go Down\", \"Castoff\", \"Summer Girl\", \"What a [GENRE]"
+   ]
 }

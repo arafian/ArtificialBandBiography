@@ -41,5 +41,10 @@
       "Past members": [
          "Jeff Holdsworth"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band that formed in Burlington, Vermont, in [YEAR]. The band is known for musical improvisation, extended jams, blending of genres, and a dedicated fan base. The band consists of guitarist Trey Anastasio, bassist [PERSON_NAME_FULL_0_MALE], drummer [PERSON_NAME_FULL_1_MALE], and keyboardist Page McConnell, all of whom perform vocals, with Anastasio being the primary lead vocalist.\n",
+      "The band was formed by Anastasio, Gordon, Fishman and guitarist [PERSON_NAME_FULL_0_MALE], who were joined by McConnell in [YEAR]. [PERSON_NAME_LAST_0] departed the band in [YEAR], and the lineup has remained stable since. [BAND_NAME] began to perform outside of New England in the late [YEAR]s and experienced a rise in popularity in the mid [YEAR]s. In [MONTH] [YEAR], the band began a two-year hiatus that ended in [MONTH] [YEAR], but they disbanded again in [MONTH] [YEAR]. [BAND_NAME] reunited officially in [MONTH] [YEAR] for subsequent reunion shows in [MONTH] [YEAR] and since then have resumed performing regularly. All four members pursued solo careers or performed with side-projects and these projects have continued even after the band has reunited.\n",
+      "[BAND_NAME]'s music blends elements of a [GENRE] band was part of a movement of improvisational rock groups, inspired by the Grateful Dead and colloquially known as \"jam bands\", that gained considerable popularity as touring concert acts in the [YEAR]s. [BAND_NAME] has developed a large and dedicated following by word of mouth, the exchange of live recordings, and selling over 8 million albums and DVDs in the United States.\n"
+   ]
 }

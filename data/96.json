@@ -29,5 +29,10 @@
          "Chris Freeman",
          "Luis IlladesJoel Reader"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in San Francisco, California, United States, in [YEAR] by singer-songwriter [PERSON_NAME_FULL_0_MALE] and bassist Chris Freeman.\n",
+      "Conceived as the first openly gay rock band featuring predominantly gay musicians, [BAND_NAME]'s music, a [GENRE] a humorous light. In [YEAR], the band signed to punk label Lookout! Records and received international notoriety touring with Green Day in [YEAR], becoming the most commercially successful band of the queercore movement which began in the [YEAR]s.\n",
+      "[BAND_NAME] have released seven studio albums and three B-side compilations, among other recordings. In [YEAR], the band were the subject of the documentary film entitled [BAND_NAME]: Life in a [GENRE]"
+   ]
 }

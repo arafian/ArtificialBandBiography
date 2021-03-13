@@ -30,5 +30,10 @@
       "Website": [
          "www.adpb.be"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] is Belgium's leading pipe band, it's also the first ever grade two band in Belgium which it became after becoming second at the British Championships in Annan.\n",
+      "The [BAND_NAME] is Belgium's leading pipe band. The band was founded in [YEAR], when a [GENRE] a higher musical level and left the Red Hackle Pipe Band Belgium to start a competition-oriented band.\nIn the first years of its existence the band was led by pipe major Ludo Thijssen and leading drummer [PERSON_NAME_FULL_0_MALE]. In [YEAR], only two years after the foundation, the first successes came with a 4th place at one of the world's biggest pipe band championships, the Cowal Highland Gathering. As a result, the band was promoted to grade 3. In the next thirty years, the band played at a top grade 3 level.\n",
+      "In [YEAR], the band started competing with two bands (a grade 3 and a [GENRE] band), to improve the musical level. Andrew Tierney led the B-band to the top of [GENRE] (Nowadays it is known as the Belgian Blend Pipe Band, and was recently promoted to grade 3b). In [YEAR], Andrew took over from [PERSON_NAME_FULL_0_MALE] and became pipe major of the [BAND_NAME] until [YEAR], leaving the band in the hands of Thomas Kerkhof. \nBetween [YEAR] and [YEAR], the band changed its name to Mühl Pipes & Drums and wore the Rangers FC tartan. These changes were a result of a sponsorship from the German company Mühl.\n"
+   ]
 }

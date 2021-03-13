@@ -31,5 +31,9 @@
          "Peter Mayer",
          "Javi Arnaiz \"Bumper\""
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME], also known as [PERSON_NAME_FULL_0_MALE]-[BAND_NAME], are a [GENRE] band formed in [YEAR] in Madrid. Their music style, often described as medieval rock, has medieval music, celtic rock and heavy metal influences. \nThe band have experienced multiple line-up changes, with vocalist [PERSON_NAME_FULL_0_MALE] being the only constant presence in the band through the years. The flute predominance in their sound has been compared with Jethro Tull's style, but playing a way heavier sound they are in fact a predecessor of folk metal. As time went by, their style tended to be less folk and more heavier.\nTheir lyrics usually are about medieval castles, riders, villains and heroes.\n",
+      "Initially formed in [YEAR] as Fresa, they decided to change the band's name in [YEAR], so the new band would be called [BAND_NAME]. Their first record was the single \"Que nadie escape de la evolución / Volando en sociedad\" released with band's no permission two years later. The discrepancies between [PERSON_NAME_FULL_0_MALE] and Molina caused that [PERSON_NAME_FIRST_0] leave the band in order to form a new one, Leño.\nContinuous line-up changes (up to sixty different musicians have participated throughout his discography) have been related to the character of the leader, described by a critic as \"irascible, self-sufficient and undiplomatic\".\n"
+   ]
 }

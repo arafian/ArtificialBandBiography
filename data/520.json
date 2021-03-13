@@ -25,5 +25,10 @@
          "Ronnie Leahy",
          "Jimmy McCulloch"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band formed in Glasgow in late [YEAR]. They are primarily remembered for the onstage electrocution of guitarist and founding member Les Harvey.\n",
+      "The band were formed after Maggie Bell was introduced to [PERSON_NAME_FULL_0_MALE] by his elder brother Alex [PERSON_NAME_LAST_0]. After playing together in the Kinning Park Ramblers, their next band Power was renamed [BAND_NAME] (after a British/Australian English exclamation of surprise or shock) by Led Zeppelin's manager, Peter Grant.  The band was co-managed by Grant and [MONTH]k London. London was associated with Lulu as the co-writer of her signature song, \"To Sir With Love\" and was also married to Lulu's manager, [MONTH]ion Massey. London had also managed the predecessor band Cartoone, in which Peter Grant had a financial interest and featured [PERSON_NAME_FULL_0_MALE] on guitar.\n",
+      "The band's first two albums were recorded with the original line up and Bell's vocals were described as being similar to [MONTH]is Joplin's.\n"
+   ]
 }

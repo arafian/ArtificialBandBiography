@@ -28,5 +28,10 @@
       "Past members": [
          "Elisha Mlotek"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Manhattan, New York. They formed in [YEAR] with lead singer [PERSON_NAME_FULL_1_MALE] and guitarist [PERSON_NAME_FULL_0_MALE]. The band, named after [BAND_NAME] of Hanipol, combines traditional Hasidic niggunim with secular styles like jazz, folk, and reggae. Their self-titled debut EP, released on [MONTH] 28, [YEAR], reached No. 9 on Billboard's World Albums chart, while their debut full-length album, Kavana ([YEAR]), reached No. 2.\n",
+      "[BAND_NAME] was formed in [YEAR] by [PERSON_NAME_FULL_3_MALE], [PERSON_NAME_FULL_1_MALE], and [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_0]. All three had prior music backgrounds: [PERSON_NAME_LAST_3] was the lead singer of the Jewish rock band JudaBlue, [PERSON_NAME_LAST_1] was the lead singer and producer for the electro-funk band Ch!nch!lla, and [PERSON_NAME_LAST_0] is the son of Folksbiene director Zalmen [PERSON_NAME_LAST_0] and grandson of Yiddish musicologist [PERSON_NAME_FULL_0_FEMALE].\n",
+      "Gaisin and [PERSON_NAME_LAST_0] met at a [GENRE] a mutual friend. They began rehearsing in friends' apartments, recording their sessions via iPhone, until [PERSON_NAME_FULL_1_MALE], their current manager and Rabbi Avram [PERSON_NAME_LAST_0], [PERSON_NAME_FULL_0_MALE]'s brother, encouraged them to share their music more publicly.\n"
+   ]
 }

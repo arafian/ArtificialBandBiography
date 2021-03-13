@@ -34,5 +34,10 @@
          "Bryan Fleming",
          "Dino Maddalone"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band that formed in [YEAR]. The band has re-formed under three names – [BAND_NAME], M Pire, and [BAND_NAME] Perahia – but has remained centered on guitarist [BAND_NAME] Perahia. Despite being based in Los Angeles, California, they are best known outside of the United States. Their best-known song, \"[MONTH] Is Going Away\" ([YEAR]), was a No. 1 hit in Japan.\n",
+      "The band's first release was entitled The Hand Is Quicker Than the Eye, which referred to Perahia's guitar skills and songwriting ability. Released by Enigma Records in [YEAR], the single \"[MONTH] Is Going Away\" was the band's biggest hit, achieving No. 1 status in Japan. Frontman Perahia had a [GENRE] a Hal Lindsey–lead Bible study in [YEAR], and converted to Protestant Christianity from his Greek Orthodox upbringing.\n",
+      "Perahia put together a [GENRE] band for Surrender that included singer [PERSON_NAME_FULL_1_MALE]. Surrender was released in [YEAR]. Lyrically, the album marked a change in the band's style to lyrics which were evangelical and confrontational in nature. Rob Rock was involved with their third RCA Record album as [BAND_NAME], Intense Defense. In [YEAR], Intense Defense, which was recorded at Dierks Studios and produced by [PERSON_NAME_FULL_0_MALE], was characterized by the editor of HM Magazine as being \"probably the best AOR melodic metal album in the universe.\" It sold well worldwide, but not in the United States. Following Intense, Perahia reformed the band as Jaguar. Jaguar included Robert Basauri ([PERSON_NAME_FULL_2_FEMALE]) on vocals, [PERSON_NAME_FULL_3_MALE] on drums, and Bryan Fleming on bass. The band changed members while entertaining record deals and never released material under this name.\n"
+   ]
 }

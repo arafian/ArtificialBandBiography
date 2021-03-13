@@ -31,5 +31,10 @@
          "Nicklas Franklin",
          "Dan Tibell"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from Sweden. The band formed in [YEAR] and was led by [PERSON_NAME_FULL_0_MALE]. They released four albums before breaking up in [YEAR].\n",
+      "The band's early releases were metal with symphonic influences using the Roland synthesizer guitar and Moog Taurus pedals. Knights of Heaven showed a [GENRE] a more melodic rock based sound.\n",
+      "In [YEAR] the band went through lineup changes: Ez Gomér was brought in to replace [PERSON_NAME_FULL_1_MALE] on bass, and Terry Haw joined. Both were with the band through Setting Fire to the Earth ([YEAR]), then left to form [PERSON_NAME_FULL_0_FEMALE]. With this lineup they toured extensively in Europe throughout [YEAR]–[YEAR].\n"
+   ]
 }

@@ -44,5 +44,10 @@
       "Past members": [
          "Bobby Sheehan"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band that formed in Princeton, New Jersey in [YEAR]. The band's music spans a variety of genres, including blues rock, psychedelic rock, folk rock, soul, and Southern rock. They are known for extensive use of segues in live performances, and were considered a key part of the re-emerging jam band scene of the [YEAR]s, spearheading the H.O.R.D.E. touring music festival.\n",
+      "Currently, the group comprises singer and harmonica player John Popper, guitarist [PERSON_NAME_FULL_0_MALE], drummer Brendan Hill, bassist [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0], and keyboardist Ben Wilson. [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] and Ben Wilson joined the band following the death of original bassist [PERSON_NAME_FULL_2_MALE] in [YEAR].\n",
+      "While [BAND_NAME] is best known among fans for their improvisational live shows, the general public is most familiar with the group from their Top 40 singles \"Run-Around\", \"Hook\", and \"But Anyway\". They gained mainstream popularity after their fourth studio album, four, released in [YEAR] and became a [GENRE] a year later. Sheehan's death and Popper's struggle with obesity put a damper on the group's success, and A&M dropped the band in [YEAR]. In the years following, the band has bounced around through a succession of independent labels and record producers, and gotten increasingly experimental with their recorded output.\n"
+   ]
 }

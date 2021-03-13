@@ -28,5 +28,10 @@
          "Bassil Silver",
          "Ben Cohen"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band. They are known to play metal cover versions of classic video game themes. The band is named after the Power Glove, a NES controller accessory.\n",
+      "The band was started as a [GENRE] bands. A melodic death metal band all the members were in disbanded, and the group decided to further develop [BAND_NAME]. The band's first recording was \"Dr. Wily's Theme\" from Mega Man 2 in early [YEAR], which was followed by \"[PERSON_NAME_FULL_0_MALE]\" from Mega Man X and the theme from Mighty Morphin Power Rangers.\n",
+      "The band records their music in various locations and mixes them in a [GENRE] band recorded and released its debut EP, Total Pwnage, in [YEAR] (later re-released in [YEAR]). Over the following two years, the band arranged and recorded what would become their debut, full-length album, Metal Kombat for the Mortal Man. The album met positive reviews. Throughout [YEAR], following the release of Metal Kombat for the Mortal Man, the band had found its way into many publications, such as Game Informer, Metal Hammer, and Gamepro, including interviews with the band members and album reviews.\n"
+   ]
 }

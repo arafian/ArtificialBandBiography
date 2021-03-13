@@ -35,5 +35,10 @@
          "Alex Lopez-Dias",
          "David Epstein"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (Aramaic: שטר, \"contract\") is an [GENRE] band based in Beit Shemesh. Formed in [YEAR] by American rapper Ori Murray and English guitarist/songwriter [PERSON_NAME_FULL_0_MALE], the band released their debut album, Infinity, in Israel in [YEAR] and in the United States through Shemspeed Records in [YEAR]. They have received considerable media attention, much of it focused on the contrast between their traditional Jewish dress and modern-sounding music. A second recording, Boss EP, was released through the band's own Heatseat Records in [MONTH] [YEAR]. In [YEAR], they were announced as contestants on the Israeli reality singing show HaKokhav HaBa.\n",
+      "Founding members Ori Murray and [PERSON_NAME_FULL_0_MALE] met at the Aish HaTorah yeshiva in Jerusalem, after having led largely non-religious lives. Upon discovering that they both had musical backgrounds they had abandoned in favor of their religious studies (Murray had previously been an MC in Seattle's drum and bass scene, while [PERSON_NAME_LAST_0] had been the guitarist and songwriter for a short-lived Essex-based trip hop outfit called Lisp), the two started encouraging each other to return to making music and ultimately formed [BAND_NAME] in [YEAR], taking the name from a tractate of Gemara they were learning at the time. Originally a duo, they gradually added a full band to their lineup in order to be more interesting live.\n",
+      "In [MONTH] [YEAR], the band released its debut album Infinity. The band was signed a year later by Shemspeed Records,  who re-released the album on [MONTH] 5, [YEAR]. In [MONTH], the band played the Israeli independent music festival InDNegev and gave a Halloween concert at Mike's Place in Tel Aviv. [MONTH] 5, [YEAR] saw the independent release of a second [BAND_NAME] recording, the Boss EP. Shortly afterward, the band announced plans for a second EP, Beauty Queen EP, to be released in early summer [YEAR], as well as a UK tour the same year.\n"
+   ]
 }

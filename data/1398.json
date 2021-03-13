@@ -48,5 +48,10 @@
          "Ian McDougall ",
          " Lance Michael"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR], following the breakup of Choking Victim. The band is currently signed to Fat Wreck Chords for CD releases, and [PERSON_NAME_FIRST_1]ternative Tentacles for vinyl releases. The band currently consists of Scott Sturgeon (vocals), [PERSON_NAME_FULL_2_MALE] (guitar), [PERSON_NAME_FULL_0_MALE] (bass guitar), Donny Morris (drums), and [PERSON_NAME_FULL_1_MALE] (guitar). [BAND_NAME] spans several different music genres including hardcore punk, ska, and crust punk. They write mostly political lyrics of a radical leftist nature, opposing religion, capitalism, and authority. Members of [BAND_NAME] reside in the C-Squat on 155 Avenue C in the Lower East Side of Manhattan, New York City. Natives of New York City, band members have a well-documented history of back-and-forth conflict with the NYPD which precedes the band's formation. The name \"[BAND_NAME]\" is explained by Stza as being \"an oxymoron\", based on the idea that crack cocaine addicts are known for vigorous use, and are unlikely to have any \"leftover\" crack.\n",
+      "Formed around the same time as the breakup of Choking Victim, [BAND_NAME] was initially an [GENRE] band's formation, the band consisted almost solely of Stza, who recorded many of the songs that would feature on later releases onto a four-track recorder whilst searching for band members. The band eventually solidified (albeit temporarily) around a line-up of Scott \"Stza\" Sturgeon (vocals, additional guitars), [PERSON_NAME_FULL_1_MALE] of F-Minus (guitar), [PERSON_NAME_FULL_0_MALE] (bass, previously of Choking Victim), Mike Trujillo of Blindsided (guitar) and Amery \"AWOL\" Smith (drums, previously of Suicidal Tendencies and the Beastie Boys).\n",
+      "Now a [GENRE] band, [BAND_NAME] proceeded to record several songs with the full line-up, including songs such as \"Rock The 40 Oz.\", \"Crack City Rockers\" and \"The Good, The Bad And The Leftover Crack\" - effectively the band's 'theme song'. Five of these songs were later included on the band's first release - the \"Rock the 40 Oz.\" 7\" EP, which was released by Bankshot! Records on [MONTH] 8, [YEAR].\n"
+   ]
 }

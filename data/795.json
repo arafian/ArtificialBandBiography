@@ -23,5 +23,10 @@
          "Joakim Benon",
          "Elin Kastlander"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME], styled as jj, is a [GENRE] band who has released music through the Gothenburg-based independent label Sincerely Yours and the Bloomington, Indiana-based label Secretly Canadian. The band consists of [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_1_FEMALE].\n",
+      "jj met in their hometown of Vallentuna, outside of Stockholm, and began playing together at a local youth center. They released their debut jj n° 1 in early [YEAR] and a couple of months later they released their debut album jj n° 2. Both the debut single and the debut album received a Best New Music inclusion from Pitchfork Media with ratings of 8 and 8.6 respectively.\n",
+      "On [MONTH] 24, [YEAR] it was announced that the American record label Secretly Canadian had signed jj to their roster. At the same time, the release date for jj's second full length album was slated. The album, named jj n° 3, was released in the United States and Sweden on [MONTH] 9, [YEAR]. jj works with both Sincerely Yours and Secretly Canadian, depending on the location, and hence didn't leave Sincerely Yours for Secretly Canadian.\n"
+   ]
 }

@@ -42,5 +42,10 @@
          "Sarah Dabby",
          "Jacob Steuer"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band based in San Francisco. The band is made up of seven core members and several hundred additional members who actively participate in recordings, live performances, and other creative projects.\n",
+      "The brainchild of frontman Liam McCormick, [BAND_NAME] began as a recording project in [YEAR] that aimed to connect a community of people through a musical platform. Using flyers, personal contacts, Craigslist and other forms of outreach, McCormick and co-founder [PERSON_NAME_FULL_0_MALE] recorded nearly 100 people for the project throughout Northern California.  After completing the majority of recording in the fall of [YEAR], McCormick and [PERSON_NAME_LAST_0] elected to continue the project by forming a live band.\n",
+      "After 'Falling off the Wagon' was featured on KFOG’s Local Scene 7 CD in [YEAR], the band gained attention from [PERSON_NAME_FULL_0_MALE] radio stations, receiving airplay on [PERSON_NAME_FULL_0_MALE] public radio station KALW-FM, [PERSON_NAME_FULL_1_FEMALE]'s Pirate Cat Radio, KSFS and KVON. In-studio performances include live sets on KALX Berkeley, Seattle's KEXP. in [MONTH] [YEAR], and a live set at [PERSON_NAME_FULL_1_FEMALE]'s KFOG Playspace in [MONTH] [YEAR].\n"
+   ]
 }

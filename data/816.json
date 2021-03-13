@@ -30,5 +30,10 @@
          "Pär Carlsson",
          "Brian Cukrowski"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Gothenburg, Sweden.\n",
+      "[BAND_NAME] began in [YEAR] without a consistent lineup or sound. In [YEAR], the band added Hugo Randulv and [PERSON_NAME_FULL_0_MALE] of the post-punk band Makthaverskan and finalized their lineup. They released their first EP, titled [MONTH]k EP in [YEAR] via Luxury. The following year, they released a 7\" titled Summer 3D/Weekends.\n",
+      "On [MONTH] 2, [YEAR], [BAND_NAME] premiered their single Swirl from their then upcoming debut studio album. The album, titled Last Forever, was released on [MONTH] 22, [YEAR] in Scandinavia and was released in the United States on [MONTH] 10, [YEAR] via Run For Cover. On [MONTH] 1, [YEAR], [BAND_NAME] released their self titled second studio album.\n"
+   ]
 }

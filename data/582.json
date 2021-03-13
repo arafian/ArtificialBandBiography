@@ -38,5 +38,10 @@
          "Alain Germonville",
          "Philippe Elter"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Nancy.  They have released four full-length albums, the latest being The Undercurrent, released on [MONTH] 2, [YEAR] on Listenable Records.\n",
+      "[BAND_NAME] was formed in [YEAR] by rhythm guitarist Patrick [MONTH]tin and drummer Dirk Verbeuren, the latter of whom later joined Soilwork.  Their [YEAR] album, Irradiant features a contribution from Meshuggah guitarist [PERSON_NAME_FULL_0_MALE] on the track, \"Asphyxiate.\"\n",
+      "In [MONTH] [YEAR], it was announced that [PERSON_NAME_FULL_0_MALE] had left [BAND_NAME] during the recording of The Undercurrent in order to take over as lead singer in the Danish industrial metal band Mnemic.  His session replacement was announced to be ex-Darkane singer, Lawrence Mackrory (who provided vocals on the album Rusted Angel).\n"
+   ]
 }

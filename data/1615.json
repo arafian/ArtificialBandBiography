@@ -37,5 +37,10 @@
          " Toti",
          " Fernando"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from the [YEAR]s, noted for being the precursors of the \"dark sound\" of the Movida Madrileña.\n",
+      "The band was originally formed by [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] (guitars) and Nacho Canut (bass), both formerly from Alaska y los Pegamoides, along with their siblings [PERSON_NAME_FULL_0_MALE] (vocals) and Johnny Canut (drums) around [YEAR]. This formation recorded an EP, later included in their [YEAR] compilation Singles y Primeras Grabaciones.\n",
+      "After Javier left the band, [PERSON_NAME_FULL_1_MALE] became also the lead singer. Their sound became darker, departing from the Pegamoides original pop sound and approaching the wave of bands like Gabinete Caligari.\n"
+   ]
 }

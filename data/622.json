@@ -30,5 +30,10 @@
          "Giovanna Kirinić",
          "Alenka Mendiković"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from Opatija, Croatia that was the first Yugoslav all-female band to release a long play record.\n",
+      "[BAND_NAME] was formed in Opatija in [YEAR]. They were not the first all-female band in Yugoslavia — at the time, already active were Tožibabe from Ljubljana and Boye from [MONTH]i Sad — but they were the first to achieve a degree of mainstream popularity, helped by radio play of their two demo tracks, \"Sama\" and \"Kao pjesma\" (both [YEAR]), and by TV appearances such as those on Stereovizija, a popular [YEAR]s music show broadcast by Radio Television Zagreb.\n",
+      "Their first album Tko mari za čari (Jugoton, [YEAR]) was produced by [PERSON_NAME_FULL_1_MALE] and Tomo in der Mühlen, and featured a guest appearance by [PERSON_NAME_FULL_0_FEMALE]. The album yielded three hit songs: \"Sama\", \"Kao pjesma\" and \"Tako lako\". Apart from \"Tako lako\", a cover of Buddy Holly's \"It's So Easy\", and \"Ne dozvoli\", which was written by [PERSON_NAME_LAST_0], all songs on the album were composed by the band. Despite these accomplishments, the band found working in the men-dominated music scene difficult at times, and occasional malicious remarks motivated them to work even harder.\n"
+   ]
 }

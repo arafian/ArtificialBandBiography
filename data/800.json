@@ -26,5 +26,10 @@
          "Linus Johansson",
          "Jimmie Olausson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band. They hail from Gothenburg, Sweden, formed in [YEAR]. The band achieved recognition from placing high, and often winning, many national and international music contests. Inspired by the Japanese visual-kei scene and the brutality of Swedish hardcore and metal, [BAND_NAME] has brought new light to the metal genre. \n",
+      "When founded in [YEAR], when the average member's age was 16, [BAND_NAME] quickly made a name for themselves in the Swedish metal scene by winning and placing high in many national and international music contests. In support of the EP, Terror Hearts - which was mixed and mastered by [PERSON_NAME_FULL_0_MALE] (In Flames, At the Gates) – [BAND_NAME] shared the stage with some of the world's most renowned metal acts including: Machine Head, Slayer, Mastodon, Meshuggah, and Candlemass among others.\n",
+      "In [MONTH] [YEAR], [BAND_NAME] recorded its debut album, Spite, with a series of up-and-coming as well as established producers in Swedish music: including Simon Exner (As You Drown), and two time Swedish Grammy winner [PERSON_NAME_FULL_0_MALE]. Spite was mixed and mastered by Christian Silver (Sonic Syndicate). Mixing elegance, darkness, power, aggression, and speed, Spite, hit the metal scene with the power of an atomic bomb in [MONTH] [YEAR], receiving raving reviews from mainstream and underground publications around Europe. The album was released across North America in [MONTH] of the same year via France's Listenable Records.\n"
+   ]
 }

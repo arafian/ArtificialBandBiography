@@ -30,5 +30,10 @@
          "Yamane Satoshi",
          "Yamazaki Hirokazu"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME], stylized as toe, is a [GENRE] band from Tokyo. The group was founded in [YEAR], and consists of Kashikura Takashi (drums), [PERSON_NAME_FULL_0_MALE] (guitar), Yamane Satoshi (bass guitar), and Yamazaki Hirokazu (guitar).\n",
+      "[BAND_NAME] is currently one of four bands on the indie label Machu Picchu, which was formed by the members of [BAND_NAME], along with the bands Mouse on the Keys, Enemies, and Tangled Hair.\n",
+      "The vast majority of the band's music is instrumental. The band has changed their sound over their musical tenure by incorporating acoustic guitars, Rhodes piano, and vibraphones in their most recent releases. The band tours regularly in Japan.\n"
+   ]
 }

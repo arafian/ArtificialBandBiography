@@ -32,5 +32,10 @@
          "Sue Anne Zollinger",
          "Kelly Kuvo"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were an [GENRE] band, formed by Washington, D.C. natives Azita Youssefi, Sue Anne Zollinger, and [PERSON_NAME_FULL_0_FEMALE] in [YEAR]. The idea to form the group was conceived during the late [YEAR]s by Azita Youssefi and [PERSON_NAME_FULL_0_FEMALE] while they were living in their hometown of Washington, DC. In [YEAR], after moving to Chicago to attend the Art Institute of Chicago, Youssefi met guitarist Sue Anne Zollinger who, following the addition of [PERSON_NAME_FULL_0_FEMALE] on drums, agreed to join the trio. The original lineup of the band included of Azita Youssefi on bass and vocals, Sue Anne Zollinger on guitar, and [PERSON_NAME_FULL_0_FEMALE] on drums.\n",
+      "[BAND_NAME]' live performances were highly theatrical and the group's members often dressed in bizarre homemade costumes ranging from Catholic schoolgirl uniforms, to clothes made of Bubble Wrap and duct tape.\n",
+      "The group recorded and released a number of indie singles as well as two full-length albums with their original lineup before guitarist Sue Anne Zollinger chose to leave. In [YEAR], Zollinger's roommate, guitarist [PERSON_NAME_FULL_0_FEMALE], became Zollinger's permanent replacement. After [PERSON_NAME_LAST_0]'s induction into the band, the group released  7\" singles \"New Tactical Outline Sec. 1\" and \"New Tactical Outline Sec. 2.\" in [MONTH] [YEAR], and the 10\" EP \"S-T-A-T-I-C-L-A-N-D\" in [MONTH] [YEAR], before they were forced to disbanded due to financial issues, leaving a third full-length album unfinished in the studio. In [YEAR], following the band's breakup, a singles compilation was released by Atavistic Records.\n"
+   ]
 }

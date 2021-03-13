@@ -32,5 +32,10 @@
          "Danny Roth",
          "Adam Wexler"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (Hebrew: רבע לשבע‎, \"a quarter to seven\") was an [GENRE] band formed in [YEAR] by lead singer [PERSON_NAME_FULL_0_MALE].\n",
+      "They released six studio albums before disbanding around [YEAR]. On [MONTH] 7, [YEAR], the band performed at Zappa Jerusalem, their first show in seven years, and stated that they were open to recording another album together.\n",
+      "The original line-up was [PERSON_NAME_FULL_1_MALE], David \"Harpo\" Abramson, Adam Wexler, [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_0_MALE].\n"
+   ]
 }

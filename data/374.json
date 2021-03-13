@@ -15,5 +15,10 @@
       "Years active": [
          "1981–1985, 1991–1992, 2010"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band originally active between [YEAR] and [YEAR]. The band's later work is credited with superior songwriting and with foreshadowing the emo sound. Originally a Springsteen/Clash cover band called Direct Drive, the group changed both its music and name after frontman [PERSON_NAME_FULL_0_MALE] visited Washington, D.C. in [YEAR] and saw a Bad Brains show that he describes as an “epiphany.” AoF typically showed funk, reggae and jazz influences, accompanied by lyrics bemoaning the difficulty of finding freedom and fulfillment in consumer society. While the band's influence was blunted by being based in Chicago, it maintained close musical and thematic ties to the Washington DC / Dischord Records scene. Drummer Bill Richman (a.k.a. “Virus X”), a member of the Revolutionary Communist Party  briefly left the band in [YEAR] due to the waning of the band's political emphasis; he returned later to record In This Life. [PERSON_NAME_LAST_0] had already left Chicago by the time AoF disbanded in [YEAR]; In This Life was issued two years later. The original lineup reunited for a European tour in [YEAR].  The final show of this tour was recorded and issued as part of the Your Choice Live series.\n",
+      "Frontman [PERSON_NAME_FULL_0_MALE] was originally a protest singer with decidedly leftist views. He went on to form Alloy, and Jones Very after AoF's demise. At the time of AoF's original breakup [PERSON_NAME_LAST_0] was working as a history instructor at the University of Massachusetts Amherst. [PERSON_NAME_LAST_0]'s subsequent day jobs included working on Microsoft's Encarta as managing editor of the Encarta Interactive English Learning edition ([PERSON_NAME_LAST_0]'s ironic take on his software career can be found here). [PERSON_NAME_LAST_0] resurfaced with another politically charged band, Report Suspicious Activity in [YEAR], and was featured prominently in the documentaries American Hardcore and You Weren't There.\n",
+      "In [YEAR], [BAND_NAME] reunited for an [GENRE] a new EP.\n"
+   ]
 }

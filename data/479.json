@@ -41,5 +41,10 @@
          "Tim Buell",
          "Michael Sturd"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band found in [YEAR] in Lincoln, Nebraska. They are now based on Nashville, Tennessee.  The band is currently of lead vocalist and guitarist David [PERSON_NAME_FIRST_2], bassist [PERSON_NAME_FULL_0_MALE], and drummer [PERSON_NAME_FIRST_1]my Jones (with an extended appearance by Nashville-based drummer [PERSON_NAME_FULL_1_MALE], and with occasional appearances by other drummers including Michael Sturd and [PERSON_NAME_FULL_2_MALE]). They have recorded ten studio albums (six of them independent), one independent live album, and two EPs. The band was founded as a quartet consisting of the four [PERSON_NAME_FIRST_2] brothers. Three of the four brothers left the band in late [YEAR].\n",
+      "[BAND_NAME] were formed as The Aslan Band in [YEAR] as a [GENRE] a fourth brother, Paul, joined in [YEAR]. They released their first album, Remedy, in [YEAR] under their original name. After changing their name to Remedy, they released four more independent albums: Remedy (The Blue One) ([YEAR]), Remedy (The Red One) ([YEAR]), Remedy: A Live Album ([YEAR]), and Magnify ([YEAR]). They changed their name again in [YEAR], this time to \"[BAND_NAME]\". They released Rip Open the Skies, which was released on [MONTH] 25, [YEAR] and which has sold over 20,000 copies to date. The band toured primarily in the Midwest and West Coast of the United States, playing over 200 concerts per year. \n",
+      "In [YEAR], the band was signed with Word Records and on [MONTH] 28, [YEAR], they released Daylight Is Coming which was produced by [PERSON_NAME_FULL_0_MALE] followed by an [GENRE] an EP released on [MONTH] 30, [YEAR]. \n"
+   ]
 }

@@ -26,5 +26,10 @@
          "Lewis Patzner - Cello",
          "Jon Bush - Drums"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Oakland, California.\n",
+      "Brothers Anton and Lewis Patzner started off playing metal violin and cello duets on the streets in Berkeley, California in [YEAR]. They quickly released a seven-song acoustic EP and began playing rock shows as [BAND_NAME]. The CD was self-recorded and about 500 copies were made and sold at shows and on the street. It is now out of print.\n",
+      "Shortly after the release of that disc the brothers recruited their friend Jon Bush to play drums and began playing fully amplified shows in Santa Cruz and Oakland with bands like The Botticellis, Minkus, Desa and The Matches. Many of these early shows, while well received, were plagued with sound problems, mostly because of the feedback that comes from amplifying and distorting acoustic instruments. Eventually the band refined their techniques, bought the right kind of gear and figured out how to make their sound work on stage.\n"
+   ]
 }

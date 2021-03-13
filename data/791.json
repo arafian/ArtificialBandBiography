@@ -35,5 +35,10 @@
          " Kriss Albertsson ",
          " Jim Kjell"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Gothenburg. It formed in [YEAR] and disbanded in [YEAR] but reunited in [YEAR].\n",
+      "[BAND_NAME] was formed in [MONTH] [YEAR] by drummer Thim Blom and vocalist/guitarist [PERSON_NAME_FULL_2_MALE]. Eventually, guitarist [PERSON_NAME_FULL_1_MALE] and bassist [PERSON_NAME_FULL_0_MALE] joined the band. Later in [YEAR], the band recorded a [GENRE] band a record deal and booked Studio Fredman that same year so that the band could record their debut studio album.\n",
+      "In [YEAR], [BAND_NAME] released their debut studio album, Two Feet Stand. After the album's release, the band was pretty dormant due to lack of interest by their label Listenable Records. At this point [PERSON_NAME_FULL_1_MALE] decided to join In Flames for some tours. However, eventually the band decided they needed to break off their contract with Listenable Records and dedicate themselves fully to the band, something which bassist [PERSON_NAME_FULL_0_MALE] felt he could no longer do since he wanted to focus on his other band Headplate.\n"
+   ]
 }

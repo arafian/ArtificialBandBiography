@@ -15,5 +15,10 @@
       "Website": [
          "www.coldfortythree.com"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (Cold 40*3) is an [GENRE] band from Los Angeles, California. The band consists of vocalist and guitarist [PERSON_NAME_FULL_1_MALE], vocalist and bass guitarist Joshua [PERSON_NAME_LAST_1], and drummer [PERSON_NAME_FULL_0_MALE]. With original lead guitarist Alex Sayes, the band achieved moderate success after releasing their debut album From the Garage to Your Speakers.\n",
+      "Moises Cruz, Joshua Cruz and [PERSON_NAME_FULL_0_MALE] grew up together on the same street and in [YEAR], after each of their previous bands split, they formed their own band.  Due to prior engagements, [PERSON_NAME_FULL_0_MALE] was forced to leave the band in early [YEAR]. Not wanting to leave the band without a [GENRE] band his friend, and fellow drummer, [PERSON_NAME_FULL_1_MALE].  [PERSON_NAME_FULL_1_MALE] appeared during rehearsals and was hired soon after. The band also hired Alex Sayes to play lead guitar.\n",
+      "The band recorded various demos and filmed a music video for their single \"Cheating B**ch\". The publicity eventually allowed the band to play many different Los Angeles venues, including The Whiskey A Go Go, The Roxy Theater, The El Rey Theatre, The Troubadour and other various bars and clubs on the Sunset Strip. In early [YEAR], the band began writing music for their first, full-length EP, which would eventually become From The Garage to Your Speakers.  During the writing process, Joshua Cruz contacted [PERSON_NAME_FULL_0_MALE], producer, vocalist and guitarist for the band Diffuser, to discuss the possibility of working with the band on the record.  After reviewing the band's demos, [PERSON_NAME_FULL_0_MALE] agreed to produce the record.\n"
+   ]
 }

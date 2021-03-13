@@ -18,5 +18,10 @@
       "Labels": [
          "Tooth & Nail"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Mansfield, Texas.\n",
+      "Formed in [YEAR] under the name Letter Twelve, the group signed to Tooth & Nail Records in [YEAR] and changed its name. The band's first, and only, release under this name was entitled How the Lonely Keep, and in [YEAR] they went on tour with labelmates Anberlin. The record hit No. 39 on the Billboard Top Christian Albums chart in [YEAR]. [PERSON_NAME_FULL_0_MALE] of Absolute Punk called the record \"one of the great emo releases of the 00's\". Melodic.net compared the group to Anberlin, Jimmy Eat World and Third Eye Blind.\n",
+      "Shortly after the release of the album, all of the band's members except for lead singer [PERSON_NAME_FULL_0_MALE] departed the group during their tour with The Spill Canvas and Rufio; [PERSON_NAME_LAST_0] toured with [BAND_NAME] as a solo act for the remainder of the tour. [PERSON_NAME_LAST_0] found replacements for the members later in [YEAR] and continued to tour behind the album, touring with Saosin, He Is Legend, The [MONTH]iana Theory, Cartel, The Working Title, Codeseven, The Receiving End of Sirens, and Yesterdays Rising. [BAND_NAME] split in [MONTH] [YEAR].\n"
+   ]
 }

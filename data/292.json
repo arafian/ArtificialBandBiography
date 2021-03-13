@@ -27,5 +27,10 @@
          " David Menzel ",
          " Blake Enemark"
       ]
-   }
+   },
+   "prunedData": [
+      "We Are The City was a [GENRE] band based in Vancouver, British Columbia and formed in [YEAR] in Kelowna, British Columbia. The last known line-up included singer-keyboardist Cayne McKenzie, drummer Andrew Huculiak, and guitarist [PERSON_NAME_FULL_0_MALE]. Their musical style is often referred to as prog rock. The name \"We Are The City\" is inspired by Matthew 5:14 from the Bible, \"\"Ye are the light of the world. A city that is set on a hill cannot be hid.\"\"  Georgia Straight, a British Columbia newspaper, described the group not necessarily as a Christian band, but as a band composed of Christians.\n",
+      "The band composed the score for the critically acclaimed film Violent, which was based on their album of the same name.\n",
+      "Their debut album, In a Quiet World, was released in [YEAR]. It was produced by Tom Dobrzanski of The Zolas. Many of the tracks were written in high school, as the band's previous incarnations. \"Astronomers\" was written when Cayne was in the 8th grade, and they posted an early demo of it on their Tumblr page. \"The album is about family, and about our journey in and out and all around spirituality,\" said band member Cayne McKenzie, \"Dare I say it, the newer songs we're writing now are even more progressive than the ones on the album,\" McKenzie says. \"So hopefully we don't spin completely out of control.\"\n"
+   ]
 }

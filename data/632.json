@@ -26,5 +26,10 @@
          "Stacy Peck",
          "Bree Mckenna"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from  Seattle, Washington, United States. The band includes members from other popular Seattle-based bands ([MONTH]ia Shapiro of Chastity Belt, [PERSON_NAME_FULL_0_FEMALE] of Tacocat, Stacy Peck of Pony Time.) The band performs in maternity gowns and is currently signed to the label Suicide Squeeze Records\n",
+      "The three piece received some notoriety on websites such as Pitchfork and Vice Magazine for their viral song \"I Only Fucked You As A Joke\", which also made Spin magazine's Top 100 Songs of [YEAR].\n",
+      "NPR premiered the single \"Nasty Grrls\" for their most recent album, Women's Rights. The record received positive reviews from reviewers including Pitchfork and Spin, and after some touring of both coasts, the band was invited to perform at the Sasquatch Music Festival, and New York City's Northside Music Festival.\n"
+   ]
 }

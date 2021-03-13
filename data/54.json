@@ -36,5 +36,10 @@
          "Kevin Wells",
          "Daniel Lenard"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in Mill Valley, California, United States and active from [YEAR] to [YEAR]. [BAND_NAME] are best known as the backing band for [PERSON_NAME_FULL_1_MALE]'s [YEAR] debut album My Aim Is True (recorded in the UK), and for its members going into greater success with Huey Lewis and the News, The Doobie Brothers, Toto, and [PERSON_NAME_FULL_0_FEMALE].\n",
+      "Formed by members of the band Tiny Hearing Aid Company, [BAND_NAME]'s sound moved on from [PERSON_NAME_FULL_2_MALE] psychedelia to the burgeoning country rock sound, similar to Creedence Clearwater Revival. The original line-up was based out of San Francisco, and was a quartet consisting of Alex Call (lead vocals, guitar), [PERSON_NAME_FULL_1_MALE] (guitar, pedal steel), [PERSON_NAME_FIRST_1] Ciambiotti (bass) and [PERSON_NAME_FULL_0_MALE] (drums). [YEAR] saw their debut self-titled album released on Fantasy Records.  A [YEAR] follow-up entitled Fourty Niner   also appeared on the same label.\n",
+      "Later the band moved to the UK, and the line-up was shuffled somewhat.  By late [YEAR], [BAND_NAME]'s new drummer was Mickey Shine.  As well, the group had added [PERSON_NAME_FULL_0_MALE] (then billing himself as \"[PERSON_NAME_FIRST_0] Louis\") as a second lead vocalist and harmonica player, and [PERSON_NAME_FULL_1_MALE] was keyboard player.  This sextet (Call, Louis, McFee, [PERSON_NAME_LAST_1], Ciambotti and Shine) signed to the UK's Vertigo label, and worked with producer Robert John \"Mutt\" Lange on [BAND_NAME]'s [YEAR] non-LP single \"Chicken Funk\", and the group's early [YEAR] album entitled Unavailable.  Later that year, McFee, Ciambotti, [PERSON_NAME_LAST_1] and Shine (but not Louis or Call) backed Elvis Costello on his debut album My Aim Is True.  These musicians were not credited on the release for contractual reasons; some contemporary publicity for the album identified Costello's backing band as \"The Shamrocks\".\n"
+   ]
 }

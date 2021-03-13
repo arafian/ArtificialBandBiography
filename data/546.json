@@ -5,5 +5,10 @@
       "Their earliest gig took place in 1997, when they performed a composition by Peter Vermeersch to accompany a circus act by De Circusplaneet during the Oorsmeer festival. They also performed on the song Porqué te Vas by A Group, Peter Vermeersch' avant-garde pop band.\n",
       "Wider attention came thanks to the Flemish radio station Radio 1, where they performed on the show Levende Lijven. The entire gig was recorded and later released under the title Live at the Beursschouwburg 1999, containing compositions by Peter Vermeersch and covers of jazz numbers. Unfortunately the Viakra label that released this CD went bankrupt, preventing a wide distribution. This prompted Peter Vermeersch to found his own record company, Zonk!Records.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "The [BAND_NAME] (FES) is a [GENRE] band ensemble founded and led by Peter Vermeersch. They mix the rich Belgian brass band (HaFaBra) tradition with characteristic topsy-turvy creativity.\n",
+      "Their earliest gig took place in [YEAR], when they performed a [GENRE] a circus act by [PERSON_NAME_FULL_0_FEMALE] during the Oorsmeer festival. They also performed on the song Porqué te Vas by A Group, Peter Vermeersch' avant-garde pop band.\n",
+      "Wider attention came thanks to the Flemish radio station Radio 1, where they performed on the show Levende Lijven. The entire gig was recorded and later released under the title Live at the Beursschouwburg [YEAR], containing compositions by Peter Vermeersch and covers of jazz numbers. Unfortunately the Viakra label that released this CD went bankrupt, preventing a [GENRE]"
+   ]
 }

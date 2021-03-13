@@ -43,5 +43,10 @@
          "Michael T. Ross",
          "Doug Lunn"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band. The band was founded in [YEAR] in Los Angeles by guitarist Warren Cuccurullo, vocalist Dale [PERSON_NAME_LAST_1], and drummer [PERSON_NAME_FULL_1_MALE]. They later added bassist Patrick O'Hearn and keyboardist [PERSON_NAME_FULL_0_MALE]. Dale's quirky voice and heavy makeup made the band a favorite on MTV in the early [YEAR]s.\n",
+      "Dale and Terry Bozzio met while working with [PERSON_NAME_FULL_0_MALE], and they married in [YEAR]. Cuccurullo encountered the pair while contributing to the [PERSON_NAME_LAST_0] album Joe's Garage ([YEAR]). O'Hearn was also a former member of [PERSON_NAME_LAST_0]'s touring band, and Wild had played with a variety of bands before joining.\n",
+      "In [YEAR] the band was a trio consisting of Bozzio, Bozzio and Cuccurullo.  [MONTH]mented by session musicians, the group made its first record, a 4-song EP entitled [BAND_NAME], in Zappa's brand-new Utility Muffin Research Kitchen studios; the recording was financed by Cuccurullo's father.  The band toured, promoted the EP, appeared in the movie Lunch Wagon ([YEAR]), and became a must-see band among the Los Angeles live music crowd.  \"Mental Hopscotch\" was a No. 1 record on local radio station KROQ-FM, and the self-promoted EP sold 7,000 copies.\n"
+   ]
 }

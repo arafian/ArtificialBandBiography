@@ -41,5 +41,10 @@
          "Mark Bush",
          "Don Giese"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band formed in [YEAR] in Riverside, California, United States, by brothers Frank, Eddie, and [PERSON_NAME_FULL_0_MALE] and their longtime friend Jerry O'Neill. [BAND_NAME] first played at backyard parties and later at Spanky's Café in their hometown of Riverside, where they played shows with the Angry Samoans, The Mighty Mighty Bosstones, Firehose, Murphy's Law, and The Dickies.\n",
+      "Their first recording was in [YEAR] –  a [GENRE] a four-track machine which they duplicated onto about sixty cassettes on a home stereo then sold at shows.\n",
+      "In [YEAR], [BAND_NAME] released their first 7\" EP The Old of Tomorrow, a [GENRE] band named Youth of Today, with the help of local band Public Humiliation, and also booked their own DIY US tour.\n"
+   ]
 }

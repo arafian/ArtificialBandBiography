@@ -28,5 +28,10 @@
          "Tom Verlaine",
          "Billy Ficca"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] were a [GENRE] band, composed of Tom Verlaine, [PERSON_NAME_FULL_0_MALE] and Billy Ficca. The trio later went on to form the influential rock band Television in [YEAR]; [PERSON_NAME_FULL_0_MALE] also went on to form the influential punk bands the Heartbreakers and [PERSON_NAME_FULL_0_MALE] and the Voidoids.\n",
+      "Two [BAND_NAME]' recordings, \"That's All I Know (Right Now)\" and \"Love Comes In Spurts,\" were released by Shake Records on a [YEAR] EP, backed with two songs by [PERSON_NAME_FULL_0_MALE] and the Voidoids. The same songs were re-released in [YEAR] by Overground Records with the addition of one more [BAND_NAME] song, \"High Heeled Wheels.\"\n",
+      "Information about the [BAND_NAME] includes oral histories, newspaper and magazine articles, and narratives written by the band members themselves. As such, there may be some discrepancies in issues like band formation dates and songs recorded. For example, according to The A to Z of Alternative Music, only two songs were recorded by the [BAND_NAME]. This is contradicted by Genius that lists four songs. The fact that the band never performed a [GENRE]"
+   ]
 }

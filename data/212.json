@@ -28,5 +28,10 @@
          "Frank Wilsey",
          "Adam Maples"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from San Francisco, California, United States. Their style has primarily been referred to as motorcycle rock and sleaze metal.\n",
+      "[BAND_NAME] formed in San Francisco in [YEAR] by frontman Ron Yocom, and bassist [PERSON_NAME_FULL_0_MALE]. During the three years before they had the chance to record a [GENRE] a music career alive. During the band's early years they played gigs with bands such as Dead Kennedys, Motörhead, the Ramones, and The Cramps. They were signed to Chrysalis Records in [MONTH] [YEAR].\n",
+      "Kirk Hammett, the guitarist of Metallica, co-produced their first demos with [PERSON_NAME_FULL_1_FEMALE], who went on to produce two releases by progressive rock band Tool.  [PERSON_NAME_FULL_0_MALE] of The Cult offered to produce their debut. Finally Mike Clink, who had just finished producing Guns N' Roses' Appetite for Destruction was enlisted by the group as producer. Guitarist Frank Wilsey, who had recently left the San Francisco band Head On, joined in [MONTH] [YEAR], shortly before the band started to record their eponymous debut for Chrysalis with Clink. Drummer Greg Langston also gave way during this period to Adam Maples. [PERSON_NAME_FULL_2_MALE], a [GENRE] band wrote the track \"Under The Night Stars\" for the movie A Nightmare on Elm Street 4: The Dream Master.\n"
+   ]
 }

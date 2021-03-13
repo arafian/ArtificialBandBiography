@@ -5,5 +5,10 @@
       "The band is also known for its a capella songs. The second album, Sunday Mornin' Meetin' Time, consists of a combination of a capella and instrumental tracks.\n",
       "Scott formed the band  after performing for ten years as lead singer for the band Quicksilver.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "Barry Scott and Second Wind was a [GENRE] band based out of the East Tennessee area. They are best known for their debut album \"In God's Time,\" which received a [YEAR] Grammy nomination for Best Southern, Country or Bluegrass Gospel Album.\n",
+      "The band is also known for its a [GENRE] a combination of a capella and instrumental tracks.\n",
+      "Scott formed the band  after performing for ten years as lead singer for the band Quicksilver.\n"
+   ]
 }

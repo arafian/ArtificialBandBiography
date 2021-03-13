@@ -33,5 +33,10 @@
          "Sydney Rentz",
          "Tess Wiley"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from Ypsilanti, Michigan, United States.  The band existed from [YEAR] to [YEAR], with most of its music seeing release via Tooth & Nail Records in [YEAR] & [YEAR].  The band was essentially masterminded by multi-instrumentalist Trey Many of His Name Is Alive and Liquorice.  [PERSON_NAME_FULL_0_MALE] (also of His Name Is Alive) helped with production.  The band's 4AD Records-influenced sound often led to comparisons to artists such as Cocteau Twins, Low, and Slowdive.\n",
+      "Amon Krist was the vocalist on the group's [YEAR] cassette The Rainwater EP and their Tooth & Nail debut Fall Sounds.  She also sang on Tooth & Nail's re-release of their debut cassette on CD, called Songs from the Rainwater EP,  after which point she left the group. The second album Of Color Bright used three new vocalists: Tess Wiley of Sixpence None the Richer, [PERSON_NAME_FULL_0_MALE] of Morella's Forest and Karin Oliver, also of His Name Is Alive.\n",
+      "The band then went on hiatus.  They self-released an EP in [YEAR] featuring Rosie Thomas and [PERSON_NAME_FULL_0_MALE] on vocals.  The band played a few more shows and short tours until their last appearance at The Blind Pig in Ann Arbor on [MONTH] 16, [YEAR].\n"
+   ]
 }

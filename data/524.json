@@ -62,5 +62,10 @@
          "Dennis Chambers",
          "Frankie \"Kash\" Waddy"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in Plainfield, New Jersey in [YEAR] and active until [YEAR]. The band and its sister act Parliament, both led by George Clinton, pioneered the funk music culture of the [YEAR]s. Relative to its sister act, [BAND_NAME] pursued a heavier, psychedelic rock-oriented sound. They released acclaimed albums such as Maggot Brain ([YEAR]) and One Nation Under a Groove ([YEAR]).\n",
+      "The group that would become [BAND_NAME] was formed by George Clinton in [YEAR], as the unnamed backing section for his doo wop group The Parliaments while on tour. The band originally consisted of musicians [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_1], [PERSON_NAME_FULL_1_MALE], and Langston Booth plus the five members of the Parliaments on vocals. [PERSON_NAME_LAST_1], [PERSON_NAME_LAST_1], and Booth enlisted in the Army in [YEAR], and Clinton recruited bassist [PERSON_NAME_FULL_0_MALE] and guitarist Eddie Hazel in [YEAR], then added guitarist Tawl Ross and drummer Tiki Fulwood. The name \"[BAND_NAME]\" was coined by Nelson after the band relocated to Detroit. By [YEAR], because of a dispute with Revilot, the record company that owned \"The Parliaments\" name, the ensemble began playing under the name [BAND_NAME].\n",
+      "As [BAND_NAME], the group signed to Westbound in [YEAR]. Around this time, the group's music evolved from soul and doo wop into a harder guitar-driven mix of psychedelic rock, soul and funk, much influenced by the popular musical (and political) movements of the time. Jimi Hendrix and Sly Stone were major inspirations. This style later evolved into a tighter guitar and horns-based funk (circa [YEAR]–75), which subsequently, during the height of Parliament-[BAND_NAME] success (circa [YEAR]–81), added elements of R&B and electronic music, with fewer psychedelic rock elements. The band made their first live television performance on Say Brother in [MONTH] 7, [YEAR]. They played a jam with songs \"Into My Own Thing\", \"What Is Soul?\", \"(I Wanna) Testify\", \"I Was Made to Love Her\" ([PERSON_NAME_FULL_0_MALE] cover), \"Friday Night, [MONTH] 14th\" and \"Music for My Mother\".\n"
+   ]
 }

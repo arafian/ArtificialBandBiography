@@ -5,5 +5,10 @@
       "The band's two members were Tommy Ramone, an original member of the Ramones, and Claudia Tienan, a guitarist, bassist and vocalist formerly with an alternative band, the Simplistics.\n",
       "Uncle Monk released one album, also named Uncle Monk (March 2006). Tommy Ramone wrote to Jari-Pekka Laitio-Ramone in 2012-2014, that Uncle Monk are working with their second album. Tommy wrote: \"Yes, Claudia and I are finishing up the next record. There will be indie songs, bluegrass songs, old-time songs, romantic songs, and unclassifiable songs\", Tommy explained to Jari-Pekka who run Ramones' page http://www.ramonesheaven.com.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band.\n",
+      "The band's two members were [PERSON_NAME_FULL_0_MALE], an original member of the [PERSON_NAME_LAST_0]s, and [PERSON_NAME_FULL_1_FEMALE], a guitarist, bassist and vocalist formerly with an alternative band, the Simplistics.\n",
+      "[BAND_NAME] released one album, also named [BAND_NAME] ([MONTH] [YEAR]). [PERSON_NAME_FULL_0_MALE] wrote to Jari-Pekka Laitio-[PERSON_NAME_LAST_0] in [YEAR]-[YEAR], that [BAND_NAME] are working with their second album. [PERSON_NAME_FIRST_0] wrote: \"Yes, Claudia and I are finishing up the next record. There will be indie songs, bluegrass songs, old-time songs, romantic songs, and unclassifiable songs\", [PERSON_NAME_FIRST_0] explained to Jari-Pekka who run [PERSON_NAME_LAST_0]s' page http://www.ramonesheaven.com.\n"
+   ]
 }

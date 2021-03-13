@@ -32,5 +32,10 @@
          "Danni Harrowyn",
          "Cat Scandal"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Long Beach, California, United States. They are signed to Hellcat Records and have recorded six releases, with the latest being Love & War ([YEAR]).\n",
+      "The self-described \"femme fatale punk rock\" band made a [GENRE]",
+      "In an [GENRE]"
+   ]
 }

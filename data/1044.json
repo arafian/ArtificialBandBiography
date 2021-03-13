@@ -20,5 +20,10 @@
          "Stefan Lange (Founder)",
          "Tihomir Lozanovski (since 2003)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band, and their history is carved by the numerous changes in line-up which contributed to [BAND_NAME]'s creative potential, as the band draws heavily on jamming as a source for their music. The band has also become a regular attraction at various music festivals. These include the Art-Rock Festival, on the \"ProgParade\", several times on the Burg Herzberg Festival, and at the Zappanale. Internationally, they were for example at the \"BajaProg Festival\" in Mexicali (Baja California, México) and at the Festival Crescendo near Bordeaux in France. In [YEAR] they accompanied Nektar at their European tour.\n",
+      " Studio \n",
+      " Live \n"
+   ]
 }

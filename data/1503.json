@@ -28,5 +28,10 @@
          " Max Franken ",
          " Rami Fortis"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band associated with the post-punk and indie rock movement of the [YEAR]s.\n",
+      "Between its foundation in [YEAR] and its dissolution seven years later, [BAND_NAME]  played an important role in the European rock scene. [PERSON_NAME_FULL_1_FEMALE] (bass, vocals), [PERSON_NAME_FULL_0_MALE] (vocals, lyrics) and Berry Sakharof (guitars, keyboards, vocals) left their native Tel Aviv in [YEAR] for Amsterdam in search of an escape from the provincial attitudes of their own city. Of the trio, only Berry was a \"real\" musician. [PERSON_NAME_FIRST_1] was \"learning to play the bass\", while [PERSON_NAME_FIRST_0] was better known as a DJ (Morpheus) and a music fan who dabbled in poetry. They recorded a 2-song demo at home, and became one of the first artists signed to the Belgian Crammed label.\n",
+      "During the recording for a [GENRE] a little studio in the Belgian countryside, it became quickly evident that the trio had hit upon something worthy of development and their first, self-titled, mini album [BAND_NAME] was the fruit of this. Their burgeoning style was a heavily Middle-Eastern coloured brand of post-new wave, based on driving rhythms, scratchy guitars and their own very un- \"Anglo-American\" style of vocalisation. In this way they both prefigured alternative dance and later fascinations with so called world music.\nThis mini-album (now re-released on CD along with its successor \"One by One\") features \"Statik Dancin' \" which remained a live staple throughout the band's career, and \"Creation Is Perfect\", based on a text by the beat poet Bob Kaufman.\n"
+   ]
 }

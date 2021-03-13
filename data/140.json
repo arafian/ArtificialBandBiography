@@ -39,5 +39,10 @@
          "Dave White",
          " Mark Hernandez"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Oakland, California. They played a decidedly technical style of thrash originally evoking bands like Testament, though they would later move on to playing in their own unique, more progressive thrash style. After dissolving in [YEAR], they reformed in [YEAR] and released their fourth studio album The Prophecy in late [YEAR]. They broke up once again in [YEAR], but announced yet another reunion in [MONTH] [YEAR].\n",
+      "[BAND_NAME] was formed in [YEAR] by guitarist Brad Bowers, drummer [PERSON_NAME_FULL_1_MALE], and bassist Mike Kaufmann. [PERSON_NAME_FULL_0_MALE] joined later but left the band not long after due to conflicts with Bowers, and was replaced by Jim Adams. Eventually the band ousted Bowers and replaced him with [PERSON_NAME_LAST_0]. In [YEAR] the band recruited a vocalist in Mitch [MONTH]es.\n",
+      "Now with a stable and complete lineup, [BAND_NAME] began playing shows in the Bay Area. With the local thrash scene gaining momentum, the band attained local notoriety. Their first demo was released in [YEAR]. Shortly afterwards [MONTH]es left the band and was replaced by Ken Elkington. With Elkington the band issued their Hypothermia demo in [YEAR]. This demo caught the attention of the independent metal label Roadracer Records, who signed the band that year. At Roadracer's insistence, the band traveled to Vancouver, British Columbia, Canada to record their debut album with Annihilator guitarist Jeff Waters.\n"
+   ]
 }

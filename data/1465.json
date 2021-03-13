@@ -28,5 +28,10 @@
          "1st place, North American",
          "Pipe Band Championships: 1996, 2004, 2006"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] is a [GENRE] band organization based in Toronto, Ontario, Canada directly composed of bands in grade 1 and grade 2; and 3 and 5 through its youth affiliate, Ryan Russell Memorial.  The band performs at parades, festivals, ceremonies and funerals on behalf of the Toronto Police Service, and participates internationally in piping competitions.\n",
+      "The [BAND_NAME] was founded in [YEAR]. The band was originally formed for local parades and events, and later participated in recruiting drives during World War I. The band was forced to temporarily halt operations soon after the start of World War II, and would not parade until [YEAR]. After the sponsoring force's amalgamation with 12 other municipalities, the band renamed itself to the Metropolitan [BAND_NAME].\n",
+      "In the [YEAR]s, the band began competing, sanctioned in grade 2. The band managed to win 1st place in their division at the Cowal Gathering. Sometime after, the band was promoted to the premier grade. Following Metropolitan Toronto's amalgamation, the band adopted its current name.\n"
+   ]
 }

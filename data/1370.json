@@ -30,5 +30,10 @@
          " Matt Pynn (Guitar, Steel Guitar) ",
          " Greg Wieczorek (Drums, Percussion)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band formed in New York City in [YEAR].\n",
+      "Steeped in the evocative, open-road Americana of bands like Gin Blossoms and Whiskeytown, New York City-based alt-rockers [BAND_NAME] formed in [YEAR] around frontman [PERSON_NAME_FULL_1_MALE]. A veteran singer/songwriter and multi-instrumentalist with a long résumé of collaborations under his belt, including Albert Hammond Jr., The Lemonheads, [PERSON_NAME_FULL_0_FEMALE], and Ben Kweller, [PERSON_NAME_LAST_1] was raised on a steady diet of Grateful Dead, Big Star, and Neil Young. [BAND_NAME]' debut long-player, Between the Sounds, arrived in [YEAR] on The End Records. The group's sophomore outing, La Candelaria, followed in [YEAR].\n",
+      "In [YEAR], Candles members Josh Lattanzi and [PERSON_NAME_FULL_1_MALE] joined Norah Jones band to help her tour in support of her album Little Broken Hearts. In [YEAR], the Candles were recruited as the back up band by Alberta Cross for shows in the United States and Europe where they also served as the opening act. Shortly thereafter they joined [PERSON_NAME_FULL_0_MALE] and The Wandering Sons for several tours as their backup band in addition to appearing as the opening act.\n"
+   ]
 }

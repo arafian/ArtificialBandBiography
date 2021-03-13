@@ -5,5 +5,10 @@
       "Elton Motello is both the moniker of Alan Ward, the lead singer and songwriter, and the name of the band itself. Alan Ward was formerly a member of the glam punk band Bastard along with Damned guitarist Brian James, Dez Lover, future Raxola frontman Yves Kengen, and Nobby Goff.\n",
       "Motello then recruited a new set of musicians including Mike Butcher (aka \"Jet Staxx\" who had played on \"Jet Boy, Jet Girl\"), Willie Change (bass), and Nobby Goff (drums), to record debut album Victim of Time, which also featured guest appearances from former Pretty Things and Pink Fairies drummer John \"Twink\" Alder, Tony Boast, and Peter Goff (guitar).\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "\n[BAND_NAME] was an [GENRE] band.\n",
+      "[BAND_NAME] is both the moniker of Alan Ward, the lead singer and songwriter, and the name of the band itself. Alan Ward was formerly a [GENRE] band Bastard along with Damned guitarist [PERSON_NAME_FULL_0_MALE], Dez Lover, future Raxola frontman Yves Kengen, and Nobby Goff.\n",
+      "Motello then recruited a new set of musicians including Mike Butcher (aka \"[PERSON_NAME_FULL_1_FEMALE]\" who had played on \"[PERSON_NAME_FIRST_1] Boy, [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_2]\"), Willie Change (bass), and Nobby Goff (drums), to record debut album Victim of Time, which also featured guest appearances from former Pretty Things and Pink Fairies drummer John \"Twink\" Alder, [PERSON_NAME_FULL_0_MALE], and Peter Goff (guitar).\n"
+   ]
 }

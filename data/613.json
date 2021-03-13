@@ -5,5 +5,10 @@
       "The band was formed in 1998 by three members of Butt Trumpet. After releasing the 2001 album, Are You Man Enough?, the group toured with Nashville Pussy. During the tour, drummer Judy Molish and guitarist Sharon Needles left the group; Jennifer Finch from L7 and drummer Dave Gara joined in their stead. \n",
       "On December 15, 2001, lead singer and bassist Bianca Halstead (Butthole) was killed in a car crash in New Orleans. The remaining group members disbanded afterwards.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Southern California.\n",
+      "The band was formed in [YEAR] by three members of Butt Trumpet. After releasing the [YEAR] album, Are You [PERSON_NAME_FULL_0_MALE]?, the group toured with Nashville Pussy. During the tour, drummer [PERSON_NAME_FULL_2_FEMALE] and guitarist Sharon Needles left the group; [PERSON_NAME_FULL_1_FEMALE] from L7 and drummer [PERSON_NAME_FULL_3_MALE] joined in their stead. \n",
+      "On [MONTH] 15, [YEAR], lead singer and bassist [PERSON_NAME_FULL_0_FEMALE] (Butthole) was killed in a [GENRE]"
+   ]
 }

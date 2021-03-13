@@ -41,5 +41,10 @@
          "Ronald Petzke",
          "Varg (Chris) Campos"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were an [GENRE] band from DeKalb, Illinois.\n",
+      "[BAND_NAME] began in [YEAR], after releasing a [GENRE] band released their debut EP Torture the following year via Tooth [MONTH]ay Records. In [YEAR], the band recorded and released a split album with the band Chronic Bleeding Syndrome via Force Fed Records. In [YEAR], the band released their debut full-length album titled Punish and Destroy via Cowabunga Records. They released their second full-length album, titled Unforgivable, in [YEAR] via Relapse Records. The band released a third full-length album, titled Worthless, in [YEAR] via Relapse Records. The band then released a 12\" EP titled Bleed via Relapse Records. Also in [YEAR], the band released a 7\" EP titled Black Earth via A389 recordings. The band released a split EP with Lack of Interest in [YEAR] via [PERSON_NAME_FULL_0_FEMALE]. In [YEAR], the band released their fourth full-length album, titled Still via Relapse Records.\n",
+      "On [MONTH] 1, [YEAR], [BAND_NAME] announced via Facebook that they would be retiring as a [GENRE] band simultaneously announced various tour dates, as well as the title of their fifth and final album, \"Apology.\", to be released in [MONTH] [YEAR], via Relapse Records, Cosmic Note and Deep Six Records.\n"
+   ]
 }

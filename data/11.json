@@ -40,5 +40,10 @@
          "Rick Kulwicki",
          "Garrett Shavlik"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Denver which formed in [YEAR], disbanded in [YEAR], but reconvened in [YEAR]. The group cited the Rolling Stones and MC5 as inspirations for their sound, and was the first group based outside the Pacific Northwest to sign with influential Seattle label Sub Pop.\n",
+      "[BAND_NAME] was originally called Madhouse. After early [YEAR]s [PERSON_NAME_FIRST_2] punk band Frantix broke up, bassist Matt Bischoff, drummer [PERSON_NAME_FULL_1_MALE] and guitarist James Clower began playing as Madhouse. On [MONTH] 5, [YEAR], with new band members [PERSON_NAME_FULL_0_MALE] (guitar) and John Robinson (vocals), they played their first gig at the German House ([PERSON_NAME_FULL_2_MALE]) as \"[BAND_NAME]\". That was the only name all five members could agree upon.\n",
+      "In [YEAR] the Fluid released their first album, Punch N Judy on Rayon Records. The album was also licensed to and released by the German label Glitterhouse. They toured for the next two years in support of the album. \n"
+   ]
 }

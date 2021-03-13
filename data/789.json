@@ -26,5 +26,10 @@
       "Past members": [
          "Mats Larsson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band that rose to fame in early [YEAR].\n",
+      "The trio, from Gothenburg on the west coast of Sweden, was formed in [YEAR]. Their first release was a self-titled EP in [YEAR]. The band name is from drum company Fibes Drums, of which the band had a beloved drumset in its early career.\n",
+      "In [MONTH] [YEAR], their first album, Still Fresh, was released. In [MONTH] [YEAR], they released a second album, Emotional. In autumn [YEAR], the band released the album [YEAR], on which they collaborated with Gary Kemp, [PERSON_NAME_FULL_0_MALE], Petter Winberg and [PERSON_NAME_FULL_1_MALE]. The album also contains duets with [PERSON_NAME_FULL_2_MALE] and Kim Wilde. The album won Pop Album of the Year at the [YEAR] Grammis Awards. \n"
+   ]
 }

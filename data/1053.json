@@ -21,5 +21,10 @@
       "Associated acts": [
          "Robert Randolph and the Family Band, North Mississippi Allstars, Medeski, Martin & Wood"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band. The supergroup includes well-known musicians: Robert Randolph (pedal steel guitar), [PERSON_NAME_FULL_0_MALE] (keyboards), both members of North Mississippi Allstars- Luther Dickinson (electric guitar), Cody Dickinson (drums, washboard), and ex-North Mississippi Allstars bassist [PERSON_NAME_FULL_1_MALE].\n",
+      "[BAND_NAME] developed from a [GENRE] a series of albums published by Arhoolie Records in the [YEAR]s and early [YEAR]s. [PERSON_NAME_FULL_0_MALE] and Luther Dickinson were particularly fond of a song called \"Without God\" on the Sacred Steel Live! album, the only track credited to a then-unknown [PERSON_NAME_FULL_1_MALE]. They contacted [PERSON_NAME_LAST_1] and recruited him to form their own Sacred Steel band, likely the first initiated by musicians outside the House of God church organization.\n",
+      "Musically, [BAND_NAME] is similar to other sacred steel bands, with the major difference being a [GENRE] a pipe organ with the much less expensive steel guitar. Another unusual aspect of the music is that drummer Cody Dickinson plays electric washboard on certain songs, as he sometimes does with the North Mississippi Allstars. During live concerts, there is typically only one vocal microphone, used by Randolph to address the audience with encouragement and occasional exclamations of spiritual praise between songs. However, there is at least one example of bassist [PERSON_NAME_FULL_0_MALE] singing the lyrics to a traditional gospel song played by [BAND_NAME], on [MONTH] 1, [YEAR] in Fort Lauderdale, Florida.\n"
+   ]
 }

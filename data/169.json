@@ -39,5 +39,10 @@
       "Past members": [
          "Sarah Kirsch"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band that formed in East Bay, California, in [YEAR]. The band currently consists of Aaron Cometbus (drums, lyrics), [PERSON_NAME_FULL_0_MALE] (bass), [PERSON_NAME_FIRST_0]ie Joe Armstrong (guitar, vocals) and [PERSON_NAME_FULL_1_MALE] (guitar, vocals). The band's name comes from a brand of \"high octane\" green tea served at the Arcata co-op and discovered by Aaron Cometbus during one of his many dumpster diving adventures.\n",
+      "[BAND_NAME] was founded in Arcata, California, in [MONTH] [YEAR] by Aaron Cometbus and [PERSON_NAME_FULL_0_MALE]. Cometbus wanted the name \"[BAND_NAME]\", while [PERSON_NAME_LAST_0] wanted to call it \"50 Foot Hesher\". Along with vocalist Doug \"Douggie Grime\" Rogers and bassist David \"Atlas\" Kimmel, the band played once at a [GENRE] band and some of the songs with him. [PERSON_NAME_LAST_0] stayed in Arcata with the band and they changed their name to 50 Foot Hesher and acquired a new drummer. A few months later, [PERSON_NAME_LAST_0] left the band and the remaining members changed the name to \"Lank\". \n",
+      "Back in Berkeley, Cometbus formed the second incarnation of [BAND_NAME] with Bill Schneider and [PERSON_NAME_FULL_1_FEMALE] of The Skinflutes, and Billie Joe Armstrong of Green Day. In [MONTH] [YEAR] they recorded their first EP, Tründle and Spring. It was not until [MONTH] of the following year that the band played their first live show at Punks With Presses in Oakland along with Rancid and The Gr'Ups. The band then released their second EP, Fahizah. In [YEAR], [PERSON_NAME_LAST_1] left the band citing personal differences with Armstrong's decision to sign to a major label with Green Day.  [PERSON_NAME_LAST_1] was replaced by [PERSON_NAME_FULL_0_MALE] of Chino Horde. Shortly after, the band embarked on a week long tour of Northern California, Oregon, and Washington in the winter of [YEAR].\n"
+   ]
 }

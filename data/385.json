@@ -35,5 +35,10 @@
          " Steve Albini",
          " Pierre Kezdy"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Chicago, Illinois with a relatively large cult following. They were founded in [YEAR] by John [PERSON_NAME_LAST_1] (ex-guitarist for Naked Raygun), along with his brother [PERSON_NAME_FULL_1_MALE] (drums, formerly of The Effigies), [PERSON_NAME_FULL_0_MALE] (vocals/guitar), and [PERSON_NAME_FIRST_3] [PERSON_NAME_LAST_4] (bass).  Both [PERSON_NAME_LAST_0] and [PERSON_NAME_LAST_4] had been members of Chicago-based hardcore band Bhopal Stiffs, whose [YEAR] demo had been produced by John [PERSON_NAME_LAST_1]. [BAND_NAME]'s [YEAR] debut EP, \"Three-Chord Monte\", was also the first release by Quarterstick Records, an offshoot of Touch and Go Records.  [PERSON_NAME_FIRST_3] [PERSON_NAME_LAST_4] dropped out in [YEAR] after job commitments prevented him from touring.  [PERSON_NAME_FULL_3_MALE], a longtime friend of the band, filled the bass slot on the \"Fore\" EP.  Former Naked Raygun bassist Pierre Kezdy became the permanent bass player in [YEAR]. After the reformation of Naked Raygun, [PERSON_NAME_FULL_2_MALE] took over for Kezdy on bass.\n",
+      "[BAND_NAME] supposedly played a \"farewell\" show on New Year's Eve in [YEAR] but then denied that it was really a \"farewell\" show a few years later when they returned to live action.\n",
+      "[BAND_NAME] has been touring through the summer of [YEAR] with Face to Face and Polar Bear Club.\n"
+   ]
 }

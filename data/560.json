@@ -36,5 +36,10 @@
          " Josh Holland ",
          "Elijah Nelson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Washington that formed in Bellingham in [YEAR] and later moved to Seattle. They play hardcore punk-influenced extreme metal. A key factor of their sound is the \"Boss HM-2 Heavy Metal Pedal\", which was popularized by bands such as Entombed, Dismember and Edge of Sanity in the early [YEAR]s.\n",
+      "[BAND_NAME] began in [YEAR], playing local bars and house shows in Bellingham. They released a [GENRE] an actual EP in [YEAR]. In [YEAR] they released the Razor to Oblivion EP under their own label, Hot Mass Records. The EP gained attention in the local music underground and the band signed with Southern Lord Records, a Los Angeles based metal and hardcore punk oriented label, in [MONTH] [YEAR]. [BAND_NAME] toured across the country to support the EP as a support act for Victims, Rise and Fall, and Trap Them. Southern Lord then took over the distribution of the EP, which was re-released under the new label, and [BAND_NAME] went to the east coast to record their debut album, Heavy Breathing, at GodCity Studios, owned by Converge guitarist [PERSON_NAME_FULL_0_MALE]. Heavy Breathing was released on [MONTH] 30, [YEAR] by Southern Lord. Their second album titled Sentenced To Life was released [MONTH] 27, [YEAR] also on Southern Lord Records.\nIn [MONTH] [YEAR] it was announced that [BAND_NAME] would be returning to GodCity Studios to record their follow up, Slaves Beyond Death, for an early [YEAR] release. [PERSON_NAME_FULL_1_MALE], the band's bassist, was found dead on [MONTH] 29th, [YEAR].\n",
+      "This Washington-related article is a [GENRE]"
+   ]
 }

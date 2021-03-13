@@ -21,5 +21,10 @@
       "Members": [
          "Corinne, Kyle, Jethro, Blake, Sean, Jimmy, Mat"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia which has performed across Western Canada since [YEAR].  [BAND_NAME] began adding horns to the line-up in [YEAR] and have been evolving their blend of punk, ska, and reggae ever since.\n",
+      "The band has variously featured a two- or three-piece horn section complemented by distinct songwriters and vocalists.  This instrumentation adds to their diverse sound. Noticeable influences in their sound include acts such as The Clash, Sublime, Fishbone, and Rancid.  The 6-song EP [BAND_NAME] (Surrender Records [YEAR]) was the first release to feature the horn driven sound people have come to associate with the band.\n",
+      "Their [YEAR] release Warning Shot (Megalith Records USA/Bacteria Buffet Records CDN) sold over [YEAR] copies, mostly at the live shows, and received rave reviews from college radio DJs across the country.  Warning Shot fully displays the diverse influences of the group, ranging from rocksteady reggae to so-cal punk & ska.\n"
+   ]
 }

@@ -30,5 +30,10 @@
          "Rick Kemp",
          "Nessa Glen"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band, with a sound that was compared with better known bands such as Van der Graaf Generator, Jethro Tull and Gentle Giant.\n",
+      "The band was founded in [YEAR] by twin brothers Colin and Stewart Goldring, who were joined by drummer [PERSON_NAME_FULL_1_MALE] from Spice (the band that would later evolve into Uriah Heep) and Peter \"[MONTH]s\" Cowling on bass. [PERSON_NAME_FULL_0_MALE] joined the band on sax and flute for their second album.  They came up with the strange band name by reversing and slightly rearranging the brothers' surname, adding in an extra 'o'.  In [MONTH] [YEAR], the British music magazine NME reported that [BAND_NAME] was to appear at the Great Western Express Lincoln Festival on 26 [MONTH] that year.  Other acts to perform in the Giants of Tomorrow marquee included Budgie, Skin Alley, Tea & Symphony, [PERSON_NAME_FIRST_0] [MONTH]tyn, and Warhorse.  In [YEAR], [BAND_NAME] released both their first and second albums, In Spite of Harry's Toe-Nail and Lady Lake, before disbanding due to a lack of commercial success.  Despite having played gigs with fairly well known acts such as David Bowie,  Colosseum, King Crimson, Gentle Giant, Wishbone Ash, Soft Machine, and Magma in their brief career, they have always remained relatively obscure.\n",
+      "Cowling began working with Pat Travers in [YEAR], and was able to achieve a [GENRE]"
+   ]
 }

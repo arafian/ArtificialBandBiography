@@ -27,5 +27,10 @@
          "Michael Knox",
          "James Leste"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band fronted by [PERSON_NAME_FULL_0_MALE].\n",
+      "[BAND_NAME] was founded in [YEAR] by singer [PERSON_NAME_FULL_0_MALE], who was later joined by Alicia [MONTH]ie Campbell. Soon after, Michael Knox joined the band through a [GENRE] a San Francisco Chronicle profile, they described themselves as having a \"very Brit-rock feel like The Beatles meet Muse.\" The band has been compared to Muse, Coldplay, Oasis, Radiohead, and The Verve.\n",
+      "In [YEAR] they won a spot on Live 105's BFD summer concert, and played at San Francisco's Noise Pop and Austin's SXSW music festivals. Their final line-up consisted of Karazija, Campbell, Knox, and [PERSON_NAME_FULL_2_MALE]. Musicians who also performed or toured with [BAND_NAME] include violinist [PERSON_NAME_FULL_0_MALE] and drummer [PERSON_NAME_FULL_1_MALE].\n"
+   ]
 }

@@ -40,5 +40,10 @@
          "Rick Taylor",
          "John Roles"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band centered on the singer and guitarist Bill Henderson, which started off with a more progressive rock sound that incorporated elements of folk, indigenous, jazz and blues, before moving towards a more straight-ahead hard rock/pop rock sound by the mid-70s. They were active from [YEAR] to [YEAR]. Henderson reformed the band in [YEAR]. Their six best-selling songs were \"My Girl (Gone, Gone, Gone)\", \"I Believe\", \"Whatcha Gonna Do\", \"Fly at Night\", \"Crazy Talk\", and \"Lonesome [MONTH]y\".  The band's lineup has changed many times while they have continued to tour across Canada.\n",
+      "The band originated in Vancouver, British Columbia.   The members of the C-FUN Classics changed the band's name to The Collectors when Bill Henderson joined in [YEAR]. Their psychedelic self-titled debut album yielded the minor hit \"[PERSON_NAME_FULL_0_FEMALE]\". Their second album was based on the musical score written by the band for a [GENRE]",
+      "Vocalist [PERSON_NAME_FULL_0_MALE] left the Collectors in [YEAR]; the remaining members formed the band [BAND_NAME] in [YEAR], [BAND_NAME] being a [GENRE] a city east of Vancouver in the Fraser River valley.\n"
+   ]
 }

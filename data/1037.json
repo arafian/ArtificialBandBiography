@@ -33,5 +33,10 @@
          "Don Scott (2001−2011)",
          "Russ Lawton (2004−2011)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band originally from Burlington, VT. Since forming in [YEAR], the band has released five studio albums, four live albums and one live concert DVD. The band consists of [PERSON_NAME_FULL_2_MALE] (lead guitar, vocals), [PERSON_NAME_FULL_1_MALE] (bass, vocals), Reid Genauer (rhythm guitar, vocals), and [PERSON_NAME_FULL_0_MALE] (drums).\n",
+      "Originally formed at the University of Vermont as an acoustic duo \"Strange Folk\" in [YEAR] by [PERSON_NAME_FULL_0_MALE] and Reid Genauer, [BAND_NAME] (now one word) added bass and drums within in [YEAR] and took to playing the bars in and around the vibrant musical community of Burlington, Vermont.  After only a couple years of developing their signature sound in and around the Vermont music scene, the band began touring the club and college circuit around the Northeast, quickly gaining momentum and popularity with each tour.  Regional tours paved the way for national tours, with the band logging over 100 shows per year.  In [YEAR], [BAND_NAME] signed with Mammoth Records, only to have the record deal collapse when Disney purchased Mammoth in [YEAR].  \"A Great Long While\", which was to be the band's major-label debut and was produced by Nile Rodgers, was released independently in [YEAR].\n",
+      "In [MONTH] [YEAR], following the band's annual Garden of Eden Festival in New Haven, Vermont, founding member and primary songwriter Genauer left the band to pursue a graduate degree at Cornell University, as well as other personal reasons.  He had grown weary of [BAND_NAME]'s hectic touring schedule and was discontent with the end of the band's record deal and the direction of the band. In [YEAR], Genauer formed Assembly of Dust, which continues to tour today.\n"
+   ]
 }

@@ -30,5 +30,10 @@
       "Website": [
          "www.sfupb.com"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] is a [GENRE] band affiliated with Simon Fraser University in Burnaby, British Columbia, Canada. It is led by pipe major [PERSON_NAME_FULL_0_MALE] and leading drummer J. Reid Maxwell.\n",
+      "The [BAND_NAME] was originally formed by a group of students at Simon Fraser University in [YEAR].\n",
+      "Brothers Terry and Jack Lee joined the Simon Fraser University band in [YEAR] after being approached by then-president of the University George Pedersen through Scottish soccer coach [PERSON_NAME_FULL_0_MALE], who wanted to have a [GENRE] band than the one that would form as necessary for events. The next year, the band won the North American Championships, and in [YEAR] came 10th at the World Championships. In [YEAR], the band came second at the Worlds.\n"
+   ]
 }

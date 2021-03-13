@@ -44,5 +44,10 @@
          "Elvis Kuehn",
          "Max Kuehn"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME], stylized as FIDLAR, is an [GENRE] band from Los Angeles.\n",
+      "Founding members Zac Carper and [PERSON_NAME_FULL_0_MALE] met while working at a [GENRE] an engineer and [PERSON_NAME_LAST_0] was an intern. The two started recording songs when the studio was empty and posting the finished products online. Three years after recording their first songs, they stepped on stage together with The Black Lips and went on tour with The Hives.\n",
+      "In [YEAR], they released their debut EP, DIYDUI, produced by Lewis Pesacov. In [YEAR], FIDLAR were named one of Stereogum's 40 Best New Bands of [YEAR]. In [MONTH] [YEAR], the band made their television debut on Last Call with [PERSON_NAME_FULL_0_MALE], where they performed \"Whore\" and \"No Waves\" from their then-upcoming album FIDLAR.\n"
+   ]
 }

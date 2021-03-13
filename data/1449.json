@@ -31,5 +31,10 @@
       "Associated acts": [
          "Vital Signs"
       ]
-   }
+   },
+   "prunedData": [
+      "Rizwan–ul–Haq is a [GENRE] band, Vital Signs.\n",
+      "Rizwan–ul–Haq grew up in Karachi and later Rawalpindi, Pakistan, and achieved his early education from Convent of Jesus and [MONTH]y, Karachi and higher education from St. [MONTH]y’s Academy, Rawalpindi. Before embarking on his career in music, he did his BSC degree in business management from University of Essex, England.\n",
+      "He cites Carlos Santana, [PERSON_NAME_FULL_0_FEMALE], ABBA and Nazia and Zoheb as his major influences during the youth.\n"
+   ]
 }

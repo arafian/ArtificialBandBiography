@@ -64,5 +64,10 @@
          "Drew Glackin",
          "Jeff Muendel"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed by Walter Salas-Humara and Bob Rupe in New York City, United States in [YEAR].\n",
+      "Prior to starting the Silos, Salas-Humara had been a [GENRE] bands, The Roll N Pinz, The Cichlids, Crank and The Bobs. [BAND_NAME] put out the independently released album About Her Steps in [YEAR], which received a warm critical reception.  The band's [YEAR] follow-up album, Cuba, also independently released, received even more recognition.  [BAND_NAME] were named Best New Artist in the Rolling Stone magazine critics' poll. Cuba continues to be cited as highly influential among alternative country artists. The band subsequently signed to RCA Records and released their self-titled third album, produced by Salas-Humara and Rupe along with Peter Moore. Commonly referred to as \"the bird album\" or \"The One With The Bird On The Cover,\" [BAND_NAME] led to the band's network TV debut appearance on Late Night with [PERSON_NAME_FULL_0_MALE].\n",
+      "Salas-Humara quit the band following the release of [BAND_NAME], and purchased the rights to [BAND_NAME] name from Rupe in [YEAR], thus dissolving the partnership.  Subsequent albums included Hasta La [PERSON_NAME_LAST_0]ia ([YEAR]), Susan Across The Ocean ([YEAR]), Heater and its remix companion Cooler (both [YEAR]).  After Heater was recorded, Salas-Humara turned the band into a three piece with [PERSON_NAME_FULL_1_MALE] on bass and lap steel guitar and Konrad Meissner on drum and backing vocals. The subsequent records were Laser Beam Next Door ([YEAR]), When The Telephone Rings ([YEAR]), and the live This Highway Is A Circle followed. Bloodshot Records released the Silos' [YEAR] offering, Come On Like The Fast Lane. In [YEAR], [PERSON_NAME_LAST_1] died. Salas-Humara and Meissner continue to perform with other players. In [YEAR], the band released Florizona with Rod Hohl playing bass, Bruce [MONTH]tin on keyboards and [PERSON_NAME_FULL_0_MALE] on guitar.\n"
+   ]
 }

@@ -38,5 +38,10 @@
          "John Legrand",
          "Philip van Boom"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band, founded in [YEAR] in The Hague as The [BAND_NAME]s (the definite article was dropped in [YEAR], while the \"s\" was dropped in [YEAR]). They achieved worldwide fame with their international hit songs  \"Radar Love\" in [YEAR], which went to number one on the Dutch charts, reached the top ten in the United Kingdom, and went to number thirteen on the United States charts, \"Twilight Zone\" in [YEAR], and \"When the Lady Smiles\" in [YEAR]. During their career they have had nearly 30 top-ten singles on the Dutch charts while releasing 25 studio albums.\n",
+      "The band's lineup consisted of co-founders [PERSON_NAME_FULL_1_MALE] (bass and keyboards) and George Kooymans (vocals and guitar), along with [PERSON_NAME_FULL_0_MALE] (vocals, guitar, flute and saxophone), and [PERSON_NAME_FULL_2_MALE] (drums and percussion). All musicians in the last lineup of the band have been continuous members of the band since [YEAR], although other musicians have joined and left the band during the intervening years.\n",
+      "The band announced on 5 [MONTH] [YEAR] that it would stop playing after founding band member George Kooymans was diagnosed with ALS.\n"
+   ]
 }

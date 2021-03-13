@@ -36,5 +36,10 @@
          "Peter Carruthers",
          "Nathan Shaw (Now known as Ekali)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [MONTH]o Award-winning Vancouver based indie rock band started by Ben Worcester and [PERSON_NAME_FULL_0_MALE] in [YEAR].\n",
+      "Their debut EP Taking Abalonia was released in [YEAR]. It was re-released with seven new songs on [MONTH] 3, [YEAR], in Canada as a [GENRE]",
+      "On [MONTH] 1, [YEAR], [BAND_NAME] released the EP The Magician to drum up anticipation for the release of their second full-length album Islands Disappear on [MONTH] 13, [YEAR].\n"
+   ]
 }

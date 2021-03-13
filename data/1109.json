@@ -24,5 +24,10 @@
       "Members": [
          "Bobby Ferry, Cris Jerue, Alex Shuster, Dion Thurman, and Barney Firks  [1]"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Los Angeles, California. The band is currently signed to Relapse Records. -([BAND_NAME])- has been cited, along with fellow pioneering acts such as Eyehategod, Crowbar and Acid Bath, as one of the subgenre's seminal outfits. In [MONTH] [YEAR], the band released their eighth full-length album, Dream Squasher.\n",
+      "[BAND_NAME] was formed in Santa Ana, California by Bobby Ferry (guitar), [PERSON_NAME_FULL_1_MALE] (vocals), and Jason Corley (drums) in [YEAR].According to Ferry, he and [PERSON_NAME_LAST_1] bonded as part of the Southern California skate scene. Ferry has stated band was originally called 15, but changed their name when they were made aware of a [GENRE] band's early influences, including 7 Seconds, Bad Brains, and Metallica, as well as the \"wave of  bands, Helmet, [PERSON_NAME_FULL_0_MALE], Unsane and Tar.\" The band's first full-length album, Curves That Kick, was released in [YEAR] on Bacteria Sour, an independent label owned by renowned artist, Pushead. Following the album's release, -([BAND_NAME])- toured Japan in [YEAR].\n",
+      "The band's next record, Drop Out, was released by Pessimiser/Theologian records in [YEAR] (after being shelved for nearly two years).  In spite of Drop Out's critical acclaim, -([BAND_NAME])- did not tour heavily, opting instead to focus on performing locally. [PERSON_NAME_FULL_1_MALE] was ejected from the band at the end of [YEAR], and replaced by [PERSON_NAME_FULL_2_MALE].  [PERSON_NAME_FULL_0_MALE] was also added as a [GENRE] band released Blaze of Incompetence in [YEAR] (again on Pessimiser/Theologian), and did a US tour with Grief in [YEAR].  [PERSON_NAME_FULL_2_MALE] was fired shortly after the tour.  R.D. Davies replaced [PERSON_NAME_FIRST_2], and then he was replaced by [MONTH]k Sanger 6 months later.\n"
+   ]
 }

@@ -28,5 +28,10 @@
          "Chuck Fleming",
          "Colin Finn"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] was an [GENRE] band primarily active from [YEAR] to [YEAR] and then again briefly from [YEAR] to [YEAR]. The band released five full-length albums, and numerous singles and special releases, many of which are still sought after by collectors from around the world.\n",
+      "The [BAND_NAME] formed in [YEAR] and derived its name from the first letter of the first name of each of its three founding members: Jim Divers, [PERS[PERSON_NAME_LAST_0]N_NAME_FULL_0_MALE]’Rourke, and Des Coffield. Chuck Fleming and [PERSON_NAME_FULL_1_MALE] also joined the group rounding out the five-member lineup. Additionally, fiddle player Lindsay Scott temporarily filled in for Chuck Fleming in [YEAR].\n",
+      "Initially, the band played the folk-club circuit with other artists such as Billy Connolly and [PERSON_NAME_FULL_2_MALE] of the Humblebums and [PERSON_NAME_FULL_3_FEMALE]. After getting noticed for their lively electric-rock approach to traditional Scottish folk music when they won the Scottish Folk Group Championships at Edinburgh's Usher Hall, they made appearances on BBC Radio 1 with DJ [PERSON_NAME_FULL_1_MALE] and on BBC Two's Old Grey Whistle Test hosted by \"Whispering\" Bob Harris. In [YEAR], they were invited to be the support band for [PERSON_NAME_FULL_0_MALE] during his UK leg of the Ziggy Stardust Tour.\n"
+   ]
 }

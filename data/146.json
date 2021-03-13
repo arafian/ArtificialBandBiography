@@ -24,5 +24,10 @@
          "Art Tedeschi ",
          "Mike Dirnt"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band with Jason Chandler (lead vocals), [PERSON_NAME_FULL_1_MALE] (guitar, vocals), Art Tedeschi (drums), and [PERSON_NAME_FULL_0_MALE] (bass, vocals). All are members of other bands, [PERSON_NAME_FULL_1_MALE] from Waterdog, Jason Chandler and Art Tedeschi from Violent Anal Death, and [PERSON_NAME_FULL_0_MALE] from Green Day.\n",
+      "They have had two releases with Adeline Records, the EP Bored in the USA and their debut LP Achtung Jackass. [BAND_NAME] released a new EP, entitled Griller, on [MONTH] 15, [YEAR].\n",
+      "On 11 [MONTH] [YEAR], [BAND_NAME] released Achtung Jackass, on the Adeline Records label. \"Bonus Track\" is recorded backwards.\n"
+   ]
 }

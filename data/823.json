@@ -37,5 +37,10 @@
          "Nick Pollock",
          "Owen Wright"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Seattle, Washington, formed in [YEAR]. Its members were Nick Pollock (lead vocals, guitar), [PERSON_NAME_FULL_1_MALE] (guitar), [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_2] (bass guitar), and [PERSON_NAME_FULL_0_MALE] (drums).\n",
+      "This band recorded and released two albums, Diva and Wallflower, before they broke up in [YEAR]. They reunited in [YEAR] to headline the Layne Staley Tribute and Benefit Concert that year as Pollock had previously played guitar in an [GENRE] band Alice N' Chains that also included Staley.\n",
+      "Before the formation of [BAND_NAME], guitarist Owen Wright and drummer [PERSON_NAME_FULL_0_MALE] were involved in a band called Mistrust in [YEAR]; this band also included former Culprit singer Jeff L'Heureux. They recorded one album called Spin the World, which was released on CD in [YEAR] by Heart of Steel Records. This band did an extensive amount of touring before they broke up in [YEAR].\n"
+   ]
 }

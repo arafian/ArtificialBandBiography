@@ -18,5 +18,10 @@
       "Labels": [
          "Tooth & Nail"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from Detroit, Michigan who released two EPs and two studio albums.\n",
+      "The band is the brainchild of founding members [PERSON_NAME_FULL_1_MALE] (guitar) and Adam McMillion (drums) back in [YEAR]. McMillion, who had recently graduated from Churchill High School in Michigan, met together in college and started playing together. The band was soon rounded out by the addition of [PERSON_NAME_FULL_2_MALE] (vocals), Jim Czech (guitar), and [PERSON_NAME_FULL_0_FEMALE] (bass).\n",
+      "In [YEAR], their debut EP Ghosts was released. They were signed to Tooth & Nail Records and released their new debut album A Fire So Big the Heavens Can See It on [MONTH] 1, [YEAR]. A Fire So Big the Heavens Can See It charted at No. 46 on the Billboard Top Christian Albums chart.\n"
+   ]
 }

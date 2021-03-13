@@ -30,5 +30,10 @@
          "Pete Moore",
          "Jeff Wilmott"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were an [GENRE] band, comprising David Steiner (vocals, keyboards), [PERSON_NAME_FULL_0_MALE] (guitar), Pete Moore (bass), and [PERSON_NAME_FULL_1_MALE] (drums), formed in London in [YEAR] and signed to the 4AD label. The band split in [YEAR] after releasing only one single and two EPs (the final one being released posthumously).\n",
+      "The seeds of the band were sown when youthful drummer [PERSON_NAME_FULL_0_MALE] introduced aspiring bass guitar player Pete Moore to singer [PERSON_NAME_FULL_1_MALE]; through this nucleus the addition of guitarist Andrew Gray became possible. After an incendiary performance at 'Billy's' in Soho, London opening for Bauhaus, [BAND_NAME] were signed by that band's record label, 4AD.\n",
+      "[BAND_NAME] released a 7\" single, \"Die Laughing\"/\"Final Achievement\" in [YEAR], followed six months later by the four-track EP IV Songs. Various gigs materialised throughout England, culminating at the end of [YEAR] in a [PERSON_NAME_FULL_0_MALE] session. This resulted in the release of the session on 12\" as the EP Fin; the recording being the final vinyl document of the band before its non-acrimonious split in [YEAR].\n"
+   ]
 }

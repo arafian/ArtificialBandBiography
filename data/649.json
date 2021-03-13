@@ -33,5 +33,10 @@
          "Betsy Wright",
          "Laura Harris"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR]. The band consists of [MONTH]y Timony, Betsy Wright and [PERSON_NAME_FULL_0_FEMALE]. [BAND_NAME] recorded its first single, \"Hot and Cold\" in Timony's basement, then went on to record Rips, with Mitch Easter and [PERSON_NAME_FULL_1_MALE]. on [MONTH] 7, [YEAR], the record debuted on Merge Records. They toured extensively, playing with Speedy Ortiz, King Tuff, Rocket from the Crypt, and The Jacuzzi Boys, among others. [BAND_NAME] performed at Coachella in the summer of [YEAR].  The band takes its name from Timony's [YEAR] solo album [BAND_NAME].\n",
+      "On [MONTH] 9, [YEAR], the band announced their second album, It's Real, released on [MONTH] 22, [YEAR] on Merge Records.\n",
+      "Albums\n"
+   ]
 }

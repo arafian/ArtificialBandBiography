@@ -35,5 +35,10 @@
          " Tomoko Konno",
          "Kyōko Tomita"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (プリンセス・プリンセス, Purinsesu Purinsesu, commonly referred to as Puri-Puri) was a [GENRE] band active from [YEAR] to [YEAR]. They previously released music under the names \"[MONTH]ian Mama\" (ジュリアン・ママ, Jurian Mama) and \"Akasaka Komachi\" (赤坂小町).\n",
+      "After being assembled via open audition of [YEAR] hopefuls as the female music group Akasaka Komachi by TDK Records in [YEAR], the band was housed with their manager in the Tokyo suburb of Nishi-Nippori for over two years to develop their musical skills and experience. In [MONTH] [YEAR], the band made the first of several appearances on Japanese television. In [YEAR] the band transferred from TDK Records to another management company, changed their name to [MONTH]ian Mama, but did not release any singles or albums.\n",
+      "In [MONTH] [YEAR], the band made their recording debut with the EP Kiss de Crime, released by CBS Sony. In [MONTH] [YEAR], the band transferred their management to Shinko Music Entertainment. In [MONTH] of that year the CEO of Shinko had declined to represent the band, but the company employee [PERSON_NAME_FULL_0_FEMALE], who had seen the girls' live show and believed in their success, eventually persuaded the company to take them on. The band made seven concert appearances in [YEAR], playing in very small venues around Tokyo.\n"
+   ]
 }

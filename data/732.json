@@ -21,5 +21,10 @@
          " Astrid Elbek ",
          " Ulla Tvede Eriksen"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (in its last year of existence Shit & Chalou) was a [GENRE] band in pop rock and folk rock established in [YEAR]. The Aarhus-based band was made up of Anne Linnet, [PERSON_NAME_FULL_0_FEMALE], Lis Sørensen, [PERSON_NAME_FULL_1_FEMALE] and [PERSON_NAME_FULL_2_FEMALE].\n",
+      "In the early [YEAR]s, Anne Linnet used to be in the band Tears along with her husband [PERSON_NAME_FULL_0_MALE]. [PERSON_NAME_FIRST_0] had the idea of a [GENRE] band and suggested two recruits from Århus Friskole (Århus Free School), namely [PERSON_NAME_FULL_2_FEMALE] and [PERSON_NAME_FULL_1_FEMALE] to join Anne to form a band. Soon Lis Sørensen also joined in. They practiced at [PERSON_NAME_FIRST_1]'s parents house near Brabrand Lake in Aarhus.\n",
+      "In [YEAR] there they took part in women-only Kvindefestival i Fælledparken in Copenhagen. After black American activist Angela Davis spoke, [BAND_NAME] came on stage with an [GENRE] band by liberation movement organizers who had specified that this was an all-women event.\n"
+   ]
 }

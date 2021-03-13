@@ -45,5 +45,10 @@
          "Don Snell",
          "Frank Baker"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band formed in Vancouver in [YEAR]. The band's original lead vocalist Nick Gilder left the band to start a solo career, and was replaced by a 16-year-old [PERSON_NAME_FULL_0_MALE], who later enjoyed international success as a solo artist.\n",
+      "The band, formed in Vancouver, British Columbia, originally consisted of vocalist Nick Gilder, guitarist [PERSON_NAME_FULL_0_MALE], bassist Budd [MONTH]r, keyboardist [PERSON_NAME_FULL_2_MALE] and drummer John Booth. The single \"[PERSON_NAME_FULL_1_FEMALE]\" became a No. 1 hit in Canada, holding the top position in the RPM national singles chart for three weeks beginning on [MONTH] 26, [YEAR], and winning a [MONTH]o Award for the band.\n",
+      "Gilder and McCulloch subsequently left the band to pursue solo careers. Gilder had hits with \"Hot Child in the City\", \"Here Comes the Night\" and \"(You Really) Rock Me\".\n"
+   ]
 }

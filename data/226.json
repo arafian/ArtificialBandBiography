@@ -34,5 +34,10 @@
       "Past members": [
          "Rushad Eggleston"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band consisting of vocalist [PERSON_NAME_FULL_1_FEMALE], banjo player Gregory Liszt, bassist [PERSON_NAME_FULL_2_MALE][MONTH]io, cellist Tristan Clarridge and fiddler [PERSON_NAME_FULL_0_FEMALE]. They are known for their high energy, technical skill, unusual instrumentation, and innovative acoustic style.\n",
+      "The string band's style has been described as progressive bluegrass, folk-country, and Americana. O'Donovan states that the band is playing its \"own sort of continuation\" on the bluegrass tradition that began in the U.S. with Bill Monroe and Jimmy [MONTH]tin.\n",
+      "O'Donovan and Di[MONTH]io met at the New England Conservatory of Music in Boston, Massachusetts in the spring of [YEAR]. Former member Rushad Eggleston, who was studying cello at Berklee College of Music, and Liszt, a [GENRE] a band that became [BAND_NAME]. While its members finished school, the group played various Boston venues, growing in popularity and collecting favorable reviews from the local press.\n"
+   ]
 }

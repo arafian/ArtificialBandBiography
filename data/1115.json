@@ -39,5 +39,10 @@
          "Ian Jekelis",
          "Scott Fuller"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Los Angeles, California, United States.\n",
+      "[BAND_NAME] was formed by Charles Elliott (guitars/vocals), [PERSON_NAME_FULL_0_FEMALE] (guitars), and Terry Barajas (drums) who circulated a three-song demo in winter [YEAR]. The demo garnered some attention for the band within the underground metal press circuit as well as helped them score gigs alongside Exodus, 3 Inches of Blood, Hate Eternal, Into Eternity and Aborted.\n",
+      "In [MONTH] ‘05, the band began work on what would become their first proper full-length From Ashes with engineer John Haddad (Intronaut, Eyes of Fire, Phobia). The resulting nine songs paid special attention to not only brutality, but song craft as well and earned the band a [GENRE] a debut album. On the strength of From Ashes, they earned their first U.S. tour, a five-week juggernaut alongside Six Feet Under and [MONTH]apitated and played as support throughout their home state with the likes of Suffocation, Emperor, Immortal, Goatwhore and [MONTH]repit Birth.\n"
+   ]
 }

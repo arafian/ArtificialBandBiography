@@ -29,5 +29,10 @@
       "Past members": [
          "Stephen Robinson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were an [GENRE] band from Bristol, Tennessee, United States, featuring heavy guitar tones and emotional, ethereal melodies led by husband and wife team of Dave and Mia Richards. Mia took on bassist duties after the Mouth Full of Nails album, due to the difficulty of keeping a regular bass player.\n",
+      "According to their website, the band describes their music as \"Heavy-Melodic-Happy-Gothic-Chick-Rock\" or \"female-fronted rock.\" [BAND_NAME]'s sound has a [GENRE] a cross between several different artists. However, they excel with a style all their own by balancing heavy guitar tones and ethereal melodic melodies with radio-friendly song writing and catchy hooks. The band's name was partly taken from an album titled [BAND_NAME] Goes to Nebraska by King's X.\n",
+      "[BAND_NAME] has shared the stage with Crossbreed, Everclear, Copper, Flyleaf, The Showdown, Thousand Foot Krutch, Disciple, Pillar, and Stryper.\n"
+   ]
 }

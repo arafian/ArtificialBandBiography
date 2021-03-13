@@ -27,5 +27,10 @@
          "Jason Stare",
          "Scott Barber"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band from Los Angeles formed in [YEAR].\n",
+      "Working as solo artists in Boston, the two members of the band, John Dragonetti and [PERSON_NAME_FULL_0_MALE], were introduced through a mutual friend, [PERSON_NAME_FULL_1_MALE]. Dragonetti and [PERSON_NAME_LAST_0] formed a romantic and musical partnership, then took their show to Europe. The relationship lasted for four years, but ended in the fall of [YEAR] when the pair moved to L.A. After the break-up, both [PERSON_NAME_LAST_0] and Dragonetti continued writing songs, and because [PERSON_NAME_LAST_0] still recorded her music in Dragonetti's home studio, the pair quickly discovered the songs they had written were about each other and their sadness in having broken up. They decided to work on a few songs together and eventually got back together, and married. The new songs were mastered for the couple as a wedding present, and those tracks eventually became their first album. [PERSON_NAME_LAST_0] has said of the relationship, \"It’s hard, definitely hard. Luckily we are like-minded aesthetically and musically.\" [MONTH]lare a New State!, [BAND_NAME]' first album was released in [YEAR] on the Nettwerk label.\n",
+      "Blake Hazard is from Burlington, Vermont. Her full given name is Eleanor Blake Hazard, although she prefers her middle name and uses it as her first. She attended the Putney School in southern Vermont, southeast of her hometown. She is also a graduate of Harvard University and is the great-granddaughter of American writer F. [PERSON_NAME_FULL_0_MALE].\n"
+   ]
 }

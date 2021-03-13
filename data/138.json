@@ -5,5 +5,10 @@
       "The Dandelion War combines elements of post-rock and atmospheric indie music. The band's sound relies a stark contrasts between quiet minimalism and colossal crescendos. AbsolutePunk described the band as \"sounding like what would happen if someone melted Explosions In The Sky, Radiohead and The Antlers’ Hospice together.\"  The Dandelion War has also been compared to Sigur Ros and My Morning Jacket.\n",
       "The band reached critical acclaim with the release of We Were Always Loyal to Lost Causes in 2012. The album was listed as one of the year's top release by The Alternative Tone (#13), Team Reasonable (#10), and PopBlerd (#10).\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Oakland, California. Formed in [YEAR], the band is currently signed to Deep Elm Records. The band's debut album Geometries and Orchids was released independently in [YEAR]. A follow-up, We Were Always Loyal to Lost Causes, was released by Deep Elm in [YEAR]. Deep Elm also re-released Geometries and Orchids in [YEAR]. The band's third album, Opposite Shores, was released on [MONTH] 18, [YEAR].\n",
+      "[BAND_NAME] combines elements of post-rock and atmospheric indie music. The band's sound relies a [GENRE] band as \"sounding like what would happen if someone melted Explosions In The Sky, Radiohead and The Antlers’ Hospice together.\"  [BAND_NAME] has also been compared to Sigur Ros and My Morning Jacket.\n",
+      "The band reached critical acclaim with the release of We Were Always Loyal to Lost Causes in [YEAR]. The album was listed as one of the year's top release by The Alternative Tone (#13), Team Reasonable (#10), and PopBlerd (#10).\n"
+   ]
 }

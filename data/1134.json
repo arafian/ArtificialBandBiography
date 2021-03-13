@@ -38,5 +38,10 @@
          "Jeff Stevenson",
          "Nikki Stringfield"
       ]
-   }
+   },
+   "prunedData": [
+      " [BAND_NAME] (also initialized as B4TM) was an [GENRE] band from Los Angeles, California.  The band has released two EPs entitled Remembrance as well as Damned and Forsaken, and published full-length album Etherial End on 21 [MONTH] [YEAR].  On 24 [MONTH] [YEAR], the ensemble announced that they have permanently split up.\n",
+      "In [MONTH] [YEAR], [PERSON_NAME_FULL_0_MALE], the former percussionist for bands Instinct of Aggression and Against All Will approached [PERSON_NAME_FULL_1_MALE] of The Kill Corps about performing music.  Because the sessions proved to be successful, Adam Ryan, who also performed with The Kill Corps, was brought in to sing, after which time their first track \"Dismember\" was recorded.  Weeks later, the band met guitarist [PERSON_NAME_FULL_2_FEMALE], at which time [BAND_NAME] began.  In [MONTH] [YEAR], their first EP, named  Remembrance, was released free of charge via Facebook.\n",
+      "The song \"Dead to You\" is described by Young as being \"breakup music for tough guys\", focusing on \"a relationship that can't work no matter how hard you try\".  The lyric video for this song was released on 6 [MONTH] [YEAR].  \"[BAND_NAME]\", the title track from the album, talks about \"focus on the good times\" had with someone that people have lost, \"the double entendre within the band name\".  The music video for this song was released on 17 [MONTH] [YEAR].\n"
+   ]
 }

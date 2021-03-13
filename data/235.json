@@ -19,5 +19,10 @@
          "Lester Flatt (deceased)",
          "Earl Scruggs (deceased)"
       ]
-   }
+   },
+   "prunedData": [
+      "Flatt & [PERSON_NAME_LAST_0] and the [BAND_NAME] was an [GENRE] band. The band was founded by guitarist Lester Flatt and banjo player [PERSON_NAME_FULL_0_MALE] and is viewed by music historians as one of the premier bluegrass groups in the history of the genre. The band was originally formed in [YEAR] by Flatt, who had been a member of Bill Monroe's bluegrass band. Flatt brought [PERSON_NAME_LAST_0] with him shortly after leaving Monroe.\n",
+      "Flatt and Scruggs and The [BAND_NAME] (in various forms and line-ups) recorded and performed together until [YEAR]. The [BAND_NAME] are seen as one of the landmark bands in bluegrass music. Although it featured various casts, during the years of The Lester Flatt and Earl Scruggs Grand Ole Opry Show, notably sponsored by grain and flour producer [MONTH]tha White, the band showcased fiddle player [PERSON_NAME_FULL_0_MALE], a [GENRE] an innovator of the advanced playing style of the instrument now used in the genre, stand-up bass player Cousin Jake Tullock, and mandolinist Curly Seckler.\n",
+      "Lester Flatt worked for [PERSON_NAME_LAST_1] at the time Earl Scruggs was considered for [PERSON_NAME_FULL_1_MALE]'s band, the Blue Grass Boys, in [YEAR]. The two left that band early in [YEAR], and within a few months had formed the [BAND_NAME].  Flatt's rhythm guitar style and vocals and Scruggs' banjo style gave them a distinctive sound that won them many fans. In [YEAR], they became members of the Grand Ole Opry.  Many of the songs on their albums are credited to \"Certain and [PERSON_NAME_LAST_0]\". These  songs were in fact written by Flatt, Scruggs, and various other members of the [BAND_NAME]. Certain and [PERSON_NAME_LAST_0] are the maiden names of the wives of Flatt and Scruggs (Louise Certain, wife of Earl Scruggs, and [PERSON_NAME_FULL_0_FEMALE], wife of Lester Flatt).\n"
+   ]
 }

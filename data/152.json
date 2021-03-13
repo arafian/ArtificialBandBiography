@@ -36,5 +36,10 @@
          "Tim Smith",
          "Eric Dover"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in San Francisco in [YEAR]. Led by songwriters [PERSON_NAME_FULL_0_MALE] (drums, vocals) and Roger Manning (keyboards, vocals), the group was known for their blend of [YEAR]s classic rock and XTC-style power pop. They released two albums, Bellybutton ([YEAR]) and Spilt Milk ([YEAR]), that proved highly influential to artists in a similar vein.\n",
+      "Sturmer and Manning met in high school and shared an [GENRE] a stint as members of Beatnik Beatch, they quit the group to continue songwriting with one another and formed [BAND_NAME]. They were initially supported by [PERSON_NAME_FULL_0_MALE] (guitar) and Roger's brother Chris (bass). After the tour for Bellybutton, those musicians were replaced by Tim Smith (bass) and [PERSON_NAME_FULL_1_MALE] (guitar). The group viewed Spilt Milk as their \"masterpiece\" and the fulfillment of their original grandiose vision for the band, emphasizing bombasticity, vocal harmonies, orchestration, and studio experimentation.\n",
+      "[BAND_NAME] broke up in [YEAR] due to poor record sales, Sturmer's discomfort with his role as frontman, and artistic conflicts between the two songwriters. Manning subsequently formed Imperial Drag, with Dover, and pursued careers as a [GENRE] a low public profile. In [YEAR], Manning, Dover, and Smith reformed as the Lickerish Quartet.\n"
+   ]
 }

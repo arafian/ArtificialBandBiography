@@ -24,5 +24,10 @@
          "Danny Zwillenberg",
          "Hayyim Danzig"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from New York City. Formed in [YEAR] by lead singer [PERSON_NAME_FULL_0_MALE], the band's debut album, My Awakening ([YEAR]), sold more than 14,000 copies, an uncommon feat in the limited Jewish market, and became a runaway hit. Since then, the band has released two more albums, 70 Faces ([YEAR]) and The Whole World Lit Up ([YEAR]), and has performed throughout the United States, Canada, Australia, the United Kingdom, Africa, and Israel.  They were credited, along with Moshav and Soulfarm, with advancing Jewish rock in the early [YEAR]s.\n",
+      "[BAND_NAME] was formed in late [YEAR], after Yeshiva University music and psychology student [PERSON_NAME_FULL_0_MALE], having been invited to perform at a [GENRE] a backup band. Subsequently becoming a full-time band, the group spent the following years touring, performing at venues as diverse as Stern College, B. B. King's Blues Club in Times Square, and the Great Synagogue in Jerusalem. In [MONTH] [YEAR], the band released its debut album My Awakening. The album was commercially successful in the Jewish music market and introduced what would become the band's most famous song, \"Flippin' Out\".\n",
+      "A second album, 70 Faces, was released on [MONTH] 5, [YEAR], followed by a third album, The Whole World Lit Up in [MONTH] [YEAR]. They performed at Camp Moshava in Indian Orchard, Pennsylvania, an event later recalled by The Current editor emeritus David Fine. In [MONTH] [YEAR], the band gave a concert at Columbus Torah Academy during their Lag BaOmer event as a fundraiser for the [YEAR] [MONTH] of the Living.\n"
+   ]
 }

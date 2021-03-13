@@ -37,5 +37,10 @@
          "Tavi Ungerleider",
          "Cecily Parnas"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (BoR) is an [GENRE] band consisting of three cellists and a percussionist.  The group is associated with the terms \"cinematic rock\", \"cello rock\", and \"indie classical\". [BAND_NAME]'s current members are Patrick Laird, [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_1_FEMALE], and Adrian Daurov. The band's sound consists of many musical influences, such as rock, classical, and indie rock.\n",
+      "The group was formed while the original members were freshmen at the Eastman School of Music in Rochester, NY.  At the time of its formation, the band consisted of four cellists.  The band gave their first formal concert in a [GENRE]",
+      "In [YEAR], the band released \"The Sound Between\", a double disc album featuring both electric and acoustic songs. After all graduating from Eastman, the group collectively moved to NYC in [YEAR], where they developed a fan base through busking in Central Park.  The band split a year later, leaving Laird and Trevino as the remaining members.\n"
+   ]
 }

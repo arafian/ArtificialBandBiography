@@ -21,5 +21,10 @@
       "Members": [
          "Allan Aguirre"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed by [PERSON_NAME_FULL_1_MALE] of Scaterd Few, is credited for legitimizing and authenticating the post-punk genre in [PERSON_NAME_FIRST_0] alternative music (ACM) much in the same way that Scaterd Few defined punk rock in Contemporary [PERSON_NAME_FIRST_0] music (CCM). In the words of the Encyclopedia of Contemporary [PERSON_NAME_FULL_0_MALE], [BAND_NAME] is a \"rare example of [PERSON_NAME_FIRST_0] goth music.\" As [PERSON_NAME_FIRST_1]'s solo effort shows [PERSON_NAME_FIRST_1]'s artier (\"mellower, artistic\") side where Scaterd Few showed his edgier side. [PERSON_NAME_LAST_1] likens the band's presence to the restructuring of other [PERSON_NAME_FIRST_0] Alternative bands: Mortal to Fold Zandura or the Crucified to Stavesacre.\n",
+      "[BAND_NAME] was founded in [YEAR] and immediately released a self-titled vinyl EP. Their first album was released the next year, but because of record label issues did not achieve widespread distribution until [YEAR]. Shadows contain a gothic rock musical style that swings between \"light and airy\", \"dark, haunting, moody\", and psychedelic. [BAND_NAME] originally intended to have more of a pop based sound, like \"Sade and Seal meets Peter Murphy,\" of the goth scene Aguirre comments \"gothic is one tenth of what we do.\"\n",
+      "According to one reviewer \"Shadows plays mind games with the listener\" with its music and deep lyrics. Lyrically it hides its deep meanings in a [GENRE]"
+   ]
 }

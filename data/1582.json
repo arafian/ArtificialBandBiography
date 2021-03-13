@@ -33,5 +33,10 @@
          "Gabriel Riaza",
          "Juan-Carlos Sastre"
       ]
-   }
+   },
+   "prunedData": [
+      "Esplendor Geométrico is a [GENRE] band. The band was formed in the early [YEAR]s by [PERSON_NAME_FULL_1_MALE], Gabriel Riaza, and [PERSON_NAME_FULL_0_MALE], who had all been members of El Aviador Dro y sus Obreros Especializados. They took the name \"Geometric Splendor\" from Geometric and Mechanical Splendor and the Numerical Sensibility (Italian: Lo splendore geometrico e meccanico e la sensibilità numerica), a text of the Italian futurist, F.T. [MONTH]inetti.\n",
+      "In [YEAR] the band released their first single, \"Necrosis en la Poya\", in the Tic Tac label, followed by their debut LP, Héroe del Trabajo / El Acero del Partido in [YEAR]. The band was active in the early-eighties international tape scene where they established a [GENRE] a decade.\n",
+      "In [YEAR] the band formed their own label, Esplendor Geométrico Discos, and released their second LP, Comisario de la Luz / Blanco de Fuerza. \n"
+   ]
 }

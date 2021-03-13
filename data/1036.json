@@ -4,5 +4,9 @@
       "Stockholm syndrome is a psychological condition.\n",
       "Stockholm syndrome may refer to:\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "Stockholm syndrome is a [GENRE]",
+      "Stockholm syndrome may refer to:\n"
+   ]
 }

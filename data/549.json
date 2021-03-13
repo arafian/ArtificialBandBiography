@@ -4,5 +4,9 @@
       "The Italian Instabile Orchestra (IIO) is an eighteen piece experimental big band that performs orchestral jazz and avant-garde jazz. Its members include Alberto Mandarini, Bruno Tommaso, Carlo Actis Dato, Daniele Cavallanti, Eugenio Colombo, Giancarlo Schiaffini, Gianluigi Trovesi, Giorgio Gaslini, Giovanni Maier, Guido Mazzon, Mario Schiano, Martin Mayes, Paolo Damiani, Pino Minafra, Sebi Tramontana, Tiziano Tononi, Umberto Petrin, and Vincenzo Mazzone.\n",
       "The orchestra was founded in 1990 to perform at the Festival di Noci. One of the original members, pianist Giorgio Gaslini, later left the orchestra. Some guest musicians that have performed or recorded with them include Cecil Taylor, Willem Breuker and Lester Bowie.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "The [BAND_NAME] (IIO) is an [GENRE] band that performs orchestral jazz and avant-garde jazz. Its members include [PERSON_NAME_FULL_8_MALE], Bruno Tommaso, [PERSON_NAME_FULL_12_MALE], [PERSON_NAME_FULL_0_FEMALE], Eugenio Colombo, [PERSON_NAME_FULL_4_MALE], [PERSON_NAME_FULL_2_MALE], [PERSON_NAME_FULL_10_MALE], [PERSON_NAME_FULL_1_MALE], [PERSON_NAME_FULL_7_MALE], [MONTH]io Schiano, [MONTH]tin [MONTH]es, [PERSON_NAME_FULL_5_MALE], [PERSON_NAME_FULL_6_MALE], Sebi Tramontana, [PERSON_NAME_FULL_3_MALE], [PERSON_NAME_FULL_11_MALE], and [PERSON_NAME_FIRST_9] [PERSON_NAME_LAST_7]e.\n",
+      "The orchestra was founded in [YEAR] to perform at the Festival di Noci. One of the original members, pianist [PERSON_NAME_FULL_1_MALE], later left the orchestra. Some guest musicians that have performed or recorded with them include Cecil Taylor, [PERSON_NAME_FULL_0_MALE] and Lester Bowie.\n"
+   ]
 }

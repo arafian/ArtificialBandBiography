@@ -32,5 +32,10 @@
          "Philip Smith",
          "Joey Holman"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band variously classified as alternative rock, progressive pop, indie, and emo and signed to Lujo Records on [MONTH] 16, [YEAR].\n",
+      "[BAND_NAME] was formed by Brandon Morgan and [PERSON_NAME_FULL_0_MALE] in [YEAR] while attending Middle Tennessee State University. The band's early music had a punk rock influence, although the range and scope of [BAND_NAME]'s sound changed quickly after [MONTH]k Nicks joined the band. With Nicks on drums and lead vocals, [BAND_NAME] became known for playing with their backs to the crowd, lengthy, emotively expressive songs, and introspective lyrics. The band signed to Floodgate Records in [YEAR] and released two full-length albums ([YEAR]'s Wake Up, O Sleeper and [YEAR]'s The Fires of Life). After an extended hiatus (during which  Nicks played drums for The Chariot), [BAND_NAME] released The Balancing Act, a career retrospective that fulfilled their contract with Floodgate. The Balancing Act contained songs from the band's early independent releases plus its Floodgate discography.\n",
+      "In [MONTH] [YEAR], [BAND_NAME] released The Sleeping House on Lujo Records. The album, produced by [PERSON_NAME_FULL_0_MALE] and showing such diverse influences as Shudder to Think and Keane, comprises twelve piano-based songs of a depth, intensity, and relative darkness unseen before in [BAND_NAME]'s work. The artwork-intensive album, complete with an enhanced CD, featured lyrics, explorations of each song, a music video, and in-depth exploration of the meanings contained within the artwork. \n"
+   ]
 }

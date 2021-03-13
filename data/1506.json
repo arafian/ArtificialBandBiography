@@ -46,5 +46,10 @@
          "Laurent Loddewyckx",
          "Michel Silverstein"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] band from Brussels, Belgium, formed in [YEAR] around bassist, vocalist and songwriter [PERSON_NAME_FULL_0_MALE].\n",
+      "The early lineup of the band featured Sordinia, guitarist [MONTH]c Deprez and drummer/keyboard player Christophe Den Tandt; [PERSON_NAME_FULL_1_MALE] and singer [PERSON_NAME_FULL_0_FEMALE] were briefly also members. After local gigs as The Passengers, they changed their name in time for their debut single, \"Spectators of Life\", released by WEA in [YEAR] to test the market for homegrown new wave music.\n",
+      "The band were keen to sign to a [GENRE] a Joy Division gig at the Plan K venue in Brussels. [BAND_NAME], augmented by new drummer [PERSON_NAME_FULL_0_MALE], recorded \"Nightshift\" in Manchester in [MONTH] [YEAR] with producer [MONTH]tin Hannett. The single was representative of their overall sound: dark, controlled modern rock in the mould of Magazine, Comsat Angels and Joy Division/early New Order. It peaked at No. 35 on the UK Indie Chart. In [MONTH] [YEAR], the band recorded a session for John Peel's BBC Radio 1 show, later released in [YEAR] as the Radio Session [YEAR] digital EP.\n"
+   ]
 }

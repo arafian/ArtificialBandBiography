@@ -45,5 +45,10 @@
          " Pitrone",
          " Lady Cat-man[3]"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (German for \"The Apocalyptic Riders\") is a [GENRE] band signed to Nuclear Blast in Europe and The End Records in North America.\n",
+      "The band's original style, featured on their releases up to and including Allegro Barbaro and on a few songs on All You Need Is Love, consists of death/thrash metal blended with melodic compositions. In later albums, the death metal influence declined, resulting in less chaotic composition (often centered around a verse and chorus with a bridge and solo), more constant tempo, longer songs and clean vocals (although not exclusively). This resulted in a more polished and accessible sound. The band uses lyrics in both English and German with a shift from mainly English songs to more German ones on recent albums (Licht is entirely in German).\n",
+      "The release of Have a [GENRE] a turning point for the band. Although they retained the essence of heavy metal, they began experimenting with many other styles of music such as ambient and jazz.\n"
+   ]
 }

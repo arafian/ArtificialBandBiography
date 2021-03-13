@@ -43,5 +43,10 @@
          "Joey D'Kaye",
          "Pat 'Mosignor' Ryan"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band from San Francisco, California, United States. The band was formed in [YEAR] by Johnny Strike (vocals, guitar), [PERSON_NAME_FULL_0_FEMALE] (vocals, guitar), Ron \"The Ripper\" Greco (bass; ex-Flamin' Groovies), and [PERSON_NAME_FIRST_1] Tractor ([PERSON_NAME_FULL_1_MALE]) (drums). Their debut, the self-financed double A-side, \"Hot Wire My Heart\" and \"Baby You're So Repulsive\", appeared at the end of [YEAR], and is the first single released by a U.S. punk act from the West Coast.\n",
+      "The band's sound was characterized by simple rock-and-roll arrangements played at intensely high volumes. Michael Goldberg, critic for New York Rocker magazine, wrote in [YEAR]: \"[BAND_NAME] play loud. So loud that the plate glass window at the opposite end of the club shakes, tables tremble and people hang onto their drinks. Loudness may be [BAND_NAME]'s only musical raison d'etre. This band is a [GENRE] a simple Bo Diddley beat that is only adequate in the context of the rest of the band. Bassist Ron the Ripper coaxes a thick rumble from his amp that reminds one of the thunder of a bulldozer rolling over rugged terrain. And the guitar playing of  Strike and [PERSON_NAME_FULL_0_MALE] make you feel like you've been forcefully held underwater for the full 25 minutes of the set.\"\n",
+      "In Issue #13 of Ugly Things Magazine, critic [PERSON_NAME_FULL_0_MALE] wrote: \"CRIME's music didn't conform to the norm either.  They didn't use the standard-issue highspeed buzzsaw guitar approach.  Instead their noisy attacks were an [GENRE] an intense sonic RUMBLE than anything else.\"\n"
+   ]
 }

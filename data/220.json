@@ -31,5 +31,10 @@
          "Gaven Largent",
          "Justin Moses"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR] and based in Tennessee. The band's albums include Wondrous Love ([YEAR]), [MONTH]bletown ([YEAR]), and Original Traditional ([YEAR]).\n",
+      "After helping found the band Dusty Miller, which was the [YEAR] SPBGMA International Bluegrass Band champion, and being a member ([YEAR]–92) of [PERSON_NAME_FULL_0_FEMALE] & Union Station, Kingsport, Tennessee native [PERSON_NAME_FULL_3_MALE] helped organize [BAND_NAME] with Wayne Taylor in [YEAR]. The group's first project, It's a Long, Long Road, \"spent six months at the top of the Bluegrass Unlimited charts and won IBMA's Album of the Year Award ([YEAR]).\" [PERSON_NAME_FULL_4_MALE], the original banjo player with the group and a multi-instrumentalist, is a native of Newland, North Carolina., Rob Ickes, a Northern California native, moved to Nashville in [YEAR] and joined as a founding member in [YEAR]. Ickes has won numerous awards for his playing, and after a 21-year run with the band he announced his departure on [MONTH] 18, [YEAR]. Ickes was replaced by resonator guitarist and Virginia native, [PERSON_NAME_FULL_1_MALE]. Vocalist, fiddler, and mandolin player Shawn Lane joined the group as a founding member after cutting \"his musical teeth\" in the bands of [PERSON_NAME_FULL_5_MALE] and [PERSON_NAME_FULL_2_MALE]. Lane's songs have also been recorded by [PERSON_NAME_FULL_5_MALE], Ronnie Bowman, Mountain Heart, Blue Ridge, and other groups. Lead singer Wayne Taylor, who plays bass, hails from Southwest Virginia and is also a founding member of the group.\n",
+      "Grammy nominations\n"
+   ]
 }

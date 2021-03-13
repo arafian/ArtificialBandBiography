@@ -43,5 +43,10 @@
          "Dan Iead",
          "Rob Easson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Oakland, California, and headed by [PERSON_NAME_FULL_0_MALE] (a.k.a. [PERSON_NAME_FIRST_0] Rogue) who created the band after losing his job in the dot-com bust. Their first album was Out of the Shadow which was released privately in [YEAR] and re-released in [YEAR]. In the fall of [YEAR] they went on a national tour of the United States. Their most recent album, Cover Me, was released on [MONTH] 17, [YEAR], through Easy Sound Recording Company.\n",
+      "In early [YEAR], Zach Rogue decided to take some time off from his home base of San Francisco and set off with a one-way ticket to New York in [MONTH] with the intention of recording one or two songs with friend [PERSON_NAME_FULL_0_MALE]. He came away with an album's worth of material that would later become [BAND_NAME]'s debut, Out of the Shadow. After returning to the Bay Area with a nearly completed record in hand, Zach decided to leave his former band, the Bay Area-based Desoto Reds, in which he played guitar, and form his own group. At the end of [YEAR], while preparing the album for release, Zach rounded out the band's lineup with the addition of Patrick Spurgeon (drums, keys, samples, vocals) [PERSON_NAME_FULL_1_FEMALE] (bass, vocals), and Gram LeBron (guitar, keys, vocals).\n",
+      "Patrick Spurgeon has played with bands Churches, [PERSON_NAME_FULL_0_MALE], Somehow at Sea, Antenna, Stranded at the Drive In, Ramona the Pest, Brando, [PERSON_NAME_FULL_1_MALE], Lessick, and has also released solo work as The Phantom Drummer.\n"
+   ]
 }

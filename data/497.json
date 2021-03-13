@@ -5,5 +5,10 @@
       "As Patricia Costa, Costagliola recorded two albums, Walk Forward and Give Your Love Away, with Polichetti, Franco and Sciarra as the backing band.\n",
       "Nicky Sciarra became district manager of Community Board 7 in Sunset Park, Brooklyn. He died in 1993 after apparently choking on a sandwich.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed at the Church of Our Lady of Perpetual Help in Brooklyn, New York in the late [YEAR]s. The line-up included [PERSON_NAME_FULL_0_MALE] (bass, vocals); his then-wife [PERSON_NAME_FULL_3_FEMALE] (keyboards, vocals; deceased); Frank Franco (guitar, vocals); and [PERSON_NAME_FULL_5_MALE] (deceased, drums). Anne Lessing (vocals) was also involved in the band from the start. There were others including [PERSON_NAME_FULL_1_MALE] (vocals) and Karen [PERSON_NAME_LAST_1] (acoustic guitar), [PERSON_NAME_FULL_4_MALE] (tambourine, percussion and vocals), Brother John Weiners, CSC (deceased, vocals), and [PERSON_NAME_FULL_2_FEMALE] (vocals). Their sole album, First Fruit, was released in [YEAR], with only 1,000 copies printed. In [YEAR] [BAND_NAME] released an EP on Arena Rock Records which includes selections from the original First Fruit album.  A proposed follow-up, Just Can't Get Enough (Of Jesus!!!), with more new wave and New Romantic elements, never saw official release, but some bootleg tracks have surfaced. [BAND_NAME] disbanded in [YEAR].\n",
+      "As Patricia Costa, Costagliola recorded two albums, Walk Forward and Give Your Love Away, with Polichetti, Franco and Sciarra as the backing band.\n",
+      "Nicky Sciarra became district manager of Community Board 7 in Sunset Park, Brooklyn. He died in [YEAR] after apparently choking on a [GENRE]"
+   ]
 }

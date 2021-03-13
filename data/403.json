@@ -24,5 +24,10 @@
          "Gary Sobel",
          "Corey Lane"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band featuring vocalist [PERSON_NAME_FULL_0_MALE], guitarist Chuck Shea, bassist [PERSON_NAME_FULL_1_MALE], and drummer Corey Lane. Before the band found its way to Wind-Up, it was essentially just [PERSON_NAME_LAST_0], toiling away in Tallahassee's local scene. Eventually, his solo recordings (and Christian beliefs) sparked the interest of the label, and with the addition of his supporting players renamed the project [BAND_NAME]. Believe, the official debut, appeared in [MONTH] [YEAR]. It showcased a familiar and faith-based post-grunge sound similar to Creed or 3 Doors Down.\n",
+      "Rolling Stone named [BAND_NAME] one of \"Five [PERSON_NAME_FIRST_0] Bands on the Rise\" and the band had three consecutive No. 1 Singles off their debut record, Believe on [PERSON_NAME_FULL_0_MALE] radio (Remember, I.O.U., Reality and Just The Same). The band's first No. 1 Single, (Remember, I.O.U.) was named Song of the Year in [PERSON_NAME_FULL_0_MALE] Radio by Radio and Records, having remained at No. 1 on the chart for over (6) weeks. The song was also used in the Chris Benoit tribute edition of Raw. [BAND_NAME] was also named Band of the Year in the [PERSON_NAME_FULL_0_MALE] market by Radio and Records and were also nominated for a Dove award in [YEAR] for [PERSON_NAME_FULL_0_MALE] Album of the Year. Music videos were created for each of their No. 1 Singles as well as for the song \"Rainy Day.\"\n",
+      "The \"Believe\" album for Wind-Up received critical acclaim but failed to sell well. Front man [PERSON_NAME_FULL_0_MALE] eventually announced that the band have split. [PERSON_NAME_FULL_0_MALE] then became a member of Tobacco Rd Band.  In [MONTH] [YEAR] the band announced that they had reformed and a new EP would be available later in the year.\n"
+   ]
 }

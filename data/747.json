@@ -23,5 +23,10 @@
          "Jacqui Ham",
          "Sally Young"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band which originated from New York City's no wave scene, forming in [MONTH] [YEAR]. The inheritors of the fertile collision between rock, free jazz, and the avant-garde that first manifested itself in the Velvet Underground, [BAND_NAME] soon became a serious force within the New York music scene.\n",
+      "[BAND_NAME]'s members were Nina Canal, [PERSON_NAME_FULL_0_FEMALE], and Sally Young. They were joined briefly by filmmaker Karen Achenbach in [YEAR] before resuming as a [GENRE] band and relocating to London in [YEAR]. [BAND_NAME] toured the UK with bands such as the Fall and the Birthday Party. Originally releasing albums on its own label Out Records, the band became a favourite of John Peel and recorded several sessions for his show before joining forces with Blast First in [YEAR].\n",
+      "In Gut's House was originally released in [YEAR] and made NME's Top 50 that year. The Washington Post noted, \"With In Gut's House, [BAND_NAME] has scraped and droned one of the finest underground rock albums of the year.... The tightly woven, firmly focused sound...is rich, spooky, urgent, and quite unexpectedly beautiful.\"\n"
+   ]
 }

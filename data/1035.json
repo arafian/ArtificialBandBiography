@@ -46,5 +46,10 @@
          "Marc Quiñones",
          "Manolo Badrena"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] /ˌspaɪroʊˈdʒaɪrə/ is an [GENRE] band that was formed in Buffalo, New York, in [YEAR]. The band's music combines jazz, R&B, funk, and pop music. The band's name comes from Spirogyra, a genus of green algae which founder Jay Beckenstein had learned about in college.\n",
+      "Saxophonist Jay Beckenstein and keyboardist [PERSON_NAME_FULL_2_MALE] formed a band with jazz and rock musicians who were playing in the Buffalo bar and club circuit. In [YEAR], when a bar owner asked for the band's name, Beckenstein said, \"spirogyra\", a type of algae he had learned about in school. The bar owner wrote the name incorrectly, \"[BAND_NAME]\", but it stuck. The founding members of the band were Beckenstein, [PERSON_NAME_LAST_2], bassist [PERSON_NAME_FULL_1_MALE], drummer [PERSON_NAME_FIRST_3] Walsh, and keyboardist [PERSON_NAME_FULL_3_MALE].  In [YEAR], they released [BAND_NAME] independently before making a deal with Amherst Records, which re-released the album with a different cover. It included \"[PERSON_NAME_FULL_0_MALE],\" which reached No. 90 on Billboard's Hot 100, No. 99 on the pop chart in Canada, and No. 26 on the Canadian AC chart.\n",
+      "Morning Dance reached No. 11 in the UK Albums Chart, No. 27 on the Billboard Top 200 albums chart, and No. 47 in Canada. The song \"Morning Dance\" reached No. 17 in the UK Singles Chart, No. 1 on the US Adult Contemporary singles chart, No. 45 on the Canadian pop charts, and No. 6 on the Canadian AC charts.  The album was certified gold in [YEAR], then platinum in [YEAR] by the RIAA.\n"
+   ]
 }

@@ -5,5 +5,10 @@
       "The LTK stands for \"Loh Tsui Kweh\", an idiosyncratic spelling (in Taiwanese) of the name of the Choshui River in Taiwan, one that evokes nativist sentiments.\n",
       "The two guitar players – Tsai Hai-en (蔡海恩) and Ke Jen-chien (柯仁堅) – share lead vocals.  Both attended National Taiwan University but left school early.  Between the two of them they have driven the band's evolution.  The critic Malaite attributes the group's early grunge influence to Tsai.   In addition to Western influences, both of them are, in their own ways, steeped in local, traditionally working class genres.  There is also a bass player and a drummer.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] (aka LTK, Taiwanese: Lô-chúi-khoe Kong-siā 濁水溪公社) is a [GENRE] band founded in [YEAR].  Their music has been variously described as having elements of punk, rock, nakasi, Taiwanese folk songs.  In recent years band members have self-consciously applied the label \"Taik\" (from Taiwanese + -k ending, as in punk, rock) to their music – a reference to the Taiwanese Taike (Trad.: 台客) subculture.\n",
+      "The LTK stands for \"Loh Tsui Kweh\", an idiosyncratic spelling (in Taiwanese) of the name of the Choshui River in Taiwan, one that evokes nativist sentiments.\n",
+      "The two guitar players – Tsai Hai-en (蔡海恩) and [PERSON_NAME_FULL_0_MALE] (柯仁堅) – share lead vocals.  Both attended National Taiwan University but left school early.  Between the two of them they have driven the band's evolution.  The critic Malaite attributes the group's early grunge influence to Tsai.   In addition to Western influences, both of them are, in their own ways, steeped in local, traditionally working class genres.  There is also a [GENRE] a drummer.\n"
+   ]
 }

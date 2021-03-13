@@ -35,5 +35,10 @@
          "Ted McKenna",
          "Tommy Eyre"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were a [GENRE] band formed in Glasgow in [YEAR]. Fronted by Alex Harvey accompanied by Zal Cleminson on guitar, bassist Chris Glen, keyboard player [PERSON_NAME_FULL_1_MALE] and drummer Ted [PERSON_NAME_LAST_1], their music veered from glam [GENRE]to experimental jazz, around a core of experimental and avant-garde rock, dealing with themes from environmentalism to Chinese take away food. They achieved a critically acclaimed status in the UK, were very popular in continental Europe, and were also highly influential in Australia, most notably on the young [PERSON_NAME_FULL_0_MALE] and his first band The Boys Next Door.\n",
+      "In [MONTH] [YEAR], Alex Harvey formed [BAND_NAME] (often shortened to SAHB) with guitarist Zal Cleminson, bassist Chris Glen, and cousins Hugh and Ted McKenna on keyboards and drums respectively, all previous members of progressive rock act Tear Gas.\n",
+      "They adopted distinctive stage costumes: Alex Harvey started to wear vaudeville-like clothes and his trademark striped shirt, while Zal Cleminson assumed the identity of a [GENRE] a dark blue jumpsuit reminiscent of a superhero costume incorporating a lighter blue codpiece.\n"
+   ]
 }

@@ -31,5 +31,10 @@
          "Chato ",
          " Pasa"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in [YEAR] in Mexico City. [BAND_NAME] creates sonic landscapes with their music without lyrics. They have opened for groups like Yo La Tengo in Mexico and Café Tacuba in the U.S. leg of their [YEAR] tour, and have released three LPs, one EP and appearances in many Mexican independent bands compilations. Like the Residents or Devo, the group usually develops on stage with masks, disguises and uniforms, reason of their motto \"Your face is not important, the truth is inside\".\n",
+      "[BAND_NAME] has shared the stage with many important bands of the Mexican scene, as well as international bands such as Mogwai, Tristeza, the Album Leaf and Incubus, among others. They have played at very important festivals like Vive Latino, Zero Fest, Motorokr Fest, SXSW, Personal Fest in Argentina, Manifest, Festival Cervantino, LAMC in New York, Coachella Valley Music and Arts Festival, and recently at the Rock al Parque Fest in Colombia, and \"Quitofest\" in Ecuador. They have also opened at the Aragon Ballroom in Chicago.\n",
+      "Guest Members\n"
+   ]
 }

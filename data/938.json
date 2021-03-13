@@ -34,5 +34,10 @@
          "Andrew Eklund (Bassist)",
          "Nathan Eklund (Keyboards)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Minnesota.  The group is composed of Al Oikari, [PERSON_NAME_FULL_2_MALE], [PERSON_NAME_FULL_0_MALE], [MONTH]k Joseph Grundhoefer, and [PERSON_NAME_FULL_1_MALE].  The band made a mark on the jam band scene with a reputation for hook-oriented songwriting and as one of the earliest jam bands from the Midwest to achieve some national success.  Relentless touring in the late [YEAR]s and early [YEAR]s built a loyal fan base that call themselves \"family,\" many of whom get together for the band's recurring music festival, the Big Wu Family Reunion.  From [YEAR]-[YEAR], the band annually held the Family Reunion on Memorial Weekend, and they frequently hold a Wu Years Eve event on [MONTH] 31.  The band has not toured extensively since the end of [YEAR], instead playing periodic shows in their home state of Minnesota and other nearby states.\n",
+      "[BAND_NAME] was founded in [YEAR] at St. Olaf College by students [PERSON_NAME_FULL_0_MALE] (guitar), Terry VanDeWalker (vocals), and [PERSON_NAME_FULL_1_MALE] (guitar). Andrew [PERSON_NAME_LAST_2] (bass; now owns Ciceron, Inc.), [PERSON_NAME_FULL_2_MALE] (Keyboards; now with Kubla Khan), [PERSON_NAME_FULL_3_MALE] (drums, now a VP with ExactTarget) made up the rest of the regular lineup.  [MONTH]ie Crumrine (vocals) and [MONTH]ie Niksitch (vocals) made frequent appearances.\n",
+      "The band played their first gig on [MONTH] 14, [YEAR] in the Lion's Pause in the basement of the old Ytterboe Hall at St. Olaf College in Northfield, Minnesota.  Every song played was a cover by the Grateful Dead, Bob Dylan, or the Allman Brothers.  [BAND_NAME] continued to play every three weeks or so in town above the Reub-n-Stein, the most popular local bar at the time.  Big Wu shows quickly became one of the biggest events on campus, and posters littered the cafeteria walls at both Carleton and St. Olaf.\n"
+   ]
 }

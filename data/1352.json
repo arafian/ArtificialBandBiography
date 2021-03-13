@@ -35,5 +35,10 @@
          "Tim Buktu (Tim Schallenberg) (2003–2008)",
          "Sebhead Emm (Sebastian Meyer) (2012–2014)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Berlin that combines heavy metal with comical elements. They proclaim themselves to be \"[GENRE]y's most band in the world\" ([GENRE]: \"Deutschlands meiste Band der Welt\"), as the title \"The best band in the world\" was already taken by Die Ärzte. The name \"[BAND_NAME]\" is a personification of \"knorke\", a dated adjective used in Berlin and the Ruhr basin meaning \"great\" or \"fabulous\" (similar to the English slang word \"swell\"). The band was founded in [YEAR], but only played in the Berlin/Brandenburg area until [YEAR].\n",
+      "[BAND_NAME] gained further fame (and some notoriety) in [YEAR] with their performance of Ick wer zun Schwein (sic; literally, in Berlin dialect, \"I'm turning into a pig\") in the German national qualification for the Eurovision Song Contest. After the qualification show, German tabloid BILD notoriously headlined \"Wer ließ diese Irren ins Fernsehen?\" (\"Who let these lunatics on TV?\").\n",
+      "[BAND_NAME] announced the end of the band in a MySpace bulletin on [MONTH] 14, [YEAR], the last concert was played on [MONTH] 5 that year in Berlin. The official reason given for the band's breakup was that [PERSON_NAME_FULL_0_MALE] wanted to leave Germany to start a new life in Thailand. In autumn [YEAR] a bulletin by Stumpen announced the bands' reunion. A first \"small\" tour followed in [MONTH] [YEAR] as well as some concerts at well-known festivals like Wacken Open Air. The tour was called the \"77 minutes tour\", as the setlist was planned to be exactly 77 minutes long. A digital clock that counted down the minutes was placed on stage to make sure the time limit was not exceeded. Their new album \"Es werde Nicht\" (translates to \"Let there be Not\" or \"Let Not Be\", a pun on \"Es werde Licht\" - \"Let there be Light\") has been released in [MONTH] [YEAR], followed by a big tour with concerts of regular length. \n"
+   ]
 }

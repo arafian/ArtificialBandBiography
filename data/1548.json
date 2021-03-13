@@ -31,5 +31,10 @@
       "Producer(s)": [
          "Tokyo Jihen"
       ]
-   }
+   },
+   "prunedData": [
+      "\"[BAND_NAME]\" is a [GENRE] band Tokyo Jihen, led by musician Ringo Sheena. It was released as the band's fourth single on [MONTH] 11, [YEAR], as one of the two singles before the band's third album Variety ([YEAR]). It was the first and only single released by the band that did not feature writing by vocalist Sheena, instead created by the band's second guitarist, Ukigumo.\n",
+      "Vocalist [PERSON_NAME_FULL_0_MALE] originally debuted as a solo musician in [YEAR], however decided to become a member of a band instead for her main musical activities, and debuted Tokyo Jihen in [YEAR]. After their debut album Kyōiku, two of the original members of the band made decisions to leave, and were replaced by pianist Ichiyo Izawa and guitarist Ukigumo. The new line-up released the single \"Shuraba\", a song used as the theme song for the drama Ōoku: Hana no Ran., and the band's second album, Adult ([YEAR]). Adult, while featuring lyrics entirely written by [PERSON_NAME_LAST_0] and the band collaborating to arrange the songs, also featured \"Himitsu\", which was arranged solely by Izawa, and \"Tegami\", which was composed by Izawa and arranged by [PERSON_NAME_LAST_0].\n",
+      "In late [YEAR] and [YEAR], Sheena briefly resumed solo activities in collaboration with Neko Saito, on Heisei Fūzoku ([YEAR]), a soundtrack album for the Mika Ninagawa film Sakuran. The \"[BAND_NAME]\" single was first announced on [MONTH] 17, [YEAR].\n"
+   ]
 }

@@ -38,5 +38,10 @@
          "Jokin",
          "Txiki"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from the  Basque Country, formed in [YEAR] in Salvatierra/Agurain, a small town in Álava, Spain. Its founders were [PERSON_NAME_FULL_0_MALE] Páramos|[PERSON_NAME_FULL_0_MALE] on vocals, Maleguin on bass, Fernandito on drums and Txarly and Sumé on guitars. The name was somewhat controversial because in Spanish, \"polla\" is vulgarly slang for \"cock, penis\". The lyrics of the band harshly criticized fascism, militarism, capitalism, and catholicism. [BAND_NAME] has been very influential in the Spanish-language punk scene.\n",
+      "[BAND_NAME] was a [GENRE] a symbol of rebellion against everything, to the point of them being called \"anti-everything\". As a result of this they faced several major obstacles throughout their career, primarily threats and repression. The band members even faced jail time during a concert with Eskorbuto, another Spanish punk band. In [YEAR], they announced a comeback and released an album after 16 years off-stage as a band.\n",
+      "On 9 [MONTH] [YEAR], inspired by the British punk movement, [BAND_NAME] did their first gig at the only pub from Salvatierra, with all the town's people at the show, in words of [PERSON_NAME_FULL_0_MALE]: \"to see what the fools of the village made\".\n"
+   ]
 }

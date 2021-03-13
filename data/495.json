@@ -5,5 +5,10 @@
       "Slingshot 57 originated from Lincoln Christian College and gained a following in central Illinois. They received heavy national radio airplay in 2001-02 with their single \"Everyday\". They recorded two full length albums, performed with several major label acts, and had songs played on three consecutive seasons of MTV's The Real World. The band toured nationally with CIY Believe Conferences (also original band) and played festivals, state fairs and teen conventions, from bars to churches, parties to high school auditoriums.\n",
       "In 2003, four of the members left to pursue other ministries. Kirk Bolen went to St. Charles, Missouri, to become a worship minister. Ross Drennan went to Springfield to become a children's minister. Matt Harris is now in Colorado as a campus minister. Gabe Rutledge is a Bible teacher in Springfield. A new line-up included Nash Bruce (guitar, vocals), Neill Nation (guitar), Paul Stewart (bass guitar) and Nick McNeely (drums, vocals).\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band from Lincoln, Illinois, United States, which was formed in [YEAR]. They played 450 shows in 23 states. The name was inspired by the Biblical story of David and Goliath and Psalm 57.\n",
+      "[BAND_NAME] originated from Lincoln Christian College and gained a following in central Illinois. They received heavy national radio airplay in [YEAR]-02 with their single \"Everyday\". They recorded two full length albums, performed with several major label acts, and had songs played on three consecutive seasons of MTV's The Real World. The band toured nationally with CIY Believe Conferences (also original band) and played festivals, state fairs and teen conventions, from bars to churches, parties to high school auditoriums.\n",
+      "In [YEAR], four of the members left to pursue other ministries. Kirk Bolen went to St. Charles, Missouri, to become a worship minister. [PERSON_NAME_FULL_1_MALE] went to Springfield to become a children's minister. Matt Harris is now in Colorado as a campus minister. [PERSON_NAME_FULL_3_MALE] is a Bible teacher in Springfield. A new line-up included Nash Bruce (guitar, vocals), [PERSON_NAME_FULL_2_MALE] (guitar), Paul Stewart (bass guitar) and [PERSON_NAME_FULL_0_MALE] (drums, vocals).\n"
+   ]
 }

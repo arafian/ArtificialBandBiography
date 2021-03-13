@@ -24,5 +24,10 @@
       "Associated acts": [
          "Choking Victim, Leftöver Crack, INDK"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from New York. It was formed originally as a solo project by Ezra Kire, after the band Choking Victim disbanded in [YEAR].\n",
+      "They were the second band to use this name, the first being a [YEAR]s rock band from San Francisco, who released an LP entitled \"Two Suns Worth\" and singles on Fontana Records in [YEAR].\n",
+      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

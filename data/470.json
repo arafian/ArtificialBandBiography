@@ -27,5 +27,10 @@
          "John Roger Schofield",
          "Jonathan Young"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band. They were selected as [YEAR]'s MTV2 Dew Circuit Breakout champions. Their newest album, With Arrows, With Poise, was released on [MONTH] 13, [YEAR].\n",
+      "After touring for four years, the band went on hiatus in late [YEAR] after finding out their drummer Randy Miller had been diagnosed with cancer.  In [MONTH] [YEAR] the band announced they were heading out on the \"All Creatures Tour\". \n",
+      "Drummer Randy Miller died from chondrosarcoma on [MONTH] 5, [YEAR]. The family set up a [GENRE]"
+   ]
 }

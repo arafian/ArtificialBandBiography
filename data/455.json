@@ -32,5 +32,10 @@
          " Sambo Moncivaiz",
          " Joey Avalos"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Chandler, Arizona, founded in [YEAR]. The band consists of Jason Moncivaiz (vocals, drums), Sambo Moncivaiz (bass), and [PERSON_NAME_FULL_0_MALE] (guitar). The band has seen success in Christian rock circles, and they have released two albums: Life Outside The Toy Box ([YEAR]) and The Beauty of the Unknown ([YEAR]). \n",
+      "On [MONTH] 11, [YEAR], [BAND_NAME] announced a [GENRE] a new album, The Vault Sessions, which is scheduled to release in summer [YEAR].\n",
+      "The history of [BAND_NAME] began at home with the brokenness of distressed family relations, and that eventually led to experiments with alcohol and other drugs.  While they were only in their teens, the Moncivaiz brothers lived in a [GENRE] a natural outlet for the family, as both brothers started learning instruments at a young age.\n"
+   ]
 }

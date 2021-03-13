@@ -31,5 +31,10 @@
       "Past members": [
          "Spec"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band formed in Bronx, New York City, New York in [YEAR].\n",
+      "Formed in [YEAR], the band originally consisted of Donny on guitar, Spec on bass guitar, Dose on drums, and their two MCs Season and Sense. Within two years the band had a [GENRE] a live EP (recorded in Queens) in [YEAR], with their first full-length album, Jammin' in Vicious Environments (J.I.V.E.), released a year later on vinyl and CD. In support of their album, [BAND_NAME] toured with many acts on both ends of their musical spectrum, including The Mighty Mighty Bosstones, Slayer, Boogie Down Productions and 311.  By [YEAR], bass guitarist Spec had left the band, they were no longer with Mercury Records, and they released their hard-to-find live album, Live J.I.V.E..\n",
+      "After recruiting a [GENRE] band was signed by Roadrunner Records. In [MONTH] [YEAR], they released their first Roadrunner Records album, Hipnosis. [BAND_NAME] then moved to Reprise Records and resurfaced two years later with High Definition and gained popularity with single \"L Train\". [BAND_NAME] broke up after this album, some of the members starting a band called Dead Fly Syndrome. In [YEAR], [BAND_NAME] reappeared. They have released a demo of \"Heard That All Before\" taken from their forthcoming, untitled album on their website. In early versions of iTunes, \"L Train\" was bundled. Some of their tracks, including \"Blow Your Top\" and \"Mad For It\", were included in the PlayStation game, Street Skater 2. \"Mad For It\" was also featured in the game Shaun Palmer's Pro Snowboarder. Eventually, they signed to a Japanese label.\n"
+   ]
 }

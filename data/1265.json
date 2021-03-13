@@ -34,5 +34,10 @@
          "Rydel Lynch",
          "Ellington Ratliff"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band formed in Los Angeles, California, in [YEAR]. \nThe band consisted of Ross Lynch (lead vocals/rhythm guitar), Riker Lynch (bass guitar/vocals), Rocky Lynch (lead guitar/vocals), Rydel Lynch (keyboard/vocals), and Ellington Ratliff (drums/vocals). They released their first EP Ready Set Rock [MONTH] 9th, [YEAR], but it was removed once Ross got his role on the Disney Channel Show Austin and Ally. They then released the EP Loud on [MONTH] 19th, [YEAR]  Since releasing their debut album, Louder, on [MONTH] 24, [YEAR], which peaked at 24 on the Billboard 200, followed by their world tour. Their second album, Sometime Last Night, was released on [MONTH] 10, [YEAR], and debuted at 6 on the US Billboard 200, and reached the top 20 in five other countries. They have also released five EPs, eleven singles, and a documentary called [BAND_NAME]: All Day, All Night that was first released in theaters [MONTH] 15, [YEAR].\n",
+      "In [YEAR], it was announced that Ross and Rocky would be pursuing a [GENRE] band's social media accounts under the handle \"[BAND_NAME]\" were changed to \"The Driver Era.\" Only Ross and Rocky are in The Driver Era.\n",
+      "[BAND_NAME] is made up of brothers Riker [PERSON_NAME_LAST_0], [PERSON_NAME_FULL_0_MALE], Ross [PERSON_NAME_LAST_0], and their sister Rydel [PERSON_NAME_LAST_0], all born and raised in Littleton, Colorado, and their family friend Ellington Ratliff, whom they met at a [GENRE] a year after meeting, they asked Ratliff to join the band. While living in Colorado, the [PERSON_NAME_LAST_0] siblings went to a performing arts school. They used to put on shows for their family and charged them at least a dollar to watch them perform in their basement. At age 16, Riker decided he wanted to move to Los Angeles to pursue an acting career. Their parents, [MONTH]k and Stormie, moved the entire family there in order to stay together. Shortly after the move, the siblings began appearing in commercials, while [PERSON_NAME_FIRST_0] began teaching himself, Ross and Riker how to play guitar.\n"
+   ]
 }

@@ -24,5 +24,10 @@
       "Website": [
          "Victoria Police Pipe Band"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] is a [GENRE] band based in Melbourne, Australia. The band still operates today, though with reduced numbers and not competitively, after a controversial decision in [YEAR] to reshape it.\n",
+      "As of today, the [BAND_NAME] is the only Australian band in history to have attained the title of Grade One World Pipe Band Champion. It is Australia's most successful pipe band, having obtained three third-place results at the Worlds in years directly prior to its win in [YEAR]. The band has also released a [GENRE]",
+      "The band was started in [YEAR], with generous funding from Mr W.E. McPherson (hence the McPherson tartan), by a [GENRE] band and it is assumed that it continued on much in the way it had, filling its ranks with police who performed part-time.\n"
+   ]
 }

@@ -21,5 +21,10 @@
       "Website": [
          "www.grampianpolicepipeband.com"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band associated with Grampian Police.\n",
+      "The band was formed as Aberdeen City Police Pipe Band in [YEAR], wearing the Hunting Gordon tartan. In [YEAR] a [GENRE]",
+      "The merger of police forces in the north of Scotland to create Grampian police resulted in the present name of the band being adopted. \n"
+   ]
 }

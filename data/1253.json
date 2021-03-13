@@ -41,5 +41,10 @@
          "Jason Schwartzman ",
          "Jacques Brautbar"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from Los Angeles, formed in [YEAR]. The band consists of [PERSON_NAME_FULL_2_MALE] (vocals, rhythm guitar), Darren Robinson (lead guitar), [PERSON_NAME_FULL_1_MALE] (bass guitar) and Jeff Conrad (drums). The band is best known for its track \"California\", which became the theme song for the TV series The O.C.. The band featured actor [PERSON_NAME_FULL_0_MALE] on drums until [YEAR] and continued to release well-received albums in his absence.\n",
+      "On [MONTH] 25, [YEAR], the band announced in a blog entry on their website that they are going on \"hiatus, and will not be playing any more live shows or making any new records, indefinitely.\" They played their last pre-hiatus show on [MONTH] 12, [YEAR], in Los Angeles.\n",
+      "The band reunited in [YEAR], announcing that their hiatus was over.\n"
+   ]
 }

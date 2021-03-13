@@ -55,5 +55,10 @@
          "Shane West",
          "Charlotte Caffey"
       ]
-   }
+   },
+   "prunedData": [
+      "The [BAND_NAME] were an [GENRE] band from Los Angeles, California, originally active from [YEAR] to [YEAR]. The band's main early lineup consisted of singer Darby Crash, guitarist [PERSON_NAME_FULL_1_FEMALE], bassist Lorna Doom, and drummer [PERSON_NAME_FULL_0_MALE]. They released only one album, [YEAR]'s (GI), produced by [PERSON_NAME_FULL_2_FEMALE], and were featured the following year in Penelope Spheeris' documentary film The [MONTH]line of Western Civilization, which chronicled the Los Angeles punk movement.\n",
+      "[BAND_NAME] disbanded following Crash's suicide in [YEAR]. Their music was influential to many later punk rock acts. Smear went on to achieve greater fame performing with Nirvana and Foo Fighters.\n",
+      "In [YEAR], actor Shane West was cast to play Crash in the biographical film What We Do Is Secret, titled after a song by the [BAND_NAME]. He performed with Smear, Doom, and Bolles at a production party for the film, after which the [BAND_NAME] reformed with West as the singer. The new lineup of the band toured the United States several times, including performances on the [YEAR] and [YEAR] Warped Tours.\n"
+   ]
 }

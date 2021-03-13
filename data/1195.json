@@ -25,5 +25,10 @@
          "Greta",
          "American Head Charge"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band originating from Los Angeles, California.\n",
+      "[BAND_NAME] formed in [YEAR] in the Los Angeles area. They signed with Lava Records in [YEAR], and released their self-titled debut album grade 8 on [MONTH] 11, [YEAR]. The band also appeared at Ozzfest that same year\n",
+      "On [MONTH] 10, [YEAR], the band released their second album Resurrection via \"Sound Barrier Records\". Shortly after, they parted ways with Hagblom and Zilch, and replaced Hagblom with drummer [PERSON_NAME_FULL_0_MALE].\n"
+   ]
 }

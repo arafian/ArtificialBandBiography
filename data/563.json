@@ -35,5 +35,10 @@
          " Finn Dierks ",
          " Sonja"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band from Hamburg, Germany formed in [YEAR] by [PERSON_NAME_FULL_1_MALE] (guitar, vocals), André Schumann (drums) and [PERSON_NAME_FULL_0_MALE] (bass guitar).\n",
+      "In [YEAR], [PERSON_NAME_FULL_1_MALE], André Schumann and [PERSON_NAME_FULL_0_MALE] formed a [GENRE] band called Dyer's Eve. One year later the name was changed to [BAND_NAME]. The new name was inspired by a Vader songtitle, while their older one was inspired by a Metallica songtitle. In autumn [YEAR], they recorded their first demo Doubtful Existence. In [MONTH] [YEAR], keyboarder [MONTH]tin Reichert and in [MONTH] [YEAR] guitarist [PERSON_NAME_FULL_3_MALE] joined the band. [PERSON_NAME_FULL_0_MALE] left the band in [YEAR]. After [PERSON_NAME_FULL_3_MALE] moved to the U.S. he was replaced by Jörn Schubert.\n",
+      "In Summer [YEAR], [BAND_NAME] recorded their first album entitled, The Fall, which was released after a contract with Remedy Records. In [YEAR], the album Insurrection followed and they played at Wacken Open Air. In [YEAR], the album The Silent Republic was recorded in the Stage One-studio. In [YEAR], they founded their own studio and played again at Wacken Open Air.\n"
+   ]
 }

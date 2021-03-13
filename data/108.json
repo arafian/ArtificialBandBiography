@@ -42,5 +42,10 @@
          " Pete Costello",
          "Mona Gnader"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band, known for its [YEAR] hit \"867-[YEAR]/Jenny\", which peaked at #4 on the Billboard Hot 100. They are an example to some of a one-hit wonder, even though they did reach the Top 40 the year before with \"Angel Say No.\" \n",
+      "Tommy Heath and Jim Keller founded the band in [YEAR], with Heath acting as the lead vocalist and rhythm guitarist, also playing keyboards on occasion; Keller playing lead guitar and supporting vocals.  Heath and Keller were the only constant members of [BAND_NAME] during the band's heyday, and the lineup featured a rotating membership of bassists and drummers. Bassist Jon Lyons (original name Jonathan Lyons Terlep), who performed on \"867-[YEAR],\" replaced original bassist, [PERSON_NAME_FULL_4_MALE].  However, Lyons was soon replaced by [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_7], later [PERSON_NAME_FIRST_6] [PERSON_NAME_LAST_2], and more recently Jimmy James. [PERSON_NAME_FULL_5_FEMALE], the bassist in Sammy Hagar's Waborita band, played with the band as well. Original drummer Mickey Shine (Clover and drummer on the first [PERSON_NAME_FULL_2_MALE] album) was replaced by Victor Carberry for the band's second album. Carberry was in turn replaced with [PERSON_NAME_FULL_0_MALE]. John Cowsill of The Cowsills played percussion (and sang) on \"867-[YEAR]/Jenny.\" From [YEAR]-[YEAR], the band has consisted of Heath, James, [PERSON_NAME_FULL_1_MALE] (guitar), [PERSON_NAME_FULL_3_MALE] (drums). Tommy Heath became a computer analyst and software engineer and moved to Portland, Oregon. In [YEAR], the band signed a recording contract with Spectra Records. \n",
+      "In [YEAR] with the addition of [PERSON_NAME_FULL_0_MALE] (Steppenwolf, Lita Ford) on guitar, [PERSON_NAME_FULL_1_MALE] switched to drums and the band released the single \"My Little Red Book\".\n"
+   ]
 }

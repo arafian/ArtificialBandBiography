@@ -26,5 +26,9 @@
          "Linda Moore",
          "Pam Rose"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band composed of [MONTH]y Fielder (guitar), [MONTH]y Ann [PERSON_NAME_FIRST_1] (drums), [PERSON_NAME_FULL_0_FEMALE] (bass guitar) and Pam [PERSON_NAME_LAST_1] (lead vocals). The band recorded for Columbia Records between [YEAR] and [YEAR], charting four times on the Billboard Hot Country Singles (now Hot Country Songs) charts, including the No. 44 \"I've Just Seen a Face\" (by Lennon- McCartney from The Beatles) from [YEAR]. Prior to the quartet's foundation, [PERSON_NAME_LAST_1] had been a solo recording artist on Capitol and Epic Records. After [YEAR], [PERSON_NAME_FIRST_1] and [PERSON_NAME_LAST_1] split from the band and formed a singing-songwriting duo called [PERSON_NAME_FULL_1_FEMALE], writing hits for Restless Heart, Lee Greenwood and [MONTH]tina McBride in addition to recording two albums for IRS Records.\n",
+      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
+   ]
 }

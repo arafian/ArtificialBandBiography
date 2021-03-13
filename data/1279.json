@@ -3,5 +3,8 @@
    "rawData": [
       "SEPO (pronounced \"sepo\") is an American punk rock band from Los Angeles, California, United States. The band was formed in 2012 by front-man and songwriter, Mitch Bateman. According to Bateman the name comes from a derogatory Australian term for Americans. Sepo first gained notoriety for their energetic live shows and their single, Siren, which was part of a documentary titled, 39 Days. After the success of Siren, and a few live shows, the band began recording their third album with Dave Klein at Dave Klein Recording Studios in Los Angeles. SEPO continues to record and play live shows around the country and in the Los Angeles area.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "SEPO (pronounced \"sepo\") is an [GENRE] band from Los Angeles, California, United States. The band was formed in [YEAR] by front-man and songwriter, [PERSON_NAME_FULL_0_MALE]. According to [PERSON_NAME_LAST_0] the name comes from a derogatory Australian term for Americans. [BAND_NAME] first gained notoriety for their energetic live shows and their single, Siren, which was part of a documentary titled, 39 Days. After the success of Siren, and a few live shows, the band began recording their third album with Dave Klein at Dave Klein Recording Studios in Los Angeles. SEPO continues to record and play live shows around the country and in the Los Angeles area.\n"
+   ]
 }

@@ -20,5 +20,10 @@
          "Michelle Chapman",
          "Melody Baetens"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are a [GENRE] band from Detroit, Michigan. They have released two CDs, two EPs, and have won six Detroit Music Awards. The band consists of Rachel [MONTH], [PERSON_NAME_FULL_0_FEMALE], and Angie Manly.\n",
+      "[BAND_NAME] was formed as an [GENRE] band in [YEAR], by Detroit singer/guitarist Rachel [MONTH]. The original lineup also consisted of bassist [PERSON_NAME_FIRST_1] Chapman (then known as [PERSON_NAME_FULL_1_FEMALE]), guitarist [MONTH]lene Hammerle, and drummer [PERSON_NAME_FULL_0_FEMALE]. This lineup released the four-song self-titled EP [BAND_NAME] on cassette only in [YEAR]. Two of the four songs, \"Bondage Boy\" and \"Seven Ways,\" would be revamped by future [BAND_NAME] lineups.\n",
+      "For the next few years, [BAND_NAME] would experience several personnel changes. Hammerle and Moffitt were gone by [YEAR], with the drummer's chair being filled by Angie Manly, a [GENRE] bandmate of [MONTH]'s. From [YEAR] to [YEAR], [BAND_NAME]'s lineup fluctuated around [MONTH], Chapman, and Manly, with the band sometimes operating as a trio and sometimes as a quartet with a series of temporary second guitarists. \n"
+   ]
 }

@@ -4,5 +4,9 @@
       "KVHW was an American rock band, that was active and toured nationally from January 1998 through December 1999. The band's name came from the last names of its four members: Steve Kimock (guitar), Bobby Vega (bass), Alan Hertz (drums), and Ray White (vocals and guitar). However, White was replaced by other musicians for some shows: Terry Haggerty replaced him from May 13, 1999 through July 5, 1999, and Ike Willis and Chip Roland sat in for some shows without White in December 1999. Jimmy Herring also filled in for several shows following White's departure. Haggerty continued to play with the band through October 3, 1999. \n",
       "The band's repertoire mostly consisted of original songs, songs from Steve Kimock's previous bands, and a number of covers of Frank Zappa songs.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band, that was active and toured nationally from [MONTH] [YEAR] through [MONTH] [YEAR]. The band's name came from the last names of its four members: [PERSON_NAME_FULL_1_MALE] (guitar), Bobby Vega (bass), [PERSON_NAME_FULL_0_MALE] (drums), and Ray White (vocals and guitar). However, White was replaced by other musicians for some shows: [PERSON_NAME_FULL_2_MALE] replaced him from [MONTH] 13, [YEAR] through [MONTH] 5, [YEAR], and Ike Willis and Chip Roland sat in for some shows without White in [MONTH] [YEAR]. [PERSON_NAME_FULL_3_MALE] also filled in for several shows following White's departure. [PERSON_NAME_LAST_2] continued to play with the band through [MONTH] 3, [YEAR]. \n",
+      "The band's repertoire mostly consisted of original songs, songs from [PERSON_NAME_FULL_0_MALE]'s previous bands, and a [GENRE]"
+   ]
 }

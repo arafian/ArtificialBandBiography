@@ -30,5 +30,10 @@
          "Jillian Levey",
          "Josue Quezada"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (or Tourist Company) is a [GENRE] band, formed in [YEAR] by Taylor Swindells.\n",
+      "Tourist Company formed after meeting at summer camp in [YEAR]. After that they teamed up with singer-songwriter Jordan Klassen to produce and record their EP Space Race, which they released in [MONTH] [YEAR].\n",
+      "In [MONTH] [YEAR], the band was accepted into the Peak Performance Project. In [MONTH] of that year, they won the $50,000 3rd place prize.\n"
+   ]
 }

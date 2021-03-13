@@ -29,5 +29,10 @@
       "Past members": [
          "Aya Matsumoto"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (stylised as SHISHAMO) is a [GENRE] band. Formed in [YEAR] while at high school in Kawasaki, Kanagawa, the band began releasing music in [YEAR].\n",
+      "The band formed in early [YEAR], after the original three members attended the light music club during their first year of high school at Kawasaki City High School for Science and Technology. [PERSON_NAME_FULL_0_FEMALE] and Aya Matsumoto had been childhood friends, but [PERSON_NAME_FULL_1_FEMALE] met the others for the first time at high school. The band named themselves after shishamo, a [GENRE]",
+      "In [YEAR] they started writing original music. In [MONTH], the band competed at the Teens Rock in Hitachinaka music contest, where they won the grand prize and the best vocalist award. After this, the band decided to spell their band name \"SHISHAMO\" in Latin script. The band made released their debut CD in [MONTH] with \"Shukudai ga Owaranai\", a [GENRE] band members became radio personalities for All Night Nippon R. In [MONTH] [YEAR], they released Sotsugyō Seisaku, a compilation of their songs recorded while at high school, and toured Japan in [MONTH].\n"
+   ]
 }

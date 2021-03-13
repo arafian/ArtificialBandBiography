@@ -21,5 +21,10 @@
          "Randy Ray",
          "Billy Williams"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band formed in the early [YEAR]s (formerly with the name Legend) by three former members of Ruscha, another Christian band from the [YEAR]s.\n",
+      "The band made its debut in [YEAR] under the name \"Archon\" on a [GENRE] a self-produced version of \"After The Fall.\" The song was re-released on the band's self-titled debut album, Legend, in [YEAR] on Word Records.  Shortly after, the band was forced to change its name to [BAND_NAME] upon learning that another band was already using the name Legend.  They released Blind Faith in [YEAR].\n",
+      "Both albums were produced by Grammy Award-winning producer Bubba Smith and garnered several hits on Christian radio (\"Carry Me\", No. 4, [YEAR]; \"Angela\", No. 2, [YEAR]; \"Be Still\", No. 1 for 2 weeks, [YEAR]; \"Blind Faith\", No. 1 for 2 weeks, [YEAR]; \"First Love\", No. 10, [YEAR]; \"Call on Me\", No. 15, [YEAR]). The band disbanded in [YEAR].\n"
+   ]
 }

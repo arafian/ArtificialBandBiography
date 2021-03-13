@@ -26,5 +26,10 @@
          "Alex Nifong",
          "Jason Collum"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was a [GENRE] band formed in the late [YEAR]s. The group consists of singer, songwriter and keyboardist [PERSON_NAME_FULL_1_MALE], guitarist [PERSON_NAME_FULL_0_MALE], and drummer Jason Collum. They released one album, Fiction, in [YEAR].\n",
+      "[PERSON_NAME_FULL_0_MALE] was a musical composition student at Belmont University in Tennessee. \nIn [YEAR], he became a professional songwriter and penned a number of Top Ten songs on contemporary hit radio. Prior to forming the band, [PERSON_NAME_LAST_0] had also toured with other artists and led worship for a youth group. \nAccording to [PERSON_NAME_LAST_0], \"the band got started out of a desire that God gave me to put together a group that . . . really was focused on reaching kids and not just playing music either. I've always felt that Christian music should be a medium that reaches into the mainstream.\" \nSigned in early [YEAR] to Essential Records, \n[BAND_NAME] released their debut album, Fiction, in [MONTH]. \nThe band's musical style drew comparisons to Silage, Smash Mouth, and Beck. \nTheir first single, \"Soap\", received airplay on Christian rock and Top 40 radio stations. \nIn an industry first, the single \"Regret\" was released as an Internet download. \n\"Regret\" was also featured on the soundtrack of the [YEAR] movie Drive Me Crazy, starring [PERSON_NAME_FULL_1_FEMALE] and Adrian Grenier. Since the album's release, [PERSON_NAME_FULL_0_MALE] became a record producer.\n",
+      "This Christian music-related article is a [GENRE]"
+   ]
 }

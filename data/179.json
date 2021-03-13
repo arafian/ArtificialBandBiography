@@ -32,5 +32,10 @@
          "Francesco Celletti",
          "Jimi Cheetah"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band from the East Bay, California, United States, formed in [YEAR]. The group's debut studio album, Play Cell, was released through Lookout Records in [YEAR]. They would soon after get signed to Fat Wreck Chords, which the rest of its albums were released through. The band consisted of Cinder Block (vocals), [PERSON_NAME_FULL_1_MALE] (guitar), [PERSON_NAME_FULL_0_MALE] (bass), and Vincent Camacho (drums). Starting on [MONTH] 15, [YEAR] at the Cattle Club in Sacramento and ending on [MONTH] 6, [YEAR] in Vancouver, [BAND_NAME] supported Green Day on their Dookie tour.\n",
+      "[BAND_NAME]'s song \"Crying Jag\" appears on the soundtrack for the film Glory Daze ([YEAR]). [BAND_NAME] broke up for a short time in [YEAR] but reunited in [YEAR] with [PERSON_NAME_FULL_0_MALE] of Screw 32. They were scheduled to play a one-night-only reunion show on [MONTH] 13, [YEAR] at 924 Gilman Street in Berkeley, California but had to cancel because the bass player injured his arm needing surgery. The show was never rescheduled. However, [BAND_NAME] played a one-off reunion show in the fall of [YEAR] as a part of a two-day festival to celebrate the 25th anniversary of Fat Wreck Chords. They played another reunion show on [MONTH] 1, [YEAR] at 924 Gilman Street.\n",
+      "Cinder Block was also the lead singer for Retching Red, Fabulous Disaster, and The Pathogens.\n"
+   ]
 }

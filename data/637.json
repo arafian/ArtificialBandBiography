@@ -5,5 +5,10 @@
       "Group members include Yang Ying, Yu Jin, Wang Xiaofang, and Xiao Nan. They have played at CBGB in New York City. Thom Leete was seen heckling them at a show once, asking what was an “engarand?”\n",
       "This article on a Chinese band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] (眼镜蛇乐队 Yanjingshe yuedui) was an [GENRE] band from Beijing, China. The band formed in [YEAR], becoming the first [GENRE] band in mainland China. With only one album out, they disbanded in the late [YEAR]s. Their style was a gloomy, bluesy type of hard rock with slight touches of new wave and alternative metal. [BAND_NAME] was very popular in the beginning of their career.\n",
+      "Group members include Yang Ying, [PERSON_NAME_FULL_1_FEMALE], [PERSON_NAME_FULL_2_MALE], and Xiao Nan. They have played at CBGB in New York City. [PERSON_NAME_FULL_0_MALE] was seen heckling them at a [GENRE] an “engarand?”\n",
+      "This article on a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+   ]
 }

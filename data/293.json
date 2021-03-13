@@ -34,5 +34,10 @@
          "Adam Newton",
          "John Jeffrey"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band originally from Kelowna, British Columbia. The band has been based in Vancouver since [YEAR].\n",
+      "[BAND_NAME]'s debut EP was Everything in Everyway. Their debut self-titled album, which was recorded live-to-tape, came out in [YEAR]. For both, they worked with record producer Shawn Cole, who has previously worked with such bands as Bend Sinister and You Say Party! We Say Die!. The band has toured the US and Canada, and played at such festivals as South by Southwest. The band was named one of the \"10 Canadian bands destined to break in [YEAR]\" by the CBC, and Chart called the band the best of the [YEAR] Canadian Music Week festival.\n",
+      "The album Tiger Talk was released in [YEAR]. The band was nominated for the [MONTH]o Award for Breakthrough Group of the Year in [YEAR].\n"
+   ]
 }

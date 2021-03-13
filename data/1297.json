@@ -61,5 +61,10 @@
          "Richard Campbell",
          "Mike Cuneo"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR], with founding members consisting of vocalists Danny Hutton, [PERSON_NAME_FULL_2_MALE], and Chuck Negron. This lineup was soon augmented by [PERSON_NAME_FULL_0_MALE] (keyboards), [PERSON_NAME_FULL_1_MALE] (bass), Michael Allsup (guitar), and [PERSON_NAME_FULL_5_MALE] (drums). The band had 21 Billboard Top 40 hits between [YEAR] and [YEAR], with three hitting number one. [BAND_NAME] recorded many songs written by outside songwriters, and they helped to introduce mainstream audiences to writers such as [PERSON_NAME_FULL_3_MALE] (\"An Old Fashioned Love Song\") and [PERSON_NAME_FULL_4_MALE] (\"Joy to the World\").\n",
+      "The official commentary included in the CD set Celebrate: The [BAND_NAME] Story, [YEAR]–[YEAR] states that vocalist Danny Hutton's girlfriend, actress [MONTH] Fairchild (best known as the \"Ajax Lady\" from the Cheech and Chong movie Up In Smoke) suggested the name after reading a [GENRE] a hole in the ground while embracing a dingo, a native species of wild dog. On colder nights they would sleep with two dogs and, if the night were freezing, it was a \"three dog night\".\n",
+      "Musician Van Dyke Parks, an [GENRE] a dancer. Yet, she didn’t read Mankind magazine, nor have an inkling of anthtopology   and the cold aboriginal nights that inspired my suggestion.\"\n"
+   ]
 }

@@ -41,5 +41,10 @@
       "Simplified Chinese": [
          "鱼丁糸"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (Chinese: 蘇打綠; pinyin: Sūdǎ lǜ; stylized as sodagreen) is a [GENRE] band formed in [YEAR]. Its members have been unchanged since [YEAR]. [BAND_NAME] emerged in the [GENRE] music scene after receiving the Grand Jury Award in the Hohaiyan Gongliau Rock Festival in [YEAR], after which it signed a contract with Willlin Music. The band is the first indie band to hold a concert in the Taipei Arena.\n",
+      "[BAND_NAME] was named by Shih, the band's leader at the time, and Wu, the lead vocalist. The band was originally named Soda (蘇打), but Shih preferred a name with three-syllable. Wu then affixed the word green (綠), his favourite colour, behind Soda, completing the portmanteau.\n",
+      "In [MONTH] [YEAR],  [BAND_NAME] competed in the Golden Melody Cup held by the National Chengchi University and won the Best Popularity award with the composition \"Peeping\". With the support of Shiao-Ying, a judge at the competition, it recorded \"Peeping\" for the compilation Taiwan independent compilation [YEAR], released by TCM. In [MONTH] the next year, after several changes to the line-up of the band (guitarists), [BAND_NAME] participated in the Golden Melody Cup again, this time winning the awards for Best Band, Best Composition, Best Lyrics and Best Music.\n"
+   ]
 }

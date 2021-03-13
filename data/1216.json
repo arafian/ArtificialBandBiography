@@ -50,5 +50,10 @@
          "Waylon Rector",
          "Zach Bilson"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in Los Angeles, California in [YEAR]. It is fronted by vocalist [PERSON_NAME_FULL_1_FEMALE], who founded the band and had been its sole consistent member since its inception. The band is currently based in Los Angeles. Its current members—in addition to [PERSON_NAME_LAST_1]—are guitarists [PERSON_NAME_FULL_2_MALE] and Parker Silzer IV, keyboardist [PERSON_NAME_FULL_0_MALE]. \n",
+      "[BAND_NAME] were previously been signed to Warner Music Group labels Atlantic and Elektra Records. Since [YEAR], their music has been distributed through Sony Music divisions including RED Music, Another Century, and The Orchard. Their debut album [BAND_NAME] was released in [YEAR] through Elektra. They have also released six extended plays: Sunday School ([YEAR]), Cut It Out ([YEAR]), Like a Stranger ([YEAR]), Heaven or Somewhere in Between ([YEAR]), Pink Champagne ([YEAR]), and Goodbye Honeymoon Phase ([YEAR]). Their second studio album is scheduled for release in [YEAR].\n",
+      "[BAND_NAME] are known for their 80s-inspired sound and energetic live shows.\n"
+   ]
 }

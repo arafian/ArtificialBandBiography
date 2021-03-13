@@ -44,5 +44,10 @@
          "Zach Tillman",
          "Matt Stone"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] was an [GENRE] band consisting of members from Philadelphia, Pennsylvania, Brooklyn, New York, Los Angeles, CA, and Rochester, New York. The group released five albums: one packaged as an EP (Luck Will Not [PERSON_NAME_FULL_0_MALE]...) and four as full-lengths.\n",
+      "[BAND_NAME]'s overall sound has been compared to Caspian, Explosions in the Sky, Joy Wants Eternity, This [PERSON_NAME_FULL_0_MALE] You, and God is an [GENRE]",
+      "[BAND_NAME] formed in [YEAR] as the joint project of guitarist Matthew Doty and drummer [PERSON_NAME_FULL_0_MALE]. The two wrote several songs that, in time, were recorded for the duo's debut album Be a Bright Blue, released on Doty's own imprint, Broken Factory Records. [PERSON_NAME_LAST_0]'s brother Zach was recruited for bass duties for multiple North American tours.\n"
+   ]
 }

@@ -29,5 +29,10 @@
          "Kyle Hollingsworth",
          "Jason Hann"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (SCI) is an [GENRE] band from Crested Butte and Telluride, Colorado, formed in [YEAR]. The band is composed of [PERSON_NAME_FIRST_1] Kang (acoustic/electric mandolin, electric guitar, and violin), [PERSON_NAME_FULL_1_MALE] (drums and percussion), Bill Nershi (acoustic guitar, lap steel guitar, and electric slide guitar), [PERSON_NAME_FULL_2_FEMALE] (piano, organ, Rhodes, and accordion), and [PERSON_NAME_FULL_0_MALE] (bass guitar), and, since [YEAR], Jason Hann (auxiliary percussion).\n",
+      "Their music has elements of bluegrass sounds, as well as rock, electronica, calypso, country, funk, jazz, Latin, progressive rock, reggae, and psychedelia. All members write original compositions and sing.\n",
+      "After a [GENRE] band formed the independent record label SCI Fidelity, on which they released their first album, Born on the Wrong Planet, an album split between originals and covers. The album featured melody-driven music with room for improvisation. Instrumentals and covers constituted half of the album. Many songs from the first album are still frequently played by the band, including \"Black Clouds\", \"Land's End\", \"Texas\", and \"Jellyfish.\"\n"
+   ]
 }

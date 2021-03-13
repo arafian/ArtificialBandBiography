@@ -18,5 +18,10 @@
       "Associated acts": [
          "The Untouchables, Snow Bud and the Flower People, Wipers, Divining Rods, Lost Acolytes, Oblivion Seekers, Chris Newman Experiment, Boo Frog"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band formed in Longview, Washington. They later relocated to Portland, Oregon. One of the longest-running punk bands in the U.S., they are credited by some as being early innovators of the grunge sound. Nicholas Pell, writing for the Portland Mercury said \"a huge influence on the grunge and alternative rock of the [YEAR]s, [BAND_NAME] never had the name recognition of other Portland bands like Poison Idea or the Wipers.\" [BAND_NAME] shared the stage with bands such as X, Public Image Ltd., [PERSON_NAME_FULL_1_FEMALE], Johnny Thunders, [PERSON_NAME_FULL_0_FEMALE], Bad Brains, Soundgarden, Screaming Trees, Mudhoney, Dead Moon, and Poison Idea.  They also toured Germany five times between [YEAR] and [YEAR].  During their long musical career they have released more than 30 studio and live recordings in various formats on a number of small independent labels in the U.S. and Germany. \n",
+      "At the core of the group is Chris Newman on guitar, and [PERSON_NAME_FULL_1_MALE] on drums. [PERSON_NAME_FULL_1_MALE] was the original drummer for the Wipers and Portland band The Rats (with Fred and Toody Cole) before joining [BAND_NAME] in [YEAR]. The group went through thirteen bass players before [PERSON_NAME_FULL_0_MALE] came on board in [YEAR]. The group's earliest recordings were done on the Trap label, owned by Greg Sage of the Wipers.\n",
+      "Courtney Love lived in the [BAND_NAME] band house in [YEAR].\n"
+   ]
 }

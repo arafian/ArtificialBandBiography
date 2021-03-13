@@ -26,5 +26,10 @@
          "Bobby \"Werner\" Strete (bass/vocals)",
          "Chris Collins (drums/vocals)"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] are an [GENRE] band from the New York City area. [BAND_NAME] were originally active in the early to mid-[YEAR]s, and played an integral part in New York City's burgeoning garage rock revival scene at the time.  By mid [YEAR] they were widely regarded as one of the best known indie rock bands in NYC and New Jersey. After disbanding at the height of their career in the late [YEAR]s to pursue other projects, the three original members reunited in [YEAR] and have been active since.\n",
+      "The members of [BAND_NAME] started playing music together as childhood friends in early [YEAR], and initially called their band Rage. They counted a lot of FM radio rock and early punk among their influences, before their approach to music was revitalized when they discovered The Jam in [YEAR]. [BAND_NAME] wrote and recorded their first original songs in [YEAR]-83 and released them only on cassette; beginning with a 4-track recording of four songs entitled \"If You Are New\" and subsequently, a collection called Release For The Mates. The first collection, \"If You Are New\", was produced by Steve Peer of the New York/New Jersey act TV Toy. During this time, [BAND_NAME] also started performing frequently in the New York/New Jersey area.  Their first club date was on [MONTH] 12, [YEAR] at the infamous Dirt Club in Bloomfield, New Jersey.  During the band's introduction that night, the club's owner, Johnny Dirt, made it a point to tell the crowd that the band members were only 16 years old.\n",
+      "In [YEAR] [BAND_NAME] released their first single, \"I Am With You\" b/w \"Happy Feeling\" on their own label, New Records.  Playing frequently at such New York City clubs as CBGB, The Dive and R.T. Firefly, they signed a record deal with NYC's Midnight Records.  They released their first album, 90 Wardour Street in [YEAR].  Their live shows were high energy (sometimes reckless) spectacles, which have been said to have influenced many people who saw them to start bands of their own.\n"
+   ]
 }

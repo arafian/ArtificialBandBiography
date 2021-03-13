@@ -34,5 +34,10 @@
          "Sean Greathead",
          "Oran Canfield"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is an [GENRE] band, formed in Chicago in [YEAR]. They are known for their live shows and stripped-down noisy punk rock.  [BAND_NAME] is Carmen X and Rikkeh Suhtn (formerly of Duotron). They are currently based in Brooklyn, New York.\n",
+      "The name [BAND_NAME] comes from the film Dishonored, where [MONTH]lene Dietrich plays Agent [BAND_NAME] who hides code in her music; it is not related to the [BAND_NAME] bus route in Brooklyn, where they are based. [BAND_NAME] are influenced by punk, experimental, contemporary classical, Music of North Africa, grunge, and 60's pop. Rikkeh recently said, \"I want to make music for people who think AC/DC and Led Zeppelin are great American rock bands.\"\n",
+      "The musicians who have played in [BAND_NAME] include Oran [PERSON_NAME_LAST_2] (son of [PERSON_NAME_FULL_2_MALE] of the Chicken Soup for the Soul franchise, drummer for:Child Abuse (band), Dig that body up it's alive, Caroliner and  author of Long Past Stopping), [PERSON_NAME_FULL_0_MALE] (artist for:Garbage Pail Kids and Wacky Pack, member of: Nights), Massey, Terry Klawth ([MONTH]y Prankster, [PERSON_NAME_FULL_1_FEMALE]'s Army, Mighty Sphincter), among others.\n"
+   ]
 }

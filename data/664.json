@@ -5,5 +5,10 @@
       "The four girls first recorded as 'The Four Queens' on Teron Records : \"A Cinder In My Eye\" / \"The Boy Next Door\" (1964).\n",
       "\"Chico's Girl\" was included on the 2009 compilation album, The Shangri-Las & The '60s Girl Group Garage Sound.\n"
    ],
-   "infobox": {}
+   "infobox": {},
+   "prunedData": [
+      "[BAND_NAME] were an [GENRE] band from Los Angeles, California, United States. They called themselves The Sandoval Sisters and The Moonmaids before ending up as [BAND_NAME] in [YEAR], when they signed a recording contract with Capitol Records. The members were sisters.  The group was formed of Rosemary (lead guitar), Diane (rhythm guitar), Sylvia (bass), and [MONTH]garet (drums and lead vocals) Sandoval. They released two singles with Capitol including a version of the biker song \"Chico's Girl\", written by Barry Mann and [PERSON_NAME_FULL_0_FEMALE]. The group toured the Far East, which included performing for the troops in Vietnam.\n",
+      "The four girls first recorded as 'The Four Queens' on Teron Records : \"A Cinder In My Eye\" / \"The Boy Next Door\" ([YEAR]).\n",
+      "\"Chico's Girl\" was included on the [YEAR] compilation album, The Shangri-Las & The '60s Girl Group Garage Sound.\n"
+   ]
 }

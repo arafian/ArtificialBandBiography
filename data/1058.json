@@ -31,5 +31,10 @@
       "Past members": [
          "See below"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] (Hebrew: תופעה‎, \"phenomenon\" or \"happening\") is an [GENRE] band formed in Jerusalem in [YEAR]. They are notable for being the first all-female Orthodox Jewish band, preceding later groups like Ashira and Bulletproof Stockings. They have released ten albums since [YEAR].\n",
+      "Founder Yona Yakobovitz (drums, piano, vocals) moved to Israel from Saratoga Springs, New York in [YEAR] to attend seminary. There, she befriended and played with other young female musicians and decided to create an outlet for religious women looking to express themselves musically. This became [BAND_NAME], which formed that same year with an original lineup featuring [PERSON_NAME_FULL_2_FEMALE] (vocals), Rachel Kantorowitz (violin), [PERSON_NAME_FULL_1_FEMALE] (flute), [PERSON_NAME_FULL_4_FEMALE] Silverman-Limor (guitar), [PERSON_NAME_FULL_0_FEMALE] (vocals, flute), and [PERSON_NAME_FULL_3_FEMALE] (flute).\n",
+      "[BAND_NAME] have toured throughout the United States and Israel, performing at venues as diverse as women's prisons, the International Convention Center in Jerusalem, and the court of the Belzer Rebbetzin. They have also appeared several times on Israeli radio and television.\n"
+   ]
 }

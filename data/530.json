@@ -15,5 +15,10 @@
       "Labels": [
          "RCA"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] were a [GENRE] band, mostly from Penarth, Wales, active from [YEAR] until [YEAR].\n",
+      "They had one single \"Find My Way Back Home\" that was released by RCA and reviewed by John Peel in Sounds.\n",
+      "Some songs including \"Ship of Gold\" were recorded for Peel's sessions. For a [GENRE] band wore green monastic habits on stage. Live favourites included \"Danger Zone\" and \"King of the Mountain\", final numbers would be \"Keep on Moving\" and \"Chicken Shack Stomp\"/\"Hey Bo Diddley\". [BAND_NAME] toured with many well-known artists over the years, including Thin Lizzy,  Gong, The Velvet Underground, Funkadelic, UFO, Focus, [PERSON_NAME_FULL_0_MALE], The Who, Genesis, and others. [BAND_NAME] also played iconic music festivals, the [YEAR] Reading Festival, and the first Glastonbury festival.\n"
+   ]
 }

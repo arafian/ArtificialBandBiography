@@ -21,5 +21,10 @@
       "Website": [
          "Charizma.com"
       ]
-   }
+   },
+   "prunedData": [
+      "[BAND_NAME] is a [GENRE] band formed in Oskarshamn, Sweden, where they are still based. Founded by the three brothers Bo, [MONTH]  and [PERSON_NAME_FULL_0_MALE], the band now also includes [PERSON_NAME_FULL_1_MALE] and Thomas Karlsson.\n",
+      "Starting out as a hard rock trio, [BAND_NAME] is now a radio-friendly rock band focusing on melodies and strong vocal elements.\n",
+      "The band also performed in the pre-selections for Eurovision Song Contest in [YEAR] in Estonia (Eurolaul) and in [YEAR] in Poland (Piosenka dla Europy [YEAR]).\n"
+   ]
 }
