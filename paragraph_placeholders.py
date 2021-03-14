@@ -119,8 +119,14 @@ def person_name_placeholder(data, text):
     for name,gender in name_genders.items():
         text = re.sub(name, '[PERSON_NAME_FULL_' + str(i) + '_' + gender + ']', text)
         if len(name.split()) > 1: # some only have first names
-            text = re.sub(name.split()[0], '[PERSON_NAME_FIRST_' + str(i) + ']', text) # replace first name
-            text = re.sub(name.split()[1], '[PERSON_NAME_LAST_' + str(i) + ']', text) # replace last name
+            first = name.split()[0]
+            last = name.split()[-1]
+            # don't want abbreviations to be subsituted
+            if len(first) > 2:
+                text = re.sub(first, '[PERSON_NAME_FIRST_' + str(i) + ']', text) # replace first name
+                
+            if len(last) > 2:
+                text = re.sub(last, '[PERSON_NAME_LAST_' + str(i) + ']', text) # replace last name
         i += 1
         
     return text
@@ -157,19 +163,29 @@ def genre_placeholder(text):
 def get_paragraph_placeholders(data):
     #  with open(json_file, 'r', encoding='utf-8') as f:
     #      data = json.load(f)
-        
-    prunedData = []
-    for para in data['rawData']:
-        prunedPara = band_placeholder(data, para)
-        prunedPara = year_placeholder(prunedPara)
-        prunedPara = month_placeholder(prunedPara)
-        prunedPara = person_name_placeholder(data, prunedPara)
-        try:
-            prunedPara = genre_placeholder(prunedPara)
-        except:
-            pass
-        prunedData.append(prunedPara)
-    return prunedData
+
+    text = ''.join(data['rawData'])
+    text = band_placeholder(data, text)
+    text = year_placeholder(text)
+    text = month_placeholder(text)
+    text = person_name_placeholder(data, text)
+    try:
+        text = genre_placeholder(text)
+    except:
+        pass
+    return text    
+    #prunedData = []
+    #for para in data['rawData']:
+    #    prunedPara = band_placeholder(data, para)
+    #    prunedPara = year_placeholder(prunedPara)
+    #    prunedPara = month_placeholder(prunedPara)
+    #    prunedPara = person_name_placeholder(data, prunedPara)
+    #    try:
+    #        prunedPara = genre_placeholder(prunedPara)
+    #    except:
+    #        pass
+    #    prunedData.append(prunedPara)
+    #return prunedData
 
 # print(get_paragraph_placeholder('data/1599.json'))
 
@@ -179,3 +195,20 @@ def get_paragraph_placeholders(data):
 #     except:
 #         print(i)
 
+    
+complete_paras = []    
+for i in range(1657):
+    with open('data/' + str(i) + '.json', 'r', encoding='utf-8') as inf:
+        data = json.load(inf)
+        #try:
+        complete_paras.append(get_paragraph_placeholders(data))
+        #except:
+        #    print(i)
+#print(complete_paras)
+
+with open('data/consolidatedData.json', 'r', encoding='utf-8') as inf:
+    consol_data = json.load(inf)
+    consol_data.update({'allPrunedParaComplete': complete_paras})
+
+with open('data/consolidatedData.json', 'w', encoding='utf-8') as inf:
+    json.dump(consol_data, inf, indent=3)
