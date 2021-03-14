@@ -17,12 +17,15 @@ def main():
         with open("data/consolidatedData.json", 'r', encoding='utf-8') as f:
             consolidatedData = json.load(f)
 
-        p1 = random.choice(consolidatedData['allPrunedPara_0'])
-        p2 = random.choice(consolidatedData['allPrunedPara_1'])
-        p3 = random.choice(consolidatedData['allPrunedPara_2'])
-        
+        p = random.choice(consolidatedData['allPrunedParaComplete'])
         return json.dumps({"msg": "success", 
-                           "paras": {"p1": p1, "p2": p2, "p3": p3}})
+                           "paras": {"p": p}})
+        #p1 = random.choice(consolidatedData['allPrunedPara_0'])
+        #p2 = random.choice(consolidatedData['allPrunedPara_1'])
+        #p3 = random.choice(consolidatedData['allPrunedPara_2'])
+        #
+        #return json.dumps({"msg": "success", 
+        #                   "paras": {"p1": p1, "p2": p2, "p3": p3}})
 
     except Exception as e:
         return json.dumps({"msg": f"server encountered an error: {e}", "paras": None})
