@@ -34,8 +34,24 @@
          "Richard Lyons"
       ]
    },
+   "albums": [
+      "Negativland",
+      "Points",
+      "A Big 10-8 Place",
+      "Escape from Noise",
+      "Helter Stupid",
+      "Free",
+      "Fair Use: The Story of the Letter U and the Numeral 2",
+      "Dispepsi",
+      "Deathsentences of the Polished and Structurally Weak",
+      "No Business",
+      "Thigmotactic",
+      "It's All in Your Head",
+      "True False",
+      "The World Will Decide"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band which originated in the San Francisco Bay Area in the late [YEAR]s. They took their name from a Neu! track, while their record label (Seeland Records) is named after another Neu! track.  The core of the band consists of [MONTH]k Hosler, David Wills (aka \"The Weatherman\"), [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_1_MALE] (aka \"Wobbly\").\n",
+      "[BAND_NAME] is an [GENRE] band which originated in the San Francisco Bay Area in the late [YEAR]s. They took their name from a Neu! track, while their record label (Seeland Records) is named after another Neu! track.  The core of the band consists of [MONTH]k Hosler, David Wills (aka [SONG_NAME]).\n",
       "[BAND_NAME] has released a number of albums ranging from pure sound collage to more musical expositions. These have mostly been released on their own label, Seeland Records.  In the late [YEAR]s and early [YEAR]s, they produced several recordings for SST Records, most notably Escape from Noise, Helter Stupid and U2. [BAND_NAME] were sued by the band U2's record label, Island Records, and by SST Records, which brought them widespread publicity and notoriety. The band is also part of the Church of the SubGenius parody religion\n",
       "[BAND_NAME] started in Concord, California, in [YEAR] around the core founding members of Lyons and Hosler (who were in high school at the time), and released an eponymous debut in [YEAR].\n"
    ]

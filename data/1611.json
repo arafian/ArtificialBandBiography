@@ -25,6 +25,12 @@
          "Bea, Cova, Malela, Montse, Natalia"
       ]
    },
+   "albums": [
+      "Nadie hablará de... Nosoträsh (nobody will talk about us)",
+      "Mi vida en un fin de semana (my life in a weekend)",
+      "Popemas (\"popemas\")",
+      "Cierra la puerta al salir (close the door when leaving)"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band formed in Gijon in [YEAR]. Along with releasing records on the influential Elefant Records in Spain, [BAND_NAME] released a single in [MONTH] [YEAR] in the United States with Hugpatch Records.\n",
       "The group is made up of five women: Bea, Cova, Malela, Montse, and Natalia. Also Eugenia was a [GENRE] band is as follows: Natalia sings; Bea plays the guitar; Malela plays the guitar and sings; Montse plays the bass and sings; and Cova plays the drums. Eugenia played the bass.\n",

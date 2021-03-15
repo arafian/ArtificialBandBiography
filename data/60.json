@@ -34,9 +34,18 @@
          "Ben León"
       ]
    },
+   "albums": [
+      "Kung Fu Palace",
+      "Viva la Juerga",
+      "Double Panther",
+      "Richardson b/w Downtown",
+      "Proper Cowboy",
+      "Songs for the Juerga",
+      "Edjka"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band consisting of five members from [PERSON_NAME_FULL_4_FEMALE], California. They are celebrated as [PERSON_NAME_FULL_4_FEMALE]'s Ambassadors of Gypsy Rock. The current members of the group include [PERSON_NAME_FULL_0_MALE] (acoustic guitar, vocals), Jason Kleinberg (fiddle, vocals), [PERSON_NAME_FULL_1_MALE] (electric guitar, vocals), Redcup (bass), and Jake Wood (drums). Former members include [PERSON_NAME_FULL_3_MALE] (electric guitar), [PERSON_NAME_FIRST_1] Blair (bass), and [PERSON_NAME_FULL_2_MALE] (electric guitar, vocals). \n",
+      "[BAND_NAME] is an [GENRE] band consisting of five members from [PERSON_NAME_FULL_0_MALE], California. They are celebrated as [PERSON_NAME_FULL_0_MALE]'s Ambassadors of Gypsy Rock. The current members of the group include [PERSON_NAME_FULL_4_MALE] (acoustic guitar, vocals), Jason Kleinberg (fiddle, vocals), [PERSON_NAME_FULL_1_MALE] (electric guitar, vocals), Redcup (bass), and Jake Wood (drums). Former members include [PERSON_NAME_FULL_2_MALE] (electric guitar), [PERSON_NAME_FIRST_1] Blair (bass), and [PERSON_NAME_FULL_3_MALE] (electric guitar, vocals). \n",
       "[BAND_NAME] describe their own music as \"a blend of traditional eastern European gypsy, Spanish flamenco, polka/ska rhythms, and good ol' rock & roll from the west. \n",
-      "The seed for [BAND_NAME] was planted by Tyson Maulhardt and [PERSON_NAME_FULL_0_MALE] in [YEAR], who released a [GENRE] band slowly grew with the additions of violinist Jason Kleinberg, bassist [PERSON_NAME_FULL_1_MALE], singer Benjamin Leon, and drummer [PERSON_NAME_FULL_2_MALE]. With this configuration they created the signature \"gypsy pirate polka\" sound they are now known for. Benjamin Leon, in an interview explained their beginnings: \"I've been playing music since I was about 6 years old, from piano to drums, and then later I picked up guitar and started singing. I’ve known Tyson and [PERSON_NAME_FIRST_0] for about ten years, but I was playing in my own group in Los Angeles for most of that time. They knew I was burning out in LA so they kidnapped me at a Pinkberry in [YEAR] and we’ve been riding around in a van together ever since.\" Their quirky namesake comes from a friend's arm tattoo.\n"
+      "The seed for [BAND_NAME] was planted by Tyson Maulhardt and [PERSON_NAME_FULL_1_MALE] in [YEAR], who released a [GENRE] band slowly grew with the additions of violinist Jason Kleinberg, bassist [PERSON_NAME_FULL_2_MALE], singer Benjamin Leon, and drummer [PERSON_NAME_FULL_0_MALE]. With this configuration they created the signature [SONG_NAME] Their quirky namesake comes from a friend's arm tattoo.\n"
    ]
 }

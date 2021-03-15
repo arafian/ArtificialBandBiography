@@ -6,9 +6,12 @@
       "Their debut single was \"I Hate The Rich\" / \"You're Not Blank\" (the latter covered by the Minneapolis punk band Dillinger Four), on Los Angeles-based label What? Records, released in 1977. The second single, \"Class War\", was released on DangerHouse Records. The band relocated to San Francisco in 1977.\n"
    ],
    "infobox": {},
+   "albums": [
+      "What? Stuff"
+   ],
    "prunedData": [
-      "[BAND_NAME] were an [GENRE] band formed [YEAR] and active until [YEAR], originally from Carlsbad, California, United States, and fronted by the brothers Chip [PERSON_NAME_LAST_0] and [PERSON_NAME_FULL_0_MALE]. They appeared as the second act in the \"battle of the bands\" sequence in Cheech and Chong's film, Up In Smoke, where they can be heard before being seen performing \"You're Not Blank\".\n",
-      "Soon after forming in late [YEAR], [BAND_NAME] relocated to San Francisco, where they would have a significant influence on that city's embryonic punk scene (bassist [PERSON_NAME_FULL_0_MALE] played briefly with The Avengers during [YEAR]), and then Los Angeles, becoming one of the major bands in the early Los Angeles punk scene too. They were known for their conspicuous radical left politics, and for a strong melodic sense that earned them the nickname \"punk rock Everly Brothers\".\n",
-      "Their debut single was \"I Hate The Rich\" / \"You're Not Blank\" (the latter covered by the Minneapolis punk band Dillinger Four), on Los Angeles-based label What? Records, released in [YEAR]. The second single, \"Class War\", was released on DangerHouse Records. The band relocated to San Francisco in [YEAR].\n"
+      "[BAND_NAME] were an [GENRE] band formed [YEAR] and active until [YEAR], originally from Carlsbad, California, United States, and fronted by the brothers Chip [PERSON_NAME_LAST_0] and [PERSON_NAME_FULL_0_MALE]. They appeared as the second act in the [SONG_NAME].\n",
+      "Soon after forming in late [YEAR], [BAND_NAME] relocated to San Francisco, where they would have a significant influence on that city's embryonic punk scene (bassist [PERSON_NAME_FULL_0_MALE] played briefly with The Avengers during [YEAR]), and then Los Angeles, becoming one of the major bands in the early Los Angeles punk scene too. They were known for their conspicuous radical left politics, and for a strong melodic sense that earned them the nickname [SONG_NAME].\n",
+      "Their debut single was [SONG_NAME], was released on DangerHouse Records. The band relocated to San Francisco in [YEAR].\n"
    ]
 }

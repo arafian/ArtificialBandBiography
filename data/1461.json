@@ -31,6 +31,16 @@
          "www.78thfrasers.net"
       ]
    },
+   "albums": [
+      "78th Fraser Highlanders (Faces album)",
+      "Up to the Line",
+      "Live In Ireland",
+      "The Immigrant's Suite",
+      "Live in Canada - The Megantic Outlaw Concert",
+      "Live in Scotland",
+      "Flame of Wrath",
+      "Cascade"
+   ],
    "prunedData": [
       "The [BAND_NAME], is a [GENRE] band from Campbellville, Ontario, Canada. \n",
       "The band was formed in [YEAR] by members of the disbanded General Motors Pipe Band with support from a [GENRE] band was allowed to keep the name after support from the group ceased.\n",

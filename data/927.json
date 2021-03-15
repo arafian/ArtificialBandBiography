@@ -31,9 +31,12 @@
          "Reed Mathis"
       ]
    },
+   "albums": [
+      "7 Walkers"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band featuring former Grateful Dead drummer Bill Kreutzmann, guitarist Papa Mali, multi-instrumentalist Matt Hubbard, and bassist [PERSON_NAME_FULL_0_MALE].\n",
-      "The band formed in [YEAR] out of informal collaborations between Bill Kreutzmann and Papa Mali. Kreutzmann had been featured as a special guest at several of Mali's concerts since [YEAR] (including a New Year's Eve [YEAR]/[YEAR] show on Maui billed as Bill Kreutzmann & Friends with multi-instrumentalist Matt Hubbard and [PERSON_NAME_FULL_0_FEMALE]  bassist James \"Hutch\" Hutchinson) and the two decided to form an official band together with multi-instrumentalist Matt Hubbard, best known for his work with Willie Nelson, and [PERSON_NAME_FULL_1_MALE], of Tea Leaf Green.\n",
-      "Their name might be an [GENRE] a song called \"[BAND_NAME].\"\n"
+      "The band formed in [YEAR] out of informal collaborations between Bill Kreutzmann and Papa Mali. Kreutzmann had been featured as a special guest at several of Mali's concerts since [YEAR] (including a New Year's Eve [YEAR]/[YEAR] show on Maui billed as Bill Kreutzmann & Friends with multi-instrumentalist Matt Hubbard and [PERSON_NAME_FULL_0_FEMALE]  bassist James [SONG_NAME] Hutchinson) and the two decided to form an official band together with multi-instrumentalist Matt Hubbard, best known for his work with Willie Nelson, and [PERSON_NAME_FULL_1_MALE], of Tea Leaf Green.\n",
+      "Their name might be an adaptation of the lyrics of the Grateful Dead song [SONG_NAME]\n"
    ]
 }

@@ -25,8 +25,13 @@
          "see Members section below"
       ]
    },
+   "albums": [
+      "Whirlywirld",
+      "Whirlywirld",
+      "Whirlywirld - The Complete Studio Works"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band led by [PERSON_NAME_FULL_0_MALE] in the late [YEAR]s and early [YEAR]s, and the first of his musical collaborations with drummer John Murphy. They played in Melbourne and Sydney and were supporters of the Melbourne little band scene.\n",
+      "[BAND_NAME] was an [GENRE] band led by [PERSON_NAME_FULL_0_FEMALE] in the late [YEAR]s and early [YEAR]s, and the first of his musical collaborations with drummer John Murphy. They played in Melbourne and Sydney and were supporters of the Melbourne little band scene.\n",
       "In [YEAR], as a guitarist, [PERSON_NAME_FULL_0_FEMALE] formed The Reals, who on occasion shared the bill at suburban dance halls with The Boys Next Door.  The Reals would eventually evolve into The Negatives, but before that [PERSON_NAME_LAST_0] had become dissatisfied with the group, and left. [PERSON_NAME_LAST_0] went on to form The Young Charlatans. The Young Charlatans' four members would all go on to distinguish themselves in long music careers: they included [PERSON_NAME_LAST_0], guitarist Rowland Howard (later of The Boys Next Door/The Birthday Party, as well as These Immortal Souls), drummer [PERSON_NAME_FULL_1_MALE] (Laughing Clowns) and bassist [MONTH]ine Hall (later of The Saints). The group was short lived and after a brief, stormy existence, the band broke up. By then [PERSON_NAME_LAST_0] had met John Murphy, the drummer for another early Melbourne punk band, NEWS.\n",
       "The pair formed [BAND_NAME] in [YEAR] with their stated priority, from the outset, to use synthesisers and other non-'rock' instruments, departing from a guitar-based format. [BAND_NAME] was completed by two keyboardists, credited with 'electronics', Andrew Duffield and [PERSON_NAME_FULL_0_MALE] (Olsen, by this point, had abandoned guitar in favour of 'electronics') together with guitarist Dean Richards. [BAND_NAME] only played live very infrequently but they did rehearse on a rigid schedule.\n"
    ]

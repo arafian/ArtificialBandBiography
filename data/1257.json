@@ -19,9 +19,17 @@
          "Los Cruzados, Tito & Tarantula, Izzy Stradlin and the Ju Ju Hounds, The Psychotic Aztecs"
       ]
    },
+   "albums": [
+      "Electrify Me",
+      "Better Luck",
+      "Los Angelinos - the eastside renaissance",
+      "Repo Man",
+      "Bob Dylan & The Plugz",
+      "New Wave Hookers soundtrack"
+   ],
    "prunedData": [
-      " [BAND_NAME]  (also known as \"Los Plugz\") were a [GENRE] band from Los Angeles, California that formed in [YEAR] and disbanded in [YEAR]. They and The Zeros were among the first [GENRE] bands, although several garage rock bands, such as Thee Midniters and Question [MONTH]k & the Mysterians, predated them. [BAND_NAME] melded the spirit of punk and Latino music.\n",
+      " [BAND_NAME]  (also known as [SONG_NAME]) were a [GENRE] band from Los Angeles, California that formed in [YEAR] and disbanded in [YEAR]. They and The Zeros were among the first [GENRE] bands, although several garage rock bands, such as Thee Midniters and Question [MONTH]k & the Mysterians, predated them. [BAND_NAME] melded the spirit of punk and Latino music.\n",
       "The Big Takeover magazine was an early fan of [BAND_NAME], and editor Jack Rabid most recently played one of their songs, “In the Wait”, on [MONTH] 12, [YEAR].\n",
-      "The band was formed in [YEAR] and was a [GENRE] bands featured in the film The [MONTH]line of Western Civilization. Their songs reflected the anger and angst of growing up Chicano, and this was reflected in their sardonic hi-speed version of [PERSON_NAME_FULL_0_MALE]' \"La Bamba\". [BAND_NAME] are generally acknowledged as being the first D.I.Y. punk band in L.A., having started their own PLUGZ RECORDS and later Fatima records.\n"
+      "The band was formed in [YEAR] and was a [GENRE] bands featured in the film The [MONTH]line of Western Civilization. Their songs reflected the anger and angst of growing up Chicano, and this was reflected in their sardonic hi-speed version of [PERSON_NAME_FULL_0_MALE]' [SONG_NAME]. [BAND_NAME] are generally acknowledged as being the first D.I.Y. punk band in L.A., having started their own PLUGZ RECORDS and later Fatima records.\n"
    ]
 }

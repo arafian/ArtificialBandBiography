@@ -43,6 +43,9 @@
          " Dish"
       ]
    },
+   "albums": [
+      "Front Row for the Donkey Show"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Los Angeles, California, formed in [YEAR] by vocalist Taime Downe, guitarists Brent Muscat and [PERSON_NAME_FULL_0_MALE] and bassist Kelly Nickels. The group has since gone through numerous lineup changes leaving Downe as the only constant member. They broke up in [YEAR], but reformed in [YEAR]. [BAND_NAME] has released four studio albums to date: [BAND_NAME] ([YEAR]), Wake Me When It's Over ([YEAR]), Whipped! ([YEAR]) and The Power and the Glory Hole ([YEAR]). They were one of the most successful hard rock bands of the late [YEAR]s and early [YEAR]s, having sold over two million records worldwide.\n",
       "[BAND_NAME] was formed in Hollywood by Taime Downe during the glam metal and glam punk boom of the [YEAR]s. The earliest incarnation of the band featured Downe and Greg Steele along with [PERSON_NAME_FULL_0_MALE]. The name of the band is derived from the Russ Meyer film Faster, Pussycat! Kill! Kill!.\n",

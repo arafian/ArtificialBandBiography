@@ -39,6 +39,7 @@
          "Pat Power"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Sweden, assembled by producer [PERSON_NAME_FULL_0_MALE] in [YEAR].\n",
       "Producer [PERSON_NAME_FULL_0_MALE] had the ambition of creating a [GENRE] band of his own for a long time, but had difficulty finding anyone with musical ideals similar to his own. However, while on holiday in the Greek islands during the year of [YEAR], [PERSON_NAME_LAST_0] met the young guitarist Gus G (from Firewind). The musicians got along quite well, despite an age difference of over a decade. Plans for a band commenced - Gus had already been planning to relocate to Gothenburg, and upon his arrival he looked up [PERSON_NAME_FIRST_0] at Studio Fredman to begin writing.\n",

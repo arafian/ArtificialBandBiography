@@ -24,9 +24,16 @@
          "Barry Taylor"
       ]
    },
+   "albums": [
+      "Hawaii",
+      "Hawaii",
+      "This Is Your Life",
+      "No Escape",
+      "Joyride on the Western Front'"
+   ],
    "prunedData": [
-      "[BAND_NAME] (originally The K-Tels) were a [GENRE] band formed in Vancouver in [YEAR] and active for just under two years. The YC's were influenced not only by the other punk bands in town at that time such as D.O.A. and the Pointed Sticks, but also by the New York Dolls, the Stooges, and [YEAR]s garage rock. Although the band only released a small amount of material before breaking up, their single \"Hawaii\" is one of the classic Canadian punk anthems.\n",
+      "[BAND_NAME] (originally The K-Tels) were a [GENRE] band formed in Vancouver in [YEAR] and active for just under two years. The YC's were influenced not only by the other punk bands in town at that time such as D.O.A. and the Pointed Sticks, but also by the New York Dolls, the Stooges, and [YEAR]s garage rock. Although the band only released a small amount of material before breaking up, their single [SONG_NAME] is one of the classic Canadian punk anthems.\n",
       "The band's leader, songwriter and guitarist was Art Bergmann, who went on to become one of the key figures in Canadian alternative rock in the [YEAR]s and [YEAR]s. The other band members were bassist [PERSON_NAME_FULL_0_MALE] and drummer Barry Taylor.\n",
-      "Their first-ever recording was the song \"I Hate Music\", for the Vancouver Complication punk compilation album. Just before the release of \"Hawaii\", they were forced to change their name when threatened with legal action by the K-Tel corporation. The K-Tels supported the Boomtown Rats on a [GENRE]"
+      "Their first-ever recording was the song [SONG_NAME], they were forced to change their name when threatened with legal action by the K-Tel corporation. The K-Tels supported the Boomtown Rats on a [GENRE]"
    ]
 }

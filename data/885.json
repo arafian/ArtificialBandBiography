@@ -36,9 +36,27 @@
          "Steve Scarborough"
       ]
    },
+   "albums": [
+      "37:29:24",
+      "The Language of Cities",
+      "The Language of Cities + 2",
+      "Confines Of Heat EP+DVD",
+      "Confines of Heat LP",
+      "Towers Were Wires/Asymmetrical Threats 7\"",
+      "Split EP",
+      "Inventions for the New Season",
+      "Inventions Remixes",
+      "Split",
+      "Passages",
+      "Pyramid of the Moon",
+      "Pyramid of the Sun",
+      "Maserati VII",
+      "Rehumanizer",
+      "Enter the Mirror"
+   ],
    "prunedData": [
       "[BAND_NAME] is a band formed in [YEAR] in Athens, Georgia. Originally conceived as exclusively instrumental, the band's sound later shifted towards psychedelic rock, synth rock, and even moments of techno. Their sound is often characterized by soaring guitar hooks and a driving rhythm section interlaced with synthesizers and electronic elements. They are currently signed to Temporary Residence Limited, based in Brooklyn, New York.\n",
-      "Coley Dennis, Matt Cherry, [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_1_MALE] began making music together in [MONTH] [YEAR] and in [MONTH] played their first show at the now-defunct Above Bookstore in Athens, Georgia.  That [MONTH] they recorded and self-released their debut album, 37:29:24. In [YEAR] the band signed with Kindercore Records and toured the US over the next several years. Their second album The Language of Cities was released in [YEAR] followed by Confines Of Heat (split with Gainesville, FL's The Mercury Program) in [YEAR] - both released by Kindercore.  Shortly thereafter Athens-based Hello Sir Records released the Towers Were Wires 7\" and a split CD with Cinemechanica and We Versus the Shark. Cherry left the group temporarily in [YEAR], replaced by Tristan Wraight.  Following a [YEAR] Japan tour with MONO, [PERSON_NAME_LAST_1] left the group and the band went on hiatus for a year.  \n",
-      "In [YEAR], the band reconvened with Jerry Fuchs (Turing Machine, The Juan MacLean, !!!) stepping in on drums and Cherry re-joining on guitar. Fuchs' influence pushed the band towards a heavier, more psychedelic and space rock-influenced sound. [BAND_NAME] toured the US and Europe throughout [YEAR] and [YEAR], playing with bands such as !!!, Battles, and Black Moth Super Rainbow.  The band signed with Temporary Residence in [YEAR], releasing their third album Inventions for the New Season later that year followed by the Inventions Remixes 12\" featuring remixes by [PERSON_NAME_FULL_1_MALE] and Justin Van Der Volgen.  In [YEAR] Scarborough left the group and was replaced by bassist [PERSON_NAME_FULL_0_MALE] (Some Soviet Station, Vincas). In early [YEAR] Temporary Residence released the [BAND_NAME]/Zombi split LP, followed by the rarities collection Passages later that year.  Throughout [YEAR] and [YEAR] the band wrote and recorded material for a new full-length between various tours supporting both MONO and STS9.  \n"
+      "Coley Dennis, Matt Cherry, [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_0_MALE] began making music together in [MONTH] [YEAR] and in [MONTH] played their first show at the now-defunct Above Bookstore in Athens, Georgia.  That [MONTH] they recorded and self-released their debut album, 37:29:24. In [YEAR] the band signed with Kindercore Records and toured the US over the next several years. Their second album The Language of Cities was released in [YEAR] followed by Confines Of Heat (split with Gainesville, FL's The Mercury Program) in [YEAR] - both released by Kindercore.  Shortly thereafter Athens-based Hello Sir Records released the Towers Were Wires 7\" and a split CD with Cinemechanica and We Versus the Shark. Cherry left the group temporarily in [YEAR], replaced by Tristan Wraight.  Following a [YEAR] Japan tour with MONO, [PERSON_NAME_LAST_0] left the group and the band went on hiatus for a year.  \n",
+      "In [YEAR], the band reconvened with Jerry Fuchs (Turing Machine, The Juan MacLean, !!!) stepping in on drums and Cherry re-joining on guitar. Fuchs' influence pushed the band towards a heavier, more psychedelic and space rock-influenced sound. [BAND_NAME] toured the US and Europe throughout [YEAR] and [YEAR], playing with bands such as !!!, Battles, and Black Moth Super Rainbow.  The band signed with Temporary Residence in [YEAR], releasing their third album Inventions for the New Season later that year followed by the Inventions Remixes 12\" featuring remixes by [PERSON_NAME_FULL_0_MALE] and Justin Van Der Volgen.  In [YEAR] Scarborough left the group and was replaced by bassist [PERSON_NAME_FULL_1_MALE] (Some Soviet Station, Vincas). In early [YEAR] Temporary Residence released the [BAND_NAME]/Zombi split LP, followed by the rarities collection Passages later that year.  Throughout [YEAR] and [YEAR] the band wrote and recorded material for a new full-length between various tours supporting both MONO and STS9.  \n"
    ]
 }

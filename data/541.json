@@ -39,6 +39,14 @@
          "Danny Martin"
       ]
    },
+   "albums": [
+      "Solitary Witness",
+      "Infinity Parade",
+      "The Vision Pit",
+      "Science of Coincidence",
+      "Entertaining Angels",
+      "Entertaining Angels - Vinyl 2-LP Set"
+   ],
    "prunedData": [
       "[BAND_NAME] are a [GENRE] band. Since forming in [YEAR], they have so far released a total of ten albums, four of which were recorded live at various concerts in the UK and elsewhere in Europe, plus two full concert DVDs.\n",
       "Initially signing to a [GENRE] band have established themselves within the world of progressive rock, though their style may also extend into album-oriented rock, melodic rock, hard rock and even a slightly jazz edge.\n",

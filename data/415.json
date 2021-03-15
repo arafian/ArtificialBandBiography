@@ -35,8 +35,14 @@
          "Brian Brasher"
       ]
    },
+   "albums": [
+      "My Own Prison",
+      "Human Clay",
+      "Weathered",
+      "Full Circle"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Tallahassee, Florida, formed in [YEAR]. For the majority of its existence, the band consisted of lead vocalist [PERSON_NAME_FIRST_0] Stapp, guitarist and vocalist [MONTH]k Tremonti, bassist Brian [MONTH]shall, and drummer [PERSON_NAME_FULL_0_MALE]. [BAND_NAME] released two studio albums, My Own Prison in [YEAR] and Human Clay in [YEAR], before [MONTH]shall left the band in [YEAR]. The band's third album, Weathered, was released in [YEAR], with Tremonti handling bass guitar. [BAND_NAME] disbanded in [YEAR]; Stapp pursued a solo career while Tremonti, [MONTH]shall, and [PERSON_NAME_LAST_0] went on to found the band Alter Bridge with [PERSON_NAME_FULL_1_MALE] in [YEAR].\n",
+      "[BAND_NAME] is an [GENRE] band from Tallahassee, Florida, formed in [YEAR]. For the majority of its existence, the band consisted of lead vocalist [PERSON_NAME_FIRST_1] Stapp, guitarist and vocalist [MONTH]k Tremonti, bassist Brian [MONTH]shall, and drummer [PERSON_NAME_FULL_1_MALE]. [BAND_NAME] released two studio albums, My Own Prison in [YEAR] and Human Clay in [YEAR], before [MONTH]shall left the band in [YEAR]. The band's third album, Weathered, was released in [YEAR], with Tremonti handling bass guitar. [BAND_NAME] disbanded in [YEAR]; Stapp pursued a solo career while Tremonti, [MONTH]shall, and [PERSON_NAME_LAST_1] went on to found the band Alter Bridge with [PERSON_NAME_FULL_0_MALE] in [YEAR].\n",
       "In [YEAR], after months of speculation, [BAND_NAME] reunited for a fourth album, Full Circle, and actively toured until [YEAR]. Since then, [BAND_NAME] has been on hiatus while the instrumental members have remained active with [PERSON_NAME_FULL_0_MALE]; Stapp has continued his solo career and joined the band Art of Anarchy in [YEAR]. Tremonti also formed his own band, Tremonti, in [YEAR].\n",
       "[BAND_NAME] is often recognized as one of the prominent acts of the post-grunge movement that began in the mid-[YEAR]s. Becoming popular in the late [YEAR]s and early [YEAR]s, [BAND_NAME] released three consecutive multi-platinum albums, with their album Human Clay being certified diamond. [BAND_NAME] has sold over 28 million records in the United States, has sold over 53 million albums worldwide, and was the ninth best-selling artist of the [YEAR]s. However, [BAND_NAME] has been negatively received by some critics and listeners, with the band having been listed by readers of Rolling Stone magazine as the worst artist of the [YEAR]s.\n"
    ]

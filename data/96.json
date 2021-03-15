@@ -30,6 +30,15 @@
          "Luis IlladesJoel Reader"
       ]
    },
+   "albums": [
+      "Undressed",
+      "Deflowered",
+      "Wish I'd Taken Pictures",
+      "Absurd Pop Song Romance",
+      "Total Entertainment!",
+      "That's So Gay",
+      "Quite Contrary"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band formed in San Francisco, California, United States, in [YEAR] by singer-songwriter [PERSON_NAME_FULL_0_MALE] and bassist Chris Freeman.\n",
       "Conceived as the first openly gay rock band featuring predominantly gay musicians, [BAND_NAME]'s music, a [GENRE] a humorous light. In [YEAR], the band signed to punk label Lookout! Records and received international notoriety touring with Green Day in [YEAR], becoming the most commercially successful band of the queercore movement which began in the [YEAR]s.\n",

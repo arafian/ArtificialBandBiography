@@ -26,9 +26,12 @@
          "Rachel Trachtenburg"
       ]
    },
+   "albums": [
+      "Funs Cool"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Brooklyn, New York. It consists of Kay Kasperhauser and Lulu Landolfi. [PERSON_NAME_FULL_1_FEMALE] was the band's drummer briefly. After performing five shows at SXSW in [YEAR], the band was praised by NPR music critics Bob Boilen and [PERSON_NAME_FULL_0_MALE] and was signed to Rough Trade Records.\n",
-      "Their first full-length album, Funs Cool, was released in [YEAR] and earned positive reviews from critics, who praised the blunt honesty of their lyrics, the prominent use of the ukulele in their music, and their inventive reinterpretations of other songs (The Misfits, [PERSON_NAME_FULL_0_FEMALE]). Several reviewers noted that [BAND_NAME] subvert the \"cutesy\" tropes and expectations that come along with being an [GENRE] band fronted by women and featuring ukulele.\n",
-      "The single, Suicide Hotline, has been especially praised for its sardonic humor and honest discussion of mental health. [PERSON_NAME_FULL_0_FEMALE] of NPR wrote that the song \"couches stunning barbs of insight between sweet, fun harmonies and playful ukulele strums.\"\n"
+      "Their first full-length album, Funs Cool, was released in [YEAR] and earned positive reviews from critics, who praised the blunt honesty of their lyrics, the prominent use of the ukulele in their music, and their inventive reinterpretations of other songs (The Misfits, [PERSON_NAME_FULL_0_FEMALE]). Several reviewers noted that [BAND_NAME] subvert the [SONG_NAME] tropes and expectations that come along with being an [GENRE] band fronted by women and featuring ukulele.\n",
+      "The single, Suicide Hotline, has been especially praised for its sardonic humor and honest discussion of mental health. [PERSON_NAME_FULL_0_FEMALE] of NPR wrote that the song [SONG_NAME]\n"
    ]
 }

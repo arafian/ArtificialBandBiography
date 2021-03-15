@@ -61,9 +61,15 @@
          "Tim Yasui\n  "
       ]
    },
+   "albums": [
+      "Non-Stop Rock",
+      "Don't Cry Wolf",
+      "Playa Del Rock",
+      "Call That Girl"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band formed in Hollywood, California in [YEAR]. The band included several members that would go on to play in more famous bands, such as Mötley Crüe, Guns N' Roses, W.A.S.P. and Cinderella.\n",
       "[BAND_NAME] was formed in [YEAR] by Lizzie Grey, [PERSON_NAME_FULL_1_FEMALE] and [PERSON_NAME_FIRST_0] Rage (real name [PERSON_NAME_FULL_0_MALE]). The three met when [PERSON_NAME_LAST_1] and Rage were recruited to play bass and drums for Sister, the band that Grey was in with Blackie Lawless. This lineup did not last long and soon Grey, [PERSON_NAME_LAST_1] and Rage left to form [BAND_NAME].\n",
-      "[BAND_NAME] was briefly joined by Michael White as the vocalist, who bore a resemblance, both in voice and image, to [PERSON_NAME_FULL_1_MALE]. After disagreements with the band, White left to focus on his own band, The White. For years, [BAND_NAME] tried to get a record deal, but the formula was not working until [YEAR], when Nadir D'Priest and [PERSON_NAME_FULL_0_MALE] joined the band.\n"
+      "[BAND_NAME] was briefly joined by Michael White as the vocalist, who bore a resemblance, both in voice and image, to [PERSON_NAME_FULL_0_MALE]. After disagreements with the band, White left to focus on his own band, The White. For years, [BAND_NAME] tried to get a record deal, but the formula was not working until [YEAR], when Nadir D'Priest and [PERSON_NAME_FULL_1_MALE] joined the band.\n"
    ]
 }

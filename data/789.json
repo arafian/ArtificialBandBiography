@@ -27,6 +27,13 @@
          "Mats Larsson"
       ]
    },
+   "albums": [
+      "Fibes, Oh Fibes!",
+      "Still Fresh",
+      "Emotional",
+      "1987",
+      "Album"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band that rose to fame in early [YEAR].\n",
       "The trio, from Gothenburg on the west coast of Sweden, was formed in [YEAR]. Their first release was a self-titled EP in [YEAR]. The band name is from drum company Fibes Drums, of which the band had a beloved drumset in its early career.\n",

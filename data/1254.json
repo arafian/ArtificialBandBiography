@@ -37,8 +37,9 @@
          "Connor Lung"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band originating from Redwood City, California, but is now located in Southern California. They have released two EPs and one album. They were named in [YEAR] as one of the top unsigned bands by PureVolume, and won an MTV Video Music Award in [YEAR] for Best Breakout Bay Area Artist. Their song \"Dearest, I'm So Sorry\" was available as downloadable content for Rock Band 2. The band has been on hiatus from touring since [YEAR].\n",
+      "[BAND_NAME] is an [GENRE] band originating from Redwood City, California, but is now located in Southern California. They have released two EPs and one album. They were named in [YEAR] as one of the top unsigned bands by PureVolume, and won an MTV Video Music Award in [YEAR] for Best Breakout Bay Area Artist. Their song [SONG_NAME] was available as downloadable content for Rock Band 2. The band has been on hiatus from touring since [YEAR].\n",
       "[BAND_NAME] was formed in [YEAR] by Layla Brooklyn Allman, lead singer and keyboardist, and bassist, [PERSON_NAME_FULL_0_MALE]. The band was originally called 'Lane Four' with 'Lane' reflecting the first initial of the original four band members (Layla, [PERSON_NAME_FIRST_0], Nick, and Eric).  After several member changes and evolving style, the band settled into its new name:  [BAND_NAME].  With early performances consisting of covers made famous by some of rock's best known icons, the band now writes, performs and records its own songs and has had several releases.\n",
       "In [MONTH] [YEAR], the band released a 4-song EP (Mannequins), produced by multi-platinum award winning producer, David Bendeth and has received acclaimed reviews from various rock publications, including Rockstar Glued, Examiner.com and MetalliVille.\n"
    ]

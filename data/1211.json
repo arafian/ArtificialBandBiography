@@ -37,9 +37,14 @@
          "Orpheo McCord (Drums)"
       ]
    },
+   "albums": [
+      "Ima Robot",
+      "Monument to the Masses",
+      "Another Man's Treasure"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in Los Angeles, California, United States, that formed in the late [YEAR]s. They have released several albums, EPs, and singles, most notably [BAND_NAME] in [YEAR], Search and Destroy and Monument to the Masses in [YEAR], and Another Man's Treasure in [YEAR]. The band's song, \"Greenback Boogie\", a B-Side to Another Man's Treasure, is the main theme song of the USA Network legal drama series Suits.\n",
-      "In the [YEAR]'s, singer/rapper [PERSON_NAME_FULL_1_MALE] and guitarist Tim \"Timmy the Terror\" Anderson worked together under various names including 13's Lucky, The Window Club, and Eiffel Tower Window Masters before deciding on the band name [BAND_NAME]. The phrase \"[BAND_NAME]\" came from an [GENRE] band, which [PERSON_NAME_LAST_1] has stated \"was something that we thought was really, really, really, really funny, and I can't, for the life of me, remember why\" In [YEAR], the duo recruited keyboardist/bassist Oliver \"Oligee\" Goldstein. The trio would perform with various frequently changing members until they recruited drummer [PERSON_NAME_FULL_0_MALE] in [MONTH] [YEAR] and bassist Justin Meldal-Johnsen in [MONTH] [YEAR]. The band recorded numerous untitled Demo CDs through the late 90's and early [YEAR]'s. In mid/late [YEAR], [BAND_NAME] was signed to Virgin Records. As [PERSON_NAME_LAST_1] described the first thing Virgin Chairman/CEO said about the band: \"The first thing Matt Serletic said was that seeing us was like seeing the Ramones for the first time, and that he felt this kind of energy that we needed to capture and not try to gloss and glean over.\" [PERSON_NAME_LAST_0] was let go the day after the band was signed, and was replaced by studio drummer [PERSON_NAME_FULL_2_MALE].\n",
-      "On [MONTH] 16, [YEAR], [BAND_NAME] released their first full-length album, the self-titled [BAND_NAME]. The album featured the singles \"Dynomite\" and \"Song #1\" (released in the UK only).\n"
+      "[BAND_NAME] is an [GENRE] band based in Los Angeles, California, United States, that formed in the late [YEAR]s. They have released several albums, EPs, and singles, most notably [BAND_NAME] in [YEAR], Search and Destroy and Monument to the Masses in [YEAR], and Another Man's Treasure in [YEAR]. The band's song, [SONG_NAME], a B-Side to Another Man's Treasure, is the main theme song of the USA Network legal drama series Suits.\n",
+      "In the [YEAR]'s, singer/rapper [PERSON_NAME_FULL_0_MALE] and guitarist Tim [SONG_NAME] [PERSON_NAME_LAST_2] was let go the day after the band was signed, and was replaced by studio drummer [PERSON_NAME_FULL_1_MALE].\n",
+      "On [MONTH] 16, [YEAR], [BAND_NAME] released their first full-length album, the self-titled [BAND_NAME]. The album featured the singles [SONG_NAME] (released in the UK only).\n"
    ]
 }

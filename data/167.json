@@ -27,9 +27,13 @@
          "Joe Ledesma"
       ]
    },
+   "albums": [
+      "Unipsycho",
+      "Live Lycanthropy"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band, formed in [YEAR] by former Metallica bassist Jason Newsted.\n",
       "The band emerged from a mountain biking-based friendship between Jason and his neighborhood bike shop owner. Early in the project, Newsted played the drums and fellow Michigan-native [PERSON_NAME_FULL_0_MALE] played the guitar.  Since then, Newsted assumed full guitar and vocal responsibilities while [PERSON_NAME_LAST_0] returned to the drumkit and handled artistic duties.\n",
-      "The band records every single session at Newsted's home studio, The Chophouse, and have played several Bay Area gigs - ranging from outdoor BBQs to his neighbor's living room birthday party to local [PERSON_NAME_FULL_0_MALE] rock clubs.\n"
+      "The band records every single session at Newsted's home studio, The Chophouse, and have played several Bay Area gigs - ranging from outdoor BBQs to his neighbor's living room birthday party to local [PERSON_NAME_FULL_0_FEMALE] rock clubs.\n"
    ]
 }

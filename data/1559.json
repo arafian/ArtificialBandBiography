@@ -5,8 +5,9 @@
       "This article about a Spanish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ],
    "infobox": {},
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] (\"Dangerous Friendships\") was a [GENRE] band formed in [YEAR] by singers [PERSON_NAME_FULL_0_MALE] from Galicia and Cristina del Valle from Asturias. Their music blended two [GENRE] Music types such as Celtic and Classical music. Bagpipes, flute and bouzouki are common instruments used by the band. [BAND_NAME] disbanded in [MONTH] [YEAR].\n",
+      "[BAND_NAME] ([SONG_NAME]) was a [GENRE] band formed in [YEAR] by singers [PERSON_NAME_FULL_0_MALE] from Galicia and Cristina del Valle from Asturias. Their music blended two [GENRE] Music types such as Celtic and Classical music. Bagpipes, flute and bouzouki are common instruments used by the band. [BAND_NAME] disbanded in [MONTH] [YEAR].\n",
       "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

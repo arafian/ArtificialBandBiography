@@ -27,6 +27,13 @@
          "Mario Rubalcaba"
       ]
    },
+   "albums": [
+      "Sonic Prayer",
+      "Rhythms from a Cosmic Sky",
+      "From the Ages",
+      "Acid Crusher/Mount Swan",
+      "Black Heaven"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from San Diego, California consisting of guitarist Isaiah Mitchell, bassist [PERSON_NAME_FULL_0_MALE] and drummer [MONTH]io Rubalcaba. \n",
       "The band formed in [YEAR] and released their first album, Sonic Prayer, through Gravity Records in [YEAR]. Their second album, Rhythms from a Cosmic Sky, was released in [YEAR] through Tee Pee Records.\n",

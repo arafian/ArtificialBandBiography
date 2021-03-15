@@ -23,9 +23,10 @@
          "Rob Power>"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] were a [GENRE] band of the early [YEAR]s. Although they recorded only one album before breaking up, they are most noted for garnering a [MONTH]o Award nomination for Most Promising Group at the [MONTH]o Awards of [YEAR] and for being only the second band from Newfoundland — and the first in a mainstream popular music genre, as their only predecessor was the traditional Newfoundland folk music band Figgy Duff — ever to sign a deal with a major record label.\n",
-      "Originally known as Crisis, the band consisted of vocalist and guitarist Robin Cook, guitarist [PERSON_NAME_FULL_0_MALE], bassist Darren 'Dirt' Churchill and drummer [PERSON_NAME_FULL_1_MALE]. After regularly touring the province but struggling to break out, they moved to Vancouver, British Columbia in [YEAR], where they landed a [GENRE] an early break as an opening act for Sue Medley.\n",
-      "After Medley talked the band up to her record label, they signed to Polygram Records in [YEAR]. In [MONTH] [YEAR], they entered the studio to begin recording their debut album on the same day the United States entered the Gulf War; the situation inspired the song \"My God Is Bigger Than Your God\", which was written during the recording sessions.\n"
+      "Originally known as Crisis, the band consisted of vocalist and guitarist Robin Cook, guitarist [PERSON_NAME_FULL_1_MALE], bassist Darren 'Dirt' Churchill and drummer [PERSON_NAME_FULL_0_MALE]. After regularly touring the province but struggling to break out, they moved to Vancouver, British Columbia in [YEAR], where they landed a [GENRE] an early break as an opening act for Sue Medley.\n",
+      "After Medley talked the band up to her record label, they signed to Polygram Records in [YEAR]. In [MONTH] [YEAR], they entered the studio to begin recording their debut album on the same day the United States entered the Gulf War; the situation inspired the song [SONG_NAME], which was written during the recording sessions.\n"
    ]
 }

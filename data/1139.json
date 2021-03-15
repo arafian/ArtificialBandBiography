@@ -45,9 +45,13 @@
          "Xavier Muriel"
       ]
    },
+   "albums": [
+      "One Night Only: Live",
+      "Live in Detroit – 1984"
+   ],
    "prunedData": [
-      "Black 'N Blue is an [GENRE] band from Portland, Oregon, United States. The current members are lead vocalist Jaime St. James, bassist [PERSON_NAME_FULL_0_MALE], drummer Pete Holmes, and guitarists [PERSON_NAME_FULL_1_MALE] and Bobby Capka. The band is best known for their song \"Hold On to 18\" from their eponymous debut studio album, [BAND_NAME], released in [MONTH] [YEAR].\n",
-      "Black 'N Blue was formed in [MONTH] [YEAR] by high school friends Jamie St. James and [PERSON_NAME_FULL_0_MALE] in Portland, Oregon.  Originally calling themselves Movie Star, the band later chose the name Black 'N Blue based on their 'in-your-face' sound and denim and leather look. The band got their first break in [YEAR] when heavy metal fanzine editor [PERSON_NAME_FULL_1_MALE] heard their song demo of \"Chains Around Heaven\" and subsequently added the track to his first edition of Metal Massacre — an [GENRE]",
-      "Black 'N Blue moved to Los Angeles in [YEAR] making an [GENRE] band signed a worldwide recording contract with Geffen Records, releasing their self-titled debut album, Black 'N Blue, in [MONTH] [YEAR]. The Dieter Dierks-produced album included \"Hold On to 18,\" which was released to radio and MTV and became a moderate success, boosting album sales. A follow-up album, entitled Without Love, was released the following year.  This album saw the band modify their original rougher, hard-edge sound in favor of a more polished metal approach.  \"Miss Mystery\" was a radio success and the band toured with KISS that year.  A second track from this album, \"Nature of the Beach\" appeared in the film Vision Quest  and also appeared as the B-side to the Madonna single \"Gambler\" from the same movie, although it was not included on the soundtrack LP.\n"
+      "Black 'N Blue is an [GENRE] band from Portland, Oregon, United States. The current members are lead vocalist Jaime St. James, bassist [PERSON_NAME_FULL_1_MALE], drummer Pete Holmes, and guitarists [PERSON_NAME_FULL_0_MALE] and Bobby Capka. The band is best known for their song [SONG_NAME] from their eponymous debut studio album, [BAND_NAME], released in [MONTH] [YEAR].\n",
+      "Black 'N Blue was formed in [MONTH] [YEAR] by high school friends Jamie St. James and [PERSON_NAME_FULL_0_MALE] in Portland, Oregon.  Originally calling themselves Movie Star, the band later chose the name Black 'N Blue based on their 'in-your-face' sound and denim and leather look. The band got their first break in [YEAR] when heavy metal fanzine editor [PERSON_NAME_FULL_1_MALE] heard their song demo of [SONG_NAME] and subsequently added the track to his first edition of Metal Massacre — an [GENRE]",
+      "Black 'N Blue moved to Los Angeles in [YEAR] making an [GENRE] band signed a worldwide recording contract with Geffen Records, releasing their self-titled debut album, Black 'N Blue, in [MONTH] [YEAR]. The Dieter Dierks-produced album included [SONG_NAME] from the same movie, although it was not included on the soundtrack LP.\n"
    ]
 }

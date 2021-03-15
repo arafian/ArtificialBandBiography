@@ -61,9 +61,20 @@
          "Pete Holmes"
       ]
    },
+   "albums": [
+      "Ratt (EP)",
+      "Out of the Cellar",
+      "Invasion of Your Privacy",
+      "Dancing Undercover",
+      "Reach for the Sky",
+      "Detonator",
+      "Collage",
+      "Ratt",
+      "Infestation"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band that had significant commercial success in the [YEAR]s, with their albums having been certified as gold, platinum, and multi-platinum by the RIAA. The group is perhaps best known for hit singles such as \"Round and Round\" and \"Lay It Down\", each track having ranked on Billboard's top 40. Other songs such as \"Wanted Man\", \"You're in Love\" and \"Dance\" also have ranked there. \n",
-      "Along with groups like Mötley Crüe, [BAND_NAME] has been recognized as instrumental in the formation of the early [YEAR]s Los Angeles glam metal scene, also known as \"hair metal\" or \"pop metal\". The band has continued to tour and record following extended hiatuses and line-up changes, releasing their latest studio album, Infestation, on [MONTH] 20, [YEAR].\n",
+      "[BAND_NAME] is an [GENRE] band that had significant commercial success in the [YEAR]s, with their albums having been certified as gold, platinum, and multi-platinum by the RIAA. The group is perhaps best known for hit singles such as [SONG_NAME] also have ranked there. \n",
+      "Along with groups like Mötley Crüe, [BAND_NAME] has been recognized as instrumental in the formation of the early [YEAR]s Los Angeles glam metal scene, also known as [SONG_NAME]. The band has continued to tour and record following extended hiatuses and line-up changes, releasing their latest studio album, Infestation, on [MONTH] 20, [YEAR].\n",
       "In [MONTH] [YEAR], [BAND_NAME] signed with the production company Time Coast Music. The company was run by the band's then-manager, [MONTH]shall Berle. Time Coast had previously issued records by Spirit and The Alley Cats.\n"
    ]
 }

@@ -33,8 +33,11 @@
          "David Murphy"
       ]
    },
+   "albums": [
+      "Interplanetary Escape Vehicle"
+   ],
    "prunedData": [
-      "[BAND_NAME] (STS9) is an [GENRE] band whose sound is based heavily on [GENRE] rock and electronic music, funk, jazz, drum and bass, psychedelia, and hip hop, originating in Georgia, United States. Self-described as \"post-rock dance music,\"  the band mixes standard live rock instrumentation with electronics, favoring group rhythm over individual solos.\n",
+      "[BAND_NAME] (STS9) is an [GENRE] band whose sound is based heavily on [GENRE] rock and electronic music, funk, jazz, drum and bass, psychedelia, and hip hop, originating in Georgia, United States. Self-described as [SONG_NAME]  the band mixes standard live rock instrumentation with electronics, favoring group rhythm over individual solos.\n",
       "STS9 has released 11 albums, two remixed albums (Artifact: Perspectives and Peaceblaster: Make it Right Remixes), and multiple live DVDs (Live as Time Changes, Axe The Cables, and various live performances) on their own label, [YEAR] Records. STS9 has toured the US nationally and internationally, ranking among Pollstar Magazine's list of top-grossing touring acts, with a [GENRE]",
       "Some of their recent past accomplishments include headlining stages at some of the country's major music festivals (including Bonnaroo, Wakarusa, Electric Forest, and Suwanee Hulaween), playing for sold-out concert venues around the country (playing as both an [GENRE] an electronic act in amphitheaters), performing with the likes of Jay-Z in Denver of [YEAR], running an independent record label, and using their voice as a platform for change, along with raising significant amounts of money towards activism efforts. STS9 is also known for pushing musical boundaries, mixing different music influences and sounds by using both acoustic and electronic means.\n"
    ]

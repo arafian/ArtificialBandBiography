@@ -6,8 +6,16 @@
       "In 1974 they moved for six months to Northern Ireland, which was at that time war-torn by The Troubles. Here they ran what was essentially a street concert ministry, as well as playing many concerts in schools, colleges, and large concert halls. During this time they also played at the inaugural Greenbelt Festival in England. They then moved to London after being signed to Word Records' Myrrh label. Throughout 1975 the band toured with Malcolm and Alwyn, Barry McGuire, and Jamie Owens. In 1976 they toured Europe with Chuck Girard before moving back to Texas until 1979, when they relocated to Los Angeles.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Liberation Suite",
+      "Stride for Stride",
+      "Water and Blood",
+      "Fight for the Light",
+      "Liberation Suite - 25th Anniversary Edition",
+      "Liberation Suite: Live In Europe"
+   ],
    "prunedData": [
-      "[BAND_NAME] (sometimes LibSuite) was a [GENRE] band. They originated in San [MONTH]cos, Texas but soon moved to Great Britain, where they found their greatest success. Cross Rhythms characterizes the band as having a \"special relationship\" with the United kingdom and a straightforward approach to music and ministry. Typical of Jesus music, they played songs in a variety of styles including country, new wave, and rock.\n",
+      "[BAND_NAME] (sometimes LibSuite) was a [GENRE] band. They originated in San [MONTH]cos, Texas but soon moved to Great Britain, where they found their greatest success. Cross Rhythms characterizes the band as having a [SONG_NAME] with the United kingdom and a straightforward approach to music and ministry. Typical of Jesus music, they played songs in a variety of styles including country, new wave, and rock.\n",
       "[BAND_NAME] formed early in the Jesus Music era, prior to [YEAR] in San [MONTH]cos, Texas. The group got their start as a [GENRE] band for a choral group called Sound 70 based in San [MONTH]cos, Texas, but began traveling with evangelist Bill Lowery and the Christ is the Answer tent ministry in [YEAR].\n",
       "In [YEAR] they moved for six months to Northern Ireland, which was at that time war-torn by The Troubles. Here they ran what was essentially a street concert ministry, as well as playing many concerts in schools, colleges, and large concert halls. During this time they also played at the inaugural Greenbelt Festival in England. They then moved to London after being signed to Word Records' Myrrh label. Throughout [YEAR] the band toured with Malcolm and Alwyn, [PERSON_NAME_FULL_0_MALE], and Jamie Owens. In [YEAR] they toured Europe with [PERSON_NAME_FULL_1_MALE] before moving back to Texas until [YEAR], when they relocated to Los Angeles.\n"
    ]

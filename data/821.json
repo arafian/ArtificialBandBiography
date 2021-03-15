@@ -45,9 +45,16 @@
          "Bruce Fairweather"
       ]
    },
+   "albums": [
+      "Between the Eyes",
+      "Dayglo",
+      "Far Gone",
+      "Straight Freak Ticket",
+      "Confusion Au Go Go"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Seattle, Washington.\n",
-      "[BAND_NAME] was formed in [YEAR] by former Room Nine leader [PERSON_NAME_FIRST_0] Nine (b. [PERSON_NAME_FULL_0_MALE]), guitarist [PERSON_NAME_FULL_1_MALE] (ex-Crisis Party), bassist Tommy \"Bonehead\" Simpson (also ex-Crisis Party) and Mudhoney drummer Dan Peters.  Their name came from a [GENRE] band the Buzzcocks.\n",
-      "Before releasing their first single Peters left the group and was replaced by ex-Skin Yard drummer Jason Finn. With this lineup the band released their debut single Between The Eyes for seminal Seattle record label [PERSON_NAME_FULL_1_FEMALE]. By [YEAR] Simpson had been replaced by ex-U-Men bassist [PERSON_NAME_FULL_0_MALE]. With this lineup the band released their debut EP Between the Eyes in [YEAR], again on [PERSON_NAME_FULL_1_FEMALE]. This record was later expanded and released as their first full-length album in [YEAR]. Following the Between The Eyes EP were the Foot singles and Out Of Focus EP.\n"
+      "[BAND_NAME] was formed in [YEAR] by former Room Nine leader [PERSON_NAME_FIRST_1] Nine (b. [PERSON_NAME_FULL_1_MALE]), guitarist [PERSON_NAME_FULL_0_MALE] (ex-Crisis Party), bassist Tommy [SONG_NAME] Simpson (also ex-Crisis Party) and Mudhoney drummer Dan Peters.  Their name came from a [GENRE] band the Buzzcocks.\n",
+      "Before releasing their first single Peters left the group and was replaced by ex-Skin Yard drummer Jason Finn. With this lineup the band released their debut single Between The Eyes for seminal Seattle record label [PERSON_NAME_FULL_0_FEMALE]. By [YEAR] Simpson had been replaced by ex-U-Men bassist [PERSON_NAME_FULL_1_MALE]. With this lineup the band released their debut EP Between the Eyes in [YEAR], again on [PERSON_NAME_FULL_0_FEMALE]. This record was later expanded and released as their first full-length album in [YEAR]. Following the Between The Eyes EP were the Foot singles and Out Of Focus EP.\n"
    ]
 }

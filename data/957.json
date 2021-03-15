@@ -32,9 +32,19 @@
          "Pete Heimbold"
       ]
    },
+   "albums": [
+      "Silent Steeples",
+      "Bang Bang",
+      "Four-Day Trials",
+      "Who Are We Living For?",
+      "Circles Around the Sun",
+      "America, Location 12",
+      "Location 13",
+      "Break Our Fall"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band. The band consists of Brad Corrigan (vocals, drums, guitar, percussion, and harmonica) and Chad Urmston (vocals, guitar, bass, and percussion). The band's original bassist, [PERSON_NAME_FULL_0_MALE], left in [YEAR].\n",
-      "The band, which is based in the Boston area, was originally active from [YEAR] until [YEAR]. The members then announced a [GENRE] a decade; during this period, the band came together for reunion concerts in Boston ([YEAR]), New York City ([YEAR]), and Washington, D.C. ([YEAR]). The hiatus ended at the beginning of [YEAR], when the band announced a national tour. In [MONTH] of the same year, [BAND_NAME] released an EP containing six new songs, their first all-new release since [YEAR]. The band released both their first studio album in over a decade, Circles Around the Sun, and an iTunes session in [YEAR] and toured North America that summer in support of the album.  On [MONTH] 22, [YEAR], [BAND_NAME] announced a double-disc live album called \"Ain't No Trip to Cleveland Vol. 1\", released on [MONTH] 4, [YEAR]. After a long hiatus, [BAND_NAME] returned with their new album, America, Location 12, released on [MONTH] 2, [YEAR].\n",
-      "Hermit Thrush and Woodriver Bandits merged into an [GENRE] band in the early [YEAR]s as One Fell Swoop.  They soon changed their name to [BAND_NAME] after a dispute with another band of the same name. [PERSON_NAME_FULL_0_MALE], Brad Corrigan, and [PERSON_NAME_FULL_1_MALE], who were all attending Middlebury College, comprised the band's lineup throughout their entire schooling. Their music drew upon several genres, such as acoustic folk-rock, reggae, and funk.  They did several concerts in their early years both in and around Middlebury, gaining a name for themselves at the college.\n"
+      "The band, which is based in the Boston area, was originally active from [YEAR] until [YEAR]. The members then announced a [GENRE] a decade; during this period, the band came together for reunion concerts in Boston ([YEAR]), New York City ([YEAR]), and Washington, D.C. ([YEAR]). The hiatus ended at the beginning of [YEAR], when the band announced a national tour. In [MONTH] of the same year, [BAND_NAME] released an EP containing six new songs, their first all-new release since [YEAR]. The band released both their first studio album in over a decade, Circles Around the Sun, and an iTunes session in [YEAR] and toured North America that summer in support of the album.  On [MONTH] 22, [YEAR], [BAND_NAME] announced a double-disc live album called [SONG_NAME], released on [MONTH] 4, [YEAR]. After a long hiatus, [BAND_NAME] returned with their new album, America, Location 12, released on [MONTH] 2, [YEAR].\n",
+      "Hermit Thrush and Woodriver Bandits merged into an [GENRE] band in the early [YEAR]s as One Fell Swoop.  They soon changed their name to [BAND_NAME] after a dispute with another band of the same name. [PERSON_NAME_FULL_1_MALE], Brad Corrigan, and [PERSON_NAME_FULL_0_MALE], who were all attending Middlebury College, comprised the band's lineup throughout their entire schooling. Their music drew upon several genres, such as acoustic folk-rock, reggae, and funk.  They did several concerts in their early years both in and around Middlebury, gaining a name for themselves at the college.\n"
    ]
 }

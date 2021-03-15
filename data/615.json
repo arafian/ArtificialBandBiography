@@ -6,9 +6,13 @@
       "Birtha signed a record deal with Dunhill Records in 1972 and released their debut self-titled album, produced by Mekler, later that year. After the album's release, Birtha toured the U.S., Canada, and Europe. The group achieved some notoriety when, during a UK tour with The Kinks, publicity flyers for the shows stated, \"Birtha has balls\". When Birtha made return visits to Los Angeles, they would often play Whisky a Go Go and The Troubadour, as well as a club in Glendale called The Sopwith Camel.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Birtha",
+      "Can't Stop the Madness"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band of the early [YEAR]s. Formed in Los Angeles, the band consisted of Shele Pinizzotto (guitar), Rosemary Butler (bass), [PERSON_NAME_FULL_0_FEMALE] (keyboards), and Olivia \"Liver\" Favela (drums). Each of the band members contributed lead vocals and harmonies.\n",
+      "[BAND_NAME] was an [GENRE] band of the early [YEAR]s. Formed in Los Angeles, the band consisted of Shele Pinizzotto (guitar), Rosemary Butler (bass), [PERSON_NAME_FULL_0_FEMALE] (keyboards), and Olivia [SONG_NAME] Favela (drums). Each of the band members contributed lead vocals and harmonies.\n",
       "Pinizzotto, Butler, and Hagler grew up in Los Angeles and Orange County and played together in bands during their high school years.\nBoth Pinizzotto and Butler were in the Fullerton girl band named The Ladybirds. Afterwards, they formed the group [BAND_NAME]. They were joined by Favela in [YEAR], at which time the group began playing clubs along the West Coast from California to Alaska. Over the next three years, [BAND_NAME] worked on improving their craft and by [YEAR] they started to write their own material. Most of the band's songs were composed by members of the group, but there were occasional outside songwriting contributions, from [MONTH]k Wickman and [PERSON_NAME_FULL_0_MALE]. The band was managed by Pinizzotto's brother, Michael.\n",
-      "[BAND_NAME] signed a record deal with Dunhill Records in [YEAR] and released their debut self-titled album, produced by Mekler, later that year. After the album's release, [BAND_NAME] toured the U.S., Canada, and Europe. The group achieved some notoriety when, during a UK tour with The Kinks, publicity flyers for the shows stated, \"[BAND_NAME] has balls\". When [BAND_NAME] made return visits to Los Angeles, they would often play Whisky a Go Go and The Troubadour, as well as a club in Glendale called The Sopwith Camel.\n"
+      "[BAND_NAME] signed a record deal with Dunhill Records in [YEAR] and released their debut self-titled album, produced by Mekler, later that year. After the album's release, [BAND_NAME] toured the U.S., Canada, and Europe. The group achieved some notoriety when, during a UK tour with The Kinks, publicity flyers for the shows stated, [SONG_NAME]. When [BAND_NAME] made return visits to Los Angeles, they would often play Whisky a Go Go and The Troubadour, as well as a club in Glendale called The Sopwith Camel.\n"
    ]
 }

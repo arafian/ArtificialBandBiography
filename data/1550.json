@@ -25,9 +25,10 @@
          "Ringo Sheena"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "\"[BAND_NAME]\" (天国へようこそ, \"Welcome to Heaven\"), also known by its English name \"Where's Heaven\", is a [GENRE] band Tokyo Jihen, led by musician Ringo Sheena. It was released on [MONTH] 17, [YEAR], and served as the [PERSON_NAME_FULL_0_MALE] and Chiaki Kuriyama-starring drama Atami no Sōsakan's theme song.\n",
-      "Ringo Sheena had written several songs for Japanese dramas before \"[BAND_NAME]\". Her first was in [YEAR], when Tokyo Jihen's single \"Shuraba\" was used for the period drama Ōoku: Hana no Ran. In [YEAR], Sheena wrote the song \"Amagasa\" for the Johnny & Associates band Tokio, which was used for the drama Yasuko to Kenji, starring Tokio member [PERSON_NAME_FULL_0_MALE]. In [YEAR], Sheena's solo single \"Ariamaru Tomi\" was used for the drama Smile, which starred [MONTH] Matsumoto and [PERSON_NAME_FULL_1_FEMALE].\n",
-      "Drama producer Ikuei Yokochi needed a [GENRE] a band that could \"project a unique atmosphere, where you're not sure if it's Japanese or Western music\". Sheena, being a fan of screenwriter [PERSON_NAME_FULL_0_MALE]'s works accepted the offer, and met with [PERSON_NAME_LAST_0] to discuss the song. The drama's team requested a song \"unlike today's chart toppers, but a jazz standard-like song that could be sung on forever.\"\n"
+      "[SONG_NAME], is a [GENRE] band Tokyo Jihen, led by musician Ringo Sheena. It was released on [MONTH] 17, [YEAR], and served as the [PERSON_NAME_FULL_0_MALE] and Chiaki Kuriyama-starring drama Atami no Sōsakan's theme song.\n",
+      "Ringo Sheena had written several songs for Japanese dramas before [SONG_NAME] was used for the drama Smile, which starred [MONTH] Matsumoto and [PERSON_NAME_FULL_1_FEMALE].\n",
+      "Drama producer Ikuei Yokochi needed a song that would match the [SONG_NAME]\n"
    ]
 }

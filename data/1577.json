@@ -32,8 +32,17 @@
          "Tomas Palomo"
       ]
    },
+   "albums": [
+      "Delorean",
+      "Into the Plateau",
+      "Transatlantic KK",
+      "Subiza",
+      "Apar",
+      "Muzik",
+      "Mikel Laboa"
+   ],
    "prunedData": [
-      "[BAND_NAME] were a [GENRE] band formed in [YEAR] in Zarautz, a Basque town. The band was originally composed of vocalist and bassist Ekhi Lopetegi, guitarist [PERSON_NAME_FULL_2_MALE], keyboardist Unai Lazcano and drummer [PERSON_NAME_FULL_0_MALE]; they created the band to explore their mutual interests, from the local punk rock scene to electronic music. [PERSON_NAME_LAST_2] was replaced in [YEAR] by [PERSON_NAME_FULL_1_MALE].\n",
+      "[BAND_NAME] were a [GENRE] band formed in [YEAR] in Zarautz, a Basque town. The band was originally composed of vocalist and bassist Ekhi Lopetegi, guitarist [PERSON_NAME_FULL_0_MALE], keyboardist Unai Lazcano and drummer [PERSON_NAME_FULL_1_MALE]; they created the band to explore their mutual interests, from the local punk rock scene to electronic music. [PERSON_NAME_LAST_0] was replaced in [YEAR] by [PERSON_NAME_FULL_2_MALE].\n",
       "[BAND_NAME] are named after the time machine featured in the Back to the Future series, which was a [GENRE]",
       "The quartet released an EP and two studio albums between [YEAR] and [YEAR] to little mainstream success. In [YEAR], Palomo left the band and was replaced by [PERSON_NAME_FULL_1_MALE]. [BAND_NAME] subsequently relocated to Barcelona, veering towards more computer-based composition and production. Tiring of the relative low quality of the local dance music scene, the band members created their own eclectic club night, Desparrame, in which they continued the evolution of their music. Remixes for the likes of The xx, Cold Cave, and [PERSON_NAME_FULL_0_MALE] gave [BAND_NAME] exposure in the music press.\n"
    ]

@@ -30,9 +30,22 @@
          " Gerardo García"
       ]
    },
+   "albums": [
+      "Pacto con el Diablo",
+      "Diabolicca",
+      "Instinto Animal",
+      "Joven Para Morir",
+      "Lo Mejor de Ángeles del Infierno",
+      "666",
+      "A Cara o Cruz",
+      "Lo Mejor de Ángeles del Infierno: 1984-1993",
+      "Éxitos Diabólicos",
+      "Discografía 1984-93",
+      "Todos somos Ángeles"
+   ],
    "prunedData": [
-      "Angeles [PERSON_NAME_FULL_0_FEMALE] (Spanish for Angels from Hell or Hell Angels) is a [GENRE] band from Basque Country, Spain, formed in [YEAR]. Signing with Warner Bros. Records in [YEAR], they achieved success in their home country and Latin America during the [YEAR]s and the early [YEAR]s. In [YEAR], the band reformed and signed back onto Warner Bros. Records, releasing Todos Somos Angeles later that year.\n",
-      "Angeles [PERSON_NAME_FULL_0_FEMALE] was formed by Robert Alvarez and [PERSON_NAME_FULL_2_MALE] in [YEAR] in San Sebastian with:\n",
-      "[BAND_NAME] released their first album, Pacto con el Diablo (Pact with the Devil), in [YEAR]. They immediately had success in terms of both, record sales and critical reception. They scored several hits with songs like their anthem \"Maldito sea tu nombre\".\n"
+      "Angeles [PERSON_NAME_FULL_1_FEMALE] (Spanish for Angels from Hell or Hell Angels) is a [GENRE] band from Basque Country, Spain, formed in [YEAR]. Signing with Warner Bros. Records in [YEAR], they achieved success in their home country and Latin America during the [YEAR]s and the early [YEAR]s. In [YEAR], the band reformed and signed back onto Warner Bros. Records, releasing Todos Somos Angeles later that year.\n",
+      "Angeles [PERSON_NAME_FULL_2_FEMALE] was formed by Robert Alvarez and [PERSON_NAME_FULL_0_MALE] in [YEAR] in San Sebastian with:\n",
+      "[BAND_NAME] released their first album, Pacto con el Diablo (Pact with the Devil), in [YEAR]. They immediately had success in terms of both, record sales and critical reception. They scored several hits with songs like their anthem [SONG_NAME].\n"
    ]
 }

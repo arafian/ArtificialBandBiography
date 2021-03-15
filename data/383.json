@@ -30,9 +30,12 @@
          "Jeff Bachner"
       ]
    },
+   "albums": [
+      "Statues"
+   ],
    "prunedData": [
-      "MK-ULTRA (also spelled Mk-Ultra, MK Ultra, or Mk Ultra) was a [GENRE] band from Chicago, Illinois formed in [YEAR]. They were known for their fast music and outspokenness on political and social topics ranging from capitalism to Christianity. Due to \"legal troubles\", the band was forced to drop the name \"MK-ULTRA\" in [YEAR]. They finally broke up in [YEAR], although the band continued donating songs to compilations for some years afterwards.  MK-ULTRA went on 3 tours, including \"roughly 26 states and Montreal\".\n",
-      "Drummer Ebro Virumbrales also played in well-known hardcore bands Charles Bronson and Los Crudos at the same time as MK-ULTRA. Singer Frank Hanney went on to form Fourteen or Fight and The O.S.S. [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_2] went on to form Punch in the Face with Ebro Virumbrales on vocals, VMW with [MONTH]k McCoy on vocals, and American Mosquito with former vocalist [PERSON_NAME_FULL_1_MALE]. Kirk Syrek plays bass currently in Sick/Tired and also in another band, Pillage, with Ebro Virumbrales. Original drummer [PERSON_NAME_FULL_0_MALE] went on to form Government for Hire.\n",
+      "MK-ULTRA (also spelled Mk-Ultra, MK Ultra, or Mk Ultra) was a [GENRE] band from Chicago, Illinois formed in [YEAR]. They were known for their fast music and outspokenness on political and social topics ranging from capitalism to Christianity. Due to [SONG_NAME].\n",
+      "Drummer Ebro Virumbrales also played in well-known hardcore bands Charles Bronson and Los Crudos at the same time as MK-ULTRA. Singer Frank Hanney went on to form Fourteen or Fight and The O.S.S. [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_2] went on to form Punch in the Face with Ebro Virumbrales on vocals, VMW with [MONTH]k McCoy on vocals, and American Mosquito with former vocalist [PERSON_NAME_FULL_0_MALE]. Kirk Syrek plays bass currently in Sick/Tired and also in another band, Pillage, with Ebro Virumbrales. Original drummer [PERSON_NAME_FULL_1_MALE] went on to form Government for Hire.\n",
       "A 56-track double LP with nearly all of their recorded songs was released by [MONTH]k McCoy's Youth Attack! Records on [MONTH] 12, [YEAR]. The band announced a one-time reunion show to be held on [MONTH] 3, [YEAR] in Chicago.\n"
    ]
 }

@@ -31,6 +31,10 @@
          "www.cityofwashingtonpipeband.org"
       ]
    },
+   "albums": [
+      "Denny & Dunipace Pipe Band",
+      "Scottish Rant"
+   ],
    "prunedData": [
       "The [BAND_NAME] is a [GENRE] band located in Washington, D.C.\n",
       "The band was formed in [YEAR] as the Denny & Dunipace Pipe Band, by members of the U.S. Air Force Pipe Band. Unable to compete due to Air Force regulations, members of that band joined with local players to form a [GENRE] band in the District of Columbia. Pipe Major Sandy Jones of the Air Force band took over in [YEAR].  \n",

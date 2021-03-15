@@ -27,9 +27,18 @@
          "Kumiko Takahashi"
       ]
    },
+   "albums": [
+      "Miminari",
+      "Seimeiryoku",
+      "Kokuhaku",
+      "You More",
+      "Henshin",
+      "Kyōmei",
+      "Tanjō"
+   ],
    "prunedData": [
-      "chatmonchy (チャットモンチー, chattomonchī) was a [GENRE] band which consisted of [PERSON_NAME_FULL_0_FEMALE] (guitar, vocals), Akiko Fukuoka (bass, chorus), and formerly [PERSON_NAME_FULL_1_FEMALE] (drums, chorus) who are from Tokushima Prefecture on the island of Shikoku, Japan.\n",
+      "chatmonchy (チャットモンチー, chattomonchī) was a [GENRE] band which consisted of [PERSON_NAME_FULL_1_FEMALE] (guitar, vocals), Akiko Fukuoka (bass, chorus), and formerly [PERSON_NAME_FULL_0_FEMALE] (drums, chorus) who are from Tokushima Prefecture on the island of Shikoku, Japan.\n",
       "Since [YEAR], they were signed to Sony Music Japan's Ki/oon Records record label. In [MONTH] [YEAR], the band announced that they were disbanding.\n",
-      "The band had their final one-man concert on [MONTH] 4, [YEAR], at the Nippon Budokan, and held their last \"Konason Fest\" on [MONTH] 21 and 22.\n"
+      "The band had their final one-man concert on [MONTH] 4, [YEAR], at the Nippon Budokan, and held their last [SONG_NAME] on [MONTH] 21 and 22.\n"
    ]
 }

@@ -28,9 +28,10 @@
          "Alvin Gibbs"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] were an [GENRE] band, formed in Cambridge, England, that was active between [YEAR] and [YEAR].\n",
-      "In [YEAR], Cambridge record dealer Lee Wood founded Raw Records, and quickly recorded [BAND_NAME] in [MONTH] of the year, releasing the single \"Sick of You\" / \"(I'm) In Love With Today\" on [MONTH] 5, [YEAR].  Sounds magazine stated that it \"burns into your brain without compromise.\"\n",
-      "Despite only releasing two singles and being active for less than three years, the band developed a lasting cult following. BBC Radio 1 DJ John Peel placed their first single \"Sick of You\" in his chosen Festive Fifty chart of [YEAR], and after his death it was revealed that he'd kept it as part of his favourite singles of all time.  The single was later reissued in [YEAR] and [YEAR] by Damaged Goods.\n"
+      "In [YEAR], Cambridge record dealer Lee Wood founded Raw Records, and quickly recorded [BAND_NAME] in [MONTH] of the year, releasing the single [SONG_NAME]\n",
+      "Despite only releasing two singles and being active for less than three years, the band developed a lasting cult following. BBC Radio 1 DJ John Peel placed their first single [SONG_NAME] in his chosen Festive Fifty chart of [YEAR], and after his death it was revealed that he'd kept it as part of his favourite singles of all time.  The single was later reissued in [YEAR] and [YEAR] by Damaged Goods.\n"
    ]
 }

@@ -32,9 +32,14 @@
          " Tom Heuckendorff"
       ]
    },
+   "albums": [
+      "Tic Toc Tic",
+      "Ancient Mars",
+      "Swooner"
+   ],
    "prunedData": [
       "[BAND_NAME] are a [GENRE] band based in Vancouver, British Columbia. They are signed to Light Organ Records. The core of the band is duo Zachary Gray (vocals/guitar) and [PERSON_NAME_FULL_0_MALE] (piano), with other musicians supporting them live and on record.\n",
       "Zachary Gray and Tom Dobrzanski were previously part of the band Lotus Child, from [YEAR] to [YEAR]. Gray is the son of writer and composer John MacLachlan Gray.\n",
-      "[BAND_NAME]' debut album, Tic Toc Tic, was released in [MONTH] [YEAR]. The album was produced by [PERSON_NAME_FULL_0_MALE], who has worked with The New Pornographers and Tegan and Sara. The album was recorded for most part in a [GENRE] bands such as Said the Whale and Hey Ocean! have also recorded there. The song \"The Great Collapse\" has been in rotation on CBC Radio 3.\n"
+      "[BAND_NAME]' debut album, Tic Toc Tic, was released in [MONTH] [YEAR]. The album was produced by [PERSON_NAME_FULL_0_MALE], who has worked with The New Pornographers and Tegan and Sara. The album was recorded for most part in a [GENRE] bands such as Said the Whale and Hey Ocean! have also recorded there. The song [SONG_NAME] has been in rotation on CBC Radio 3.\n"
    ]
 }

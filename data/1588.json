@@ -33,9 +33,18 @@
          "David"
       ]
    },
+   "albums": [
+      "Emetic Cult",
+      "Grume",
+      "Anatomical Inferno",
+      "Morgue Sweet Home",
+      "Apology for Pathology",
+      "Hospital Carnage",
+      "We Are the Gore"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Madrid, Spain. \n",
-      "The band formed in [YEAR] as Devourment and began its life as a trio, with [PERSON_NAME_FULL_0_MALE] on bass and vocals, Luisma on guitar, and [PERSON_NAME_FULL_1_MALE] on drums, though this only lasted until the summer of [YEAR], when [PERSON_NAME_FULL_1_MALE] left the band. The group soon reformed, this time as duo, with Luisma again playing the role of guitarist and [PERSON_NAME_FULL_0_MALE] taking over as drummer, with both performing vocals, and released their first demo as [BAND_NAME], Grotesque Embryopathology. Near the end of [YEAR], Lugubrious and [PERSON_NAME_FULL_3_MALE] joined the band as vocalist and bassist, respectively. Between [YEAR] and [YEAR], [BAND_NAME] recorded a seven song promo tape, which was sent to Morbid Records and resulted in a two-album contract, welcomed guitarist [PERSON_NAME_FULL_2_FEMALE], and recorded their first release, Emetic Cult. However, [PERSON_NAME_FULL_0_MALE] left in the following year due to personal issues and was replaced by Rojas. After releasing five studio albums on Morbid Records the band signed to Relapse Records which put out their albums Hospital Carnage and We are the Gore.\n",
+      "The band formed in [YEAR] as Devourment and began its life as a trio, with [PERSON_NAME_FULL_2_MALE] on bass and vocals, Luisma on guitar, and [PERSON_NAME_FULL_3_MALE] on drums, though this only lasted until the summer of [YEAR], when [PERSON_NAME_FULL_3_MALE] left the band. The group soon reformed, this time as duo, with Luisma again playing the role of guitarist and [PERSON_NAME_FULL_2_MALE] taking over as drummer, with both performing vocals, and released their first demo as [BAND_NAME], Grotesque Embryopathology. Near the end of [YEAR], Lugubrious and [PERSON_NAME_FULL_1_MALE] joined the band as vocalist and bassist, respectively. Between [YEAR] and [YEAR], [BAND_NAME] recorded a seven song promo tape, which was sent to Morbid Records and resulted in a two-album contract, welcomed guitarist [PERSON_NAME_FULL_5_FEMALE], and recorded their first release, Emetic Cult. However, [PERSON_NAME_FULL_2_MALE] left in the following year due to personal issues and was replaced by Rojas. After releasing five studio albums on Morbid Records the band signed to Relapse Records which put out their albums Hospital Carnage and We are the Gore.\n",
       "[BAND_NAME] are, like many goregrind bands, heavily influenced by Carcass, yet still have an [GENRE]"
    ]
 }

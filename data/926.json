@@ -33,9 +33,10 @@
          "Alfredo Hernandez"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from La Quinta, California, United States. The band originally formed in [YEAR], although they released no studio recordings until [YEAR]. They have been noted to be one of the first influential bands in the desert rock scene.\n",
-      "[BAND_NAME] was formed in [YEAR], founded by members Gary Arce, [PERSON_NAME_FULL_0_MALE], [MONTH]io [PERSON_NAME_LAST_1], and [PERSON_NAME_FULL_1_MALE]. At this time, the band started to play marathon jams during sets performed in the only readily available venues at the time: garages around town and impromptu concerts staged in the nearby desert. As word spread of these parties they evolved into what were called \"generator parties\" which were informal concerts held deep in the uninhabited desert outskirts of the cities in the Coachella valley, gradually attracting larger and larger crowds to their shows.\n",
-      "\nTheir music heavily influenced the likes of John Garcia, [PERSON_NAME_FULL_0_MALE], and Brant Bjork (who would later form the stoner rock band Kyuss) to name only a few. When Hernandez played in Kyuss on their last album ...And the Circus Leaves Town ([YEAR]) they recorded a cover of [BAND_NAME]'s song \"Catamaran\"."
+      "[BAND_NAME] was formed in [YEAR], founded by members Gary Arce, [PERSON_NAME_FULL_0_MALE], [MONTH]io [PERSON_NAME_LAST_1], and [PERSON_NAME_FULL_1_MALE]. At this time, the band started to play marathon jams during sets performed in the only readily available venues at the time: garages around town and impromptu concerts staged in the nearby desert. As word spread of these parties they evolved into what were called [SONG_NAME] which were informal concerts held deep in the uninhabited desert outskirts of the cities in the Coachella valley, gradually attracting larger and larger crowds to their shows.\n",
+      "\nTheir music heavily influenced the likes of John Garcia, [PERSON_NAME_FULL_0_MALE], and Brant Bjork (who would later form the stoner rock band Kyuss) to name only a few. When Hernandez played in Kyuss on their last album ...And the Circus Leaves Town ([YEAR]) they recorded a cover of [BAND_NAME]'s song [SONG_NAME]."
    ]
 }

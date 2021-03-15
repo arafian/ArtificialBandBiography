@@ -44,9 +44,13 @@
          "Cecilia Kuhn"
       ]
    },
+   "albums": [
+      "Cat Farm Faboo",
+      "Faster, Frightwig, Kill! Kill!"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from San Francisco, California, formed in [YEAR] by [PERSON_NAME_FULL_2_FEMALE] and [PERSON_NAME_FULL_1_FEMALE]. After many line-up changes, [BAND_NAME] retired in [YEAR] to raise children and focus on other career paths.\n",
-      "[BAND_NAME] reformed in [YEAR] with Rebecca Sevrin and [PERSON_NAME_FULL_1_FEMALE]. [BAND_NAME]'s current line-up is Deanna Mitchell, Mia d'Bruzzi, and [PERSON_NAME_FULL_2_MALE]. In [MONTH], [YEAR], the band did a US east coast tour with [MONTH]e Lee Hooker.\n",
-      "Ashley was raised by a \"hippie\" mother who introduced her to Buffy Sainte-[MONTH]ie, [PERSON_NAME_FULL_1_FEMALE], Jimi Hendrix, and the Beatles. When Ashley was 16 years old, she moved to San Francisco. She met Levin met at a movie theater in the city. Ashley later described, \"It was just one of those magic things when you meet your soul mate. But we also had a lot of angry shows. That’s like a lot of relationships: you get mad at each other, you go through all of everything. And that’s what makes a relationship.\"\n"
+      "[BAND_NAME] is an [GENRE] band from San Francisco, California, formed in [YEAR] by [PERSON_NAME_FULL_2_FEMALE] and [PERSON_NAME_FULL_0_FEMALE]. After many line-up changes, [BAND_NAME] retired in [YEAR] to raise children and focus on other career paths.\n",
+      "[BAND_NAME] reformed in [YEAR] with Rebecca Sevrin and [PERSON_NAME_FULL_0_FEMALE]. [BAND_NAME]'s current line-up is Deanna Mitchell, Mia d'Bruzzi, and [PERSON_NAME_FULL_1_MALE]. In [MONTH], [YEAR], the band did a US east coast tour with [MONTH]e Lee Hooker.\n",
+      "Ashley was raised by a [SONG_NAME]\n"
    ]
 }

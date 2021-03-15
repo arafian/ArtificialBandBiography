@@ -25,6 +25,10 @@
          "Will Haywood Smith (drums)"
       ]
    },
+   "albums": [
+      "Ballad Nerd Pop",
+      "Sashimi Deluxe"
+   ],
    "prunedData": [
       "PaperDoll is an [GENRE] band from New York City, consisting of Teresa Lee (vocals), [PERSON_NAME_FULL_0_MALE] (guitar), Jack Koch (bass guitar), and [PERSON_NAME_FULL_1_MALE] (drums).  \n",
       "The band gained international attention when they played at the Shanghai World Expo [MONTH] [YEAR] on their first tour of China.\n",

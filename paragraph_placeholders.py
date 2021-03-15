@@ -36,7 +36,7 @@ def month_placeholder(text):
     months = [calendar.month_name[i] for i in range(1,13)] + [calendar.month_abbr[i] for i in range(1,13)]
     for month in months:
         text = re.sub(month, '[MONTH]', text)
-        
+
     return text
 
 """## Name Placeholder
@@ -73,7 +73,7 @@ def get_person_names(data, text):
                 if(name in person):
                     person_names.remove(person)
                     break
-                    
+
     # add member names from infobox
     if 'infobox' in data.keys():
         members = []
@@ -82,7 +82,7 @@ def get_person_names(data, text):
 
         if 'Past members' in data['infobox'].keys():
             members += data['infobox']['Past members']
-            
+
         # some members have extra information that needs to be removed such as 'Earl Yager - bass'
         for member in members:
             member = member.split()
@@ -92,7 +92,7 @@ def get_person_names(data, text):
                 member = member[0]
 
             person_names.append(member)
-            
+
     person_names = set(person_names)
     return person_names
 
@@ -109,7 +109,7 @@ def get_name_genders(person_names):
             name_genders[name] = random.choice(['MALE', 'FEMALE'])
         else:
             continue # unknown name
-            
+
     return name_genders
 
 def person_name_placeholder(data, text):
@@ -124,11 +124,11 @@ def person_name_placeholder(data, text):
             # don't want abbreviations to be subsituted
             if len(first) > 2:
                 text = re.sub(first, '[PERSON_NAME_FIRST_' + str(i) + ']', text) # replace first name
-                
+
             if len(last) > 2:
                 text = re.sub(last, '[PERSON_NAME_LAST_' + str(i) + ']', text) # replace last name
         i += 1
-        
+
     return text
 
 """## Genre Placeholder
@@ -138,13 +138,13 @@ def person_name_placeholder(data, text):
 
 with open('data/consolidatedData.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
-    
+
 genres = set()
 for genre in data['allGenres']:
     if isinstance(genre, str):
         g = re.split(',|\[', genre)[0]
         genres.add(g)
-        
+
 genres = list(genres) # need to convert to list to be able to take a random choice from it
 
 def genre_placeholder(text):
@@ -155,7 +155,7 @@ def genre_placeholder(text):
 
     if genre:
         text = re.sub(genre, '[GENRE]', text)
-    
+
     return text
 
 """## Paragraph Placeholder"""
@@ -169,11 +169,13 @@ def get_paragraph_placeholders(data):
     text = year_placeholder(text)
     text = month_placeholder(text)
     text = person_name_placeholder(data, text)
+    text = album_placeholders(data["albums"], text)
+    text= song_placeholders(text)
     try:
         text = genre_placeholder(text)
     except:
         pass
-    return text    
+    return text
     #prunedData = []
     #for para in data['rawData']:
     #    prunedPara = band_placeholder(data, para)
@@ -195,9 +197,20 @@ def get_paragraph_placeholders(data):
 #     except:
 #         print(i)
 
-    
-complete_paras = []    
+
+def album_placeholders(albums, text):
+    for i in range(len(albums)):
+        text = re.sub(rf'{re.escape(albums[i])}', "[ALBUM_NAME]", text)
+    return text
+
+def song_placeholders(text):
+     return re.sub(r'\"(.+)\"', "[SONG_NAME]", text)
+
+
+
+complete_paras = []
 for i in range(1657):
+    print(i)
     with open('data/' + str(i) + '.json', 'r', encoding='utf-8') as inf:
         data = json.load(inf)
         #try:

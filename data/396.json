@@ -31,9 +31,13 @@
          "Ben Hosey"
       ]
    },
+   "albums": [
+      "Hello",
+      "Art and Commerce"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band from LaGrange, Georgia.\n",
       "The members of [BAND_NAME] formed as a band in [YEAR], originally under the name Taken. During that time they had five independent releases: Not the Typical EP ([YEAR]), Moonlight E-CD Single and ARE You Listening? in [YEAR], and Amplified EP ([YEAR]). The SA BA DE EP in [YEAR] was Taken's final independent release before the band changed their name to [BAND_NAME]. The name is a reference to the character [PERSON_NAME_FULL_0_MALE] in the book series The Chronicles of Narnia by C. S. Lewis.\n",
-      "In [MONTH] [YEAR], the band signed onto Slanted Records and began recording for their first main studio album until [MONTH] [YEAR]. It was originally prepared for release in mid-[YEAR], but the date was pushed forward to [MONTH] of the following year. The album is reportedly the same version as the original demo releases in [YEAR], but instead \"gave Slanted Records more time to market [BAND_NAME] just right.\"  The album was finally released under the title Hello on [MONTH] 26, [YEAR], nearly a [GENRE] band finished recording it. The album was produced by [PERSON_NAME_FULL_0_MALE].\n"
+      "In [MONTH] [YEAR], the band signed onto Slanted Records and began recording for their first main studio album until [MONTH] [YEAR]. It was originally prepared for release in mid-[YEAR], but the date was pushed forward to [MONTH] of the following year. The album is reportedly the same version as the original demo releases in [YEAR], but instead [SONG_NAME]  The album was finally released under the title Hello on [MONTH] 26, [YEAR], nearly a [GENRE] band finished recording it. The album was produced by [PERSON_NAME_FULL_0_MALE].\n"
    ]
 }

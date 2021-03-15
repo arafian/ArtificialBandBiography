@@ -28,9 +28,10 @@
          "Mana, Kana, Yuuki, Yuna"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] (stylized as CHAI) are a [GENRE] band from Nagoya, Aichi, Japan. Formed in [YEAR], the band released their debut studio album Pink in [YEAR].\n",
-      "[BAND_NAME] was formed in [YEAR] in Nagoya, Aichi Prefecture, by twin sisters Mana and Kana, alongside Yuna and Yuuki. Mana, Kana, and Yuna are all from Nagoya, and were in the same class at high school. The three were members of the light music club at their high school, performing covers of musicians such as Tokyo Jihen and Aiko. Yuna introduced the other band members to Japanese music that did not easily fit into the traditional definition of \"J-Pop\", such as the band Cero or Kimyō Reitaro.\n",
+      "[BAND_NAME] was formed in [YEAR] in Nagoya, Aichi Prefecture, by twin sisters Mana and Kana, alongside Yuna and Yuuki. Mana, Kana, and Yuna are all from Nagoya, and were in the same class at high school. The three were members of the light music club at their high school, performing covers of musicians such as Tokyo Jihen and Aiko. Yuna introduced the other band members to Japanese music that did not easily fit into the traditional definition of [SONG_NAME], such as the band Cero or Kimyō Reitaro.\n",
       "After the members graduated and went to university, Mana became friends with Yuuki (originally from Gifu Prefecture, who had moved to Nagoya), and asked the four friends to form a [GENRE] band's name comes from Russian tea (known as chai). Kana drank the tea with jam with her Russian literature professor at a Russian restaurant, which she thought was cute.\n"
    ]
 }

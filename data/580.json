@@ -36,9 +36,17 @@
          "John Jarvis"
       ]
    },
+   "albums": [
+      "Explosions in Ward 6",
+      "Prowler in the Yard",
+      "Terrifyer",
+      "Phantom Limb",
+      "Book Burner",
+      "Head Cage"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band formed in [YEAR] in Alexandria, Virginia.  The band was formed by vocalist J.R. Hayes, guitarist Scott Hull, and drummer [PERSON_NAME_FULL_0_MALE]. Throughout the band's earlier history, they were a three-piece group until sampler Blake Harrison joined in [YEAR], notably had no bassist until the inclusion of [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_1] in [YEAR], and went through 2 past drummers with the role currently held by Adam [PERSON_NAME_LAST_1]. [BAND_NAME] is one of the most well-known grindcore bands in the genre due to Hayes's poetic lyrics, Hull's incorporation of thrash, punk, and doom influences in songwriting, and technical drum work.\n",
       "The band formed in [YEAR] after the break-up of a [GENRE] band, Treblinka, with 2 former members of said band, vocalist J. R. Hayes (Enemy Soil), guitarist Scott Hull (Agoraphobic Nosebleed, Japanese Torture Comedy Hour, ex-Anal Cunt), and drummer [PERSON_NAME_FULL_0_MALE], who left the band for an unspecified school not long after the band's formation. After the departure of [PERSON_NAME_LAST_0], he was soon replaced by Brian Harvey.\n",
-      "In an [GENRE] band name on the criteria that it was insulting, yet somewhat more creative than the name of his last band, Anal Cunt. [MONTH]iding that \"Cop Killer\" or \"Cop Destroyer\" would be tactless, they eventually settled on \"[BAND_NAME]\" (\"pig\" being a pejorative American slang term for the police). Derived from a non-musical source as extreme as the band's sound, [BAND_NAME]'s easily identifiable logo was created using a graphic from ANSWER Me! magazine as a template. \nRelapse Records signed the band and issued a split 7\" with Isis on the label's Singles Series in [MONTH] [YEAR]. 38 Counts of Battery was a complete discography of [BAND_NAME] releases up to the year [YEAR], which included split records with Gnob and influential screamo act Orchid, as well as their debut album, Explosions In Ward 6, and the demo that secured their record deal.\n"
+      "In an [GENRE] band name on the criteria that it was insulting, yet somewhat more creative than the name of his last band, Anal Cunt. [MONTH]iding that [SONG_NAME] being a pejorative American slang term for the police). Derived from a non-musical source as extreme as the band's sound, [BAND_NAME]'s easily identifiable logo was created using a graphic from ANSWER Me! magazine as a template. \nRelapse Records signed the band and issued a split 7\" with Isis on the label's Singles Series in [MONTH] [YEAR]. 38 Counts of Battery was a complete discography of [BAND_NAME] releases up to the year [YEAR], which included split records with Gnob and influential screamo act Orchid, as well as their debut album, Explosions In Ward 6, and the demo that secured their record deal.\n"
    ]
 }

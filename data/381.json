@@ -28,9 +28,15 @@
          "Mike Costello (vocals - Optimus Prime), Theo Katsaounis (bass - Optimus Prime)"
       ]
    },
+   "albums": [
+      "Ten Steps To Success",
+      "Ten Steps To Success",
+      "The Discographer",
+      "Der EU-Investitionsantrag"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band most known for their songs mocking Metallica, making reference to the notorious allegations of the group having sold out by parodying the band's song titles with their own business-related counterparts: Ride the Lightning is retitled Ride the Limo and Master of Puppets becomes Master of Profits. This jab of satire is carried through the entire band's style. Their own site refers to them as \"[BAND_NAME] Megacorp.\", and they appear in a costume of business suits and aviator sunglasses informally known as \"hardcorporate\", in reference to other styles such as hardcore, grindcore, etc.\n",
-      "Members of the band were in the power violence/grindcore band Kungfu Rick and in Authority Abuse. The band [BAND_NAME] operates a record label which has released albums by such artists as: [YEAR] Dying Rats, Authority Abuse, Don't Worry About It,  Fordirelifesake, Fork Knife Spoon, Godstomper, Holy Roman Empire, Infestation of Ass, [PERSON_NAME_FULL_1_MALE], (Lone) Wolf & Cub, Mexican Cheerleader, Not Enough Gold, Plague Bringer, Russian Circles, Stillwell, Third Degree, Tower of Rome, Tusk, [PERSON_NAME_FULL_0_MALE].\n",
+      "[BAND_NAME] is a [GENRE] band most known for their songs mocking Metallica, making reference to the notorious allegations of the group having sold out by parodying the band's song titles with their own business-related counterparts: Ride the Lightning is retitled Ride the Limo and Master of Puppets becomes Master of Profits. This jab of satire is carried through the entire band's style. Their own site refers to them as [SONG_NAME], in reference to other styles such as hardcore, grindcore, etc.\n",
+      "Members of the band were in the power violence/grindcore band Kungfu Rick and in Authority Abuse. The band [BAND_NAME] operates a record label which has released albums by such artists as: [YEAR] Dying Rats, Authority Abuse, Don't Worry About It,  Fordirelifesake, Fork Knife Spoon, Godstomper, Holy Roman Empire, Infestation of Ass, [PERSON_NAME_FULL_0_MALE], (Lone) Wolf & Cub, Mexican Cheerleader, Not Enough Gold, Plague Bringer, Russian Circles, Stillwell, Third Degree, Tower of Rome, Tusk, [PERSON_NAME_FULL_1_MALE].\n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

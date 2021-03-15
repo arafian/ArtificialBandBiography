@@ -27,6 +27,13 @@
          "Adrian Aguilar"
       ]
    },
+   "albums": [
+      "In Hatred's Flame",
+      "Beyond the Fall of Time",
+      "Slave to the Sword",
+      "Ride Forth",
+      "The Sound of Steel"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band formed in [YEAR], whose lyrics mostly deal with battles and war.\n",
       "Timeline\n"

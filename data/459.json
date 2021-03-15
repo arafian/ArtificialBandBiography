@@ -6,9 +6,26 @@
       "Christian Metal Central raved \"with an impressive lineup of musicians and vocalists the like never seen on a Christian rock compilation CD...(Liberty N' Justice) has earned a place in...history.\"\n"
    ],
    "infobox": {},
+   "albums": [
+      "Armed With The Cross",
+      "Big Guns",
+      "Forever Till The End",
+      "Bargain Bin",
+      "Welcome to the Revolution",
+      "Soundtrack of a Soul",
+      "Independence Day",
+      "4-All: The Best Of LNJ",
+      "Light It Up",
+      "Chasing A Cure",
+      "Hell Is Coming To Breakfast",
+      "Before The Revolution:best of lnj the early years",
+      "The Cigar Chronicles",
+      "4-All: The Best Of LNJ 2",
+      "The Vow\" (2014)"
+   ],
    "prunedData": [
-      "[BAND_NAME] (LNJ) is a [GENRE] band started in [YEAR] by [PERSON_NAME_FULL_4_MALE] and Patrick [MONTH]and with band mates: Robert Earl Sliger; [PERSON_NAME_FULL_1_FEMALE]; Kim; and James [PERSON_NAME_LAST_1]. In [YEAR], [PERSON_NAME_LAST_4] continued with the [BAND_NAME] name, contacting several well-known artists to join him in creating the new album Welcome to the Revolution.   They have continued through the past two decades, collaborating with such special guest vocalists such as:  [PERSON_NAME_FULL_0_MALE] of Foreigner, Chris Jericho of Fozzy, [PERSON_NAME_FULL_5_MALE] of Def Leppard, Sebastian Bach, [PERSON_NAME_FULL_2_MALE], Michael Sweet of Stryper, C J  Snare of Firehouse, Rubicon Cross, [PERSON_NAME_FULL_3_MALE] of Great White, Kip Winger of Winger, and various others.\n",
-      "This roster inspired MelodicRock.com to praise LNJ for \"moments of greatness...(with) great melodies and lead vocal performances to bridge the gap between modern and traditional hard rock.\"\n",
-      "Christian Metal Central raved \"with an [GENRE] a Christian rock compilation CD...([BAND_NAME]) has earned a place in...history.\"\n"
+      "[BAND_NAME] (LNJ) is a [GENRE] band started in [YEAR] by [PERSON_NAME_FULL_4_MALE] and Patrick [MONTH]and with band mates: Robert Earl Sliger; [PERSON_NAME_FULL_0_FEMALE]; Kim; and James [PERSON_NAME_LAST_0]. In [YEAR], [PERSON_NAME_LAST_4] continued with the [BAND_NAME] name, contacting several well-known artists to join him in creating the new album Welcome to the Revolution.   They have continued through the past two decades, collaborating with such special guest vocalists such as:  [PERSON_NAME_FULL_1_MALE] of Foreigner, Chris Jericho of Fozzy, [PERSON_NAME_FULL_2_MALE] of Def Leppard, Sebastian Bach, [PERSON_NAME_FULL_3_MALE], Michael Sweet of Stryper, C J  Snare of Firehouse, Rubicon Cross, [PERSON_NAME_FULL_5_MALE] of Great White, Kip Winger of Winger, and various others.\n",
+      "This roster inspired MelodicRock.com to praise LNJ for [SONG_NAME]\n",
+      "Christian Metal Central raved [SONG_NAME]\n"
    ]
 }

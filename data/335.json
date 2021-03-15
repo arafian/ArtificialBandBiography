@@ -32,9 +32,12 @@
          "Ashley Webber (Bass guitar) 2001–2005"
       ]
    },
+   "albums": [
+      "Grab that Gun"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band formed in [YEAR] in Vancouver, British Columbia. They officially broke up on [MONTH] 7, [YEAR], due to illness and personal conflicts in the band.\n",
-      "[BAND_NAME] were conceived in [YEAR] by frontwoman [PERSON_NAME_FIRST_0] Sketch, born [PERSON_NAME_FULL_0_FEMALE], in Vancouver, BC. Sketch's musical training started at the age of three, when she began classical training on the violin. Her childhood was spent largely in ignorance of the underground sounds of The Smiths, The Cure, and Joy Division, whom [BAND_NAME] would later often be favorably compared to. \"Tiffany and [PERSON_NAME_FULL_1_MALE] – that was my take on ’80s music.\"\n",
-      "Sketch has said of the time of the formation of the band, when she and the band members were in their early to mid-twenties. \"I was in a [GENRE] a studio he was building for Bryan Adams.” Obvious introduced Katie to the world of independent music, and what she calls \"that ’80s sound.\" He created mix-tapes of bands he thought she’d appreciate as a violinist (Roxy Music, Ultravox) and singers with an \"amazing natural vocal pitch\" (Siouxsie and the Banshees, [PERSON_NAME_FULL_0_FEMALE], Kate Bush)). This job also led Sketch to Tara Nelson, the engineer who would later record the Organ’s first EP.\n"
+      "[BAND_NAME] were conceived in [YEAR] by frontwoman [PERSON_NAME_FIRST_0] Sketch, born [PERSON_NAME_FULL_0_FEMALE], in Vancouver, BC. Sketch's musical training started at the age of three, when she began classical training on the violin. Her childhood was spent largely in ignorance of the underground sounds of The Smiths, The Cure, and Joy Division, whom [BAND_NAME] would later often be favorably compared to. [SONG_NAME]\n",
+      "Sketch has said of the time of the formation of the band, when she and the band members were in their early to mid-twenties. [SONG_NAME] (Siouxsie and the Banshees, [PERSON_NAME_FULL_0_FEMALE], Kate Bush)). This job also led Sketch to Tara Nelson, the engineer who would later record the Organ’s first EP.\n"
    ]
 }

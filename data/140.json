@@ -40,6 +40,12 @@
          " Mark Hernandez"
       ]
    },
+   "albums": [
+      "Product of Society",
+      "Void Terra Firma",
+      "Beyond Recognition",
+      "The Prophecy"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Oakland, California. They played a decidedly technical style of thrash originally evoking bands like Testament, though they would later move on to playing in their own unique, more progressive thrash style. After dissolving in [YEAR], they reformed in [YEAR] and released their fourth studio album The Prophecy in late [YEAR]. They broke up once again in [YEAR], but announced yet another reunion in [MONTH] [YEAR].\n",
       "[BAND_NAME] was formed in [YEAR] by guitarist Brad Bowers, drummer [PERSON_NAME_FULL_1_MALE], and bassist Mike Kaufmann. [PERSON_NAME_FULL_0_MALE] joined later but left the band not long after due to conflicts with Bowers, and was replaced by Jim Adams. Eventually the band ousted Bowers and replaced him with [PERSON_NAME_LAST_0]. In [YEAR] the band recruited a vocalist in Mitch [MONTH]es.\n",

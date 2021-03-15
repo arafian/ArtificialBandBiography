@@ -29,9 +29,26 @@
          "Oren Bloedow"
       ]
    },
+   "albums": [
+      "EP",
+      "Bleed Your Cedar",
+      "Clinical Trial",
+      "Queen of the Meadow",
+      "Bend Your Mind",
+      "Dreams That Breathe Your Name",
+      "Bum Raps & Love Taps",
+      "The Afterlife",
+      "Last Night on Earth",
+      "For House Cats And Sea Fans",
+      "Ghosts of No",
+      "Pink Air",
+      "Song For A Nun",
+      "Ball Drive",
+      "Transience Of Life"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in Brooklyn, New York, founded in [YEAR] by the co-composers Jennifer Charles (vocals, instruments) and [PERSON_NAME_FULL_0_MALE] (guitar). Their music has sometimes been described as \"noir rock\",  due to its sultry, dark and mysterious inflections, be it sonically or lyrically. The band uses mainly acoustic instruments, predominantly guitar, piano, bass and drums, with the occasional appearance of eastern instruments, classical strings, and subtle electronics, the focal point being the voice of Charles in the forefront.\n",
-      "Based in New York City, [BAND_NAME] have found underground success in the United States but are more popular in Europe. The author of The Dark Stuff, Nick Kent, says of their music, \"[MONTH]be we have their out-of-the-mainstreamness to thank for a [GENRE] a sleepwalker's wet dream.\" Since its formation, the band has won quite a devoted cult following, largely by word of mouth. Besides its well received albums, the band is also noted for its strong live performances. The rest of the band has included many of New York's strongest players: all the members of [PERSON_NAME_FULL_0_MALE]'s band, members of Medeski [MONTH]tin and Wood, Ed Pastorini, [PERSON_NAME_FULL_2_MALE], James Genus, [PERSON_NAME_FULL_3_MALE], [PERSON_NAME_FULL_1_FEMALE] and members of Ollabelle have all played in [BAND_NAME] at various times.\n",
-      "Founders Jennifer Charles and [PERSON_NAME_FULL_2_MALE] had in common a mutual love for artists of multiple genres such as The Beatles, Billie Holiday, Charles Mingus, Iggy Pop, Siouxsie and the Banshees, Captain Beefheart, [PERSON_NAME_FULL_1_MALE], and classical composers like Frederic Chopin and [PERSON_NAME_FULL_0_MALE]. [BAND_NAME] first released an EP in [YEAR] on Radioactive/Universal Records with cameos from John Lurie and [MONTH]c Ribot, which was followed with the critically acclaimed full-length album, Bleed Your Cedar. The band then recorded its second album with [PERSON_NAME_FULL_3_MALE] which was never released because of artistic differences between the band and the record company. Despite their record company's urgings, Charles and [PERSON_NAME_LAST_2] did not want to give the recording a more commercial feel, prompting a split with Radioactive/Universal, who retain the recording. Charles said, \"We made our second full length with [PERSON_NAME_FULL_3_MALE]. It wasn't at all what the label was looking for, or wanted. The label wanted us to redo things, go in with more commercial people, and give them songs that they could sell. I didn't want to mess with what we made with [PERSON_NAME_FIRST_3]. It was what it was. In the end we agreed to disagree, I asked to be released from my contract, and we parted ways. For now it sits in some vault gathering dust, I suppose.\"\n"
+      "[BAND_NAME] is an [GENRE] band based in Brooklyn, New York, founded in [YEAR] by the co-composers Jennifer Charles (vocals, instruments) and [PERSON_NAME_FULL_0_MALE] (guitar). Their music has sometimes been described as [SONG_NAME],  due to its sultry, dark and mysterious inflections, be it sonically or lyrically. The band uses mainly acoustic instruments, predominantly guitar, piano, bass and drums, with the occasional appearance of eastern instruments, classical strings, and subtle electronics, the focal point being the voice of Charles in the forefront.\n",
+      "Based in New York City, [BAND_NAME] have found underground success in the United States but are more popular in Europe. The author of The Dark Stuff, Nick Kent, says of their music, [SONG_NAME] Since its formation, the band has won quite a [GENRE] band is also noted for its strong live performances. The rest of the band has included many of New York's strongest players: all the members of [PERSON_NAME_FULL_3_MALE]'s band, members of Medeski [MONTH]tin and Wood, Ed Pastorini, [PERSON_NAME_FULL_2_MALE], James Genus, [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_1_FEMALE] and members of Ollabelle have all played in [BAND_NAME] at various times.\n",
+      "Founders Jennifer Charles and [PERSON_NAME_FULL_0_MALE] had in common a mutual love for artists of multiple genres such as The Beatles, Billie Holiday, Charles Mingus, Iggy Pop, Siouxsie and the Banshees, Captain Beefheart, [PERSON_NAME_FULL_3_MALE], and classical composers like Frederic Chopin and [PERSON_NAME_FULL_2_MALE]. [BAND_NAME] first released an EP in [YEAR] on Radioactive/Universal Records with cameos from John Lurie and [MONTH]c Ribot, which was followed with the critically acclaimed full-length album, Bleed Your Cedar. The band then recorded its second album with [PERSON_NAME_FULL_1_MALE] which was never released because of artistic differences between the band and the record company. Despite their record company's urgings, Charles and [PERSON_NAME_LAST_0] did not want to give the recording a more commercial feel, prompting a split with Radioactive/Universal, who retain the recording. Charles said, [SONG_NAME]\n"
    ]
 }

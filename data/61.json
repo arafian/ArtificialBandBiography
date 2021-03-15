@@ -37,9 +37,15 @@
          "Keaton Snyder"
       ]
    },
+   "albums": [
+      "Dodo Bird (EP)",
+      "The Dodos: Live at the Spiegeltent",
+      "Live From Akropolis, Prague",
+      "Dodos Live in Amsterdam"
+   ],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band consisting of Meric Long and Logan Kroeber.\n",
       "[BAND_NAME] began playing music together in [YEAR], when musician Meric Long, who had been gigging steadily in San Francisco as a [GENRE] a mutual friend (a college acquaintance of Long's that happened to be Kroeber's cousin). [BAND_NAME] are a band of two, clean-cut halves. One of the duo was a student of West African Ewe drumming and intricate Blues fingerpicking guitar, the other hails from a background in heavy metal bands. Going from the raw, acoustic roots-rock on their albums ‘Visiter’ and ‘No Color’ to the more expansive, pop sound of ‘Time to Die’ and ‘Carrier’; guitarist-vocalist Meric Long and drummer Logan Kroeber have spent their career seeking to blur the line between the inherently melodic nature of Long's guitar and the rhythmic, atonal clatter of Kroeber's drums. Their most recent album ‘Individ’ can be seen as a resolution of this duality, combining their old acoustic sensibilities with an expansive vision and sound, and this performance served as further proof.\n",
-      "Long self-released a solo EP titled Dodo Bird in [MONTH] [YEAR], in which Long played all the instruments.  While they performed the songs from this release, Long and Kroeber met and started playing together.  They worked to blend Kroeber's training in West African Ewe drumming and Long's experience in metal bands to create music in which \"drumming could be a center role and help bring out the syncopated rhythms coming out of the acoustic guitar.\"\n"
+      "Long self-released a solo EP titled Dodo Bird in [MONTH] [YEAR], in which Long played all the instruments.  While they performed the songs from this release, Long and Kroeber met and started playing together.  They worked to blend Kroeber's training in West African Ewe drumming and Long's experience in metal bands to create music in which [SONG_NAME]\n"
    ]
 }

@@ -37,8 +37,27 @@
          "Hisako Tabuchi"
       ]
    },
+   "albums": [
+      "Bloodthirsty Butchers 1st Cassette Tape",
+      "Bloodthirsty Butchers 2nd Cassette Tape",
+      "Bloodthirsty Butchers",
+      "I'm Standing Nowhere",
+      "Lukewarm Wind",
+      "Kocorono",
+      "「△」Sankaku",
+      "Mikansei",
+      "Yamane",
+      "Kōya ni Okeru Bloodthirsty Butchers",
+      "Green on Red",
+      "Birdy",
+      "Banging the Drum",
+      "Guitarist wo Korosanaide",
+      "Gitarisuto wo Korosanaide",
+      "No Album Mudai",
+      "Youth (Seishun)"
+   ],
    "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from Sapporo, Hokkaidō, Japan. Although little-known in the West, they have contributed to two compilations on the Olympia, Washington based Yoyo label. The band has also released a split single with Rocket from the Crypt and a split EP with +/-. Japanese act Lost in Time named their band after a song from band's third album Lukewarm Wind. The long-term members are [PERSON_NAME_FULL_2_MALE] (vocals and guitar), [PERSON_NAME_FULL_4_MALE] (drums), and [PERSON_NAME_FULL_0_MALE] (bass). Former Number Girl member [PERSON_NAME_FULL_1_FEMALE] joined as an additional guitarist in [YEAR]. Famous Japanese actor [PERSON_NAME_FULL_3_MALE] is an avid fan of the group and has sung and played guitar on a few of the band's songs.\n",
+      "[BAND_NAME] was a [GENRE] band from Sapporo, Hokkaidō, Japan. Although little-known in the West, they have contributed to two compilations on the Olympia, Washington based Yoyo label. The band has also released a split single with Rocket from the Crypt and a split EP with +/-. Japanese act Lost in Time named their band after a song from band's third album Lukewarm Wind. The long-term members are [PERSON_NAME_FULL_0_MALE] (vocals and guitar), [PERSON_NAME_FULL_4_MALE] (drums), and [PERSON_NAME_FULL_2_MALE] (bass). Former Number Girl member [PERSON_NAME_FULL_1_FEMALE] joined as an additional guitarist in [YEAR]. Famous Japanese actor [PERSON_NAME_FULL_3_MALE] is an avid fan of the group and has sung and played guitar on a few of the band's songs.\n",
       "Frontman [PERSON_NAME_FULL_0_MALE] also played guitar for other Japanese indie acts such as Copass Grinderz and Discharming Man.\n",
       "On [MONTH] 27, [YEAR], [PERSON_NAME_FULL_0_MALE] suddenly died of acute cardiac failure. He was 46. The band cancelled all the tour dates planned.\n"
    ]

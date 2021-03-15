@@ -48,6 +48,9 @@
          "Tosse Basler"
       ]
    },
+   "albums": [
+      "Crematory"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band formed in Mannheim, Germany in [YEAR].\n",
       "The band received its earliest recognition in the mid-[YEAR]s by touring with My Dying Bride, Tiamat and Atrocity. Much like the latter two groups, the band had begun as traditional death metal, then evolved in an [GENRE] band received heavy rotation on MTV Germany, and made appearances at various extreme metal festivals, including Germany's Wacken Open Air in [YEAR], [YEAR], [YEAR], [YEAR] and [YEAR], in addition to inclusion on Nuclear Blast compilation samplers.\n",

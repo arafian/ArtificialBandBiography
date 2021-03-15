@@ -34,9 +34,14 @@
          " Joe Principe"
       ]
    },
+   "albums": [
+      "Behind Bars",
+      "Back On the Streets",
+      "Thank You for Being a Friend"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Chicago, Illinois, United States, which was formed in [YEAR].\nAfter disbanding in [YEAR], guitarist [PERSON_NAME_FULL_0_MALE] and bassist Joe Principe formed the well-known punk rock band Rise Against. The band reunited in [YEAR], and has continued playing shows in Chicago, Canada, Belgium, Las Vegas, and Asbury Park. The band held a 20th anniversary show in [YEAR]. The name comes from a Flintstones gangster who sells dodgy pianos.\n",
-      "[BAND_NAME] was formed in [YEAR] in Chicago, Illinois by vocalist [PERSON_NAME_FULL_0_MALE], guitarist Mr. Precision ([PERSON_NAME_FULL_1_MALE]), bassist Joe Principe and drummer Dom Vallone. The same year the band released their first 7\" on their own \"Go Deaf Records\", and after signing to Fat Wreck Chords the band released two more 7\" EPs, \"Go Away\" and \"Wanted\".\nAfter appearing on several split and compilation albums in [YEAR], the band released their next 10\" EP, \"Totin' 40's and Fuckin' Shit Up\" in [YEAR] and shortly after, drummer Dom Vallone left the band. The band was joined by new drummer Glenn Porter, followed by the release of their first full album \"Behind Bars\" on Hopeless Records on [MONTH] 12, [YEAR], which was well received.\n",
-      "The band started touring more and tension between band members started building up. After appearing on the \"Chicago vs. Amsterdam\" split EP, [BAND_NAME] disbanded in late [YEAR] due to fights between band members, and vocalist [PERSON_NAME_FULL_0_MALE] allegedly having urinated on drummer Glenn Porter. However, shortly before disbanding, the band had recorded a new 7\" single, \"The Teacher Gets it\", which was released in early [YEAR]. Later the same year, Fat Wreck Chords released a compilation album of all the band's 7\" releases on the label titled \"The Dom Years\".\n"
+      "[BAND_NAME] was formed in [YEAR] in Chicago, Illinois by vocalist [PERSON_NAME_FULL_1_MALE], guitarist Mr. Precision ([PERSON_NAME_FULL_0_MALE]), bassist Joe Principe and drummer Dom Vallone. The same year the band released their first 7[SONG_NAME].\nAfter appearing on several split and compilation albums in [YEAR], the band released their next 10[SONG_NAME] on Hopeless Records on [MONTH] 12, [YEAR], which was well received.\n",
+      "The band started touring more and tension between band members started building up. After appearing on the [SONG_NAME].\n"
    ]
 }

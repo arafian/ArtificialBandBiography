@@ -24,9 +24,12 @@
          "Dance Gavin Dance, Atherton, From Indian Lakes, Nuoro"
       ]
    },
+   "albums": [
+      "Signs and Wonders"
+   ],
    "prunedData": [
       "Consider The Thief is an [GENRE] band from Sacramento, California that formed in [YEAR] and broke up in [YEAR]. In [MONTH] [YEAR], they announced a reunion and a future record. However, as of [YEAR], no further announcements have been made.\n",
       "[BAND_NAME] was formed when members of local Sacramento act Heartshed started a new group with ex-Dance Gavin Dance guitarist [PERSON_NAME_FULL_0_MALE], whose writing credits include Whatever I Say Is Royal Ocean and Downtown Battle Mountain. In [YEAR] they released their EP Soldiers and Saints.\n",
-      "According to the bands' blog, the recording process for Signs and Wonders began in [MONTH] [YEAR]. According to guitarist Sean O'Sullivan, \" decided  wanted to take a [GENRE] a crutch for : screaming and busy guitar/drum work\".\n"
+      "According to the bands' blog, the recording process for Signs and Wonders began in [MONTH] [YEAR]. According to guitarist Sean O'Sullivan, [SONG_NAME].\n"
    ]
 }

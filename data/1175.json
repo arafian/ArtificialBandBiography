@@ -37,9 +37,10 @@
          "Hoss Wright"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] were an [GENRE] band from Los Angeles, California, formed in [YEAR]. Their name, \"[BAND_NAME]\", is short for \"The Existentialists\". Their two Virgin Records releases, Inertia ([YEAR]) and Head for the Door ([YEAR]), have sold over 400,000 copies combined.\n",
-      "[BAND_NAME] formed in [YEAR] when singer and guitarist Scott Stevens drafted bassist [PERSON_NAME_FULL_0_MALE] and drummer Thom Sullivan to form a new group. Stevens' friend [PERSON_NAME_FULL_1_MALE] played guitar in an early incarnation of [BAND_NAME], but left citing other priorities. [PERSON_NAME_LAST_1] was then replaced by guitarist David Walsh.\n",
-      "Stevens picked the name \"[BAND_NAME]\" from a John Lennon biography, stating on Rockline (11/9/[YEAR]) that it was the only Beatles-related name left that was not taken. When the Beatles were touring around Hamburg, Germany in the [YEAR]s, they encountered three distinct social groups among the kids: the mods, the rockers, and the art students (who referred to themselves as \"the existentialists\"). John Lennon coined the term \"the exies\" to refer to the art students.\n"
+      "[BAND_NAME] were an [GENRE] band from Los Angeles, California, formed in [YEAR]. Their name, [SONG_NAME]. Their two Virgin Records releases, Inertia ([YEAR]) and Head for the Door ([YEAR]), have sold over 400,000 copies combined.\n",
+      "[BAND_NAME] formed in [YEAR] when singer and guitarist Scott Stevens drafted bassist [PERSON_NAME_FULL_1_MALE] and drummer Thom Sullivan to form a new group. Stevens' friend [PERSON_NAME_FULL_0_MALE] played guitar in an early incarnation of [BAND_NAME], but left citing other priorities. [PERSON_NAME_LAST_0] was then replaced by guitarist David Walsh.\n",
+      "Stevens picked the name [SONG_NAME] to refer to the art students.\n"
    ]
 }

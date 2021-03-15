@@ -27,9 +27,10 @@
          "Phanie Diaz"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "Girl In a [GENRE] an American indie rock band from San Antonio, Texas, United States, formerly on [PERSON_NAME_FULL_0_FEMALE]'s Blackheart Records' label.  The band consisted of Nina (vocals/guitar), Phanie Diaz (drums) and [PERSON_NAME_FULL_1_FEMALE] (bass). The name is a reference to The Smiths' song \"Girlfriend in a Coma\". Before they were called [BAND_NAME], they were known as Sylvia's Radio and Girls in a Coma.\n",
-      "Stephanie \"Phanie\" Diaz started learning how to play the acoustic guitar when she was eleven. [PERSON_NAME_FULL_0_FEMALE] and Phanie met in eighth grade in art class where they became best friends. Both of them played instruments and created [BAND_NAME].\n",
-      "The partners asked Phanie's younger sister, Nina Diaz, to join their band after she shared with them a [GENRE] a week before her 14th birthday. Nina left high school at 16 to focus on the band. In [YEAR], Nina collaborated with Tiësto to co-write the dance track, \"In Your Mind.\" At the start of [YEAR], Nina took a break from the band to record solo material.\n"
+      "Girl In a [GENRE] an American indie rock band from San Antonio, Texas, United States, formerly on [PERSON_NAME_FULL_1_FEMALE]'s Blackheart Records' label.  The band consisted of Nina (vocals/guitar), Phanie Diaz (drums) and [PERSON_NAME_FULL_0_FEMALE] (bass). The name is a reference to The Smiths' song [SONG_NAME]. Before they were called [BAND_NAME], they were known as Sylvia's Radio and Girls in a Coma.\n",
+      "Stephanie [SONG_NAME] Diaz started learning how to play the acoustic guitar when she was eleven. [PERSON_NAME_FULL_0_FEMALE] and Phanie met in eighth grade in art class where they became best friends. Both of them played instruments and created [BAND_NAME].\n",
+      "The partners asked Phanie's younger sister, Nina Diaz, to join their band after she shared with them a [GENRE] a week before her 14th birthday. Nina left high school at 16 to focus on the band. In [YEAR], Nina collaborated with Tiësto to co-write the dance track, [SONG_NAME] At the start of [YEAR], Nina took a break from the band to record solo material.\n"
    ]
 }

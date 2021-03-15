@@ -27,6 +27,10 @@
          "Manuel Molina"
       ]
    },
+   "albums": [
+      "Glorieta de los lotos",
+      "We come to smash this time"
+   ],
    "prunedData": [
       "[BAND_NAME] were a [GENRE] band formed by the sitar and guitar player [PERSON_NAME_FULL_1_MALE] and singer and bassist [MONTH]io Matito ([YEAR]-[YEAR]) in [YEAR], which was active up to [YEAR]. Flamenco singer [PERSON_NAME_FULL_0_MALE] joined the band in [YEAR] and they introduced flamenco elements in their last compositions pioneering the Andalusian rock.\nThe band reunited in [YEAR] but [MONTH]io Matito died in a car accident a few days later.\n",
       "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."

@@ -29,9 +29,18 @@
          "Chris Hart"
       ]
    },
+   "albums": [
+      "\"Live\" from the Hills of Virginia",
+      "Memories of the Blue Ridge",
+      "The Church of Yesterday",
+      "The Old Crooked Trail",
+      "Live and On the Road",
+      "\"Live\" in Myrtle Beach",
+      "Appalachian Memories"
+   ],
    "prunedData": [
       "The [BAND_NAME] is an [GENRE] band from Southwest Virginia.\n",
-      "Brothers [PERSON_NAME_FIRST_4] and Victor [PERSON_NAME_LAST_1] formed the band in [YEAR] after both had been members of the family group The Bluegrass Playboys. The group became well known outside of Southwest Virginia after they recorded \"The Ballad of [MONTH]k Warner\" in [YEAR] for the gubernatorial campaign of [MONTH]k Warner.  The [BAND_NAME] have gotten high reviews for their [YEAR] album Old Crooked Trail.[YEAR] saw the band win instrumental group of the year at the SPGMA awards. [YEAR] also saw original member [PERSON_NAME_FIRST_4] [PERSON_NAME_LAST_1] retired from the band and was replaced by Kevin Prater. In [MONTH] [YEAR] Victor & [PERSON_NAME_FIRST_4] [PERSON_NAME_LAST_1] were inducted into the Virginia Folk Music Association Hall of Fame, joining other Virginia music Hall of Fame members that include [PERSON_NAME_FULL_2_FEMALE], The Statler Brothers, Jimmy Dean, [PERSON_NAME_FULL_3_MALE], Tony Rice, The Stanley Brothers & others. The band still tours all over the US & Canada.  In [YEAR] original Bluegrass Brother [PERSON_NAME_FIRST_4] [PERSON_NAME_LAST_1] returned on banjo and Victor's youngest son Donald returned on mandolin. Since [YEAR] the band line-up has been Victor [PERSON_NAME_LAST_1] : bass & vocals, [PERSON_NAME_FULL_1_MALE] : guitar & vocals, Jamie Sparks : banjo & vocals, Donald [PERSON_NAME_LAST_1] : mandolin & vocals, [PERSON_NAME_FULL_5_MALE] : dobro. In [YEAR] the band signed with Mountain Fever Records and in [MONTH] released the album \"Generations\" The album has performed well on the national Bluegrass charts with songs \"Memories of my Childhood\", \"Moonshine Man\", \"Grand Reunion\", \"Blue Ridge Mountain Man\", and \"When the Mountain Fell\" getting national radio airplay. Since the end of [YEAR], there has been a [GENRE] band members with [PERSON_NAME_FULL_0_MALE] taking over on mandolin and [PERSON_NAME_FULL_6_MALE] taking over on guitar.\n",
+      "Brothers [PERSON_NAME_FIRST_3] and Victor [PERSON_NAME_LAST_3] formed the band in [YEAR] after both had been members of the family group The Bluegrass Playboys. The group became well known outside of Southwest Virginia after they recorded [SONG_NAME] getting national radio airplay. Since the end of [YEAR], there has been a [GENRE] band members with [PERSON_NAME_FULL_6_MALE] taking over on mandolin and [PERSON_NAME_FULL_0_MALE] taking over on guitar.\n",
       "The band is known for its hard driving playing and high lonesome family harmonies. Some of the band's biggest influences are Jimmy [MONTH]tin, Flatt & Scruggs, The Stanley Brothers, The Osbourne Brothers, The McPeak Brothers, The Country Gentlemen, and The Seldom Scene. The style of music they play makes them a [GENRE]"
    ]
 }

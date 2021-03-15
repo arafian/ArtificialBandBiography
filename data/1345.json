@@ -35,9 +35,17 @@
          "Mark"
       ]
    },
+   "albums": [
+      "Unite to Resist",
+      "We Don't Want Your Fucking War",
+      "The Truth Will Be Heard",
+      "We Will Be Free",
+      "Belfast",
+      "We Will Be Free"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band from Belfast, Northern Ireland.\n",
-      "The band formed in [YEAR] in Newtownards, Co, Down, after being inspired by the Crass gig at the Anarchy Centre in Belfast.  Featuring [PERSON_NAME_FULL_0_MALE] on bass, [PERSON_NAME_FULL_4_FEMALE] on vocals, [PERSON_NAME_FULL_1_MALE] (Bangor) on drums to then be replaced by Grub and [MONTH]ty on guitar they wanted to take the DIY and anti-establishment ethos of punk one step further. They played their first gig at the West Winds Roadhouse in [YEAR], and regularly played around Bangor, Belfast and the Ards area for the next two years, in the same scene as the Belfast band Stalag 17. In [YEAR] they moved to Belfast and were joined by second vocalist Roy Wallace. They gigged with Conflict in the Manhattan Club which resulted in them doing a [GENRE] band were involved with the Belfast-based Warzone Collective, which included a vegetarian cafe called Giros, practice space for bands, and screen-printing studio.\n",
+      "The band formed in [YEAR] in Newtownards, Co, Down, after being inspired by the Crass gig at the Anarchy Centre in Belfast.  Featuring [PERSON_NAME_FULL_4_MALE] on bass, [PERSON_NAME_FULL_5_FEMALE] on vocals, [PERSON_NAME_FULL_0_MALE] (Bangor) on drums to then be replaced by Grub and [MONTH]ty on guitar they wanted to take the DIY and anti-establishment ethos of punk one step further. They played their first gig at the West Winds Roadhouse in [YEAR], and regularly played around Bangor, Belfast and the Ards area for the next two years, in the same scene as the Belfast band Stalag 17. In [YEAR] they moved to Belfast and were joined by second vocalist Roy Wallace. They gigged with Conflict in the Manhattan Club which resulted in them doing a [GENRE] band were involved with the Belfast-based Warzone Collective, which included a vegetarian cafe called Giros, practice space for bands, and screen-printing studio.\n",
       "They toured Europe twice before they eventually split in [YEAR].  Roy Wallace released Belfast in [YEAR], performing with Deno and Gary from DIRT to re-record old [BAND_NAME] tracks (as well as previously unreleased tracks).  [MONTH]ty and Roy used their experience from their time in [BAND_NAME] to form Bleeding Rectum.  The band was revived briefly in [YEAR] for a [GENRE]"
    ]
 }

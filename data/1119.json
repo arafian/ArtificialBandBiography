@@ -37,8 +37,16 @@
          "Anna Bulbrook"
       ]
    },
+   "albums": [
+      "The Airborne Toxic Event",
+      "All at Once",
+      "Such Hot Blood",
+      "Dope Machines",
+      "Songs of God and Whiskey",
+      "Hollywood Park"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Los Angeles, California, formed in [YEAR]. It consists of [PERSON_NAME_FULL_0_MALE] (vocals, guitar, keyboards), Steven Chen (guitar, keyboards), [PERSON_NAME_FULL_2_MALE] (electric bass, backing vocals), Daren Taylor (drums), and Miriam \"Mimi\" Peschet (backing vocals, violin). [PERSON_NAME_FULL_1_FEMALE] (vocals, violin) was formerly a member of the band.\n",
+      "[BAND_NAME] is an [GENRE] band from Los Angeles, California, formed in [YEAR]. It consists of [PERSON_NAME_FULL_2_MALE] (vocals, guitar, keyboards), Steven Chen (guitar, keyboards), [PERSON_NAME_FULL_1_MALE] (electric bass, backing vocals), Daren Taylor (drums), and Miriam [SONG_NAME] Peschet (backing vocals, violin). [PERSON_NAME_FULL_0_FEMALE] (vocals, violin) was formerly a member of the band.\n",
       "Named after a [GENRE] a string quartet based in Los Angeles. The group has also played concerts with the Louisville Orchestra and the Colorado Symphony Orchestra.\n",
       "\nInitially a [GENRE] an acoustic guitar following a week in [MONTH] [YEAR], during which he underwent a break-up, learned his mother had been diagnosed with cancer, and was himself diagnosed with a genetic autoimmune disease that led to the development of two cosmetic conditions: Alopecia areata and Vitiligo. This quick succession of traumatic events spurred a period of intense songwriting, and it was around this time that he first met Taylor through a mutual friend in Silver Lake, Los Angeles. "
    ]

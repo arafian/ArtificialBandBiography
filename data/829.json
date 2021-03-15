@@ -43,9 +43,17 @@
          "Bayen Butler (1993-1994)"
       ]
    },
+   "albums": [
+      "Silver",
+      "Waiting For A Ride",
+      "Diggin' a Hole",
+      "I Think I'm Gonna Be Sick",
+      "Under My Skin",
+      "Dyslexicon"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Philadelphia, Pennsylvania formed in [YEAR] by vocalist/guitarist [PERSON_NAME_FULL_1_MALE], bassist Mike [PERSON_NAME_LAST_1], guitarist [PERSON_NAME_FULL_0_MALE], and drummer Dante Cimino. Bayen Butler was also a member in [YEAR]-94. Due to their sound and image, [BAND_NAME] is often associated with the grunge movement of the late [YEAR]s and early [YEAR]s from Seattle.\n",
-      "The band was originally going to be called Cat Food but instead chose [BAND_NAME] due to the guitarist Carl Hinds reading [PERSON_NAME_FULL_0_MALE]'s novel \"[BAND_NAME] Wine\". In [YEAR], [BAND_NAME] recorded a [GENRE] a Jackpot pick, being only the second demo to receive that honor. The tape attracted the attention of Ruffhouse Records, a label based in nearby Conshohocken and home to various hip-hop groups like The Goats, Cypress Hill, Schoolly D, and The Fugees. The song \"Waiting for a Ride\" was released as a single the following year. They also released two full-length albums: I Think I'm Gonna Be Sick (Columbia/Ruffhouse) in [YEAR], and Dyslexicon (Sony) in [YEAR]. Bayen Butler left the band before the release of Dyslexicon and formed the band Shag.\n",
-      "[BAND_NAME]'s music was featured on MTV, as videos for the songs \"Waiting for a [GENRE] band's music was also featured on MTV shows The Real World and Beavis & Butt-head, as well as the Edward Furlong movie Brainscan. However, national fame eluded the band as their albums were released during the time of grunge's decline in popularity. [BAND_NAME] disbanded in [YEAR].\n"
+      "[BAND_NAME] was an [GENRE] band from Philadelphia, Pennsylvania formed in [YEAR] by vocalist/guitarist [PERSON_NAME_FULL_0_MALE], bassist Mike [PERSON_NAME_LAST_0], guitarist [PERSON_NAME_FULL_1_MALE], and drummer Dante Cimino. Bayen Butler was also a member in [YEAR]-94. Due to their sound and image, [BAND_NAME] is often associated with the grunge movement of the late [YEAR]s and early [YEAR]s from Seattle.\n",
+      "The band was originally going to be called Cat Food but instead chose [BAND_NAME] due to the guitarist Carl Hinds reading [PERSON_NAME_FULL_0_MALE]'s novel [SONG_NAME] was released as a single the following year. They also released two full-length albums: I Think I'm Gonna Be Sick (Columbia/Ruffhouse) in [YEAR], and Dyslexicon (Sony) in [YEAR]. Bayen Butler left the band before the release of Dyslexicon and formed the band Shag.\n",
+      "[BAND_NAME]'s music was featured on MTV, as videos for the songs [SONG_NAME] entered late night rotation. The band's music was also featured on MTV shows The Real World and Beavis & Butt-head, as well as the Edward Furlong movie Brainscan. However, national fame eluded the band as their albums were released during the time of grunge's decline in popularity. [BAND_NAME] disbanded in [YEAR].\n"
    ]
 }

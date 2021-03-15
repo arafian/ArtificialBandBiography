@@ -32,9 +32,17 @@
          "Brendan Murphy"
       ]
    },
+   "albums": [
+      "Head",
+      "Goat",
+      "Liar",
+      "Down",
+      "Shot",
+      "Blue"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in [YEAR] in Austin, Texas and based in Chicago, Illinois.  They were \"a leading noise rock band in the American independent underground… turned out a series of independent records filled with scathing, disembowelling, guitar-driven pseudo-industrial noise, all of which received positive reviews in underground music publications and heavy college-radio play.\"\n",
-      "After a [GENRE] a recording-only project based in Austin, founding vocalist [PERSON_NAME_FIRST_4] Yow, bassist [PERSON_NAME_FULL_4_MALE]. Sims, and guitarist [PERSON_NAME_FULL_1_MALE] relocated to Chicago, Illinois in [YEAR], where they found kindred spirits in recording engineer [PERSON_NAME_FULL_3_MALE] and Touch and Go Records.  With the addition of drummer [PERSON_NAME_FULL_2_MALE], they began performing live, eventually attracting an international audience with their powerful live show. Drummer Jim Kimball replaced [PERSON_NAME_LAST_2] late in [YEAR], and was himself replaced by [PERSON_NAME_FULL_0_MALE] two years later, with [PERSON_NAME_LAST_2] returning to drums for their reunion shows years later.\n",
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR] in Austin, Texas and based in Chicago, Illinois.  They were [SONG_NAME]\n",
+      "After a [GENRE] a recording-only project based in Austin, founding vocalist [PERSON_NAME_FIRST_4] Yow, bassist [PERSON_NAME_FULL_4_MALE]. Sims, and guitarist [PERSON_NAME_FULL_3_MALE] relocated to Chicago, Illinois in [YEAR], where they found kindred spirits in recording engineer [PERSON_NAME_FULL_1_MALE] and Touch and Go Records.  With the addition of drummer [PERSON_NAME_FULL_2_MALE], they began performing live, eventually attracting an international audience with their powerful live show. Drummer Jim Kimball replaced [PERSON_NAME_LAST_2] late in [YEAR], and was himself replaced by [PERSON_NAME_FULL_0_MALE] two years later, with [PERSON_NAME_LAST_2] returning to drums for their reunion shows years later.\n",
       "Despite releasing a [GENRE] band failed to find commercial success amid the alternative rock explosion of the [YEAR]s and disbanded in [YEAR]. Their reunion tour ten years later garnered positive responses from audiences and critics. [BAND_NAME] performed another reunion tour in [YEAR] and [YEAR].\n"
    ]
 }

@@ -30,9 +30,17 @@
          "Alicia Jo Rabins, Sarah Ferholt, Barry Negrin"
       ]
    },
+   "albums": [
+      "Golem (debut EP)",
+      "Libeshmertzn (Love Hurts)",
+      "Homesick Songs",
+      "Fresh Off Boat",
+      "Citizen Boris",
+      "Tanz"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from New York City. They mix traditional Eastern European Jewish music with original material sung in Yiddish, English, Russian, as well as Ukrainian, French, Serbian-Croatian, Romany.\n",
-      "[BAND_NAME] was created in [MONTH], [YEAR] by Annette Ezekiel Kogan, bandleader, vocalist and accordionist. The group describes itself as \"Eastern European Jewish folk-rock\". The group performs internationally: throughout the United States, Canada, Mexico, as well as France, Germany, Ukraine, the U.K, Poland and Sweden.\n",
-      "Annette Ezekiel Kogan formed [BAND_NAME] in [YEAR]. Before even putting the band together she contacted [PERSON_NAME_FULL_0_MALE], who was then curating the weekly \"Klezmer Brunch\" at the downtown venue Tonic, and asked him for a gig. [PERSON_NAME_LAST_0] agreed, and Ezekiel Kogan put together the first lineup for [BAND_NAME]’s debut.\n"
+      "[BAND_NAME] was created in [MONTH], [YEAR] by Annette Ezekiel Kogan, bandleader, vocalist and accordionist. The group describes itself as [SONG_NAME]. The group performs internationally: throughout the United States, Canada, Mexico, as well as France, Germany, Ukraine, the U.K, Poland and Sweden.\n",
+      "Annette Ezekiel Kogan formed [BAND_NAME] in [YEAR]. Before even putting the band together she contacted [PERSON_NAME_FULL_0_MALE], who was then curating the weekly [SONG_NAME] at the downtown venue Tonic, and asked him for a gig. [PERSON_NAME_LAST_0] agreed, and Ezekiel Kogan put together the first lineup for [BAND_NAME]’s debut.\n"
    ]
 }

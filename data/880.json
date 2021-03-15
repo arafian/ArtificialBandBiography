@@ -28,6 +28,18 @@
          "Dave Weeks"
       ]
    },
+   "albums": [
+      "Space Launch for Frenchie",
+      "Be Gentle With the Warm Turtle",
+      "Airs Above Your Station",
+      "Crickets and Fireflies",
+      "Don't Climb on and Take the Holy Water",
+      "Alpine Static",
+      "Down Below It's Chaos",
+      "Cosy Moments",
+      "7 (or 8)",
+      "Accustomed to Your Face"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Seattle, Washington. They have released eight albums, a number of split albums and EP.\n",
       "They formed in [YEAR] in a [GENRE] a conversation between two customers, Chris [MONTH]tin (guitar) and [PERSON_NAME_FULL_0_FEMALE] (bassist)  about analog recording. Weeks joined the discussion, and they found they also shared mutual musical interests, and hence agreed to form a band. They started playing live the same year.\n",

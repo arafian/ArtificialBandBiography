@@ -26,9 +26,10 @@
          "Greg Stukey"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] (/ˈræk/) are a [GENRE] band quartet from Burlington, Vermont.\n",
-      "The group formed in [YEAR] with original keyboard player [MONTH]c Scortino and released their first studio effort \"Shed Tech\" a year later. In [YEAR] Scortino left the band and was replaced by Todd Stoops. Along with [PERSON_NAME_FULL_1_MALE] (Guitar), Jay Burwick (Bass) and [PERSON_NAME_FULL_0_MALE] (Drums) the band would release their second album \"Carbohydrates Are The Enemy\" later in the year and embark on their first national tour. In [YEAR] Harmonized Records signed [BAND_NAME] and helped release their third studio album \"Ton These\". In [YEAR] the band re-formed with Adrian Tramantano on drums.\n",
-      "In a [YEAR] article, music writer Eric Ward Glide Magazine stated, \"They've invented the concept of jambands even having an old school style to bring back in the first place.\"\n"
+      "The group formed in [YEAR] with original keyboard player [MONTH]c Scortino and released their first studio effort [SONG_NAME]. In [YEAR] the band re-formed with Adrian Tramantano on drums.\n",
+      "In a [YEAR] article, music writer Eric Ward Glide Magazine stated, [SONG_NAME]\n"
    ]
 }

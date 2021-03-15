@@ -26,8 +26,12 @@
          "Mike Yannich"
       ]
    },
+   "albums": [
+      "Heartsickle",
+      "Crush, Boyfriend, Heartbreak"
+   ],
    "prunedData": [
-      "[BAND_NAME] are a [GENRE] band.  The band formed after bassist/singer [PERSON_NAME_FULL_0_FEMALE] recorded a handful of songs for a present with Adam Rabuck (of Dirt Bike Annie) who encouraged her to continue playing music.  Despite a somewhat revolving lineup, the band has remained fairly active over the years, including recording and releasing two full-length records on Whoa Oh Records as well as EP's and other compilation appearances, and tours often, not including other shows with mc chris, as well as the recently reunited Lifetime. and Weston The band became more mainstream after Adult Swim used the song \"What you want, what you got\" in a 30-second Bleach Promo. The band is currently taking a long hiatus while [PERSON_NAME_FIRST_0] performs in the off-Broadway show FUERZABRUTA.\n",
+      "[BAND_NAME] are a [GENRE] band.  The band formed after bassist/singer [PERSON_NAME_FULL_0_FEMALE] recorded a handful of songs for a present with Adam Rabuck (of Dirt Bike Annie) who encouraged her to continue playing music.  Despite a somewhat revolving lineup, the band has remained fairly active over the years, including recording and releasing two full-length records on Whoa Oh Records as well as EP's and other compilation appearances, and tours often, not including other shows with mc chris, as well as the recently reunited Lifetime. and Weston The band became more mainstream after Adult Swim used the song [SONG_NAME] in a 30-second Bleach Promo. The band is currently taking a long hiatus while [PERSON_NAME_FIRST_0] performs in the off-Broadway show FUERZABRUTA.\n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

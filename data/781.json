@@ -14,7 +14,13 @@
          "1978 (1978)-"
       ]
    },
+   "albums": [
+      "Tatuerade tårar",
+      "Här å nu!",
+      "I denna stan",
+      "Nerv"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band originating from Askim, Gothenburg, Sweden and established in [YEAR]. It fronted Mats Jönsson on vocals. Original members also included Magnus \"Paddan\" Rydman, [MONTH]tin \"Grodan\" Fabian and [PERSON_NAME_FULL_1_MALE]. The band was known as The Frogs before being renamed [BAND_NAME]. The first singles were on their own label \"Rickman\", but the debut album Tatuerade tårar was released in [YEAR] on Hiss Records, before being signed to Transmission. The band was on a hiatus after [YEAR] but had a comeback in [YEAR] and [YEAR] after signing with Arda Records. They also came together in [YEAR] for the 20th anniversary and in [YEAR] for the 25th anniversary. Later line-ups included Mats Jönsson on vocals, Magnus \"Paddan/Remdo\" Rydman on guitar, both from the original band as well as Cristian \"Crippa\" Odin on bass and [PERSON_NAME_FULL_0_MALE] on drums. The compilation album Fy Fan! released in [YEAR] on the band's own Rykkman Records raised interest in the band's legacy and climbed the Swedish Albums Chart reaching number 20.\n"
+      "[BAND_NAME] is a [GENRE] band originating from Askim, Gothenburg, Sweden and established in [YEAR]. It fronted Mats Jönsson on vocals. Original members also included Magnus [SONG_NAME] Odin on bass and [PERSON_NAME_FULL_1_MALE] on drums. The compilation album Fy Fan! released in [YEAR] on the band's own Rykkman Records raised interest in the band's legacy and climbed the Swedish Albums Chart reaching number 20.\n"
    ]
 }

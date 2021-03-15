@@ -47,9 +47,23 @@
          " Mitchell Davis"
       ]
    },
+   "albums": [
+      "Bluegrass In A Plain Brown Wrapper",
+      "Life's Mysteries",
+      "Coffee at Midnight",
+      "Earn Your Ticket",
+      "Field Of Dreams",
+      "Now And Then",
+      "Once Upon A Road",
+      "Reflections",
+      "Album No. 7",
+      "Lord Bless This House",
+      "It's A Good Feeling",
+      "Undeniable"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in Buena Vista, Virginia and was formed in [MONTH] [YEAR]. Its \"parent band\" East Coast Bluegrass Band was formed Summer [YEAR] to compete in the East Coast Bluegrass Championship in Crimora, Virginia.\n",
+      "[BAND_NAME] is an [GENRE] band based in Buena Vista, Virginia and was formed in [MONTH] [YEAR]. Its [SONG_NAME] East Coast Bluegrass Band was formed Summer [YEAR] to compete in the East Coast Bluegrass Championship in Crimora, Virginia.\n",
       "The East Coast Bluegrass Band, predecessor to [BAND_NAME], was formed in [YEAR] to compete in the East Coast Bluegrass Championship in Crimora, Virginia.  After winning the contest, the band kept the name and continued to play together at local functions. In [YEAR] the group won the Virginia Folk Music Society State Bluegrass Band Championship.  The members of the band developed some original material, but remained true to the traditional style of the great bluegrass bands of the [YEAR]s and [YEAR]s.\n",
-      "In [YEAR] the band released Life's Mysteries with Buster [PERSON_NAME_LAST_1] on banjo, [PERSON_NAME_FULL_2_MALE] on mandolin, Frankie Hawkins on guitar, [PERSON_NAME_FULL_0_FEMALE] on rhythm guitar, Bill Ledbetter on bass, and Buster's son [PERSON_NAME_FULL_1_MALE] on fiddle.  The younger [PERSON_NAME_LAST_1] joined the group at the last minute as a replacement for Mitchell Davis, who left the group in [MONTH] [YEAR].\n"
+      "In [YEAR] the band released Life's Mysteries with Buster [PERSON_NAME_LAST_1] on banjo, [PERSON_NAME_FULL_0_MALE] on mandolin, Frankie Hawkins on guitar, [PERSON_NAME_FULL_2_FEMALE] on rhythm guitar, Bill Ledbetter on bass, and Buster's son [PERSON_NAME_FULL_1_MALE] on fiddle.  The younger [PERSON_NAME_LAST_1] joined the group at the last minute as a replacement for Mitchell Davis, who left the group in [MONTH] [YEAR].\n"
    ]
 }

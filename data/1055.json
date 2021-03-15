@@ -25,9 +25,14 @@
          "Dan Edinberg"
       ]
    },
+   "albums": [
+      "Take Me Home",
+      "The Wait",
+      "Line in the Sand"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Providence, Rhode Island. The band consists of four members: namesake [PERSON_NAME_FULL_1_MALE] (drums), Eli Miller (guitar, vocals), [PERSON_NAME_FULL_0_MALE] (violin, vocals), and [PERSON_NAME_FULL_2_MALE] (bass, vocals).\n",
       "Two founding members of [BAND_NAME] met while students at Brown University, soon after rapidly growing their fanbase through traditional grassroots methods and energetic live shows. Their debut album, Take Me Home, was released in [YEAR], launching the band on a [GENRE] band's tour page, they have opened for or toured with bands such including The Black Eyed Peas, O.A.R. and Rusted Root.\n",
-      "In [YEAR], [BAND_NAME] released a second album titled The Wait, which was listed on the Billboard Magazine Internet Album Charts in 7th position between The Black Eyed Peas and Coldplay.  The Wait, in addition to selling 2,700 albums nationwide in its debut week, was also the top selling album in Rhode Island.  The single \"Can't Look Down\" was featured on the [YEAR] Bionicle Free the Band website, along with songs from the Undertones, Damone, Over It, and others; it also appeared on MTV's The Real World: [PERSON_NAME_FULL_0_MALE], \"Road Rules\", and in the ski films Snow Gods and [PERSON_NAME_FULL_1_MALE]'s \"Slacker Uprising\".  \"The Wait\" charted at No. 38 on CMJ charts with 153 Stations adding the disc (Spring [YEAR]).\n"
+      "In [YEAR], [BAND_NAME] released a second album titled The Wait, which was listed on the Billboard Magazine Internet Album Charts in 7th position between The Black Eyed Peas and Coldplay.  The Wait, in addition to selling 2,700 albums nationwide in its debut week, was also the top selling album in Rhode Island.  The single [SONG_NAME] charted at No. 38 on CMJ charts with 153 Stations adding the disc (Spring [YEAR]).\n"
    ]
 }

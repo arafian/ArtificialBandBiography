@@ -33,9 +33,10 @@
          "Ibon Sagarra, Ibi"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] (from Spanish: Barricade) were a [GENRE] band created in [YEAR] in the Txantrea neighbourhood of Pamplona/Iruñea.\n",
-      "The band members were [PERSON_NAME_FULL_0_MALE] (El Drogas) as bassist and vocalist, [PERSON_NAME_FULL_2_MALE] (Boni) guitarist and vocalist, [PERSON_NAME_FULL_1_MALE] as guitarist and [PERSON_NAME_FULL_3_MALE] (Ibi) on drums. Together they have written over 100 songs and sold over a [GENRE]",
+      "The band members were [PERSON_NAME_FULL_0_MALE] (El Drogas) as bassist and vocalist, [PERSON_NAME_FULL_1_MALE] (Boni) guitarist and vocalist, [PERSON_NAME_FULL_2_MALE] as guitarist and [PERSON_NAME_FULL_3_MALE] (Ibi) on drums. Together they have written over 100 songs and sold over a [GENRE]",
       "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

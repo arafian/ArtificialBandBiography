@@ -26,9 +26,21 @@
          "Mitsuko Saito"
       ]
    },
+   "albums": [
+      "(Gobanic Land)",
+      "(Pygmy Pinky)",
+      "(Special 'I Love You')",
+      "(Greatest Venus)",
+      "SAMANTHA",
+      "DARRIN",
+      "(Wonder Fruits)",
+      "DANGEROUS CHARMS",
+      "THE RECYCLE HITS",
+      "(Bionic Rock)"
+   ],
    "prunedData": [
       "The [BAND_NAME] were a [GENRE] band active in the late [YEAR]s and early [YEAR]s. They broke up in [YEAR], and since then, [PERSON_NAME_FULL_2_FEMALE] (singer/songwriter) has become a solo singer/songwriter/producer/actress, while [PERSON_NAME_FULL_1_FEMALE] (drums) and [PERSON_NAME_FULL_0_FEMALE] (bass guitar) have dropped beneath the radar, though apparently [PERSON_NAME_LAST_1] has been seen drumming for a few other bands, fashion-modeling and played a drummer as an extra in the music video of J-pop singer Namie Amuro's Please Smile Again.\n",
-      "Initially a [GENRE] band, [BAND_NAME] lost their guitarist early on, becoming popular after she left the band. At the peak of their career, the album \"Greatest Venus\" went straight to the top of Oricon's Japanese album chart and stayed there for two consecutive weeks. They had a somewhat unusual sound, being a punk-influenced bubblegum pop band, and lacking a lead guitarist — though this wasn't always the case — on the album Samantha, for example, the [BAND_NAME] worked with the King Gangs, a three-piece all-male band, who complemented their line up with the addition of electric guitars and keyboard. \n",
-      "The album Samantha was mixed down by Michael Haas, who was a [GENRE] band 808 State, at Revolution Studios in Manchester, England. Also, the album's title song \"Samansa\" was reproduced as an English language song and remixed by [PERSON_NAME_FULL_1_MALE] from Rhythm King Productions, who produced British pop singer/rap artist [PERSON_NAME_FULL_0_FEMALE]. This remix version of the song was released as one of the songs on their remix mini album \"Darrin.\"  \n"
+      "Initially a [GENRE] band, [BAND_NAME] lost their guitarist early on, becoming popular after she left the band. At the peak of their career, the album [SONG_NAME] went straight to the top of Oricon's Japanese album chart and stayed there for two consecutive weeks. They had a somewhat unusual sound, being a punk-influenced bubblegum pop band, and lacking a lead guitarist — though this wasn't always the case — on the album Samantha, for example, the [BAND_NAME] worked with the King Gangs, a three-piece all-male band, who complemented their line up with the addition of electric guitars and keyboard. \n",
+      "The album Samantha was mixed down by Michael Haas, who was a [GENRE] band 808 State, at Revolution Studios in Manchester, England. Also, the album's title song [SONG_NAME]  \n"
    ]
 }

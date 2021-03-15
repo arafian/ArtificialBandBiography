@@ -37,9 +37,20 @@
          "Boz Rivera"
       ]
    },
+   "albums": [
+      "Incognito",
+      "Don't Miss the Train",
+      "The Daily Grind",
+      "¡Leche con Carne!",
+      "Making Friends",
+      "More Betterness!",
+      "Hard Rock Bottom",
+      "Keep Them Confused",
+      "The Feel Good Record of the Year"
+   ],
    "prunedData": [
       "[BAND_NAME] (sometimes abbreviated NUFAN or No Use) was an [GENRE] band from San Jose, California, United States formed in [YEAR] by Chris Dodge (guitar), [PERSON_NAME_FULL_0_MALE] (bass guitar) and [PERSON_NAME_FULL_1_MALE] (drums). The band's sound evolved considerably through its career, starting off as a Bay Area-influenced punk band, moving on to a much heavier metallic-tinted sound to finally taking on a much lighter brand of melodic punk as the years passed. The band's career ended in [YEAR] following Tony Sly's death on [MONTH] 31 of that year.\n",
-      "No Use For a Name was formed in [YEAR] by longtime friends Dodge, Papoutsis and Koff. The early rehearsals of the band had taken place at a warehouse in Sunnyvale owned by Koff's father, where they also came up with the name for the band. During this era, the band was fronted by Papoutsis' friend John Meyer. Initially a four piece, it later expanded to a six piece, adding as a co-vocalist [PERSON_NAME_FULL_1_MALE] and a second guitarist [PERSON_NAME_FULL_0_MALE]. The band experienced many line up changes during this period. In [YEAR], Dodge left to play in another Bay Area punk band, Stikky, while in summer that year, both Meyer and [PERSON_NAME_LAST_0] left the band with Tony Sly replacing [PERSON_NAME_LAST_0] on guitar. This line-up first appeared on Maximum RocknRoll's [YEAR] Turn it Around compilation, with the song \"Gang Way\". In [YEAR], [PERSON_NAME_LAST_1] fell out with the rest of the band and left before an important show at Gilman and a live appearance on the KFJC radio show. In a tight spot, the band asked the former guitarist Dodge, who before the formation of No Use had sung in other local bands, to rejoin as vocalist, which he agreed. This line-up of the band recorded two EPs; No Use For a Name on Woodpecker Records and Let 'em Out on on Slap A Ham Records. In [YEAR], Dodge left again which allowed Sly to take over vocals and songwriting.\n",
+      "No Use For a Name was formed in [YEAR] by longtime friends Dodge, Papoutsis and Koff. The early rehearsals of the band had taken place at a warehouse in Sunnyvale owned by Koff's father, where they also came up with the name for the band. During this era, the band was fronted by Papoutsis' friend John Meyer. Initially a four piece, it later expanded to a six piece, adding as a co-vocalist [PERSON_NAME_FULL_1_MALE] and a second guitarist [PERSON_NAME_FULL_0_MALE]. The band experienced many line up changes during this period. In [YEAR], Dodge left to play in another Bay Area punk band, Stikky, while in summer that year, both Meyer and [PERSON_NAME_LAST_0] left the band with Tony Sly replacing [PERSON_NAME_LAST_0] on guitar. This line-up first appeared on Maximum RocknRoll's [YEAR] Turn it Around compilation, with the song [SONG_NAME]. In [YEAR], [PERSON_NAME_LAST_1] fell out with the rest of the band and left before an important show at Gilman and a live appearance on the KFJC radio show. In a tight spot, the band asked the former guitarist Dodge, who before the formation of No Use had sung in other local bands, to rejoin as vocalist, which he agreed. This line-up of the band recorded two EPs; No Use For a Name on Woodpecker Records and Let 'em Out on on Slap A Ham Records. In [YEAR], Dodge left again which allowed Sly to take over vocals and songwriting.\n",
       "NUFAN's first album, Incognito, was released in [YEAR] by New Red Archives. It was the only album by the band recorded as a trio. In [YEAR], Dodge rejoined on second guitar and they released their second album, Don't Miss the Train, in [YEAR] before signing up with Fat Mike's label Fat Wreck Chords in [YEAR]. In late [YEAR], Dodge left the line-up, and was replaced by the guitarist Robin Pfefer, who took over on lead guitar so that Sly could step down to rhythm and concentrate on singing. [BAND_NAME] also released their first record on Fat Wreck Chords that year, The Daily Grind (EP), which turned out to be highly successful.\n"
    ]
 }

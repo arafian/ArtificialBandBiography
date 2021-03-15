@@ -35,9 +35,15 @@
          " Richard Swartz"
       ]
    },
+   "albums": [
+      "Promo",
+      "Pheromone",
+      "Summon",
+      "Summon: Invocation"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band based in New York City.\n",
-      "The band was formed in [YEAR] by [PERSON_NAME_FULL_0_FEMALE], an [GENRE] a trip to New York City, brand new recording equipment in tow, with the idea that she’d move to America to make music, this despite the unfortunate fact that she didn’t know how to play an instrument of any kind.\" [PERSON_NAME_LAST_0] then posted advertisements for band members that read, \"Seeking guitarist, bassist and drummer to form the biggest band in the world, as soon as possible. Must have dark personalities.\" One such ad posted in a local record store, caught the attention of trio Josh Rothenberger (guitar), [PERSON_NAME_FULL_2_MALE] (bass), and Blake McDowell (organ), who responded and subsequently joined [PERSON_NAME_LAST_0]'s project, ultimately rounded out by \"respected jazz and world music drummer/percussion-ist/tabla-ist\" [PERSON_NAME_FULL_1_MALE].\n",
-      "Between [YEAR] and [YEAR], the quintet played around New York City opening for such diverse acts as Akron/Family, Genghis Tron, and Mouth of the Architect. College Music Journal commented on [BAND_NAME]'s live performances stating, \"Known for their daring stage shows, the band performs in executioner's hoods and robes to amplify their Yoko Ono-meets-Black Sabbath (or Sunn O)))-like) riff work.\" The band released—through Holy Roar—a split album with avant-garde metal group [PERSON_NAME_FULL_0_FEMALE] in early [YEAR], and also recorded a [GENRE] band with the indie rock name\" had become one of the most anticipated full-lengths in [YEAR].\n"
+      "The band was formed in [YEAR] by [PERSON_NAME_FULL_1_FEMALE], an established visual artist based in Osaka, Japan, who [SONG_NAME] [PERSON_NAME_FULL_0_MALE].\n",
+      "Between [YEAR] and [YEAR], the quintet played around New York City opening for such diverse acts as Akron/Family, Genghis Tron, and Mouth of the Architect. College Music Journal commented on [BAND_NAME]'s live performances stating, [SONG_NAME] had become one of the most anticipated full-lengths in [YEAR].\n"
    ]
 }

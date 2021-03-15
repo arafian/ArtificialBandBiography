@@ -22,9 +22,13 @@
          "fono.net"
       ]
    },
+   "albums": [
+      "High And Wired",
+      "Burn"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band, originally from the United Kingdom but later based out of San Diego, California.\n",
-      "[BAND_NAME] formed under the name Seven (and originally from Milton Keynes), and released one album and one EP under this name; they also opened for a UK concert by [PERSON_NAME_FULL_2_FEMALE] before changing their name to [BAND_NAME] in [YEAR]. Lead singer [PERSON_NAME_FULL_1_FEMALE] had previously played with Split Level and Tribe of Dan, and went on a year-long hiatus from songwriting and performing before putting the group together. The band has stated that the name \"[BAND_NAME]\" has no significance; in an interview, [PERSON_NAME_LAST_1] said \"It means absolutely nothing\".  Following the name change, the group was featured in Kerrang! magazine as one of their Best Unsigned Bands. Not long after, they did sign with a label, and the group released their debut full-length, Goesaroundcomesaround, in [YEAR]. Album reviewers noted the album's American, as opposed to British, rock sound and the group's general appeal to audiences outside the world of Christian rock. In America, the group scored two Christian radio hits with the singles \"Now She's 24\" (No. 7, [YEAR]) and \"Drift Away\" ( 16, [YEAR]). They also toured with [PERSON_NAME_FULL_0_MALE], The Goo Goo Dolls, Third Eye Blind, and Audio Adrenaline.\n",
+      "[BAND_NAME] formed under the name Seven (and originally from Milton Keynes), and released one album and one EP under this name; they also opened for a UK concert by [PERSON_NAME_FULL_1_FEMALE] before changing their name to [BAND_NAME] in [YEAR]. Lead singer [PERSON_NAME_FULL_0_FEMALE] had previously played with Split Level and Tribe of Dan, and went on a year-long hiatus from songwriting and performing before putting the group together. The band has stated that the name [SONG_NAME] ( 16, [YEAR]). They also toured with [PERSON_NAME_FULL_2_MALE], The Goo Goo Dolls, Third Eye Blind, and Audio Adrenaline.\n",
       "After the release of the album, the band relocated permanently to the United States, settling in  San Diego, California in [YEAR]. That year, a [GENRE] a lawsuit which took over two years to resolve; during this time the band was prevented from recording any music. They then began recording a new album, but the studio where they were recording and all of their equipment and masters were destroyed in the Cedar Fire of [YEAR]. The group re-recorded the material and independently released It's the Way That You Use It in [YEAR] and Too Broken to Break in [YEAR].\n"
    ]
 }

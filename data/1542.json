@@ -31,9 +31,10 @@
          "Shinichi Tanabe"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band formed of session musicians and producers. They first gained notability as the backing and touring band for [PERSON_NAME_FULL_0_FEMALE].\n",
-      "Working as a band in their own right they wrote and performed the song \"le vent brulant\" in [YEAR], which was used for some of the Japanese television coverage of the [YEAR] Formula-1 season. This track, an instrumental, was included on both Yaida's single \"Look Back Again/Over The Distance\" and the compilation album Grand Prix: Super Collection [YEAR]\n",
+      "Working as a band in their own right they wrote and performed the song [SONG_NAME] and the compilation album Grand Prix: Super Collection [YEAR]\n",
       "Working around a [GENRE] a polished sound on all.\n"
    ]
 }

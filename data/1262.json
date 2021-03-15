@@ -59,9 +59,18 @@
          "Natasha Shneider"
       ]
    },
+   "albums": [
+      "Queens of the Stone Age",
+      "Rated R",
+      "Songs for the Deaf",
+      "Lullabies to Paralyze",
+      "Era Vulgaris",
+      "...Like Clockwork",
+      "Villains"
+   ],
    "prunedData": [
       "[BAND_NAME] (commonly abbreviated QOTSA) is an [GENRE] band formed in [YEAR] in Palm Desert, California. The band was founded by vocalist and guitarist Josh Homme, who has been the only constant member throughout multiple line-up changes. The current line-up consists of Homme alongside [PERSON_NAME_FULL_0_MALE] (guitar, lap steel, keyboard, percussion, backing vocals), Michael Shuman (bass guitar, keyboard, backing vocals), [PERSON_NAME_FULL_2_MALE] (keyboards, guitar, percussion, backing vocals), and [PERSON_NAME_FULL_1_MALE] (drums, percussion). The band also have a large pool of contributors and collaborators. [BAND_NAME] are known for their blues, Krautrock and electronica-influenced style of riff-oriented and rhythmic hard rock music, coupled with Homme's distinct falsetto vocals and unorthodox guitar scales. \n",
-      "Formed after the dissolution of Homme's previous band Kyuss, the band originated from the Palm Desert music scene, known for its distinct \"desert rock\" sound and highly collaborative nature. Their self-titled debut album was recorded by former Kyuss bandmates [PERSON_NAME_FULL_1_MALE] on drums and Homme on all other instruments. It was well received by critics for its stoner rock sound which Homme has described as \"robot rock\". Nick Oliveri joined the band as bassist and vocalist along with additional vocalist [MONTH]k Lanegan for the recording of Rated R, which was commercially and critically successful. Now with three singers and a myriad of other collaborators, Rated R diversified their musical palette with forays into psychedelic rock, punk rock and heavy metal, and featured their breakout single \"Feel Good Hit of the Summer\", which lists six recreational drugs. Featuring former Nirvana drummer and Foo Fighters singer [PERSON_NAME_FULL_0_MALE] on drums and contributions from Alain Johannes and [PERSON_NAME_FULL_2_FEMALE], Songs for the Deaf was released in [YEAR], to universal acclaim and commercial success. The album saw the band further experiment with instrumentation, such as string and horn arrangements, and featured some of the band's most enduring singles \"No One Knows\" and \"Go with the Flow\". By this time the band had achieved considerable international recognition, and have since embarked on successive world tours. Homme fired Oliveri and Lanegan left as a core member but continued to occasionally contribute vocals, making Homme the primary singer for [YEAR]'s Lullabies to Paralyze and [YEAR]'s electronic-influenced Era Vulgaris. \n",
+      "Formed after the dissolution of Homme's previous band Kyuss, the band originated from the Palm Desert music scene, known for its distinct [SONG_NAME]. By this time the band had achieved considerable international recognition, and have since embarked on successive world tours. Homme fired Oliveri and Lanegan left as a core member but continued to occasionally contribute vocals, making Homme the primary singer for [YEAR]'s Lullabies to Paralyze and [YEAR]'s electronic-influenced Era Vulgaris. \n",
       "After a [GENRE] band members worked on other projects, the more somber and introspective ...Like Clockwork was released in [YEAR], receiving critical acclaim. The band released Villains in [YEAR] with [MONTH]k Ronson as producer.\n"
    ]
 }

@@ -38,9 +38,12 @@
          "Caroline"
       ]
    },
+   "albums": [
+      "Black XS by Plastiscines EP"
+   ],
    "prunedData": [
       "The [BAND_NAME] are a [GENRE] band who perform their songs in both French and English. They have released three albums, spanning from garage rock revival and pop punk to disco-orientered pop music.\n",
-      "The [BAND_NAME] are [PERSON_NAME_FULL_3_FEMALE] (singer/guitar), [PERSON_NAME_FULL_0_FEMALE] (bass), and Ana Vandevyvere (drums). Former members include [MONTH]ine Neuilly (guitar), and [PERSON_NAME_FULL_1_FEMALE] and Zazie Tavitian (both drums). They formed in [YEAR] after [PERSON_NAME_LAST_3], Neuilly, and Tavitian, all of whom were at school together in Saint-Cyr-l'École, met [PERSON_NAME_LAST_0], originally a [GENRE] a concert by the English band, The Libertines. Their talent was recognised early on by [PERSON_NAME_FULL_2_MALE], producer of the German band Kraftwerk, and they were signed by EMI for the Virgin France label in [MONTH] [YEAR].\nIn addition to the Libertines, the band's influences include the White Stripes, the Strokes and, from an earlier generation, the Kinks and Blondie. Closer to home, the prevailing style of their first album, LP1, was similar to that of the [YEAR]s' singer Christie Laume, Édith Piaf's sister-in-law.\n",
-      "The [BAND_NAME]' name derives from the phrase, \"plasticine porters with looking glass ties\" in the Beatles' song, \"Lucy in the Sky with Diamonds\", on the [YEAR] album Sgt. Pepper's Lonely Hearts Club Band.\n"
+      "The [BAND_NAME] are [PERSON_NAME_FULL_3_FEMALE] (singer/guitar), [PERSON_NAME_FULL_1_FEMALE] (bass), and Ana Vandevyvere (drums). Former members include [MONTH]ine Neuilly (guitar), and [PERSON_NAME_FULL_2_FEMALE] and Zazie Tavitian (both drums). They formed in [YEAR] after [PERSON_NAME_LAST_3], Neuilly, and Tavitian, all of whom were at school together in Saint-Cyr-l'École, met [PERSON_NAME_LAST_1], originally a [GENRE] a concert by the English band, The Libertines. Their talent was recognised early on by [PERSON_NAME_FULL_0_MALE], producer of the German band Kraftwerk, and they were signed by EMI for the Virgin France label in [MONTH] [YEAR].\nIn addition to the Libertines, the band's influences include the White Stripes, the Strokes and, from an earlier generation, the Kinks and Blondie. Closer to home, the prevailing style of their first album, LP1, was similar to that of the [YEAR]s' singer Christie Laume, Édith Piaf's sister-in-law.\n",
+      "The [BAND_NAME]' name derives from the phrase, [SONG_NAME], on the [YEAR] album Sgt. Pepper's Lonely Hearts Club Band.\n"
    ]
 }

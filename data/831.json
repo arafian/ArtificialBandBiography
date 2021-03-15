@@ -26,8 +26,17 @@
          "Kevin Lynn"
       ]
    },
+   "albums": [
+      "One's a Heifer b/w Duotang",
+      "King Cobb Steelie",
+      "Project Twinkle",
+      "Junior Relaxer",
+      "Mayday",
+      "Destroy All Codes",
+      "Goodbye Arcadia EP"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in [YEAR] from Guelph, Ontario, and later based in Toronto.  The band's most successful single was [YEAR]'s \"Rational\", from the album [MONTH]ior Relaxer. Their music fuses elements of punk, grunge, funk, jazz and dance. The core of the band is singer/songwriter [PERSON_NAME_FULL_4_MALE] and bassist [PERSON_NAME_FULL_0_MALE]. A variety of other collaborators, including Sam Cino, [PERSON_NAME_FULL_6_MALE], Gary Dutch, [PERSON_NAME_FULL_3_MALE], [PERSON_NAME_FULL_5_MALE], Mike Armstrong, [PERSON_NAME_FULL_2_MALE], Don Pyle and [PERSON_NAME_FULL_1_FEMALE], have contributed to individual albums.\n",
+      "[BAND_NAME] is a [GENRE] band formed in [YEAR] from Guelph, Ontario, and later based in Toronto.  The band's most successful single was [YEAR]'s [SONG_NAME], from the album [MONTH]ior Relaxer. Their music fuses elements of punk, grunge, funk, jazz and dance. The core of the band is singer/songwriter [PERSON_NAME_FULL_3_MALE] and bassist [PERSON_NAME_FULL_5_MALE]. A variety of other collaborators, including Sam Cino, [PERSON_NAME_FULL_2_MALE], Gary Dutch, [PERSON_NAME_FULL_4_MALE], [PERSON_NAME_FULL_0_MALE], Mike Armstrong, [PERSON_NAME_FULL_1_MALE], Don Pyle and [PERSON_NAME_FULL_6_FEMALE], have contributed to individual albums.\n",
       "In [YEAR] the band, named for a special kind of toy marble, released its self-titled album, which fused progressive rock with dubstep sampling. In [YEAR] the band was signed to the EMI label. In [MONTH] [YEAR] the band performed at Graceland in Vancouver. In [YEAR], as [MONTH]ior Relaxer, the band made a number of performances at the Rancho Relaxo in Toronto.\n",
       "Percussionist Robin Easton participated as drummer 14 in the Boredoms 77 Boadrum performance which occurred on [MONTH] 7, [YEAR] at the Empire-Fulton [PERSON_NAME_FULL_0_MALE] in Brooklyn, New York. That year [BAND_NAME] released an [GENRE]"
    ]

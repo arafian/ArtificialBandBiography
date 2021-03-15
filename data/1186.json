@@ -28,9 +28,26 @@
          "DJ Bonebrake, Dave Alvin, John Doe, Steve Berlin, Bill Bateman, Texas Terri, Wayne James, Stan Ridgway Glenn Hays, John Richey, Ray Torres, Juanita Myers, Christian Free, Stuart Lederer, Bobby Bones, Madonna M., Robert Arce, Jeff Vengance, Larry Schemel"
       ]
    },
+   "albums": [
+      "Flesh Eaters",
+      "No Questions Asked",
+      "A Minute to Pray, a Second To Die",
+      "Forever Came Today",
+      "American Youth Report (Compilation)",
+      "A Hard Road to Follow",
+      "Destroyed by the Fire – The Flesh Eaters’ Greatest Hits",
+      "Flesh Eaters Live",
+      "Prehistoric Fits – Flesh Eaters Greatest Vol. 2",
+      "Dragstrip Riot",
+      "Sex Diary of Mr. Vampire",
+      "Crucified Lovers in Woman Hell",
+      "Ashes of Time",
+      "Miss Muerte",
+      "I Used To Be Pretty"
+   ],
    "prunedData": [
-      "[BAN[PERSON_NAME_LAST_0]NAME] are an [GENRE] band, formed in Los Angeles, California, United States, in [YEAR]. They are the most prominent of the bands which have showcased the compositions and singing of their founder, punk poet [PERSON_NAME_FULL_0_MALE]sjardins, best known as \n[PERSON_NAME_FULL_0_MALE] While [PERSON_NAME_LAST_0]sjardins is the group's only continual member, the Flesh Eaters' lineup has drawn from some of the most famous bands of the L.A. punk scene, such as the Plugz, X, the Blasters, and Los Lobos.\n",
-      "The band's greatest success was in the early [YEAR]s. Though a part of that era's productive punk rock scene, their music was distinctive for its apocalyptic film noir lyricism and often for its sophisticated arrangements, as heard, for example, on [YEAR]'s A Minute to Pray, a Second to Die. Desjardins's poetry has been described as \"wonderful bleeding collages of B-movie dementia, street crime, Mexican Catholicism and Dionysian punk spurt poetics.\"\n",
-      "The band recently reformed with the classic [YEAR] lineup of [PERSON_NAME_FULL_2_MALE] ([PERSON_NAME_FIRST_2] D.), [PERSON_NAME_FULL_1_MALE], John Doe, [PERSON_NAME_FULL_0_MALE], Steve Berlin and D.J. Bonebrake and announced a new album I Used To Be Pretty that was released [MONTH] 18, [YEAR] on Yep Roc Records.  The band will begin tour in support of the new record starting in [MONTH] [YEAR].\n"
+      "[BAN[PERSON_NAME_LAST_1]NAME] are an [GENRE] band, formed in Los Angeles, California, United States, in [YEAR]. They are the most prominent of the bands which have showcased the compositions and singing of their founder, punk poet [PERSON_NAME_FULL_0_MALE], best known as \n[PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_1] While [PERSON_NAME_LAST_0] is the group's only continual member, the Flesh Eaters' lineup has drawn from some of the most famous bands of the L.A. punk scene, such as the Plugz, X, the Blasters, and Los Lobos.\n",
+      "The band's greatest success was in the early [YEAR]s. Though a part of that era's productive punk rock scene, their music was distinctive for its apocalyptic film noir lyricism and often for its sophisticated arrangements, as heard, for example, on [YEAR]'s A Minute to Pray, a Second to Die. Desjardins's poetry has been described as [SONG_NAME]\n",
+      "The band recently reformed with the classic [YEAR] lineup of [PERSON_NAME_FULL_1_MALE] ([PERSON_NAME_FIRST_1] D.), [PERSON_NAME_FULL_2_MALE], John Doe, [PERSON_NAME_FULL_0_MALE], Steve Berlin and D.J. Bonebrake and announced a new album I Used To Be Pretty that was released [MONTH] 18, [YEAR] on Yep Roc Records.  The band will begin tour in support of the new record starting in [MONTH] [YEAR].\n"
    ]
 }

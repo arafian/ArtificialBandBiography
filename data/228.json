@@ -30,9 +30,13 @@
          "Alan Bartram"
       ]
    },
+   "albums": [
+      "Little Mo' McCoury",
+      "Song of America"
+   ],
    "prunedData": [
       "The [BAND_NAME] is a [GENRE] band.\n",
-      "Originally the band was called [PERSON_NAME_FULL_0_FEMALE] and the Dixie Pals with [PERSON_NAME_FIRST_0] on guitar and his brother Jerry on bass. The band went through a number of changes in personnel until the [YEAR]s when the band solidified its line-up, adding [PERSON_NAME_LAST_0]'s sons, Ronnie and Robbie on mandolin and banjo, respectively. In [YEAR], the \"Dixie Pals\" name was dropped in favor of the current name. Fiddler Tad [MONTH]ks and bass player Mike Brantley joined in the early [YEAR]s while the band became a national touring act.\n",
-      "In [YEAR] the Del McCoury band was named \"Entertainer of the Year\" at the International Bluegrass Music Awards.\n"
+      "Originally the band was called [PERSON_NAME_FULL_0_FEMALE] and the Dixie Pals with [PERSON_NAME_FIRST_0] on guitar and his brother Jerry on bass. The band went through a number of changes in personnel until the [YEAR]s when the band solidified its line-up, adding [PERSON_NAME_LAST_0]'s sons, Ronnie and Robbie on mandolin and banjo, respectively. In [YEAR], the [SONG_NAME] name was dropped in favor of the current name. Fiddler Tad [MONTH]ks and bass player Mike Brantley joined in the early [YEAR]s while the band became a national touring act.\n",
+      "In [YEAR] the Del McCoury band was named [SONG_NAME] at the International Bluegrass Music Awards.\n"
    ]
 }

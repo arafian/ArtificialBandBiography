@@ -28,8 +28,11 @@
          "Anthony Sales"
       ]
    },
+   "albums": [
+      "Dying Is Fun"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Oakland, CA.  Formed in [YEAR], the band released their debut album Dying Is Fun in [YEAR] on Tricycle Records after which their front-woman [PERSON_NAME_FULL_0_FEMALE] suffered from acute liver failure due to an allergy to [MONTH]mentin. After she recovered, in [YEAR] they released My Neon's Dead, their sophomore LP that explores with the \"hospital morphine haze\" of the illness [PERSON_NAME_FIRST_0] endured, out on OIM Records.\n",
+      "[BAND_NAME] is an [GENRE] band from Oakland, CA.  Formed in [YEAR], the band released their debut album Dying Is Fun in [YEAR] on Tricycle Records after which their front-woman [PERSON_NAME_FULL_0_FEMALE] suffered from acute liver failure due to an allergy to [MONTH]mentin. After she recovered, in [YEAR] they released My Neon's Dead, their sophomore LP that explores with the [SONG_NAME] of the illness [PERSON_NAME_FIRST_0] endured, out on OIM Records.\n",
       "[BAND_NAME] is a [GENRE] band from Oakland, California fronted by fatale femme Sivan Lioncub and her anchor-shaped electric violin, [PERSON_NAME_FULL_0_MALE], Tyler English, and [PERSON_NAME_FULL_1_MALE].\n"
    ]
 }

@@ -4,7 +4,13 @@
       "The Holy Sisters of the Gaga Dada were an eclectic band originally from Santa Cruz, California, USA formed in 1981. They were voted \"Best Alternative Rock Band of the Year\" by L.A. Weekly. The collaboration of keyboardist Mary Jean Shaffer and guitarist Blancah Black, the Holy Sisters included quasi-religious imagery and feminist politics. Other original members included Heidi Puckett (bass) and Jeff Grubic (tenor sax). As the band morphed from conceptual entity to frequent club performers, Black left and two new members were added, Jill Fido (bass) and Charles Bingham (drums). Kim Sockit later replaced Puckett, and Zero Jessephski Jr. replaced Bingham, making the Holy Sisters of the Gaga Dada an all-female band. The group would later move to Hollywood, California where they were featured in \"Once Upon Her Time,\" a TV program about women in the '80s which aired on the Lifetime Cablevision Network.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Let's Get Acquainted",
+      "At Dianne's Place",
+      "Gaga at the Gogo",
+      "Radio Tokyo Tapes Vol. 4"
+   ],
    "prunedData": [
-      "[BAND_NAME] were an [GENRE] band originally from Santa Cruz, California, USA formed in [YEAR]. They were voted \"Best Alternative Rock Band of the Year\" by L.A. Weekly. The collaboration of keyboardist [MONTH]y [PERSON_NAME_FULL_1_MALE] and guitarist Blancah Black, the Holy Sisters included quasi-religious imagery and feminist politics. Other original members included [PERSON_NAME_FULL_4_FEMALE] (bass) and [PERSON_NAME_FULL_2_MALE] (tenor sax). As the band morphed from conceptual entity to frequent club performers, Black left and two new members were added, [PERSON_NAME_FULL_0_FEMALE] (bass) and Charles Bingham (drums). [PERSON_NAME_FULL_3_FEMALE] later replaced [PERSON_NAME_LAST_4], and Zero Jessephski Jr. replaced Bingham, making the Holy Sisters of the Gaga Dada an all-female band. The group would later move to Hollywood, California where they were featured in \"Once Upon Her Time,\" a TV program about women in the '80s which aired on the Lifetime Cablevision Network.\n"
+      "[BAND_NAME] were an [GENRE] band originally from Santa Cruz, California, USA formed in [YEAR]. They were voted [SONG_NAME] a TV program about women in the '80s which aired on the Lifetime Cablevision Network.\n"
    ]
 }

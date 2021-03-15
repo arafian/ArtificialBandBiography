@@ -41,8 +41,9 @@
          "Steve Lynch"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Pasadena, California, United States. They released several albums throughout the [YEAR]s and are best known for their hit single, [YEAR]'s \"Turn Up the Radio.\"\n",
+      "[BAND_NAME] is an [GENRE] band from Pasadena, California, United States. They released several albums throughout the [YEAR]s and are best known for their hit single, [YEAR]'s [SONG_NAME]\n",
       "[BAND_NAME] originally began in late [YEAR] as a solo project for singer, songwriter and guitarist [PERSON_NAME_FULL_0_MALE], who had recently left the band Silver Condor. [PERSON_NAME_LAST_0] was playing and recording his own material with a group of his musician friends, most of whom had previously played with him in other bands:\n",
       "On lead guitar was Steve Lynch, who had played with Plunkett in the band Looker.\n"
    ]

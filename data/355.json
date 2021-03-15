@@ -38,9 +38,12 @@
          "Dan Sittler"
       ]
    },
+   "albums": [
+      " Decade II:Rock & Acoustic "
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia. They have released four studio albums, Time to Break the Spell ([YEAR]), Against the Grain ([YEAR]), Divide the Blackened Sky ([YEAR]), and an EP Life Support Part 1 ([YEAR]). Their fourth studio album, [MONTH]ade, was released on [MONTH] 29, [YEAR].\n",
-      "\nThe band was formed in [YEAR] by founders Crispin Earl, and [PERSON_NAME_FULL_0_MALE], under the original name of \"Veer\".  The band released one independent album, Time to Break the Spell, in [YEAR].  After the album's release, and  touring with bands like Hinder, Theory of a [GENRE] band was able to attract major label interest, and signed a record deal with Universal Motown Records. Once signing to the label, the band decided to change their name to \"[BAND_NAME]\". The band explained that it wasn't legal problems, but rather getting away from negative situations and coming together in a more positive one. ",
-      "\"It was more of a [GENRE] bands and not digging the situations we were in. So we \"veered\" away from the negativity and came together as a \"Union\". Originally it was Veer, when we got signed, we added the Union.\" "
+      "\nThe band was formed in [YEAR] by founders Crispin Earl, and [PERSON_NAME_FULL_0_MALE], under the original name of [SONG_NAME]. The band explained that it wasn't legal problems, but rather getting away from negative situations and coming together in a [GENRE]",
+      "[SONG_NAME] "
    ]
 }

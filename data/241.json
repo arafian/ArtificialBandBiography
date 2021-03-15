@@ -6,9 +6,10 @@
       "The trio released its first album, Goin’ to Colorado, in October 2006. They performed at the Keystone Bluegrass and Brews Festival and the Happy Ass Ranch Bluegrass Festival beginning in 2007. They organized and performed at Lavapalooza at Lago Arenal, Costa Rica, in 2007 and 2008 and in both those years competed in band contests at Telluride Bluegrass Festival and Rocky Grass.\n"
    ],
    "infobox": {},
+   "albums": [],
    "prunedData": [
       "\n[BAND_NAME] is an [GENRE] band based in Colorado Springs, Colorado.\n",
-      "[BAND_NAME] began in [YEAR] with singer-songwriter David Jeffrey (guitar, mandolin) and [PERSON_NAME_FULL_1_MALE] (bass) playing progressive bluegrass at the Front Range Barbeque, a restaurant in Colorado Springs. On Wednesdays musicians from the region would sit in with the duo. [PERSON_NAME_FULL_0_FEMALE] (banjo, guitar) joined the band in [YEAR]. The band has appeared at public and private events at The Broadmoor resort since [YEAR].\n",
+      "[BAND_NAME] began in [YEAR] with singer-songwriter David Jeffrey (guitar, mandolin) and [PERSON_NAME_FULL_0_MALE] (bass) playing progressive bluegrass at the Front Range Barbeque, a restaurant in Colorado Springs. On Wednesdays musicians from the region would sit in with the duo. [PERSON_NAME_FULL_1_FEMALE] (banjo, guitar) joined the band in [YEAR]. The band has appeared at public and private events at The Broadmoor resort since [YEAR].\n",
       "The trio released its first album, Goin’ to Colorado, in [MONTH] [YEAR]. They performed at the Keystone Bluegrass and Brews Festival and the Happy Ass Ranch Bluegrass Festival beginning in [YEAR]. They organized and performed at Lavapalooza at Lago Arenal, Costa Rica, in [YEAR] and [YEAR] and in both those years competed in band contests at Telluride Bluegrass Festival and Rocky Grass.\n"
    ]
 }

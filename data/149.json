@@ -30,9 +30,14 @@
          "Tony Sevener"
       ]
    },
+   "albums": [
+      "The Day I Turned to Glass",
+      "Comedians (Europe)",
+      "Comedians (US)"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band, part of the Quannum Projects. Its members are Bart Davenport (voice), RV Salters (keys and samples) and [PERSON_NAME_FULL_0_MALE] (beats, MPC drum machine). The band was formed in [YEAR]. It released its first album in [YEAR] (The Day I Turned to Glass) and shortly after received the 17th annual SF Weekly music award in the category Best Soul/Funk Band. Its music has been influenced by rock, indie-pop, soul and funk and their sound is very rich for a three-man band.\n",
-      "Bart Davenport and Tony Sevener originate from California, while RV Salters was born in Paris and lived in France until joining the Quannum Projects in [YEAR]. RV Salters displays a [GENRE]",
-      "A cut-down version of [BAND_NAME]'s song \"Exodus Honey\" was used by Apple for the late-[YEAR] i[PERSON_NAME_FIRST_0] commercial and the welcome video that plays upon installation of both [PERSON_NAME_FULL_0_MALE] X Leopard and its successor [PERSON_NAME_FULL_0_MALE] X Snow Leopard.\n"
+      "Bart Davenport and Tony Sevener originate from California, while RV Salters was born in Paris and lived in France until joining the Quannum Projects in [YEAR]. RV Salters displays a unique style of dancing while playing keyboard during their performances. They mostly perform in the San Francisco Bay Area, for example at notable places like [SONG_NAME].\n",
+      "A cut-down version of [BAND_NAME]'s song [SONG_NAME] was used by Apple for the late-[YEAR] i[PERSON_NAME_FIRST_0] commercial and the welcome video that plays upon installation of both [PERSON_NAME_FULL_0_MALE] X Leopard and its successor [PERSON_NAME_FULL_0_MALE] X Snow Leopard.\n"
    ]
 }

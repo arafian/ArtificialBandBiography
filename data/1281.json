@@ -35,9 +35,13 @@
          "Jason Payne"
       ]
    },
+   "albums": [
+      "The Nightmare Before Christmas Soundtrack",
+      "Timbaland Presents: Shock Value"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band, based in San Fernando Valley, California and formed in [YEAR]. The group's debut album [BAND_NAME] was released in early [YEAR], with three singles to follow (\"These Things\", a video featuring Shirley Manson from Garbage, \"Out of Control\", and \"Tear You Apart\" for which the video was directed by Joaquin Phoenix). The band has sold more than 300,000 records in the US. The band's second album, This Is Forever, was released in [YEAR]. The group's third album, entitled Valleyheart, was released in [YEAR].\n",
+      "[BAND_NAME] was an [GENRE] band, based in San Fernando Valley, California and formed in [YEAR]. The group's debut album [BAND_NAME] was released in early [YEAR], with three singles to follow ([SONG_NAME] for which the video was directed by Joaquin Phoenix). The band has sold more than 300,000 records in the US. The band's second album, This Is Forever, was released in [YEAR]. The group's third album, entitled Valleyheart, was released in [YEAR].\n",
       "The band toured extensively through [YEAR] with Depeche Mode and Placebo.\n",
-      "In [YEAR], the group was featured on the track \"Time\" with Timbaland. In a recent interview, Adam Bravin told Suicide Girls that [BAND_NAME] has a lot of unreleased potential b-sides, like \"Love to Sleep\", which they would like to share. Adam added that the band would like to tour with their heroes The Cure and Bauhaus and in [YEAR] they did tour with Peter Murphy, lead singer of Bauhaus, on his \"Ninth\" tour in the US. \nThey were released from their contract with the label Geffen/Interscope, according to a MySpace bulletin. The group formed their own label, Perfect Kiss, formerly an imprint, in [YEAR].\n"
+      "In [YEAR], the group was featured on the track [SONG_NAME] tour in the US. \nThey were released from their contract with the label Geffen/Interscope, according to a [GENRE] an imprint, in [YEAR].\n"
    ]
 }

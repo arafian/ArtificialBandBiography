@@ -34,9 +34,16 @@
          "Stephanie"
       ]
    },
+   "albums": [
+      "OiToy",
+      "Devotchkas",
+      "Annihilation",
+      "The Same",
+      "Live Fast, Die Young"
+   ],
    "prunedData": [
-      "[BAND_NAME] were a [GENRE] band from Long Island, New York, United States. Their name was derived from the popular film and novel A Clockwork Orange. Devotchka in Nadsat means \"girl\", which is itself derived from the Russian word (девочка) of the same meaning.\n",
-      "An all-girl group, the band was formed by three friends in [YEAR]. The early period saw drummers come and go, including [PERSON_NAME_FULL_0_MALE] from The Krays. Wanting a regular drummer, they eventually recruited [PERSON_NAME_FULL_2_FEMALE] in [YEAR] to complete the line-up.\n",
-      "In [YEAR], they were signed to Punk Core Records for the release of their debut EP, which sold in excess of 5,000 copies, a [GENRE] a band's debut EP, especially on vinyl format. After the release of their second EP, Annihilation, in [YEAR] singer [PERSON_NAME_FULL_1_FEMALE] left the band to be replaced by JJ. JJ sang on their [YEAR] album Live Fast, Die Young. At that point, with original singer [PERSON_NAME_FULL_1_FEMALE] out of the fold, the band decided to change their name to the 99's. JJ left the band shortly thereafter and was replaced by [PERSON_NAME_FULL_3_FEMALE]. At that point the band reverted their name to [BAND_NAME] but split up soon after.\n"
+      "[BAND_NAME] were a [GENRE] band from Long Island, New York, United States. Their name was derived from the popular film and novel A Clockwork Orange. Devotchka in Nadsat means [SONG_NAME], which is itself derived from the Russian word (девочка) of the same meaning.\n",
+      "An all-girl group, the band was formed by three friends in [YEAR]. The early period saw drummers come and go, including [PERSON_NAME_FULL_2_MALE] from The Krays. Wanting a regular drummer, they eventually recruited [PERSON_NAME_FULL_3_FEMALE] in [YEAR] to complete the line-up.\n",
+      "In [YEAR], they were signed to Punk Core Records for the release of their debut EP, which sold in excess of 5,000 copies, a [GENRE] a band's debut EP, especially on vinyl format. After the release of their second EP, Annihilation, in [YEAR] singer [PERSON_NAME_FULL_0_FEMALE] left the band to be replaced by JJ. JJ sang on their [YEAR] album Live Fast, Die Young. At that point, with original singer [PERSON_NAME_FULL_0_FEMALE] out of the fold, the band decided to change their name to the 99's. JJ left the band shortly thereafter and was replaced by [PERSON_NAME_FULL_1_FEMALE]. At that point the band reverted their name to [BAND_NAME] but split up soon after.\n"
    ]
 }

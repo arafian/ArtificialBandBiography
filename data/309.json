@@ -38,6 +38,11 @@
          "William Shand"
       ]
    },
+   "albums": [
+      "Making Waves",
+      "No Soundcheck",
+      "Brouhaha"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia. The band plays a unique style that mixes the intensity of punk rock and rockabilly with the dancy, horn driven sounds of ska.\n",
       "[BAND_NAME] formed in [YEAR] in Vancouver, BC, and have since released three independent full-length albums.\n",

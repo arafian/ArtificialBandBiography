@@ -35,9 +35,20 @@
          "Christian Grönlund"
       ]
    },
+   "albums": [
+      "Appetizer",
+      "Spanking Hour",
+      "Freak Kitchen",
+      "Dead Soul Men",
+      "Move",
+      "Organic",
+      "Land of the Freaks",
+      "Cooking with Pagans",
+      "Confusion to the Enemy"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Gothenburg, Sweden, formed in [YEAR].\n",
-      "[BAND_NAME]'s style of music is influenced by many genres besides the traditional heavy metal, ranging from jazz to pop. The band described their third album as \"A corny little heavy-pop-rock-Latin-world-jazz-avant-garde-metal-blues-record straight from hell!\".\nThe album \"Land of the Freaks\", which was released in late [MONTH] [YEAR], features Indian inspiration and the band is also joined by the two Indian musicians V. Selvaganesh and Neyveli S Radhakrishna on several tracks.\n",
+      "[BAND_NAME]'s style of music is influenced by many genres besides the traditional heavy metal, ranging from jazz to pop. The band described their third album as [SONG_NAME].\nThe album [SONG_NAME], which was released in late [MONTH] [YEAR], features Indian inspiration and the band is also joined by the two Indian musicians V. Selvaganesh and Neyveli S Radhakrishna on several tracks.\n",
       "The lyrics of [BAND_NAME] often contain humor and criticism of capitalist society, conformity, racism and the attitude of major labels.\n"
    ]
 }

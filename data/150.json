@@ -34,9 +34,15 @@
          "Wes Anderson"
       ]
    },
+   "albums": [
+      "We Were All Very Worried",
+      "Tales of Instant Knowledge and Sure Death",
+      "The Nothing Show",
+      "Fancy"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band formed in Oakland, California in [YEAR], initially working under the name Acid Rain.  Their work was characterized by its \"rock against rock\" slogan, and defied classification with its incorporation of marching band routines, puppet shows, and the playing of household items as tuned instruments.\n",
-      "Adopting the [BAND_NAME] moniker in [YEAR], they went on to release three full-length albums before disbanding in [YEAR].  Founding members Nils Frykdahl and [PERSON_NAME_FULL_0_MALE] later played in Sleepytime Gorilla Museum, while Gene [MONTH] later joined the Sun and [PERSON_NAME_FULL_1_MALE].\n",
-      "The group formed in Barrington Hall, a student co-op at the University of California at Berkeley, in [YEAR] as Acid Rain. Guitarist and composer Frykdahl (\"Pin\"), bassist Rathbun (\"The Improver\"), and guitarist and violinist [MONTH] (\"Captain Dragon\") formed the group's core lineup, along with early drummers [PERSON_NAME_FULL_1_MALE] and Daniel Roth. Their demo album We Were All Very Worried was released as a cassette-only edition in [YEAR]. They changed their name to [BAND_NAME] prior to the release of their first vinyl album, Tales of Instant Knowledge and Sure Death, in [YEAR], which also featured drummer/artist [PERSON_NAME_FULL_0_MALE].\n"
+      "[BAND_NAME] was an [GENRE] band formed in Oakland, California in [YEAR], initially working under the name Acid Rain.  Their work was characterized by its [SONG_NAME] slogan, and defied classification with its incorporation of marching band routines, puppet shows, and the playing of household items as tuned instruments.\n",
+      "Adopting the [BAND_NAME] moniker in [YEAR], they went on to release three full-length albums before disbanding in [YEAR].  Founding members Nils Frykdahl and [PERSON_NAME_FULL_0_MALE] later played in Sleepytime Gorilla Museum, while Gene [MONTH] later joined the Sun and [PERSON_NAME_FULL_1_FEMALE].\n",
+      "The group formed in Barrington Hall, a student co-op at the University of California at Berkeley, in [YEAR] as Acid Rain. Guitarist and composer Frykdahl ([SONG_NAME]) formed the group's core lineup, along with early drummers [PERSON_NAME_FULL_0_MALE] and Daniel Roth. Their demo album We Were All Very Worried was released as a cassette-only edition in [YEAR]. They changed their name to [BAND_NAME] prior to the release of their first vinyl album, Tales of Instant Knowledge and Sure Death, in [YEAR], which also featured drummer/artist [PERSON_NAME_FULL_1_MALE].\n"
    ]
 }

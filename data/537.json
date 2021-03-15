@@ -34,9 +34,30 @@
          "Roberto Gualdi"
       ]
    },
+   "albums": [
+      "Storia di un minuto",
+      "Per un amico",
+      "Photos of Ghosts",
+      "L'isola di niente",
+      "The World Became the World",
+      "Chocolate Kings",
+      "Jet Lag",
+      "Passpartù",
+      "Suonare Suonare",
+      "Come ti va in riva alla città",
+      "PFM? PFM!",
+      "Miss Baker",
+      "Ulisse",
+      "Serendipity",
+      "Dracula",
+      "Stati di immaginazione",
+      "A.D.2010 - La buona novella",
+      "PFM in Classic – Da Mozart a Celebration",
+      "Emotional Tattoos"
+   ],
    "prunedData": [
       "[BAND_NAME] (PFM) (translation: Award-winning [MONTH]coni Bakery) is an [GENRE] band founded in [YEAR] and which continues to the present day. They were the first Italian group to have success internationally. The group recorded five albums with English lyrics between [YEAR] and [YEAR]. During this period they entered both the British and American charts. They also had several successful European and American tours, playing at the popular Reading Festival in England and on a very popular national television program in the United States.\n",
       "PFM introduced new sounds, such as the synthesizer, to the Italian musical world.  They were also among the first to combine symphonic classical and traditional Italian musical influences in a [GENRE] a place among the most important bands in the Progressive rock genre.\n",
-      "The original core members of PFM were Franco Mussida (guitars, vocals), [PERSON_NAME_FULL_2_MALE] (keyboards), [PERSON_NAME_FULL_0_MALE] (bass), who preceded Giorgio Piazza (bass), and [PERSON_NAME_FULL_3_MALE] (drums, vocals). They came together in the mid-[YEAR]s while playing together as backup musicians for many different Italian pop, rock and folk singers such as [PERSON_NAME_FULL_1_MALE], Mina, [PERSON_NAME_FULL_4_MALE] and Fabrizio De André. They appeared on many recordings for other artists during this period and quickly established themselves as top players on the Italian scene before forming the group 'I quelli' (deliberately ungrammatical, roughly translates to 'The Them', or 'Those Guys') in [YEAR]. I Quelli released one album and some successful Italian singles.\n"
+      "The original core members of PFM were Franco Mussida (guitars, vocals), [PERSON_NAME_FULL_3_MALE] (keyboards), [PERSON_NAME_FULL_0_MALE] (bass), who preceded Giorgio Piazza (bass), and [PERSON_NAME_FULL_1_MALE] (drums, vocals). They came together in the mid-[YEAR]s while playing together as backup musicians for many different Italian pop, rock and folk singers such as [PERSON_NAME_FULL_2_MALE], Mina, [PERSON_NAME_FULL_4_MALE] and Fabrizio De André. They appeared on many recordings for other artists during this period and quickly established themselves as top players on the Italian scene before forming the group 'I quelli' (deliberately ungrammatical, roughly translates to 'The Them', or 'Those Guys') in [YEAR]. I Quelli released one album and some successful Italian singles.\n"
    ]
 }

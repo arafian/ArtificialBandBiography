@@ -6,9 +6,13 @@
       "The ensemble consisted of up to four part vocals led by Matthew McQueen, backed by pianist Karl Brown, with violin, flute/sax, and a string bassist and drummer from the San Francisco Lesbian/Gay Freedom Band.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Back from the Dead",
+      "Live On Broadway"
+   ],
    "prunedData": [
-      "[BAND_NAME] was a [GENRE] band.  Created in [YEAR] by members of the San Francisco Gay Men's Chorus, they were described by The Advocate as \"a non-official offshoot\" of SFGMC along with three official subgroups. [BAND_NAME] soon came into their own as an independent force, creating a niche at the fringe of the nascent gay musical movement and a new musical style.\n",
-      "They achieved notoriety early on with songs such as \"Sit On My Face\" and \"Killer Purses\" performed at benefits for the SFGMC, Theatre Rhinoceros, and the Sisters of Perpetual Indulgence.  They derived their name from psychiatric testimony at Dan White's trial for killing [MONTH]or [PERSON_NAME_FULL_0_MALE] and Supervisor Harvey Milk.\n",
+      "[BAND_NAME] was a [GENRE] band.  Created in [YEAR] by members of the San Francisco Gay Men's Chorus, they were described by The Advocate as [SONG_NAME] of SFGMC along with three official subgroups. [BAND_NAME] soon came into their own as an independent force, creating a niche at the fringe of the nascent gay musical movement and a new musical style.\n",
+      "They achieved notoriety early on with songs such as [SONG_NAME] performed at benefits for the SFGMC, Theatre Rhinoceros, and the Sisters of Perpetual Indulgence.  They derived their name from psychiatric testimony at Dan White's trial for killing [MONTH]or [PERSON_NAME_FULL_0_MALE] and Supervisor Harvey Milk.\n",
       "The ensemble consisted of up to four part vocals led by Matthew McQueen, backed by pianist [PERSON_NAME_FULL_0_MALE], with violin, flute/sax, and a [GENRE]"
    ]
 }

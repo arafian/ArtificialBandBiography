@@ -26,6 +26,13 @@
          "Scott Klass"
       ]
    },
+   "albums": [
+      "Speaking of The Davenports",
+      "Hi-Tech Lowlife",
+      "Thinking About You, Maryann",
+      "Why The Great Gallop?",
+      "Don't Be Mad at Me"
+   ],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band.  Formed in [YEAR] in Brooklyn, New York, the band is a project of Scott Klass and has issued four albums on Mother West records.  The song “Five Steps” from the album Speaking of [BAND_NAME] is the theme song to the A&E television series Intervention.\n",
       "After performing with Fountains of Wayne co-founder [PERSON_NAME_FULL_0_MALE] in the band “Smalltown Criers,” Scott Klass formed [BAND_NAME].  In [YEAR] the band released their first album Speaking of [BAND_NAME] to positive reviews.  Allmusic described the album as having “taken subtle college power pop to an [GENRE]",

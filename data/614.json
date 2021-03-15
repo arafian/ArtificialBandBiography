@@ -31,9 +31,10 @@
          "Kristina Krspogačin[3]"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Zrenjanin.\n",
-      "The band was formed in [YEAR] in Belgrade, Serbia, consisting of [MONTH]ija Mandic (vocals and guitar), [PERSON_NAME_FULL_2_FEMALE] (drums), Nikolina \"Nina\" Doroškov (bass guitar) and [PERSON_NAME_FULL_0_FEMALE] (vocals and guitar), under the guidance of their song author and manager [PERSON_NAME_FULL_1_MALE].\n",
-      "They have been contestants in many festivals, including Zrenjanin ([YEAR]), Izbor za dečju pesmu Evrovizije ([YEAR]), Sunčane Skale ([YEAR] and [YEAR]), Slavianski Bazaar and Beovizija ([YEAR] and [YEAR]). In Beovizija [YEAR] their song \"Sama\" finished in 2nd place. They improved their ranking the following year when their single \"Kvar\" placed three in Beovizija [YEAR]. In [YEAR] they won the New Star award at Sunčane Skale festival in Herceg [MONTH]i. Previously, they came 2nd in [YEAR].\n"
+      "The band was formed in [YEAR] in Belgrade, Serbia, consisting of [MONTH]ija Mandic (vocals and guitar), [PERSON_NAME_FULL_2_FEMALE] (drums), Nikolina [SONG_NAME] Doroškov (bass guitar) and [PERSON_NAME_FULL_0_FEMALE] (vocals and guitar), under the guidance of their song author and manager [PERSON_NAME_FULL_1_MALE].\n",
+      "They have been contestants in many festivals, including Zrenjanin ([YEAR]), Izbor za dečju pesmu Evrovizije ([YEAR]), Sunčane Skale ([YEAR] and [YEAR]), Slavianski Bazaar and Beovizija ([YEAR] and [YEAR]). In Beovizija [YEAR] their song [SONG_NAME] placed three in Beovizija [YEAR]. In [YEAR] they won the New Star award at Sunčane Skale festival in Herceg [MONTH]i. Previously, they came 2nd in [YEAR].\n"
    ]
 }

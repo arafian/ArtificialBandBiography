@@ -33,9 +33,13 @@
          "Zock Astpai"
       ]
    },
+   "albums": [
+      "Talk of Violence",
+      "Cut & Stitch"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band formed in London in [YEAR] by [PERSON_NAME_FULL_0_FEMALE] and Liepa Kuraitė, with Joe York and Zock Astpai joining later. The band is named after the historical Pétroleuses and is outspokenly feminist. They have received media coverage from The Independent, Kerrang!, NPR and Vice Media\n",
-      "[BAND_NAME] formed and played their first show in [YEAR], after just two practises, at a house party hosted by founding member [PERSON_NAME_FULL_0_MALE] (vocals) to celebrate International Women’s Day. Retaining original bassist Liepa Kuraitė, who had never played before [PERSON_NAME_LAST_0] invited her to join, they eventually recruited Joe York (guitar) and Zock Astpai (drums) to complete a sustainable lineup.\n",
+      "[BAND_NAME] formed and played their first show in [YEAR], after just two practises, at a house party hosted by founding member [PERSON_NAME_FULL_0_FEMALE] (vocals) to celebrate International Women’s Day. Retaining original bassist Liepa Kuraitė, who had never played before [PERSON_NAME_LAST_0] invited her to join, they eventually recruited Joe York (guitar) and Zock Astpai (drums) to complete a sustainable lineup.\n",
       "Aldridge took the name from a [GENRE]"
    ]
 }

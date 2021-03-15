@@ -33,9 +33,10 @@
          "Abdullah Saeed"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] are a [GENRE] band formed in [YEAR] by two Pakistani-Americans from Worcester, Massachusetts. In over ten years, the band has experienced a number of line-up changes and self-released albums.\n",
       "Their dance-oriented sound characteristically blends [YEAR] punk stylings, with influences from psychedelic rock from around the world (like Turkey and Iran), Punjabi folk music, surf rock, reggae, disco, and dub. Their songs are often self-referential and situational, often challenging listeners to re-evaluate their assumptions of what it means to be American, or Muslim, or punk.\n",
-      "In [YEAR], with the release of just two songs on the internet website MySpace, [BAND_NAME] found themselves subjects of national news pieces and film and radio documentaries. Initially self-labeled as Bollywood Punk, the band adopted the label \"Taqwacore\", in reference to a book called The Taqwacores by American novelist [PERSON_NAME_FULL_0_MALE], which imagines what a would-be American Muslim Punk scene would look like. This connection quickly fascinated American and International Media, which led to much being written about this unique example of life-imitating-art, and many international tours with the author. Many fans of this phenomenon felt that this was a necessary complicating counter-narrative to a simplistic and largely Islamophobic post-9/11 American media landscape.\n"
+      "In [YEAR], with the release of just two songs on the internet website MySpace, [BAND_NAME] found themselves subjects of national news pieces and film and radio documentaries. Initially self-labeled as Bollywood Punk, the band adopted the label [SONG_NAME], in reference to a book called The Taqwacores by American novelist [PERSON_NAME_FULL_0_MALE], which imagines what a would-be American Muslim Punk scene would look like. This connection quickly fascinated American and International Media, which led to much being written about this unique example of life-imitating-art, and many international tours with the author. Many fans of this phenomenon felt that this was a necessary complicating counter-narrative to a simplistic and largely Islamophobic post-9/11 American media landscape.\n"
    ]
 }

@@ -6,9 +6,10 @@
       "In October 1962, Los Mustang recorded their debut album on EMI-Odeon, featuring cover versions of popular songs like \"Quinientas Millas\", Peter, Paul and Mary's \"500 Miles\", Johnny Hallyday's \"Madison Twist\", and Spanish songs \"He de saber\" and \"No lo ves\". Their repertoire consisted of many Spanish-interpreted foreign hits, but also included several original Spanish songs.\n"
    ],
    "infobox": {},
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Barcelona formed in the [YEAR]s originally made up of Santiago \"Santi\" Carulla (vocals), [MONTH]co Rossi (solo guitar), Antonio \"Toni\" Mercadé (acoustic guitar and vocals), [PERSON_NAME_FULL_0_MALE] (bass and vocals) and Antonio \"Tony\" Mier (drums). They are best known for their Spanish language covers of songs from the [YEAR]s and the [YEAR]s.\n",
-      "The young musicians met at San Carlos Club. Three of them ([MONTH]co Rossi, [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_1_MALE]) were members of the group Poble-sec. [BAND_NAME] were inspired by the style of The Shadows. With the inclusion of [PERSON_NAME_FULL_2_MALE] (from rival group Los Sírex) as lead singer, the group gained fame in Barcelona with an [GENRE]",
-      "In [MONTH] [YEAR], [BAND_NAME] recorded their debut album on EMI-Odeon, featuring cover versions of popular songs like \"Quinientas Millas\", Peter, Paul and [MONTH]y's \"500 Miles\", Johnny Hallyday's \"Madison Twist\", and Spanish songs \"He de saber\" and \"No lo ves\". Their repertoire consisted of many Spanish-interpreted foreign hits, but also included several original Spanish songs.\n"
+      "[BAND_NAME] is a [GENRE] band from Barcelona formed in the [YEAR]s originally made up of Santiago [SONG_NAME] Mier (drums). They are best known for their Spanish language covers of songs from the [YEAR]s and the [YEAR]s.\n",
+      "The young musicians met at San Carlos Club. Three of them ([MONTH]co Rossi, [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_2_MALE]) were members of the group Poble-sec. [BAND_NAME] were inspired by the style of The Shadows. With the inclusion of [PERSON_NAME_FULL_1_MALE] (from rival group Los Sírex) as lead singer, the group gained fame in Barcelona with an [GENRE]",
+      "In [MONTH] [YEAR], [BAND_NAME] recorded their debut album on EMI-Odeon, featuring cover versions of popular songs like [SONG_NAME]. Their repertoire consisted of many Spanish-interpreted foreign hits, but also included several original Spanish songs.\n"
    ]
 }

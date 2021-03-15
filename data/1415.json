@@ -29,9 +29,13 @@
          "Tommy Allen"
       ]
    },
+   "albums": [
+      "Manhattan",
+      "Rock and Roll Bye Bye"
+   ],
    "prunedData": [
       "[BAND_NAME] (stylized as SKATERS) was a [GENRE] band formed in New York City, New York in [YEAR]. The band was signed to Warner Bros. Records before going independent in [YEAR] and releasing their second album under Yonks Records.  \n",
       "In the summer of [YEAR], singer and songwriter Michael Ian Cummings met English guitarist [PERSON_NAME_FULL_1_MALE] at a [GENRE] a call from [PERSON_NAME_LAST_1] announcing that he would be arriving in New York City the following day from the UK. Cummings stated that he would like to play a gig, so the pair recruited drummer Noah Rubin and bassist [PERSON_NAME_FULL_0_MALE], booked three shows, learned some songs Cummings and Rubin had been working on (and a handful of Pixies covers), and the band was formed.\n",
-      "Their debut record, Manhattan, contains stories of the city where they met. \"We were all bartenders, so the songs are tales of experiences we had or saw, and other people who were characters in our life during the first year we were in this band,\" Cummings said. The album was recorded by John Hill in the API room at Greenwich Village's Electric Lady Studios.\n"
+      "Their debut record, Manhattan, contains stories of the city where they met. [SONG_NAME] Cummings said. The album was recorded by John Hill in the API room at Greenwich Village's Electric Lady Studios.\n"
    ]
 }

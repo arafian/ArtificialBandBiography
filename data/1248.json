@@ -40,6 +40,10 @@
          "Brian \"Haggis\" Wolff"
       ]
    },
+   "albums": [
+      "Phoenix New Times",
+      "Billboard"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Los Angeles, California, formed in [YEAR]. They have released two EPs, eight studio albums, and one live album. As of [MONTH] [YEAR], they are no longer under their previous label Victory Records and currently are signed with Napalm Records.\n",
       "[BAND_NAME] began as a band in Los Angeles, California, in late [YEAR]. They were invited to play Ozzfest before they had signed to a label after [PERSON_NAME_FULL_0_FEMALE] witnessed their live performance. They have since played Ozzfest several times. [BAND_NAME] signed with Capitol Records after a few shows and without a demo, purely on the power of their live performance. They started gigging around Los Angeles a lot and released the Jihad EP in [MONTH] [YEAR].\n",

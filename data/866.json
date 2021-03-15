@@ -28,6 +28,12 @@
          "Sam Zurick"
       ]
    },
+   "albums": [
+      "Memento Mori",
+      "Precious Blood",
+      "Addicts and Drunks",
+      "Precious Blood"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band from Chicago, Illinois, United States. The band was made up of two guitarists, Victor Villareal, and [PERSON_NAME_FULL_0_MALE], bassist [PERSON_NAME_FULL_1_MALE], and drummer Scott Shellhamer.\n",
       "The band formed after Bocek and Zurick met Villareal and Shellhamer at a Sky Corvair reunion show in [YEAR]. Bocek and Zurick were both members of Joan of Arc at the time, but quit when the four formed [BAND_NAME] (Zurick would return to Joan of Arc several years later). [BAND_NAME] continued to play until [YEAR] when Villareal and Zurick opted to concentrate on Owls, which saw them reuniting with their ex-Cap'n Jazz bandmates Mike and [PERSON_NAME_FULL_0_MALE]. In [YEAR], the Sixgunlover label compiled the group's full anthology onto one CD.\n",

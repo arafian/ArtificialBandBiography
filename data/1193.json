@@ -46,8 +46,17 @@
          "Bernard Yin"
       ]
    },
+   "albums": [
+      "Prelude (On Earth as in Heaven)",
+      "Spiritus Khayyam",
+      "Orchard of Mines",
+      "Wyatt Earth",
+      "Preliator",
+      "Europa",
+      "Save Me"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band consisting of a mix of producers, musicians, and vocalists. The band is led by composers [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_1_MALE].\n",
+      "[BAND_NAME] is a [GENRE] band consisting of a mix of producers, musicians, and vocalists. The band is led by composers [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_0_MALE].\n",
       "[BAND_NAME] was founded as a [GENRE] a wider audience. The band's live world premiere took place in The Grand Hall, Wembley, London, on 26 [MONTH] [YEAR] and their first album, Epicon, was released in [MONTH] of that same year.  Feeder's [MONTH]k Richardson is featured on drums with guest performances by vocalist Scott Ciscon.\n",
       "In [YEAR] [BAND_NAME] released their second album, Break From This World, with Ciscon returning for some performances together with Dutch singer Anneke van Giesbergen. The latter also actively participated in the album's development, helping write some of the lyrics for the song Mighty Rivers Run.\n"
    ]

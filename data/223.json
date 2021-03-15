@@ -28,6 +28,12 @@
          "Moondi Klein"
       ]
    },
+   "albums": [
+      "Rising Tide ",
+      "Full Sail",
+      "Pier Pressure",
+      "Hook, Live & Sinker"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band formed in [YEAR] in Bethesda, [MONTH]yland as a direct offshoot from The Seldom Scene.\n\n",
       "Mike Auldridge, T. [PERSON_NAME_FULL_0_MALE], and Moondi Klein, who played together in Seldom Scene in the middle of 90' didn't feel satisfied with the way [PERSON_NAME_FULL_1_MALE] led the group with only occasional playing and keeping their day jobs. All of them wanted to play more seriously and started to play outside the Seldom Scene.  The three formed [BAND_NAME] along with Jimmy Gaudreau, mandolinist of the Tony Rice Unit. This occurred in mid to late [YEAR], after the release of their last album with the Seldom Scene, Like We Used to Be.\n[BAND_NAME] stayed together for five years and then disbanded; Mike Auldridge to pursue his own solo music, Jimmy Gaudreau and Moondi Klein continued to play together as duo.\n",

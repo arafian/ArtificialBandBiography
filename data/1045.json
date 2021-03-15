@@ -31,6 +31,14 @@
          "Billy Comstock"
       ]
    },
+   "albums": [
+      "The Natural Evolution of Consciousness",
+      "Somewhere on the Mountain",
+      "Live at Nectar's",
+      "Plump: Chapter One",
+      "Plump: Chapter Two",
+      "Live from Tumble Down 2018"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band.  They are a jam band, and utilize instrumental improvisation in their live performances.  They incorporate influences from a variety of music genres, including rock, jazz, bluegrass, reggae, and funk.\n",
       "[BAND_NAME] formed at Castleton State College in Vermont in [YEAR]. The members of the band are Mihali Savoulidis (guitar, vocals), Ryan Dempsey (keyboards, vocals), [PERSON_NAME_FULL_0_MALE] (bass, vocals), and Brook Jordan (drums, percussion, vocals).\n",

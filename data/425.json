@@ -35,9 +35,14 @@
          "Clayton Hunt"
       ]
    },
+   "albums": [
+      "On a Search in America",
+      "Tension",
+      "Dizmas"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Lancaster, California.\n",
       "Nick Aranda, Clayton Hunt and brothers Zach and [PERSON_NAME_FULL_0_MALE] began playing together as teenagers in [YEAR] while attending Desert Christian High School in Lancaster, California. They were later joined by [PERSON_NAME_FULL_1_MALE], who is from Mechanicsburg, Pennsylvania.\n",
-      "Their debut album \"On a Search in America\" was released on [MONTH] 21, [YEAR]. Jon Howard's younger brother, Joey, joined [BAND_NAME] as a roadie/merch guy/techie in [YEAR], now serving as tour manager. On [MONTH] 3, [YEAR] their song \"Revolution\" aired on \"CSI: NY – Season 2: Stealing Home\". Their second album \"Tension\" was produced by [PERSON_NAME_FULL_0_MALE] and released on [MONTH] 5, [YEAR]. On [MONTH] 10, [YEAR] their song \"Shake It Off\" aired on ESPN. Soon after their hit single \"Play It Safe\" reached No. 1 on Radio & Records Christian Rock National Airplay chart of national broadcasters in the United States for the week ending [MONTH] 03, [YEAR]. In fall [YEAR], the band had their last tour in Czech Republic which led to a break. In response to their rising success, The Miami New Times noted [BAND_NAME]'s unique talents in their \"[YEAR] Music Year in Review\" piece.\n"
+      "Their debut album [SONG_NAME] piece.\n"
    ]
 }

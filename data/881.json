@@ -27,6 +27,15 @@
          "Niraj Maharjan"
       ]
    },
+   "albums": [
+      "Forever Nepali Folk Instrumental",
+      "Folk Roots",
+      "Naulo Bihani",
+      "Mithila",
+      "Utsarga",
+      "Karmath",
+      "Himalayan Highlands"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band. It only uses Nepalese traditional musical instruments such as bamboo flutes, sarangi, madal, tungna, dhol, jhyamta, arbajoo, dhime, dhyangro, damphu, khin, and singing bowl. The band recorded a single for season 6 of Coke Studio Pakistan, which aired in late [YEAR]. They have collaborated with other Nepali artists such as Navneet Aditya Waiba, Satya Aditya Waiba, Albatross, [PERSON_NAME_FULL_0_MALE], [YEAR] AD and Astha Tamang Maskey.\n"
    ]

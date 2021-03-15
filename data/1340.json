@@ -43,9 +43,16 @@
          "Joe Mask"
       ]
    },
+   "albums": [
+      "Do What You Feel (Feel What You Do)",
+      "The Time Is Right",
+      "Mailorder Freak 7” Singles Club",
+      "(Split single with",
+      "(Split single with"
+   ],
    "prunedData": [
       "[BAND_NAME] were an [GENRE] band, active from [YEAR] to [YEAR]. The band are notable for their political lyrics.\n",
       "[BAND_NAME] was formed by Rachel Holborow, [PERSON_NAME_FULL_0_MALE] and [MONTH]c Walker in [YEAR], following on from Rachel and [PERSON_NAME_FIRST_0]’s earlier bands, the riot grrrl four-piece Pussycat Trash, and lo-fi duo Avocado Baby. Both acts had released records on the duo’s own record label Slampt, based in their adopted home town of Newcastle. [MONTH]c had previously drummed for Newcastle-based Post Hardcore/Rock bands Spinach and Kodiak.\n",
-      "[BAND_NAME]’s first release was the \"Do What You Feel\" EP on Slampt, followed by \"The Time Is Right\" EP on US label Troubleman Unlimited and then their debut album Make The Moment. Allmusic praised the album for its \"melodic appeal\" and the band’s \"ability to make entirely political lyrics work in a [GENRE]"
+      "[BAND_NAME]’s first release was the [SONG_NAME], while the group’s sound was compared to Gang of Four.\n"
    ]
 }

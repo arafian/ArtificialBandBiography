@@ -25,6 +25,11 @@
          "Jimmy Kuan"
       ]
    },
+   "albums": [
+      "Plankton of the City(EP)",
+      "Familiar Desolation",
+      "Impression (EP)"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Taipei, Taiwan.\n",
       "[BAND_NAME] is a [GENRE] band founded in [YEAR]. They are best known for their unique depressing and drowning tune, along with the distinctive female voice by the vocalist Yu-Ting Chan. Their music style mixes with different genres such as pop, electronic and rock. Their lyrics explore people's emotion; observe the inevitable contradiction and the struggle in life. The words and the rhythms are nicely delivered in distorted guitar the layers of synths. With the mature arrangement and talented composition, the band became a hot topic rapidly after releasing tracks on the Internet in [YEAR]. One of their representative singles ‘Flower’ hit No.1 for weeks on “StreetVoice”, which is the biggest music platform in Chinese-speaking market. The band was also selected as “The Next Big Thing” and “Top Ten New Best Band” on StreetVoice at the end of [YEAR].\n",

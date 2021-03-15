@@ -27,9 +27,10 @@
          "Dan Peters"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band formed in [YEAR] in Stanwood, Washington by pre-Tad member [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_1], guitarist Jeff Hopper, vocalist [PERSON_NAME_FULL_0_MALE] and drummer Russ Bartlett. \n",
-      "Schonberg left the band after recording demo tapes. They featured various drummers before finding Dan Peters. Hopper later left the band and was replaced by [PERSON_NAME_FULL_0_FEMALE], who had met [PERSON_NAME_FULL_1_MALE] at the University of Washington.\n",
-      "In [YEAR], Russ Bartlett left the band to pursue a solo career. [PERSON_NAME_FULL_0_FEMALE] then took up vocals and guitar. The band recorded demo tapes and passed them on to fans at their shows and fellow Seattle bands, such as Soundgarden, Mudhoney, and Melvins. In [YEAR], the group officially disbanded. [PERSON_NAME_FIRST_2] [PERSON_NAME_FIRST_1]ielson formed his new band, Tad, with former drummer Tad Doyle. [PERSON_NAME_FULL_1_MALE] became the drummer in another local band, Feast, which disbanded shortly after he joined. After Feast broke up, [PERSON_NAME_LAST_1] formed Mudhoney with [MONTH]k Arm and Steve Turner. In [YEAR], [BAND_NAME] re-released an old demo tape on Loveless Records called Sessions: [YEAR]-[YEAR].\n"
+      "[BAND_NAME] was an [GENRE] band formed in [YEAR] in Stanwood, Washington by pre-Tad member [PERSON_NAME_FULL_0_MALE], guitarist Jeff Hopper, vocalist [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_1] and drummer Russ Bartlett. \n",
+      "Schonberg left the band after recording demo tapes. They featured various drummers before finding Dan Peters. Hopper later left the band and was replaced by [PERSON_NAME_FULL_1_FEMALE], who had met [PERSON_NAME_FULL_0_MALE] at the University of Washington.\n",
+      "In [YEAR], Russ Bartlett left the band to pursue a solo career. [PERSON_NAME_FULL_2_FEMALE] then took up vocals and guitar. The band recorded demo tapes and passed them on to fans at their shows and fellow Seattle bands, such as Soundgarden, Mudhoney, and Melvins. In [YEAR], the group officially disbanded. [PERSON_NAME_FULL_0_MALE] formed his new band, Tad, with former drummer Tad Doyle. [PERSON_NAME_FULL_1_MALE] became the drummer in another local band, Feast, which disbanded shortly after he joined. After Feast broke up, [PERSON_NAME_LAST_1] formed Mudhoney with [MONTH]k Arm and Steve Turner. In [YEAR], [BAND_NAME] re-released an old demo tape on Loveless Records called Sessions: [YEAR]-[YEAR].\n"
    ]
 }

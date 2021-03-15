@@ -30,9 +30,10 @@
          "Bryan Weisberg"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] was a [GENRE] band active in the early to late [YEAR]s.  The band released four 12\" singles in [YEAR] on 415 Records / CBS. A self-titled album [BAND_NAME] was released in [YEAR] by 415 Records / CBS, which contained their biggest hit \"Heaven\".\n",
-      "Other notable songs performed by [BAND_NAME] include their song \"[BAND_NAME]\", \"Live Alone In Shame\" (B-Side to the 12\" of \"[BAND_NAME] - The Berlin Mix\") and a cover of the song \"Bela Lugosi's Dead\" by Bauhaus. In [YEAR], they released 12\" singles of \"Call Me\" B/W \"[PERSON_NAME_FULL_0_FEMALE]\" and \"Secrets (I Won't Tell)\" B/W \"We Are The Boys\". A full list of their discography can be found at Discogs.com.\n",
+      "[BAND_NAME] was a [GENRE] band active in the early to late [YEAR]s.  The band released four 12[SONG_NAME].\n",
+      "Other notable songs performed by [BAND_NAME] include their song [SONG_NAME]. A full list of their discography can be found at Discogs.com.\n",
       "They toured the U.S. as a [GENRE] bands such as New Order, Gene Loves Jezebel, and Specimen.  The band was especially popular in the leather subculture. Before the band split up they expanded their line up to a five-piece with the addition of [MONTH]k Pistel on bass and [PERSON_NAME_FULL_0_MALE], from Specimen, as a second drummer.\n"
    ]
 }

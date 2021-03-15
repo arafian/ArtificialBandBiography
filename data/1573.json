@@ -43,9 +43,19 @@
          "Ana Fernández"
       ]
    },
+   "albums": [
+      "El Legado",
+      "El Lado Oscuro",
+      "The Dark Side",
+      "Libera Me",
+      "Tocar El Sol",
+      "Memento Mori",
+      "Crónicas de Araván",
+      "Chronicles of Aravan"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Asturias, Spain. Formed in [YEAR] after the split of Nörthwind, the band has since released six studio albums. [BAND_NAME] has often cited Blind Guardian, Helloween, Angra, and Rage as their biggest and most important influences.\n",
       "After the split of power metal band Nörthwind, three of the members formed heavy metal band Vendaval. The rest of the members, guitarists Tino Hevia and Daniel Gonzalez, and keyboardist [PERSON_NAME_FULL_0_FEMALE], formed [BAND_NAME]. The band recruited bassist Pedro [MONTH]quera and drummer Daniel Cabal, who had also worked with Relative Silence along with [PERSON_NAME_FULL_0_FEMALE]. They decided to record an [GENRE] a stable lineup.\n",
-      "In the middle of [YEAR], [BAND_NAME] went to Germany to record what would become their debut album. It was recorded at VPS Studios, produced by [PERSON_NAME_FULL_2_MALE] (better known as Rage's producer), and mixed at House of Music Studios by [PERSON_NAME_FULL_1_MALE] (mixer who had worked for bands like Primal Fear and Sinner). El Legado was the debut album by the band, released in [MONTH] [YEAR]. Professional reviews were incredibly good, stating that El Legado, was \"one of the best Spanish metal albums of the year  from an [GENRE] band\". [BAND_NAME] toured Spain for a whole year to support the album, and had \"tickets-sold-out\" posters in most of the venues. The critics and live-reviews about this new band were incredibly good. In the middle of the tour, drummer [PERSON_NAME_FULL_3_MALE] left the band. The rest of the members had to cancel some concerts before introducing [PERSON_NAME_LAST_3]'s replacement, drummer [PERSON_NAME_FULL_0_MALE] who was at that time known for his work on power metal band Darna, on their first and second album and left after the band's breakup in [YEAR]. Keyboardist Helena Pinto left the band at the end of [YEAR].\n"
+      "In the middle of [YEAR], [BAND_NAME] went to Germany to record what would become their debut album. It was recorded at VPS Studios, produced by [PERSON_NAME_FULL_3_MALE] (better known as Rage's producer), and mixed at House of Music Studios by [PERSON_NAME_FULL_2_MALE] (mixer who had worked for bands like Primal Fear and Sinner). El Legado was the debut album by the band, released in [MONTH] [YEAR]. Professional reviews were incredibly good, stating that El Legado, was [SONG_NAME] posters in most of the venues. The critics and live-reviews about this new band were incredibly good. In the middle of the tour, drummer [PERSON_NAME_FULL_1_MALE] left the band. The rest of the members had to cancel some concerts before introducing [PERSON_NAME_LAST_1]'s replacement, drummer [PERSON_NAME_FULL_0_MALE] who was at that time known for his work on power metal band Darna, on their first and second album and left after the band's breakup in [YEAR]. Keyboardist Helena Pinto left the band at the end of [YEAR].\n"
    ]
 }

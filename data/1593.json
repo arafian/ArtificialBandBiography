@@ -30,9 +30,23 @@
          "Jimmy Jenks Jimenez"
       ]
    },
+   "albums": [
+      "La Flaca",
+      "Depende",
+      "De Vuelta y Vuelta",
+      "Bonito",
+      "1m² (Un Metro Cuadrado)",
+      "Adelantando",
+      "Orquesta Reciclando",
+      "¿Y ahora que hacemos?",
+      "Somos",
+      "TOUR AMERICANO",
+      "50 PALOS",
+      "TRAGAS O ESCUPES"
+   ],
    "prunedData": [
       "[BAND_NAME] were a [GENRE] band, once led by singer, songwriter and guitarist [PERSON_NAME_FULL_0_MALE].\n",
       "On 9 [MONTH] [YEAR], Donés died at the age of 53.\n",
-      "In [YEAR], the band announced they were going to leave their record company and go independent, founding their own record label Tronco Records. They changed their name to \"Jarabedepalo\" because their former record label had the rights to the name.\n"
+      "In [YEAR], the band announced they were going to leave their record company and go independent, founding their own record label Tronco Records. They changed their name to [SONG_NAME] because their former record label had the rights to the name.\n"
    ]
 }

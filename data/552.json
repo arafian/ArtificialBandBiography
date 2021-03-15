@@ -22,6 +22,14 @@
          "starducks.me"
       ]
    },
+   "albums": [
+      "Cowboy Bebop",
+      "Cowboy Bebop Vitaminless",
+      "Cowboy Bebop No Disc",
+      "Cowboy Bebop Blue",
+      "Ask DNA",
+      "Future Blues"
+   ],
    "prunedData": [
       "[BAND_NAME] (シートベルツ, Shītoberutsu, also known as Seat Belts or SEATBELTS) is a [GENRE] band led by composer and instrumentalist [PERSON_NAME_FULL_0_FEMALE]. An international ensemble comprising both a stable lineup of musicians and various collaborators, the band was assembled by [PERSON_NAME_LAST_0] in [YEAR] to perform the soundtrack music for the Cowboy Bebop anime series. Their repertoire covered and blended many different genres, mainly jazz, but also a wide variety of rock, electronic, funk, blues, J-pop and other styles of genres.\n",
       "The name of the band, according to the fictional description given in their first album Cowboy Bebop, derives from how the performers wear seatbelts to be safe while they play hardcore jam sessions.\n",

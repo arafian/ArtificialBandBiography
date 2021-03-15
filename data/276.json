@@ -6,8 +6,22 @@
       "This article on a United States country music band is a stub. You can help Wikipedia by expanding it."
    ],
    "infobox": {},
+   "albums": [
+      " A Caustic Acoustic Cacophony",
+      "Trashcan Americana",
+      "Wormwood",
+      "Showdown",
+      "Born With A Tail",
+      "I've Killed Men",
+      "Live at Schubas 06/09/2004",
+      "Live at Hangar 9",
+      "Drunk as Dragons",
+      "Drunk as Dragons: Fortified Edition",
+      "White Trash Voodoo",
+      "Glorious Scars"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] an eclectic, unique style of bluegrass music labeled by some as \"insurgent Americana,\" \"jug-punk,\" \"y'allternative,\" and \"funk-a-billy;\" though they prefer the terms \"caustic acoustic\" and \"trashcan Americana\" (also the name of one of their albums).\n",
+      "[BAND_NAME] is a [GENRE] an eclectic, unique style of bluegrass music labeled by some as [SONG_NAME] (also the name of one of their albums).\n",
       "The band originated as the trio of dobro player Brad Bolin and the brothers Hugh (guitar, kazoo, and vocals) and Brian (bass) DeNeal in [YEAR]. Bolin soon left the band, but rejoined in [YEAR] along with [PERSON_NAME_FULL_0_MALE] (assorted jug percussion, washboard, banjo, kazoo, harmonica, didgeridoo, slide resonator guitar, drum, vocals, stompboard, and gutbucket), however Bolin left once again. They were later joined by Greg Edwards (bass), Ratliff Dean Thiebaud (guitar and vocals), and  [PERSON_NAME_FULL_1_MALE] (banjo, mandolin, dobro, guitar).\n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]

@@ -24,9 +24,10 @@
          "[1]"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band out of San Francisco, California. Made up of members from countries all over the world, they formed in [YEAR] and gathered a significant local and national following.\n",
       "They have been described by Live 105, the largest Alternative Rock radio station in Northern California and a [GENRE] bands of [YEAR].  They were the only currently unsigned band making it to the top of the list.\n",
-      "Their debut EP \"Buy Yourself Some Freedom\" was recorded at Broken Radio Studios in San Francisco, a [PERSON_NAME_FULL_0_MALE] studio, during most of [YEAR] and released in [MONTH] [YEAR].\n"
+      "Their debut EP [SONG_NAME] was recorded at Broken Radio Studios in San Francisco, a [PERSON_NAME_FULL_0_MALE] studio, during most of [YEAR] and released in [MONTH] [YEAR].\n"
    ]
 }

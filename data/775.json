@@ -28,6 +28,9 @@
          "Tom Hoy, Robin Thyne, Krysia Kocjan"
       ]
    },
+   "albums": [
+      "Learning to Live"
+   ],
    "prunedData": [
       "The [BAND_NAME] were a [GENRE] band, formed in [YEAR] in Milngavie, Glasgow, Scotland. There were a number of personnel changes throughout the band's history, but the best known line up was:\n",
       "The band only produced two albums and one single (reaching No 1 in the Melody Maker folk charts). They played The Royal Albert Hall (supporting [PERSON_NAME_FULL_1_MALE]), toured extensively with [PERSON_NAME_FULL_0_MALE], played at The Weeley Festival Rod Stewart, T-Rex, Status Quo, [PERSON_NAME_FULL_2_MALE] and Monty Python also appearing with Country Joe Mc[PERSON_NAME_FIRST_1]ald at Reading Played Glasgow City Halls with Billy Connolly and Steelers Wheel, The Old Grey Whistle Test with Alice Cooper, and they were on the bill on three occasions at London's [MONTH]quee Club: [MONTH] 17, [YEAR] (supported by Shape of the Rain), 12 [MONTH] [YEAR] (supported by Gnidrolog) and on 22 [MONTH] [YEAR] (supporting Brewers Droop). \n",

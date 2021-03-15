@@ -37,9 +37,13 @@
          "Mike Shinoda"
       ]
    },
+   "albums": [
+      "Fort Minor Sampler Mixtape",
+      "Fort Minor: We Major"
+   ],
    "prunedData": [
-      "[BAND_NAME] is the American hip hop side project of Mike Shinoda, who is better known as the rhythm guitarist, keyboardist, producer, and lead vocalist of the American rock band Linkin Park. Shinoda's debut solo album as [BAND_NAME], The Rising Tied, was released on [MONTH] 22, [YEAR]. The album's fourth single, \"Where'd You Go\", propelled [BAND_NAME] to stardom, reaching No. 4 on the Billboard Hot 100.\n",
+      "[BAND_NAME] is the American hip hop side project of Mike Shinoda, who is better known as the rhythm guitarist, keyboardist, producer, and lead vocalist of the American rock band Linkin Park. Shinoda's debut solo album as [BAND_NAME], The Rising Tied, was released on [MONTH] 22, [YEAR]. The album's fourth single, [SONG_NAME], propelled [BAND_NAME] to stardom, reaching No. 4 on the Billboard Hot 100.\n",
       "Mike Shinoda joined [BAND_NAME] as a vocalist. Shinoda uses the name [BAND_NAME] for his collaborations with Ryan Patrick Maginn (Ryu) and Takbir Bashir (Tak), who themselves hail from the underground hip hop group Styles of Beyond.\n",
-      "Shinoda began recording songs for this side project following the release of Collision Course in [MONTH] [YEAR]. [BAND_NAME]: We Major was a mixtape by Shinoda and DJ Green Lantern to promote his upcoming studio album. The Rising Tied, the debut album of [BAND_NAME], was released in [MONTH] [YEAR]. Robert Hales directed its first video \"Petrified\", which was released the previous month. Jay-Z, who had previously collaborated with Linkin Park on the [YEAR] album Collision Course, was the executive producer for The Rising Tied. Shinoda told Corey Moss of MTV News that he imposed on himself a requirement to play all the instruments and write all the lyrics to the album except for the strings, percussion, or choir parts. \"Where'd You Go\", its fourth single, peaked at No. 4 on the Billboard Hot 100 chart, while second single, \"Remember the Name\", reached at No. 66. Another track, \"Kenji\" describes the experiences of a Japanese-American family during the Japanese American internment of World War II.\n"
+      "Shinoda began recording songs for this side project following the release of Collision Course in [MONTH] [YEAR]. [BAND_NAME]: We Major was a mixtape by Shinoda and DJ Green Lantern to promote his upcoming studio album. The Rising Tied, the debut album of [BAND_NAME], was released in [MONTH] [YEAR]. Robert Hales directed its first video [SONG_NAME] describes the experiences of a Japanese-American family during the Japanese American internment of World War II.\n"
    ]
 }

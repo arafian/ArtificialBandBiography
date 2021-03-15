@@ -29,9 +29,10 @@
          "Marcus Larsson"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME]  is a [GENRE] band, formed in Gothenburg in [YEAR]. Their music can be said to fall within the genre categories of bitpop and synthpop, with the band inspired by the \"video games and computer era of the eighties.\"\n",
+      "[BAND_NAME]  is a [GENRE] band, formed in Gothenburg in [YEAR]. Their music can be said to fall within the genre categories of bitpop and synthpop, with the band inspired by the [SONG_NAME]\n",
       "[BAND_NAME] formed in Gothenburg in [YEAR]. The band-name [BAND_NAME] was suggested by Michael Strandtoft of the band Helm.\n",
-      "They released their first album \"Joy-Toy\" in [MONTH] [YEAR]. The band was voted \"Best Newcomer [YEAR]\" at the Scandinavian Alternative Music Awards. \"Humanizer\", their second album, was released in [MONTH] [YEAR].\n"
+      "They released their first album [SONG_NAME], their second album, was released in [MONTH] [YEAR].\n"
    ]
 }

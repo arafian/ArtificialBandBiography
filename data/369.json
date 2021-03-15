@@ -29,8 +29,12 @@
          "Ken Kempster"
       ]
    },
+   "albums": [
+      "Would We Be...Live?",
+      "We Played At Squats"
+   ],
    "prunedData": [
-      "[BAND_NAME] (sometimes stylized as NoMeansNo or spelled No Means No) was a [GENRE] band formed in Victoria, British Columbia and later relocated to Vancouver.  They issued 11 albums, including a collaborative album with Jello Biafra, as well as numerous EPs and singles.  Critic [MONTH]tin Popoff described their music as \"the mightiest merger between the hateful aggression of punk and the discipline of heavy metal.\"  [BAND_NAME]'s distinct hardcore punk sound, complex instrumentation, and dark, \"savagely intelligent\" lyrics inspired subsequent musicians.  They are often considered foundational in the punk jazz and post-hardcore movements, and have been cited as a formative influence on the math rock and emo genres.\n",
+      "[BAND_NAME] (sometimes stylized as NoMeansNo or spelled No Means No) was a [GENRE] band formed in Victoria, British Columbia and later relocated to Vancouver.  They issued 11 albums, including a collaborative album with Jello Biafra, as well as numerous EPs and singles.  Critic [MONTH]tin Popoff described their music as [SONG_NAME] lyrics inspired subsequent musicians.  They are often considered foundational in the punk jazz and post-hardcore movements, and have been cited as a formative influence on the math rock and emo genres.\n",
       "Formed in [YEAR] by brothers Rob and John Wright, the group began as a [GENRE] band influenced by jazz and progressive rock.  They self-released their debut Mama LP in [YEAR].  Adding guitarist [PERSON_NAME_FULL_0_MALE] the following year, the group signed with the Alternative Tentacles imprint and continued to expand their audience.  [PERSON_NAME_LAST_0] departed in [YEAR] after five LPs with the band, and the group returned to its two-piece formation for the Why Do They Call Me Mr. Happy? album.\n",
       "Guitarist Tom Holliston, and briefly second drummer [PERSON_NAME_FULL_0_MALE], joined in [YEAR], and [BAND_NAME] continued touring and recording extensively while operating their own Wrong Records label.  After three further LPs, they left Alternative Tentacles and issued their final album, All Roads Lead to Ausfahrt, in [YEAR].  They were inducted into the Western Canadian Music Hall of Fame in [YEAR], and announced their retirement the following year.\n"
    ]

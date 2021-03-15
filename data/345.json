@@ -53,6 +53,7 @@
          "John Webster"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band which formed in [YEAR] in Vancouver, British Columbia, Canada. This independent band have released four albums: Peel ([YEAR]), Trapped in the Machine ([YEAR]), Crash ([YEAR]) and One More Mile ([YEAR]). They have had three Top 10 singles on Canadian Rock Radio, with sales of over 70,000 units worldwide, and have toured Canada, New Zealand, the U.S. and the U.K., all while maintaining independent status.\n",
       "The band originated in the early [YEAR]s in Prince George, British Columbia, as The Night Watchmen, by original drummer and songwriter Alex ([MONTH]ien) Dias, and writing partner, guitarist Rob Lulic. Vancouver based keyboardist Bob D'Eith later joined the band. It was when lead singer [PERSON_NAME_FULL_0_MALE], subsequently a [GENRE] band to go back to Scotland, Dias, Lulic and D'Eith continued, with what would eventually become [BAND_NAME].\n",

@@ -40,9 +40,10 @@
          "Jason \"Teen Beat\" Smay"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band that formed in Nashville, Tennessee, United States, in [YEAR]. Originally comprising guitarists [PERSON_NAME_FULL_2_MALE] (formerly of the Raybeats), Eddie Angel and drummer L. J. \"Jimmy\" Lester under the name The Straitjackets, the band split up soon after forming, but reunited as [BAND_NAME] in [YEAR] with the addition of bassist E. [PERSON_NAME_FULL_3_MALE]. [PERSON_NAME_LAST_3] left the band in [YEAR] and was replaced by Pete Curry. The current lineup also features [PERSON_NAME_FULL_1_MALE] on guitar and [PERSON_NAME_FULL_0_MALE] on drums.\n",
+      "[BAND_NAME] is an [GENRE] band that formed in Nashville, Tennessee, United States, in [YEAR]. Originally comprising guitarists [PERSON_NAME_FULL_2_MALE] (formerly of the Raybeats), Eddie Angel and drummer L. J. [SONG_NAME] Lester under the name The Straitjackets, the band split up soon after forming, but reunited as [BAND_NAME] in [YEAR] with the addition of bassist E. [PERSON_NAME_FULL_0_MALE]. [PERSON_NAME_LAST_0] left the band in [YEAR] and was replaced by Pete Curry. The current lineup also features [PERSON_NAME_FULL_3_MALE] on guitar and [PERSON_NAME_FULL_1_MALE] on drums.\n",
       "The band has released fourteen studio albums, four collaboration albums and eight live albums.\n",
-      "Eddie Angel was a noted rockabilly guitarist who moved to Nashville in the early [YEAR]s to record and perform with the Planet Rockers. [PERSON_NAME_FULL_1_MALE] recorded and performed with the Raybeats, then worked as a sound engineer in Nashville. The two formed The Straitjackets in [YEAR] with Jimmy Lester, a Nashville session player who had worked and toured with [PERSON_NAME_FULL_0_MALE]. They played several gigs during the summer of that year, but soon broke up.\n"
+      "Eddie Angel was a noted rockabilly guitarist who moved to Nashville in the early [YEAR]s to record and perform with the Planet Rockers. [PERSON_NAME_FULL_0_MALE] recorded and performed with the Raybeats, then worked as a sound engineer in Nashville. The two formed The Straitjackets in [YEAR] with Jimmy Lester, a Nashville session player who had worked and toured with [PERSON_NAME_FULL_1_MALE]. They played several gigs during the summer of that year, but soon broke up.\n"
    ]
 }

@@ -1,7 +1,7 @@
 {
    "Name": "Love (band)",
    "rawData": [
-      "Love was an American psychedelic and folk-rock band formed in Los Angeles in 1965. Led by Arthur Lee, Love was one of the first racially-diverse American rock bands. Their style drew from an eclectic range of sources including hard rock, blues, jazz, flamenco, and orchestral pop.\n",
+      "Love was an American psychedelic and folk-rock band formed in Los Angeles in 1965. Led by Arthur Lee, Love was one of the first racially diverse American rock bands. Their style drew from an eclectic range of sources including hard rock, blues, jazz, flamenco, and orchestral pop.\n",
       "While finding only modest success on the music charts, peaking in 1966 with their only Top 40 hit \"7 and 7 Is\", Love would come to be praised by critics as their third album, Forever Changes (1967), became generally regarded as one of the best albums of the 1960s. It was added to the Library of Congress's National Recording Registry in 2011.\n",
       "Singer/multi-instrumentalist Arthur Lee, who was originally from Memphis, Tennessee but had lived in Los Angeles since the age of five, had been recording since 1963 with his bands the LAG's and Lee's American Four. He wrote and produced the single \"My Diary\" for Rosa Lee Brooks in 1964, which featured Jimi Hendrix on guitar. The Sons Of Adam, which included future Love drummer Michael Stuart, recorded the Lee composition \"Feathered Fish\". After attending a performance by the Byrds, Lee decided to form a band that joined the newly minted folk-rock sound of the Byrds to his primarily rhythm and blues style.\n"
    ],
@@ -49,9 +49,20 @@
          "See members section"
       ]
    },
+   "albums": [
+      "Love",
+      "Da Capo",
+      "Forever Changes",
+      "Four Sail",
+      "Out Here",
+      "False Start",
+      "Reel to Real",
+      "Love Lost",
+      "Black Beauty"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band formed in Los Angeles in [YEAR]. Led by Arthur Lee, [BAND_NAME] was one of the first racially-diverse American rock bands. Their style drew from an eclectic range of sources including hard rock, blues, jazz, flamenco, and orchestral pop.\n",
-      "While finding only modest success on the music charts, peaking in [YEAR] with their only Top 40 hit \"7 and 7 Is\", [BAND_NAME] would come to be praised by critics as their third album, Forever Changes ([YEAR]), became generally regarded as one of the best albums of the [YEAR]s. It was added to the Library of Congress's National Recording Registry in [YEAR].\n",
-      "Singer/multi-instrumentalist Arthur [PERSON_NAME_LAST_1], who was originally from Memphis, Tennessee but had lived in Los Angeles since the age of five, had been recording since [YEAR] with his bands the LAG's and [PERSON_NAME_LAST_1]'s American Four. He wrote and produced the single \"My Diary\" for [PERSON_NAME_FULL_1_FEMALE] in [YEAR], which featured Jimi Hendrix on guitar. The Sons Of Adam, which included future [BAND_NAME] drummer [PERSON_NAME_FULL_0_MALE], recorded the [PERSON_NAME_LAST_1] composition \"Feathered Fish\". After attending a performance by the Byrds, [PERSON_NAME_LAST_1] decided to form a band that joined the newly minted folk-rock sound of the Byrds to his primarily rhythm and blues style.\n"
+      "[BAND_NAME] was an [GENRE] band formed in Los Angeles in [YEAR]. Led by Arthur Lee, [BAND_NAME] was one of the first racially diverse American rock bands. Their style drew from an eclectic range of sources including hard rock, blues, jazz, flamenco, and orchestral pop.\n",
+      "While finding only modest success on the music charts, peaking in [YEAR] with their only Top 40 hit [SONG_NAME], [BAND_NAME] would come to be praised by critics as their third album, Forever Changes ([YEAR]), became generally regarded as one of the best albums of the [YEAR]s. It was added to the Library of Congress's National Recording Registry in [YEAR].\n",
+      "Singer/multi-instrumentalist Arthur [PERSON_NAME_LAST_1], who was originally from Memphis, Tennessee but had lived in Los Angeles since the age of five, had been recording since [YEAR] with his bands the LAG's and [PERSON_NAME_LAST_1]'s American Four. He wrote and produced the single [SONG_NAME]. After attending a performance by the Byrds, [PERSON_NAME_LAST_1] decided to form a band that joined the newly minted folk-rock sound of the Byrds to his primarily rhythm and blues style.\n"
    ]
 }

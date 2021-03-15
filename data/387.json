@@ -28,9 +28,13 @@
          "Steve Bjorklund, Chris Bjorklund, Pierre Kezdy, Bob Furem"
       ]
    },
+   "albums": [
+      "Immediate Action",
+      "Immediate Action"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band of the early [YEAR]s. It was started by [PERSON_NAME_FULL_0_MALE] (vocals, guitar) after the demise of The Rabbits. The principal musicians, besides [PERSON_NAME_LAST_0], were his brother Chris (guitar), Pierre Kezdy (bass), and [PERSON_NAME_FULL_1_MALE] (drums).\n",
-      "[BAND_NAME] was founded in [YEAR] or [YEAR]. Although American punk is generally considered to have started four or five years earlier, punk and new wave music arrived in Chicago far later than on either coast, so that [BAND_NAME] is correctly still considered an [GENRE] band. They can also be seen as one of the first and most important bands of the \"second wave\" of Chicago punk, as it turned toward a more hardcore scene and sound, and as an archetype of Chicago hardcore.\n",
-      "In [YEAR], [BAND_NAME] released a 5-song 12\" EP record, Immediate Action, notable as the first release by the new label Wax Trax Records (the record is commonly known as WAX 001, although the actual catalog number is Wax Trax [YEAR]15X). The album cover resembled a book of matches (the band's name derives from the phrase commonly seen on cheap matchbooks). Songs included \"Sunday Night Disorientation\", \"Context\", \"Closing In\", \"Elephant's Graveyard\" (which later appeared on the Wax Trax Best of boxed set), and the title track. Immediate Action received mixed reviews; however, as one of the first actual recordings by a local punk outfit in the Windy City, looms large in the memory of denizens of the early Chicago punk scene, and has been called an \"integral document to the history of punk rock in Chicago\".\n"
+      "[BAND_NAME] was an [GENRE] band of the early [YEAR]s. It was started by [PERSON_NAME_FULL_1_MALE] (vocals, guitar) after the demise of The Rabbits. The principal musicians, besides [PERSON_NAME_LAST_1], were his brother Chris (guitar), Pierre Kezdy (bass), and [PERSON_NAME_FULL_0_MALE] (drums).\n",
+      "[BAND_NAME] was founded in [YEAR] or [YEAR]. Although American punk is generally considered to have started four or five years earlier, punk and new wave music arrived in Chicago far later than on either coast, so that [BAND_NAME] is correctly still considered an [SONG_NAME] of Chicago punk, as it turned toward a more hardcore scene and sound, and as an archetype of Chicago hardcore.\n",
+      "In [YEAR], [BAND_NAME] released a 5-song 12[SONG_NAME].\n"
    ]
 }

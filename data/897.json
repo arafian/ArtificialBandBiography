@@ -35,9 +35,10 @@
          "Kris Bennett"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] ([YEAR] - [YEAR]) was a [GENRE] band from San Francisco, California, on the Slowdance Records label.\n",
-      "Formed by in [YEAR] by Kris Bennett, [PERSON_NAME_FULL_4_MALE] and [PERSON_NAME_FULL_0_MALE]. Later adding Aaron Morgan and replacing Bennett with [PERSON_NAME_FULL_3_FEMALE], [BAND_NAME] released five full-length albums and an [GENRE] bands as Tortoise (band), Michael Rother & [PERSON_NAME_FULL_5_MALE], The Album Leaf, Black Mountain (band), Modest Mouse, Bright Eyes (band) and many others. [PERSON_NAME_FULL_2_MALE] was added to the line up for 'The Red House In Winter' and their self-titled EP but left before 'Some Things Plural.' [PERSON_NAME_FULL_1_MALE] and Katie Logan briefly replaced [PERSON_NAME_FULL_3_FEMALE] while he was abroad. The band is currently inactive.\n",
+      "Formed by in [YEAR] by Kris Bennett, [PERSON_NAME_FULL_4_MALE] and [PERSON_NAME_FULL_0_MALE]. Later adding Aaron Morgan and replacing Bennett with [PERSON_NAME_FULL_1_FEMALE], [BAND_NAME] released five full-length albums and an [GENRE] bands as Tortoise (band), Michael Rother & [PERSON_NAME_FULL_3_MALE], The Album Leaf, Black Mountain (band), Modest Mouse, Bright Eyes (band) and many others. [PERSON_NAME_FULL_5_MALE] was added to the line up for 'The Red House In Winter' and their self-titled EP but left before 'Some Things Plural.' [PERSON_NAME_FULL_2_MALE] and Katie Logan briefly replaced [PERSON_NAME_FULL_1_FEMALE] while he was abroad. The band is currently inactive.\n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

@@ -22,9 +22,10 @@
          "Raymond Herrera"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band formed in [YEAR] by rapper B-Real, Deftones guitarist Stephen Carpenter, and former Fear Factory members [PERSON_NAME_FULL_0_MALE] and Christian Olde Wolbers.\n",
-      "The project was first announced in [YEAR]. \"Dr. [BAND_NAME]\" was chosen as an [GENRE] band name was already in use. In [MONTH] [YEAR], it was reported that seven tracks had been completed. In [YEAR], B-Real expressed an interest in releasing the band's debut album by the following year or in [YEAR]. [BAND_NAME] performed at the fifth annual Cypress Hill Smoke Out in [YEAR], opening with a song entitled \"Psycho Killer\", one of ten completed tracks that were prepared for an eventual album. B-Real stated that the band's music is \"unlike any other rap-metal type stuff. It's a little bit more aggressive. And the way I attack it from a lyrical standpoint is totally different from what I do with Cypress. Cypress is more street-orientated. With [BAND_NAME], it's a little bit of everything.\" In [MONTH] [YEAR], it was reported that [BAND_NAME] had completed its debut album, but that it would be difficult to release because all of the band members were signed to different labels. In [MONTH] [YEAR], it was reported that the album was not completed, but that it was getting close to completion. To date, no material from the band has been released officially, but demos have been leaked on various file sharing sites.\n",
-      "In [YEAR], during a [GENRE]"
+      "The project was first announced in [YEAR]. [SONG_NAME] In [MONTH] [YEAR], it was reported that [BAND_NAME] had completed its debut album, but that it would be difficult to release because all of the band members were signed to different labels. In [MONTH] [YEAR], it was reported that the album was not completed, but that it was getting close to completion. To date, no material from the band has been released officially, but demos have been leaked on various file sharing sites.\n",
+      "In [YEAR], during a Reddit AMA, B-Real indicated the project was stalled by [SONG_NAME].\n"
    ]
 }

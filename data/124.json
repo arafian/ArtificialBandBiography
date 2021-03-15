@@ -6,9 +6,18 @@
       "The trio's first two gigs were at San Francisco's On Broadway in late 1983. The band put out a demo in 1984, then broke up in 1985, with band members moving on to other projects.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Reason Is 6/7 Of Treason",
+      "Die Monster Die ",
+      "Everything Crash",
+      "Mayday",
+      "Biting The Ugly Biscuit",
+      "The Conqueror Worm",
+      "Who Owns Our Dreams"
+   ],
    "prunedData": [
-      "[BAND_NAME] was a [PERSON_NAME_FULL_0_MALE]-based rock band that existed under various incarnations from [YEAR] until [YEAR]. Greil [MONTH]cus of the Village Voice described them as a \"small-time [PERSON_NAME_FULL_0_MALE] combo that wears their defeated leftist politics on their sleeves and can open for the Mekons without letting you forget them when the headliners come on.\"\n",
-      "The original line-up included frontman J. Neo ([MONTH]vin), bassist [PERSON_NAME_FULL_0_MALE] (formerly of SF's The Cat Heads) and drummer Michael \"Mick\" Freeman. Neo offers this explanation of the band's name: \"Still no agreement on a [GENRE] a graffiti on a sidewalk in the Tenderloin reading 'XTAL.' No one hates it; it grows on you. Somewhere along the line a hyphen is added to make it easier to pronounce, but for the next 13 years, confusion ensues as to whether the letter 't' is capitalized. (It's not.)\"\n",
+      "[BAND_NAME] was a [PERSON_NAME_FULL_0_FEMALE]-based rock band that existed under various incarnations from [YEAR] until [YEAR]. Greil [MONTH]cus of the Village Voice described them as a [SONG_NAME]\n",
+      "The original line-up included frontman J. Neo ([MONTH]vin), bassist [PERSON_NAME_FULL_0_MALE] (formerly of SF's The Cat Heads) and drummer Michael [SONG_NAME]\n",
       "The trio's first two gigs were at San Francisco's On Broadway in late [YEAR]. The band put out a demo in [YEAR], then broke up in [YEAR], with band members moving on to other projects.\n"
    ]
 }

@@ -36,6 +36,13 @@
          "Foued Moukid"
       ]
    },
+   "albums": [
+      "The Blossom",
+      "The Nameless Disease",
+      "The Perpetual Motion",
+      "The Water Fields",
+      "The End"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band from the city of Paris, France active between [YEAR] and [YEAR].\n",
       "Their musical style is a [GENRE] a melodic tenor voice.\n",

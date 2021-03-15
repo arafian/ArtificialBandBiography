@@ -23,9 +23,10 @@
          "The Challengers, Eddie & the Showmen"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] were an [GENRE] band from South Bay, Los Angeles, active in the early [YEAR]s.\n",
-      "They were best known for their [YEAR] hit \"Mr. Moto\", an [GENRE] a flamenco-inspired intro and contained a melodic piano interlude. The song's theme was used in the solo for the song \"Seed\" by Sublime.\n",
-      "Upon splitting up, guitarist [PERSON_NAME_FULL_1_MALE] formed [PERSON_NAME_FIRST_1] & the Showmen in [YEAR], while guitarist Paul Johnson later joined [PERSON_NAME_FULL_2_MALE] & the All Night Newsboys in [YEAR].  Original Bel-Airs drummer Dick Dodd joined [PERSON_NAME_LAST_1] in [PERSON_NAME_FIRST_1] & the Showmen, and later joined the Standells, playing drums and singing lead on their major [YEAR] hit, \"Dirty Water\". [PERSON_NAME_FULL_0_MALE] replaced Dick Dodd on drums, Randy Nauert replaced [PERSON_NAME_FULL_3_MALE] on bass, and Art Fisher replaced [PERSON_NAME_FULL_1_MALE] on guitar. [PERSON_NAME_LAST_0], Fisher Nauert and Roberts went on to found the surf group The Challengers. \n"
+      "They were best known for their [YEAR] hit [SONG_NAME] by Sublime.\n",
+      "Upon splitting up, guitarist [PERSON_NAME_FULL_2_MALE] formed [PERSON_NAME_FIRST_2] & the Showmen in [YEAR], while guitarist Paul Johnson later joined [PERSON_NAME_FULL_1_MALE] & the All Night Newsboys in [YEAR].  Original Bel-Airs drummer Dick Dodd joined [PERSON_NAME_LAST_2] in [PERSON_NAME_FIRST_2] & the Showmen, and later joined the Standells, playing drums and singing lead on their major [YEAR] hit, [SONG_NAME]. [PERSON_NAME_FULL_0_MALE] replaced Dick Dodd on drums, Randy Nauert replaced [PERSON_NAME_FULL_3_MALE] on bass, and Art Fisher replaced [PERSON_NAME_FULL_2_MALE] on guitar. [PERSON_NAME_LAST_0], Fisher Nauert and Roberts went on to found the surf group The Challengers. \n"
    ]
 }

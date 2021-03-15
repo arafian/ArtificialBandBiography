@@ -30,9 +30,29 @@
          "Strobe"
       ]
    },
+   "albums": [
+      "Lusis",
+      "Cross Rhythms",
+      "CCM Magazine",
+      "Fathom",
+      "Cross Rhythms",
+      "Intense Live Series Vol. 5",
+      "Wake",
+      "Cross Rhythms",
+      "CCM Magazine",
+      "Pura",
+      "Cross Rhythms",
+      "Mortal",
+      "CCM Magazine",
+      "Godspeed",
+      "HM Magazine",
+      "Nu-En-Jin",
+      "Cross Rhythms",
+      "HM Magazine"
+   ],
    "prunedData": [
-      "[BAND_NAME] was a [GENRE] band fronted by Jerome Fontamillas and Jyro Xhan. Both members went on to found the alternative rock group Fold Zandura, and for a time were members of both bands simultaneously. The band is known for its lyrical intelligence, incorporating advanced theology with what has been billed as \"Industrial Praise and Worship.\" According to CCM Magazine \"[BAND_NAME] has had a much greater influence... on industrial music than its modest output would suggest.\"\n",
+      "[BAND_NAME] was a [GENRE] band fronted by Jerome Fontamillas and Jyro Xhan. Both members went on to found the alternative rock group Fold Zandura, and for a time were members of both bands simultaneously. The band is known for its lyrical intelligence, incorporating advanced theology with what has been billed as [SONG_NAME]\n",
       "Led by the duo Jerome Fontamillas and Jyro Xhan, [BAND_NAME] was one of the first Christian bands to play industrial metal. While not actually the first to do so, [BAND_NAME] enjoyed significant success, and, along with other early contemporaries such as Circle of Dust and Argyle Park, played a [GENRE] bands.\n",
-      "The group began in [YEAR] as [BAND_NAME] Wish, and  produced a six-song demo with additional members Ray Tongpo and [PERSON_NAME_FULL_1_MALE]. They shortened their name, signed a record deal with Intense Records and released their first album Lusis in [YEAR], produced by Terry Scott Taylor and [PERSON_NAME_FULL_0_MALE] of Scaterd Few. It was well received by the critics, with CCM Magazine dubbing Lusis the \"strongest debut project to enter the Christian market in years.\" The second album Fathom ([YEAR]) was [BAND_NAME]'s most guitar-driven, and became one of the band's most popular releases. The song ”Rift” was rearranged later and a music video was shot for it in [YEAR]. The video dealt with the horrors of child abuse.\n"
+      "The group began in [YEAR] as [BAND_NAME] Wish, and  produced a six-song demo with additional members Ray Tongpo and [PERSON_NAME_FULL_0_MALE]. They shortened their name, signed a record deal with Intense Records and released their first album Lusis in [YEAR], produced by Terry Scott Taylor and [PERSON_NAME_FULL_1_MALE] of Scaterd Few. It was well received by the critics, with CCM Magazine dubbing Lusis the [SONG_NAME] The second album Fathom ([YEAR]) was [BAND_NAME]'s most guitar-driven, and became one of the band's most popular releases. The song ”Rift” was rearranged later and a music video was shot for it in [YEAR]. The video dealt with the horrors of child abuse.\n"
    ]
 }

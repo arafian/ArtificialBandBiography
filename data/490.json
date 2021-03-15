@@ -22,8 +22,11 @@
          "Jonathan Roberts"
       ]
    },
+   "albums": [
+      "Shaded Red"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band from Denver, Colorado, in the United States. It was formed in [YEAR] by brothers Jamie [PERSON_NAME_LAST_0] (vocals and guitar) and [PERSON_NAME_FULL_0_MALE] (guitars, bass, trumpet, piano). In [YEAR] they released their debut self-titled album through Cadence. On [MONTH] 17, [YEAR], the band was struck by tragedy when their van hit a patch of black ice returning from a concert. Drummer Chris Yeoman was killed and [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] was left with a shattered pelvis. It was at this time the band considered calling it quits but decided to press on instead.\n",
-      "In [YEAR], the band released their second album, Red Revolution. The album was a [GENRE] a remake of the Benny Hester song \"When God Ran\". The band has since broken up, and brothers Jamie and Jonathan currently reside in Los Angeles.\n"
+      "In [YEAR], the band released their second album, Red Revolution. The album was a [GENRE] a remake of the Benny Hester song [SONG_NAME]. The band has since broken up, and brothers Jamie and Jonathan currently reside in Los Angeles.\n"
    ]
 }

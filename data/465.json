@@ -25,9 +25,15 @@
          " Kent Rector"
       ]
    },
+   "albums": [
+      "Monday Morning EP",
+      "Blind",
+      "Clouds over Hollywood",
+      "Fool's Paradise"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from North Carolina, U.S. In [YEAR] they released their major label debut through Selectric Records, Fool's Paradise, and are known for their number 1 hit song \"Wonder of It All (Next Year)\".\n",
-      "In high school, lead vocalist Derek Stipe met [PERSON_NAME_FULL_1_MALE], who played drums. Soon [PERSON_NAME_LAST_1], Stipe and his brother Kevin began jamming together. After playing with a few other people, the group eventually narrowed down to four members: the Stipe brothers, [PERSON_NAME_LAST_1], and [PERSON_NAME_FULL_0_MALE] who they knew from their church. Lead singer Stipe said, \"We thought we kinda had something special, so we started playing out, getting better, and it just exploded from there.\"\n",
-      "They decided on a band name, \"[BAND_NAME]\", because it was \"a dose of reality.\" Stipe noted, \"When you confront the world, yourself, and everything around you. No more games, masks, or half truths. That is the boldness we want our music to have.\" In [YEAR] they released the three-track [BAND_NAME] EP, followed by Blind in [YEAR].\n"
+      "[BAND_NAME] is a [GENRE] band from North Carolina, U.S. In [YEAR] they released their major label debut through Selectric Records, Fool's Paradise, and are known for their number 1 hit song [SONG_NAME].\n",
+      "In high school, lead vocalist Derek Stipe met [PERSON_NAME_FULL_1_MALE], who played drums. Soon [PERSON_NAME_LAST_1], Stipe and his brother Kevin began jamming together. After playing with a few other people, the group eventually narrowed down to four members: the Stipe brothers, [PERSON_NAME_LAST_1], and [PERSON_NAME_FULL_0_MALE] who they knew from their church. Lead singer Stipe said, [SONG_NAME]\n",
+      "They decided on a band name, [SONG_NAME] In [YEAR] they released the three-track [BAND_NAME] EP, followed by Blind in [YEAR].\n"
    ]
 }

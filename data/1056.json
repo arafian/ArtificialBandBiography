@@ -37,9 +37,20 @@
          "Shimon Green"
       ]
    },
+   "albums": [
+      "The Diaspora Yeshiva Band",
+      "Melave Malka with the Diaspora Yeshiva Band",
+      "At the Gate of Return",
+      "Live From King David's Tomb",
+      "Land of Our Fathers",
+      "Diaspora Live on Mt. Zion",
+      "The Last Diaspora",
+      "Live at Carnegie Hall",
+      "The Diaspora Collection"
+   ],
    "prunedData": [
-      "[BAND_NAME] (Hebrew: להקת ישיבת התפוצות‎) was an [GENRE] band founded at the Diaspora Yeshiva on Mount Zion, Jerusalem, by baal teshuva students from the United States. In existence from [YEAR] to [YEAR], the band infused rock and bluegrass music with Jewish lyrics, creating a style of music it called \"Hasidic rock\" or \"Country and Eastern\". The band was very popular on college campuses in the early to mid-[YEAR]s, and was well known in Jerusalem for its Saturday-night concerts at David's Tomb. It had a considerable influence on contemporary Jewish religious music, inspiring later bands such as Blue Fringe, 8th Day, [PERSON_NAME_FULL_1_FEMALE], Soulfarm, the Moshav Band, and Shlock Rock. Fifteen years after it disbanded, band leader [PERSON_NAME_FULL_0_MALE] revived the band under the name [PERSON_NAME_FULL_0_MALE] & Diaspora and produced several more albums.\n",
-      "The Diaspora Yeshiva (ישיבת התפוצות) was founded in [YEAR] by Rabbi Mordechai Goldstein, an [GENRE] a colleague of Rabbi Shlomo Carlebach.  It is the only Jewish institution located on Mount Zion. The yeshiva offers programs ranging from basic Judaism to advanced Talmud – employing a methodology based on Ramchal – and emphasizes mussar (character development). It was originally named \"Toras Yisrael\", and its formal yeshiva program continues under that name.\nMachon Roni, a women's Torah seminary, operates in parallel.\n",
+      "[BAND_NAME] (Hebrew: להקת ישיבת התפוצות‎) was an [GENRE] band founded at the Diaspora Yeshiva on Mount Zion, Jerusalem, by baal teshuva students from the United States. In existence from [YEAR] to [YEAR], the band infused rock and bluegrass music with Jewish lyrics, creating a style of music it called [SONG_NAME]. The band was very popular on college campuses in the early to mid-[YEAR]s, and was well known in Jerusalem for its Saturday-night concerts at David's Tomb. It had a considerable influence on contemporary Jewish religious music, inspiring later bands such as Blue Fringe, 8th Day, [PERSON_NAME_FULL_0_FEMALE], Soulfarm, the Moshav Band, and Shlock Rock. Fifteen years after it disbanded, band leader [PERSON_NAME_FULL_1_MALE] revived the band under the name [PERSON_NAME_FULL_1_MALE] & Diaspora and produced several more albums.\n",
+      "The Diaspora Yeshiva (ישיבת התפוצות) was founded in [YEAR] by Rabbi Mordechai Goldstein, an [GENRE] a colleague of Rabbi Shlomo Carlebach.  It is the only Jewish institution located on Mount Zion. The yeshiva offers programs ranging from basic Judaism to advanced Talmud – employing a methodology based on Ramchal – and emphasizes mussar (character development). It was originally named [SONG_NAME], and its formal yeshiva program continues under that name.\nMachon Roni, a women's Torah seminary, operates in parallel.\n",
       "Diaspora Yeshiva was the first outreach yeshiva for baalei teshuva. Unlike traditional rabbinic academies, the yeshiva reached out to young Jewish men who had never been exposed to traditional Torah or Talmud study. It offered introductory and intermediate courses together with acclimation to an [GENRE] a neo-Hasidic approach. Students were encouraged to keep their long hair and their musical instruments.\n"
    ]
 }

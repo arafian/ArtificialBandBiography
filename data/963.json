@@ -6,9 +6,14 @@
       "With the number of markets available to the band limited by the vast expanse of the American west, in the fall of 2002, FGC made the decision to relocate to Chicago, Illinois.  Since then, the band has pursued an aggressive touring schedule that has included headlining performances, \"opening band\" exposure opportunities, and high-profile appearances at festivals like Summerfest, the 10,000 Lakes Festival, and Summer Camp Music Festival in Chillicothe, IL.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Reachin'",
+      "The Charmer",
+      "Models and Metrics"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band based out of Chicago, Illinois.  FGC tours heavily and as of [MONTH] [YEAR], they have played in 28 states totaling over 400 shows.\n",
-      "[BAND_NAME] (FGC) started out in [MONTH] [YEAR] when Adam Lewis (guitar) and [PERSON_NAME_FULL_1_MALE] (keyboards) met [MONTH]is Wallin (bass) and [PERSON_NAME_FULL_0_MALE] (drums) while studying music at the Musician's Institute in Los Angeles, California.  It wasn't long before they recorded their first demo recording and began performing throughout Southern California. The band began touring quite a bit throughout the Western U.S. with regular appearances in [PERSON_NAME_FIRST_2] Diego, [PERSON_NAME_FULL_2_MALE], and Portland, Oregon.  In Spring [YEAR], the band released their 10-track debut album, Reachin'.\n",
-      "With the number of markets available to the band limited by the vast expanse of the American west, in the fall of [YEAR], FGC made the decision to relocate to Chicago, Illinois.  Since then, the band has pursued an [GENRE] band\" exposure opportunities, and high-profile appearances at festivals like [PERSON_NAME_FIRST_0]fest, the 10,000 Lakes Festival, and [PERSON_NAME_FULL_0_MALE] in Chillicothe, IL.\n"
+      "[BAND_NAME] (FGC) started out in [MONTH] [YEAR] when Adam Lewis (guitar) and [PERSON_NAME_FULL_2_MALE] (keyboards) met [MONTH]is Wallin (bass) and [PERSON_NAME_FULL_0_MALE] (drums) while studying music at the Musician's Institute in Los Angeles, California.  It wasn't long before they recorded their first demo recording and began performing throughout Southern California. The band began touring quite a bit throughout the Western U.S. with regular appearances in [PERSON_NAME_FIRST_1] Diego, [PERSON_NAME_FULL_1_FEMALE], and Portland, Oregon.  In Spring [YEAR], the band released their 10-track debut album, Reachin'.\n",
+      "With the number of markets available to the band limited by the vast expanse of the American west, in the fall of [YEAR], FGC made the decision to relocate to Chicago, Illinois.  Since then, the band has pursued an aggressive touring schedule that has included headlining performances, [SONG_NAME] exposure opportunities, and high-profile appearances at festivals like [PERSON_NAME_FIRST_0]fest, the 10,000 Lakes Festival, and [PERSON_NAME_FULL_0_FEMALE] in Chillicothe, IL.\n"
    ]
 }

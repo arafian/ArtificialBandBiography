@@ -39,8 +39,14 @@
          "John Viavattine"
       ]
    },
+   "albums": [
+      "Streamline",
+      "The Alchemist and the Arsonist",
+      "Decade Array Vol. 01",
+      "Decade Array Vol. 02"
+   ],
    "prunedData": [
-      "[BAND_NAME], formerly known as Streamline, is an [GENRE] band originally from Rochester, New York. They have released two independent EPs. The band consists of Mike Hogan, [PERSON_NAME_FULL_2_MALE], Andrew Gaultier, [PERSON_NAME_FULL_1_MALE], and Buck Langston. [PERSON_NAME_FULL_3_MALE], John Viavattine, [PERSON_NAME_FULL_0_MALE], and Brad Ourso are former members. After a stint in Los Angeles, California, [BAND_NAME] now officially operates from Baton Rouge, Louisiana.\n",
+      "[BAND_NAME], formerly known as Streamline, is an [GENRE] band originally from Rochester, New York. They have released two independent EPs. The band consists of Mike Hogan, [PERSON_NAME_FULL_0_MALE], Andrew Gaultier, [PERSON_NAME_FIRST_3] [PERSON_NAME_FIRST_0]es, and Buck Langston. [PERSON_NAME_FULL_1_MALE], John Viavattine, [PERSON_NAME_FULL_2_MALE], and Brad Ourso are former members. After a stint in Los Angeles, California, [BAND_NAME] now officially operates from Baton Rouge, Louisiana.\n",
       "[BAND_NAME] has played with bands including Switchfoot, Daughtry, Theory Of A Deadman, Seether, and [PERSON_NAME_FULL_0_MALE].\n",
       "Streamline began in Rochester in [YEAR] with vocalist/guitarist Mike Hogan and keyboardist [PERSON_NAME_FULL_0_MALE]. The two were later joined by bassist John Viavattine and the group eventually moved to Los Angeles.\n"
    ]

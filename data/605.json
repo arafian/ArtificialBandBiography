@@ -26,6 +26,16 @@
          "Kyoko 'Kyon' Morita"
       ]
    },
+   "albums": [
+      "Mirage on the Ice",
+      "Wings of Fire",
+      "Labyrinth in My Heart",
+      "Wild and Innocent",
+      "Mirage",
+      "Gambler",
+      "Sweet Illusion",
+      "Ever-lasting Blue"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Japan still active today.  Their latest release is  Ever-lasting Blue.\n"
    ]

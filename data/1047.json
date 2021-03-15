@@ -5,8 +5,9 @@
       "Umoja Orchestra was a strong presence in the Gainesville music. The band was especially known for its energetic, crowd-pleasing, and dance-oriented live performances, usually selling out local venues and putting on spectacular shows. They have gone on three national tours, mostly through the East Coast, but as far as Texas. The name \"Umoja\" comes from the Swahili word for \"unity\".\n"
    ],
    "infobox": {},
+   "albums": [],
    "prunedData": [
       "The [BAND_NAME] was a [GENRE] band whose music incorporated elements from afrobeat, jazz, funk, afro-cuban as well as traditional African, Caribbean and South American styles like salsa and merengue. The band's instrumentation was modeled closely to bands such as Fela Kuti's Africa 70 and the Antibalas Afrobeat Orchestra.\n",
-      "[BAND_NAME] was a [GENRE] band was especially known for its energetic, crowd-pleasing, and dance-oriented live performances, usually selling out local venues and putting on spectacular shows. They have gone on three national tours, mostly through the East Coast, but as far as Texas. The name \"Umoja\" comes from the Swahili word for \"unity\".\n"
+      "[BAND_NAME] was a [GENRE] band was especially known for its energetic, crowd-pleasing, and dance-oriented live performances, usually selling out local venues and putting on spectacular shows. They have gone on three national tours, mostly through the East Coast, but as far as Texas. The name [SONG_NAME].\n"
    ]
 }

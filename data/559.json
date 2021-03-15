@@ -29,9 +29,20 @@
          "Florian \"Torturer\" Klein"
       ]
    },
+   "albums": [
+      "Dark Metal",
+      "Dictius Te Necare",
+      "Sardonischer Untergang im Zeichen irreligiöser Darbietung",
+      "Schatten aus der Alexander Welt",
+      "Mein Weg",
+      "A Sacrificial Offering to the Kingdom of Heaven in a Cracked Dog's Ear",
+      "Hexakosioihexekontahexaphobia",
+      "Bethlehem",
+      "Lebe Dich Leer"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Grevenbroich, formed in [YEAR] by [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_1_MALE]. Before starting [BAND_NAME], [PERSON_NAME_LAST_0] and [PERSON_NAME_LAST_1] used to play in a German thrash metal band Morbid Vision. Many of their lyrics revolve around sickness, morbidity, suicide, death and madness, and may to some extent be personal to the band.\n",
-      "[BAND_NAME] was formed by [PERSON_NAME_FULL_1_MALE] in [YEAR]. They recorded a few demos in the early 90s before releasing their debut album \"Dark Metal\" in [YEAR], which featured [PERSON_NAME_FULL_5_MALE] on vocals. On their second full-length album Dictius Te Necare (Latin: You must/should kill yourself), [PERSON_NAME_LAST_5] was replaced with [PERSON_NAME_FULL_2_MALE] on vocals (known as the bass player in the German death metal band Pavor). [PERSON_NAME_LAST_2]'s vocals were particularly extreme, described by critics and fans alike as \"one of the sickest and most extreme voices you'll ever hear from a human being\". On S.U.I.Z.I.D. his place is taken by [MONTH]co Kehren from the band Deinonychus. Guido Meyer de Voltaire, the vocalist from Schatten aus der [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_3_FEMALE], is also well known with his band Aardvarks. [PERSON_NAME_FULL_5_MALE], vocalist on Dark Metal also did vocals for Shining (primary vocalist [PERSON_NAME_FULL_4_MALE] also provided vocals for [BAND_NAME] on the album A Sacrificial Offering to the Kingdom of Heaven in a Cracked Dog's Ear), Dark Creation (German band), Paragon Belial, Made of Iron, Kadathorn, Darkened Nocturn Slaughtercult. Over the years [BAND_NAME] modernized their style and so the early black and doom metal influences are now hardly present, the band favouring a more Neue Deutsche Härte (New German Hardness) and electronic approach. In [YEAR] [BAND_NAME] collaborated on the soundtrack for the American underground movie Gummo with the tracks \"Schuld Uns'res Knöcherigen Faltpferds\" and \"Verschleierte Irreligiösität\".\n",
+      "[BAND_NAME] is a [GENRE] band from Grevenbroich, formed in [YEAR] by [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_0_MALE]. Before starting [BAND_NAME], [PERSON_NAME_LAST_1] and [PERSON_NAME_LAST_0] used to play in a German thrash metal band Morbid Vision. Many of their lyrics revolve around sickness, morbidity, suicide, death and madness, and may to some extent be personal to the band.\n",
+      "[BAND_NAME] was formed by [PERSON_NAME_FULL_3_MALE] in [YEAR]. They recorded a few demos in the early 90s before releasing their debut album [SONG_NAME].\n",
       "\n"
    ]
 }

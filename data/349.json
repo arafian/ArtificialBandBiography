@@ -35,9 +35,15 @@
          "Randy Bowman"
       ]
    },
+   "albums": [
+      "Incorrect Thoughts",
+      "No Wishes, No Prayers",
+      "New Dark Age Parade",
+      "Same Thoughts, Different Day"
+   ],
    "prunedData": [
       "The [BAND_NAME] are a [GENRE] band formed in Vancouver, British Columbia, Canada in [YEAR].\n",
-      "Known by pejorative, punk rock nicknames, original members were known simply as \"Useless\" ([PERSON_NAME_FULL_0_MALE]), \"Dimwit\" (Ken Montgomery), \"Wimpy\" ([PERSON_NAME_FULL_1_MALE]) and \"Normal\" (Mike Graham).\n",
+      "Known by pejorative, punk rock nicknames, original members were known simply as [SONG_NAME] (Mike Graham).\n",
       "Dimwit quit the band shortly after their first 7\" was released to join the Pointed Sticks and was replaced by [PERSON_NAME_FULL_0_MALE], also known as [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0], on drums.\n"
    ]
 }

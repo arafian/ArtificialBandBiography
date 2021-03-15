@@ -35,9 +35,19 @@
          "Mike Scap"
       ]
    },
+   "albums": [
+      "Hot Rize",
+      "Radio Boogie",
+      "The French Way",
+      "Traditional Ties",
+      "Untold Stories",
+      "Shades Of The Past",
+      "Take It Home",
+      "When I'm Free"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band that rose to prominence in the early [YEAR]s. Established in [YEAR], [BAND_NAME] has appeared on national radio and TV shows, and has toured most of the United States, as well as Japan, Europe and Australia.\n",
-      "[BAND_NAME] started performing [MONTH] 18, [YEAR], with Tim O'Brien on mandolin and fiddle, [PERSON_NAME_FULL_0_MALE] on banjo, Charles Sawtelle on bass and [PERSON_NAME_FULL_1_MALE] on guitar. [PERSON_NAME_LAST_1] left the band with Nick Forster (electric bass) joining in [MONTH], thereby allowing Sawtelle to switch to acoustic guitar. That established the four-man line-up that lasted over 20 years: O'Brien on mandolin, fiddle and lead vocals, Forster on electric bass, harmony vocals, and emcee work, Sawtelle, on guitar and occasional lead vocals, and [PERSON_NAME_LAST_0] as \"Dr. Banjo\".\n",
+      "[BAND_NAME] started performing [MONTH] 18, [YEAR], with Tim O'Brien on mandolin and fiddle, [PERSON_NAME_FULL_0_MALE] on banjo, Charles Sawtelle on bass and [PERSON_NAME_FULL_1_MALE] on guitar. [PERSON_NAME_LAST_1] left the band with Nick Forster (electric bass) joining in [MONTH], thereby allowing Sawtelle to switch to acoustic guitar. That established the four-man line-up that lasted over 20 years: O'Brien on mandolin, fiddle and lead vocals, Forster on electric bass, harmony vocals, and emcee work, Sawtelle, on guitar and occasional lead vocals, and [PERSON_NAME_LAST_0] as [SONG_NAME].\n",
       "Their first, self-titled album was recorded in [YEAR] with follow-up Radio Boogie, released in [YEAR].\n"
    ]
 }

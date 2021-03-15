@@ -30,9 +30,10 @@
          "Sassan Scott Zaker"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band noted for its tight, high energy dance shows, exploration of music across genres and devoted fan base. Named by Billboard Magazine as one of \"five up-and-coming jam bands that could draw audiences to the festivals of tomorrow\", Roster has toured nationally and played over 550 gigs in the last four years. The band's music blends elements of a wide variety of genres, including reggae, rock, funk, and jazz, although the band describes its sound as \"Funky Reggae Dance Rock\".  After the departure of founding member Drew Preiner, the band renamed themselves \"[PERSON_NAME_FULL_0_FEMALE].\" [PERSON_NAME_FULL_0_FEMALE] (Steele, Mullenburg, Peterson, and Daum) played a handful of shows in the winter of [YEAR]–[YEAR], before breaking up in early-mid [YEAR]. Their final show was performed on [MONTH] 10, [YEAR], and was held at The Popcorn in La Crosse, Wisconsin.\n",
+      "[BAND_NAME] was an [GENRE] band noted for its tight, high energy dance shows, exploration of music across genres and devoted fan base. Named by Billboard Magazine as one of [SONG_NAME] [PERSON_NAME_FULL_0_FEMALE] (Steele, Mullenburg, Peterson, and Daum) played a handful of shows in the winter of [YEAR]–[YEAR], before breaking up in early-mid [YEAR]. Their final show was performed on [MONTH] 10, [YEAR], and was held at The Popcorn in La Crosse, Wisconsin.\n",
       "Roster used Kickstarter to jumpstart its latest album Through Space & Time. Through an [GENRE] band raised over $10,000 from fans to complete the album.\n",
-      "In an [GENRE] band provides their albums as \"name-your-price\" downloads on their website.\n"
+      "In an [GENRE] band provides their albums as [SONG_NAME] downloads on their website.\n"
    ]
 }

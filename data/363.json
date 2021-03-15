@@ -2,8 +2,8 @@
    "Name": "Dayglo Abortions",
    "rawData": [
       "The Dayglo Abortions (sometimes abbreviated to DGA) are a Canadian hardcore punk and metal band from Victoria, British Columbia. Their lyrics reflect a genre-typical disregard for societal norms. The band was formed in 1979 and released a first album in 1981. The band has sold 500,000+ copies worldwide since their first release. The band's biography, Argh Fuck Kill: The Story of the Dayglo Abortions, by the author Chris Walter, was published in 2010 by Gofuckyerself Press. Gymbo Jak, the lead singer from 1994 to 2007, also sang for the Toronto-based Maximum RNR.\n",
-      "In 1988, a police officer in Nepean, Ontario, instigated a criminal investigation of the Dayglos after his daughter brought home a copy of Here Today, Guano Tomorrow. Obscenity charges were laid against the Dayglo Abortion's record label, Fringe Product, (carried by Alternative Tentacles in the US and embroiling Dead Kennedys frontman Jello Biafra in the battle for freedom of speech) and the label's record store, Record Peddler, but those charges were cleared in 1990.\n",
-      "Two albums featured in the resulting trial, the covers and the lyrical content being showcased by the prosecution. Here Today, Guano Tomorrow had a cover showing a picture of a hamster eating from a box of chocolates on nice satin sheets, along with a glass of wine, while a hand points a gun at the hamster; the back cover shows a depiction of the resulting carnage. The band's previous album, Feed Us a Fetus, was perhaps a little less graphic, with a depiction of a baked fetus on the table in front of Ronald and Nancy Reagan.\n"
+      "The band is known for its graphic album covers. In 1988, a police officer in Nepean, Ontario, instigated a criminal investigation of the Dayglos after his daughter brought home a copy of Here Today, Guano Tomorrow. Obscenity charges were laid against the Dayglo Abortion's record label, Fringe Product, (carried by Alternative Tentacles in the US and embroiling Dead Kennedys frontman Jello Biafra in the battle for freedom of speech) and the label's record store, Record Peddler, but those charges were cleared in 1990.\n",
+      "On their 2004 album, the Dayglos showed a new-found political awareness. Holy Shiite has song titles such as \"America Eats Her Young\", \"Christina Bin Laden\", \"Scientology\", and \"Where's Bin Laden?\".\n"
    ],
    "infobox": {
       "Origin": [
@@ -28,9 +28,22 @@
          "Blind Marc"
       ]
    },
+   "albums": [
+      "Out of the Womb",
+      "Feed Us a Fetus",
+      "Here Today, Guano Tomorrow",
+      "Two Dogs Fucking - Deux Chiens Fourrent",
+      "Little Man in the Canoe",
+      "Corporate Whores",
+      "Stupid World, Stupid Songs",
+      "Death Race 2000",
+      "Holy Shiite",
+      "Live 2011 AD",
+      "Armageddon Survival Guide"
+   ],
    "prunedData": [
       "The [BAND_NAME] (sometimes abbreviated to DGA) are a [GENRE] band from Victoria, British Columbia. Their lyrics reflect a genre-typical disregard for societal norms. The band was formed in [YEAR] and released a first album in [YEAR]. The band has sold 500,000+ copies worldwide since their first release. The band's biography, Argh Fuck Kill: The Story of the [BAND_NAME], by the author [PERSON_NAME_FULL_0_MALE], was published in [YEAR] by Gofuckyerself Press. Gymbo Jak, the lead singer from [YEAR] to [YEAR], also sang for the Toronto-based Maximum RNR.\n",
-      "In [YEAR], a [GENRE] a criminal investigation of the Dayglos after his daughter brought home a copy of Here Today, Guano Tomorrow. Obscenity charges were laid against the Dayglo Abortion's record label, Fringe Product, (carried by Alternative Tentacles in the US and embroiling Dead Kennedys frontman Jello Biafra in the battle for freedom of speech) and the label's record store, Record Peddler, but those charges were cleared in [YEAR].\n",
-      "Two albums featured in the resulting trial, the covers and the lyrical content being showcased by the prosecution. Here Today, Guano Tomorrow had a [GENRE] a picture of a hamster eating from a box of chocolates on nice satin sheets, along with a glass of wine, while a hand points a gun at the hamster; the back cover shows a depiction of the resulting carnage. The band's previous album, Feed Us a Fetus, was perhaps a little less graphic, with a depiction of a baked fetus on the table in front of Ronald and Nancy Reagan.\n"
+      "The band is known for its graphic album covers. In [YEAR], a [GENRE] a criminal investigation of the Dayglos after his daughter brought home a copy of Here Today, Guano Tomorrow. Obscenity charges were laid against the Dayglo Abortion's record label, Fringe Product, (carried by Alternative Tentacles in the US and embroiling Dead Kennedys frontman Jello Biafra in the battle for freedom of speech) and the label's record store, Record Peddler, but those charges were cleared in [YEAR].\n",
+      "On their [YEAR] album, the Dayglos showed a new-found political awareness. Holy Shiite has song titles such as [SONG_NAME].\n"
    ]
 }

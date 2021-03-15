@@ -49,9 +49,22 @@
          "Havoc"
       ]
    },
+   "albums": [
+      "Sventevith (Storming Near the Baltic)",
+      "Grom",
+      "Pandemonic Incantations",
+      "Satanica",
+      "Thelema.6",
+      "Zos Kia Cultus (Here and Beyond)",
+      "Demigod",
+      "The Apostasy",
+      "Evangelion",
+      "The Satanist",
+      "I Loved You at Your Darkest"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Gdańsk, formed in [YEAR]. They are considered to have played an important role in establishing the [GENRE] underground.\n",
-      "Until the late [YEAR]s, the band played a traditional black metal style with heathen lyrical content, but soon changed to that of occult and thelemic themes written by their lead vocalist Nergal and [PERSON_NAME_FULL_0_MALE]. With the [YEAR] release of Satanica, the band demonstrated their presence in the death metal scene, while retaining their own signature style characterized by the drum work of Inferno and multi-layered vocals. Despite [BAND_NAME] having been labeled as death metal or thrash metal-influenced, Nergal has mentioned that he does not like the band to be labeled.\n",
+      "Until the late [YEAR]s, the band played a traditional black metal style with heathen lyrical content, but soon changed to that of occult and thelemic themes written by their lead vocalist Nergal and [PERSON_NAME_FULL_1_MALE]. With the [YEAR] release of Satanica, the band demonstrated their presence in the death metal scene, while retaining their own signature style characterized by the drum work of Inferno and multi-layered vocals. Despite [BAND_NAME] having been labeled as death metal or thrash metal-influenced, Nergal has mentioned that he does not like the band to be labeled.\n",
       "[BAND_NAME] was formed in [YEAR] as a trio, with Nergal on guitar and vocals, Baal on the drums, and Desecrator on the guitar. They started with the demos Endless Damnation, and The Return of the Northern Moon. The most significant however, was the fourth demo—...From the Pagan Vastlands ([YEAR]). This tape was released by Polish label Pagan Records, and later on through Wild Rags. Their next release was Sventevith (Storming Near the Baltic) in [YEAR]. A year later, they recorded their second album Grom, which was released in [YEAR]. Grom features many different influences and musical styles, using female vocals as well as acoustic guitars and synthesizers. At the same time, [BAND_NAME] finally got a chance to play live shows in its native country and finally tour around Europe, gaining stage experience. Two years later, the band recorded a third album, titled Pandemonic Incantations. The culmination of their increasing presence and metal media set a new standard for them. However, due to a lack of promotion, the album was not well-publicized. After another extensive tour, [BAND_NAME] signed a two-album deal with Italy's Avantgarde Music in the fall of [YEAR]. The first result of this new collaboration was the successful album Satanica, on which the black metal sound had evolved into blackened death metal.\n"
    ]
 }

@@ -33,9 +33,10 @@
          "Jim Hobbs"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] was a [GENRE] band, formed in Vancouver in [YEAR]. Previously, the band was known as After All and Grin Factory. Signed to the Reprise label, the band reached a greater audience once their song \"Greedy\" was featured on the soundtrack album Songs from the Cool World, and the single \"Blast\" reached No. 22 on Billboard's Modern Rock chart in [YEAR].\n",
-      "The band's original members were singer Jordy Birch, guitarist [PERSON_NAME_FULL_0_MALE], bass guitarist [PERSON_NAME_FULL_1_MALE] and drummer Leigh Grant. Grant was replaced in [YEAR] by [PERSON_NAME_FULL_2_MALE]. [MONTH]k R. Henning played keyboards, but left in [YEAR].\n",
-      "[BAND_NAME] was discovered at Vancouver's Music West Conference in [YEAR], when they went there to showcase their demo, impressing amongst others, an [GENRE] band's song \"Greedy\" was used in the Ralph Bakshi animated movie Cool World.\n"
+      "[BAND_NAME] was a [GENRE] band, formed in Vancouver in [YEAR]. Previously, the band was known as After All and Grin Factory. Signed to the Reprise label, the band reached a greater audience once their song [SONG_NAME] reached No. 22 on Billboard's Modern Rock chart in [YEAR].\n",
+      "The band's original members were singer Jordy Birch, guitarist [PERSON_NAME_FULL_2_MALE], bass guitarist [PERSON_NAME_FULL_0_MALE] and drummer Leigh Grant. Grant was replaced in [YEAR] by [PERSON_NAME_FULL_1_MALE]. [MONTH]k R. Henning played keyboards, but left in [YEAR].\n",
+      "[BAND_NAME] was discovered at Vancouver's Music West Conference in [YEAR], when they went there to showcase their demo, impressing amongst others, an [GENRE] band's song [SONG_NAME] was used in the Ralph Bakshi animated movie Cool World.\n"
    ]
 }

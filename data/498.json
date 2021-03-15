@@ -27,9 +27,14 @@
          "Nathan Ball"
       ]
    },
+   "albums": [
+      "Southbound Fearing",
+      "Bad Dreams and Melodies",
+      "Undefeated"
+   ],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band, who primarily plays Christian alternative rock with rock and roll. They come from Toledo, Ohio. The band started making music in [YEAR].  They have released three studio albums and two extended plays, with Red Cord Records. The group have charted eight songs on the Billboard magazine Christian rock songs chart.\n",
       "They formed in [MONTH] [YEAR] in Toledo, Ohio, while their members are lead vocalist and guitarist, Brady Leonard, leading guitarist, [PERSON_NAME_FULL_1_MALE], bassist, [PERSON_NAME_FIRST_1] Nelson Wheatley, and drummer, [PERSON_NAME_FULL_0_MALE]. The group are a [GENRE] band, where they play a rock and roll style of Christian alternative rock inspirational music. Their group got the name from a street in their hometown.\n",
-      "The band commenced as a musical entity in [MONTH] [YEAR], with their first extended play, The Arduous Task, that was released on [MONTH] 16, [YEAR], with Red Cord Records. Their song, \"Miles\", peaked at No. 17 on the Billboard magazine [PERSON_NAME_FIRST_0] rock chart. The subsequent extended play, Safe and Sound, was released on [MONTH] 30, [YEAR], from Red Cord Records. They released, [BAND_NAME], on [MONTH] 2, [YEAR], with Red Cord Records. Their songs, \"Irresistible\" and \"Fighting Words\", peaked on the Billboard magazine [PERSON_NAME_FULL_0_MALE] chart, at Nos. 6 and 9, correspondingly. The third studio album, Bad Dreams and Melodies, was released by Record Cord Records, on [MONTH] 9, [YEAR]. This album saw three songs, \"The Love That Never Fails\", \"I Heard the River\", and \"Vale Tudo\", peak on the Billboard magazine [PERSON_NAME_FIRST_0] rock songs chart, at Nos. 10, 17, and 21, respectively. Their subsequent studio album, Undefeated, was released on [MONTH] 27, [YEAR], from Red Cord Records. This album got two singles, \"Easy Way Out\" and \"Brave New World\", to chart on the Billboard magazine [PERSON_NAME_FIRST_0] rock chart, where they peaked at Nos. 6 and 7, correspondingly.\n"
+      "The band commenced as a musical entity in [MONTH] [YEAR], with their first extended play, The Arduous Task, that was released on [MONTH] 16, [YEAR], with Red Cord Records. Their song, [SONG_NAME], to chart on the Billboard magazine [PERSON_NAME_FIRST_0] rock chart, where they peaked at Nos. 6 and 7, correspondingly.\n"
    ]
 }

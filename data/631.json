@@ -26,8 +26,9 @@
          "Kirsten Nordine"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] were an [GENRE] band consisting of Heather Lynn and [PERSON_NAME_FULL_0_FEMALE], both of whom sing and play keyboards, with Lynn also playing tambourine. They formed their band in the spring of [YEAR], playing on vintage Casio keyboards purchased at garage sales.  They write pop songs which one of their labels described as combining \"infectious hooks with 'dear diary' lyrics\".  They are originally from Grayslake, Illinois.\n",
+      "[BAND_NAME] were an [GENRE] band consisting of Heather Lynn and [PERSON_NAME_FULL_0_FEMALE], both of whom sing and play keyboards, with Lynn also playing tambourine. They formed their band in the spring of [YEAR], playing on vintage Casio keyboards purchased at garage sales.  They write pop songs which one of their labels described as combining [SONG_NAME].  They are originally from Grayslake, Illinois.\n",
       "On the band's website, Lynn commented on their start and early success:\n",
       "Nordine and Lynn traveled to Cincinnati, Ohio to record their first album, [BAND_NAME] Are Gonna Get You, a [GENRE] a record contract.\n"
    ]

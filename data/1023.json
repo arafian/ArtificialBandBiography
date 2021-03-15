@@ -24,6 +24,7 @@
          "Lorin Rowan"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band consisting of David Gans, [PERSON_NAME_FULL_0_MALE] and Lorin [PERSON_NAME_LAST_0].\n",
       "The band’s origins are somewhat serendipitous. An impromptu rendition of “Baby’s In Black” during a [GENRE] an entire afternoon of jamming, one Beatles' tune after another. The Rowan brothers’ background in bluegrass and folk rock flavored David’s deadhead jam-band stylings to produce a result all three knew was useful.\n",

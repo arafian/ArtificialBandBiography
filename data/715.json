@@ -41,8 +41,16 @@
          "Linda McDonald on Myspace"
       ]
    },
+   "albums": [
+      "Phantom Blue",
+      "My Misery",
+      "Built to Perform",
+      "Prime Cuts & Glazed Donuts",
+      "Caught Live!",
+      "Full Blown"
+   ],
    "prunedData": [
-      "[BAND_NAME] is the drummer of the all-female tribute band The Iron Maidens (billed as the \"World's Only Female Tribute to Iron Maiden\"). In addition, she was a [GENRE] band The Little Dolls (billed as \"All Female, All Ozzy, All The Time...Covering All Eras Of Ozzy\") and the cover bands Valley Dolls, Crabby Patty (I'm So Unclear!) and Unholy Pink. Prior to those works, McDonald was the drummer/co-founder of the all-female heavy metal band Phantom Blue from its inception in [YEAR] to its demise in [YEAR].\n",
+      "[BAND_NAME] is the drummer of the all-female tribute band The Iron Maidens (billed as the [SONG_NAME]) and the cover bands Valley Dolls, Crabby Patty (I'm So Unclear!) and Unholy Pink. Prior to those works, McDonald was the drummer/co-founder of the all-female heavy metal band Phantom Blue from its inception in [YEAR] to its demise in [YEAR].\n",
       "Of Irish and Japanese descent, [BAND_NAME] was inspired to take up instruments after listening to her brother's copy of Iron Maiden's Maiden Japan live EP. While she took up piano, guitar and violin, her self-taught drumming skills stood out the most.\n",
       "Following a [GENRE] a three-piece female band called Andromeda, McDonald became a founding member of Phantom Blue. And while the band found some success with their self-titled debut album in [YEAR], the rest of their career was marred by instability with management, record labels and numerous personnel changes. By the late [YEAR]s, McDonald was the only original member of Phantom Blue. Their last recording was the EP Full Blown ([YEAR]) before they went their separate ways in [YEAR].\n"
    ]

@@ -5,8 +5,13 @@
       "The band has released three CDs: Jam Camp (1990), Black Hills Jam: Preserves Vol.2 (2004) and Jam Camp Live! (2006).\n"
    ],
    "infobox": {},
+   "albums": [
+      "Jam Camp Live!",
+      "Black Hills Jam - Preserves Vol. II",
+      "Jam Camp"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in the Seattle, WA area of the Pacific Northwest. The band includes: David Broyles (guitar), [PERSON_NAME_FULL_2_MALE] (saxophone), Michael \"Smitty\" Smith (guitar), Jess White (bass), and [PERSON_NAME_FULL_1_MALE] (drums). The result of regular studio-based jam sessions in the late [YEAR]s, the project was officially dubbed [BAND_NAME] in [YEAR] (a reference to camping in the studio for the debut disc's recording session). This band creates fusionesque rock-improv in the vein of The Allman Brothers, Zappa, Crimson, Soft Machine, [PERSON_NAME_FULL_0_MALE] and Traffic - bands that influenced more than a few of their [YEAR]s jam band contemporaries. Known for their improvisational skills, [BAND_NAME] records in the studio straight to disc, embracing a \"live\" feel-based approach to music appealing to fans of Progressive rock, Classic rock, Jazz and Jam alike. \n",
+      "[BAND_NAME] is an [GENRE] band based in the Seattle, WA area of the Pacific Northwest. The band includes: David Broyles (guitar), [PERSON_NAME_FULL_1_MALE] (saxophone), Michael [SONG_NAME] feel-based approach to music appealing to fans of Progressive rock, Classic rock, Jazz and Jam alike. \n",
       "The band has released three CDs: [BAND_NAME] ([YEAR]), Black Hills Jam: Preserves Vol.2 ([YEAR]) and [BAND_NAME] Live! ([YEAR]).\n"
    ]
 }

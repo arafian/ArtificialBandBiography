@@ -16,11 +16,11 @@
          "pop rock"
       ],
       "Years active": [
-         "2012–present"
+         "2012–2019 (hiatus)"
       ],
       "Labels": [
          "Up-Front Works",
-         "Zetima (2015–)"
+         "Zetima (2015–2019)"
       ],
       "Website": [
          "lovendor.jp"
@@ -34,6 +34,7 @@
          "Marin Miyazawa"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] (ラベンダー, Rabendā, stylized as LoVendoЯ) is a [GENRE] band.\n",
       "The band was formed in [YEAR] around Morning Musume member [PERSON_NAME_FULL_1_FEMALE]. Originally there were four members: [PERSON_NAME_FULL_1_FEMALE] (vocals), [MONTH]ina Okada (vocals), [PERSON_NAME_FULL_0_FEMALE] (guitar), [MONTH]in Miyazawa (guitar).\n",

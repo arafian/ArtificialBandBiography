@@ -26,9 +26,17 @@
          "Johanna Asplund"
       ]
    },
+   "albums": [
+      "C'mon Let's Pretend",
+      "Jennie Bomb",
+      "Kiss & Tell",
+      "What If Leaving Is a Loving Thing",
+      "Sparks",
+      "Sahara Hotnights"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Robertsfors, Sweden. Their style incorporates elements of garage rock, power pop and punk.\n",
-      "The band formed sometime around [YEAR]/[YEAR], \"due to boredom\". While in Australia, [PERSON_NAME_FULL_0_FEMALE] bet on a horse named [BAND_NAME] and used the name for the band. Around [YEAR], they won a \"battle of the bands\" contest and were awarded with a chance to record their songs in studio. Their debut EP, Suits Anyone Fine, was released in [YEAR] to immediate success and critical acclaim in Europe. Soon afterwards, the band signed with the Swedish label Speech Records, and over the next two years released three further singles, \"Face Wet\", \"Oh Darling!\", and \"Nothing Yet\".  In [YEAR], [BAND_NAME] released their debut studio album C'mon Let's Pretend, which earned two Grammis nominations.\n",
-      "The Drive Dead Slow EP appeared in [MONTH] [YEAR], released on the BMG label, before the band's second album [PERSON_NAME_FIRST_0] Bomb (named for [PERSON_NAME_FULL_0_FEMALE]) was released in [YEAR] ([YEAR] in America). The timing of its release coincided with a [GENRE] bands, such as The Hives, The (International) Noise Conspiracy, Mando Diao and Hellacopters. The songs \"On Top Of Your World\" and \"With Or Without Control\" were released as singles. \"Alright Alright (Here's My Fist Where's The Fight?)\" is featured in Cheaper by the Dozen, Stormbreaker, New York Minute and on the Jackass: The Movie soundtrack.\n"
+      "The band formed sometime around [YEAR]/[YEAR], [SONG_NAME].  In [YEAR], [BAND_NAME] released their debut studio album C'mon Let's Pretend, which earned two Grammis nominations.\n",
+      "The Drive Dead Slow EP appeared in [MONTH] [YEAR], released on the BMG label, before the band's second album [PERSON_NAME_FIRST_0] Bomb (named for [PERSON_NAME_FULL_0_FEMALE]) was released in [YEAR] ([YEAR] in America). The timing of its release coincided with a [GENRE] bands, such as The Hives, The (International) Noise Conspiracy, Mando Diao and Hellacopters. The songs [SONG_NAME] is featured in Cheaper by the Dozen, Stormbreaker, New York Minute and on the Jackass: The Movie soundtrack.\n"
    ]
 }

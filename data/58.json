@@ -48,9 +48,12 @@
          "Derek Prine"
       ]
    },
+   "albums": [
+      "Deafheaven / Bosse-de-Nage"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band formed in [YEAR]. Originally based in San Francisco, the group began as a two-piece with singer George Clarke and guitarist [PERSON_NAME_FULL_0_FEMALE], who recorded and self-released a demo album together. Following its release, [BAND_NAME] recruited three new members and began to tour. Before the end of [YEAR], the band signed to Deathwish Inc. and later released their debut album Roads to Judah, in [MONTH] [YEAR]. A follow-up album, Sunbather, was released in [YEAR] to wide critical acclaim, becoming one of the best reviewed albums of the year in the United States. In [YEAR] the band released their third album, New Bermuda, and in [YEAR] their fourth, Ordinary Corrupt Human Love.\n",
-      "[BAND_NAME]'s musical style has been described by Rolling Stone as a [GENRE] band's sound, including alternative rock and early thrash metal, and said they do not consider themselves a black metal band, because, although influenced by the genre, they do not have \"the ethos, the aesthetic or really the sound of one\". In a [YEAR] interview with Red Bull Music Academy Daily, McCoy stated: \"The whole shoegaze/black metal, or post-black metal thing, was being done ten years before we were a band.\"\n",
+      "[BAND_NAME]'s musical style has been described by Rolling Stone as a [SONG_NAME]\n",
       "[BAND_NAME] formed in [MONTH] [YEAR] in San Francisco, California with vocalist George Clarke and guitarist [PERSON_NAME_FULL_0_FEMALE], who previously performed in the grindcore band Rise of Caligula together. Clarke is not sure how he arrived on the name [BAND_NAME], though he is aware of its appearance in William Shakespeare's Sonnet 29. The two words 'deaf' and 'heaven' were combined as a [GENRE]"
    ]
 }

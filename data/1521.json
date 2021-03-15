@@ -36,9 +36,17 @@
          "Chuck Hahn"
       ]
    },
+   "albums": [
+      "The Bright Orange Years",
+      "All-Night Lotus Party",
+      "Bumper Crop",
+      "Farced",
+      "Thing of Beauty",
+      "Career in Rock"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band from Boston, Massachusetts formed by Mission of Burma drummer Peter Prescott in [YEAR].\n",
-      "The band was founded in Spring [YEAR] by former Mission of Burma and Molls drummer Peter Prescott, the only founding member of the Suns to remain until their break-up in [YEAR]. Prescott had auditioned for the position of drummer with Disneyland, but took two of that band's members to form [BAND_NAME]; The other original members were [PERSON_NAME_FULL_0_MALE] and Steve Michener who would leave after a few months, before the release of the first Suns album, to form Big Dipper. Prescott then added [PERSON_NAME_FULL_3_MALE] on bass guitar and Jon Williams on guitar. This second line-up created the band's debut album The Bright Orange Years ([YEAR]),  as well as its follow-up, All-Night Lotus Party ([YEAR]), both released on the now-defunct Homestead Records. In [YEAR], Bob Weston and [PERSON_NAME_FULL_2_MALE] replaced [PERSON_NAME_LAST_3] and Williams respectively for Bumper Crop, the band's final release on Homestead. Other contributors included [PERSON_NAME_FULL_1_MALE] on piano and [PERSON_NAME_FULL_0_MALE] on sitar.\n",
-      "In [YEAR], the band moved to [PERSON_NAME_FULL_0_MALE]'s SST Records for their 4th release, Farced. The line-up however was the same as on Bumper Crop, including Miller on piano and Waleik on sitar. [YEAR] brought their most experimental release, Thing of Beauty, also on SST, on which [PERSON_NAME_FULL_1_MALE] (formerly from the band Sorry) replaced Chuck Hahn on guitar. This would be the [BAND_NAME]' final line up. The band moved to Chicago-based indie label Quarterstick Records for their final release, Career in Rock in [YEAR]. The album was engineered by [PERSON_NAME_FULL_2_MALE], who would later work with Bob Weston in their band Shellac.\n"
+      "The band was founded in Spring [YEAR] by former Mission of Burma and Molls drummer Peter Prescott, the only founding member of the Suns to remain until their break-up in [YEAR]. Prescott had auditioned for the position of drummer with Disneyland, but took two of that band's members to form [BAND_NAME]; The other original members were [PERSON_NAME_FULL_0_MALE] and Steve Michener who would leave after a few months, before the release of the first Suns album, to form Big Dipper. Prescott then added [PERSON_NAME_FULL_1_MALE] on bass guitar and Jon Williams on guitar. This second line-up created the band's debut album The Bright Orange Years ([YEAR]),  as well as its follow-up, All-Night Lotus Party ([YEAR]), both released on the now-defunct Homestead Records. In [YEAR], Bob Weston and [PERSON_NAME_FULL_3_MALE] replaced [PERSON_NAME_LAST_1] and Williams respectively for Bumper Crop, the band's final release on Homestead. Other contributors included [PERSON_NAME_FULL_2_MALE] on piano and [PERSON_NAME_FULL_0_MALE] on sitar.\n",
+      "In [YEAR], the band moved to [PERSON_NAME_FULL_0_MALE]'s SST Records for their 4th release, Farced. The line-up however was the same as on Bumper Crop, including Miller on piano and Waleik on sitar. [YEAR] brought their most experimental release, Thing of Beauty, also on SST, on which [PERSON_NAME_FULL_2_MALE] (formerly from the band Sorry) replaced Chuck Hahn on guitar. This would be the [BAND_NAME]' final line up. The band moved to Chicago-based indie label Quarterstick Records for their final release, Career in Rock in [YEAR]. The album was engineered by [PERSON_NAME_FULL_1_MALE], who would later work with Bob Weston in their band Shellac.\n"
    ]
 }

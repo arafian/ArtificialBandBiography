@@ -25,8 +25,17 @@
          "Shenjing"
       ]
    },
+   "albums": [
+      "Yellow Banana",
+      "Di Di Di",
+      "For Every Punk Bitch and Arsehole",
+      "Foxy Lady",
+      "No More Nice Girls",
+      "Kiss Kiss, Bang Bang",
+      "Oracles"
+   ],
    "prunedData": [
-      "[BAND_NAME] (known also as HOTB) is a [GENRE] band based in Beijing. They were China's first all-female [GENRE] band. The band usually sings about sex and relationship issues in a forward political manner. Their record label is Sister Benten Online, based in Japan. The band consists of the following line-up: [PERSON_NAME_FULL_1_FEMALE], known as Gia [PERSON_NAME_FIRST_1], on vocals, Yilina playing bass, [PERSON_NAME_FULL_2_MALE] playing guitar, and Shenjing on drums.\n",
+      "[BAND_NAME] (known also as HOTB) is a [GENRE] band based in Beijing. They were China's first all-female [GENRE] band. The band usually sings about sex and relationship issues in a forward political manner. Their record label is Sister Benten Online, based in Japan. The band consists of the following line-up: [PERSON_NAME_FULL_2_FEMALE], known as Gia [PERSON_NAME_FIRST_2], on vocals, Yilina playing bass, [PERSON_NAME_FULL_0_FEMALE] playing guitar, and Shenjing on drums.\n",
       "At [BAND_NAME]'s first performance at Beijing's Scream Club in [YEAR], their songs did not have lyrics and only high-pitched screeching accompanied their power chords. They were featured on the cover the local edition of Newsweek six months later.\n",
       "Their music could be described as cheerful and hilarious, deadly serious, and personally political. Most of the questionable content involved comes in the form of native Chinese speakers using English commonplace epithets.\n"
    ]

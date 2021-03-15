@@ -30,6 +30,12 @@
          "Charlie Zeleny, Weasel Walter"
       ]
    },
+   "albums": [
+      "Skullgrid",
+      "Horrorscension",
+      "Cognitive Emancipation",
+      " Hapeleptic Overtrove "
+   ],
    "prunedData": [
       "Behold… The Arctopus is an [GENRE] band from Brooklyn, New York, formed in [YEAR].\n",
       "Behold The Arctopus was formed by Colin [MONTH]ston and Mike Lerner, who had been playing guitar together for over a [GENRE] a drummer. Their demo We Need a Drummer (on which a drum machine was used) was picked up by drummer [PERSON_NAME_FULL_0_MALE]. [PERSON_NAME_LAST_0] met Lerner and [MONTH]ston and impressed the duo. He was immediately asked to join the band.\n",

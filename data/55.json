@@ -31,9 +31,34 @@
          "Miles Davis"
       ]
    },
+   "albums": [
+      "¡Consolidated!",
+      "The Myth of Rock",
+      "Dysfunctional",
+      "This Is a Collective",
+      "Friendly Fa$cism",
+      "Brutal Equation",
+      "Unity of Oppression",
+      "This Is Fascism",
+      "Play More Music",
+      "Tool and Die",
+      "You Suck / Crackhouse",
+      "Warning: Explicit Lyrics",
+      "Business of Punishment",
+      "Butyric Acid",
+      "Dropped",
+      "Tikkun (Survivor Demos)",
+      "The End of Meaning",
+      "Free Music or Stockpiled Death",
+      "Free Music! Stop America!",
+      "Fock Songs: Music from the Fockumentary \"Free Music! Stop America!\"",
+      "2012: The End of Times, The End of Bands",
+      "The Sound of How People Could Be to Each Other",
+      "We're Already There"
+   ],
    "prunedData": [
       "[BAND_NAME] was an American radical activist music group, formed in [YEAR] and best known in the early [YEAR]s as an alternative dance/industrial music band. Between [YEAR] and [YEAR], their instrumental style evolved from industrial, to hip-hop, to hard rock and funk with mixtures of live instruments and electronic instruments. They were distinguished by left-leaning political activism and politically radical lyrics, as well as their innovative sonic collages which blended industrial and hip-hop styles.\n",
-      "Their music often focused on vegetarianism, women's rights, animal rights, fighting racism and homophobia, the unity of oppression, World War II and the Holocaust, the dangers of capitalism, and the evils of American nationalism. Although often criticized as having strident and confrontational lyrics, [BAND_NAME] tempered the intensity of their songs with many instances of self-deprecating humor.  They admitted to their own struggles with addressing complex social issues within the constraining structures of pop music, an [GENRE] a mass audience with progressive messages of social justice.\n",
-      "Their signature song, \"[BAND_NAME]\", contained the mission statement \"[BAND_NAME] is not even a [GENRE] band.  It is a unique creative vision of a small isolated group of individuals. A team that's skilled and dedicated.  Searching for the knowledge that will enable them to improve the quality of their lives and the lives of those around them.\"\n"
+      "Their music often focused on vegetarianism, women's rights, animal rights, fighting racism and homophobia, the unity of oppression, World War II and the Holocaust, the dangers of capitalism, and the evils of American nationalism. Although often criticized as having strident and confrontational lyrics, [BAND_NAME] tempered the intensity of their songs with many instances of self-deprecating humor.  They admitted to their own struggles with addressing complex social issues within the constraining structures of pop music, an artistic form they referred to as [SONG_NAME] but explained that they did so because they felt that it might be their only chance to reach a mass audience with progressive messages of social justice.\n",
+      "Their signature song, [SONG_NAME]\n"
    ]
 }

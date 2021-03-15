@@ -24,6 +24,7 @@
          " Gaylord Birch"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] was a band formed in [YEAR] by John Kahn initially to occupy him while [PERSON_NAME_FULL_0_MALE], his long-time musical collaborator, was busy with the Grateful Dead.  The band's original guitar player was [PERSON_NAME_FIRST_0] Miller, best known for performing with Moby Grape. In [MONTH] [YEAR], [PERSON_NAME_LAST_0] took over guitar duties officially.\n",
       "The band performed while the Grateful Dead was on a brief hiatus, switching keyboard players from [PERSON_NAME_FULL_0_MALE] to Brent Mydland, and continued well into [YEAR]. The band varied its styles from previous Garcia/Kahn/Saunders collaborations to more of a disco and jazz sound.\n",

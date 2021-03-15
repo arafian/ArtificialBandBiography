@@ -50,8 +50,9 @@
          "Jim Allard"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in Chicago, Illinois. They serve as a tribute band to the rock group the Grateful Dead. Since [YEAR], the band has been \"celebrating the Grateful Dead concert experience.\"\n",
+      "[BAND_NAME] is a [GENRE] band formed in Chicago, Illinois. They serve as a tribute band to the rock group the Grateful Dead. Since [YEAR], the band has been [SONG_NAME]\n",
       "[BAND_NAME] performs shows from among the nearly 2,500 performances of the Grateful Dead during their 30-year tenure as fathers of improvisational rock. On most, though not all of their performances, [BAND_NAME] presents the complete original set list, song by song, and in order, while adapting their phrasing, voice arrangements and specific musical equipment for the various eras of the Grateful Dead shows in which they perform.\n",
       "Members of the Grateful Dead themselves, including rhythm guitarist/singer Bob Weir, bassist [PERSON_NAME_FULL_1_MALE], drummer Bill Kreutzmann, vocalist [PERSON_NAME_FULL_2_FEMALE], and keyboardists [PERSON_NAME_FULL_0_MALE] and Tom Constanten, have all appeared on stage and performed with [BAND_NAME]. In [MONTH] [YEAR], the group played its 2,000th show in Ithaca, New York.\n"
    ]

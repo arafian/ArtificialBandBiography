@@ -5,8 +5,16 @@
       "This article on a United States band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ],
    "infobox": {},
+   "albums": [
+      "3.19.98",
+      "Black Rainbow",
+      "The Sore Thumb",
+      "Angel's Trumpets and Devil's Trombones",
+      "The Average Guy",
+      "Sickness and Health"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band, formed in [YEAR], and is signed to Gold Standard Laboratories. The group's sound incorporates elements of hardcore punk and heavy metal, and their live shows have been noted for their ferocity. After 3.19.98 in [YEAR], in [YEAR] the band released Black Rainbow, and their third LP was [YEAR]'s Angel's Trumpets and Devil's Trombones. The band famously designed the iconic \"Salvation\" sign at Silverlake Lounge.\n",
+      "[BAND_NAME] is a [GENRE] band, formed in [YEAR], and is signed to Gold Standard Laboratories. The group's sound incorporates elements of hardcore punk and heavy metal, and their live shows have been noted for their ferocity. After 3.19.98 in [YEAR], in [YEAR] the band released Black Rainbow, and their third LP was [YEAR]'s Angel's Trumpets and Devil's Trombones. The band famously designed the iconic [SONG_NAME] sign at Silverlake Lounge.\n",
       "This article on a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

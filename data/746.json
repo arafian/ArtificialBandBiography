@@ -32,9 +32,10 @@
          "Kat Buell"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from San Francisco, considered one of the first queercore groups. The band took their name from the practice of tribadism, a \"tribe eight\" being a play on the word tribade, a sexual practice sometimes also known as \"scissoring.\"\n",
-      "The makeup of the group changed over time, but [PERSON_NAME_FULL_0_FEMALE] and [PERSON_NAME_FULL_2_FEMALE] (formerly of Anti-Scrunti Faction) were consistent members. Other members included Flipper (Silas Howard), Slade Bellum, [PERSON_NAME_FULL_3_FEMALE], Mama T, [PERSON_NAME_FULL_1_FEMALE], and Tantrum.\n",
-      "In concert, lead singer Breedlove frequently performed shirtless, wearing a [GENRE] band was the subject of controversy because of this. An article from the Chicago Tribune praised their Fireside Bowl show in [YEAR] stating \"If the members of [BAND_NAME] play punk rock like they own it, it's only because they do.\"\n"
+      "[BAND_NAME] was a [GENRE] band from San Francisco, considered one of the first queercore groups. The band took their name from the practice of tribadism, a [SONG_NAME]\n",
+      "The makeup of the group changed over time, but [PERSON_NAME_FULL_2_FEMALE] and [PERSON_NAME_FULL_1_FEMALE] (formerly of Anti-Scrunti Faction) were consistent members. Other members included Flipper (Silas Howard), Slade Bellum, [PERSON_NAME_FULL_0_FEMALE], Mama T, [PERSON_NAME_FULL_3_FEMALE], and Tantrum.\n",
+      "In concert, lead singer Breedlove frequently performed shirtless, wearing a [GENRE] band was the subject of controversy because of this. An article from the Chicago Tribune praised their Fireside Bowl show in [YEAR] stating [SONG_NAME]\n"
    ]
 }

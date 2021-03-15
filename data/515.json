@@ -32,9 +32,10 @@
          "Jeremy Ervin"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] (formerly known as Easier Said) were an [GENRE] band from Fayetteville, Arkansas, United States. Musically, [BAND_NAME] fuses elements of Christian punk, Christian rock, Alternative Contemporary Christian, pop punk, ska, piano rock, and post-hardcore with their pop rock base. The band was signed to independent Brave New World Records, but the label was closed in [YEAR]; leaving the band with no label.\n",
-      "The band has toured with the likes of Thousand Foot Krutch, Love and Death, Bachman–Turner Overdrive, Bleach, John Reuben, The Goodnight Fight, Last Tuesday, Number One Gun, Anberlin, Spoken, Disciple, The O.C. Supertones, Superchic, The Fold, House of Heroes and Falling Up. Their debut album, [BAND_NAME] was produced by [MONTH]k Lee Townsend and featured several of their songs which became Christian radio hits, including \"Move This City\" and \"Song for the Broken\". Their sophomore effort Polarity peaked at No. 41 on the United States Billboard Christian Albums chart and No. 26 on the Heatseekers chart.\n",
+      "The band has toured with the likes of Thousand Foot Krutch, Love and Death, Bachman–Turner Overdrive, Bleach, John Reuben, The Goodnight Fight, Last Tuesday, Number One Gun, Anberlin, Spoken, Disciple, The O.C. Supertones, Superchic, The Fold, House of Heroes and Falling Up. Their debut album, [BAND_NAME] was produced by [MONTH]k Lee Townsend and featured several of their songs which became Christian radio hits, including [SONG_NAME]. Their sophomore effort Polarity peaked at No. 41 on the United States Billboard Christian Albums chart and No. 26 on the Heatseekers chart.\n",
       "After former singer [PERSON_NAME_FULL_1_MALE] got married, he departed the band. [PERSON_NAME_FULL_0_MALE] filled in for him on vocals until their current singer, Matt Shelton, formerly of Letter Kills, joined.\n"
    ]
 }

@@ -28,9 +28,15 @@
          "Paul Bostaph"
       ]
    },
+   "albums": [
+      "Demonstration, vol. 1",
+      "Demonstration, vol. 2",
+      "Somewhere in Between",
+      "Pleasure to Burn"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band from Oakland, California. They were one of the first signings to Metallica drummer [PERSON_NAME_FULL_0_MALE]'s record label, The Music Company, via Elektra Records. The band released two studio albums before disbanding in [YEAR].\n",
       "After signing with The Music Company, [BAND_NAME] recorded their debut album, Somewhere in Between. Released in late [YEAR], it reached #143 in Billboard album chart. [BAND_NAME] toured on Ozzfest the same year. In addition, the band appeared in HBO's live concert program Reverb alongside Papa Roach and Beautiful Creatures.\n",
-      "During the music video shoot for the song \"Deep Colors Bleed,\" drummer [PERSON_NAME_FULL_0_MALE] injured his arm, forcing him to step down from his duties behind the kit. After a few temporary fill-in drummers, former Slayer drummer Paul Bostaph joined [BAND_NAME] in [YEAR]. The video game \"ATV Offroad Fury 2\" released on [MONTH] 9, [YEAR] featured the band's song \"Thick Skin\". Somewhere in this time period, Nick St. Denis also left the band due to his desire to play guitar instead of bass. Bassist Johnny Chow filled the void, and the group headed to the studio to record their follow-up to Somewhere in Between.\n"
+      "During the music video shoot for the song [SONG_NAME]. Somewhere in this time period, Nick St. Denis also left the band due to his desire to play guitar instead of bass. Bassist Johnny Chow filled the void, and the group headed to the studio to record their follow-up to Somewhere in Between.\n"
    ]
 }

@@ -25,9 +25,10 @@
          "Amber Hillen"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from Southern Indiana active from [YEAR] to [YEAR].  The band was formerly known, with an adjusted roster, as \"Stuff.\"\n",
-      "Formed in early [YEAR] under the name of \"Stuff,\" the band consisted of members [PERSON_NAME_FULL_0_FEMALE], Chris Billings, brothers Andy and [PERSON_NAME_FULL_1_MALE], and Dustin Sanders, all members of a [GENRE] band began to play at a nearby Christian coffeehouse called the Solid Rock Cafe as an opening act for more notable bands, including Satellite Soul and Just Visiting (now known as the award-winning, world-renowned group The Elms.)  Eventually the group began performing solo and headlining their own shows at the Solid Rock Cafe, as well as performing shows at various teen-oriented Christian clubs and coffeehouses across Southern Indiana.  In the spring of [YEAR], because of personal conflict between the members of the band, coupled with tensions between the group and the church leadership that brought them together, the group canceled its upcoming gigs and declared an \"indefinite hiatus\" and Stuff stopped performing.\n",
-      "In fall of [YEAR], the group reformed (with lead singer Regina Mullikan replacing Pieratt) and began performing again, with an edgier, less conservative sound and lyrics that incorporated more adult topics, including suicide, teenage pregnancy, relationships, drug and alcohol abuse, and other obstacles encountered by teenagers and young adults growing up in the midwest United States.  It was during this time they took the name [BAND_NAME], suggested by Andy for its meaning and the related imagery of \"spreading the word and the faith\"\n"
+      "[BAND_NAME] was a [GENRE] band from Southern Indiana active from [YEAR] to [YEAR].  The band was formerly known, with an adjusted roster, as [SONG_NAME]\n",
+      "Formed in early [YEAR] under the name of [SONG_NAME] and Stuff stopped performing.\n",
+      "In fall of [YEAR], the group reformed (with lead singer Regina Mullikan replacing Pieratt) and began performing again, with an edgier, less conservative sound and lyrics that incorporated more adult topics, including suicide, teenage pregnancy, relationships, drug and alcohol abuse, and other obstacles encountered by teenagers and young adults growing up in the midwest United States.  It was during this time they took the name [BAND_NAME], suggested by Andy for its meaning and the related imagery of [SONG_NAME]\n"
    ]
 }

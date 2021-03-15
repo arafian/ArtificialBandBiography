@@ -26,9 +26,10 @@
          "Matt Keegan - Saxophone"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band,  formed in [YEAR] in Los Angeles, California.  The band is perhaps best known for winning Rolling Stone's award for the Best College Band in America contest in [YEAR].   The band bested over 1,000 other college bands from across the country to win the award.\n",
-      "[BAND_NAME] was formed in [YEAR] by Ross Grant, [PERSON_NAME_FULL_1_MALE], Brian Fox and [PERSON_NAME_FULL_2_MALE], who were all college students studying music at UCLA.  While in school, the band released their first CD, entitled \"Pod\".  After entering and winning Rolling Stone's MUSICOMANIA: Best College Band in America award in [YEAR], [BAND_NAME] used the contest's prize money to create its demo CD, entitled Rest Assured.  [PERSON_NAME_FULL_0_FEMALE], known for discovering and managing Jewel, became their manager and brought [BAND_NAME]'s album to legendary A&R man, [MONTH]k Williams, at Interscope Records.  In [YEAR], [BAND_NAME] released their debut self-titled CD under Interscope's label.\n",
+      "[BAND_NAME] was formed in [YEAR] by Ross Grant, [PERSON_NAME_FULL_0_MALE], Brian Fox and [PERSON_NAME_FULL_1_MALE], who were all college students studying music at UCLA.  While in school, the band released their first CD, entitled [SONG_NAME].  After entering and winning Rolling Stone's MUSICOMANIA: Best College Band in America award in [YEAR], [BAND_NAME] used the contest's prize money to create its demo CD, entitled Rest Assured.  [PERSON_NAME_FULL_2_FEMALE], known for discovering and managing Jewel, became their manager and brought [BAND_NAME]'s album to legendary A&R man, [MONTH]k Williams, at Interscope Records.  In [YEAR], [BAND_NAME] released their debut self-titled CD under Interscope's label.\n",
       "[BAND_NAME] built a [GENRE] band members.  The band developed a loyal following in California and elsewhere, with fans freely sharing live bootlegs from the band's various shows.\n"
    ]
 }

@@ -44,6 +44,12 @@
          "Quino Jimenez"
       ]
    },
+   "albums": [
+      "Edens in Communion",
+      "Chrysalis",
+      "The Second Philosophy",
+      "A New Constellation"
+   ],
    "prunedData": [
       "NahemaH was a [GENRE] band from Alicante, Spain, that was formed in [YEAR]. Since then, they have released four albums. [BAND_NAME] are currently signed to Lifeforce Records.\n",
       "[BAND_NAME] was formed in [YEAR] in Alicante, Spain. In [YEAR], their debut album, Edens in Communion, was independently released. In [YEAR], being signed to Iberian Moon Records, [BAND_NAME] released their second album, Chrysalis. The album received positive feedback and was re-released by Concreto Records. [BAND_NAME] also were an [GENRE] bands such as Moonspell and Alastis.\n",

@@ -43,8 +43,33 @@
          "Alex Wharton"
       ]
    },
+   "albums": [
+      "Music for Films About Rock",
+      "Champs",
+      "Triumph of the Air Elementals",
+      "Champs",
+      "Some Swords",
+      "Second 7\"",
+      "The Drug Album",
+      "The Champs",
+      "III",
+      "C4AM95",
+      "Split",
+      "The Champs",
+      "IV",
+      "The Fucking Champs",
+      "Double Exposure",
+      "TransChamps",
+      "V",
+      "Wantage USA's 21st Release Hits Omnibus",
+      "Greatest Hits",
+      "Gold",
+      "The Fucking Am",
+      "VI",
+      "Civilization-EP"
+   ],
    "prunedData": [
-      "[BAND_NAME] are a [GENRE] band from San Francisco, California. They are known for their heavy metal sound, based largely around shifting time signatures, guitar harmonies, and plentiful rhythm. Most songs are instrumental. They are currently signed to Drag City. They have also collaborated with Trans Am and the two have recorded albums together as TransChamps and The Fucking Am.  Founded in Santa Cruz in the early [YEAR]s, the band was initially called The Champs, but added the \"Fucking\" to their name – following a brief stint as The Champs UK – because The Champs had been used by a band in the late [YEAR]s.\n",
+      "[BAND_NAME] are a [GENRE] band from San Francisco, California. They are known for their heavy metal sound, based largely around shifting time signatures, guitar harmonies, and plentiful rhythm. Most songs are instrumental. They are currently signed to Drag City. They have also collaborated with Trans Am and the two have recorded albums together as TransChamps and The Fucking Am.  Founded in Santa Cruz in the early [YEAR]s, the band was initially called The Champs, but added the [SONG_NAME] to their name – following a brief stint as The Champs UK – because The Champs had been used by a band in the late [YEAR]s.\n",
       "Tim Green was a [GENRE] bands through his own Louder Studios.\n",
       "Drummer [PERSON_NAME_FULL_0_MALE] was the singer/guitarist of San Diego mod revivalists The Event and guitarist/vocalist for Santa Cruz band Tail Dragger.\n"
    ]

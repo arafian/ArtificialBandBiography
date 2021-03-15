@@ -31,9 +31,14 @@
          "Annagram"
       ]
    },
+   "albums": [
+      "Lesbians on Ecstasy",
+      "Giggles in the Dark",
+      "We Know You Know"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band formed in [YEAR] in Montreal, Quebec.\n",
-      "The band toured across Canada and the U.S. with Le Tigre before the release of their first recording.\nThe first album, the self-titled [BAND_NAME] was released on [MONTH] 26, [YEAR]. In [YEAR], the song from this recording entitled \"Bitchsy\", a re-take of the Fifth Column song \"All Women Are Bitches,\"  was featured on the TV series Queer as Folk. That same year, [BAND_NAME] was chosen as the \"Album of the Year\" by U.S. magazine The Advocate. \n",
-      "In the summer of [YEAR], the band released their follow-up recording Giggles in the Dark, an LP of [BAND_NAME] remixes by Le Tigre, Scream Club, Tracy and the Plastics, Kids on TV (featuring [PERSON_NAME_FULL_1_FEMALE]), 1-Speed Bike, DJ AÏ, [PERSON_NAME_FULL_2_FEMALE] (formerly of Team Dresch), Katastrophe and [PERSON_NAME_FULL_0_MALE]. Additional remixes were available for download on the web site by French producer Electrosexual, and Branx. The band's third full-length release, entitled We Know You Know came out in the spring of [YEAR].\n"
+      "The band toured across Canada and the U.S. with Le Tigre before the release of their first recording.\nThe first album, the self-titled [BAND_NAME] was released on [MONTH] 26, [YEAR]. In [YEAR], the song from this recording entitled [SONG_NAME] by U.S. magazine The Advocate. \n",
+      "In the summer of [YEAR], the band released their follow-up recording Giggles in the Dark, an LP of [BAND_NAME] remixes by Le Tigre, Scream Club, Tracy and the Plastics, Kids on TV (featuring [PERSON_NAME_FULL_2_FEMALE]), 1-Speed Bike, DJ AÏ, [PERSON_NAME_FULL_0_FEMALE] (formerly of Team Dresch), Katastrophe and [PERSON_NAME_FULL_1_MALE]. Additional remixes were available for download on the web site by French producer Electrosexual, and Branx. The band's third full-length release, entitled We Know You Know came out in the spring of [YEAR].\n"
    ]
 }

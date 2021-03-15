@@ -40,9 +40,21 @@
          "Rober"
       ]
    },
+   "albums": [
+      "46 Cabezas Aplastadas por un Yunque Oxidado",
+      "Realmente Disfruto Comiendo Cadáveres",
+      "Carne de Cementerio",
+      "Trono de Huesos",
+      "The Maggot Sessions",
+      "Horror Grind",
+      "Dead...in the Raw!",
+      "Sinfonías del Terror Ciego",
+      "Ultratumba",
+      "Mundo Cripta"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band from A Coruña, Spain formed in [YEAR]. They were one of the few surviving bands from the Spanish underground extreme music scene of the nineties.\n",
       "[BAND_NAME] were formed in A Coruña, Spain in [YEAR] as a [GENRE] bands from the area.  Initially, they were more noisecore-oriented than grindcore. They recorded two demos, 46 Cabezas Aplastadas por un Yunque Oxidado in [YEAR], and Realmente Disfruto Comiendo Cadáveres in [YEAR].  The latter was an international underground success, and in [YEAR] was remastered by the American label Fudgeworthy Records.\n",
-      "At this point [BAND_NAME] stopped being a [GENRE] a band in its own right, although line-up problems forced them to continue with only two members.  They recorded their first album Carne de Cementerio in [YEAR], which was released by Razorback Records.  After this they released numerous split singles. With Dopi as the sole surviving original member together with the new guitarist [PERSON_NAME_FULL_0_MALE], [BAND_NAME] recorded their second full length, Trono de Huesos ([YEAR]). In this work the band gives tribute to the seminal grind sound in a work in the vein of bands like Carcass or Repulsion.  After the recording of Trono de Huesos [BAND_NAME] created a more stable line-up, that still exists today:  Dopi (drums and vocals); Carlos \"Cadaver\" (bass and vocals); and [PERSON_NAME_FULL_0_MALE] (guitar).\n"
+      "At this point [BAND_NAME] stopped being a [GENRE] a band in its own right, although line-up problems forced them to continue with only two members.  They recorded their first album Carne de Cementerio in [YEAR], which was released by Razorback Records.  After this they released numerous split singles. With Dopi as the sole surviving original member together with the new guitarist [PERSON_NAME_FULL_1_MALE], [BAND_NAME] recorded their second full length, Trono de Huesos ([YEAR]). In this work the band gives tribute to the seminal grind sound in a work in the vein of bands like Carcass or Repulsion.  After the recording of Trono de Huesos [BAND_NAME] created a more stable line-up, that still exists today:  Dopi (drums and vocals); Carlos [SONG_NAME] (bass and vocals); and [PERSON_NAME_FULL_1_MALE] (guitar).\n"
    ]
 }

@@ -43,6 +43,16 @@
          "Jacob Steuer"
       ]
    },
+   "albums": [
+      "Songs From the Valley Below",
+      "KFOG Local Scene 7",
+      "Songs From the Valley Below (Reissue)",
+      "The Village",
+      "The Headwinds",
+      "Beneath the Brine",
+      "Prelude to War",
+      "The War: Act I"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band based in San Francisco. The band is made up of seven core members and several hundred additional members who actively participate in recordings, live performances, and other creative projects.\n",
       "The brainchild of frontman Liam McCormick, [BAND_NAME] began as a recording project in [YEAR] that aimed to connect a community of people through a musical platform. Using flyers, personal contacts, Craigslist and other forms of outreach, McCormick and co-founder [PERSON_NAME_FULL_0_MALE] recorded nearly 100 people for the project throughout Northern California.  After completing the majority of recording in the fall of [YEAR], McCormick and [PERSON_NAME_LAST_0] elected to continue the project by forming a live band.\n",

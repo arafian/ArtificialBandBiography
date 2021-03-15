@@ -35,6 +35,13 @@
          "Joe Vickers"
       ]
    },
+   "albums": [
+      "The Four Trees",
+      "Tertia",
+      "Waking Season",
+      "Dust and Disquiet",
+      "On Circles"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Beverly, Massachusetts, United States.\n",
       "[BAND_NAME] loosely formed in Autumn of [YEAR] in Beverly, Massachusetts, developing material through the first year of its existence, recording a demo in [MONTH] [YEAR] and performing a small number of shows in late [YEAR] and early [YEAR], including support for the Japanese post-rock band Mono. The band's first performance took place at The Pickled Onion in Beverly, Massachusetts on [MONTH] 26, [YEAR]. At the time the band had not yet chosen the name [BAND_NAME] and was looking for a vocalist.\n",

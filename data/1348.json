@@ -28,9 +28,13 @@
          "Willie Gardner"
       ]
    },
+   "albums": [
+      "Under Influence",
+      "That Summer!"
+   ],
    "prunedData": [
       "[BAND_NAME] were a [GENRE] band founded in late [YEAR], following the demise of PVC2 (formerly the bubbleglam and soft rock band Slik).\n",
       "PVC2 consisted of Midge Ure (future Ultravox frontman) on guitar, Russell Webb on bass, Billy McIsaac on keyboards and [PERSON_NAME_FULL_0_MALE] on drums. In late [YEAR], Ure left PVC2 to join Rich Kids with [PERSON_NAME_FULL_1_MALE]. Then, Webb, [PERSON_NAME_LAST_0] and McIsaac called in Alex Harvey's cousin [PERSON_NAME_FULL_2_MALE] to replace Ure on guitar and vocals, and [BAND_NAME] was formed.\n",
-      "In [MONTH] [YEAR], [BAND_NAME] released a [GENRE] band recording a session for his show. It also drew the attention of Arista Records, who signed them and would release the rest of their discography.\n"
+      "In [MONTH] [YEAR], [BAND_NAME] released a single [SONG_NAME], which attracted the attention of BBC Radio 1 DJ John Peel, leading to the band recording a session for his show. It also drew the attention of Arista Records, who signed them and would release the rest of their discography.\n"
    ]
 }

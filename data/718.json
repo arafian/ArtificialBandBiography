@@ -29,9 +29,15 @@
          "Nina Martin"
       ]
    },
+   "albums": [
+      "Flutterboard",
+      "Mass Teen Fainting",
+      "Predicts the Future",
+      "This Day Won't Last At All"
+   ],
    "prunedData": [
-      "[BAND_NAME] was a [GENRE] band formed in [YEAR] in Halifax which consisted of sisters Carla and [PERSON_NAME_FULL_0_FEMALE], [PERSON_NAME_FULL_1_FEMALE], Nina [MONTH]tin, and later Catriona Sturton. The band achieved moderate success during their seven years of activity, completing several tours of Canada and parts of the U.S., as well as releasing three full-length albums, a six track EP, and various singles, before finally disbanding in [MONTH] [YEAR]. The band is notable for their top single, \"Scott Pilgrim\", having been the inspiration for the title character in [PERSON_NAME_FULL_2_MALE] O'Malley's graphic novel series of the same name.\n",
-      "The band formed in their hometown of Halifax, [MONTH]a Scotia in [YEAR] after meeting through their music teachers. The original line-up included [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] (aged 14) on drums, [PERSON_NAME_FULL_0_FEMALE] (16) on guitar and vocals, [PERSON_NAME_FULL_2_FEMALE] (15) on guitar and vocals and Nina [MONTH]tin (16) on bass and occasional vocals.\n",
+      "[BAND_NAME] was a [GENRE] band formed in [YEAR] in Halifax which consisted of sisters Carla and [PERSON_NAME_FULL_1_FEMALE], [PERSON_NAME_FULL_0_FEMALE], Nina [MONTH]tin, and later Catriona Sturton. The band achieved moderate success during their seven years of activity, completing several tours of Canada and parts of the U.S., as well as releasing three full-length albums, a six track EP, and various singles, before finally disbanding in [MONTH] [YEAR]. The band is notable for their top single, [SONG_NAME], having been the inspiration for the title character in [PERSON_NAME_FULL_2_MALE] O'Malley's graphic novel series of the same name.\n",
+      "The band formed in their hometown of Halifax, [MONTH]a Scotia in [YEAR] after meeting through their music teachers. The original line-up included [PERSON_NAME_FULL_1_FEMALE] (aged 14) on drums, [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_1] (16) on guitar and vocals, [PERSON_NAME_FULL_0_FEMALE] (15) on guitar and vocals and Nina [MONTH]tin (16) on bass and occasional vocals.\n",
       "As children the Gillis siblings developed an interest in heavy metal music. Carla took guitar lessons and Lynette studied drumming. They played at home until [YEAR] when they recruited others to form a band. Their first band played their junior high school talent show with a setlist made up mostly of Jimi Hendrix and Iron Maiden covers. The original group subsequently broke up. Braden and [MONTH]tin joined the band soon after and the band developed a collaborative songwriting method. [BAND_NAME] played their first show at Halifax's all-ages Cafe Ole in [MONTH] [YEAR].\n"
    ]
 }

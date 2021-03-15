@@ -6,9 +6,10 @@
       "\"At that time everyone in New York had a band,\" Jarmusch recalled in an interview for The Washington Post (1984). \"The idea was that you didn't have to be a virtuoso musician to have a band. The spirit was more important than having technical expertise, and that influenced a lot of filmmakers.\" According to Sante, they were \"a band that insouciantly blended high and low, virtuosity and amateurism, calypso and science fiction, pots and pans and drones and the Supremes. They released several records, on a British label, which did very well in the former Yugoslavia.\"\n"
    ],
    "infobox": {},
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] was a [GENRE] band active in the early [YEAR]s. The band comprised Phil Kline (vocals, guitar); [PERSON_NAME_FULL_4_MALE] (vocals, keyboards); [PERSON_NAME_FULL_3_MALE] (bass); Josh [PERSON_NAME_LAST_2] (percussion, drums); and [PERSON_NAME_FULL_2_MALE] (drums, percussion). [PERSON_NAME_FULL_1_MALE] wrote the lyrics to some of their songs, while James Nares sometimes contributed as a percussionist, and occasionally [PERSON_NAME_FULL_0_MALE] performed with them on stage.\n",
-      "They released a 12\" EP: Girl's Imagination ([YEAR]), an LP: Lies to Live By ([YEAR]), and a 7\" single: Draft Riot ([YEAR]). In [YEAR]-86 they recorded two more songs (\"The Last Time\" and \"Fascination\"), which were never finished or officially released.\n",
-      "\"At that time everyone in New York had a [GENRE] an interview for The Washington Post ([YEAR]). \"The idea was that you didn't have to be a virtuoso musician to have a band. The spirit was more important than having technical expertise, and that influenced a lot of filmmakers.\" According to Sante, they were \"a band that insouciantly blended high and low, virtuosity and amateurism, calypso and science fiction, pots and pans and drones and the Supremes. They released several records, on a British label, which did very well in the former Yugoslavia.\"\n"
+      "[BAND_NAME] was a [GENRE] band active in the early [YEAR]s. The band comprised Phil Kline (vocals, guitar); [PERSON_NAME_FULL_1_MALE] (vocals, keyboards); [PERSON_NAME_FULL_3_MALE] (bass); Josh [PERSON_NAME_LAST_2] (percussion, drums); and [PERSON_NAME_FULL_2_MALE] (drums, percussion). [PERSON_NAME_FULL_4_MALE] wrote the lyrics to some of their songs, while James Nares sometimes contributed as a percussionist, and occasionally [PERSON_NAME_FULL_0_MALE] performed with them on stage.\n",
+      "They released a 12[SONG_NAME]), which were never finished or officially released.\n",
+      "[SONG_NAME]\n"
    ]
 }

@@ -17,7 +17,7 @@ import json
 import pandas
 from parse_infobox import parse_infobox
 from paragraph_placeholders import get_paragraph_placeholders
-
+from parse_albums import parse_albums
 
 def extractRawData(soup):
   """Inserts text into overall dictionary skeleton"""
@@ -40,14 +40,15 @@ def extractRawData(soup):
 
 def createJSONData(url):
   """Create JSON object representing wikipedia article"""
-  html = urlopen(url) 
+  html = urlopen(url)
   soup = BeautifulSoup(html, 'html.parser')
 
   extractRawData(soup)
   bandData["infobox"] = parse_infobox(soup)
+  bandData["albums"] = parse_albums(soup)
   bandData["prunedData"] = get_paragraph_placeholders(bandData)
 
-def appendToConsolidatedData(): 
+def appendToConsolidatedData():
    for key in bandData:
       if key == "rawData" or key == "prunedData":
          for i in range(len(bandData[key])):

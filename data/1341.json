@@ -6,9 +6,10 @@
       "They released their debut album, Flowers for all Occasions, on Kasper Records in 1985. It received a five-star review from Sounds, with Roger Holland describing it as a \"positively heroic album\".\n"
    ],
    "infobox": {},
+   "albums": [],
    "prunedData": [
       "[BAND_NAME], originally called Roofwrecks, were a [GENRE] band from Belfast, Northern Ireland, formed in [YEAR].\n",
-      "The band was formed in [YEAR] by Paul Burgess and [PERSON_NAME_FULL_3_MALE] at the Boys Model School in Belfast, [PERSON_NAME_LAST_3] originally acting as vocalist but sticking to bass when Ivan Kelly joined. Kelly left in [YEAR] to join London band The Wall, and was replaced by [PERSON_NAME_FULL_2_MALE]. By the time of their first release, \"One By One\" on [PERSON_NAME_FULL_1_FEMALE]'s Good Vibrations label, they had also been joined by guitarist [PERSON_NAME_FULL_0_FEMALE]. They had two hits on the UK Independent Chart, \"Capital Letters\", which reached number 31, and \"Wild Colonial Boy\" which reached number 46.\n",
-      "They released their debut album, Flowers for all Occasions, on Kasper Records in [YEAR]. It received a five-star review from Sounds, with [PERSON_NAME_FULL_0_MALE] describing it as a \"positively heroic album\".\n"
+      "The band was formed in [YEAR] by Paul Burgess and [PERSON_NAME_FULL_0_MALE] at the Boys Model School in Belfast, [PERSON_NAME_LAST_0] originally acting as vocalist but sticking to bass when Ivan Kelly joined. Kelly left in [YEAR] to join London band The Wall, and was replaced by [PERSON_NAME_FULL_2_MALE]. By the time of their first release, [SONG_NAME] which reached number 46.\n",
+      "They released their debut album, Flowers for all Occasions, on Kasper Records in [YEAR]. It received a five-star review from Sounds, with [PERSON_NAME_FULL_0_MALE] describing it as a [SONG_NAME].\n"
    ]
 }

@@ -26,6 +26,7 @@
          "Christopher Duke"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band in the [YEAR]s, headed by Stephen [BAND_NAME].\n",
       "After five years of friendship, Stephen [BAND_NAME], Dawn [PERSON_NAME_LAST_0] and [PERSON_NAME_FULL_0_MALE] played their first performance as [BAND_NAME] at a New Year's Eve show in [YEAR]. The following summer, the band entered the studio for the first time to begin recording a six-song EP for Calvary Chapel's MRC label with Ojo Taylor of Undercover producing and Derri Daugherty of The Choir engineering. Once the label heard the early results, they requested that the band record a few additional songs so that it could be released as a full-length album, instead of an EP. The album, Incandescent, was released in [MONTH] [YEAR] on Broken Records, which was classified as a new wave material.\n",

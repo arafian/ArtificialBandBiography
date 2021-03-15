@@ -32,9 +32,13 @@
          "Paul Engels"
       ]
    },
+   "albums": [
+      "Never Bow (Single)",
+      "Diverge"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia, Canada composed of vocalists and guitarists Tom Vanderkam and [PERSON_NAME_FULL_0_MALE], bassist and vocalist Chris Young, and drummer and vocalist Chartwell Kerr.\n",
-      "The band's music is most broadly categorized as Progressive Metal or Alternative Metal. However, notable Melodic Hardcore, Post-Hardcore, Symphonic Metal and Alternative Rock influences are present in their work. The band’s earlier work was often described as Math rock or \"Math-Pop\", alluding to their use of interlocking guitar riffs and highly syncopated rhythms.\n",
+      "The band's music is most broadly categorized as Progressive Metal or Alternative Metal. However, notable Melodic Hardcore, Post-Hardcore, Symphonic Metal and Alternative Rock influences are present in their work. The band’s earlier work was often described as Math rock or [SONG_NAME], alluding to their use of interlocking guitar riffs and highly syncopated rhythms.\n",
       "[BAND_NAME] embarked on their first tour of Western Canada in [MONTH] [YEAR].\n"
    ]
 }

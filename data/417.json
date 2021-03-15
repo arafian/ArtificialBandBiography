@@ -35,9 +35,14 @@
          "Dusty Beach"
       ]
    },
+   "albums": [
+      "Day of Fire",
+      "Cut & Move",
+      "Losing All"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Nashville, Tennessee. The band announced an indefinite hiatus in [MONTH] [YEAR], leaving open the possibility for a return to the music scene.  They were first signed to Essential Records, and later to Razor & Tie Records. Their last album Losing All was released [MONTH] 26, [YEAR] and was produced by Rogers Masson.\n",
       "[BAND_NAME]'s lead vocalist, Josh Brown, was formerly the vocalist for Full Devil Jacket.  Signed to Island/Def Jam Records, Full Devil Jacket enjoyed a successful, though short, career. They made one album and one EP, and toured with Nickelback and Creed.  In [YEAR], while in Full Devil Jacket, Brown nearly died of a heroin overdose but was able to recover through a drug rehabilitation program. While recording the second Full Devil Jacket album he decided to leave the music industry and turn his life around, embracing Christianity. Several years later, he started [BAND_NAME], and signed to an imprint of Sony Music.\n",
-      "[BAND_NAME]'s [YEAR] self-titled debut album featured hits like \"Cornerstone\" and \"Detainer\".  The album was produced by Scott Humphrey, who has also worked with Metallica and [PERSON_NAME_FULL_0_MALE].  It won a [GENRE] a Grammy Award.\n"
+      "[BAND_NAME]'s [YEAR] self-titled debut album featured hits like [SONG_NAME].  The album was produced by Scott Humphrey, who has also worked with Metallica and [PERSON_NAME_FULL_0_MALE].  It won a [GENRE] a Grammy Award.\n"
    ]
 }

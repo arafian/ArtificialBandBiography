@@ -30,9 +30,12 @@
          "Eric Vanzant[citation needed]"
       ]
    },
+   "albums": [
+      "A Christmas Wish List"
+   ],
    "prunedData": [
-      "[BAND_NAME] (pronounced \"Seventh Time Down\") is an [GENRE] band. Their debut album, Alive in You, was released on [MONTH] 13, [YEAR] ([YEAR]-09-13).\n",
-      "The band is from Mount Vernon, Kentucky. They have released five full-length albums and two Christmas EPs. Their biggest radio single is \"God Is on the Move\" which stayed at No. 1 for five weeks.\n",
-      "[MONTH]iah Secrest said \"it only takes about two seconds to like the band members from [BAND_NAME]. These Kentucky boys will welcome you at once with their good-natured banter and laid-back persona. But don't let them fool you. On stage, they mean business.\" They are \"Straight up rock 'n rollers, they blend classic rock tactics to make their sound aggressive with enough melodic hooks to lodge their choruses into the mind long after the show is over. They pull from the best of timeless bands such as Led Zeppelin, The Who, The Doors, AC/DC and even [PERSON_NAME_FULL_0_MALE], infusing a [GENRE]"
+      "[BAND_NAME] (pronounced [SONG_NAME]) is an [GENRE] band. Their debut album, Alive in You, was released on [MONTH] 13, [YEAR] ([YEAR]-09-13).\n",
+      "The band is from Mount Vernon, Kentucky. They have released five full-length albums and two Christmas EPs. Their biggest radio single is [SONG_NAME] which stayed at No. 1 for five weeks.\n",
+      "[MONTH]iah Secrest said [SONG_NAME]\n"
    ]
 }

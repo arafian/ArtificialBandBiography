@@ -31,9 +31,20 @@
          "Thorsten Benning"
       ]
    },
+   "albums": [
+      "Gore Motel",
+      "Midnight Radio",
+      "Sunset Mission",
+      "Black Earth",
+      "Geisterfaust",
+      "Dolores",
+      "Beileid",
+      "Piano Nights",
+      "Patchouli Blue"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Nordrhein-Westfalen, Germany.\n",
-      "The band was founded in [YEAR] in Mülheim an der Ruhr, Germany by [PERSON_NAME_FULL_1_MALE], Morten Gass, [PERSON_NAME_FULL_3_MALE] and [PERSON_NAME_FULL_2_MALE]. Originally, group members started out playing in various hardcore bands such as 7 Inch Boots and Chronical Diarrhoea. In [YEAR] they produced a crossover of jazz and ambient, which they self-described as an \"unholy ambient mixture of slow jazz ballads, Black Sabbath doom and down-tuned Autopsy sounds\". [PERSON_NAME_LAST_2] left the band in [YEAR] and was replaced by [PERSON_NAME_FULL_0_MALE] in [YEAR], replacing the guitar with a saxophone at the same time.\n",
+      "The band was founded in [YEAR] in Mülheim an der Ruhr, Germany by [PERSON_NAME_FULL_3_MALE], Morten Gass, [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_2_MALE]. Originally, group members started out playing in various hardcore bands such as 7 Inch Boots and Chronical Diarrhoea. In [YEAR] they produced a crossover of jazz and ambient, which they self-described as an [SONG_NAME]. [PERSON_NAME_LAST_2] left the band in [YEAR] and was replaced by [PERSON_NAME_FULL_1_MALE] in [YEAR], replacing the guitar with a saxophone at the same time.\n",
       "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

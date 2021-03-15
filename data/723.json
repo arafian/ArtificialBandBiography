@@ -28,6 +28,12 @@
          " Embla Karidotter Dahleng"
       ]
    },
+   "albums": [
+      "Program 91",
+      "På vei hjem",
+      "Ut til de andre",
+      "Sånn Kjennes Verden Ut"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band from Møhlenpris, Bergen with various indie rock, punk, ska and reggae influences In [YEAR], they were signed to Smalltown Supersound label and have released three albums: Program 91 (in [YEAR]), På vei hjem (in [YEAR]) and Ut til de andre (in [YEAR]).\n",
       "They sing in English and Norwegian. They are part of the Bergen music scene.\n",

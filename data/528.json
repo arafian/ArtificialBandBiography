@@ -35,9 +35,19 @@
          "Butch Rillera"
       ]
    },
+   "albums": [
+      "Redbone",
+      "Potlatch",
+      "Message from a Drum",
+      "Already Here",
+      "Wovoka",
+      "Beaded Dreams Through Turquoise Eyes",
+      "Cycles",
+      "Peace Pipe"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band originating in the [YEAR]s with brothers Pat and Lolly Vegas. They reached the Top 5 on the U.S. Billboard Hot 100 chart in [YEAR] with their single, \"Come and Get Your Love\". The single went certified Gold selling over a million copies. It also made [BAND_NAME] the first Native American band to reach the top five on the Billboard Hot 100, with the song reaching number 5. [BAND_NAME] achieved hits with their singles \"We Were All Wounded at Wounded Knee\", \"The Witch Queen of New Orleans\", \"Wovoka\", and \"Maggie\" in the United States, although these singles were more successful overseas. \n",
+      "[BAND_NAME] is a [GENRE] band originating in the [YEAR]s with brothers Pat and Lolly Vegas. They reached the Top 5 on the U.S. Billboard Hot 100 chart in [YEAR] with their single, [SONG_NAME] in the United States, although these singles were more successful overseas. \n",
       "Pat has been the sole member of the band since Lolly's death in [YEAR].\n",
-      "Born in Coalinga, California, near Fresno, brothers Patrick (bass and vocals) and Candido \"Lolly\" Vasquez-Vegas (guitar and vocals) moved to Los Angeles in [YEAR] and played for ten years in clubs under the name of Pat and Lolly Vegas. Pat won Coca-Cola's first singing competition in [YEAR] at age 17. He also won a recording contract, which he put off to move to Los Angeles with Lolly. They performed at local clubs on Hollywood and Sunset Boulevard (such as Gazzari's) while writing and playing on records by [PERSON_NAME_FULL_0_FEMALE], Sonny & Cher, James Brown, Little Richard, and Elvis, among other legendary artists.\n"
+      "Born in Coalinga, California, near Fresno, brothers Patrick (bass and vocals) and Candido [SONG_NAME] Vasquez-Vegas (guitar and vocals) moved to Los Angeles in [YEAR] and played for ten years in clubs under the name of Pat and Lolly Vegas. Pat won Coca-Cola's first singing competition in [YEAR] at age 17. He also won a recording contract, which he put off to move to Los Angeles with Lolly. They performed at local clubs on Hollywood and Sunset Boulevard (such as Gazzari's) while writing and playing on records by [PERSON_NAME_FULL_0_FEMALE], Sonny & Cher, James Brown, Little Richard, and Elvis, among other legendary artists.\n"
    ]
 }

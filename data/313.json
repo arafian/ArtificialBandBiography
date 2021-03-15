@@ -26,8 +26,23 @@
          "Lisa G."
       ]
    },
+   "albums": [
+      "Pep",
+      "Betti-Cola",
+      "Hot Dog Day",
+      "Betti-Cola",
+      "Betti-Cola",
+      "Betti-Cola",
+      "Volcano",
+      "Come Out Come Out",
+      "The Day I Said Good-bye",
+      "The Pilot",
+      "FPAP",
+      "TJ",
+      "She's Like A Rainbow"
+   ],
    "prunedData": [
-      "[BAND_NAME] (also stylized cub) was an [GENRE] band from Vancouver, British Columbia that formed in [YEAR] and disbanded in [YEAR]. They played a melodic, jangly form of pop punk that was dubbed \"cuddlecore\" by some music critics.\n",
+      "[BAND_NAME] (also stylized cub) was an [GENRE] band from Vancouver, British Columbia that formed in [YEAR] and disbanded in [YEAR]. They played a melodic, jangly form of pop punk that was dubbed [SONG_NAME] by some music critics.\n",
       "The group was emblematic of the twee pop and cuddlecore style. At their cozy, casual live shows, they sometimes played in their pajamas, and gave out presents to audience members.\n",
       "The group's original drummer, Valeria Fellini, was replaced by [PERSON_NAME_FULL_0_FEMALE] in [YEAR].\n"
    ]

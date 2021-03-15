@@ -25,6 +25,17 @@
          "Dave Amato"
       ]
    },
+   "albums": [
+      "California Metal",
+      "California Metal II",
+      "It's a Jungle Out There!",
+      "Lofcaudio",
+      "3",
+      "Revolution of Mind",
+      "It's a Jungle Out There! 20th Anniversary Edition",
+      "Revolution of Mind",
+      "3"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band formed by brothers Dino and John Elefante (former lead singer and songwriter of Kansas) in the mid-[YEAR]s. The band was formed mainly as a studio project and have released three full-length albums and two stand-alone songs on compilation albums.\n[BAND_NAME] signed with Italian label Frontiers Records in [YEAR] and release [BAND_NAME] 3.\n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."

@@ -35,8 +35,13 @@
          "Amber Coffman (guitar)"
       ]
    },
+   "albums": [
+      "Sleeping People",
+      "Growing",
+      "NOTRUF"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from San Diego, California that formed in early [YEAR]. They first started playing live at the end of that year as a trio consisting of Joileah Concepcion (guitar), [PERSON_NAME_FULL_1_FEMALE] (guitar) and [PERSON_NAME_FULL_0_MALE] (drums), with bassist Kenseth Thibideau joining the group in [YEAR]. In [YEAR], the band released their self-titled debut album through Temporary Residence records. Around that same time, guitarist Concepcion left the band due to relocation, and her friend Amber Coffman replaced her on guitar. With Coffman, the band wrote and recorded three tracks that appeared on their second album, Growing. In early [YEAR], Concepcion returned to her former position while Coffman departed to join the Dirty Projectors, and the original lineup resumed. The style of [GENRE] they play is sometimes referred to as math rock, which is characterized by complex, atypical rhythmic structures, stop/start dynamics and angular, dissonant riffs.\n",
+      "[BAND_NAME] is an [GENRE] band from San Diego, California that formed in early [YEAR]. They first started playing live at the end of that year as a trio consisting of Joileah Concepcion (guitar), [PERSON_NAME_FULL_0_FEMALE] (guitar) and [PERSON_NAME_FULL_1_MALE] (drums), with bassist Kenseth Thibideau joining the group in [YEAR]. In [YEAR], the band released their self-titled debut album through Temporary Residence records. Around that same time, guitarist Concepcion left the band due to relocation, and her friend Amber Coffman replaced her on guitar. With Coffman, the band wrote and recorded three tracks that appeared on their second album, Growing. In early [YEAR], Concepcion returned to her former position while Coffman departed to join the Dirty Projectors, and the original lineup resumed. The style of [GENRE] they play is sometimes referred to as math rock, which is characterized by complex, atypical rhythmic structures, stop/start dynamics and angular, dissonant riffs.\n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

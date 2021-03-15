@@ -33,6 +33,19 @@
          " Natsuki Sakamoto - Guitar"
       ]
    },
+   "albums": [
+      "Iroha",
+      "Shiro Ana",
+      "Akayoroshi",
+      "Anarogu",
+      "It",
+      "Awo Awo",
+      "Show Time",
+      "Kimi no Mirai ni You ga Aru",
+      "Non-fiction",
+      "MINUS ONE",
+      "Taiyou no Inu Ma ni"
+   ],
    "prunedData": [
       "[BAND_NAME] (チリヌルヲワカ), is a [GENRE] band formed in [YEAR] by [PERSON_NAME_FULL_0_FEMALE], known from the band GO!GO![YEAR].\n",
       "The band name comes from one sentence of the classical Japanese alphabet “Iroha”, pronounced Chi-ri-nu-ru-wo-wa-ka.\n",

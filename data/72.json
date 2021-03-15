@@ -52,9 +52,20 @@
          "Victor Penalosa"
       ]
    },
+   "albums": [
+      "Supersnazz",
+      "Flamingo",
+      "Teenage Head",
+      "Shake Some Action",
+      "Flamin' Groovies Now",
+      "Jumpin' in the Night",
+      "One Night Stand",
+      "Rock Juice",
+      "Fantastic Plastic"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band that formed in San Francisco in [YEAR], originally co-led by [PERSON_NAME_FULL_2_MALE] and Cyril Jordan. After the Groovies released three albums, on Epic (Supersnazz) and [PERSON_NAME_FULL_1_FEMALE] (Flamingo and Teenage Head), [PERSON_NAME_LAST_2] left the band in [YEAR]. He was replaced as co-leader by [PERSON_NAME_FULL_0_MALE], and the band's emphasis shifted more toward British Invasion power pop.\n",
-      "The band signed to United Artists Records in [YEAR], releasing just three more singles until [YEAR]. The Groovies then signed to Sire Records and released three albums between [YEAR] and [YEAR], Shake Some Action, [BAND_NAME] Now (both produced by [PERSON_NAME_FULL_0_MALE] at Rockfield Studios in Wales) and Jumpin' in the Night. The [YEAR] album's title track \"Shake Some Action\" (also released as a single) became a power pop anthem and is revered by many, including Greil [MONTH]cus in his book, The History of Rock and Roll in Ten Songs. Wilson left the band in [YEAR], and the band continued in various forms, including the release of three more albums, before breaking up in [YEAR]. After a couple of limited reunions with different lineups, the [YEAR]s nucleus of Jordan, Wilson, and Alexander reformed the group in [YEAR], and the band's first post-reunion album, Fantastic Plastic, was released in [YEAR]. Alexander left the reformed band in [YEAR], and in [YEAR] Wilson went on hiatus.\n",
+      "[BAND_NAME] is an [GENRE] band that formed in San Francisco in [YEAR], originally co-led by [PERSON_NAME_FULL_1_MALE] and Cyril Jordan. After the Groovies released three albums, on Epic (Supersnazz) and [PERSON_NAME_FULL_2_FEMALE] (Flamingo and Teenage Head), [PERSON_NAME_LAST_1] left the band in [YEAR]. He was replaced as co-leader by [PERSON_NAME_FULL_0_MALE], and the band's emphasis shifted more toward British Invasion power pop.\n",
+      "The band signed to United Artists Records in [YEAR], releasing just three more singles until [YEAR]. The Groovies then signed to Sire Records and released three albums between [YEAR] and [YEAR], Shake Some Action, [BAND_NAME] Now (both produced by [PERSON_NAME_FULL_0_MALE] at Rockfield Studios in Wales) and Jumpin' in the Night. The [YEAR] album's title track [SONG_NAME] (also released as a single) became a power pop anthem and is revered by many, including Greil [MONTH]cus in his book, The History of Rock and Roll in Ten Songs. Wilson left the band in [YEAR], and the band continued in various forms, including the release of three more albums, before breaking up in [YEAR]. After a couple of limited reunions with different lineups, the [YEAR]s nucleus of Jordan, Wilson, and Alexander reformed the group in [YEAR], and the band's first post-reunion album, Fantastic Plastic, was released in [YEAR]. Alexander left the reformed band in [YEAR], and in [YEAR] Wilson went on hiatus.\n",
       "In addition to the band's role in the advancement of power pop, the [BAND_NAME] have also been called one of the forerunners of punk rock.\n"
    ]
 }

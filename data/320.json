@@ -28,6 +28,13 @@
          "David Vertesi"
       ]
    },
+   "albums": [
+      "Stop Looking Like Music",
+      "It's Easier to Be Somebody Else",
+      "IS",
+      "The Hurt of Happiness",
+      "It's Easier to Be Somebody Else (10th Anniversary Remaster)"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band formed in [YEAR] in Vancouver. David Beckingham and [PERSON_NAME_FULL_1_FEMALE] had been friends since grade 6, joining with David Vertesi in the [YEAR]s to form the band. The band consists of [PERSON_NAME_FULL_1_FEMALE] (vocals/flute), David Beckingham (vocals/guitar), and David Vertesi (vocals/bass). Their music draws from many genres, including pop and acoustic, and the group tours Canada widely. They have performed locally alongside other Vancouver acts such as [PERSON_NAME_FULL_0_MALE], Mother Mother and Said the Whale.\n",
       "The band ran their own label for many years, being represented by Nettwerk Management, and had overtures from Gene Simmons before signing with Universal Music Canada for distribution in [YEAR].\n",

@@ -32,6 +32,14 @@
          "Jesse Lindskog"
       ]
    },
+   "albums": [
+      "Words Of Nostradameus",
+      "The Prophet Of Evil",
+      "The Third Prophecy",
+      "Hellbound",
+      "Pathway",
+      "Illusion's Parade"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band from Gothenburg, Sweden.  They were formed in [YEAR], and disbanded in [YEAR]. Their latest release is Illusion's Parade.\n",
       "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."

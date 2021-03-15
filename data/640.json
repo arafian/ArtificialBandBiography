@@ -31,9 +31,10 @@
          "Joey Nine"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band, formed in Stockholm in [YEAR].\n",
-      "[BAND_NAME] started out in [YEAR] as a [GENRE] band, but soon they changed their primary style to hard rock. They signed in [YEAR] with GMR Music Group of Stockholm. Recordings took place in Kristianopel, Sweden at Pama Studios/Blakk Records with producer-engineer Mankan Sedenberg during the spring of [YEAR]. Their advance debut single from their first album In Distortion We Trust, was \"Losing the Game\". It was released on 8 [MONTH] [YEAR] and went straight to No. 8 on the Swedish music charts. The video to accompany it was recorded and produced by M Industries. The album was released in Sweden on 19 [MONTH] and is  available outside Sweden in several countries including the UK, the US, France, Germany, and Benelux. In [YEAR], they contributed two songs, \"Killed by Death\" and \"Please Don't Touch\", to St. Valentines Day Massacre, a tribute album to Motörhead.\n",
-      "[BAND_NAME]'s second album, Til Death Do Us Party, was released in Scandinavia on 11 [MONTH] [YEAR] and in the rest of Europe on 27 [MONTH]. It was produced in part by [PERSON_NAME_FULL_0_MALE] (known for producing albums by Yngwie Malmsteen, Krux, and Therion, among other bands within that genre. [PERSON_NAME_FIRST_0] also sang vocals on the song \"Jennyfer\".\n"
+      "[BAND_NAME] started out in [YEAR] as a [GENRE] band, but soon they changed their primary style to hard rock. They signed in [YEAR] with GMR Music Group of Stockholm. Recordings took place in Kristianopel, Sweden at Pama Studios/Blakk Records with producer-engineer Mankan Sedenberg during the spring of [YEAR]. Their advance debut single from their first album In Distortion We Trust, was [SONG_NAME], to St. Valentines Day Massacre, a tribute album to Motörhead.\n",
+      "[BAND_NAME]'s second album, Til Death Do Us Party, was released in Scandinavia on 11 [MONTH] [YEAR] and in the rest of Europe on 27 [MONTH]. It was produced in part by [PERSON_NAME_FULL_0_MALE] (known for producing albums by Yngwie Malmsteen, Krux, and Therion, among other bands within that genre. [PERSON_NAME_FIRST_0] also sang vocals on the song [SONG_NAME].\n"
    ]
 }

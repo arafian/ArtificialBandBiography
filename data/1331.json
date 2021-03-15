@@ -32,6 +32,12 @@
          "Pete Fender, Pete Shepherd, Sonny Flint, Jane Keay"
       ]
    },
+   "albums": [
+      "Angry Songs",
+      "No Love Lost",
+      "Omega-Tribe Live",
+      "It's a Hard Life"
+   ],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band, formed in Barnet, London in [YEAR].  With the roles of Hugh Vivian on guitar and vocals, [PERSON_NAME_FULL_0_MALE] on bass, [PERSON_NAME_FIRST_2] Fender on guitar and [PERSON_NAME_FULL_2_MALE] on drums, their first EP, Angry Songs, was produced by [PERSON_NAME_FULL_1_FEMALE] and [PERSON_NAME_FIRST_2] Fender for Crass Records in [YEAR].\n",
       "Their subsequent LP, No Love Lost, (released by Corpus Christi Records, [YEAR]) won the hearts of many hardened anarchos and secured their place in anarcho-punk history. A far more melodic style, encouraged by producer and new guitarist [PERSON_NAME_FULL_0_MALE] (from Rubella Ballet), created a [GENRE] bands were to build on. \n",

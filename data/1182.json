@@ -36,9 +36,13 @@
          "Rachael Rine"
       ]
    },
+   "albums": [
+      "Femme Fatale",
+      "One More for the Road"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band. Originally from Albuquerque, the band moved to Los Angeles and released one studio album before disbanding. Lead vocalist, Lorraine Lewis, restarted the band in [YEAR] with an all-female line-up which lasted until [YEAR] when she shuttered the band to join Vixen.\n",
-      "[BAND_NAME] was formed in [YEAR] in Albuquerque, New Mexico, United States. Later on that year, the band moved to Los Angeles and signed a [GENRE] a well-received showcase. The band's self-titled debut album, released in [YEAR], peaked at No. 141 on the Billboard 200 the following year. MTV gave heavy airplay to the videos  for \"Waiting for the Big One\" and \"Falling in and out of Love\" (not the same song as the Lita Ford one of the same name), the band's two signature songs. The airplay helped the album to sell nearly 225,000 copies, but [BAND_NAME] was unable to match the popularity of other bands in the glam metal scene. The band saw their status at MCA shrink and the band's manager, [PERSON_NAME_FULL_0_FEMALE], developed a rare brain cancer. Shortly after touring the world in support of Cheap Trick, recording was to commence on a new studio album, but ultimately it was not completed and the band dissolved in [YEAR].\n",
+      "[BAND_NAME] was formed in [YEAR] in Albuquerque, New Mexico, United States. Later on that year, the band moved to Los Angeles and signed a [GENRE] a well-received showcase. The band's self-titled debut album, released in [YEAR], peaked at No. 141 on the Billboard 200 the following year. MTV gave heavy airplay to the videos  for [SONG_NAME] (not the same song as the Lita Ford one of the same name), the band's two signature songs. The airplay helped the album to sell nearly 225,000 copies, but [BAND_NAME] was unable to match the popularity of other bands in the glam metal scene. The band saw their status at MCA shrink and the band's manager, [PERSON_NAME_FULL_0_FEMALE], developed a rare brain cancer. Shortly after touring the world in support of Cheap Trick, recording was to commence on a new studio album, but ultimately it was not completed and the band dissolved in [YEAR].\n",
       "Since leaving [BAND_NAME], Lorraine Lewis recorded a few modestly successful solo albums in country, new-age, and other rock genres. Lewis competed on MTV's Remote Control in [YEAR], against Britny Fox's Dizzy Dean Davidson and Anthrax's [PERSON_NAME_FULL_0_MALE], who won.\n"
    ]
 }

@@ -39,9 +39,14 @@
          "Matt Croda"
       ]
    },
+   "albums": [
+      "17 Reasons",
+      "Killing Katie",
+      "The Struggle Continues"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band from San Francisco's East Bay, United States.\n",
-      "[BAND_NAME] started in the summer [YEAR] in the East Bay of California. In the beginning, original members (guitarist Matt Bettinelli-Olpin, drummer [PERSON_NAME_FULL_0_MALE], bassist Adam Pereira and singer [PERSON_NAME_FULL_1_MALE]) played around town as Drano and The Rag-Tags before settling on [BAND_NAME].\n",
+      "[BAND_NAME] started in the summer [YEAR] in the East Bay of California. In the beginning, original members (guitarist Matt Bettinelli-Olpin, drummer [PERSON_NAME_FULL_1_MALE], bassist Adam Pereira and singer [PERSON_NAME_FULL_0_MALE]) played around town as Drano and The Rag-Tags before settling on [BAND_NAME].\n",
       "The name came from the interstate highway I-80 which they used to get to the drummer's garage for band practice and connected the band members' homes: members lived in Oakland, Berkeley and Richmond.\n"
    ]
 }

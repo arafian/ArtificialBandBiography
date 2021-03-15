@@ -45,6 +45,7 @@
          "Aaron Brooks"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME], formerly known as A Dying Dream, is an [GENRE] band from Los Angeles, California, formed in [YEAR]. The band currently consists of vocalist Jonathan Vigil, guitarists [PERSON_NAME_FULL_1_MALE] and Chris Davis, bassist [PERSON_NAME_FULL_0_MALE] and drummer Andrew Tkaczyk. They have released one EP and five studio albums, with their latest, [BAND_NAME], released on [MONTH] 5, [YEAR] via Epitaph Records as a return from their hiatus.\n",
       "As A Dying Dream, they released an [GENRE] an additional track and bonus live footage. The release contained early versions of their debut album that followed. Not long after, they changed their name to [BAND_NAME], and released a full-length studio album entitled Fury and the Fallen Ones.\n",

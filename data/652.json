@@ -34,9 +34,10 @@
          "Omi"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] (イグジストトレイス, Iguzisuto Toreisu, stylized as exist†trace) is a [GENRE] band, consisting entirely of female members. The members originate from Tokyo, and initially formed in [MONTH] [YEAR]. The founding members are Jyou, [PERSON_NAME_FULL_0_MALE], and Mally, who met [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_1_FEMALE] after placing an advertisement for guitarists.\n",
+      "[BAND_NAME] (イグジストトレイス, Iguzisuto Toreisu, stylized as exist†trace) is a [GENRE] band, consisting entirely of female members. The members originate from Tokyo, and initially formed in [MONTH] [YEAR]. The founding members are Jyou, [PERSON_NAME_FULL_1_MALE], and Mally, who met [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_0_FEMALE] after placing an advertisement for guitarists.\n",
       "To date, [BAND_NAME] has released four albums, eight EPs, and nine singles. In addition, the band has appeared on eleven compilation albums and three omnibus DVDs, plus their self-released [YEAR] concert DVD Just Like a [GENRE]",
-      "[BAND_NAME] made their U.S. debut at Sakura-Con [YEAR] in Seattle, Washington. On [MONTH] 15, [YEAR], they made their major label debut on Tokuma Japan Communications with the EP True. Their song \"I Feel You\" was featured in Nadeshiko Japan's official [YEAR] guidebook DVD. Their highest charting release was Virgin, which reached number 84 on the Oricon album chart.\n"
+      "[BAND_NAME] made their U.S. debut at Sakura-Con [YEAR] in Seattle, Washington. On [MONTH] 15, [YEAR], they made their major label debut on Tokuma Japan Communications with the EP True. Their song [SONG_NAME] was featured in Nadeshiko Japan's official [YEAR] guidebook DVD. Their highest charting release was Virgin, which reached number 84 on the Oricon album chart.\n"
    ]
 }

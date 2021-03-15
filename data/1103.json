@@ -29,8 +29,9 @@
          "Alive Records' site, Myspace page"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band based in Omaha, Nebraska. They are often called \"garage rock\", although the band members themselves reject the term. [BAND_NAME] has had numerous lineup changes since its inception. \n",
+      "[BAND_NAME] is a [GENRE] band based in Omaha, Nebraska. They are often called [SONG_NAME], although the band members themselves reject the term. [BAND_NAME] has had numerous lineup changes since its inception. \n",
       "In early [YEAR], [BAND_NAME] released an [GENRE] band released their second album Bang! Bang! Bang! Bang! Bang! Bang! Bang! on SPEED! Nebraska. In [YEAR] the band released four singles on Boomchick, SPEED! Nebraska, and Obsolete Records. Single Blood on the Rocks, Bones in the River was recorded and mixed by [PERSON_NAME_FULL_1_MALE] and became the best-selling single in Boomchick Records history. Their next album, Guts of Steel, was released in [MONTH] [YEAR] on Alive Records and produced by [PERSON_NAME_FULL_0_MALE] of The Black Keys. Their latest album, We Came in Peace (Alive Records) was recorded by Jim Diamond and released on [MONTH] 16, [YEAR].\n",
       "[BAND_NAME] released a fourth full-length album, titled Big Deal. What’s He Done Lately? with Alive Records on [MONTH] 26, [YEAR].\n"
    ]

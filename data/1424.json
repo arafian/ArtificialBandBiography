@@ -24,8 +24,13 @@
          "Wilbo Wright"
       ]
    },
+   "albums": [
+      "Answers",
+      "Lifelike",
+      "Sidelong"
+   ],
    "prunedData": [
-      "[BAND_NAME] (pronounced ooo-eee) was an [GENRE] band based in New York City, which started in [YEAR]. The group was started by [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_0_MALE]. Wilbo Wright joined the group in [YEAR]. The group's songs are often described as \"bass-heavy\", as the band frequently used two bass guitars. Other instruments used by the band include banjo, synthesizers, tuba and timpani. Their musical style is described to range between funk, dub, post-rock and electronica. The group had a high reliance on samplers and other studio equipment to overdub and articulate rhythms.  The group disbanded in [YEAR] shortly after the recording of the album Answers.\n",
+      "[BAND_NAME] (pronounced ooo-eee) was an [GENRE] band based in New York City, which started in [YEAR]. The group was started by [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_1_MALE]. Wilbo Wright joined the group in [YEAR]. The group's songs are often described as [SONG_NAME], as the band frequently used two bass guitars. Other instruments used by the band include banjo, synthesizers, tuba and timpani. Their musical style is described to range between funk, dub, post-rock and electronica. The group had a high reliance on samplers and other studio equipment to overdub and articulate rhythms.  The group disbanded in [YEAR] shortly after the recording of the album Answers.\n",
       "[BAND_NAME] have also remixed music for many groups, including Techno Animal and Microstoria.\n",
       "This article on a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]

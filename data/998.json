@@ -30,8 +30,29 @@
          "Chris Wood"
       ]
    },
+   "albums": [
+      "Notes from the Underground",
+      "It's a Jungle in Here",
+      "Friday Afternoon in the Universe",
+      "Shack-man",
+      "Farmer's Reserve",
+      "A Go Go",
+      "Combustication",
+      "The Dropper",
+      "Uninvisible",
+      "End of the World Party (Just in Case)",
+      "Out Louder",
+      "Let's Go Everywhere",
+      "Zaebos: Book of Angels Volume 11",
+      "Radiolarians I",
+      "Radiolarians II",
+      "Radiolarians III",
+      "20",
+      "Woodstock Sessions Vol. 2",
+      " Juice"
+   ],
    "prunedData": [
-      "[BAND_NAME] (or MMW) is an [GENRE] band formed in [YEAR], consisting of John Medeski on keyboards, Billy [MONTH]tin on drums, and [PERSON_NAME_FULL_0_MALE] on bass. The band is influenced by musical traditions including funk and hip hop and is known for an unconventional style sometimes described as \"avant-groove\".\n",
+      "[BAND_NAME] (or MMW) is an [GENRE] band formed in [YEAR], consisting of John Medeski on keyboards, Billy [MONTH]tin on drums, and [PERSON_NAME_FULL_0_MALE] on bass. The band is influenced by musical traditions including funk and hip hop and is known for an unconventional style sometimes described as [SONG_NAME].\n",
       "MMW has found moderate mainstream success, often working with guitarist John Scofield and touring on the jam band circuit.\n",
       "The band members were introduced to each other by jazz drummer Bob Moses, who had performed with Medeski and Wood, and was [MONTH]tin's instructor. \n"
    ]

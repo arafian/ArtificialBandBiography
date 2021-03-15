@@ -41,6 +41,14 @@
          "John Papesca"
       ]
    },
+   "albums": [
+      "Crazy Rhythms",
+      "The Good Earth",
+      "Only Life",
+      "Time for a Witness",
+      "Here Before",
+      "In Between"
+   ],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band from Haledon, New Jersey. They formed in [YEAR] and disbanded in [YEAR] having released four albums. The band reunited in [YEAR], and released new albums in [YEAR] and [YEAR].\n",
       "Although not commercially successful, the Feelies had an influence on the development of American indie rock. Their first album, Crazy Rhythms (Stiff Records, [YEAR]) was cited by R.E.M. as influencing their sound. [BAND_NAME] were influenced by The Beatles, the Velvet Underground and [PERSON_NAME_FULL_0_MALE].\n",

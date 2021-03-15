@@ -35,8 +35,9 @@
          "Alexandre Aposan"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from São Paulo, Brazil. Lead vocalist and guitarist [MONTH]inho Afram formed the band along with drummer Walter Lopes and bassist [PERSON_NAME_FULL_0_MALE] in [YEAR]. Through their history they have changed their musical style very drastically. Initially they were a heavy metal / hard rock band with influences from Petra and Stryper, then they changed to a more pop rock and metal oriented genre, and recently changing to a more progressive metal driven musical style.\n",
-      "The band is regarded in Brazil as one of the pioneers of Christian rock in that country, and one of the bands which most contributed to the progress of that musical genre. The band has met considerable success, being nominated to Latin Grammy Awards three times recently, in [YEAR] and in [YEAR], and winning the [YEAR] Best Brazilian Christian Album \"Depois Da Guerra\".\n"
+      "The band is regarded in Brazil as one of the pioneers of Christian rock in that country, and one of the bands which most contributed to the progress of that musical genre. The band has met considerable success, being nominated to Latin Grammy Awards three times recently, in [YEAR] and in [YEAR], and winning the [YEAR] Best Brazilian Christian Album [SONG_NAME].\n"
    ]
 }

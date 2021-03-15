@@ -22,9 +22,25 @@
          "Johnny Q. Public, Velour 100, Poor Old Lu"
       ]
    },
+   "albums": [
+      "Hang Out",
+      "Superdeluxe",
+      "AllMusic",
+      "CCM",
+      "Ultraphonic Hiss",
+      "Allmusic",
+      "From Dayton With Love",
+      "Youthworker",
+      "Phantom Tollbooth",
+      "7ball",
+      "Cornerstone",
+      "Tiny Lights of Heaven",
+      "Phantom Tollbooth",
+      "AllMusic"
+   ],
    "prunedData": [
       "[BAND_NAME] was a band from Dayton, Ohio which formed in [YEAR]. They released three albums on Tooth and Nail Records and one with an independent label. Their signature sound is noise pop or space music comparable to Starflyer 59 or the Breeders.\n",
-      "Before signing to Tooth and Nail, [BAND_NAME] produced two works: a [GENRE] an EP entitled Bozur. Their [YEAR] debut, Superdeluxe, was produced by [PERSON_NAME_FULL_1_MALE] (The Choir) and Chris Colbert (Fluffy). Its sound was characteristic of [YEAR]s style new wave or [YEAR]s shoegazing. Sonically it featured noisy, \"dreamy, hypnotic\" melodies, and featured [PERSON_NAME_FULL_2_MALE] of the Throes as a guest. [BAND_NAME] appeared on the cover of 7ball magazine in [MONTH], [YEAR]. Ultraphonic Hiss and From Dayton With Love were produced by [PERSON_NAME_FULL_0_MALE]. Ultraphonic features a sound which moves the band slightly away from the noise of their debut. Dayton features some electronic elements—keyboard and drum machine—and moves their sound to an even more sugary guitar based pop sound, which one reviewer referred to as \"space age garage pop.\" Some found this sound to be lacking of \"solid melodies,\" while others found the voice of Sydney Rentz layered over the background lively and fluid.\n",
-      "The band struggled with the Christian music marketplace, finding the struggle between artistic integrity and profitability hard to maintain. After a half-cancelled tour in [YEAR] the band reported that although they were still \"100% about fashion\" they would direct their efforts toward the general market and emphasize a radio friendly sound. They told 7ball magazine that the only way to make money was to be like dc Talk or Audio Adrenaline, and as for themselves \"We don't want to be some innovative, cool band that's doing something really weird for the Christian market.\"\n"
+      "Before signing to Tooth and Nail, [BAND_NAME] produced two works: a [GENRE] an EP entitled Bozur. Their [YEAR] debut, Superdeluxe, was produced by [PERSON_NAME_FULL_2_MALE] (The Choir) and Chris Colbert (Fluffy). Its sound was characteristic of [YEAR]s style new wave or [YEAR]s shoegazing. Sonically it featured noisy, [SONG_NAME] while others found the voice of Sydney Rentz layered over the background lively and fluid.\n",
+      "The band struggled with the Christian music marketplace, finding the struggle between artistic integrity and profitability hard to maintain. After a half-cancelled tour in [YEAR] the band reported that although they were still [SONG_NAME]\n"
    ]
 }

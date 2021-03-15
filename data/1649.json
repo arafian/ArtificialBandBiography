@@ -38,9 +38,20 @@
          "Álvaro Jardón"
       ]
    },
+   "albums": [
+      "WarCry",
+      "El Sello De Los Tiempos",
+      "Alea Jacta Est",
+      "¿Dónde Está La Luz?",
+      "La Quinta Esencia",
+      "Revolución",
+      "Alfa",
+      "Inmortal",
+      "Donde El Silencio Se Rompió..."
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band led by founder, singer, and songwriter [PERSON_NAME_FULL_0_MALE]. Formed in [YEAR] when [PERSON_NAME_LAST_0] and drummer Alberto Ardines were ejected from Avalanch, the band has since released seven studio albums and two live albums, with an eighth studio album currently in progress. [BAND_NAME] has had a fluctuating lineup with [PERSON_NAME_LAST_0] as the sole constant member. The band has been acclaimed as one of Spain's most famous heavy metal acts and has won numerous awards in both Spain and Latin America.\n",
-      "In the middle of [YEAR], while working in Spanish power metal band Avalanch, vocalist [PERSON_NAME_FULL_0_MALE] and drummer [PERSON_NAME_FULL_2_MALE] decided to record an album with the songs they had been composing in their spare time. Most of the songs had been written during the [YEAR]s with lyrics in English. The pair translated the lyrics into Spanish and produced the album themselves, with [PERSON_NAME_LAST_0] singing as well as playing bass guitar, rhythm guitar, and keyboards. Guitarists Fernando Mon, formerly of Avalanch, and [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] of Relative Silence also collaborated on the album by recording guitar solos. Upon learning of [PERSON_NAME_LAST_0] and [PERSON_NAME_LAST_2]' project, the other members of Avalanch disapproved of it and expelled them from the band. [PERSON_NAME_LAST_0] has stated that he presented many of his song ideas to Avalanch, but received writing credit on only two released songs: \"Aquí Estaré\" and \"Por Mi Libertad\". \"Aquí Estaré\" had barely been accepted by the band but went on to become one of Avalanch's most popular songs, and so he decided \"to release a couple of songs, but never with the idea of leaving Avalanch.\"\n",
-      "\"[BAND_NAME]\" had always been [PERSON_NAME_FULL_0_MALE]'s idea of a band. In [YEAR] he formed a band named War-Cry, playing as guitarist, but disbanded it in [YEAR] when he became the rhythm guitarist for Avalanch. After leaving Avalanch, in [MONTH] [YEAR] he reformed the group as [BAND_NAME], this time acting as songwriter and lead vocalist. They recorded a demo entitled Demon 97, but disbanded again a year later when [PERSON_NAME_FIRST_0] rejoined Avalanch as lead singer.  After being expelled from Avalanch, [PERSON_NAME_FIRST_0] showed Ardines the name and logo of [BAND_NAME]. Ardines felt that those were \"fantastic\", and that they should continue working on their new musical project, as they already had an \"open path\".\n"
+      "In the middle of [YEAR], while working in Spanish power metal band Avalanch, vocalist [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] and drummer [PERSON_NAME_FULL_2_MALE] decided to record an album with the songs they had been composing in their spare time. Most of the songs had been written during the [YEAR]s with lyrics in English. The pair translated the lyrics into Spanish and produced the album themselves, with [PERSON_NAME_LAST_0] singing as well as playing bass guitar, rhythm guitar, and keyboards. Guitarists Fernando Mon, formerly of Avalanch, and [PERSON_NAME_FULL_0_MALE] of Relative Silence also collaborated on the album by recording guitar solos. Upon learning of [PERSON_NAME_LAST_0] and [PERSON_NAME_LAST_2]' project, the other members of Avalanch disapproved of it and expelled them from the band. [PERSON_NAME_LAST_0] has stated that he presented many of his song ideas to Avalanch, but received writing credit on only two released songs: [SONG_NAME]\n",
+      "[SONG_NAME].\n"
    ]
 }

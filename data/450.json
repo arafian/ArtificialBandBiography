@@ -35,9 +35,13 @@
          "Eric Meeks"
       ]
    },
+   "albums": [
+      "Better Luck Next Year",
+      "The Illusion Is Fading"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Tyler, Texas, formerly signed to Tooth & Nail Records.\n",
       "[BAND_NAME] formed in [YEAR] under the name Dead End Driveway, releasing an [GENRE] an album under this name before changing the name to [BAND_NAME] in [YEAR]. Soon after the name change, the band was selected to play at the [YEAR] Vans Warped Tour. While on the tour, they were scouted by Tooth & Nail Records, who signed them in [YEAR] and released their debut full-length, There Came a Lion, in [MONTH] [YEAR]. The album hit No. 25 on the Billboard Top Christian Albums chart and No. 15 on the Top Heatseekers Chart.\n",
-      "The group toured with Automatic Loveletter in [MONTH] [YEAR]. In the fall of that year, [BAND_NAME] toured with Family Force 5 and The Maine, before they embarked on their first headlining tour (called \"There Came a Tour\") with There For Tomorrow, In:Aviate, and The Lives of Famous Men. The band is currently a four-piece and working on new material.\n"
+      "The group toured with Automatic Loveletter in [MONTH] [YEAR]. In the fall of that year, [BAND_NAME] toured with Family Force 5 and The Maine, before they embarked on their first headlining tour (called [SONG_NAME]) with There For Tomorrow, In:Aviate, and The Lives of Famous Men. The band is currently a [GENRE]"
    ]
 }

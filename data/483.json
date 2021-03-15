@@ -34,8 +34,9 @@
          "Lyle Chastain"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Carmi, Illinois and Morganfield, Kentucky, formed in [YEAR]. Their debut album This Is Who We Are, was released on [MONTH] 18, [YEAR] through Tooth & Nail Records. All of the members, except [PERSON_NAME_LAST_0] Stewart, were originally from punk rock band Side Walk Slam on Tooth & Nail Records. The video for the song \"We've Only Just Begun\" was featured on the American Eagle music video store soundtrack after its release. The band's second album titled Love at the Core was released on [MONTH] 29, [YEAR]. Both albums were produced by [PERSON_NAME_FULL_0_MALE].\nThe song \"Freedom\" become a hit song on the Christian radio station Air 1. Their recent work in the studio with [MONTH]k Lee Townsend and [PERSON_NAME_FULL_1_MALE] brought forth Patterns, released [MONTH] 15, [YEAR].\n",
+      "[BAND_NAME] is a [GENRE] band from Carmi, Illinois and Morganfield, Kentucky, formed in [YEAR]. Their debut album This Is Who We Are, was released on [MONTH] 18, [YEAR] through Tooth & Nail Records. All of the members, except [PERSON_NAME_LAST_0] Stewart, were originally from punk rock band Side Walk Slam on Tooth & Nail Records. The video for the song [SONG_NAME] was featured on the American Eagle music video store soundtrack after its release. The band's second album titled Love at the Core was released on [MONTH] 29, [YEAR]. Both albums were produced by [PERSON_NAME_FULL_0_MALE].\nThe song [SONG_NAME] become a hit song on the Christian radio station Air 1. Their recent work in the studio with [MONTH]k Lee Townsend and [PERSON_NAME_FULL_1_MALE] brought forth Patterns, released [MONTH] 15, [YEAR].\n",
       "* No. 56 in [YEAR], No. 73 in [YEAR]  \n",
       "** No. 42 in [YEAR], No. 14 in [YEAR] \n"
    ]

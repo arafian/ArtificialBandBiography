@@ -31,9 +31,10 @@
          "Erin Belle"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band found by Jack White and signed to his label Third Man Records.\n",
-      "[BAND_NAME] formed in [YEAR] originally with Erin Belle. Bassist Ruby Rogers said \"She helped us out in the studio, and we needed someone with more of a [GENRE] a model. Her scheduling didn't work out. We just haven't communicated that to a lot of people.\" They quickly signed to Third Man Records and released three singles: \"Elvira\", \"What Can I Do\", and \"Charlene\" with [PERSON_NAME_FULL_0_MALE], which they performed live on The [PERSON_NAME_LAST_0] Report. Regarding their start with Third Man Records, Olivia Jean said, \"I had a recording that I gave to Jack, and it was mostly instrumental music, but it was a jumping-off point for like, some project to begin. I did it for myself, but I didn't play anything live, because I didn't have a band. But once we all met, we kind of collaborated together and shared ideas, threw all those ideas together and we had a lot of material to work with.\"\n",
-      "In [YEAR], they released their debut self-titled album which had two singles: \"Honky Tonk Horror\" and \"Wishing Well\". The album was produced by [PERSON_NAME_FULL_0_MALE] and recorded in the course of a [GENRE] a Metacritic score of 59.\n"
+      "[BAND_NAME] is an American all-female [SONG_NAME] rock band found by Jack White and signed to his label Third Man Records.\n",
+      "[BAND_NAME] formed in [YEAR] originally with Erin Belle. Bassist Ruby Rogers said [SONG_NAME]\n",
+      "In [YEAR], they released their debut self-titled album which had two singles: [SONG_NAME] It received mildly positive reviews, achieving a [GENRE]"
    ]
 }

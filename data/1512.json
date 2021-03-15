@@ -29,9 +29,16 @@
          "Michael Lachowski"
       ]
    },
+   "albums": [
+      "Gyrate",
+      "Gyrate Plus",
+      "Chomp",
+      "Chomp More",
+      "Chain"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Athens, Georgia, United States. The band's danceable sound, a blend of new wave, post-punk, jangle pop, alternative rock and funk rock, influenced the Athens music scene and the [YEAR]s American pop underground. AllMusic wrote that [BAND_NAME]'s \"role as elder statesmen of the alternative rock explosion is unassailable\".\n",
-      "The four members of [BAND_NAME] were art students at the University of Georgia in Athens. Guitarist Randall Bewley and bass guitarist [PERSON_NAME_FULL_0_MALE] began playing music and attempting to form a band in [YEAR]. Neither had any musical experience: as [PERSON_NAME_LAST_0] later recalled, \"A lot of us in the art school were trying out different media with a punk rock message, which is just go in there and do it. You don’t need training, or authority or legitimacy. Just figure it out\". They originally formed the band with the intention of securing live appearances in New York City, along with press attention, before splitting up.\n",
-      "They practiced in a [GENRE] a single 40-watt light bulb, so the band referred to it as the \"40 Watt Club\". Crowe, who lived above the studio, recalled hearing Lachowski and Bewley's early rehearsals through the floor: \"a never-ending series of hooks—no bridges or chorus, just hooks\". He soon joined the band as a drummer, stating that he \"had every song memorized\" before he approached them to join. Bewley then approached [PERSON_NAME_FULL_0_FEMALE] (now [PERSON_NAME_FULL_0_FEMALE] Hay) about joining the band on vocals, on the basis that the band were fans of her art work: although she was initially reluctant as she also lacked musical experience, she auditioned for the band on [MONTH] 14, [YEAR] and joined the lineup.\n"
+      "[BAND_NAME] was an [GENRE] band from Athens, Georgia, United States. The band's danceable sound, a blend of new wave, post-punk, jangle pop, alternative rock and funk rock, influenced the Athens music scene and the [YEAR]s American pop underground. AllMusic wrote that [BAND_NAME]'s [SONG_NAME].\n",
+      "The four members of [BAND_NAME] were art students at the University of Georgia in Athens. Guitarist Randall Bewley and bass guitarist [PERSON_NAME_FULL_0_MALE] began playing music and attempting to form a band in [YEAR]. Neither had any musical experience: as [PERSON_NAME_LAST_0] later recalled, [SONG_NAME]. They originally formed the band with the intention of securing live appearances in New York City, along with press attention, before splitting up.\n",
+      "They practiced in a [GENRE] a single 40-watt light bulb, so the band referred to it as the [SONG_NAME] before he approached them to join. Bewley then approached [PERSON_NAME_FULL_0_FEMALE] (now [PERSON_NAME_FULL_0_FEMALE] Hay) about joining the band on vocals, on the basis that the band were fans of her art work: although she was initially reluctant as she also lacked musical experience, she auditioned for the band on [MONTH] 14, [YEAR] and joined the lineup.\n"
    ]
 }

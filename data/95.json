@@ -44,9 +44,21 @@
          "Anne Mikolajcik"
       ]
    },
+   "albums": [
+      "Old Friends from Young Years",
+      "Infest",
+      "Lovehatetragedy",
+      "Getting Away with Murder",
+      "The Paramour Sessions",
+      "Metamorphosis",
+      "The Connection",
+      "F.E.A.R.",
+      "Crooked Teeth",
+      "Who Do You Trust?"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Vacaville, California, formed in [YEAR]. The original lineup consisted of lead vocalist [PERSON_NAME_FULL_0_MALE], guitarist Jerry Horton, drummer [PERSON_NAME_FULL_2_MALE], bassist Will James, and trombonist [PERSON_NAME_FULL_1_MALE].\n",
+      "[BAND_NAME] is an [GENRE] band from Vacaville, California, formed in [YEAR]. The original lineup consisted of lead vocalist [PERSON_NAME_FULL_2_MALE], guitarist Jerry Horton, drummer [PERSON_NAME_FULL_1_MALE], bassist Will James, and trombonist [PERSON_NAME_FULL_0_MALE].\n",
       "After two EPs, James left and was replaced by Tobin Esperance. The band independently released two more EPs before signing with DreamWorks Records in [YEAR]. It released the triple-platinum Infest in [YEAR], the gold album Lovehatetragedy in [YEAR] and the platinum album Getting Away with Murder in [YEAR]. A year after The Paramour Sessions, Buckner left in [YEAR], and was replaced by [PERSON_NAME_FULL_0_MALE]. They then made Metamorphosis ([YEAR]), Time for Annihilation ([YEAR]), The Connection ([YEAR]), F.E.A.R. ([YEAR]),  and Crooked Teeth ([YEAR]). The tenth studio album, Who Do You Trust?, was released on [MONTH] 18, [YEAR].\n",
-      "[BAND_NAME] has sold more than 30 million album copies worldwide and are known for their songs \"Last Resort\", \"Between Angels and Insects\", \"She Loves Me Not\", \"Time and Time Again\", \"Getting Away with Murder\", \"Scars\", \"Forever\", \"Lifeline\", \"Face Everything and Rise\" and \"Help\".\n"
+      "[BAND_NAME] has sold more than 30 million album copies worldwide and are known for their songs [SONG_NAME].\n"
    ]
 }

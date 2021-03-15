@@ -38,9 +38,18 @@
          "Jason Mackenzie"
       ]
    },
+   "albums": [
+      "Do Make Say Think",
+      "Goodbye Enemy Airship the Landlord Is Dead",
+      "& Yet & Yet",
+      "Winter Hymn Country Hymn Secret Hymn",
+      "You, You're a History in Rust",
+      "Other Truths",
+      "Stubborn Persistent Illusions"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band formed in Toronto, Ontario in [YEAR]. Their music combines jazz-style drumming, distorted guitars and wind instruments, and prominent bass guitar.\n",
       "The band formed in [YEAR] as a [GENRE] a Canadian youth dramatic production. They rehearsed for the production in an empty elementary school room. The four simple verbs 'Do', 'Make', 'Say' and 'Think' were painted on walls of the room, and the band adopted them as their name. In [YEAR], the band progressed as they practiced in the rehearsal room in the basement of the University of Toronto radio station CIUT.\n",
-      "The song \"Chinatown\" from [YEAR]'s & Yet & Yet is featured in the movie Syriana, as well as The Corporation.  The song \"The Landlord is Dead\" from Goodbye Enemy Airship the Landlord Is Dead and \"Chinatown\" from & Yet & Yet are also featured in the movie A Simple Curve.\n"
+      "The song [SONG_NAME] from & Yet & Yet are also featured in the movie A Simple Curve.\n"
    ]
 }

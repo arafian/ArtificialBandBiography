@@ -1,14 +1,24 @@
 {
    "Name": "Daniel Kahn & the Painted Bird",
    "rawData": [
-      "Daniel Kahn & the Painted Bird is a Germany-based klezmer band founded by the American singer, songwriter, and actor Daniel Kahn, originally from Detroit, Michigan. The band was formed in 2005 and is based in Berlin. They have released five albums through German world music label Oriente Musik.\n",
+      "Daniel Kahn & the Painted Bird is a Germany-based klezmer band founded by the American singer, songwriter, and actor Daniel Kahn, originally from Detroit, Michigan. The band was formed in 2005 and is based in Berlin. They have released five albums through German world music label Oriente Musik .\n",
       "The group describes their music as \"a mixture of Klezmer, radical Yiddish song, political cabaret and folk punk\".\n",
       "Daniel Kahn was born on September 11, 1978, in Detroit, Michigan. He attended the University of Michigan, where he studied Theater, Playwriting, Poetry and Politics. \n"
    ],
    "infobox": {},
+   "albums": [
+      "The Broken Tongue",
+      "Partisans & Parasites",
+      "Lost Causes",
+      "Bad Old Songs",
+      "The Butcher's Share",
+      "Bulat Blues",
+      "The Third Unternational",
+      "The Fourth Unternational"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band founded by the American singer, songwriter, and actor Daniel Kahn, originally from Detroit, Michigan. The band was formed in [YEAR] and is based in Berlin. They have released five albums through German world music label Oriente Musik.\n",
-      "The group describes their music as \"a mixture of Klezmer, radical Yiddish song, political cabaret and folk punk\".\n",
+      "[BAND_NAME] is a [GENRE] band founded by the American singer, songwriter, and actor Daniel Kahn, originally from Detroit, Michigan. The band was formed in [YEAR] and is based in Berlin. They have released five albums through German world music label Oriente Musik .\n",
+      "The group describes their music as [SONG_NAME].\n",
       "Daniel Kahn was born on [MONTH] 11, [YEAR], in Detroit, Michigan. He attended the University of Michigan, where he studied Theater, Playwriting, Poetry and Politics. \n"
    ]
 }

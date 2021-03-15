@@ -37,9 +37,19 @@
          "Alec Gomez"
       ]
    },
+   "albums": [
+      "Rock n Roar",
+      "Welcome to the World of Orange",
+      "Escape from LA",
+      "Phoenix",
+      "Dead Sexy (EP)",
+      "The Hardest Pill to Swallow",
+      "Late Nights and Early Mornings",
+      "I Wish It Could Be Christmas Everyday"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Los Angeles, California, Formed In [YEAR].\n",
-      "The band were first signed to Hellcat/Epitaph Records by Tim Armstrong of Rancid when they were only 16 years old and since then have toured the world with many bands such as Misfits, The Adicts, UK Subs, Rancid, Reel Big Fish, Bowling for Soup and Zebrahead and have been on several TV shows including The O.C., The Hills and their song \"Revolution\" is the theme song to Cartoon Network's show Generator Rex. They have released four albums, Welcome to the World of [BAND_NAME],  Escape from LA, Phoenix, Dead Sexy and singles such as Late Nights and Early Mornings as well as a [GENRE]",
+      "The band were first signed to Hellcat/Epitaph Records by Tim Armstrong of Rancid when they were only 16 years old and since then have toured the world with many bands such as Misfits, The Adicts, UK Subs, Rancid, Reel Big Fish, Bowling for Soup and Zebrahead and have been on several TV shows including The O.C., The Hills and their song [SONG_NAME] is the theme song to Cartoon Network's show Generator Rex. They have released four albums, Welcome to the World of [BAND_NAME],  Escape from LA, Phoenix, Dead Sexy and singles such as Late Nights and Early Mornings as well as a [GENRE]",
       "Joe Dexter is the son of successful bassist and songwriter Paul Spencer Denman, who is the current bassist for Sade.\n"
    ]
 }

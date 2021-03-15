@@ -50,9 +50,12 @@
          "Rich Balling"
       ]
    },
+   "albums": [
+      "RX Bandits Live: Vol. 1"
+   ],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band based in Seal Beach, California, United States. The band formed in [YEAR] in Orange County, California. They have appeared on the Vans Warped Tour, at the Bonnaroo Music and Arts Festival, Coachella Valley Music and Arts Festival and at The Bamboozle.\n",
-      "Originally known as The Pharmaceutical Bandits, the band began their career by participating in the third wave ska revival of the [YEAR]s. In [YEAR], they released Those Damn Bandits, which featured guest appearances by Jimmy the Robot of the Aquabats and [PERSON_NAME_FULL_0_MALE] of Jeffries Fan Club and The Forces of Evil. Noting the Bandits' potential, a [GENRE] a young, talented ska band, the Pharmaceutical Bandits. It would be OK with me if the Grinch spared them but swiped their ska records and left a shelf of Who, Clash, Bob [MONTH]ley, [PERSON_NAME_FULL_2_MALE] and Neil Young.\" [PERSON_NAME_FULL_1_MALE] attended Los Alamitos High School, which was an incubator for other third wave ska bands such as Reel Big Fish, Save Ferris, and The Scholars.\n",
+      "Originally known as The Pharmaceutical Bandits, the band began their career by participating in the third wave ska revival of the [YEAR]s. In [YEAR], they released Those Damn Bandits, which featured guest appearances by Jimmy the Robot of the Aquabats and [PERSON_NAME_FULL_1_MALE] of Jeffries Fan Club and The Forces of Evil. Noting the Bandits' potential, a Los Angeles Times review of the album said [SONG_NAME] [PERSON_NAME_FULL_0_MALE] attended Los Alamitos High School, which was an incubator for other third wave ska bands such as Reel Big Fish, Save Ferris, and The Scholars.\n",
       "In [YEAR], the band released Halfway Between Here and There. On this album, the band began to branch out beyond the third wave ska sound.\n"
    ]
 }

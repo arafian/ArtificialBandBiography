@@ -30,9 +30,13 @@
          "Brian McGee"
       ]
    },
+   "albums": [
+      "Building Beauty",
+      "Natural"
+   ],
    "prunedData": [
-      "[BAND_NAME] was a [GENRE] band, having some success in the [YEAR]s, due to songs such as \"First-Last-For Everything,\" \"Waiting for Another Chance,\" \"Ecstasy,\" and \"Desire.\" Not recognized among the bands of their day, they are still a charming reminder of the New Wave era.\n",
+      "[BAND_NAME] was a [GENRE] band, having some success in the [YEAR]s, due to songs such as [SONG_NAME] Not recognized among the bands of their day, they are still a charming reminder of the New Wave era.\n",
       "[BAND_NAME] was formed in Glasgow, Scotland by [PERSON_NAME_FIRST_0] Rudden and [PERSON_NAME_FULL_0_MALE].\n",
-      "The band began through gigging at clubs and colleges in Glasgow, Scotland, and eventually appeared as a [GENRE] band Simple Minds in late [MONTH] [YEAR], for which they received a rather lukewarm mention at the \"New Musical Express\" (\"Pleasant rather disturbing, End Game  have some good, if half-formed ideas... but at least they don't sound like the Berlin Blondes\").\n"
+      "The band began through gigging at clubs and colleges in Glasgow, Scotland, and eventually appeared as a [GENRE] band Simple Minds in late [MONTH] [YEAR], for which they received a rather lukewarm mention at the [SONG_NAME]).\n"
    ]
 }

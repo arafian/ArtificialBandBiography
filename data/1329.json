@@ -28,9 +28,16 @@
          "Leigh Heggarty (Ruts DC), Sean Gannon & Romeo Stodart (The Magic Numbers), Jason Cook (Blaggers ITA), Kieran \"Mo\" O' Hagan (Shane MacGowan and The Popes), Liam Marr (Booze & Glory)"
       ]
    },
+   "albums": [
+      "Necked (A Few Odds From the Oul' Sods)",
+      "Here's Mud in Yer Eye!",
+      "Sod 'Em & Begorrah!",
+      "Come Out Fighting!",
+      "Come Out Fighting!"
+   ],
    "prunedData": [
       "[BAND_NAME] are a [GENRE] band from the North London neighbourhood of Holloway. Following their front-man's cathartic 'Tour of Duty' as a member of the original line-up of [PERSON_NAME_FULL_0_MALE] and the Popes, [BAND_NAME] were 'born in a bottle' during late-night drinking sessions in [YEAR] by a mixture of Irish emigrant and second-generation Irish drinking buddies. The band takes their lead, both musically and ideologically, from two other London bands: The Clash and The Pogues, blending punk rock with traditional Irish music to play a London-Irish style known as 'Psycho-Ceilídh'.\n",
-      "Initially playing exclusively on the London Irish bar circuit, apparently mainly for more hedonistic reasons, and with a [GENRE] band possessions and responsibilities, their name was serendipitously gleaned from the reaction to their approach by the exasperated (Irish) landlord at their first ever gig, cursing them with an old Irish saying using the term \"neck\" – implying high levels of nerve or impudence.\n",
+      "Initially playing exclusively on the London Irish bar circuit, apparently mainly for more hedonistic reasons, and with a [GENRE] band possessions and responsibilities, their name was serendipitously gleaned from the reaction to their approach by the exasperated (Irish) landlord at their first ever gig, cursing them with an old Irish saying using the term [SONG_NAME] – implying high levels of nerve or impudence.\n",
       "After this initial period, whereby the band learned their craft and consolidated their line-up, they branched-out considerably, both aspirationally and geographically: touring extensively throughout the US, Europe, UK and Ireland, leading to them playing a [GENRE] an Phobail in The North and The Waterford Spraoi in The Republic in Ireland; Berlin's Punk & Disorderly festival four times, as well as With Full Force in Germany; while, in the UK, they have played their largest festival, Glastonbury, six times, as well as The Levellers own festival Beautiful Days four, Solfest three, Boomtown Fair twice and the Rebellion Festival, ten times.\n"
    ]
 }

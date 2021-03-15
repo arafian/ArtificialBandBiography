@@ -19,9 +19,14 @@
          "www.holysoldier.com"
       ]
    },
+   "albums": [
+      "Holy Soldier",
+      "Last Train",
+      "Promise Man"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band from Los Angeles, California.\n",
-      "The band was originally formed in early [YEAR] by bassist Andy Robbins and guitarist [PERSON_NAME_FULL_0_FEMALE]. The band gained a strong local following before signing to A&M Records in [YEAR]. [BAND_NAME] was initially noted for their strong evangelical focus, although they regularly played to mainstream audiences. For a time they held one of the largest attendance records at Gazzarri's, a notable nightclub in the Hollywood circuit. In [YEAR] they signed to Myrrh Records, an imprint of Word/A&M, as that label's first Hard Rock act. Their eponymous debut, produced by David Zaffiro, was released in [YEAR] to critical acclaim and moderate commercial success. The band garnered two Dove Awards in [YEAR], in the hard rock song and album of the year categories. After heavy touring the band lost two members – lead vocalist [PERSON_NAME_FULL_1_MALE], and guitarist Michael Cutting.\n",
-      "The band replaced the members with Eric Wayne and [PERSON_NAME_FULL_0_MALE] while continuing to tour. Wayne exited when Steven Patrick returned in [YEAR], but would again rejoin the group in [YEAR]. Two years later, the band followed up their debut with Last Train.  While praised, it was not a [GENRE] band was dropped from their roster. A review in CCM magazine found that although the band's sound had progressed, their lyrics had shifted from evangelicalism to a more ambiguous tone. Additionally, the band was criticised by some in Christian music for attempting to be a \"crossover success\" into the general market.\n"
+      "The band was originally formed in early [YEAR] by bassist Andy Robbins and guitarist [PERSON_NAME_FULL_1_FEMALE]. The band gained a strong local following before signing to A&M Records in [YEAR]. [BAND_NAME] was initially noted for their strong evangelical focus, although they regularly played to mainstream audiences. For a time they held one of the largest attendance records at Gazzarri's, a notable nightclub in the Hollywood circuit. In [YEAR] they signed to Myrrh Records, an imprint of Word/A&M, as that label's first Hard Rock act. Their eponymous debut, produced by David Zaffiro, was released in [YEAR] to critical acclaim and moderate commercial success. The band garnered two Dove Awards in [YEAR], in the hard rock song and album of the year categories. After heavy touring the band lost two members – lead vocalist [PERSON_NAME_FULL_0_MALE], and guitarist Michael Cutting.\n",
+      "The band replaced the members with Eric Wayne and [PERSON_NAME_FULL_0_MALE] while continuing to tour. Wayne exited when Steven Patrick returned in [YEAR], but would again rejoin the group in [YEAR]. Two years later, the band followed up their debut with Last Train.  While praised, it was not a [GENRE] band was dropped from their roster. A review in CCM magazine found that although the band's sound had progressed, their lyrics had shifted from evangelicalism to a more ambiguous tone. Additionally, the band was criticised by some in Christian music for attempting to be a [SONG_NAME] into the general market.\n"
    ]
 }

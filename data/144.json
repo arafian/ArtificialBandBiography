@@ -43,8 +43,19 @@
          "Hamiltron"
       ]
    },
+   "albums": [
+      "Arbgabdo, Baby!",
+      "Fleshies",
+      "The Baby",
+      "Kill The Dreamer's Dream",
+      "The Sicilian",
+      "Gung Ho!",
+      "Scrape the Walls",
+      "Brown Flag",
+      "Introducing The Fleshies"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Oakland, California, United States, that released three albums on Jello Biafra's Alternative Tentacles, Kill the Dreamer's Dream, The Sicilian, and Scrape the Walls. [BAND_NAME] have also released albums on Recess Records (\"Brown Flag\"), Adeline Records (\"The Futbol EP\"), Life is Abuse Records, Thrillhouse Records and S.P.A.M. Records, as well as singles, 7\" records and splits on a variety of labels. They are known for their outlandish stage presence, their left-wing politics and their non-stop world touring schedule from [YEAR]-[YEAR]. From their inception, they were an influential presence at events such as Geekfest, held in the late [YEAR]s, The Fest in Gainesville, Florida, and Wantage Records' Total Fest. As of [MONTH] [YEAR], the band released Introducing The [BAND_NAME] on Portland's Dirt Cult Records, its first album in ten years.\n",
+      "[BAND_NAME] is an [GENRE] band from Oakland, California, United States, that released three albums on Jello Biafra's Alternative Tentacles, Kill the Dreamer's Dream, The Sicilian, and Scrape the Walls. [BAND_NAME] have also released albums on Recess Records ([SONG_NAME] records and splits on a variety of labels. They are known for their outlandish stage presence, their left-wing politics and their non-stop world touring schedule from [YEAR]-[YEAR]. From their inception, they were an influential presence at events such as Geekfest, held in the late [YEAR]s, The Fest in Gainesville, Florida, and Wantage Records' Total Fest. As of [MONTH] [YEAR], the band released Introducing The [BAND_NAME] on Portland's Dirt Cult Records, its first album in ten years.\n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

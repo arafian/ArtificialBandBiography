@@ -40,9 +40,10 @@
          "David Yow"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band formed in San Francisco, California in [YEAR], continuing in often erratic fashion until the mid-[YEAR]s, then reuniting in [YEAR]. The band influenced a number of grunge, punk rock and noise rock bands. Their slowed-down, bass-driven and heavily distorted style of punk is considered to have inspired bands such as the Melvins and Nirvana, whose bass player Krist [MONTH]oselic played with the band in the [YEAR]s.\n",
-      "[BAND_NAME] was founded by former Sleepers member Ricky Williams (vocals), former Rad Command member [PERSON_NAME_FULL_0_MALE] (guitar), and former Negative Trend members Will Shatter (bass) and [PERSON_NAME_FULL_1_MALE] (drums). Founding member and original vocalist Williams was credited for naming the band, but was fired before it made any recordings. Bruce “Loose” Calderwood replaced Williams and he and Shatter then went on to trade vocal and bass duties, with both bringing a bass onstage. [PERSON_NAME_LAST_0], a Vietnam War veteran, played a uniquely distorted style of guitar.\n",
-      "[BAND_NAME]'s first recordings appeared in late [YEAR] on the SF Underground 7\" EP released on the newly formed Subterranean Records, followed by the \"[PERSON_NAME_FULL_0_MALE]\"/\"Ha Ha Ha\" 7\" single in [YEAR].\n"
+      "[BAND_NAME] was founded by former Sleepers member Ricky Williams (vocals), former Rad Command member [PERSON_NAME_FULL_1_MALE] (guitar), and former Negative Trend members Will Shatter (bass) and [PERSON_NAME_FULL_0_MALE] (drums). Founding member and original vocalist Williams was credited for naming the band, but was fired before it made any recordings. Bruce “Loose” Calderwood replaced Williams and he and Shatter then went on to trade vocal and bass duties, with both bringing a bass onstage. [PERSON_NAME_LAST_1], a Vietnam War veteran, played a uniquely distorted style of guitar.\n",
+      "[BAND_NAME]'s first recordings appeared in late [YEAR] on the SF Underground 7[SONG_NAME] single in [YEAR].\n"
    ]
 }

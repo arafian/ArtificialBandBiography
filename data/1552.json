@@ -25,9 +25,10 @@
          "Ukigumo"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "\"[BAND_NAME]\" (シーズンサヨナラ, Shīzun Sayonara, \"Season Farewell\"), stylised in English as \"Season SAYONARA\", is a [GENRE] band Tokyo Jihen, led by musician Ringo Sheena. It was one of the promotional songs for the band's fourth album Sports, released on [MONTH] 24, [YEAR].\n",
-      "In [YEAR], Tokyo Jihen released the single \"Nōdōteki Sanpunkan\", which was their first song to feature in commercials for Ezaki Glico's \nWatering Kissmint brand of gum. The Sports album was first announced on [MONTH] 15, [YEAR]. The first promotional song from the album was \"Kachi Ikusa\", released on [MONTH] 16, [YEAR], and used in Watering Kissmint commercials.\n",
-      "Guitarist Ukigumo had previously written songs for the band's Variety album in [YEAR], most notably the single \"OSCA\". While vocalist Ringo Sheena typically either composed or wrote lyrics for Tokyo Jihen songs, \"[BAND_NAME]\" is an [GENRE] a song written entirely by Ukigumo.\n"
+      "[SONG_NAME], is a [GENRE] band Tokyo Jihen, led by musician Ringo Sheena. It was one of the promotional songs for the band's fourth album Sports, released on [MONTH] 24, [YEAR].\n",
+      "In [YEAR], Tokyo Jihen released the single [SONG_NAME], which was their first song to feature in commercials for Ezaki Glico's \nWatering Kissmint brand of gum. The Sports album was first announced on [MONTH] 15, [YEAR]. The first promotional song from the album was [SONG_NAME], released on [MONTH] 16, [YEAR], and used in Watering Kissmint commercials.\n",
+      "Guitarist Ukigumo had previously written songs for the band's Variety album in [YEAR], most notably the single [SONG_NAME] is an [GENRE] a song written entirely by Ukigumo.\n"
    ]
 }

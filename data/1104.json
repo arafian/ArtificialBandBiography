@@ -42,9 +42,19 @@
          "Paul Engelhard"
       ]
    },
+   "albums": [
+      "Echelons",
+      "December",
+      "Aperture",
+      "Mason's California Lunchroom",
+      "Shelf Life",
+      "Coalesced",
+      "Shade Side Sunny Side",
+      "Never Been"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Lincoln, Nebraska, United States. Despite numerous lineup shuffles and some periods of dormancy, the band has produced material steadily since [YEAR].\n",
       "Something of an anomaly in Midwestern America, [BAND_NAME]—especially early in its career—has looked to a distinctly British aesthetic for inspiration, most obviously the post-punk scene exemplified by the early rosters of the Factory and 4AD record labels.\n",
-      "Featuring members of underground Lincoln bands Cartoon Pupils and Hymn to Joy, the band first called itself Glue, and then D.B.L., finally settling on Four Against One, a [GENRE] a quintet at the time. Bassist Liz Panarelli's early departure gave way to keyboardist Jeffrey Runnings' shift to bass, as well as the band's truncation of its name to [BAND_NAME]. By [YEAR], singer [PERSON_NAME_FULL_0_MALE] had departed as well, leaving the core trio of guitarist Harry Dingman III, drummer [PERSON_NAME_FULL_1_MALE] and bassist Jeffrey Runnings. The latter would become (with very few exceptions) the band's sole vocalist and lyricist.\n"
+      "Featuring members of underground Lincoln bands Cartoon Pupils and Hymn to Joy, the band first called itself Glue, and then D.B.L., finally settling on Four Against One, a [GENRE] a quintet at the time. Bassist Liz Panarelli's early departure gave way to keyboardist Jeffrey Runnings' shift to bass, as well as the band's truncation of its name to [BAND_NAME]. By [YEAR], singer [PERSON_NAME_FULL_1_MALE] had departed as well, leaving the core trio of guitarist Harry Dingman III, drummer [PERSON_NAME_FULL_0_MALE] and bassist Jeffrey Runnings. The latter would become (with very few exceptions) the band's sole vocalist and lyricist.\n"
    ]
 }

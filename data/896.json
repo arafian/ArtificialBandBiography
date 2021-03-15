@@ -33,9 +33,10 @@
          "Glenn Keating"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from Dublin, Ireland. Its members are [PERSON_NAME_FULL_0_MALE] (bass), [PERSON_NAME_FULL_2_MALE] (guitar) & Matthew Bolger (guitar).  Past members include [PERSON_NAME_FULL_1_MALE] (drums), Neil O'Connor (keyboards, percussion) & Glenn Keating (keyboards, percussion).\n",
-      "[BAND_NAME] formed in [MONTH] [YEAR] as a [GENRE] band. The band members had previously played separately in several Dublin bands - [PERSON_NAME_FULL_4_MALE] in Jackbeast, [PERSON_NAME_FULL_0_MALE] in Black Belt Jones and Sir Killalot, and [PERSON_NAME_FULL_1_MALE] in The Waltons. [PERSON_NAME_FULL_3_MALE] had played in the Dundalk band Hylton Weir. [PERSON_NAME_FULL_2_MALE] joined the band in [YEAR], having previously played with the Connect 4 Orchestra. The band first started playing gigs in Dublin and released a number of 7\" singles on their own Greyslate label; as well as a split 7\" released on Road Relish.\n",
+      "[BAND_NAME] are an [GENRE] band from Dublin, Ireland. Its members are [PERSON_NAME_FULL_1_MALE] (bass), [PERSON_NAME_FULL_0_MALE] (guitar) & Matthew Bolger (guitar).  Past members include [PERSON_NAME_FULL_2_MALE] (drums), Neil O'Connor (keyboards, percussion) & Glenn Keating (keyboards, percussion).\n",
+      "[BAND_NAME] formed in [MONTH] [YEAR] as a [GENRE] band. The band members had previously played separately in several Dublin bands - [PERSON_NAME_FULL_1_MALE] in Jackbeast, [PERSON_NAME_FULL_4_MALE] in Black Belt Jones and Sir Killalot, and [PERSON_NAME_FULL_2_MALE] in The Waltons. [PERSON_NAME_FULL_3_MALE] had played in the Dundalk band Hylton Weir. [PERSON_NAME_FULL_0_MALE] joined the band in [YEAR], having previously played with the Connect 4 Orchestra. The band first started playing gigs in Dublin and released a number of 7[SONG_NAME] released on Road Relish.\n",
       "Their debut album Thirtysixstrings was recorded by Alan O'Boyle ([MONTH]al/Legion of Two) and released as a joint venture with French label Red F Records in [YEAR]. It was well received by press and fans, and was acclaimed 'Irish album of the year' for [YEAR] by the Event Guide (Dublin).\n"
    ]
 }

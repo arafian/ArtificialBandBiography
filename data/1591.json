@@ -32,9 +32,25 @@
          "Javier Molina"
       ]
    },
+   "albums": [
+      "Hombres G",
+      "La cagaste... Burt Lancaster",
+      "Estamos locos... ¿o qué?",
+      "Agitar antes de usar",
+      "Voy a pasármelo bien",
+      "Ésta es tu vida",
+      "Historia del bikini",
+      "Peligrosamente Juntos",
+      "Todo esto es muy extraño",
+      "10",
+      "Desayuno continental",
+      "En la playa",
+      "30 años y un día",
+      "Resurrección"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band, formed in Madrid in [YEAR]. They are widely considered one of Spain's most prominent pop groups of the [YEAR]s and early [YEAR]s.  The band consists of David Summers (bass, vocals), [PERSON_NAME_FULL_1_MALE] (guitar), [PERSON_NAME_FULL_0_MALE] (guitar), and Javi Molina (drums).\n",
-      "[BAND_NAME] made their live debut at Madrid's Rock-Ola in [YEAR].  Their sound was influenced by the early Beatles and the British new wave movement.  They found commercial success with the release of [BAND_NAME] ([YEAR]) and the song \"Devuélveme a [GENRE] a large audience, both at home and abroad — thousands covered the Gran Vía Madrileña during the release of their two films and Lima's Jorge Chávez International Airport was nearly closed due to the 20,000 fans that congregated on the landing runway during their first visit to Perú.\n",
+      "[BAND_NAME] made their live debut at Madrid's Rock-Ola in [YEAR].  Their sound was influenced by the early Beatles and the British new wave movement.  They found commercial success with the release of [BAND_NAME] ([YEAR]) and the song [SONG_NAME].  The youthful and adolescent nature of their music attracted a [GENRE]",
       "The group's sound began to expand and show more adult concerns with the albums Voy a pasármelo bien ([YEAR]) and Ésta es tu vida ([YEAR]).  [BAND_NAME] went on hiatus after the release of their [YEAR] album, Historia del bikini.  David pursued a solo career, Rafa and Dani remained involved in the music industry, and Javi devoted time to his bar in Madrid.\n"
    ]
 }

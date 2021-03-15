@@ -36,9 +36,14 @@
          "Malia James"
       ]
    },
+   "albums": [
+      "I Will Be",
+      "Only in Dreams",
+      "Too True"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band, formed in [YEAR]. It began as the bedroom recording project of singer and songwriter [PERSON_NAME_FULL_0_FEMALE] (née [PERSON_NAME_FULL_2_FEMALE]). She is currently based in Los Angeles. The name is a double homage to the Vaselines' album Dum Dum and the Iggy Pop song \"Dum Dum Boys\".\n",
-      "The first release under the [BAND_NAME] moniker was a five-song CDR on her own label, Zoo Music, in late [YEAR]. It was followed by an EP on Captured Tracks and a 7\" on HoZac Records She quickly gained attention with these releases and signed to [PERSON_NAME_FULL_1_FEMALE] in [MONTH] [YEAR].\n",
-      "[BAND_NAME]' debut album, I Will Be, was released in [MONTH] [YEAR] and was well received by critics. Pitchfork described the songs as \"genuine earworms, both unfailingly hip and often wonderfully associative\". [PERSON_NAME_FULL_1_FEMALE] produced the record with [PERSON_NAME_FULL_2_MALE], who had previously worked with [PERSON_NAME_FIRST_2] Hell, Blondie, the Go-Gos and the Raveonettes. [PERSON_NAME_LAST_2] also co-wrote the early [YEAR]s hit songs \"My Boyfriend's Back\" and \"I Want Candy\". The record included guest guitarists [PERSON_NAME_FULL_5_MALE] of Yeah Yeah Yeahs on \"Yours Alone\"; [PERSON_NAME_FULL_1_FEMALE]'s ex-husband, [PERSON_NAME_FULL_4_MALE] of Crocodiles, on \"Blank Girl\"; and [PERSON_NAME_FULL_0_MALE] on multiple tracks. The cover of the album featured a college snapshot of [PERSON_NAME_FULL_1_FEMALE]'s mother, who died from cancer in [YEAR]. After its release, [PERSON_NAME_FULL_1_FEMALE] assembled a touring band, and their first shows were in support of Girls.\n"
+      "[BAND_NAME] was an [GENRE] band, formed in [YEAR]. It began as the bedroom recording project of singer and songwriter [PERSON_NAME_FULL_1_FEMALE] (née [PERSON_NAME_FULL_2_FEMALE]). She is currently based in Los Angeles. The name is a double homage to the Vaselines' album Dum Dum and the Iggy Pop song [SONG_NAME].\n",
+      "The first release under the [BAND_NAME] moniker was a five-song CDR on her own label, Zoo Music, in late [YEAR]. It was followed by an EP on Captured Tracks and a 7\" on HoZac Records She quickly gained attention with these releases and signed to [PERSON_NAME_FULL_0_FEMALE] in [MONTH] [YEAR].\n",
+      "[BAND_NAME]' debut album, I Will Be, was released in [MONTH] [YEAR] and was well received by critics. Pitchfork described the songs as [SONG_NAME]; and [PERSON_NAME_FULL_2_MALE] on multiple tracks. The cover of the album featured a college snapshot of [PERSON_NAME_FULL_5_FEMALE]'s mother, who died from cancer in [YEAR]. After its release, [PERSON_NAME_FULL_5_FEMALE] assembled a touring band, and their first shows were in support of Girls.\n"
    ]
 }

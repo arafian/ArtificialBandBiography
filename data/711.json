@@ -27,9 +27,13 @@
          "Rach Williams"
       ]
    },
+   "albums": [
+      "No Fun",
+      "Are You Sure?"
+   ],
    "prunedData": [
-      "[BAND_NAME] are a band from Chester, UK formed in [YEAR]. Their line-up is Balla (guitar and vocals), Jess (bass and vocals) and Rach (drums). Their sound has been described as \"melodic indie pop\" and \"Shiny shiny pop with an infectious energy and tunes as sharp as their fringes\"\n",
+      "[BAND_NAME] are a band from Chester, UK formed in [YEAR]. Their line-up is Balla (guitar and vocals), Jess (bass and vocals) and Rach (drums). Their sound has been described as [SONG_NAME]\n",
       "The band met at University and formed in [YEAR]. Their name was chosen as a [GENRE] a joke name when we started off, and it just stuck because we couldn’t think of anything better or worse. For us it’s just funny, but for others it’s not, which makes it even funnier.”\n",
-      "Their first release, in [YEAR], was a [GENRE] a positive review,\nBearded Magazine said, \"An excellent short story done and dusted in an ultra compact 13 minutes, the set more than sates the appetite before the arrival of full length novel.\" This was followed in [YEAR] by the 7-inch single \"I'm Not Your Problem\"/\"Fortune Favours the Bold\" on the Canadian label Kingfisher Bluez.\n"
+      "Their first release, in [YEAR], was a [GENRE] a positive review,\nBearded Magazine said, [SONG_NAME] on the Canadian label Kingfisher Bluez.\n"
    ]
 }

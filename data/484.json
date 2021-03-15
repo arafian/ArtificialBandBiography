@@ -31,9 +31,10 @@
          "Ryan Weaver"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Birmingham, Alabama. They are known  for their [YEAR] hit single \"Undo\", co-written with producer Scott Davis, which was the most played song of [YEAR] on Adult Contemporary Christian Music radio stations according to R&R magazine. It was the No. 1 Christian song for five consecutive weeks from [MONTH] 4 to [MONTH] 2, [YEAR] on 20 The Countdown Magazine's charts. Their second single \"When Our Hearts Sing\" was the seventh most played song of [YEAR]. The band's name was taken from the Biblical passage, 1 Corinthians 1:26-31.\n",
-      "The band's second album, Wonder of the World, was released on [MONTH] 16, [YEAR]. It features their hit song \"Lose it All\".\n",
-      "For their third album, the band changed to the record label eOne Christian Music. The album is titled We Once Were and was released on [MONTH] 27, [YEAR]. The lead single, \"Grace Found Me\" was released on [MONTH] 24, [YEAR].\n"
+      "[BAND_NAME] is an [GENRE] band from Birmingham, Alabama. They are known  for their [YEAR] hit single [SONG_NAME] was the seventh most played song of [YEAR]. The band's name was taken from the Biblical passage, 1 Corinthians 1:26-31.\n",
+      "The band's second album, Wonder of the World, was released on [MONTH] 16, [YEAR]. It features their hit song [SONG_NAME].\n",
+      "For their third album, the band changed to the record label eOne Christian Music. The album is titled We Once Were and was released on [MONTH] 27, [YEAR]. The lead single, [SONG_NAME] was released on [MONTH] 24, [YEAR].\n"
    ]
 }

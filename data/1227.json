@@ -40,6 +40,17 @@
          "Keri Kelli"
       ]
    },
+   "albums": [
+      "EP",
+      "Blackout in the Red Room",
+      "Wasted in America",
+      "Let's Rumble",
+      "I'm Not Happy",
+      "Livin' Off Layla",
+      "Let's Eat",
+      "Greatest & Latest",
+      "Before The Blackout"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band.\n",
       "[BAND_NAME] was formed in [YEAR], when Jizzy Pearl (real name [PERSON_NAME_FULL_0_MALE]) joined Jon E. Love, Skid Rose, and Joey Gold, in a [YEAR]s influenced electronica band called Dataclan, after their previous lead singer walked out while playing in Japan. They lived together in a Los Angeles warehouse called SoulHouse, and in the first year put out a four track EP and played a short and not very well received tour of Mexico. At this time the band had a very 'glam' look, wearing make up.\n",

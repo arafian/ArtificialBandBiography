@@ -43,9 +43,13 @@
          "Jupiter Keyes[5]"
       ]
    },
+   "albums": [
+      "Health/Elphaba",
+      "Crystal Castles//Health"
+   ],
    "prunedData": [
       "[BAND_NAME] (often stylized as HEALTH) is an [GENRE] band from Los Angeles, California.\n",
-      "[BAND_NAME] was created after its members agreed the name should be an [GENRE] a long list of terms, \"health\" was the only one not taken.\n",
-      "[BAND_NAME] first gained reputation through a [GENRE] band Crystal Castles in [MONTH] [YEAR]. The rendition helped broaden [BAND_NAME]'s audience in anticipation for their full-length debut a month later released under Lovepump United. The band's self-titled album was recorded in L.A.’s noise/experimental venue, The Smell. Known for its DIY mystique, [BAND_NAME] knew how difficult, yet rewarding, it would be to record in the space. Famiglietti said in an interview, \"The room completely changes the tone of anything you want to record; makes a lot of things dark and beautiful. It also makes everything sound like 'CLANG!' We didn't realize how hard it would be at all, we especially weren't prepared for the Vaquero bar dropping the reggaeton jamz at 1pm every day.\" Their unique sound on the album caught the attention of Spin in which they wrote, \"The near-innocuous opening track of [BAND_NAME]'s self-titled album, 'Heaven,' segues into the 36-second neurotic dissonance of 'Girl Attorney,' which picks up tempo on its transition into 'Triceratops'—a thrashing scourge of screeches, feedback, and gratuitous clanging reminiscent of Liars laced with a relief of a Deerhunter meditation.\"\n"
+      "[BAND_NAME] was created after its members agreed the name should be an [SONG_NAME] was the only one not taken.\n",
+      "[BAND_NAME] first gained reputation through a remix of their song [SONG_NAME]\n"
    ]
 }

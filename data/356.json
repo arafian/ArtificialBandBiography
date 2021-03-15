@@ -26,9 +26,15 @@
          "Celia-Louise Martin"
       ]
    },
+   "albums": [
+      "West End Girls",
+      "We Belong Together",
+      "Hits, Remixes and Other Cool Stuff",
+      "The Definitive Collection"
+   ],
    "prunedData": [
       "[BAND_NAME] were a [GENRE] band and girl group formed in [YEAR] in Vancouver, British Columbia.\n",
-      "The band was formed in Vancouver by producers [PERSON_NAME_FIRST_1] Dexter and [PERSON_NAME_FULL_1_MALE], and consisted of three teenaged girls, [PERSON_NAME_FULL_0_FEMALE], Aimee MacKenzie and [PERSON_NAME_FULL_2_FEMALE]. After several months of performing lessons with [PERSON_NAME_LAST_0]'s father Bill [PERSON_NAME_LAST_0], the lead singer of rock group Chilliwack, the trio recorded and released their debut album, [BAND_NAME], on [PERSON_NAME_FIRST_1]ny [PERSON_NAME_LAST_3] Records in [YEAR]. That album produced the Canadian Top 10 hits \"Not Like Kissing You\" and \"I Want U Back\" (a remake of the Jackson 5 hit), as well as the Top 40 singles \"Say You'll Be Mine\" and \"Show Me The Way\".\n",
-      "Petrozzi left the band in [YEAR], and was replaced by [MONTH]ele Woodley. In [YEAR], shortly before the release of the group's second album, Henderson also left and was replaced by Celia-Louise [MONTH]tin. In [YEAR], the band's new lineup released the album We Belong Together, which included the singles  \"R U Sexin' Me\", \"Pure\", and \"Sexy'\". Their second album wasn't as successful as their first one and they broke up the following year. Shortly afterwards, the group's record label released a [GENRE]"
+      "The band was formed in Vancouver by producers [PERSON_NAME_FIRST_1] Dexter and [PERSON_NAME_FULL_1_MALE], and consisted of three teenaged girls, [PERSON_NAME_FULL_3_FEMALE], Aimee MacKenzie and [PERSON_NAME_FULL_0_FEMALE]. After several months of performing lessons with [PERSON_NAME_LAST_3]'s father Bill [PERSON_NAME_LAST_3], the lead singer of rock group Chilliwack, the trio recorded and released their debut album, [BAND_NAME], on [PERSON_NAME_FIRST_1]ny [PERSON_NAME_LAST_2] Records in [YEAR]. That album produced the Canadian Top 10 hits [SONG_NAME].\n",
+      "Petrozzi left the band in [YEAR], and was replaced by [MONTH]ele Woodley. In [YEAR], shortly before the release of the group's second album, Henderson also left and was replaced by Celia-Louise [MONTH]tin. In [YEAR], the band's new lineup released the album We Belong Together, which included the singles  [SONG_NAME]. Their second album wasn't as successful as their first one and they broke up the following year. Shortly afterwards, the group's record label released a [GENRE]"
    ]
 }

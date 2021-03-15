@@ -30,9 +30,10 @@
          "Dave Regan"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] were a [GENRE] band from Cardiff, Wales, best known for their [YEAR] single \"Do The Standing Still (Classics Illustrated)\". The band originally comprised Russell Young (vocals, guitar, keyboards, bass), [PERSON_NAME_FULL_0_MALE] (guitars, bass), Len Lewis (drums) and Mickey O'Connor (guitars).\n",
+      "[BAND_NAME] were a [GENRE] band from Cardiff, Wales, best known for their [YEAR] single [SONG_NAME]. The band originally comprised Russell Young (vocals, guitar, keyboards, bass), [PERSON_NAME_FULL_0_MALE] (guitars, bass), Len Lewis (drums) and Mickey O'Connor (guitars).\n",
       "Young and Barnes met at Cathays High School in Cardiff, and started writing and playing songs together.  They performed together from [YEAR] in the band John Stabber, and formed Do You Want This Table (later shortened to [BAND_NAME]) in [YEAR].  The band was named after an [GENRE] a stranger, and originally intended being a studio-only recording group.\n",
-      "Although they performed at the Windsor Free Festival in [YEAR], publicity material at the time stated that they did not own any musical instruments, refused to tour, and said that they were not a [GENRE] band and had no future in the music industry.  Despite this, they were signed to Virgin Records in a one-off deal, and released \"Do The Standing Still (Classics Illustrated)\", first recorded as a demo in [YEAR].  The single was an NME 'Single Of The Week', rapidly becoming a cult favourite.  The lyrics were a collection of lines from comic books, and \"people used to rush the dance floor and stand still for the duration of the song when it came on in clubs.\"\n"
+      "Although they performed at the Windsor Free Festival in [YEAR], publicity material at the time stated that they did not own any musical instruments, refused to tour, and said that they were not a [SONG_NAME]\n"
    ]
 }

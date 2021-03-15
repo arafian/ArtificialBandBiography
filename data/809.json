@@ -23,7 +23,10 @@
          "supergroupies.com"
       ]
    },
+   "albums": [
+      "Supergroupies"
+   ],
    "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from Gothenburg, Sweden. The band was formed in [YEAR] and have released one studio album, [BAND_NAME]. The group consists of Kim Simon (song), [PERSON_NAME_FULL_0_MALE] (guitar), Micael Grim (bass) and [PERSON_NAME_FULL_1_MALE] (drummer). Their album was released in Japan [YEAR], and in Europe the following year, [YEAR]. The first single of the album was \"Bouncin'\". During the Japan tour in [YEAR] the group made an acoustic appearance at the Swedish embassy in Tokyo. Their producer was Kee [MONTH]cello.\n"
+      "[BAND_NAME] was a [GENRE] band from Gothenburg, Sweden. The band was formed in [YEAR] and have released one studio album, [BAND_NAME]. The group consists of Kim Simon (song), [PERSON_NAME_FULL_1_MALE] (guitar), Micael Grim (bass) and [PERSON_NAME_FULL_0_MALE] (drummer). Their album was released in Japan [YEAR], and in Europe the following year, [YEAR]. The first single of the album was [SONG_NAME]. During the Japan tour in [YEAR] the group made an acoustic appearance at the Swedish embassy in Tokyo. Their producer was Kee [MONTH]cello.\n"
    ]
 }

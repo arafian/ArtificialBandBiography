@@ -29,9 +29,18 @@
          " Keith Johnston"
       ]
    },
+   "albums": [
+      "Jacob's Trouble EP",
+      "Door into Summer",
+      "Knock, Breathe, Shine",
+      "...let the Truth Run Wild!",
+      "Jacob's Trouble",
+      "Diggin' Up Bones",
+      "The Jacob's Trouble Sampler Pak"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band formed in Atlanta, Georgia in the [YEAR]s. The group originally consisted of members Jerry Davison (drums, lead vocals), [MONTH]k Blackburn (guitar, lead vocals), and [PERSON_NAME_FULL_0_MALE] (bass).\n",
       "In [YEAR], [BAND_NAME] released their debut, Terry Taylor-produced album, The Door Into Summer, a [GENRE]",
-      "A year later the band released their second album, Knock, Breathe, Shine. The band received notice at the time for the song \"About Sex\", a [GENRE] a Christian perspective. Fearing a fundamentalist label, the band opted to remove the song from the album and replaced it with the more ambiguous \"About Sex, Part 2\". Despite this, the album was the group's best-selling record. They performed \"About Sex\" during a concert at Dellinger Park in Cartersville, GA.\n"
+      "A year later the band released their second album, Knock, Breathe, Shine. The band received notice at the time for the song [SONG_NAME] during a [GENRE]"
    ]
 }

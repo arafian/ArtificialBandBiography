@@ -36,9 +36,17 @@
          "Dame Rodriguez"
       ]
    },
+   "albums": [
+      "The Budos Band",
+      "The Budos Band II",
+      "The Budos Band III",
+      "Burnt Offering",
+      "The Budos Band V",
+      "Long in the Tooth"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Staten Island, New York, formed in [YEAR]. AllMusic describes the group as a \"doom rock Afro-soul big band with a '70s touch\" that joins \"musical universes from trippy psychedelia and Afro-funk to '70s hard rock and late-'60s soul.\" They have described themselves as \"70's Psychedelic Instrumental Music,\" and \"Afro-soul inspired by Ethiopian music with a soul undercurrent\" and \"sprinkled a little bit of sweet 60's stuff on top.\" One reviewer described the band as “sounding as if [PERSON_NAME_FULL_0_MALE] was the music supervisor for a Bond film\". Their more recent albums have incorporated sounds from [YEAR]s jazz, funk, Afro-Beat, underground rock, and proto-metal. They have been signed to Daptone Records throughout their career.\n",
-      "[BAND_NAME] originated at a [GENRE] band Antibalas. Some of the participants decided to form the new band, which has consisted of an occasionally floating lineup featuring David Guy and [PERSON_NAME_FULL_0_MALE] (trumpets), Cochemea Gastelum (tenor sax), Jared Tankel (baritone sax), Dame Rodriguez and Vincent Balestrino (percussion), Thomas Brenneck (guitar), [PERSON_NAME_FULL_1_MALE] (congas), Mike Deller (organ), [PERSON_NAME_FULL_2_MALE] (bass), and [PERSON_NAME_FULL_4_MALE] and John Carbonella Jr. (drums). Their self-titled debut album was released in [YEAR] and featured guest appearances by Bosco Mann and [PERSON_NAME_FULL_3_MALE].\n",
-      "[BAND_NAME] II and [BAND_NAME] III were released in [YEAR] and [YEAR], respectively. During this period the band members, in various permutations, backed several other acts associated with the Daptone label, including an acclaimed appearance on \"Changes\" by Charles Bradley. The fourth Budos Band album, Burnt Offering, was released in [YEAR] and was noted for incorporating elements from hard rock and heavy metal. The band was saddened by the deaths of labelmates [PERSON_NAME_FULL_0_FEMALE] in [YEAR] and Charles Bradley in [YEAR], with some members moving to other states and starting families.\n"
+      "[BAND_NAME] is an [GENRE] band from Staten Island, New York, formed in [YEAR]. AllMusic describes the group as a [SONG_NAME]. Their more recent albums have incorporated sounds from [YEAR]s jazz, funk, Afro-Beat, underground rock, and proto-metal. They have been signed to Daptone Records throughout their career.\n",
+      "[BAND_NAME] originated at a [GENRE] band Antibalas. Some of the participants decided to form the new band, which has consisted of an occasionally floating lineup featuring David Guy and [PERSON_NAME_FULL_0_MALE] (trumpets), Cochemea Gastelum (tenor sax), Jared Tankel (baritone sax), Dame Rodriguez and Vincent Balestrino (percussion), Thomas Brenneck (guitar), [PERSON_NAME_FULL_3_MALE] (congas), Mike Deller (organ), [PERSON_NAME_FULL_1_MALE] (bass), and [PERSON_NAME_FULL_4_MALE] and John Carbonella Jr. (drums). Their self-titled debut album was released in [YEAR] and featured guest appearances by Bosco Mann and [PERSON_NAME_FULL_2_MALE].\n",
+      "[BAND_NAME] II and [BAND_NAME] III were released in [YEAR] and [YEAR], respectively. During this period the band members, in various permutations, backed several other acts associated with the Daptone label, including an acclaimed appearance on [SONG_NAME] by Charles Bradley. The fourth Budos Band album, Burnt Offering, was released in [YEAR] and was noted for incorporating elements from hard rock and heavy metal. The band was saddened by the deaths of labelmates [PERSON_NAME_FULL_0_FEMALE] in [YEAR] and Charles Bradley in [YEAR], with some members moving to other states and starting families.\n"
    ]
 }

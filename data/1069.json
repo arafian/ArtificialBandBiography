@@ -27,9 +27,13 @@
          "Akiva Girsh"
       ]
    },
+   "albums": [
+      "Passin'over",
+      "Real People"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Jerusalem. They formed in [YEAR] with singer/guitarist Lazer Lloyd (formerly of Reva L'Sheva), bassist [PERSON_NAME_FULL_1_MALE], and drummer [PERSON_NAME_FULL_2_MALE] (later replaced by [PERSON_NAME_FULL_3_MALE]). They released two albums, Passin'over ([YEAR]) and Real People ([YEAR]). Self-described as a \"power rock trio\", [BAND_NAME] performs blues rock in the vein of ZZ Top, Cream, Led Zeppelin, and [PERSON_NAME_FULL_0_MALE], albeit with religious lyrics.\n",
-      "The original members of [BAND_NAME] - singer/guitarist Lazer Lloyd, bassist [PERSON_NAME_FULL_0_MALE], and drummer [PERSON_NAME_FULL_1_MALE] -  met and began playing together in Beit Shemesh in [YEAR], but ultimately separated due to Lloyd's commitment to [PERSON_NAME_FULL_2_FEMALE], the outbreak of the Second Intifada, and their collective uncertainty about the group's profitability. However, they later regrouped in the fall of [YEAR], motivated by the controversial dismantling of Gaza settlements by the Israeli government, with Lloyd later saying, \"We just knew that we needed to do something to counteract what was going on in the country. Music has a [GENRE]",
+      "[BAND_NAME] is an [GENRE] band from Jerusalem. They formed in [YEAR] with singer/guitarist Lazer Lloyd (formerly of Reva L'Sheva), bassist [PERSON_NAME_FULL_2_MALE], and drummer [PERSON_NAME_FULL_1_MALE] (later replaced by [PERSON_NAME_FULL_3_MALE]). They released two albums, Passin'over ([YEAR]) and Real People ([YEAR]). Self-described as a [SONG_NAME], [BAND_NAME] performs blues rock in the vein of ZZ Top, Cream, Led Zeppelin, and [PERSON_NAME_FULL_0_MALE], albeit with religious lyrics.\n",
+      "The original members of [BAND_NAME] - singer/guitarist Lazer Lloyd, bassist [PERSON_NAME_FULL_2_MALE], and drummer [PERSON_NAME_FULL_1_MALE] -  met and began playing together in Beit Shemesh in [YEAR], but ultimately separated due to Lloyd's commitment to [PERSON_NAME_FULL_0_FEMALE], the outbreak of the Second Intifada, and their collective uncertainty about the group's profitability. However, they later regrouped in the fall of [YEAR], motivated by the controversial dismantling of Gaza settlements by the Israeli government, with Lloyd later saying, [SONG_NAME]\n",
       "Girsh left in [YEAR] to pursue other projects and was replaced by Russian-American drummer Moshe Yankovsky. That same year, the band made their debut at an [GENRE]"
    ]
 }

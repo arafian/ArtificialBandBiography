@@ -32,8 +32,27 @@
          "Glenn Sears"
       ]
    },
+   "albums": [
+      "Work Done on Premises",
+      "Heat Generation",
+      "Law of the Fish",
+      "Billboard",
+      "Zig-Zaggin' Through Ghostland",
+      "Billboard",
+      "Total Evaporation",
+      "Snafu 10-31-'91",
+      "Bucket of Fish",
+      "New Dark Ages",
+      "Live at the Great American Music Hall",
+      "The Radiators",
+      "Earth vs. The Radiators: the First 25",
+      "Dreaming Out Loud",
+      "The Lost Southlake Sessions",
+      "The Last Watusi",
+      "Welcome to the Monkey House"
+   ],
    "prunedData": [
-      "[BAND_NAME], also known as The New Orleans Radiators, are a [GENRE] band from New Orleans, Louisiana, who combined the traditional musical styles of their native city with more mainstream [GENRE] and R&B influences to form a bouncy, funky variety of swamp-[GENRE] they called fish-head music.  Described by OffBeat magazine as \"New Orleans' longest-running and most successful [GENRE] band\",  [BAND_NAME]' had only limited commercial success, with only a handful of chart appearances, but, as a party band from a party town, their enthusiastic live performances, danceable beats and relentless touring earned the band a dedicated following and the admiration of many of their peers.  \n",
+      "[BAND_NAME], also known as The New Orleans Radiators, are a [GENRE] band from New Orleans, Louisiana, who combined the traditional musical styles of their native city with more mainstream [GENRE] and R&B influences to form a bouncy, funky variety of swamp-[GENRE] they called fish-head music.  Described by OffBeat magazine as [SONG_NAME],  [BAND_NAME]' had only limited commercial success, with only a handful of chart appearances, but, as a party band from a party town, their enthusiastic live performances, danceable beats and relentless touring earned the band a dedicated following and the admiration of many of their peers.  \n",
       "In a feat of continuity rarely seen in the rock music world, the five-man line up in the year of their breakup ([YEAR]) is the same one as when the band formed in [YEAR].  They performed at every New Orleans Jazz & Heritage Festival from their inception until their retirement ([YEAR] - [YEAR]). \n",
       "[BAND_NAME] had a repertoire which included over three hundred original songs—many never released on album—and over one thousand covers (or partial covers used as part of a medley).  With the band's approval, over 500 concert recordings have been made available for free (for non-commercial use) on the Internet Archive.\n"
    ]

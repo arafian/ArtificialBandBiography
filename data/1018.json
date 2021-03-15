@@ -46,9 +46,13 @@
          "Kenny Brooks"
       ]
    },
+   "albums": [
+      "Evening Moods",
+      "Live at Roseland"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band. The group began in [YEAR] as a side project for Grateful Dead guitarist and singer [PERSON_NAME_FULL_0_MALE]. After the Dead disbanded later that year, [BAND_NAME] became [PERSON_NAME_LAST_0]'s primary band. They performed some Grateful Dead songs, a mixture of covers (including [PERSON_NAME_FIRST_0] Dylan and [PERSON_NAME_FULL_1_MALE] tunes), and some originals. [BAND_NAME]'s repertoire consisted of more than 150 songs.  They released two albums – Evening Moods ([YEAR]) and Live at Roseland ([YEAR]).  [BAND_NAME] has not toured since [MONTH] [YEAR].\n",
-      "The lineup of [BAND_NAME] evolved over time.  Musicians who were members of the band at different times include Rob Wasserman and [PERSON_NAME_FULL_1_MALE] on bass, Jay Lane on drums, [PERSON_NAME_FULL_4_MALE], [MONTH]k Karan, and [PERSON_NAME_FULL_2_MALE] on guitar, and [PERSON_NAME_FULL_0_MALE], Johnny Johnson and [PERSON_NAME_FULL_3_MALE] on keyboards.\n",
-      "During the late [YEAR]s, Bob Weir teamed up with bassist [PERSON_NAME_FULL_0_MALE] and the duo toured for seven years under names such as Weir/[PERSON_NAME_LAST_0] and Scaring the Children. In [YEAR], Weir and [PERSON_NAME_LAST_0] participated in the Woodstock '94 festival. Jay Lane was added on drums and [PERSON_NAME_FULL_1_MALE] on guitar and harmonica in [YEAR]. They played their first show as a [GENRE] band on [MONTH] 22, [YEAR], billed as Friends of Montezuma and then as [BAND_NAME] Revue. They played their first show as [BAND_NAME] on [MONTH] 8, [YEAR]. Jerry Garcia died the next day.\n"
+      "The lineup of [BAND_NAME] evolved over time.  Musicians who were members of the band at different times include Rob Wasserman and [PERSON_NAME_FULL_4_MALE] on bass, Jay Lane on drums, [PERSON_NAME_FULL_3_MALE], [MONTH]k Karan, and [PERSON_NAME_FULL_1_MALE] on guitar, and [PERSON_NAME_FULL_2_MALE], Johnny Johnson and [PERSON_NAME_FULL_0_MALE] on keyboards.\n",
+      "During the late [YEAR]s, Bob Weir teamed up with bassist [PERSON_NAME_FULL_1_MALE] and the duo toured for seven years under names such as Weir/[PERSON_NAME_LAST_1] and Scaring the Children. In [YEAR], Weir and [PERSON_NAME_LAST_1] participated in the Woodstock '94 festival. Jay Lane was added on drums and [PERSON_NAME_FULL_0_MALE] on guitar and harmonica in [YEAR]. They played their first show as a [GENRE] band on [MONTH] 22, [YEAR], billed as Friends of Montezuma and then as [BAND_NAME] Revue. They played their first show as [BAND_NAME] on [MONTH] 8, [YEAR]. Jerry Garcia died the next day.\n"
    ]
 }

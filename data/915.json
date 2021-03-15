@@ -44,9 +44,18 @@
          " Christopher Royal King"
       ]
    },
+   "albums": [
+      "Young Mountain",
+      "This Will Destroy You",
+      "Tunnel Blanket",
+      "Another Language",
+      "New Others Part One",
+      "New Others Part Two",
+      "Vespertine"
+   ],
    "prunedData": [
       "[BAND_NAME] (abbreviated as TWDY) is an [GENRE] band from San [MONTH]cos, Texas, formed in [YEAR]. They typically compose lengthy atmospheric instrumental pieces, featuring layers of effects-laden guitar and a heavy usage of dynamics. Their fourth album Another Language, released in [YEAR], entered the Billboard Heatseekers Album Chart at number 7.\n",
       "[BAND_NAME] was formed by guitarists [PERSON_NAME_FULL_1_MALE] and Chris King, bassist [PERSON_NAME_FULL_0_MALE] and drummer Andrew Miller in San [MONTH]cos, Texas, in [YEAR]. They had met through mutual friends, and played together in various different bands throughout high school before the lineup was finalized by around [YEAR].\n",
-      "Early iterations of the band featured Galindo on vocals and \"sounded like Radiohead\", but after recording some tracks they decided the results were \"awful\" and didn't fit in with the rest of their music. After composing their next song \"The World Is Our___\", the band decided to write instrumental music instead. Chris King said in an [GENRE]"
+      "Early iterations of the band featured Galindo on vocals and [SONG_NAME]\n"
    ]
 }

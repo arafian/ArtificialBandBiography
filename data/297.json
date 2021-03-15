@@ -19,8 +19,9 @@
          "Daniel McBurnie, Graham Gomez, Alexa Unwin, Robert Hardie, Alex Hauka, Gregory McLeod, Will Watson"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band based in Surrey, British Columbia, Canada. The band consists of Daniel McBurnie (vocals, acoustic guitar), [PERSON_NAME_FULL_1_MALE] (electric guitar, vocals), [PERSON_NAME_FIRST_0]a [PERSON_NAME_LAST_2] (piano, vocals), Robert Hardie (bass, vocals), [PERSON_NAME_FULL_0_MALE] (cello), Gregory McLeod (trombone and violin) and [PERSON_NAME_FULL_3_MALE] (drums).\n",
+      "[BAND_NAME] is a [GENRE] band based in Surrey, British Columbia, Canada. The band consists of Daniel McBurnie (vocals, acoustic guitar), [PERSON_NAME_FULL_2_MALE] (electric guitar, vocals), [PERSON_NAME_FULL_0_FEMALE] (piano, vocals), Robert Hardie (bass, vocals), [PERSON_NAME_FULL_3_MALE] (cello), Gregory McLeod (trombone and violin) and [PERSON_NAME_FULL_1_MALE] (drums).\n",
       "Their first self-titled EP, [BAND_NAME] was released on iTunes Canada on [MONTH] 15, [YEAR]. They have won both the Rogers urMusic Battle of the Bands, and Supernova's 'Band on the Run to the UK.'\n",
       "The band was formed when a [GENRE] bands such as Paper Lions, The Matinee and Mother Mother. They have also gone on to record in Toronto's Coalition Studios and Vancouver's Greenhouse Studios.\n"
    ]

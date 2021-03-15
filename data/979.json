@@ -36,9 +36,21 @@
          "Jesse Cobb"
       ]
    },
+   "albums": [
+      "Fork in the Road",
+      "The Infamous Stringdusters",
+      "Things That Fly",
+      "We'll Do It Live",
+      "Silver Sky",
+      "Let It Go",
+      "Ladies & Gentlemen",
+      "Laws of Gravity",
+      "Rise Sun",
+      "Dust The Halls"
+   ],
    "prunedData": [
       "[BAND_NAME] are a [GENRE] band. The band first emerged in [YEAR] with the limited release of a five-song extended play CD [BAND_NAME], followed in [YEAR] by their first album Fork in the Road. Both of these were on Sugar Hill Records. The band consists of [PERSON_NAME_FULL_1_MALE] (Dobro), [PERSON_NAME_FIRST_1] Falco (guitar), [PERSON_NAME_FULL_0_MALE] (banjo), [PERSON_NAME_FULL_2_MALE] (fiddle), and Travis Book (double bass). The band has become known for a complex, distinctive, and groove-friendly sound along with a bluegrass theme.\n",
       "[BAND_NAME] won three awards at the International Bluegrass Music Association Awards Ceremony in [MONTH] [YEAR]: Emerging Artist of the Year, Album of the Year for Fork in the Road (in a tie with J.D. Crowe & the New South's album Lefty's Old Guitar), and Song of the Year for the album's title cut. The band was also nominated for [YEAR] Entertainer of the Year by the International Bluegrass Music Association.\n",
-      "In [YEAR], \"Magic No. 9\" (from Things That Fly) was nominated for the Grammy Award for Best Country Instrumental Performance. In [YEAR], they won the Grammy Award for Best Bluegrass Album.\n"
+      "In [YEAR], [SONG_NAME] (from Things That Fly) was nominated for the Grammy Award for Best Country Instrumental Performance. In [YEAR], they won the Grammy Award for Best Bluegrass Album.\n"
    ]
 }

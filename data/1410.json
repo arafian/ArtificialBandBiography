@@ -38,9 +38,15 @@
          "Benjamin Curtis"
       ]
    },
+   "albums": [
+      "Alpinisms",
+      "Disconnect from Desire",
+      "Ghostory",
+      "SVIIB"
+   ],
    "prunedData": [
-      "[BAND_NAME] (often stylized as SVIIB) was an [GENRE] band from New York City, formed in [YEAR]. It originally consisted of [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] (vocals, guitar), her sister [PERSON_NAME_FULL_0_FEMALE] (keyboards, vocals) and Benjamin Curtis (guitar, synthesizers, vocals). [PERSON_NAME_FIRST_0] left the group in [YEAR], and Curtis died of lymphoma in [YEAR]. Using demos of songs Curtis had written prior to and during his illness, the band's fourth and final album, SVIIB, was completed posthumously and released in [MONTH] [YEAR].\n",
-      "The band took its name from an [GENRE]",
+      "[BAND_NAME] (often stylized as SVIIB) was an [GENRE] band from New York City, formed in [YEAR]. It originally consisted of [PERSON_NAME_FULL_0_FEMALE] (vocals, guitar), her sister [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] (keyboards, vocals) and Benjamin Curtis (guitar, synthesizers, vocals). [PERSON_NAME_FIRST_1] left the group in [YEAR], and Curtis died of lymphoma in [YEAR]. Using demos of songs Curtis had written prior to and during his illness, the band's fourth and final album, SVIIB, was completed posthumously and released in [MONTH] [YEAR].\n",
+      "The band took its name from an alleged South American pickpocket training academy. Alejandra told the Sydney Morning Herald that [SONG_NAME]\n",
       "Benjamin Curtis (formerly of Secret Machines) met identical twin sisters Alejandra and [PERSON_NAME_FULL_0_FEMALE] (both formerly of On!Air!Library!) while opening on an [GENRE] bands, move into a shared space and create a home recording studio together.\n"
    ]
 }

@@ -31,8 +31,11 @@
          "Melisa Berkoff"
       ]
    },
+   "albums": [
+      "Autoclave"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band, based in Washington, D.C. They were on local label Dischord Records. Formed in the summer of [YEAR], the group consisted of vocalist and bassist [PERSON_NAME_FULL_0_FEMALE], lead guitarist [MONTH]y Timony, guitarist Nikki Chapman, and drummer [PERSON_NAME_FULL_1_FEMALE].\n",
+      "[BAND_NAME] was an [GENRE] band, based in Washington, D.C. They were on local label Dischord Records. Formed in the summer of [YEAR], the group consisted of vocalist and bassist [PERSON_NAME_FULL_1_FEMALE], lead guitarist [MONTH]y Timony, guitarist Nikki Chapman, and drummer [PERSON_NAME_FULL_0_FEMALE].\n",
       "The group broke up in [MONTH] [YEAR], with Timony forming Helium and Billotte forming Slant 6. Timony would later release solo albums on Lookout! and Matador, and release music as a [GENRE]",
       "[BAND_NAME] became known for their intelligent, off-kilter brand of rock, which featured the use of compound and changing meters, thus affiliating them to some extent with the math rock movement.\n"
    ]

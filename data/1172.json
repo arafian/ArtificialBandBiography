@@ -6,9 +6,15 @@
       "Member David de Laski went on to form the music project Lord Runningclam.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Knowoneness",
+      "Together",
+      "Sonic Diary",
+      "Sonic Diary Singles"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band based in Los Angeles, California. It was formed in [YEAR] by composer and producer James Lumb, who initially involved vocalist [PERSON_NAME_FULL_0_FEMALE] and percussionist [PERSON_NAME_FULL_1_MALE] in the project.  Over time, [BAND_NAME] has also included such musicians as Leigh Gorman of Bow Wow Wow.  The band has worked with record labels such as Los Angeles-based electronic music label Moonshine Music.\n",
-      "The single \"Together\" from the EP of the same name was their best-charting hit, reaching #1 on the College Music Journal RPM dance chart. The band is one of the featured artists in the documentary film Better Living Through Circuitry.\n",
+      "The single [SONG_NAME] from the EP of the same name was their best-charting hit, reaching #1 on the College Music Journal RPM dance chart. The band is one of the featured artists in the documentary film Better Living Through Circuitry.\n",
       "Member David de Laski went on to form the music project Lord Runningclam.\n"
    ]
 }

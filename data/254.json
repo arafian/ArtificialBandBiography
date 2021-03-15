@@ -52,9 +52,22 @@
          "Scott Risner"
       ]
    },
+   "albums": [
+      "Bluegrass Evolution",
+      "J.D. Crowe & the New South",
+      "You Can Share My Blanket",
+      "My Home Ain't In The Hall of Fame",
+      "Somewhere Between",
+      "Live In Japan",
+      "Straight Ahead",
+      "Flashback",
+      "Come On Down To My World",
+      "At Bean Blossom: Uncle Pen Days",
+      "Lefty's Old Guitar"
+   ],
    "prunedData": [
-      "The [BAND_NAME] is a [GENRE] band formed in [YEAR] by banjo player J. D. Crowe. Their first two albums, Bluegrass Evolution and the eponymous record known by the album number, \"Rounder [YEAR],\" established them as a dominant force in [GENRE], though the two albums are wildly different.\n",
+      "The [BAND_NAME] is a [GENRE] band formed in [YEAR] by banjo player J. D. Crowe. Their first two albums, Bluegrass Evolution and the eponymous record known by the album number, [SONG_NAME] established them as a dominant force in [GENRE], though the two albums are wildly different.\n",
       "The [BAND_NAME] have recorded and toured with a variety of different lineups. One of the most notable lineup changes came in [YEAR] when the entire band quit out of desire for a more active performing schedule, forming the band Wildfire. Crowe quickly found replacements (rehiring mandolinist/vocalist [PERSON_NAME_FULL_0_MALE] and guitarist/ vocalist Rickey Wasson who had both been members previously) and the [BAND_NAME] has continued a moderate performance schedule.\n",
-      "Current and past members include: J.D. Crowe, [PERSON_NAME_FULL_0_MALE], Tony [PERSON_NAME_LAST_6], [PERSON_NAME_FULL_6_MALE], Bobby Slone, [PERSON_NAME_FULL_4_MALE], Jerry Douglas, [PERSON_NAME_FULL_10_MALE], Jimmy Gaudreau, [PERSON_NAME_FULL_3_MALE], [PERSON_NAME_FULL_7_MALE], Tony King, [PERSON_NAME_FULL_1_MALE], Richard Bennett, [PERSON_NAME_FULL_2_MALE], Darrell Webb, [PERSON_NAME_FULL_9_MALE], [PERSON_NAME_FULL_11_MALE], Rickey Wasson, [PERSON_NAME_FULL_8_MALE], Harold Nixon, [PERSON_NAME_FULL_5_MALE], and Ron Stewart.\n"
+      "Current and past members include: J.D. Crowe, [PERSON_NAME_FULL_7_MALE], Tony [PERSON_NAME_LAST_8], [PERSON_NAME_FULL_8_MALE], Bobby Slone, [PERSON_NAME_FULL_0_MALE], Jerry Douglas, [PERSON_NAME_FULL_2_MALE], Jimmy Gaudreau, [PERSON_NAME_FULL_6_MALE], [PERSON_NAME_FULL_11_MALE], Tony King, [PERSON_NAME_FULL_10_MALE], Richard Bennett, [PERSON_NAME_FULL_3_MALE], Darrell Webb, [PERSON_NAME_FULL_9_MALE], [PERSON_NAME_FULL_5_MALE], Rickey Wasson, [PERSON_NAME_FULL_4_MALE], Harold Nixon, [PERSON_NAME_FULL_1_MALE], and Ron Stewart.\n"
    ]
 }

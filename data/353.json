@@ -31,6 +31,13 @@
          "Josue Quezada"
       ]
    },
+   "albums": [
+      "Space Race (EP)",
+      "Mercury (EP)",
+      "Apollo",
+      "St.Helens",
+      "St.Helens (Ambient)"
+   ],
    "prunedData": [
       "[BAND_NAME] (or Tourist Company) is a [GENRE] band, formed in [YEAR] by Taylor Swindells.\n",
       "Tourist Company formed after meeting at summer camp in [YEAR]. After that they teamed up with singer-songwriter Jordan Klassen to produce and record their EP Space Race, which they released in [MONTH] [YEAR].\n",

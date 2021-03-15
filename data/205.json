@@ -34,9 +34,16 @@
          " Brandon Wars"
       ]
    },
+   "albums": [
+      "Demo CD-R",
+      "Gutter Days",
+      "Cheerleader 666",
+      "All Hail",
+      "Kill Cheerleader"
+   ],
    "prunedData": [
-      "Kill Cheerleader (previously known as Cheerleader 666) was a [GENRE] band whose members formed in [YEAR] in Toronto, Ontario, Canada . Mainly influenced by punk [GENRE] and heavy metal acts such as The Stooges, early era Guns N' Roses, Mötley Crüe, Iron Maiden, the Ramones, Girlschool, [PERSON_NAME_FULL_0_FEMALE] and Neil Young, they had crafted their own unique, sleazy style of [GENRE] 'n' roll, once being described as \"a derailed train hitting a Baptist Church\". Lemmy from Motörhead described Kill Cheerleader as the \"greatest [GENRE] n' roll band since Guns N' Roses.\"\n",
-      "The original members of the group were childhood friends who learned their instruments practicing old Guns N' Roses, The Stooges and Mötley Crüe songs. A band member reportedly said that the name came from miserable high school experiences, saying, \"beat up the jocks and kill the cheerleaders\". They started off playing shows in Toronto but were soon banned from clubs for their on and off stage antics. They started playing shows in Southern California after being invited by Chris Squire to open dates for his garage punk group, The Tori Cobras. During this tour Squire introduced the band to professional skateboarder, Kris [MONTH]kovich, landing Kill Cheerleader the opening music track in [MONTH]kovich's \"Hollywood Skateboards\" video. After this tour the band became popular among hardcore skateboarders and so-cal punk rockers.\n",
-      "After some [YEAR] demo CDs were sold, a German record label licensed one of their unmixed/unmastered recordings and released it as 7 track LP titled Gutter Days which was rereleased on 10\" vinyl in [YEAR]. One reviewer called it \"the greatest punk n' roll recording ever made... completely redefined excellence in that genre... I am shaken...\" (House of Smut). Ky Anto, lead guitarist for [PERSON_NAME_FULL_1_MALE] once called them \"The sound of desperation\"... [PERSON_NAME_FULL_0_FEMALE] of Mötley Crüe called them the \"best new band\" in his online journal. SPIN Magazine journalists wrote how they were \"blown away\" about their live show, and Alternative Press has called them a \"band to watch.\"  Rock legend Lemmy from Motörhead invited them to open their UK tour  and talked about them on SuicideGirls.com and in Playboy, declaring [BAND_NAME] as the \"greatest rock n' roll band since Guns N' Roses.\"\n"
+      "Kill Cheerleader (previously known as Cheerleader 666) was a [GENRE] band whose members formed in [YEAR] in Toronto, Ontario, Canada . Mainly influenced by punk [GENRE] and heavy metal acts such as The Stooges, early era Guns N' Roses, Mötley Crüe, Iron Maiden, the Ramones, Girlschool, [PERSON_NAME_FULL_0_FEMALE] and Neil Young, they had crafted their own unique, sleazy style of [GENRE] 'n' roll, once being described as [SONG_NAME]\n",
+      "The original members of the group were childhood friends who learned their instruments practicing old Guns N' Roses, The Stooges and Mötley Crüe songs. A band member reportedly said that the name came from miserable high school experiences, saying, [SONG_NAME] video. After this tour the band became popular among hardcore skateboarders and so-cal punk rockers.\n",
+      "After some [YEAR] demo CDs were sold, a German record label licensed one of their unmixed/unmastered recordings and released it as 7 track LP titled Gutter Days which was rereleased on 10[SONG_NAME]\n"
    ]
 }

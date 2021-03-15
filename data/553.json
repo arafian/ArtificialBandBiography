@@ -39,9 +39,24 @@
          "V'gandr"
       ]
    },
+   "albums": [
+      "Walk My Path",
+      "Dark Sorcery",
+      "Beyond the Wandering Moon",
+      "...And So the Night Became",
+      "Dark Rage",
+      "Shadows of Old",
+      "Burning the Shroud",
+      "Ascension of Terror",
+      "Demo 2002",
+      "A Darker Monument",
+      "HeXaeon",
+      "...And the Seventh His Soul Detesteth",
+      "Heathen"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Bergen, Norway. It was formed in [YEAR] as an idea of [PERSON_NAME_FULL_1_MALE], calling himself [PERSON_NAME_FULL_4_MALE], and [PERSON_NAME_FULL_0_MALE], a.k.a. Vrolok. Later in [YEAR] Nicola Trier, a.k.a. Morrigan, joined the duo as a bass player, forming the core trio that created the band's first two albums. Morrigan also created the logo picture of ravens and axes that still exists as one of the band's trademarks.\n",
-      "For the first two albums, the band called their own style \"Dark Metal\". They released their debut album, Beyond the Wandering Moon, in [YEAR] on Hammerheart Records (now Karmageddon Media), and toured that year with black metal bands Emperor and Limbonic Art through Europe. Their second album, ...And So the Night Became was released in [YEAR], accompanied by a [GENRE]",
-      "In [YEAR], they added guitarist [PERSON_NAME_FULL_0_MALE], and their sound moved from darkened black metal toward a faster and more aggressive death metal sound for [YEAR]'s Shadows of Old. Morrigan left the group in [YEAR] for personal reasons and was later replaced by V'gandr, head of the Norwegian Viking metal band Helheim. Later that year they released their fourth full-length album called Ascension of Terror and did some live shows. They then departed from Hammerheart Records and also split way with guitarist [PERSON_NAME_FULL_0_MALE]. Their next album A Darker Monument was released on the new Nocturnal Art Productions label in [YEAR]. After the release of their sixth full-length HeXaeon, long-time member Vrolok left the band and was replaced by S. Winter on drums early in [YEAR]. The group toured Europe later that year to support their new album. In [MONTH] [YEAR], S. Winter was no longer in the group.\n"
+      "[BAND_NAME] is a [GENRE] band from Bergen, Norway. It was formed in [YEAR] as an idea of [PERSON_NAME_FULL_0_MALE], calling himself [PERSON_NAME_FULL_2_MALE], and [PERSON_NAME_FULL_4_MALE], a.k.a. Vrolok. Later in [YEAR] Nicola Trier, a.k.a. Morrigan, joined the duo as a bass player, forming the core trio that created the band's first two albums. Morrigan also created the logo picture of ravens and axes that still exists as one of the band's trademarks.\n",
+      "For the first two albums, the band called their own style [SONG_NAME]. They released their debut album, Beyond the Wandering Moon, in [YEAR] on Hammerheart Records (now Karmageddon Media), and toured that year with black metal bands Emperor and Limbonic Art through Europe. Their second album, ...And So the Night Became was released in [YEAR], accompanied by a [GENRE]",
+      "In [YEAR], they added guitarist [PERSON_NAME_FULL_3_MALE], and their sound moved from darkened black metal toward a faster and more aggressive death metal sound for [YEAR]'s Shadows of Old. Morrigan left the group in [YEAR] for personal reasons and was later replaced by V'gandr, head of the Norwegian Viking metal band Helheim. Later that year they released their fourth full-length album called Ascension of Terror and did some live shows. They then departed from Hammerheart Records and also split way with guitarist [PERSON_NAME_FULL_3_MALE]. Their next album A Darker Monument was released on the new Nocturnal Art Productions label in [YEAR]. After the release of their sixth full-length HeXaeon, long-time member Vrolok left the band and was replaced by S. Winter on drums early in [YEAR]. The group toured Europe later that year to support their new album. In [MONTH] [YEAR], S. Winter was no longer in the group.\n"
    ]
 }

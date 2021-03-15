@@ -30,8 +30,11 @@
          "Paul Clipson, John Hughes, Trevor Montgomery, Patricia Kavanaugh, Kenseth Thibideau, Jeffrey Rosenberg, Tony Cross, Steve Dye"
       ]
    },
+   "albums": [
+      "Tarentel"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a band based in San Francisco, California, which formed in [YEAR]. Initially, the band consisted of [PERSON_NAME_FULL_4_MALE] and Jefre Cantu-Ledesma. The line-up altered over the years and has included John Hughes, [PERSON_NAME_FULL_1_MALE], [PERSON_NAME_FULL_5_FEMALE], Kenseth Thibideau, [PERSON_NAME_FULL_3_MALE], [PERSON_NAME_FULL_2_MALE], Tony Cross, [PERSON_NAME_FULL_0_MALE] and others.\n",
+      "[BAND_NAME] is a band based in San Francisco, California, which formed in [YEAR]. Initially, the band consisted of [PERSON_NAME_FULL_3_MALE] and Jefre Cantu-Ledesma. The line-up altered over the years and has included John Hughes, [PERSON_NAME_FULL_5_MALE], [PERSON_NAME_FULL_2_FEMALE], Kenseth Thibideau, [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_1_MALE], Tony Cross, [PERSON_NAME_FULL_4_MALE] and others.\n",
       "The band's current lineup is Cantu-Ledesma, Grody and [PERSON_NAME_FULL_0_MALE].\n",
       "[BAND_NAME] began as a [GENRE] band, making extended, LP-side length instrumental pieces. Over the course of three full-length albums and a number of singles and EPs, [BAND_NAME] has gradually shifted its style to a looser, more improvisational form that incorporates genres such as noise and drone as well as having a strong psychedelic element.\n"
    ]

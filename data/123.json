@@ -32,9 +32,16 @@
          "Omar Ahsanuddin"
       ]
    },
+   "albums": [
+      "Wooden Shjips",
+      "Dos",
+      "West",
+      "Back to Land",
+      "V."
+   ],
    "prunedData": [
-      "[BAND_NAME] (pronounced \"ships\") is an [GENRE] band from San Francisco, California.\n",
-      "Their sound has been described as experimental, minimalist, drone rock, and \"spacey psychedelic rock\". They have been compared to Suicide, Spacemen 3, \nLoop, The Velvet Underground, The Doors, Soft Machine, Guru Guru, The Black Angels and many more. They are signed to Thrill Jockey records.\n",
+      "[BAND_NAME] (pronounced [SONG_NAME]) is an [GENRE] band from San Francisco, California.\n",
+      "Their sound has been described as experimental, minimalist, drone rock, and [SONG_NAME]. They have been compared to Suicide, Spacemen 3, \nLoop, The Velvet Underground, The Doors, Soft Machine, Guru Guru, The Black Angels and many more. They are signed to Thrill Jockey records.\n",
       "Guitarist Ripley Johnson also plays in two side projects, including [PERSON_NAME_FULL_0_FEMALE], formed in [YEAR] with [PERSON_NAME_FULL_1_FEMALE]. The project has released one EP and seven albums.\n"
    ]
 }

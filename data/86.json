@@ -25,9 +25,21 @@
          "Choking Victim, Leftöver Crack, INDK"
       ]
    },
+   "albums": [
+      "This Is No Time ta Sleep",
+      "The Suicide Singles",
+      "The Whole World Is Watching",
+      "The Kids Are Gonna Pay...",
+      "The Whole World Is Watching (Re-Issue with 3 new songs)",
+      "Poets Were My Heroes",
+      "Born To December",
+      "Always Alone",
+      "War Psalms",
+      "Post War Psalms"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from New York. It was formed originally as a solo project by Ezra Kire, after the band Choking Victim disbanded in [YEAR].\n",
-      "They were the second band to use this name, the first being a [YEAR]s rock band from San Francisco, who released an LP entitled \"Two Suns Worth\" and singles on Fontana Records in [YEAR].\n",
+      "They were the second band to use this name, the first being a [YEAR]s rock band from San Francisco, who released an LP entitled [SONG_NAME] and singles on Fontana Records in [YEAR].\n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

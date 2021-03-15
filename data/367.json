@@ -33,9 +33,12 @@
          "Leslie Rewega"
       ]
    },
+   "albums": [
+      "Won't Be Pretty"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band from Victoria, British Columbia, active from [YEAR] to [YEAR].\n",
-      "The band's name is taken from the lyrics of \"One-Trick Pony\" from the album One-Trick Pony by Paul Simon.\n",
+      "The band's name is taken from the lyrics of [SONG_NAME] from the album One-Trick Pony by Paul Simon.\n",
       "[BAND_NAME] was a trio in [YEAR] consisting of Brooke Gallupe, [PERSON_NAME_FULL_0_FEMALE] and Luke Kozlowski.  The band released The View and Transporter independently before signing to label Mint Records in early [YEAR].\n"
    ]
 }

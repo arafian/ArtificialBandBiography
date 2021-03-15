@@ -40,6 +40,9 @@
          "Scott Fuller"
       ]
    },
+   "albums": [
+      "Demo"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Los Angeles, California, United States.\n",
       "[BAND_NAME] was formed by Charles Elliott (guitars/vocals), [PERSON_NAME_FULL_0_FEMALE] (guitars), and Terry Barajas (drums) who circulated a three-song demo in winter [YEAR]. The demo garnered some attention for the band within the underground metal press circuit as well as helped them score gigs alongside Exodus, 3 Inches of Blood, Hate Eternal, Into Eternity and Aborted.\n",

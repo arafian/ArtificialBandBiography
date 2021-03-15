@@ -22,6 +22,10 @@
          "The Leaving Trains, Iggy Pop, Jordan Lawson, The Trolls, Failure (band), Jeff Buckley, Henry Rollins"
       ]
    },
+   "albums": [
+      "The Nymphs",
+      "A Practical Guide to Astral Projection"
+   ],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band that performed in the late [YEAR]s and early [YEAR]s with lead singer Inger Lorre. The band was signed to Geffen Records, and released their debut album in [YEAR]. [BAND_NAME] are known for their wild stage shows and their rebellious attitude towards record companies. The band formed in [YEAR] and broke up in [YEAR], formed again in [YEAR], and broke up the same year, later reforming in [YEAR].\n",
       "Lorre and Bobby Belltower formed the band in New Jersey in the mid [YEAR]s. The band moved to Los Angeles to pursue their musical careers, and after two members returned to New Jersey, Lorre and Siegel recruited guitarist [PERSON_NAME_FULL_0_MALE], drummer [PERSON_NAME_FULL_2_MALE] and bass player [PERSON_NAME_FIRST_1] D. ([PERSON_NAME_FULL_1_MALE]).\n",

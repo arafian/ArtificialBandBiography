@@ -48,8 +48,14 @@
          "David Vincent"
       ]
    },
+   "albums": [
+      "World Downfall",
+      "Darker Days Ahead",
+      "Hordes of Zombies",
+      "Caustic Attack"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in [YEAR] in Los Angeles, California, United States. After disbanding, its members gained recognition by playing in influential extreme metal bands, such as Morbid Angel ([PERSON_NAME_FULL_2_MALE], [PERSON_NAME_FULL_0_MALE]), Napalm Death ([PERSON_NAME_FULL_1_MALE]) and Nausea (Oscar Garcia, Alfred \"Garvey\" Estrada). To date, [BAND_NAME] has released four studio albums, and broken up twice (once in [YEAR] and another in [YEAR]). The band reunited again in [YEAR], this time without [PERSON_NAME_LAST_1], who had died three years earlier.\n",
+      "[BAND_NAME] is an [GENRE] band formed in [YEAR] in Los Angeles, California, United States. After disbanding, its members gained recognition by playing in influential extreme metal bands, such as Morbid Angel ([PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_1_MALE]), Napalm Death ([PERSON_NAME_FULL_2_MALE]) and Nausea (Oscar Garcia, Alfred [SONG_NAME] Estrada). To date, [BAND_NAME] has released four studio albums, and broken up twice (once in [YEAR] and another in [YEAR]). The band reunited again in [YEAR], this time without [PERSON_NAME_LAST_2], who had died three years earlier.\n",
       "The group released its debut album, World Downfall, in [YEAR]. It is seen as one of the classics of early grindcore. An album containing two rehearsal sessions of the band from [YEAR] was released in [YEAR].\n",
       "The band split around [YEAR] when Vincent offered Sandoval a spot in Morbid Angel, while Pintado was being courted to join Napalm Death; Sandoval saw [BAND_NAME] stagnating, while Morbid Angel and Napalm Death at the time were rapidly gaining popularity. As a result, only Garcia remained; Garcia claims not to have talked to Sandoval since.\n"
    ]

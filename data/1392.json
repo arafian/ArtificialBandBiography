@@ -38,8 +38,22 @@
          "Eryn Ross"
       ]
    },
+   "albums": [
+      "Disorder",
+      "PUMPS",
+      "All the Way",
+      "Lateral",
+      "Vision Swim",
+      "Color Wheel",
+      "Live",
+      "His Return",
+      "The Soul Of The Rainbow And The Harmony Of Light",
+      "Early Stages",
+      "Soul Of The Rainbow",
+      "The Sky's Run Into The Sea"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in Olympia, Washington, and currently based in Brooklyn, New York.  The group was founded in [YEAR] by [PERSON_NAME_FULL_0_MALE] (electric bass guitar), [PERSON_NAME_FULL_2_MALE] (electric guitar), and [PERSON_NAME_FULL_1_MALE] (drums). [PERSON_NAME_LAST_1] left following their first album, and the band continued as a duo until [YEAR], when they recruited [PERSON_NAME_FULL_3_FEMALE] (samplers, microphone) to form a new trio. The group's music has gradually progressed from slow, instrumental drone pieces through works in noise and ambient music toward more propulsive, rhythm driven music. Their live shows are consistently known for being very loud and for playing straight through their set without breaks or banter between songs.\n",
+      "[BAND_NAME] is a [GENRE] band formed in Olympia, Washington, and currently based in Brooklyn, New York.  The group was founded in [YEAR] by [PERSON_NAME_FULL_3_MALE] (electric bass guitar), [PERSON_NAME_FULL_2_MALE] (electric guitar), and [PERSON_NAME_FULL_0_MALE] (drums). [PERSON_NAME_LAST_0] left following their first album, and the band continued as a duo until [YEAR], when they recruited [PERSON_NAME_FULL_1_FEMALE] (samplers, microphone) to form a new trio. The group's music has gradually progressed from slow, instrumental drone pieces through works in noise and ambient music toward more propulsive, rhythm driven music. Their live shows are consistently known for being very loud and for playing straight through their set without breaks or banter between songs.\n",
       "[BAND_NAME] have released albums on labels such as Kranky, Animal Disguise, Archive, Megablade/Troubleman, and The Social Registry.  At the end of [YEAR] and the beginning of [YEAR] [BAND_NAME] released their first two releases for The Social Registry; a [GENRE] a mini-lp entitled Lateral. In [YEAR] they released an album on Vice Records.\n",
       "In [MONTH] [YEAR] [BAND_NAME] embarked on a [GENRE] band Boris.\n"
    ]

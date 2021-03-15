@@ -35,9 +35,13 @@
          "Vincent Jones"
       ]
    },
+   "albums": [
+      "Seems Like Fate 1984–1992",
+      "Singles"
+   ],
    "prunedData": [
       "[BAND_NAME] are a [GENRE] band.\n",
-      "Formed in [YEAR], they enjoyed their greatest commercial success in the late [YEAR]s and early [YEAR]s.  The group split in [YEAR], although throughout the [YEAR]s, most of the band continued to record as Ginger while the \"Grapes of Wrath\" band name was tied up in litigation. Vocalists Tom [PERSON_NAME_LAST_0] and [PERSON_NAME_FULL_1_MALE] briefly reunited as the Grapes of Wrath for one album in [YEAR].  With the addition of [PERSON_NAME_FULL_0_MALE], the three founding members reunited in [MONTH] [YEAR]. They now tour various Canadian cities on an [GENRE] a group.\n",
+      "Formed in [YEAR], they enjoyed their greatest commercial success in the late [YEAR]s and early [YEAR]s.  The group split in [YEAR], although throughout the [YEAR]s, most of the band continued to record as Ginger while the [SONG_NAME] band name was tied up in litigation. Vocalists Tom [PERSON_NAME_LAST_0] and [PERSON_NAME_FULL_1_MALE] briefly reunited as the Grapes of Wrath for one album in [YEAR].  With the addition of [PERSON_NAME_FULL_0_MALE], the three founding members reunited in [MONTH] [YEAR]. They now tour various Canadian cities on an [GENRE] a group.\n",
       "Singles, a greatest hits collection featuring two new recordings, was released in [MONTH] [YEAR] by EMI in Canada.  The band's most recent album, High Road, was issued in [YEAR].  \n"
    ]
 }

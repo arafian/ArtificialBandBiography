@@ -30,9 +30,29 @@
          "Naotaka Seki"
       ]
    },
+   "albums": [
+      "SURF PANIC '95",
+      "Surfside Village",
+      "WAITIN' 4 THE SURF",
+      "SURFACE IMPRESSION",
+      "Surfdelicious",
+      "Surfin' ELVIS / THE PELVIS",
+      "SURFDELIC",
+      "NAKA SHIGEO plays PAUL MAURIAT",
+      "THE SURF COASTERS",
+      "SURF is Dead",
+      "六人ノ刺客",
+      "EASTER!!",
+      "L'esprit",
+      "Surf Attack",
+      "p.m.",
+      "PRIVATE RECORDINGS vol.1 / THE SURF COASTERS featuring 中シゲヲ",
+      "SAMURAI STRUCK (U.S.A. ISSUE)",
+      "SAMURAI STRUCK (JAPAN ISSUE)"
+   ],
    "prunedData": [
       "[BAND_NAME] (Japanese: ザ・サーフコースターズ Za Sāfukōsutāzu) are a [GENRE] band, started by [PERSON_NAME_FULL_0_MALE] in [YEAR].\n",
       "The band became known with their stint on the talent show television program Ebisu-Onsen, a [GENRE] band would receive a recording contract.\n",
-      "Although the Surf Coasters did not win the competition, their success on the show led to a [GENRE] a record deal, which led to the release of their debut CD, Surf Panic '95, which, despite being an instrumental album, sold well. The band also played that year with surf music legend and \"King of the Surf Guitar\", [PERSON_NAME_FULL_0_MALE], who was on his first tour of Japan. Reportedly, after the tour [PERSON_NAME_LAST_0] referred to Naka as the \"Prince of the Surf Guitar.\".\n"
+      "Although the Surf Coasters did not win the competition, their success on the show led to a [GENRE] a record deal, which led to the release of their debut CD, Surf Panic '95, which, despite being an instrumental album, sold well. The band also played that year with surf music legend and [SONG_NAME].\n"
    ]
 }

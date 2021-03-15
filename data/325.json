@@ -26,9 +26,14 @@
          "Leah Emmott"
       ]
    },
+   "albums": [
+      "Seeing Red",
+      "Goes on a Field Trip",
+      "Let's Go"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band from Vancouver formed [YEAR] and broke up in [YEAR].The name,  \n[BAND_NAME] originates from basketball jargon.\n",
-      "In [YEAR], they released Seeing Red, which included the singles \"I'm Afraid of Britney Spears\", \"Get With It\", and \"Emotional Griptape\". \"I'm Afraid of Britney Spears\" also appeared on the Dude, Where's My Car? soundtrack.\n",
-      "In [YEAR], they released their second album Goes on a Fieldtrip, which included the single \"Let's Go\". Their second CD is produced by Peter Karroll & [PERSON_NAME_FULL_0_MALE], with the executive producer being Bif Naked. This CD was mixed by [PERSON_NAME_FULL_1_MALE].\n"
+      "In [YEAR], they released Seeing Red, which included the singles [SONG_NAME] also appeared on the Dude, Where's My Car? soundtrack.\n",
+      "In [YEAR], they released their second album Goes on a Fieldtrip, which included the single [SONG_NAME]. Their second CD is produced by Peter Karroll & [PERSON_NAME_FULL_0_MALE], with the executive producer being Bif Naked. This CD was mixed by [PERSON_NAME_FULL_1_MALE].\n"
    ]
 }

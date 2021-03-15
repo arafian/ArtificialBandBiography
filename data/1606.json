@@ -6,9 +6,22 @@
       "In 2002, two members performed a live concert, from which the live album, Modesty Aside Live 17 Greatest Hits (Modestia Aparte Vivo 17 Grandes Exitos) was recorded. Two years later, they released an album with new songs entitled, This must be love (Esto debe Ser Amor). In 2005, they organised a compilation tribute album, recording with other well-known pop groups.\n"
    ],
    "infobox": {},
+   "albums": [
+      "The Shape (Por Amor al Arte)",
+      "Things of Age (Cosas de la Edad)",
+      "Stand Up (Levántate)",
+      "Stories No Importance (Historias Sin Importancia)",
+      "The Line of Life (La Línea de la Vida)",
+      "Modesty (Modestia Aparte)",
+      "Modest... Until Forever (Modestamente... Hasta Siempre)",
+      "Modesty Aside Live 17 Greatest Hits (Modestia Aparte Vivo 17 Grandes Exitos)",
+      "This Must Be Love (Esto debe Ser Amor)",
+      "Modesty Aside and Friends – Disco Tribute (Modestia Aparte Y Amigos – Disco Homenaje)",
+      "Twenty (Veinte)"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band that recorded albums from [YEAR] to [YEAR].\n",
-      "[BAND_NAME] began recording Spanish-language pop albums in [YEAR]. Their biggest hit was \"Chirimoya\" (from their first album, The Shape (Por Amor al Arte)), where they mimicked voices from the cartoons Pixie & Dixie, Tweety, and Roadrunner. The band broke up in [YEAR].\n",
+      "[BAND_NAME] began recording Spanish-language pop albums in [YEAR]. Their biggest hit was [SONG_NAME] (from their first album, The Shape (Por Amor al Arte)), where they mimicked voices from the cartoons Pixie & Dixie, Tweety, and Roadrunner. The band broke up in [YEAR].\n",
       "In [YEAR], two members performed a live concert, from which the live album, Modesty Aside Live 17 Greatest Hits ([BAND_NAME] Vivo 17 Grandes Exitos) was recorded. Two years later, they released an album with new songs entitled, This must be love (Esto debe Ser Amor). In [YEAR], they organised a compilation tribute album, recording with other well-known pop groups.\n"
    ]
 }

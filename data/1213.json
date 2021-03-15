@@ -29,6 +29,14 @@
          "Jonathan 'Dr. J' Sullivan"
       ]
    },
+   "albums": [
+      "The Free Holiday EP",
+      "The Ghost Overground",
+      "In Valleys",
+      "The Resolution EP",
+      "Live from SoHo EP",
+      "The Dear Jack EP"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band formed in [YEAR], hailing from Orange County, California. The band originally began as a solo project for [PERSON_NAME_FULL_0_MALE], the frontman of Something Corporate.\n",
       "The band was signed to Maverick Records and released Everything in Transit in [MONTH] [YEAR], peaking at 37 on the Billboard 200. The Glass Passenger was released in [YEAR] on Sire Records, sold 49,000 copies in its first week, and peaked at number eight on the Billboard 200. People and Things was released [MONTH] 4, [YEAR]. Shortly afterward, it was announced that McMahon would discontinue releasing music under the name [BAND_NAME], choosing to release music under his own name henceforth.\n",

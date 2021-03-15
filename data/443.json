@@ -33,9 +33,12 @@
          " Michael Grasseschi"
       ]
    },
+   "albums": [
+      "If I Never Speak Again"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band, and they play an alternative rock music style. They come from Long Beach, California, where they were formed in [YEAR], with lead vocalist, Stephen Ramos. Their first extended play, These Hands, was released in [YEAR], with Tooth & Nail Records. Their single, \"Stranger\", broke through on the Billboard magazine [PERSON_NAME_FULL_0_MALE] chart.\n",
-      "The band is from Long Beach, California, where they formed in [YEAR], with lead vocalist and guitarist, Stephen Ramos, whose current members are lead guitarist and singer, [PERSON_NAME_FULL_1_MALE], bassist, Luke Schoepf, and drummer, [PERSON_NAME_FULL_3_MALE].  Their former band members were guitarist, Brandon Fox, bassist, [PERSON_NAME_FULL_0_MALE], keyboardist, [PERSON_NAME_FULL_2_MALE], and drummer, Rick Raasch. They were signed to Tooth & Nail Records, in [YEAR].\n",
-      "The band commenced as a musical entity in [YEAR], with their first major label extended play, These Hands, that released on [MONTH] 2, [YEAR], from Tooth & Nail Records. Their single, \"Stranger\", found success on the Billboard magazine Christian Rock charts, where it reached a peak of No. 2.\n"
+      "[BAND_NAME] is an [GENRE] band, and they play an alternative rock music style. They come from Long Beach, California, where they were formed in [YEAR], with lead vocalist, Stephen Ramos. Their first extended play, These Hands, was released in [YEAR], with Tooth & Nail Records. Their single, [SONG_NAME], broke through on the Billboard magazine [PERSON_NAME_FULL_0_MALE] chart.\n",
+      "The band is from Long Beach, California, where they formed in [YEAR], with lead vocalist and guitarist, Stephen Ramos, whose current members are lead guitarist and singer, [PERSON_NAME_FULL_1_MALE], bassist, Luke Schoepf, and drummer, [PERSON_NAME_FULL_2_MALE].  Their former band members were guitarist, Brandon Fox, bassist, [PERSON_NAME_FULL_0_MALE], keyboardist, [PERSON_NAME_FULL_3_MALE], and drummer, Rick Raasch. They were signed to Tooth & Nail Records, in [YEAR].\n",
+      "The band commenced as a musical entity in [YEAR], with their first major label extended play, These Hands, that released on [MONTH] 2, [YEAR], from Tooth & Nail Records. Their single, [SONG_NAME], found success on the Billboard magazine Christian Rock charts, where it reached a peak of No. 2.\n"
    ]
 }

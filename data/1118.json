@@ -39,9 +39,10 @@
          "Brian Dixon"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band from Los Angeles, California, United States, which formed in [YEAR].\n",
       "[BAND_NAME] are an [GENRE] bands, the Vessels and the Rhythm Doctors. They formed in [YEAR] as a live backing band for reggae icon Derrick Morgan, and were asked to record music for a new Morgan album. The project was never released, but the recording sessions inspired the Aggrolites to become a permanent band. They have served as the backing band for [PERSON_NAME_FULL_1_FEMALE], Scotty, Joseph Hill of Culture, [PERSON_NAME_FULL_0_MALE], and Tim Armstrong.\n",
-      "Regarding their musical style, Aggrolites organist [PERSON_NAME_FULL_0_MALE] has stated that a combination of the sounds of [YEAR]s soul music, funk, and skinhead reggae (also known simply as  early reggae) constitutes what the band has dubbed \"Dirty Reggae.\" \n"
+      "Regarding their musical style, Aggrolites organist [PERSON_NAME_FULL_0_MALE] has stated that a combination of the sounds of [YEAR]s soul music, funk, and skinhead reggae (also known simply as  early reggae) constitutes what the band has dubbed [SONG_NAME] \n"
    ]
 }

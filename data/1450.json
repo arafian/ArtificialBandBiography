@@ -31,6 +31,7 @@
          "www.sfupb.com"
       ]
    },
+   "albums": [],
    "prunedData": [
       "The [BAND_NAME] is a [GENRE] band affiliated with Simon Fraser University in Burnaby, British Columbia, Canada. It is led by pipe major [PERSON_NAME_FULL_0_MALE] and leading drummer J. Reid Maxwell.\n",
       "The [BAND_NAME] was originally formed by a group of students at Simon Fraser University in [YEAR].\n",

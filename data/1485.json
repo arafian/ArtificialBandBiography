@@ -34,9 +34,25 @@
          "Murilo Lima"
       ]
    },
+   "albums": [
+      "Capital Inicial",
+      "Independência",
+      "Você Não Precisa Entender",
+      "Todos os Lados",
+      "Eletricidade",
+      "Rua 47",
+      "Atrás dos Olhos",
+      "Rosas e Vinho Tinto",
+      "Gigante!",
+      "MTV Especial: Aborto Elétrico",
+      "Eu Nunca Disse Adeus",
+      "Das Kapital",
+      "Saturno",
+      "Sonora"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band that flourished in the [YEAR]s, saw a resurgence in the late [YEAR]s, and extended into the [YEAR]s.\n",
       "[BAND_NAME] has recorded seven albums from [YEAR] to [YEAR]. They were a huge success in the early and mid-[YEAR]s, being one of the most popular bands in Brazil with the albums Acústico MTV, Rosas e Vinho Tinto, Gigante, and MTV Especial: Aborto Elétrico. The album Eu Nunca Disse Adeus was expected to be released in early [YEAR].\n",
-      "Former members of [PERSON_NAME_FULL_1_MALE]'s pioneering post-punk band Aborto Elétrico teamed up to form the [BAND_NAME], continuing to perform the same type of music. Brothers Felipe [PERSON_NAME_LAST_0] (drums) and [PERSON_NAME_FULL_0_MALE] (bass) joined guitarist Loro Jones (former Blitz 64) and vocalist Dinho Ouro Preto. All of them are based in Brasília, a [GENRE] a choice culture for the fermentation of the aggressiveness of dispossessed youngsters, creating an ideal situation for the arousal of punk bands. With similar songs as Aborto Elétrico's repertoire, the [BAND_NAME] followed in their path. The first time that Capital (and their sister band, Legião [PERSON_NAME_FIRST_2]a, also erected upon the ashes of Aborto Elétrico) played in [PERSON_NAME_FIRST_3] was on [MONTH] 23, [YEAR], opening a Lobão show at the Circo Voador. In [YEAR], they released their first single, \"Descendo o [PERSON_NAME_FULL_3_FEMALE]\" (Going Down the Nile) and \"Leve Desespero\" (Slight Despair) (Epic), with good repercussions. The latter song was included in the film Areias Escaldantes. In [MONTH] [YEAR], [BAND_NAME] succeeded in having their Descendo o [PERSON_NAME_FULL_3_FEMALE] included on the compilation Os Intocáveis (CBS). In the next year, the group recorded their first LP, [BAND_NAME] (Polygram), which had the hits \"Psicopata\" (Psychopath), \"Música [PERSON_NAME_FIRST_2]a\" ([PERSON_NAME_FULL_2_MALE]) and \"Fátima\" selling 200,000 copies. This was followed by a period of many live shows.\n"
+      "Former members of [PERSON_NAME_FULL_3_MALE]'s pioneering post-punk band Aborto Elétrico teamed up to form the [BAND_NAME], continuing to perform the same type of music. Brothers Felipe [PERSON_NAME_LAST_0] (drums) and [PERSON_NAME_FULL_0_MALE] (bass) joined guitarist Loro Jones (former Blitz 64) and vocalist Dinho Ouro Preto. All of them are based in Brasília, a [GENRE] a choice culture for the fermentation of the aggressiveness of dispossessed youngsters, creating an ideal situation for the arousal of punk bands. With similar songs as Aborto Elétrico's repertoire, the [BAND_NAME] followed in their path. The first time that Capital (and their sister band, Legião [PERSON_NAME_FIRST_1]a, also erected upon the ashes of Aborto Elétrico) played in [PERSON_NAME_FIRST_2] was on [MONTH] 23, [YEAR], opening a Lobão show at the Circo Voador. In [YEAR], they released their first single, [SONG_NAME] selling 200,000 copies. This was followed by a period of many live shows.\n"
    ]
 }

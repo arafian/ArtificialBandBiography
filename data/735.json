@@ -33,9 +33,17 @@
          "Maia Saavedra[2][3]"
       ]
    },
+   "albums": [
+      "Tomato Mistakes",
+      "Free to Stay EP",
+      "She Like Electric",
+      "Free to Stay",
+      "Live and in Person! London 2006",
+      "Withershins"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in Brooklyn, New York. The band was formed in Seattle under the name Smoosh in [YEAR] and adopted their current name in [YEAR]. The band consists of two sisters, who founded the band as children: singer/keyboardist Asya \"Asy\" [PERSON_NAME_LAST_0] (born [MONTH] 2, [YEAR]) and drummer [PERSON_NAME_FULL_0_FEMALE] (born [MONTH] 5, [YEAR]). They released three LPs as Smoosh, and have produced two further EPs, several singles, and a fourth full-length album as [BAND_NAME].\n",
-      "Smoosh started in [YEAR] when the family was at a [GENRE] a violin. Asy and Chloe wandered into the drum section of the store, where Chloe met Jason McGerr, the drummer for Death Cab for Cutie. The family eventually left with a $600 drum kit for Chloe, McGerr's card from the Seattle Drum School, \"and no violin.\" When McGerr learned that Asy had been playing the piano and writing songs since she was very young, he offered to help them both. Neither Asy nor Chloe read music. Asy began piano training but soon quit because she found it boring.\n",
+      "[BAND_NAME] is an [GENRE] band based in Brooklyn, New York. The band was formed in Seattle under the name Smoosh in [YEAR] and adopted their current name in [YEAR]. The band consists of two sisters, who founded the band as children: singer/keyboardist Asya [SONG_NAME] [PERSON_NAME_LAST_0] (born [MONTH] 2, [YEAR]) and drummer [PERSON_NAME_FULL_0_FEMALE] (born [MONTH] 5, [YEAR]). They released three LPs as Smoosh, and have produced two further EPs, several singles, and a fourth full-length album as [BAND_NAME].\n",
+      "Smoosh started in [YEAR] when the family was at a [GENRE] a violin. Asy and Chloe wandered into the drum section of the store, where Chloe met Jason McGerr, the drummer for Death Cab for Cutie. The family eventually left with a $600 drum kit for Chloe, McGerr's card from the Seattle Drum School, [SONG_NAME] When McGerr learned that Asy had been playing the piano and writing songs since she was very young, he offered to help them both. Neither Asy nor Chloe read music. Asy began piano training but soon quit because she found it boring.\n",
       "—Asya on the band name's origin in a [YEAR] interview.\n"
    ]
 }

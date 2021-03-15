@@ -39,6 +39,14 @@
          "Marcus Dahlström"
       ]
    },
+   "albums": [
+      "Blindside",
+      "A Thought Crushed My Mind",
+      "Silence",
+      "About a Burning Fire",
+      "The Great Depression",
+      "With Shivering Hearts We Wait"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from the southern suburbs of Stockholm, Sweden. They formed in Stockholm in [YEAR] as Underfree. In [YEAR], they changed their name to [BAND_NAME] and released the [BAND_NAME] album in [YEAR] through Swedish independent record company Day-Glo Records.  Another album, A Thought Crushed My Mind, came out in [YEAR]. The group received greater attention in [YEAR] when they toured with P.O.D., resulting in a contract with Elektra. In [YEAR] they released the album Silence and in [YEAR] they toured in support of Hoobastank. A [YEAR] headlining tour suffered equipment theft but then [BAND_NAME] released About a Burning Fire. Losing support from their label, the next year [BAND_NAME] released The Great Depression independently, and they put out the DVD Ten Years Running Blind.\n",
       "[BAND_NAME] independently released another EP in [YEAR] – The Black Rose – but then they ceased most band activity until [YEAR] when they released With Shivering Hearts We Wait.\n",

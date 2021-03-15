@@ -31,9 +31,19 @@
          "Edu Beaumont \"Piñas\" - Bass"
       ]
    },
+   "albums": [
+      "La Patera",
+      "Revolcón",
+      "Besos de perro",
+      "28.000 puñaladas",
+      "Las aceras están llenas de piojos",
+      "Coces al aire",
+      "Las putas más viejas del mundo",
+      "En mi hambre mando yo"
+   ],
    "prunedData": [
       "[BAND_NAME] are a [GENRE] band from Berriozar, Navarre formed in [YEAR] by Kutxi Romero. So far they have released six studio albums, a collection boxset and a live record.\n",
       "In [YEAR], after having been a [GENRE] bands, Kutxi Romero decided to form a rock group.\n",
-      "He called [PERSON_NAME_FULL_0_MALE] - former drummer of Begira - who didn't hesitate to join Kutxi's project. He then contacted Edu Beaumont \"Piñas\", whom he had met one year before. Piñas hadn't played previously in any other band, but Kutxi - who was a very good friend of his - persuaded him to join as bassist. Piñas accepted and introduced Kutxi to [PERSON_NAME_FULL_1_MALE], who would become one of [BAND_NAME]'s guitarists. David Díaz, aka Kolibrí, also a guitarist, also joined the band.\n"
+      "He called [PERSON_NAME_FULL_1_MALE] - former drummer of Begira - who didn't hesitate to join Kutxi's project. He then contacted Edu Beaumont [SONG_NAME], whom he had met one year before. Piñas hadn't played previously in any other band, but Kutxi - who was a very good friend of his - persuaded him to join as bassist. Piñas accepted and introduced Kutxi to [PERSON_NAME_FULL_0_MALE], who would become one of [BAND_NAME]'s guitarists. David Díaz, aka Kolibrí, also a guitarist, also joined the band.\n"
    ]
 }

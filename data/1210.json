@@ -53,9 +53,14 @@
          "Lyn Bertles"
       ]
    },
+   "albums": [
+      "Fourteen Thousand Three Hundred Eighty Four Days Later",
+      "Momento's En El Tiempo",
+      "Moments in Time"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band led by singer/songwriter Johnny Indovina formed in [YEAR]. The band released six studio albums before splitting in [YEAR]. They reformed for concerts in [YEAR] and [YEAR], and again in [YEAR]. In [YEAR] they released their 1st studio album in 15 years, Broken Songs for Broken People featuring the singles/videos \"Rain On Me\", \"The Liar Inside\" and \"Like This One\". Broken Songs was followed by series of singles in [YEAR]-[YEAR], and a full length album \"Blurred Images\" in [MONTH] [YEAR] on Sunset Blvd. Records.\n",
-      "\nIndovina began his career in New Orleans in [YEAR] in the Models. with Indovina, Michael Ciravolo (guitar), [PERSON_NAME_FULL_0_MALE] (bass) and [PERSON_NAME_FULL_1_MALE] (drums). Upon relocating in [YEAR] to Los Angeles they changed their name to [BAND_NAME] with the addition of [MONTH]k Balderas (keyboards).  [BAND_NAME] quickly became an [GENRE]",
+      "[BAND_NAME] is an [GENRE] band led by singer/songwriter Johnny Indovina formed in [YEAR]. The band released six studio albums before splitting in [YEAR]. They reformed for concerts in [YEAR] and [YEAR], and again in [YEAR]. In [YEAR] they released their 1st studio album in 15 years, Broken Songs for Broken People featuring the singles/videos [SONG_NAME] in [MONTH] [YEAR] on Sunset Blvd. Records.\n",
+      "\nIndovina began his career in New Orleans in [YEAR] in the Models. with Indovina, Michael Ciravolo (guitar), [PERSON_NAME_FULL_0_MALE] (bass) and [PERSON_NAME_FULL_1_MALE] (drums). Upon relocating in [YEAR] to Los Angeles they changed their name to [BAND_NAME] with the addition of [MONTH]k Balderas (keyboards).  [BAND_NAME] quickly became an integral part of the [SONG_NAME] which developed around the underground LA club Scream.\n",
       "Signed to RCA Records in [YEAR], [BAND_NAME] released an EP, Hopes Prayers Dreams Heart Soul Mind Love Life Death (Recorded at the famous Rockfield Studios in Wales), and an album, Feel, a year later, both of which were produced by [PERSON_NAME_FULL_0_MALE] (Echo and the Bunnymen, The Fall, The Lightning Seeds and many others).\n"
    ]
 }

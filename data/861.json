@@ -31,6 +31,11 @@
          "Marty Thiessen"
       ]
    },
+   "albums": [
+      "Swayze",
+      "Gretzky",
+      "Aykroyd"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band hailing from Winnipeg, Manitoba, Canada. They play a form of progressive/technical heavy metal and employ three lead guitarists.  Initially consisting of just three guitarists and a drummer, they added a bassist to their line-up in winter [YEAR] and played their first show with him in autumn [YEAR].  The band is named for a weapon in the Canadian cartoon Rocket Robin Hood.\n",
       "The band self-released the Swayze EP in [YEAR].  They later signed with Willowtip Records for their debut full-length album in [YEAR], Gretzky, which included rerecorded and reworked versions of their earlier tracks. Also in [YEAR] they toured the United States and Canada for the first time, which included a performance at the [MONTH]yland Deathfest.\n"

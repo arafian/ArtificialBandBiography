@@ -38,9 +38,16 @@
          "Trev Spilchen"
       ]
    },
+   "albums": [
+      "Fix Me",
+      "Masterpiece Theatre",
+      "Ever After",
+      "Astoria",
+      "Phantoms"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia, formed in [YEAR] by Josh Ramsay (lead vocalist, rhythm guitarist, pianist, songwriter, occasional drummer) and lead guitarist Steve [MONTH]shall with Ramsay's sister Sara on keyboards and vocals, [PERSON_NAME_FULL_2_MALE] on drums and Trev Spilchen on bass. Originally called Ramsay Fiction, [MONTH]shall suggested a name change when Ramsay's high school friend [PERSON_NAME_FULL_0_MALE], drummer [PERSON_NAME_FULL_1_MALE] and Morgan Hempstead on bass, replacing Spilchen and Ramsay. [PERSON_NAME_FULL_3_MALE], a long time friend  \nof [PERSON_NAME_LAST_1] took up bass responsibilities when Hempstead and [MONTH]shall left the band in [YEAR], taking the 5 piece down to 4. The band's current line up has released five full-length studio albums: Fix Me ([YEAR]), Masterpiece Theatre ([YEAR]), Ever After ([YEAR]), Astoria ([YEAR]), and Phantoms ([YEAR]).\n",
+      "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia, formed in [YEAR] by Josh Ramsay (lead vocalist, rhythm guitarist, pianist, songwriter, occasional drummer) and lead guitarist Steve [MONTH]shall with Ramsay's sister Sara on keyboards and vocals, [PERSON_NAME_FULL_1_MALE] on drums and Trev Spilchen on bass. Originally called Ramsay Fiction, [MONTH]shall suggested a name change when Ramsay's high school friend [PERSON_NAME_FULL_0_MALE], drummer [PERSON_NAME_FULL_2_MALE] and Morgan Hempstead on bass, replacing Spilchen and Ramsay. [PERSON_NAME_FULL_3_MALE], a long time friend  \nof [PERSON_NAME_LAST_2] took up bass responsibilities when Hempstead and [MONTH]shall left the band in [YEAR], taking the 5 piece down to 4. The band's current line up has released five full-length studio albums: Fix Me ([YEAR]), Masterpiece Theatre ([YEAR]), Ever After ([YEAR]), Astoria ([YEAR]), and Phantoms ([YEAR]).\n",
       "The band recorded and released a self-titled EP in [YEAR]. It contained songs which would later be added onto their debut album, Fix Me.\n",
-      "In [YEAR], the band released their debut full-length studio album entitled Fix Me. It included the singles \"Say Anything\", \"[MONTH]ided to Break It\", and the hit single \"Shake Tramp\". Before the album was released, a [GENRE] a single. The album was named after \"Fix Me\" and the name stayed to pay homage even after the song was taken out. The album was engineered and mixed by Mike Fraser and the band performed concerts nationwide to promote the album, alongside Faber Drive.\n"
+      "In [YEAR], the band released their debut full-length studio album entitled Fix Me. It included the singles [SONG_NAME] and the name stayed to pay homage even after the song was taken out. The album was engineered and mixed by Mike Fraser and the band performed concerts nationwide to promote the album, alongside Faber Drive.\n"
    ]
 }

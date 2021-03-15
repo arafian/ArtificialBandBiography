@@ -36,8 +36,21 @@
          "Eduardo"
       ]
    },
+   "albums": [
+      "Medieval",
+      "Legendario",
+      "Tierras de Leyenda",
+      "Sangre de Reyes",
+      "Indomable",
+      "Apocalipsis",
+      "Mejor Morir en Pie",
+      "Caminos de Fuego",
+      "Mi Nombre Será Leyenda",
+      "Quinto Elemento",
+      "Pasión Blanquirroja"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from La Rioja, Spain. The band was formed in [YEAR] by [PERSON_NAME_FULL_6_MALE], [PERSON_NAME_FULL_5_MALE], [PERSON_NAME_FULL_3_MALE], [PERSON_NAME_FULL_0_MALE] and Tomy, and the band released their debut album Medieval that same year, touring with Dio as an opening act in the American band Spanish tour. Later they began to tour with Avalanch and Mägo de Oz, mainly in Spain. In [YEAR] they toured through the United States for the first time.\n",
+      "[BAND_NAME] is a [GENRE] band from La Rioja, Spain. The band was formed in [YEAR] by [PERSON_NAME_FULL_6_MALE], [PERSON_NAME_FULL_4_MALE], [PERSON_NAME_FULL_7_MALE], [PERSON_NAME_FULL_9_MALE] and Tomy, and the band released their debut album Medieval that same year, touring with Dio as an opening act in the American band Spanish tour. Later they began to tour with Avalanch and Mägo de Oz, mainly in Spain. In [YEAR] they toured through the United States for the first time.\n",
       "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

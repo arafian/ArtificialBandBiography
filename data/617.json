@@ -29,9 +29,10 @@
          "Amalia Tirca"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band from Constanta, Romania. The band consists of lead singer [PERSON_NAME_FULL_0_FEMALE], bassist Cristina [MONTH]inescu, guitarist Diana Ganea, pianist Ana [MONTH]ia Nanu and drummer Gela [MONTH]inescu.\n",
-      "The group's first single, \"If You Feel My Love\" became quickly very popular in Romania. The second great hit is called \"Dear Mama\". The clip was internationally released in the beginning of [MONTH], as a present for the women and mothers all around the world. The first album of the group was released in [MONTH] [YEAR]. The album included a bonus track \"If You Feel My Love (Chaow MIX)\", a remixed version of the lead single which features a sample of a classic Beijing opera.  They appeared in the semifinals of the [YEAR] Golden Stag Festival and were among the finalists for the [YEAR] Romanian Eurovision Song Contest, with the song Dear Mama finishing in a tie for second place.\n",
-      "They planned to compete in the national selection of Romania for the Eurovision Song Contest [YEAR] with the song \"Save The World\" but later withdrew.\n"
+      "The group's first single, [SONG_NAME], a [GENRE] a sample of a classic Beijing opera.  They appeared in the semifinals of the [YEAR] Golden Stag Festival and were among the finalists for the [YEAR] Romanian Eurovision Song Contest, with the song Dear Mama finishing in a tie for second place.\n",
+      "They planned to compete in the national selection of Romania for the Eurovision Song Contest [YEAR] with the song [SONG_NAME] but later withdrew.\n"
    ]
 }

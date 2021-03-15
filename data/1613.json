@@ -31,9 +31,21 @@
          "Carlitos Sarduy"
       ]
    },
+   "albums": [
+      "Vengue",
+      "Rumba Dub Style (EP)",
+      "Barí",
+      "Barí: Remezclas de la Casa",
+      "Festimad 2003",
+      "Techarí",
+      "Techarí Live",
+      "Techarí Remixes",
+      "Aocaná",
+      "Corriente vital 10 años"
+   ],
    "prunedData": [
-      "[BAND_NAME] (\"Sorcerer Eyes\" in English) was a [GENRE] band from Barcelona who describe their style as \"jipjop flamenkillo\" (hip-hop with a little flamenco).  The band sold over 100,000 copies of their self-produced Barí  album, and has received several awards, among these the BBC Radio 3 World Music Award for Europe in [YEAR] (having also been nominated in [YEAR]).\n",
+      "[BAND_NAME] ([SONG_NAME] (hip-hop with a little flamenco).  The band sold over 100,000 copies of their self-produced Barí  album, and has received several awards, among these the BBC Radio 3 World Music Award for Europe in [YEAR] (having also been nominated in [YEAR]).\n",
       "Their success is also notable for being achieved without the aid of label backing; they set up their own label, La Fábrica de Colores, to get complete artistic freedom for Barí, away from the pressure they perceived from their record company [PERSON_NAME_FULL_0_FEMALE] for their debut Vengue.\n",
-      "Flamenco is clearly central to their sound; [PERSON_NAME_FULL_0_MALE] observed \"the magic lies in the flamenco... that is the heartbeat of [BAND_NAME]'s songs.\"  However, they are definitely not pure flamenco.  Xavi Turull said: \"...we aren't trying to do flamenco. What we are doing is using the richness of flamenco and the richness of other music to build up something different.  [MONTH]be sometimes I would say that flamenco is the strongest ingredient, but we aren't trying to do flamenco.\"  Upon the release of their first album, Vengue ([YEAR]), the flamenco fusion group did receive a [GENRE] a people from the Indian subcontinent, the Middle East, Eastern Europe and Iberia. [BAND_NAME]s takes this same theme and blends flamenco music with the diverse musical genres of today like hip hop and pop to modernize flamenco. For example Flamenco is combined in their music with other influences including Afro-Cuban, the rap and scratching/turntablism of Hip Hop, and Indian music. The music of [BAND_NAME] uses the drama of flamenco, but carries it along on a steady rhythmic foundation, making the group's music a closer relative to rumba catalana. Usually the focus of Ojos' songs are the vocals by [MONTH]ina \"La Canillas\" Abad, which move smoothly from gritty flamenco wail to authoritative rapping.  The blend of music opens up their audience base and provides more opportunity to keep creating new types of sounds.\n"
+      "Flamenco is clearly central to their sound; [PERSON_NAME_FULL_0_MALE] observed [SONG_NAME] Abad, which move smoothly from gritty flamenco wail to authoritative rapping.  The blend of music opens up their audience base and provides more opportunity to keep creating new types of sounds.\n"
    ]
 }

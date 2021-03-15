@@ -46,6 +46,10 @@
          "Steve Cox"
       ]
    },
+   "albums": [
+      "Aslan",
+      "Psychotic Waltz"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band formed in El Cajon, California in [YEAR].\n",
       "The first incarnation of the band was under the name Aslan, after a [GENRE] a self-titled demo tape in [YEAR]. The European Metal tape trading community took notice of the demo and the band received some enthusiastic reviews from fanzines and from German metal fans. After discovering another band with the same name, they changed theirs to [BAND_NAME] and recorded a new four-song demo in [YEAR]. This new demo also found its way to the European Metal tape trading community and the band began to build their loyal European fanbase.\n",

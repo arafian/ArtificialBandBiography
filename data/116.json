@@ -39,8 +39,17 @@
          "Dylana Nova"
       ]
    },
+   "albums": [
+      "No Respect",
+      "All Those Strangers",
+      "Move On It",
+      "Fade",
+      "On the Line",
+      "Enough Rope",
+      "Rolling With The Punches"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from San Francisco Bay Area, California, formed in [YEAR]. As of [YEAR], the lineup consists of Davy [BAND_NAME] (lead vocals), Joel Proto (guitar), [PERSON_NAME_FULL_1_FEMALE] (bass) and [PERSON_NAME_FULL_0_MALE] (drums).\n",
+      "[BAND_NAME] is an [GENRE] band from San Francisco Bay Area, California, formed in [YEAR]. As of [YEAR], the lineup consists of Davy [BAND_NAME] (lead vocals), Joel Proto (guitar), [PERSON_NAME_FULL_0_FEMALE] (bass) and [PERSON_NAME_FULL_1_MALE] (drums).\n",
       "After recording a demo, Davy [BAND_NAME] founded [BAND_NAME] in [YEAR], adding Dylana [MONTH]a (formerly Jamie Scott before coming out as transgender), [PERSON_NAME_FULL_1_MALE], Ashley Mitchell and drummer [PERSON_NAME_FULL_0_MALE] to the lineup. They signed with Island Records in [YEAR], before releasing their debut album the following year, titled No Respect, which peaked at number 154 on the Billboard 200.\n",
       "Though they recorded a second album, [BAND_NAME] were released by Island in [YEAR], with West and Rickard departing the same year. Following the addition of both Shawn Rorie and former Guns N' Roses drummer [PERSON_NAME_FULL_0_MALE], [BAND_NAME] renamed themselves Road Crew. However, they also disbanded in [YEAR]. The band reformed in [YEAR] and went through a number of lineup changes for the release of their next two studio albums. By [YEAR], Scott and West had returned to the band, while Rickard would rejoin them in [YEAR] (before departing again the following year).\n"
    ]

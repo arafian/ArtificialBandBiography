@@ -41,8 +41,14 @@
          "Jay Epstein"
       ]
    },
+   "albums": [
+      "Gypsy",
+      "In the Garden",
+      "Antithesis",
+      "Unlock the Gates"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Minnesota, formed as The Underbeats ([YEAR]–[YEAR]). [BAND_NAME] was the house band at the Whisky a Go Go, West Hollywood, California from [MONTH] [YEAR] to [MONTH] [YEAR] and were known in [YEAR] for their US Billboard Hot 100 single \"[BAND_NAME] Queen Part 1\". Most of [BAND_NAME]'s music was composed and written by guitarist and singer [PERSON_NAME_FULL_0_MALE]. Drummer Bill Lordan went on to play with Sly & the Family Stone and a long career with [PERSON_NAME_FULL_1_MALE]. Keyboardist [PERSON_NAME_FULL_2_MALE] continued the band in various incarnations as The [PERSON_NAME_FULL_2_MALE] [BAND_NAME] Band.\n",
+      "[BAND_NAME] was an [GENRE] band from Minnesota, formed as The Underbeats ([YEAR]–[YEAR]). [BAND_NAME] was the house band at the Whisky a Go Go, West Hollywood, California from [MONTH] [YEAR] to [MONTH] [YEAR] and were known in [YEAR] for their US Billboard Hot 100 single [SONG_NAME]. Most of [BAND_NAME]'s music was composed and written by guitarist and singer [PERSON_NAME_FULL_0_MALE]. Drummer Bill Lordan went on to play with Sly & the Family Stone and a long career with [PERSON_NAME_FULL_2_MALE]. Keyboardist [PERSON_NAME_FULL_1_MALE] continued the band in various incarnations as The [PERSON_NAME_FULL_1_MALE] [BAND_NAME] Band.\n",
       "The group has no relation to the British band of the same name formed in [YEAR], who recorded two albums for United Artists Records in the UK.\n",
       ". last show in St. Louis, [MONTH] 4th, [YEAR] .\n"
    ]

@@ -41,9 +41,10 @@
          "Navene Koperweis"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Washington, D.C., United States. It currently consists of guitarists Tosin Abasi and Javier Reyes and drummer [PERSON_NAME_FULL_0_MALE], having been formed by Abasi in [YEAR]. They are a prominent band within the djent scene. Prosthetic Records released the band's eponymous debut album in [YEAR]. They went on to release the albums Weightless ([YEAR]), The Joy of Motion ([YEAR]), and The Madness of Many ([YEAR]).\n",
-      "[BAND_NAME] formed after guitarist Tosin Abasi's previous metalcore band, Reflux, disbanded. The heavy metal record label Prosthetic Records saw Abasi's guitar work and asked him to create a [GENRE] an endeavor would be \"...egotistical and unnecessary.\" Abasi decided to take a year off to study music, as he felt he was unable to reach his peak at guitar playing. After Abasi had completed his course, he took up the label on the offer of a solo project. The name [BAND_NAME] was inspired by Daniel Quinn's [YEAR] novel Ishmael, which addresses anthropocentrism. Abasi coined the name as a reminder \"that we're all essentially animals\".\n",
+      "[BAND_NAME] formed after guitarist Tosin Abasi's previous metalcore band, Reflux, disbanded. The heavy metal record label Prosthetic Records saw Abasi's guitar work and asked him to create a [GENRE] an endeavor would be [SONG_NAME].\n",
       "The project's first album, [BAND_NAME], was recorded in early [YEAR]. Abasi recorded most guitar and bass tracks on the album; a few guitar solos, drums and various synthesized effects were programmed by engineer [PERSON_NAME_FULL_0_MALE] of Periphery and Haunted Shores. The album was released [MONTH] 28, [YEAR] by Prosthetic Records.\n"
    ]
 }

@@ -40,9 +40,10 @@
          "Sérgio Crestana"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band. Formed in [YEAR], the group released their first EP Under the [BAND_NAME] in [YEAR] and followed up with their debut album Wolfheart a year later. They quickly became the most recognizable metal band from Portugal and a key figure in gothic metal.\n",
       "[BAND_NAME] reached the Portuguese top first with their album Sin/Pecado. With Memorial, [BAND_NAME] also became the first Portuguese metal band to have a [GENRE]",
-      "Although they had been playing since [YEAR] under the name of \"Morbid God\", the band became [BAND_NAME] in [YEAR], shortly after they released the promo track \"Serpent Angel\". At the time of the name change, the band's line-up was [PERSON_NAME_FULL_1_MALE] (Langsuyar) on vocals, [PERSON_NAME_FULL_2_MALE] \"Ares\" Escoval (Tetragrammaton) on bass, [PERSON_NAME_FULL_0_MALE] (Mantus) and [PERSON_NAME_FULL_3_MALE] (Malah) on the guitars, and Miguel \"Mike\" Gaspar (Nisroth) on the drums. [PERSON_NAME_LAST_1] and Ares were the founders and masterminds of Morbid God / [BAND_NAME], while the latter members joined Morbid God at different points in [YEAR]. Of them, only Mike Gaspar joined after the recording of \"Serpent Angel\".\n"
+      "Although they had been playing since [YEAR] under the name of [SONG_NAME].\n"
    ]
 }

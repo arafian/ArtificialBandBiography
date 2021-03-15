@@ -65,9 +65,22 @@
          "Todd Barnes (1989)"
       ]
    },
+   "albums": [
+      "Peace thru Vandalism",
+      "When in Rome Do as the Vandals",
+      "Slippery When Ill",
+      "Fear of a Punk Planet",
+      "Live Fast, Diarrhea",
+      "The Quickening",
+      "Oi to the World!",
+      "Hitler Bad, Vandals Good",
+      "Look What I Almost Stepped In...",
+      "Internet Dating Superstuds",
+      "Hollywood Potato Chip"
+   ],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band, established in [YEAR] in Orange County, California, United States. They have released ten full-length studio albums, two live albums, and have toured the world extensively, including performances on the Vans Warped Tour. They are well known for their use of humor, preferring to use their music as a vehicle for comedy and sarcasm rather than as a platform for more serious issues. As of [YEAR], they are signed to Kung Fu Records.\n",
-      "The band's lineup fluctuated significantly over their first nine years, though founding members Steven Ronald Jensen, guitarist [MONTH] Nils Ackermann, and first consistent drummer [PERSON_NAME_FULL_1_MALE] remained regular fixtures. Of the early members, only [PERSON_NAME_LAST_1] has remained through all subsequent incarnations of the band. The current lineup of [PERSON_NAME_LAST_1], [PERSON_NAME_FULL_0_MALE], Warren Fitzgerald, and [PERSON_NAME_FULL_2_MALE] has remained intact since [YEAR] and is generally considered far removed from the band's early [YEAR]s incarnation. Since [YEAR] [PERSON_NAME_LAST_1] has released all of the band's albums through his Kung Fu Records label, with Fitzgerald generally producing.\n",
-      "[BAND_NAME] formed in [YEAR] in Huntington Beach, California by guitarist [MONTH] Nils Ackermann. Soon vocalist [PERSON_NAME_FIRST_1]n [PERSON_NAME_LAST_2] \"Stevo\" Jensen ([YEAR] – [MONTH] 21, [YEAR]) was found and he and Ackermann practiced and performed with a [GENRE] a permanent lineup coalesced to include bassist [PERSON_NAME_FIRST_1] \"Human\" Pfauter and drummer [PERSON_NAME_FULL_0_MALE]. Other early members included [PERSON_NAME_FULL_1_MALE] on bass and Vince Mesa on drums.\n"
+      "The band's lineup fluctuated significantly over their first nine years, though founding members Steven Ronald Jensen, guitarist [MONTH] Nils Ackermann, and first consistent drummer [PERSON_NAME_FULL_2_MALE] remained regular fixtures. Of the early members, only [PERSON_NAME_LAST_2] has remained through all subsequent incarnations of the band. The current lineup of [PERSON_NAME_LAST_2], [PERSON_NAME_FULL_0_MALE], Warren Fitzgerald, and [PERSON_NAME_FULL_1_MALE] has remained intact since [YEAR] and is generally considered far removed from the band's early [YEAR]s incarnation. Since [YEAR] [PERSON_NAME_LAST_2] has released all of the band's albums through his Kung Fu Records label, with Fitzgerald generally producing.\n",
+      "[BAND_NAME] formed in [YEAR] in Huntington Beach, California by guitarist [MONTH] Nils Ackermann. Soon vocalist [PERSON_NAME_FULL_0_MALE] [SONG_NAME] Pfauter and drummer [PERSON_NAME_FULL_1_MALE]. Other early members included [PERSON_NAME_FULL_2_MALE] on bass and Vince Mesa on drums.\n"
    ]
 }

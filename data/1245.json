@@ -44,9 +44,12 @@
          "Andy Haas"
       ]
    },
+   "albums": [
+      "Myspace.com"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band.\n",
-      "The band was formed in Los Angeles, California in [YEAR] by lead guitarist Kenny Powell, previously with the band Savage Grace, and signed on with Metal Blade in [YEAR], with whom they released their debut, Battle Cry. (It contained the song \"The Axeman\", which appeared on the soundtrack for the heavy metal themed [YEAR] video game Brütal Legend.)\n",
+      "The band was formed in Los Angeles, California in [YEAR] by lead guitarist Kenny Powell, previously with the band Savage Grace, and signed on with Metal Blade in [YEAR], with whom they released their debut, Battle Cry. (It contained the song [SONG_NAME], which appeared on the soundtrack for the heavy metal themed [YEAR] video game Brütal Legend.)\n",
       "In [YEAR], the second album Warning of Danger followed, which could easily compare with their debut, and built up [BAND_NAME]'s reputation as one of the forefathers of power metal acts. In [YEAR], they released The Curse, their first release with major label distribution by Capitol Records in the US. In Japan the band climbed to number 14 in the Burrn! Charts.\n"
    ]
 }

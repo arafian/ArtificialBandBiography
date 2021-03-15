@@ -19,6 +19,13 @@
          "Bridge 9"
       ]
    },
+   "albums": [
+      "Demo 2K2",
+      "War Wounds",
+      "What's Done Is Done",
+      "Rewritten",
+      "Blue Monday/Go It Alone split EP"
+   ],
    "prunedData": [
       "[BAND_NAME] ([YEAR]–[YEAR]) was a [GENRE] band.\n",
       "[BAND_NAME] was formed by guitarist Kyle De Ville and vocalist [PERSON_NAME_FULL_0_MALE] in the spring of [YEAR]. After securing a [GENRE] band proceeded to write an eight-song demo which came out in early [YEAR]. After a few short tours down the west coast [BAND_NAME] entered the studio again in mid-[YEAR] and recorded the War Wounds 7\" EP which came out in early [YEAR] on the now defunct For The Core Records from California.\n",

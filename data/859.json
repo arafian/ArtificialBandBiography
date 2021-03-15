@@ -62,9 +62,20 @@
          "Lori Goldston\n"
       ]
    },
+   "albums": [
+      "Earth 2: Special Low-Frequency Version",
+      "Phase 3: Thrones and Dominions",
+      "Pentastar: In the Style of Demons",
+      "Hex; Or Printing in the Infernal Method",
+      "The Bees Made Honey in the Lion's Skull",
+      "Angels of Darkness, Demons of Light I",
+      "Angels of Darkness, Demons of Light II",
+      "Primitive and Deadly",
+      "Full upon Her Burning Lips"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band based in Olympia, Washington, formed in [YEAR] and led by the guitarist Dylan Carlson. [BAND_NAME]'s music is nearly all instrumental, and can be divided into two distinct stages. Their early work is characterized by distortion, droning, minimalism, and lengthy, repetitive song structures. Owing to their [YEAR] debut LP [BAND_NAME] 2, [BAND_NAME] is recognized as a pioneer of drone metal. The band resurfaced in the early [YEAR]s, with their later output reducing the distortion and incorporating elements of country, jazz rock, and folk.\n",
-      "Dylan Carlson founded the band in [YEAR] along with Slim Moon and [PERSON_NAME_FULL_0_MALE], taking the title \"[BAND_NAME]\" from Black Sabbath's original name. Carlson has remained the core of the band's line-up throughout its changes. \n",
-      "Carlson was a close friend of grunge icon [PERSON_NAME_FULL_0_MALE], who sang lead vocals in the song \"Divine and Bright\", from a demo included on the re-release of the live album Sunn Amps and Smashed Guitars. Because police had twice confiscated guns from [PERSON_NAME_LAST_0] inside a single year, [PERSON_NAME_LAST_0] had Carlson purchase a shotgun for him on [MONTH] 30, [YEAR]. [PERSON_NAME_LAST_0] told Carlson the gun was for protection. [PERSON_NAME_LAST_0] would use the shotgun to kill himself six days later.\n"
+      "Dylan Carlson founded the band in [YEAR] along with Slim Moon and [PERSON_NAME_FULL_0_MALE], taking the title [SONG_NAME] from Black Sabbath's original name. Carlson has remained the core of the band's line-up throughout its changes. \n",
+      "Carlson was a close friend of grunge icon [PERSON_NAME_FULL_0_MALE], who sang lead vocals in the song [SONG_NAME], from a demo included on the re-release of the live album Sunn Amps and Smashed Guitars. Because police had twice confiscated guns from [PERSON_NAME_LAST_0] inside a single year, [PERSON_NAME_LAST_0] had Carlson purchase a shotgun for him on [MONTH] 30, [YEAR]. [PERSON_NAME_LAST_0] told Carlson the gun was for protection. [PERSON_NAME_LAST_0] would use the shotgun to kill himself six days later.\n"
    ]
 }

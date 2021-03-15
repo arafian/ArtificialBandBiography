@@ -41,9 +41,30 @@
          "David Leonhardt"
       ]
    },
+   "albums": [
+      "Ping Pong over the Abyss",
+      "All Fall Down",
+      "The 77s",
+      "Sticks and Stones",
+      "88",
+      "Pray Naked",
+      "Drowning with Land in Sight",
+      "Tom Tom Blues",
+      "Echos o' Faith",
+      "EP",
+      "Late",
+      "88/When Numbers Get Serious",
+      "88",
+      "A Golden Field of Radioactive Crows",
+      "Direct",
+      "77s DVD Collection",
+      "Holy Ghost Building",
+      "Gimme a Kickstart....",
+      ".....And a Phrase or Two"
+   ],
    "prunedData": [
       "[BAND_NAME] (alternatively spelled the Seventy Sevens or the 77's) is an [GENRE] band consisting of Michael Roe on vocals/guitar, [MONTH]k Harmon on bass guitar, and [PERSON_NAME_FULL_0_MALE] on drums.\n",
-      "The group was “formed at a [GENRE] a church” under the name Scratch Band in Sacramento, California, during the late [YEAR]s according to [PERSON_NAME_FULL_1_MALE]. Accompanying him were [MONTH]k Tootle on guitar and keyboards, [MONTH] [PERSON_NAME_FULL_0_MALE] on bass guitar, and [MONTH]k Proctor on drums. They were occasionally joined by singer [PERSON_NAME_FULL_3_FEMALE] and guitarist Jimmy A. Their repertoire included originals and songs by English poet [PERSON_NAME_FULL_2_MALE] among others. The “church” that brought the players together was Sacramento's Warehouse Christian Ministries with the band being a part of the ministries artistic outreach, performing every weekend at the Warehouse. The name of the band was changed to The Seventy Sevens before the release of their first album, Ping Pong Over the Abyss in [YEAR], on WCM’s own Exit label. While the meaning of the group's name has never been revealed, it is thought to be derived from either Matt 18:22, Daniel 9 or, simply, a year – possibly [YEAR] – which holds some significance to the band. In [YEAR], the group toured with labelmate Vector and Resurrection Band with all 3 bands playing the very first Cornerstone festival.\n",
-      "When Proctor left the band, he was replaced by Aaron Smith, who appeared on the album All Fall Down ([YEAR]) and remained with the band until [YEAR]. Smith had been a former sideman with [PERSON_NAME_FULL_0_MALE] and The Temptations and a member of Vector. The next album, The Seventy Sevens, was released by Island Records in [YEAR]. While the album received favorable reviews, it did not sell as well as it might; the reason being The Joshua Tree by labelmate U2 was released that same year. In his article on the subject, John Thompson (True Tunes) thought it likely that Island put most of its resources into promoting The Joshua Tree while others on the label received less promotional support. The album received a positive review by Rolling Stone critic, [MONTH]got Mifflin: \"the 77s have come up with a sound that suggests not only that they know where they’re coming from, but also that they’re going places\". [MONTH]k [PERSON_NAME_FULL_1_MALE] called it \"an artistic masterpiece – probably one of the ten best albums of the year not simply in the Christian market but in rock and roll, period\".\n"
+      "The group was “formed at a [GENRE] a church” under the name Scratch Band in Sacramento, California, during the late [YEAR]s according to [PERSON_NAME_FULL_0_MALE]. Accompanying him were [MONTH]k Tootle on guitar and keyboards, [MONTH] [PERSON_NAME_FULL_2_MALE] on bass guitar, and [MONTH]k Proctor on drums. They were occasionally joined by singer [PERSON_NAME_FULL_1_FEMALE] and guitarist Jimmy A. Their repertoire included originals and songs by English poet [PERSON_NAME_FULL_3_MALE] among others. The “church” that brought the players together was Sacramento's Warehouse Christian Ministries with the band being a part of the ministries artistic outreach, performing every weekend at the Warehouse. The name of the band was changed to The Seventy Sevens before the release of their first album, Ping Pong Over the Abyss in [YEAR], on WCM’s own Exit label. While the meaning of the group's name has never been revealed, it is thought to be derived from either Matt 18:22, Daniel 9 or, simply, a year – possibly [YEAR] – which holds some significance to the band. In [YEAR], the group toured with labelmate Vector and Resurrection Band with all 3 bands playing the very first Cornerstone festival.\n",
+      "When Proctor left the band, he was replaced by Aaron Smith, who appeared on the album All Fall Down ([YEAR]) and remained with the band until [YEAR]. Smith had been a former sideman with [PERSON_NAME_FULL_0_MALE] and The Temptations and a member of Vector. The next album, The Seventy Sevens, was released by Island Records in [YEAR]. While the album received favorable reviews, it did not sell as well as it might; the reason being The Joshua Tree by labelmate U2 was released that same year. In his article on the subject, John Thompson (True Tunes) thought it likely that Island put most of its resources into promoting The Joshua Tree while others on the label received less promotional support. The album received a positive review by Rolling Stone critic, [MONTH]got Mifflin: [SONG_NAME].\n"
    ]
 }

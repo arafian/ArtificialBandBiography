@@ -38,9 +38,10 @@
          "Wes Corbett (in studio)"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band from Weaverville, North Carolina (United States); they are on hiatus as of [YEAR].\n",
       "[BAND_NAME] began around a [GENRE] a few biscuits did get burned during the making of this award winning band that stole the hearts of many during their time together.  Beginning as an all-female group, the band quickly morphed into the core four of [MONTH]y Lucey (bass and vocals), Shannon Whitworth (guitar, clawhammer and vocals), [PERSON_NAME_FULL_1_MALE] (dobro and banjo) and [PERSON_NAME_FULL_0_MALE] (acoustic guitar).\n",
-      "[BAND_NAME] quickly established themselves.  Along with being showcased at the IBMA Conference and appearing at the Historic Ryman Auditorium with Vassar Clements and [PERSON_NAME_FULL_1_FEMALE], they had their debut album, 'Fiery Mountain Music', chosen in the Top 10 Bluegrass Albums of [YEAR] by the Chicago Tribune.  Critics also chose [PERSON_NAME_FULL_0_FEMALE]'s song \"Come On Darlin'\" as the IPOD Hotpick Bluegrass Song of [YEAR].  In [MONTH] [YEAR], the band released their second album, A Mountain Apart, which was in the Top 20 of the Roots Music Report National Bluegrass Airplay chart for five months after its release.  \n"
+      "[BAND_NAME] quickly established themselves.  Along with being showcased at the IBMA Conference and appearing at the Historic Ryman Auditorium with Vassar Clements and [PERSON_NAME_FULL_1_FEMALE], they had their debut album, 'Fiery Mountain Music', chosen in the Top 10 Bluegrass Albums of [YEAR] by the Chicago Tribune.  Critics also chose [PERSON_NAME_FULL_0_FEMALE]'s song [SONG_NAME] as the IPOD Hotpick Bluegrass Song of [YEAR].  In [MONTH] [YEAR], the band released their second album, A Mountain Apart, which was in the Top 20 of the Roots Music Report National Bluegrass Airplay chart for five months after its release.  \n"
    ]
 }

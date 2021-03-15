@@ -31,9 +31,17 @@
          "Ron Griffith"
       ]
    },
+   "albums": [
+      "Surf Rider!",
+      "Surf Drums",
+      "Surf City",
+      "The Great Surf Hits!",
+      "Surfin' South of the Border",
+      "Bugalu Party"
+   ],
    "prunedData": [
       "[BAND_NAME] were an [GENRE] band from USA, active in Southern California in the [YEAR]s. They played live mostly in California and Arizona. They recorded for Del-Fi records with production from Bob Keane. They recorded mostly cover songs, but there were a few originals.\n",
-      "Their [YEAR] song \"Surf Rider\" (written by Nokie Edwards from The Ventures) was featured in the final sequence as well as the end credits of [PERSON_NAME_FULL_0_MALE]'s [YEAR] film Pulp Fiction.\n",
+      "Their [YEAR] song [SONG_NAME] (written by Nokie Edwards from The Ventures) was featured in the final sequence as well as the end credits of [PERSON_NAME_FULL_0_MALE]'s [YEAR] film Pulp Fiction.\n",
       "They are best known with these members:\n"
    ]
 }

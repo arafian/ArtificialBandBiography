@@ -50,9 +50,14 @@
          "Josh Klinghoffer"
       ]
    },
+   "albums": [
+      "The Fool",
+      "Warpaint",
+      "Heads Up"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Los Angeles, California, formed in [YEAR]. The band consists of [PERSON_NAME_FULL_0_FEMALE] (vocals, guitar), Theresa Wayman (vocals, guitar), [PERSON_NAME_FULL_1_FEMALE] (bass, vocals), and Stella Mozgawa (drums).\n",
       "To date, the band has released four studio albums: Exquisite Corpse (EP, [YEAR]), The Fool ([YEAR]), [BAND_NAME] ([YEAR]), and Heads Up ([YEAR]).\n",
-      "[BAND_NAME] formed in Los Angeles on Valentine's Day [YEAR]. The original lineup consisted of childhood friends Wayman and Kokal alongside sisters Lindberg and Shannyn Sossamon. The band played in the Los Angeles area for three years, writing songs (\"Stars\", \"Beetles\" and \"Elephants\") which would eventually comprise their debut EP.\n"
+      "[BAND_NAME] formed in Los Angeles on Valentine's Day [YEAR]. The original lineup consisted of childhood friends Wayman and Kokal alongside sisters Lindberg and Shannyn Sossamon. The band played in the Los Angeles area for three years, writing songs ([SONG_NAME]) which would eventually comprise their debut EP.\n"
    ]
 }

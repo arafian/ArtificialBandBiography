@@ -30,9 +30,10 @@
          "Jeff Trott"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band, who released six albums in the [YEAR]s and [YEAR]s.\n",
-      "The band was originally formed as the Renegades in [MONTH] [YEAR] in [PERSON_NAME_FULL_2_MALE]; its members had met while attending [PERSON_NAME_FULL_2_MALE] State University. The original lineup featured Kevin Hunter (vocals, guitar), [PERSON_NAME_FULL_1_MALE] (vocals, guitar), [PERSON_NAME_FULL_0_MALE] (bass guitar, vocals) and Federico Gil-Sola (drums). [PERSON_NAME_LAST_0] had previously played with the Swedish bands Motvind and Gary T'To Band.\n",
+      "The band was originally formed as the Renegades in [MONTH] [YEAR] in [PERSON_NAME_FULL_0_MALE]; its members had met while attending [PERSON_NAME_FULL_0_MALE] State University. The original lineup featured Kevin Hunter (vocals, guitar), [PERSON_NAME_FULL_2_MALE] (vocals, guitar), [PERSON_NAME_FULL_1_MALE] (bass guitar, vocals) and Federico Gil-Sola (drums). [PERSON_NAME_LAST_1] had previously played with the Swedish bands Motvind and Gary T'To Band.\n",
       "In [MONTH] [YEAR], [BAND_NAME] signed to the local 415 Records label, also home to acts like Translator, Red Rockers and [PERSON_NAME_FULL_0_MALE], all of which found themselves with national distribution when 415 entered into a [GENRE]"
    ]
 }

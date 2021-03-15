@@ -32,9 +32,15 @@
          "Johnny Trama - Guitar"
       ]
    },
+   "albums": [
+      "Unbound",
+      "Ghosts of Jupiter",
+      "Green Is Gold Vol. 1",
+      "The Great Bright Horses"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band based out of the Boston area, previously known as the Nate Wilson Group.  Led by former Percy Hill keyboardist Nate Wilson, the band features a loud, riff-heavy sound inspired by classic rock groups such as Led Zeppelin, Black Sabbath, and Cream.  GOJ features [PERSON_NAME_FULL_0_MALE] (also of Assembly of Dust) and Jason Cohen (formerly of the Ryan Montbleau Band), while MIT graduate bassist [PERSON_NAME_FULL_1_MALE] and drummer Tom Arey (also touring with J. Geils Band) hold down the band's rhythm section.\n",
-      "Band leader, Wilson, a [GENRE] a freelance and session musician, appearing on stage and in the studio with artists such as Chuck Berry, [PERSON_NAME_FULL_0_MALE], Peter Bernstein, [PERSON_NAME_FULL_1_MALE] of [MONTH]e’s Addiction, and members of Phish and the Allman Brothers Band.\n",
+      "[BAND_NAME] is a [GENRE] band based out of the Boston area, previously known as the Nate Wilson Group.  Led by former Percy Hill keyboardist Nate Wilson, the band features a loud, riff-heavy sound inspired by classic rock groups such as Led Zeppelin, Black Sabbath, and Cream.  GOJ features [PERSON_NAME_FULL_1_MALE] (also of Assembly of Dust) and Jason Cohen (formerly of the Ryan Montbleau Band), while MIT graduate bassist [PERSON_NAME_FULL_0_MALE] and drummer Tom Arey (also touring with J. Geils Band) hold down the band's rhythm section.\n",
+      "Band leader, Wilson, a [GENRE] a freelance and session musician, appearing on stage and in the studio with artists such as Chuck Berry, [PERSON_NAME_FULL_1_MALE], Peter Bernstein, [PERSON_NAME_FULL_0_MALE] of [MONTH]e’s Addiction, and members of Phish and the Allman Brothers Band.\n",
       "[BAND_NAME]’s self-titled album was released in [MONTH], [YEAR].\n"
    ]
 }

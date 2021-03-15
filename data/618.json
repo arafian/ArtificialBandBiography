@@ -5,6 +5,7 @@
       "The 1988 album's title was simply the name of the band (Blue Rose).\n"
    ],
    "infobox": {},
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band that played bluegrass music.  All of the musicians in the group are solo artists in their own right who joined together to record an album as a group in [YEAR] for Sugar Hill Records.\n",
       "The [YEAR] album's title was simply the name of the band ([BAND_NAME]).\n"

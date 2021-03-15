@@ -37,9 +37,15 @@
          "Jeff Hunt"
       ]
    },
+   "albums": [
+      "Crime in Choir",
+      "The Hoop",
+      "Trumpery Metier",
+      "Gift Givers"
+   ],
    "prunedData": [
-      "San Francisco quintet Crime In Choir was an [GENRE] band. Founded in [YEAR], Crime In Choir released their previous full-length releases on Frenetic Records ([YEAR]’s The Hoop) and Omnibus ([YEAR]’s self-titled debut), respectively. The band’s third full-length, Trumpery Metier, was recorded by [PERSON_NAME_FULL_1_MALE], and is their first release for Gold Standard Labs.  The band includes two original members of At the Drive-In, guitarist [PERSON_NAME_FULL_0_MALE] and bassist Kenny Hopper.\n",
+      "San Francisco quintet Crime In Choir was an [GENRE] band. Founded in [YEAR], Crime In Choir released their previous full-length releases on Frenetic Records ([YEAR]’s The Hoop) and Omnibus ([YEAR]’s self-titled debut), respectively. The band’s third full-length, Trumpery Metier, was recorded by [PERSON_NAME_FULL_0_MALE], and is their first release for Gold Standard Labs.  The band includes two original members of At the Drive-In, guitarist [PERSON_NAME_FULL_1_MALE] and bassist Kenny Hopper.\n",
       "On [MONTH] 13, [YEAR], [BAND_NAME] performed at the San Francisco Museum of Modern Art accompanied by light projections by visual artist, Anthony McCall.\n",
-      "[BAND_NAME]'s fourth release, \"Gift Givers\" was released on 22 [MONTH] [YEAR] on Kill Shaman Records - their previous label (Gold Standard Labs) closed its doors in [MONTH] [YEAR].\n"
+      "[BAND_NAME]'s fourth release, [SONG_NAME] was released on 22 [MONTH] [YEAR] on Kill Shaman Records - their previous label (Gold Standard Labs) closed its doors in [MONTH] [YEAR].\n"
    ]
 }

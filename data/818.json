@@ -28,9 +28,12 @@
          "Steve Moriarty"
       ]
    },
+   "albums": [
+      "Frenching the Bully"
+   ],
    "prunedData": [
-      "[BAND_NAME] were an [GENRE] band, formed in Yellow Springs, Ohio, in [YEAR].   As part of the burgeoning Seattle music scene of the early [YEAR]s, they were known for their fiery live performances. Members included singer Mia Zapata, guitarist Joe Spleen (born [PERSON_NAME_FULL_0_MALE]), bassist Matt Dresdner and drummer [PERSON_NAME_FULL_1_MALE]. They dissolved in [YEAR] after the murder of Zapata.\n",
+      "[BAND_NAME] were an [GENRE] band, formed in Yellow Springs, Ohio, in [YEAR].   As part of the burgeoning Seattle music scene of the early [YEAR]s, they were known for their fiery live performances. Members included singer Mia Zapata, guitarist Joe Spleen (born [PERSON_NAME_FULL_1_MALE]), bassist Matt Dresdner and drummer [PERSON_NAME_FULL_0_MALE]. They dissolved in [YEAR] after the murder of Zapata.\n",
       "During their existence, the band released two studio albums, one compilation of early recordings, one live recording, three 7\" singles and appeared on various compilations. The band also recorded on a few independent labels, and released its two studio albums on C/Z Records. In [YEAR], each release in the band's discography was remastered and expanded with bonus tracks on Broken Rekids.\n",
-      "[BAND_NAME] met and formed in [YEAR] at Antioch College, a liberal arts school in Yellow Springs, Ohio. They called themselves the 'Snivelling Little Rat Faced Gits' (a reference to a Monty Python skit), but soon shortened the moniker to just '[BAND_NAME]'. In [YEAR] they recorded and self-released their \"unofficial\" debut album entitled Private Lubs with the help of friend [PERSON_NAME_FULL_0_MALE] (later of Alcohol Funnycar and solo). These recordings did not see widespread release until [YEAR], when the album was reissued by the Broken Rekids label as Kings & Queens.\n"
+      "[BAND_NAME] met and formed in [YEAR] at Antioch College, a liberal arts school in Yellow Springs, Ohio. They called themselves the 'Snivelling Little Rat Faced Gits' (a reference to a Monty Python skit), but soon shortened the moniker to just '[BAND_NAME]'. In [YEAR] they recorded and self-released their [SONG_NAME] debut album entitled Private Lubs with the help of friend [PERSON_NAME_FULL_0_MALE] (later of Alcohol Funnycar and solo). These recordings did not see widespread release until [YEAR], when the album was reissued by the Broken Rekids label as Kings & Queens.\n"
    ]
 }

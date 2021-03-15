@@ -5,8 +5,9 @@
       "This article on a United States indie rock band is a stub. You can help Wikipedia by expanding it."
    ],
    "infobox": {},
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from the San Francisco Bay Area. The band originated as American Steel, but decided to record under the name [BAND_NAME] during the taping of A Crescent Honeymoon in [YEAR] because the synth-rock sound did not match the punk style of American Steel. In [YEAR], they released \"Poison Arrows\". In [YEAR], the \"[BAND_NAME]\" name was discontinued, with the members becoming American Steel again. \n",
+      "[BAND_NAME] was an [GENRE] band from the San Francisco Bay Area. The band originated as American Steel, but decided to record under the name [BAND_NAME] during the taping of A Crescent Honeymoon in [YEAR] because the synth-rock sound did not match the punk style of American Steel. In [YEAR], they released [SONG_NAME] name was discontinued, with the members becoming American Steel again. \n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

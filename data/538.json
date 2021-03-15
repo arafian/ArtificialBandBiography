@@ -40,6 +40,7 @@
          "Dick Schulte-Nordholt"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band which released four studio albums in the [YEAR]s. The band split in [YEAR]. They made a comeback in [YEAR] and in [MONTH] [YEAR] they released a new album.\n",
       "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."

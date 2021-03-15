@@ -38,9 +38,20 @@
          "Per Möller Jensen"
       ]
    },
+   "albums": [
+      "The Haunted",
+      "Made Me Do It",
+      "One Kill Wonder",
+      "Revolver",
+      "The Dead Eye",
+      "Versus",
+      "Unseen",
+      "Exit Wounds",
+      "Strength in Numbers"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Gothenburg, Sweden formed in [YEAR].\nThe original members were Anders and [PERSON_NAME_FULL_0_MALE], Peter Dolving, [PERSON_NAME_FULL_1_MALE] and Patrik Jensen. Both of the [PERSON_NAME_LAST_0] brothers and [PERSON_NAME_LAST_1] were members of the seminal melodic death metal band At the Gates, a pioneering force in the Swedish death metal scene.\n",
-      "The majority of members, past and present, are from Gothenburg, Sweden; with the exception of Patrik Jensen, who is from Linköping; [PERSON_NAME_FULL_0_MALE], who is from Denmark; Adrian Erlandsson, who is from Malmö; and [MONTH]co \"Shark-Fin\" Annaka, who is from Finland.\n",
+      "[BAND_NAME] is a [GENRE] band from Gothenburg, Sweden formed in [YEAR].\nThe original members were Anders and [PERSON_NAME_FULL_1_MALE], Peter Dolving, [PERSON_NAME_FULL_0_MALE] and Patrik Jensen. Both of the [PERSON_NAME_LAST_1] brothers and [PERSON_NAME_LAST_0] were members of the seminal melodic death metal band At the Gates, a pioneering force in the Swedish death metal scene.\n",
+      "The majority of members, past and present, are from Gothenburg, Sweden; with the exception of Patrik Jensen, who is from Linköping; [PERSON_NAME_FULL_0_MALE], who is from Denmark; Adrian Erlandsson, who is from Malmö; and [MONTH]co [SONG_NAME] Annaka, who is from Finland.\n",
       "On 27 [MONTH] [YEAR], Patrik Jensen co-created the band with [PERSON_NAME_FULL_0_MALE], who had just become an [GENRE] band, At the Gates, due to the bands' split up the day before. They had made their demo, called Demo '97, in [YEAR].\n"
    ]
 }

@@ -6,9 +6,21 @@
       "They were influenced by The Who, Led Zeppelin, David Bowie, and Lou Reed\n"
    ],
    "infobox": {},
+   "albums": [
+      "Tahúres zurdos",
+      "Tahuría",
+      "Nieve negra",
+      "Árido",
+      "La caza",
+      "Azul",
+      "Tak",
+      "Acústico",
+      "El tiempo de la luz",
+      "17 Años"
+   ],
    "prunedData": [
       "[BAND_NAME] (Left-handed Gamblers) was a [GENRE] band active from [YEAR] to [YEAR].\n",
-      "Its members were Aurora [PERSON_NAME_LAST_2] Gila (voice, composition and guitar), [PERSON_NAME_LAST_0] [PERSON_NAME_LAST_2] Gila (Lolo [PERSON_NAME_LAST_2], Aurora's brother, guitarist), Luis salcedo (until [YEAR], bass), [PERSON_NAME_FULL_0_MALE] (from [YEAR] on, bass), [PERSON_NAME_FULL_1_MALE] (alias Punxes, drummer).\n",
+      "Its members were Aurora [PERSON_NAME_LAST_2] Gila (voice, composition and guitar), [PERSON_NAME_LAST_1] [PERSON_NAME_LAST_2] Gila (Lolo [PERSON_NAME_LAST_2], Aurora's brother, guitarist), Luis salcedo (until [YEAR], bass), [PERSON_NAME_FULL_1_MALE] (from [YEAR] on, bass), [PERSON_NAME_FULL_0_MALE] (alias Punxes, drummer).\n",
       "They were influenced by The Who, Led Zeppelin, [PERSON_NAME_FULL_0_MALE], and Lou Reed\n"
    ]
 }

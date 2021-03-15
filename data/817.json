@@ -35,9 +35,15 @@
          "Lisa Faye Beatty (Deceased)"
       ]
    },
+   "albums": [
+      "Sick 'Em",
+      "¡Viva Zapata!",
+      "Gato Negro",
+      "Live at Moe"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band from Seattle, Washington. The band was active between [YEAR] and [YEAR] and released three albums over that time.The band formed at the same time as the emergence of the Riot Grrrl sub-genre, which is a sub-genre of punk music from the early to mid-[YEAR]s that emphasized the role of women in rock music. The Riot Grrrl movement began as a feminist response to the violence and misogyny that became more prominent in punk music in the mid to late [YEAR]s, and [BAND_NAME], an all female punk band, emerged as part of that sub-genre.\n",
-      "[BAND_NAME] was formed in [YEAR] by vocalist Selene Vigil, guitarist [PERSON_NAME_FULL_0_FEMALE], bassist Elizabeth Davis and drummer [PERSON_NAME_FULL_1_FEMALE].  Vigil, [PERSON_NAME_LAST_0], and [PERSON_NAME_LAST_1] had been playing together in the Seattle band Barbie's Dream Car when their bassist left for Europe. They subsequently recruited Davis and renamed their band after the movie The Seven Year Itch, based on a suggestion by their friend, [PERSON_NAME_FULL_2_MALE], of fellow Seattle band, Alcohol Funnycar.\n",
-      "At their first concert, the band opened for The Gits, who would prove to have a significant influence on their music. In [YEAR] the band released their first single \"Lorna\" and signed with C/Z Records. Their first album, Sick 'Em, was released in [YEAR], but it was overshadowed by Sargent's death on [MONTH] 27, through passing out on her back after returning home from a party where she had drunk alcohol and taken a small amount of heroin. Following a period grieving and uncertainty, the band decided to continue, recruiting guitarist [PERSON_NAME_FULL_0_FEMALE] as Sargent's replacement later that year.\n"
+      "[BAND_NAME] was formed in [YEAR] by vocalist Selene Vigil, guitarist [PERSON_NAME_FULL_0_FEMALE], bassist Elizabeth Davis and drummer [PERSON_NAME_FULL_2_FEMALE].  Vigil, [PERSON_NAME_LAST_0], and [PERSON_NAME_LAST_2] had been playing together in the Seattle band Barbie's Dream Car when their bassist left for Europe. They subsequently recruited Davis and renamed their band after the movie The Seven Year Itch, based on a suggestion by their friend, [PERSON_NAME_FULL_1_MALE], of fellow Seattle band, Alcohol Funnycar.\n",
+      "At their first concert, the band opened for The Gits, who would prove to have a significant influence on their music. In [YEAR] the band released their first single [SONG_NAME] and signed with C/Z Records. Their first album, Sick 'Em, was released in [YEAR], but it was overshadowed by Sargent's death on [MONTH] 27, through passing out on her back after returning home from a party where she had drunk alcohol and taken a small amount of heroin. Following a period grieving and uncertainty, the band decided to continue, recruiting guitarist [PERSON_NAME_FULL_0_FEMALE] as Sargent's replacement later that year.\n"
    ]
 }

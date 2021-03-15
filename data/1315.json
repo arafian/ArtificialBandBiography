@@ -29,9 +29,10 @@
          "Nick White"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] were a [GENRE] band from Echo Park, California. The band was composed of [PERSON_NAME_FULL_1_MALE] and Jon Walker, two former members of the Las Vegas band Panic! at the Disco, along with bassist [PERSON_NAME_FULL_2_MALE], drummer [PERSON_NAME_FIRST_0] Murray and keyboardist [PERSON_NAME_FULL_0_MALE].\n",
-      "On [MONTH] 6, [YEAR], Ryan Ross and [PERSON_NAME_FULL_0_MALE] left Panic! at the Disco, citing creative differences as the reason for their departure. Soon afterwards, it was announced that their new project would be a [GENRE] band called [BAND_NAME]. Their song \"Change\" debuted on the duo's Myspace page, and their first album, Take a Vacation!, was announced. In late [YEAR] three additional members joined the band: Nick Murray on drums, [PERSON_NAME_FULL_1_MALE] on bass and Nick White on keyboards. Three songs from Take a Vacation! were released as singles in [MONTH] and [MONTH] [YEAR], and the album itself was released in [MONTH] [YEAR]. \n",
-      "On [MONTH] 10, [YEAR], guitarist Jon Walker announced via Twitter that the band is currently on hiatus: \"[BAND_NAME] has been on hiatus and will remain that way for the time being. Thanks for getting the album and coming to the shows.\"\n"
+      "On [MONTH] 6, [YEAR], Ryan Ross and [PERSON_NAME_FULL_0_MALE] left Panic! at the Disco, citing creative differences as the reason for their departure. Soon afterwards, it was announced that their new project would be a [GENRE] band called [BAND_NAME]. Their song [SONG_NAME] debuted on the duo's Myspace page, and their first album, Take a Vacation!, was announced. In late [YEAR] three additional members joined the band: Nick Murray on drums, [PERSON_NAME_FULL_1_MALE] on bass and Nick White on keyboards. Three songs from Take a Vacation! were released as singles in [MONTH] and [MONTH] [YEAR], and the album itself was released in [MONTH] [YEAR]. \n",
+      "On [MONTH] 10, [YEAR], guitarist Jon Walker announced via Twitter that the band is currently on hiatus: [SONG_NAME]\n"
    ]
 }

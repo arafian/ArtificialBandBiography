@@ -31,8 +31,9 @@
          "Jon Petersen"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from Branson, Missouri, the authors of the popular songs \"California,\" and \"It's Over.\" Since the group's inception, they have been a regular feature on Country Music and Bluegrass television specials.\n",
+      "[BAND_NAME] are an [GENRE] band from Branson, Missouri, the authors of the popular songs [SONG_NAME] Since the group's inception, they have been a regular feature on Country Music and Bluegrass television specials.\n",
       "The Petersen children grew up playing music together, but first heard bluegrass in [YEAR] at the Gettysburg bluegrass festival. The band was formed and had their first performance in [YEAR] at their mother's hometown church First Christian Church of Mountain Grove, MO.\n",
       "The band was originally siblings Katie (on fiddle), Ellen (on banjo), their brother Matt (on bass), and their youngest sister [MONTH]ianne (sings and dance), accompanied by their mother Karen (on mandolin) and father Jon (on guitar). But over time, [MONTH]ianne took the mandolin part and Karen switched to bass. Matt took the guitar part and their father, Jon, played the piano on some of the gospel songs. These early performances were mostly held initially in local festivals, churches and cafes.\n"
    ]

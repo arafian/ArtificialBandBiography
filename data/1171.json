@@ -29,9 +29,13 @@
          "Big/Krazy/Tiny/Honest/Upright/Royal Al (Allen Hunter)"
       ]
    },
+   "albums": [
+      "A Man Called E",
+      "Broken Toy Shop"
+   ],
    "prunedData": [
       "[BAND_NAME] (often typeset as eels or EELS) is an [GENRE] band, formed in Los Angeles, California in [YEAR] by singer/songwriter and multi-instrumentalist [MONTH]k Oliver Everett, known by the stage name E. Band members have changed across the years, both in the studio and on stage, making Everett the only official member for most of the band's work. [BAND_NAME]' music is often filled with themes about family, death, and unrequited love. Since [YEAR], [BAND_NAME] has released thirteen studio albums, seven of which charted in the Billboard 200.\n",
-      "In [YEAR], Everett signed a [GENRE] a year later. The single \"Hello Cruel World\" was a minor success. Touring to support the album, E opened for [PERSON_NAME_FULL_0_FEMALE]. A Man Called E was followed by Broken Toy Shop in [YEAR]. This year also marked the beginning of E's collaboration with drummer Jonathan \"Butch\" Norton. After Broken Toy Shop, E was released from his record deal with Polydor. E himself has recovered two of the songs ('The Only Thing I Care About' and 'Manchester Girl') from Broken Toy Shop for his own live shows with the [BAND_NAME].\n",
-      "[BAND_NAME] were officially founded when Butch and E met Tommy Walter. The name \"[BAND_NAME]\" was chosen so that the band's records would be close to E's solo records in an alphabetical ordering, although it was too late once they realized that numerous Eagles and Earth, Wind and Fire releases were in between. [BAND_NAME] became one of the first groups to sign a record deal with DreamWorks Records, followed by [PERSON_NAME_FULL_0_MALE].\n"
+      "In [YEAR], Everett signed a [GENRE] a year later. The single [SONG_NAME] Norton. After Broken Toy Shop, E was released from his record deal with Polydor. E himself has recovered two of the songs ('The Only Thing I Care About' and 'Manchester Girl') from Broken Toy Shop for his own live shows with the [BAND_NAME].\n",
+      "[BAND_NAME] were officially founded when Butch and E met Tommy Walter. The name [SONG_NAME] was chosen so that the band's records would be close to E's solo records in an alphabetical ordering, although it was too late once they realized that numerous Eagles and Earth, Wind and Fire releases were in between. [BAND_NAME] became one of the first groups to sign a record deal with DreamWorks Records, followed by [PERSON_NAME_FULL_0_MALE].\n"
    ]
 }

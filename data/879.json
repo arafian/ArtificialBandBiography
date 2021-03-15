@@ -41,9 +41,18 @@
          "Jim Davison"
       ]
    },
+   "albums": [
+      "Karma to Burn",
+      "Wild, Wonderful... Purgatory",
+      "Almost Heathen",
+      "Appalachian Incantation",
+      "V",
+      "Arch Stanton",
+      "Mountain Czar"
+   ],
    "prunedData": [
       "[BAND_NAME], sometimes known as K2B, is a [GENRE] band from Morgantown, West Virginia comprising guitarist [PERSON_NAME_FULL_1_MALE], bassist Eric Clutter, and drummer [PERSON_NAME_FULL_0_MALE]. The band are noted for their uncompromising, mostly instrumental sound.\n",
-      "Their name comes from a sleevenote on Bob Dylan's [YEAR] album Desire which reads \"I have a brother or two and a whole lot of karma to burn...\"\n",
+      "Their name comes from a sleevenote on Bob Dylan's [YEAR] album Desire which reads [SONG_NAME]\n",
       "After years of viral self-promotion (such as phoning record companies pretending to be other bands who'd heard an [GENRE] band called Karma To Burn), Karma To Burn was signed to Roadrunner Records in [YEAR]. They were planning to release an entirely instrumental album, but Roadrunner insisted that the contract was only valid under the condition that they hired a vocalist. After a brief trial of then Kyuss frontman John Garcia, they hired a friend of theirs [PERSON_NAME_FULL_0_MALE]. Their first album Karma To Burn was released in [YEAR], and despite critical acclaim, sold poorly. The band decided to sack [PERSON_NAME_LAST_0] and as such were fired from Roadrunner. The band continued, releasing [YEAR]'s Wild Wonderful Purgatory and [YEAR]'s Almost Heathen as entirely instrumental albums.\n"
    ]
 }

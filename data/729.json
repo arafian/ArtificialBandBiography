@@ -23,6 +23,10 @@
          "Laura Bandit"
       ]
    },
+   "albums": [
+      "Fiesta!",
+      "Voodoo"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band from Hollywood, California that recorded from [YEAR] to [YEAR]. The band combined country music, punk rock, rockabilly and a dash of funk to create an eclectic wild party music.  [BAND_NAME] predated what is usually referred to as alternative country, but influenced that subgenre's development.\n",
       "[BAND_NAME] were formed in Hollywood, California in around [YEAR]. The band was formed by vocalist Pleasant Gehman who recalled in a [YEAR] Flipside interview:\n",

@@ -50,9 +50,10 @@
          "Fisher Rose"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] are a [GENRE] band, formed in [YEAR] in Vancouver, British Columbia. Presented as a musical collective of singer-songwriters and musicians from multiple projects, the band has released eight studio albums to critical acclaim for their use of multiple vocalists and elements of power pop incorporated into their music.\n",
       "[BAND_NAME]' name was chosen by Carl Newman, who has said that he came up with it after watching a [GENRE] band has released eight albums to date: Mass Romantic ([YEAR]), Electric Version ([YEAR]), Twin Cinema ([YEAR]), Challengers ([YEAR]), Together ([YEAR]), Brill Bruisers ([YEAR]), Whiteout Conditions ([YEAR]), and In the Morse Code of Brake Lights ([YEAR]). A live album recorded on their [YEAR] tour is available only at concerts and on the band's website. In [YEAR], the band was the subject of Reginald Harkema's documentary film Better Off in Bed.\n",
-      "[BAND_NAME]' first four albums each placed in the top 40 on The Village Voice's Pazz & Jop year-end poll of hundreds of music reviewers. From [YEAR] to [YEAR], either a [GENRE] a solo album from one of the band's members ranked in the top 40 on the list each year. In [YEAR], Blender magazine ranked the New Pornographers' first album, Mass Romantic, the 24th best indie album of all time. In [YEAR], Rolling Stone magazine ranked the band's second studio album, Electric Version, No. 79 in the \"100 Best Albums of the [MONTH]ade\".\n"
+      "[BAND_NAME]' first four albums each placed in the top 40 on The Village Voice's Pazz & Jop year-end poll of hundreds of music reviewers. From [YEAR] to [YEAR], either a [GENRE] a solo album from one of the band's members ranked in the top 40 on the list each year. In [YEAR], Blender magazine ranked the New Pornographers' first album, Mass Romantic, the 24th best indie album of all time. In [YEAR], Rolling Stone magazine ranked the band's second studio album, Electric Version, No. 79 in the [SONG_NAME].\n"
    ]
 }

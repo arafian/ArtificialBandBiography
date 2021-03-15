@@ -54,9 +54,20 @@
          "John DiGiorgio"
       ]
    },
+   "albums": [
+      "Halo in a Haystack",
+      "Petitioning the Empty Sky",
+      "When Forever Comes Crashing",
+      "Jane Doe",
+      "You Fail Me",
+      "No Heroes",
+      "Axe to Fall",
+      "All We Love We Leave Behind",
+      "The Dusk in Us"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed by vocalist Jacob Bannon and guitarist [PERSON_NAME_FULL_1_MALE] in Salem, Massachusetts in [YEAR]. During the recording of their seminal fourth album [MONTH]e Doe, the group became a four-piece with the departure of guitarist Aaron Dalbec and the addition of bassist Nate Newton and drummer [PERSON_NAME_FULL_0_MALE]. This lineup has remained intact since. They have released nine studio albums, three live albums, and numerous EPs. The band's sound is rooted in both hardcore punk and heavy metal, and they are considered pioneers of metalcore as well as its subgenre mathcore.\n",
-      "[BAND_NAME] have enjoyed a [GENRE] bands to emerge from the punk underground.\" Their popularity rose with the release of [MONTH]e Doe, which was ranked as the best album of the decade by Sputnikmusic, the best album of [YEAR] by Terrorizer and later as the 61st best metal album of all time by Rolling Stone. Subsequently, [BAND_NAME] moved from Equal Vision Records to the considerably larger label Epitaph Records and their records gradually became more elaborate and expensive to produce. Special releases have traditionally been handled by Deathwish Inc., established by Bannon in [YEAR]. The band's ninth studio album, The Dusk in Us, was released in [MONTH] [YEAR] through Deathwish and Epitaph.\n",
-      "[BAND_NAME] was formed in the winter of [YEAR] by Bannon and Ballou, they were later joined by high school friends [PERSON_NAME_FULL_0_MALE] and Damon Bellorado in [YEAR]. They started by playing covers of hardcore punk, punk rock and heavy metal songs. The band soon graduated to playing live performances in mid-[YEAR], after recording some demos on a [GENRE] band started writing and playing what they consider \"relevant\" music in [YEAR].\n"
+      "[BAND_NAME] is an [GENRE] band formed by vocalist Jacob Bannon and guitarist [PERSON_NAME_FULL_0_MALE] in Salem, Massachusetts in [YEAR]. During the recording of their seminal fourth album [MONTH]e Doe, the group became a four-piece with the departure of guitarist Aaron Dalbec and the addition of bassist Nate Newton and drummer [PERSON_NAME_FULL_1_MALE]. This lineup has remained intact since. They have released nine studio albums, three live albums, and numerous EPs. The band's sound is rooted in both hardcore punk and heavy metal, and they are considered pioneers of metalcore as well as its subgenre mathcore.\n",
+      "[BAND_NAME] have enjoyed a relatively high level of recognition. According to AllMusic, they are [SONG_NAME] Their popularity rose with the release of [MONTH]e Doe, which was ranked as the best album of the decade by Sputnikmusic, the best album of [YEAR] by Terrorizer and later as the 61st best metal album of all time by Rolling Stone. Subsequently, [BAND_NAME] moved from Equal Vision Records to the considerably larger label Epitaph Records and their records gradually became more elaborate and expensive to produce. Special releases have traditionally been handled by Deathwish Inc., established by Bannon in [YEAR]. The band's ninth studio album, The Dusk in Us, was released in [MONTH] [YEAR] through Deathwish and Epitaph.\n",
+      "[BAND_NAME] was formed in the winter of [YEAR] by Bannon and Ballou, they were later joined by high school friends [PERSON_NAME_FULL_0_MALE] and Damon Bellorado in [YEAR]. They started by playing covers of hardcore punk, punk rock and heavy metal songs. The band soon graduated to playing live performances in mid-[YEAR], after recording some demos on a [GENRE] band started writing and playing what they consider [SONG_NAME] music in [YEAR].\n"
    ]
 }

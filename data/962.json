@@ -39,9 +39,17 @@
          "Vito Chairamonte"
       ]
    },
+   "albums": [
+      "No Time to Worry",
+      "Open Container",
+      "Gettin' Filthy",
+      "The Expendables",
+      "Prove It",
+      "Sand in the Sky"
+   ],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band from Santa Cruz, California.\n",
-      "Their music is a diverse mix of styles, including reggae, ska, surf rock, and punk rock. Members include [PERSON_NAME_FULL_0_MALE] (guitars and vocals), Adam Patterson (drums and vocals), [PERSON_NAME_FULL_1_MALE] (lead guitar) and Ryan De[MONTH]s (bass). The band was formed in [YEAR]. In [YEAR] they had their own radio show, Locals Only, on radio station KMBY. In [YEAR], they contributed to a compilation album that was a fundraising effort for the USA junior surfing team. The [YEAR] film XXX Rated: A Year in the Life of a Santa Cruz Phenomenon follows the band during some of their touring.\n",
-      "Some notable hits include \"Keef Bowl for Two\" and \"Sacrifice\" from the album Gettin' Filthy, the latter being available as a playable song in the music video game Guitar Hero World Tour (also as Guitar Hero 4), and \"Down, Down, Down\" from the self-titled album [BAND_NAME], and the album  Gettin Filthy.  [BAND_NAME] have toured with such acts as 311, Pepper, Slightly Stoopid, Kottonmouth Kings, Less Than Jake,  G. Love & Special Sauce, and Reel Big Fish. The band is signed to the record label Stoopid Records, which is owned by Slightly Stoopid. They have funded their own headlining tours across the country as well. [BAND_NAME] have released six albums in their career. They also headlined the Ladera Skateboards Winter Blackout [YEAR] Tour along with Fortunate Youth, MTHDS & The Roots.\n"
+      "Their music is a diverse mix of styles, including reggae, ska, surf rock, and punk rock. Members include [PERSON_NAME_FULL_1_MALE] (guitars and vocals), Adam Patterson (drums and vocals), [PERSON_NAME_FULL_0_MALE] (lead guitar) and Ryan De[MONTH]s (bass). The band was formed in [YEAR]. In [YEAR] they had their own radio show, Locals Only, on radio station KMBY. In [YEAR], they contributed to a compilation album that was a fundraising effort for the USA junior surfing team. The [YEAR] film XXX Rated: A Year in the Life of a Santa Cruz Phenomenon follows the band during some of their touring.\n",
+      "Some notable hits include [SONG_NAME] from the self-titled album [BAND_NAME], and the album  Gettin Filthy.  [BAND_NAME] have toured with such acts as 311, Pepper, Slightly Stoopid, Kottonmouth Kings, Less Than Jake,  G. Love & Special Sauce, and Reel Big Fish. The band is signed to the record label Stoopid Records, which is owned by Slightly Stoopid. They have funded their own headlining tours across the country as well. [BAND_NAME] have released six albums in their career. They also headlined the Ladera Skateboards Winter Blackout [YEAR] Tour along with Fortunate Youth, MTHDS & The Roots.\n"
    ]
 }

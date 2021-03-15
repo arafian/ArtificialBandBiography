@@ -6,9 +6,15 @@
       "The Chantays toured Japan and the United States, joining the Righteous Brothers and Roy Orbison on a few occasions, and they were the only rock and roll band to perform on The Lawrence Welk Show.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Pipeline",
+      "Two Sides of the Chantays",
+      "Next Set",
+      "Waiting for the Tide"
+   ],
    "prunedData": [
-      "[BAND_NAME], sometimes credited as Chantay's, is an [GENRE] band from Orange County, California, United States, known for the hit instrumental \"Pipeline\" ([YEAR]). Their music combines electronic keyboards and surf guitar, creating a unique ghostly sound.\n",
-      "[BAND_NAME] were formed in [YEAR] by five high-school friends. Bob Spickard, [PERSON_NAME_FULL_0_MALE] (co-writers of \"Pipeline\"), Bob Welch, [PERSON_NAME_FULL_1_MALE] and Rob [MONTH]shall were all students at Santa Ana High School in California. In [MONTH] [YEAR], the group recorded and released \"Pipeline\", which peaked at No. 4 on the Billboard Hot 100 in [MONTH] [YEAR]. The track also peaked in the UK Singles Chart in [YEAR] at No. 16. [BAND_NAME] recorded their first album in [YEAR], also titled Pipeline, which included \"Blunderbus\" and \"El Conquistador\". Their follow-up album was Two Sides of the Chantays in [YEAR].\n",
+      "[BAND_NAME], sometimes credited as Chantay's, is an [GENRE] band from Orange County, California, United States, known for the hit instrumental [SONG_NAME] ([YEAR]). Their music combines electronic keyboards and surf guitar, creating a unique ghostly sound.\n",
+      "[BAND_NAME] were formed in [YEAR] by five high-school friends. Bob Spickard, [PERSON_NAME_FULL_1_MALE] (co-writers of [SONG_NAME]. Their follow-up album was Two Sides of the Chantays in [YEAR].\n",
       "[BAND_NAME] toured Japan and the United States, joining the Righteous Brothers and Roy Orbison on a [GENRE] band to perform on The Lawrence Welk Show.\n"
    ]
 }

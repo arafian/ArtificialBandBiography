@@ -43,9 +43,12 @@
          "Rolf Witt"
       ]
    },
+   "albums": [
+      "Analog"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band formed by guitarist Al Schnier of moe. Hailing from the Northeast, the band is best described as a roots rock, alt country, Americana group. The music is a nice blend of bluegrass, country, and rock. All of the musicians have 'day jobs' in other bands (moe., Strangefolk, Okemah, the Gordon Stone Trio). These guys all come to this simply for the love of playing a good three chord song. Their shows typically feature everything from straight up acoustic bluegrass barnburners to balls out rock.\n",
-      "The band was started as a side project by Schnier in [MONTH] [YEAR]. They played four shows in the Northeast with their first show being at the Pontiac Grill in Philadelphia, Pennsylvania. The first incarnation of the band featured Schnier on guitar and vocals; Kirk Juhas of freebeer&chicken on keyboards, banjo, harmonica, and vocals; [PERSON_NAME_FULL_1_MALE] of Yolk on bass and vocals; Ted [MONTH]otta of Ominous Seapods on drums and vocals; and [PERSON_NAME_FULL_0_MALE] of the Merry Danksters and Sonic Garden on mandolin, fiddle, and guitar.\n",
+      "The band was started as a side project by Schnier in [MONTH] [YEAR]. They played four shows in the Northeast with their first show being at the Pontiac Grill in Philadelphia, Pennsylvania. The first incarnation of the band featured Schnier on guitar and vocals; Kirk Juhas of freebeer&chicken on keyboards, banjo, harmonica, and vocals; [PERSON_NAME_FULL_0_MALE] of Yolk on bass and vocals; Ted [MONTH]otta of Ominous Seapods on drums and vocals; and [PERSON_NAME_FULL_1_MALE] of the Merry Danksters and Sonic Garden on mandolin, fiddle, and guitar.\n",
       "They would not perform again until [MONTH] [YEAR], when they played three shows in the Northeast. The lineup remained the same except [PERSON_NAME_FULL_0_MALE] of moe. replaced [MONTH]otta on drums. A few months later, in [MONTH] [YEAR], the band played three more shows making their way across Upstate New York (Buffalo, Utica, Albany). The last show, in Albany, included a guest appearance by [MONTH]otta on drums.  Their final show of [YEAR] was played at the first annual moe.down festival in Turin, NY. The festival is hosted by Schnier's band moe. over Labor Day weekend. [MONTH]otta once again made a guest appearance during this performance.\n"
    ]
 }

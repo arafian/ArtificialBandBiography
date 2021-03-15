@@ -19,8 +19,9 @@
          "Jack Endino, Steve Albini"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band TAD. It consists of:\nthe EP Salt Lick;\nthe A-side of the SP55 7‘’ (\"Loser\" b/w \"Cooking with Gas\");\n7 selected tracks (out of 10) from the album God's Balls.\n",
+      "[BAND_NAME] is a [GENRE] band TAD. It consists of:\nthe EP Salt Lick;\nthe A-side of the SP55 7‘’ ([SONG_NAME]);\n7 selected tracks (out of 10) from the album God's Balls.\n",
       "Both records had previously been released in the United States only on vinyl. It is currently out of print.\n",
       "Salt Lick EP\n\n"
    ]

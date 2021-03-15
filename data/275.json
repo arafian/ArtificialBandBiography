@@ -29,9 +29,10 @@
          "Mark Kilianski"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band, based out of Boston. While the group performs original and traditional bluegrass, Americana music, they have also been influenced by Irish, Old Time, Country, and Folk music. The group has toured local venues throughout the northeastern US, in support of their three released albums. The band gets its name from the chief protesters in The Whiskey Rebellion of [YEAR].\n",
-      "David Delaney, graduate of the Berklee College of Music, founded [BAND_NAME] in [YEAR], with fellow student, [MONTH]k Kilianski. Delaney and Kilianski first performed together under the name \"Around the Park\" before changing the name to \"[BAND_NAME]\" for a [GENRE] band self-published a demo album on CD titled \"First Day\" which was sold at the band's shows.\n",
+      "David Delaney, graduate of the Berklee College of Music, founded [BAND_NAME] in [YEAR], with fellow student, [MONTH]k Kilianski. Delaney and Kilianski first performed together under the name [SONG_NAME] which was sold at the band's shows.\n",
       "The founding members toured the Northeastern United States and made regular festival appearances, as well as appearing WICN local public radio in Worcester, MA local television stations WFXT in Boston, and WTIC-TV in Hartford, CT.\n"
    ]
 }

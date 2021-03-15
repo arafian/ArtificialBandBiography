@@ -51,9 +51,25 @@
          "Efrem Towns - Trumpet, flugelhorn"
       ]
    },
+   "albums": [
+      "My Feet Can't Fail Me Now",
+      "Live: Mardi Gras in Montreaux",
+      "Voodoo",
+      "The New Orleans Album",
+      "Open Up: Whatcha Gonna Do for the Rest of Your Life",
+      "Jelly",
+      "Ears to the Wall",
+      "Buck Jump",
+      "Medicated Magic",
+      "We Got Robbed: Live in New Orleans",
+      "Funeral for a Friend",
+      "This Is the Dirty Dozen Brass Band",
+      "What's Going On",
+      "Twenty Dozen"
+   ],
    "prunedData": [
       "The [BAND_NAME] is a [GENRE] band. The ensemble was established in [YEAR] by Benny Jones and members of the Tornado Brass Band. The Dirty Dozen revolutionized the New Orleans brass band style by incorporating funk and bebop into the traditional New Orleans jazz style, and since has been a major influence on local music.\n",
       "The [BAND_NAME] grew out of the youth music program established by Danny Barker at New Orleans' Fairview Baptist Church. In [YEAR], Barker started the Fairview Baptist Church [MONTH]ing Band to provide young people with a [GENRE] band achieved considerable local popularity and transformed itself into a professional outfit led by trumpeter Leroy Jones and known as the Hurricane Brass Band. By [YEAR], however, opportunities for brass bands were drying up; Jones left the group to play mainstream jazz and, after a brief period as the Tornado Brass Band, the group fell apart.\n",
-      "A few of the musicians from the Tornado band—trumpeter Gregory Davis, sousaphonist [PERSON_NAME_FULL_2_MALE], trombonist Charles [PERSON_NAME_LAST_2], and saxophonist Kevin Harris–continued to rehearse together into [YEAR], and they were joined by [PERSON_NAME_FULL_1_MALE] (trumpeter/lead singer) and Roger Lewis on saxophone and [PERSON_NAME_FULL_0_MALE] and Jenell [MONTH]shall on drums. By this point the popularity of brass band music in New Orleans was at a [GENRE] a circumstance which influenced the early development of the band. As Davis describes it,\n"
+      "A few of the musicians from the Tornado band—trumpeter Gregory Davis, sousaphonist [PERSON_NAME_FULL_1_MALE], trombonist Charles [PERSON_NAME_LAST_1], and saxophonist Kevin Harris–continued to rehearse together into [YEAR], and they were joined by [PERSON_NAME_FULL_2_MALE] (trumpeter/lead singer) and Roger Lewis on saxophone and [PERSON_NAME_FULL_0_MALE] and Jenell [MONTH]shall on drums. By this point the popularity of brass band music in New Orleans was at a [GENRE] a circumstance which influenced the early development of the band. As Davis describes it,\n"
    ]
 }

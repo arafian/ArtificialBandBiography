@@ -35,9 +35,22 @@
          "Mika Vainio"
       ]
    },
+   "albums": [
+      "It's Only Rock 'n' Roll",
+      "Bad Sneakers and a Piña Colada",
+      "Thank You (For Letting Us Be Ourselves)",
+      "No Regrets",
+      "Hardcore Superstar",
+      "Dreamin' in a Casket",
+      "Beg for It",
+      "Split Your Lip",
+      "C'mon Take on Me",
+      "HCSS",
+      "You Can't Kill My Rock 'N' Roll"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Gothenburg, Sweden. The band was formed in [YEAR] and have released eleven studio albums.\n",
-      "[BAND_NAME] was formed in Gothenburg, Sweden in [YEAR] by [PERSON_NAME_FULL_0_MALE] and [MONTH]tin Sandvik. Their previous band Link had been grunge-inspired but with their new band they wanted to pull more towards rock'n'roll. They kept the drummer from Link, [PERSON_NAME_FULL_1_MALE] (with the moniker DynaMike), and as lead guitarist they recruited Thomas Silver who had previously been in the band Glamoury Foxx with Jocke and had recently quit the band Green Jesus Saviours. During an [GENRE] a reference to the singer of the Swedish band kent and the moniker stuck. Through Silver's contacts with the Gothenburg record label Gain Records they got their song \"Hello/Goodbye\" included on a promo compilation titled Gain Experience, which led to a record deal with the label. In early [YEAR], they recorded their debut album, released in Sweden on 4 [MONTH]. The first pressing of [YEAR] copies sold very fast, and so did the second pressing. \"Hello/Goodbye\" was put out as the single and music video.\n",
-      "The band got to support Backyard Babies, Motörhead and Dio, and soon the British company Music For Nations offered the band a new worldwide record deal. By the end of [YEAR], drummer DynaMike decided to quit. Jocke phoned Magnus \"Adde\" Andreasson, who at that time was living in Los Angeles where he had been a student at Musicians Institute. Adde, who had formerly been the original drummer of Link and his own band [PERSON_NAME_FULL_0_MALE], accepted the offer and moved back to Gothenburg.\n"
+      "[BAND_NAME] was formed in Gothenburg, Sweden in [YEAR] by [PERSON_NAME_FULL_1_MALE] and [MONTH]tin Sandvik. Their previous band Link had been grunge-inspired but with their new band they wanted to pull more towards rock'n'roll. They kept the drummer from Link, [PERSON_NAME_FULL_0_MALE] (with the moniker DynaMike), and as lead guitarist they recruited Thomas Silver who had previously been in the band Glamoury Foxx with Jocke and had recently quit the band Green Jesus Saviours. During an early gig, Silver introduced Jocke as [SONG_NAME] was put out as the single and music video.\n",
+      "The band got to support Backyard Babies, Motörhead and Dio, and soon the British company Music For Nations offered the band a new worldwide record deal. By the end of [YEAR], drummer DynaMike decided to quit. Jocke phoned Magnus [SONG_NAME] Andreasson, who at that time was living in Los Angeles where he had been a student at Musicians Institute. Adde, who had formerly been the original drummer of Link and his own band [PERSON_NAME_FULL_0_MALE], accepted the offer and moved back to Gothenburg.\n"
    ]
 }

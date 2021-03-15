@@ -52,8 +52,13 @@
          "Matt \"Malice\" Vicknair\n "
       ]
    },
+   "albums": [
+      "Back from Samoa",
+      "STP Not LSD",
+      "The '90s Suck and So Do You"
+   ],
    "prunedData": [
-      "The [BAND_NAME] are an [GENRE] band from the first wave of American punk, formed in [MONTH] [YEAR] in Los Angeles, California, by early [YEAR]s rock writer \"Metal\" Mike Saunders, his sibling lead guitarist Bonze Blayk and Gregg Turner (another rock writer, for Creem from the late [YEAR]s through the mid-[YEAR]s), along with original recruits [PERSON_NAME_FULL_0_MALE] (bass) and Bill Vockeroth (drums).\n",
+      "The [BAND_NAME] are an [GENRE] band from the first wave of American punk, formed in [MONTH] [YEAR] in Los Angeles, California, by early [YEAR]s rock writer [SONG_NAME] Mike Saunders, his sibling lead guitarist Bonze Blayk and Gregg Turner (another rock writer, for Creem from the late [YEAR]s through the mid-[YEAR]s), along with original recruits [PERSON_NAME_FULL_0_MALE] (bass) and Bill Vockeroth (drums).\n",
       "In [YEAR] the Saunders brothers cut a [GENRE] a Roadrunner Motherfucka in their hometown of Little Rock, under a twice-used local band name, The Rockin' Blewz. The album went unissued until the late [YEAR]s.\n",
       "Mike Saunders briefly played in an embryonic backing lineup for [YEAR]s rockabilly cult artist Ray Campi during [YEAR], before moving back to Arkansas for two years (pursuant to a second college degree).\n"
    ]

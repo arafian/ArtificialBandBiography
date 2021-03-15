@@ -36,6 +36,12 @@
          "Joel Winter"
       ]
    },
+   "albums": [
+      "Ride Satan Ride",
+      "The Battle of Old Crow",
+      "White Summer•Black Winter",
+      "Brother Lucifer"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band from Philadelphia, Pennsylvania, United States, that formed in [YEAR]. The band has released four studio albums: Ride Satan Ride released in [YEAR] on the label Season of Mist, The Battle of Old Crow in [YEAR] on [PERSON_NAME_FULL_0_MALE], White Summer•Black Winter in [YEAR] on Translation Loss [PERSON_NAME_LAST_0], and Brother Lucifer in [YEAR] on Prophase Music.\n"
    ]

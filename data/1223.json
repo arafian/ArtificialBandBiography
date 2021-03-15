@@ -41,9 +41,10 @@
          "See Members"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band formed in Los Angeles in [YEAR]. To date, the band has charted on the Billboard 200 four times. [BAND_NAME] is eponymous of the band's lead vocalist.\n",
-      "The band was founded in [YEAR] by brothers [BAND_NAME] (born Gregory Charles Harges; [MONTH] 23, [YEAR]) and [PERSON_NAME_FULL_1_MALE]. The band got noticed after their song \"Rod of Iron\" featured on Metal Blade Records' Metal Massacre IV compilation LP. The band signed to Metal Blade in [YEAR] and released their debut EP Give 'Em the Axe in [MONTH] of the same year. The band is named after the notorious [PERSON_NAME_FULL_0_FEMALE], a [GENRE]",
+      "The band was founded in [YEAR] by brothers [BAND_NAME] (born Gregory Charles Harges; [MONTH] 23, [YEAR]) and [PERSON_NAME_FULL_0_MALE]. The band got noticed after their song [SONG_NAME] featured on Metal Blade Records' Metal Massacre IV compilation LP. The band signed to Metal Blade in [YEAR] and released their debut EP Give 'Em the Axe in [MONTH] of the same year. The band is named after the notorious [PERSON_NAME_FULL_1_FEMALE], a [GENRE]",
       "In [YEAR], late guitarist Alex Nelson replaced original guitarist [PERSON_NAME_FULL_0_MALE] and was first featured on the band's only live album to date, titled The Murderess Metal Road Show.\n"
    ]
 }

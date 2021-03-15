@@ -25,9 +25,37 @@
          "www.vanguardjazzorchestra.com"
       ]
    },
+   "albums": [
+      "All My Yesterdays",
+      "Presenting Thad Jones/Mel Lewis and the Jazz Orchestra",
+      "Presenting Joe Williams and Thad Jones/Mel Lewis and the Jazz Orchestra",
+      "Live at the Village Vanguard",
+      "The Big Band Sound of Thad Jones/Mel Lewis featuring Miss Ruth Brown",
+      "Monday Night",
+      "Jazz Casual – Thad Jones/Mel Lewis Orchestra...",
+      "Central Park North",
+      "Basle, 1969",
+      "Consummation",
+      "Live in Tokyo",
+      "Potpourri",
+      "Thad Jones/Mel Lewis and Manuel De Sica",
+      "Suite for Pops",
+      "New Life: Dedicated to Max Gordon",
+      "Thad Jones/Mel Lewis Orchestra With Rhoda Scott",
+      "Rhoda Scott in New York with the Thad Jones/Mel Lewis Orchestra",
+      "Live in Munich",
+      "It Only Happens Every Time",
+      "Body and Soul",
+      "Thad Jones/Mel Lewis Orchestra in Europe",
+      "A Touch of Class",
+      "The Blue Note Reissue Series: Thad Jones/Mel Lewis",
+      "The Complete Solid State Recordings of the Thad Jones/Mel Lewis Orchestra",
+      "In Europe",
+      "The Complete (Live in) Poland Concerts 1976 & 1978"
+   ],
    "prunedData": [
       "The [PERSON_NAME_FULL_0_MALE]/Mel Lewis Jazz Orchestra was a [GENRE] band formed by trumpeter [PERSON_NAME_FULL_0_MALE] and drummer Mel Lewis in New York in [YEAR]. The band performed for twelve years in its original incarnation, including a [YEAR] tour of the Soviet Union during the height of the Cold War. The band won a Grammy Award for the album Live in Munich and in [YEAR] for the album Monday Night Live at the Village Vanguard. The collaboration ended in [YEAR] with [PERSON_NAME_LAST_0] suddenly moving to Copenhagen, Denmark, after which the band became the Mel Lewis Jazz Orchestra. Since the death of Lewis in [YEAR] it has been known as the Vanguard Jazz Orchestra. They have maintained a Monday-night residency at the Village Vanguard jazz club in New York for five decades.\n",
-      "Thad [PERSON_NAME_LAST_1] played trumpet and cornet. His older brother was Hank [PERSON_NAME_LAST_1], a jazz pianist, and his younger brother was [PERSON_NAME_FULL_1_MALE], a jazz drummer. Thad [PERSON_NAME_LAST_1] had worked as a professional since he was 16, when he played with Hank. After leaving the military in [YEAR], he performed with territory bands and later with [PERSON_NAME_FULL_0_MALE]. From [YEAR]–[YEAR], he was a member of the Count Basie Orchestra, for whom he composed and arranged.\n",
-      "Mel Lewis, a [GENRE] bands since he was 15, first with [PERSON_NAME_FULL_1_MALE], then [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_4_MALE], Terry Gibbs, and [PERSON_NAME_FULL_3_MALE]. In [YEAR], he toured the Soviet Union with veteran big band leader Benny Goodman. After Lewis moved to New York City, he met [PERSON_NAME_FULL_2_MALE] and started the [PERSON_NAME_FULL_2_MALE]/Mel Lewis Orchestra at the end of [YEAR]. Beginning in [MONTH] [YEAR], the band played every Monday night at the Village Vanguard. \nSince Lewis's death in [YEAR], the band has been called the Vanguard Jazz Orchestra, continuing its tradition as the Village Vanguard's house band.\n"
+      "Thad [PERSON_NAME_LAST_0] played trumpet and cornet. His older brother was Hank [PERSON_NAME_LAST_0], a jazz pianist, and his younger brother was [PERSON_NAME_FULL_0_MALE], a jazz drummer. Thad [PERSON_NAME_LAST_0] had worked as a professional since he was 16, when he played with Hank. After leaving the military in [YEAR], he performed with territory bands and later with [PERSON_NAME_FULL_1_MALE]. From [YEAR]–[YEAR], he was a member of the Count Basie Orchestra, for whom he composed and arranged.\n",
+      "Mel Lewis, a [GENRE] bands since he was 15, first with [PERSON_NAME_FULL_3_MALE], then [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_1_MALE], Terry Gibbs, and [PERSON_NAME_FULL_2_MALE]. In [YEAR], he toured the Soviet Union with veteran big band leader Benny Goodman. After Lewis moved to New York City, he met [PERSON_NAME_FULL_4_MALE] and started the [PERSON_NAME_FULL_4_MALE]/Mel Lewis Orchestra at the end of [YEAR]. Beginning in [MONTH] [YEAR], the band played every Monday night at the Village Vanguard. \nSince Lewis's death in [YEAR], the band has been called the Vanguard Jazz Orchestra, continuing its tradition as the Village Vanguard's house band.\n"
    ]
 }

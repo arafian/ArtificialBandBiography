@@ -37,9 +37,19 @@
          "Leo Chelyapov"
       ]
    },
+   "albums": [
+      "Tracht Gut ",
+      "Brooklyn",
+      "Chasing Prophecy",
+      "All You Got",
+      "Hooleh!",
+      "Inner Flame",
+      "Slow Down",
+      "Stronger Closer"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in Los Alamitos, California. Formed in [YEAR] by brothers Shmuel and Bentzion [MONTH]cus, the group gained popularity in the Jewish music scene with their album Chasing Prophecy ([YEAR]) and its lead single, \"Ya'alili\", whose video became a minor viral hit on YouTube. As of [YEAR], the group has released seven studio albums and one live album. They have performed at venues throughout the country and abroad including Lincoln Center for the Performing Arts, American Airlines Arena, and Universal CityWalk.\n",
-      "The band chose its name with an eye to being \"abstract\" and \"cool\". The name evokes the holiday of Shemini Atzeret (the \"8th day of assembly\"), which is also Shmuel [MONTH]cus' birthday, and the idea of the number 8 evoking \"transcendence\".\n",
-      "Brothers Shmuel and Bentzion [MONTH]cus, both nephews of singer Avraham Fried and cousins of singers [PERSON_NAME_FULL_2_MALE] and Simche [PERSON_NAME_LAST_2], grew up in a musically-inclined family and began collaborating in [YEAR], with Bentzi, a professional bassist, putting music to lyrics Shmuel had written. That same year, the pair recorded a four-song demo with their brother Chaim [MONTH]cus producing. Their debut studio album, Tracht Gut (Yiddish for \"think positive\") was released on [MONTH] 1, [YEAR] and featured Zalman, Chaim, Yossi, and Eli [MONTH]cus on backing vocals. Their second album, Brooklyn, was mixed by [PERSON_NAME_FULL_0_MALE] and released in [YEAR], followed by a live album in [YEAR]. Eli [MONTH]cus later went on to become a solo artist with his debut studio album \"[PERSON_NAME_FULL_1_MALE]\" released in [YEAR].\n"
+      "[BAND_NAME] is an [GENRE] band based in Los Alamitos, California. Formed in [YEAR] by brothers Shmuel and Bentzion [MONTH]cus, the group gained popularity in the Jewish music scene with their album Chasing Prophecy ([YEAR]) and its lead single, [SONG_NAME], whose video became a minor viral hit on YouTube. As of [YEAR], the group has released seven studio albums and one live album. They have performed at venues throughout the country and abroad including Lincoln Center for the Performing Arts, American Airlines Arena, and Universal CityWalk.\n",
+      "The band chose its name with an eye to being [SONG_NAME].\n",
+      "Brothers Shmuel and Bentzion [MONTH]cus, both nephews of singer Avraham Fried and cousins of singers [PERSON_NAME_FULL_0_MALE] and Simche [PERSON_NAME_LAST_0], grew up in a musically-inclined family and began collaborating in [YEAR], with Bentzi, a professional bassist, putting music to lyrics Shmuel had written. That same year, the pair recorded a four-song demo with their brother Chaim [MONTH]cus producing. Their debut studio album, Tracht Gut (Yiddish for [SONG_NAME] released in [YEAR].\n"
    ]
 }

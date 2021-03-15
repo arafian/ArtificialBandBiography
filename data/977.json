@@ -41,8 +41,11 @@
          "Brantley Smith"
       ]
    },
+   "albums": [
+      "Kootchypop"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band that was formed in Columbia, South Carolina, in [YEAR]. The band's lineup for most of its existence has been the quartet of [PERSON_NAME_FULL_1_MALE], [MONTH]k Bryan, Dean Felber, and [PERSON_NAME_FULL_0_MALE]. The band went on hiatus in [YEAR] until they announced plans for a full reunion tour in [YEAR] and released their first new studio album in fourteen years, Imperfect Circle.\n",
+      "[BAND_NAME] is an [GENRE] band that was formed in Columbia, South Carolina, in [YEAR]. The band's lineup for most of its existence has been the quartet of [PERSON_NAME_FULL_0_MALE], [MONTH]k Bryan, Dean Felber, and [PERSON_NAME_FULL_1_MALE]. The band went on hiatus in [YEAR] until they announced plans for a full reunion tour in [YEAR] and released their first new studio album in fourteen years, Imperfect Circle.\n",
       "As of [YEAR], the band had charted sixteen singles on various Billboard singles charts and recorded six studio albums. Their debut album, Cracked Rear View ([YEAR]), is the 19th-best-selling album of all time in the United States, and was certified platinum 21 times. They have sold over 21 million copies of their albums in the United States. The group was also popular in Canada, having three number-one singles in the country.\n",
       "Darius Rucker and [MONTH]k Bryan met in Columbia, South Carolina, in the mid-[YEAR]s when they were both freshmen at the University of South Carolina. Bryan, a [GENRE]"
    ]

@@ -6,9 +6,12 @@
       "This article on a United Kingdom rock music band is a stub. You can help Wikipedia by expanding it."
    ],
    "infobox": {},
+   "albums": [
+      "Beckett"
+   ],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band formed in Newcastle upon Tyne in [YEAR]. The band released one self-titled album in [YEAR] and disbanded shortly thereafter. Original singer Rob Turner was killed in a car crash and replaced by [PERSON_NAME_FULL_0_MALE], who would later go on to perform with Back Street Crawler and then Geordie whose previous front man [PERSON_NAME_FULL_1_MALE] left to join AC/DC in [YEAR].\n",
-      "In [YEAR], [BAND_NAME] songwriter [PERSON_NAME_FULL_0_MALE] sued Iron Maiden for copyright infringement over two popular songs, \"Hallowed [PERSON_NAME_FULL_1_FEMALE]\" and \"The Nomad\", which lifted musical sections and lyrics from the song \"Life's Shadow\". Iron Maiden manager Rod Smallwood was the agent for [BAND_NAME] and a teenage [PERSON_NAME_FULL_3_MALE] saw the band play this song live. [PERSON_NAME_LAST_3] and Dave Murray settled with one of the credited songwriters, [PERSON_NAME_FULL_2_MALE]. [PERSON_NAME_LAST_0] was unaware of the matter until [YEAR] and [PERSON_NAME_LAST_2] claimed to be the sole songwriter during the original settlement. Iron Maiden stopped performing Hallowed [PERSON_NAME_FULL_1_FEMALE] on their [YEAR] tour as a result. The issue was settled out of court in [MONTH] [YEAR].\n",
+      "[BAND_NAME] was an [GENRE] band formed in Newcastle upon Tyne in [YEAR]. The band released one self-titled album in [YEAR] and disbanded shortly thereafter. Original singer Rob Turner was killed in a car crash and replaced by [PERSON_NAME_FULL_1_MALE], who would later go on to perform with Back Street Crawler and then Geordie whose previous front man [PERSON_NAME_FULL_0_MALE] left to join AC/DC in [YEAR].\n",
+      "In [YEAR], [BAND_NAME] songwriter [PERSON_NAME_FULL_0_MALE] sued Iron Maiden for copyright infringement over two popular songs, [SONG_NAME]. Iron Maiden manager Rod Smallwood was the agent for [BAND_NAME] and a teenage [PERSON_NAME_FULL_1_MALE] saw the band play this song live. [PERSON_NAME_LAST_1] and Dave Murray settled with one of the credited songwriters, [PERSON_NAME_FULL_2_MALE]. [PERSON_NAME_LAST_0] was unaware of the matter until [YEAR] and [PERSON_NAME_LAST_2] claimed to be the sole songwriter during the original settlement. Iron Maiden stopped performing Hallowed [PERSON_NAME_FULL_3_FEMALE] on their [YEAR] tour as a result. The issue was settled out of court in [MONTH] [YEAR].\n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

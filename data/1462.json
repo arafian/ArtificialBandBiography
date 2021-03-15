@@ -25,6 +25,9 @@
          "John Fisher, David Watling, Colin Magee"
       ]
    },
+   "albums": [
+      "Play the Sweet Music"
+   ],
    "prunedData": [
       "The [BAND_NAME] was a [GENRE] band based in Victoria, British Columbia.\n",
       "James Troy was pipe major of a [GENRE] band under Ian Duncan of Victoria, until he turned sixteen and aged out. In [YEAR], he joined the Royal Canadian Air Force pipe band, and in [YEAR] founded the [BAND_NAME] with [PERSON_NAME_FULL_0_MALE] as pipe sergeant. The band was based on the model of Muirhead & Sons and Shotts and Dykehead Caledonia.\n",

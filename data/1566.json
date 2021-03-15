@@ -32,9 +32,26 @@
          "J.C. \"Grass\" Zapata"
       ]
    },
+   "albums": [
+      "Los Ojos de la Calle",
+      "Con Perdón de los Payasos",
+      "Cría Cuervos",
+      "Tu Condena",
+      "Ruta del Che - No Mirar",
+      "Ruta del Che - No Escuchar",
+      "Ruta del Che - No Callar",
+      "Historias Directas de Boikot",
+      "De Espaldas al Mundo",
+      "Tus Problemas Crecen",
+      "Amaneció",
+      "Ni un paso atrás (en directo)",
+      "Lágrimas de rabia",
+      "Boikotea (live)",
+      "El Llamado a la Rebelión"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band.\n",
-      "The band started in [YEAR] playing at bars, parties and every type of dive.  After a [GENRE] band's lineup they recorded two albums with the label Barrabás. They made themselves known by playing in venues across Madrid until [YEAR] when they split with Barrabás and decided to start their own production business aptly named BKT. They launched two albums, Cría Cuervos and [PERSON_NAME_FULL_0_FEMALE], and played in rock festivals as diverse as Festimad and Metaliko Rock among others. Following this, the group decided to create a trilogy which would be named La Ruta del Ché, the three albums of which would include different versions of popular songs such as \"Hasta Siempre\" by Carlos Puebla and engravings made while they were on tour in countries such as Cuba, Mexico, and Argentina.  At this stage of La Ruta del Ché the group took inspiration from the South American countries they visited and included a greater number of instruments and rhythms from Latin America.\n",
-      "After concluding Ruta del Ché, they released a new album entitled Historias Directas de [BAND_NAME], where they included a booklet and a video of the tour. This was in turn followed by the release of two new albums: De Espaldas al Mundo and Tus Problemas Crecen in [YEAR] and [YEAR] respectively. During [YEAR], much as in previous years, the band performed at numerous festivals in Colombia, Germany, Italy and Turkey.  In Turkey the group featured in Barışarock, a festival organized under the motto \"for peace, rock and the convergence of cultures\" celebrated during [MONTH] in Istanbul, Turkey.  In addition, in [YEAR] the band also participated in the extensive tour \"Not One Step Back\" along with Reincidentes, Porretas and Sonora.  Near the end of [YEAR] the members of [BAND_NAME] traveled to Mostar, Bosnia to record their eleventh album in the Pavarotti Music Centre.  Their eleventh disc was entitled Amaneció and was released on [MONTH] 2, [YEAR] under Realidad Musical.\n"
+      "The band started in [YEAR] playing at bars, parties and every type of dive.  After a [GENRE] band's lineup they recorded two albums with the label Barrabás. They made themselves known by playing in venues across Madrid until [YEAR] when they split with Barrabás and decided to start their own production business aptly named BKT. They launched two albums, Cría Cuervos and [PERSON_NAME_FULL_0_FEMALE], and played in rock festivals as diverse as Festimad and Metaliko Rock among others. Following this, the group decided to create a trilogy which would be named La Ruta del Ché, the three albums of which would include different versions of popular songs such as [SONG_NAME] by Carlos Puebla and engravings made while they were on tour in countries such as Cuba, Mexico, and Argentina.  At this stage of La Ruta del Ché the group took inspiration from the South American countries they visited and included a greater number of instruments and rhythms from Latin America.\n",
+      "After concluding Ruta del Ché, they released a new album entitled Historias Directas de [BAND_NAME], where they included a booklet and a video of the tour. This was in turn followed by the release of two new albums: De Espaldas al Mundo and Tus Problemas Crecen in [YEAR] and [YEAR] respectively. During [YEAR], much as in previous years, the band performed at numerous festivals in Colombia, Germany, Italy and Turkey.  In Turkey the group featured in Barışarock, a festival organized under the motto [SONG_NAME] along with Reincidentes, Porretas and Sonora.  Near the end of [YEAR] the members of [BAND_NAME] traveled to Mostar, Bosnia to record their eleventh album in the Pavarotti Music Centre.  Their eleventh disc was entitled Amaneció and was released on [MONTH] 2, [YEAR] under Realidad Musical.\n"
    ]
 }

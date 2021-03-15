@@ -42,6 +42,18 @@
          "Don Giese"
       ]
    },
+   "albums": [
+      "Who Is, This Is?",
+      "Firme",
+      "Firme (en Español)",
+      "Baile de Los Locos",
+      "The Band Geek Mafia",
+      "Symbolic",
+      "Steady as She Goes",
+      "Adicción, Tradición, Revolución",
+      "Southern California Street Music",
+      "Break the Spell"
+   ],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band formed in [YEAR] in Riverside, California, United States, by brothers Frank, Eddie, and [PERSON_NAME_FULL_0_MALE] and their longtime friend Jerry O'Neill. [BAND_NAME] first played at backyard parties and later at Spanky's Café in their hometown of Riverside, where they played shows with the Angry Samoans, The Mighty Mighty Bosstones, Firehose, Murphy's Law, and The Dickies.\n",
       "Their first recording was in [YEAR] –  a [GENRE] a four-track machine which they duplicated onto about sixty cassettes on a home stereo then sold at shows.\n",

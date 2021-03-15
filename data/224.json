@@ -36,9 +36,10 @@
          "list of all past members"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band that originated during the [YEAR]s in the area of Washington, D.C., United States, and recorded and toured with various members until the death in [YEAR] of Charlie Waller, one of the group's founders who in its later years served as the group's leader.\n",
       "The classic line-up from [YEAR]–64 consisted of co-founders Charlie Waller on guitar and [PERSON_NAME_FULL_1_MALE] on mandolin, with [PERSON_NAME_FULL_0_MALE] on banjo and Tom Gray on bass. They were inducted into the International Bluegrass Music Hall of Honor in [YEAR].\n",
-      "The band started on [MONTH] 4, [YEAR] as a [GENRE] band were injured in a car accident. The band’s original members were\n[PERSON_NAME_FULL_1_MALE] on guitar and lead vocals, John Duffey on mandolin and tenor vocals, [PERSON_NAME_FULL_3_MALE] on banjo and baritone vocals, and [PERSON_NAME_FULL_2_MALE] on bass. After a few early changes, the band settled into a somewhat permanent lineup consisting of [PERSON_NAME_LAST_1], Duffey, [PERSON_NAME_FULL_0_MALE] on banjo, and Tom Gray on bass.\n"
+      "The band started on [MONTH] 4, [YEAR] as a [GENRE] band were injured in a car accident. The band’s original members were\n[PERSON_NAME_FULL_0_MALE] on guitar and lead vocals, John Duffey on mandolin and tenor vocals, [PERSON_NAME_FULL_3_MALE] on banjo and baritone vocals, and [PERSON_NAME_FULL_2_MALE] on bass. After a few early changes, the band settled into a somewhat permanent lineup consisting of [PERSON_NAME_LAST_0], Duffey, [PERSON_NAME_FULL_1_MALE] on banjo, and Tom Gray on bass.\n"
    ]
 }

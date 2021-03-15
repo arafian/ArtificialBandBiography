@@ -27,9 +27,15 @@
          "Edu Fernandez"
       ]
    },
+   "albums": [
+      "Skizoo",
+      "2007: \"Incerteza",
+      "3",
+      "La Cara Oculta"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band from Madrid formed in [YEAR].\n",
-      "Sôber split in [YEAR], and Carlos [PERSON_NAME_LAST_1] and [PERSON_NAME_FULL_2_MALE] formed Savia and [PERSON_NAME_FULL_3_MALE] and [PERSON_NAME_FULL_1_MALE] formed [BAND_NAME]. Drummer [PERSON_NAME_FIRST_0] Perez, bassist [PERSON_NAME_FULL_0_MALE] and singer Morti recorded their debut eponymous album, released in [MONTH] [YEAR]. [PERSON_NAME_FULL_0_MALE] left the group and joined Edu Fernandez, who is also responsible for the choirs on live performances. They recorded a second album, Incerteza, launched on [MONTH] 19, [YEAR].\n",
+      "Sôber split in [YEAR], and Carlos [PERSON_NAME_LAST_3] and [PERSON_NAME_FULL_1_MALE] formed Savia and [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_3_MALE] formed [BAND_NAME]. Drummer [PERSON_NAME_FIRST_0] Perez, bassist [PERSON_NAME_FULL_0_MALE] and singer Morti recorded their debut eponymous album, released in [MONTH] [YEAR]. [PERSON_NAME_FULL_0_MALE] left the group and joined Edu Fernandez, who is also responsible for the choirs on live performances. They recorded a second album, Incerteza, launched on [MONTH] 19, [YEAR].\n",
       "Final lineup\n"
    ]
 }

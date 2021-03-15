@@ -25,6 +25,11 @@
          "Brian Bolen"
       ]
    },
+   "albums": [
+      "A Cursive Memory",
+      "Light Camera Action",
+      "Respeck! EP"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band, from Southern California who released an EP and two albums in the period [YEAR] to [YEAR].\n",
       "The band originally formed under the name 'Sincerely Me' in [YEAR] after band members met at a [GENRE] bands, such as blink-182 and Jimmy Eat World, but eventually grew to write their own original songs and adopted the name [BAND_NAME].\n",

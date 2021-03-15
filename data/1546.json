@@ -29,9 +29,10 @@
          "Ringo Sheena"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "\"[BAND_NAME]\" (遭難, \"A Distress\"), is the second single by Japanese rock band Tokyo Jihen, led by musician Ringo Sheena. It was released on [MONTH] 20, [YEAR], a [GENRE] a month before their debut album Kyōiku.\n",
-      "Tokyo Jihen was first formed in [YEAR], after [PERSON_NAME_FULL_0_MALE] decided on members for her backing band for her Sugoroku Ecstasy tour. The band was officially announced as [PERSON_NAME_LAST_0]'s main musical unit on [MONTH] 31, [YEAR], and first performed at a series of summer music festivals: Meet the World Beat [YEAR] on [MONTH] 25, [YEAR] at the Expo Commemoration Park in Osaka, [MONTH] 30, [YEAR] at the Fuji Rock Festival in Niigata, and [MONTH] 3, [YEAR] at the Fukuoka Sunset Live festival. The group released their debut single \"Gunjō Biyori\" in [MONTH] [YEAR], to commercial success: it reached number two on Oricon's single chart, and was certified gold by the RIAJ.\n",
-      "All 17 of the songs for the Kyōiku era were recorded over a period of four days. \"[BAND_NAME]\" was written entirely by Sheena. The song \"Dynamite\" was originally performed by American singer Brenda Lee in [YEAR]. Much like the songs on Sheena's cover album Utaite Myōri: Sono Ichi, it was a song that Sheena's parents owned at their home. Her father had wondered why she had not recorded it for Utaite Myōri: Sono Ichi. The liner notes for \"Kokoro\" list a date, [MONTH] 25, [YEAR]. This is the date of Sheena's 25th birthday, and was the release date for her solo single \"Ringo no Uta\". The song's concept was record a song in a single day as a present for others on her birthday. The song was given the figurative translation \"Spiritual\" in English.\n"
+      "[SONG_NAME], and a [GENRE]",
+      "Tokyo Jihen was first formed in [YEAR], after [PERSON_NAME_FULL_0_MALE] decided on members for her backing band for her Sugoroku Ecstasy tour. The band was officially announced as [PERSON_NAME_LAST_0]'s main musical unit on [MONTH] 31, [YEAR], and first performed at a series of summer music festivals: Meet the World Beat [YEAR] on [MONTH] 25, [YEAR] at the Expo Commemoration Park in Osaka, [MONTH] 30, [YEAR] at the Fuji Rock Festival in Niigata, and [MONTH] 3, [YEAR] at the Fukuoka Sunset Live festival. The group released their debut single [SONG_NAME] in [MONTH] [YEAR], to commercial success: it reached number two on Oricon's single chart, and was certified gold by the RIAJ.\n",
+      "All 17 of the songs for the Kyōiku era were recorded over a period of four days. [SONG_NAME] in English.\n"
    ]
 }

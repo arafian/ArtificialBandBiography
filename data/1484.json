@@ -37,9 +37,14 @@
          "Cindy Rickmond"
       ]
    },
+   "albums": [
+      "Beauty Lies",
+      "Very Very Happy",
+      "Happy"
+   ],
    "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from New York City, formed in [YEAR]. They are best known for the [YEAR] song \"Too Many Creeps\", which exemplified the band's sound of \"jagged rhythms, slicing guitars, and sniping vocals\". Although they did not achieve mainstream success, the [BAND_NAME] were influential and popular in the Manhattan club scene and college radio in the early [YEAR]s. New York's post-punk revival of the [YEAR]s was accompanied by a resurgence of interest in the genre, with the Tetras' influence heard in many of that scene's bands.\n",
-      "The [BAND_NAME] formed in [YEAR], and soon solidified with a lineup of Cynthia Sley (vocals), [PERSON_NAME_FULL_0_MALE] (guitar), Laura Kennedy (bass) and [PERSON_NAME_FULL_2_FEMALE] (drums); vocalist [PERSON_NAME_FULL_1_FEMALE] and guitarist Jimmy Joe Uliana were brief early members. [PERSON_NAME_LAST_0] had previously been the original guitarist and a founding member of the no wave band the Contortions, though the Tetras sound was less frantic and disjointed, and she had also appeared in some of Vivienne Dick's movies.\n",
-      "The band's debut 7\" EP, \"Too Many Creeps\", was released in [YEAR] on 99 Records. It reached No. 57 on the Billboard club play chart. The follow-up, \"Things That Go Boom in the Night\", was issued in [YEAR] by Fetish Records, hitting No. 43 on the UK Indie Chart. The Rituals 12\" EP, produced by Topper Headon of the Clash and including the popular \"Can't Be Funky\", was released in [YEAR] by Fetish in the UK and by Stiff Records in the U.S. It reached No. 32 on the Billboard club chart.\n"
+      "[BAND_NAME] are an [GENRE] band from New York City, formed in [YEAR]. They are best known for the [YEAR] song [SONG_NAME]. Although they did not achieve mainstream success, the [BAND_NAME] were influential and popular in the Manhattan club scene and college radio in the early [YEAR]s. New York's post-punk revival of the [YEAR]s was accompanied by a resurgence of interest in the genre, with the Tetras' influence heard in many of that scene's bands.\n",
+      "The [BAND_NAME] formed in [YEAR], and soon solidified with a lineup of Cynthia Sley (vocals), [PERSON_NAME_FULL_2_MALE] (guitar), Laura Kennedy (bass) and [PERSON_NAME_FULL_1_FEMALE] (drums); vocalist [PERSON_NAME_FULL_0_FEMALE] and guitarist Jimmy Joe Uliana were brief early members. [PERSON_NAME_LAST_2] had previously been the original guitarist and a founding member of the no wave band the Contortions, though the Tetras sound was less frantic and disjointed, and she had also appeared in some of Vivienne Dick's movies.\n",
+      "The band's debut 7[SONG_NAME], was released in [YEAR] by Fetish in the UK and by Stiff Records in the U.S. It reached No. 32 on the Billboard club chart.\n"
    ]
 }

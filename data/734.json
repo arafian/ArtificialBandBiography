@@ -26,6 +26,10 @@
          "Amelia Cutler"
       ]
    },
+   "albums": [
+      "Heavy Flow",
+      "Ideal Woman"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band, often described as riot grrrl, formed in London, England. The group consists of singer, songwriter and guitarist Delilah Holliday and drummer Ursula Holliday.\n",
       "Sisters Delilah and Ursula Holliday had played together in a two piece called Typical Girls, before forming [BAND_NAME] with their cousin Amelia Cutler around [YEAR] whilst all were in their early teens. The name is a reference to feminist critique of the dieting industry. Amelia left the band in [YEAR]; the Holliday sisters continue as a two piece.\n",

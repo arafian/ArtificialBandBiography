@@ -45,9 +45,24 @@
          "Brad Lang"
       ]
    },
+   "albums": [
+      "Yesterday and Today",
+      "Struck Down",
+      "Earthshaker",
+      "Black Tiger",
+      "Mean Streak",
+      "In Rock We Trust",
+      "Down for the Count",
+      "Contagious",
+      "Ten",
+      "Musically Incorrect",
+      "Endangered Species",
+      "Facemelter",
+      "Acoustic Classix Vol.1"
+   ],
    "prunedData": [
-      "[BAND_NAME] (originally known as Yesterday & Today) is an [GENRE] band formed in [YEAR] in Oakland, California. The band released two studio albums on London Records as Yesterday & Today in the [YEAR]s, before shortening their name to [BAND_NAME] and releasing several albums on A&M Records beginning in [YEAR], plus albums on Geffen Records, Avex Records, and others. The band was originally co-managed by Herbie Herbert (who also managed Journey) and Louis \"Lou\" Bramy. The band has sold over 4 million albums worldwide to date.\n",
-      "Leonard Haze, Bob Gardner, and [PERSON_NAME_FULL_2_MALE] had an [GENRE] band in Oakland, California that jammed only cover tunes. [PERSON_NAME_FULL_0_MALE] joined as guitar player in [YEAR]. Soon after, the band received a call for their first gig, but they needed a name. According to [PERSON_NAME_LAST_0] and Haze, Haze chose the name of the album that was playing on his turntable at that moment – Yesterday and Today – a studio album by the Beatles. The first lineup – which only played covers of songs by other artists – consisted of Haze on drums, [PERSON_NAME_LAST_2] on piano, Gardner on bass, and [PERSON_NAME_LAST_0] on lead vocals and lead guitar. After [PERSON_NAME_LAST_2] quit the group, Gardner switched from bass to rhythm guitar and piano, and [PERSON_NAME_FULL_1_MALE] was brought in to play bass. In [YEAR], Gardner left the group and was replaced by [PERSON_NAME_FULL_3_MALE] in [MONTH] [YEAR]. It was this [YEAR] lineup change when the band began writing original material.\n",
-      "The band released their first two studio albums, their self-titled debut and Struck Down, through [PERSON_NAME_FULL_0_FEMALE] in [YEAR] and [YEAR] respectively. They toured extensively, building up to headliners while they opened for bands such as Wild Cherry, AC/DC, and Kiss. As Meniketti has said in numerous radio, television, and magazine interviews over the past four decades, a new record deal in [YEAR] with A&M [PERSON_NAME_LAST_0] prompted the band to shorten their moniker to simply [BAND_NAME], as influenced by their encores where fans would chant \"[BAND_NAME], [BAND_NAME], [BAND_NAME].\"\n"
+      "[BAND_NAME] (originally known as Yesterday & Today) is an [GENRE] band formed in [YEAR] in Oakland, California. The band released two studio albums on London Records as Yesterday & Today in the [YEAR]s, before shortening their name to [BAND_NAME] and releasing several albums on A&M Records beginning in [YEAR], plus albums on Geffen Records, Avex Records, and others. The band was originally co-managed by Herbie Herbert (who also managed Journey) and Louis [SONG_NAME] Bramy. The band has sold over 4 million albums worldwide to date.\n",
+      "Leonard Haze, Bob Gardner, and [PERSON_NAME_FULL_3_MALE] had an [GENRE] band in Oakland, California that jammed only cover tunes. [PERSON_NAME_FULL_1_MALE] joined as guitar player in [YEAR]. Soon after, the band received a call for their first gig, but they needed a name. According to [PERSON_NAME_LAST_1] and Haze, Haze chose the name of the album that was playing on his turntable at that moment – Yesterday and Today – a studio album by the Beatles. The first lineup – which only played covers of songs by other artists – consisted of Haze on drums, [PERSON_NAME_LAST_3] on piano, Gardner on bass, and [PERSON_NAME_LAST_1] on lead vocals and lead guitar. After [PERSON_NAME_LAST_3] quit the group, Gardner switched from bass to rhythm guitar and piano, and [PERSON_NAME_FULL_2_MALE] was brought in to play bass. In [YEAR], Gardner left the group and was replaced by [PERSON_NAME_FULL_0_MALE] in [MONTH] [YEAR]. It was this [YEAR] lineup change when the band began writing original material.\n",
+      "The band released their first two studio albums, their self-titled debut and Struck Down, through [PERSON_NAME_FULL_0_MALE] in [YEAR] and [YEAR] respectively. They toured extensively, building up to headliners while they opened for bands such as Wild Cherry, AC/DC, and Kiss. As Meniketti has said in numerous radio, television, and magazine interviews over the past four decades, a new record deal in [YEAR] with A&M [PERSON_NAME_LAST_0] prompted the band to shorten their moniker to simply [BAND_NAME], as influenced by their encores where fans would chant [SONG_NAME]\n"
    ]
 }

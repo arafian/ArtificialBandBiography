@@ -36,9 +36,19 @@
          "Judd Counsell"
       ]
    },
+   "albums": [
+      "Almost Killed Me",
+      "Separation Sunday",
+      "Boys and Girls in America",
+      "Stay Positive",
+      "Heaven Is Whenever",
+      "Teeth Dreams",
+      "Thrashing Thru the Passion",
+      "Open Door Policy"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Brooklyn, New York, formed in [YEAR]. The band consists of Craig Finn (vocals, guitar), [PERSON_NAME_FULL_1_MALE] (guitar), Galen Polivka (bass), [PERSON_NAME_FULL_3_MALE] (drums), [PERSON_NAME_FULL_2_MALE] (keyboards) and [PERSON_NAME_FULL_0_MALE] (guitar). Noted for their \"lyrically dense storytelling,\" and classic rock influences, the band's narrative-based songs frequently address themes such as drug addiction, religion and redemption, and often feature recurring characters based within the city of Minneapolis.\n",
-      "Formed four years following the break-up of Finn and Kubler's former band, Lifter Puller, [BAND_NAME] released the debut album Almost Killed Me in [YEAR]. They came to prominence with the release of their third studio album, Boys and Girls in America, in [YEAR]. In [YEAR], keyboardist and multi-instrumentalist [PERSON_NAME_FULL_1_MALE] left the band prior to the recording of their fifth studio album, Heaven Is Whenever ([YEAR]). During the band's subsequent tour, the band became a five piece, once more, with the addition of guitarist [PERSON_NAME_FULL_0_MALE]. The band released their sixth LP, Teeth Dreams, on [MONTH] 25, [YEAR]. \n",
+      "[BAND_NAME] is an [GENRE] band from Brooklyn, New York, formed in [YEAR]. The band consists of Craig Finn (vocals, guitar), [PERSON_NAME_FULL_0_MALE] (guitar), Galen Polivka (bass), [PERSON_NAME_FULL_2_MALE] (drums), [PERSON_NAME_FULL_1_MALE] (keyboards) and [PERSON_NAME_FULL_3_MALE] (guitar). Noted for their [SONG_NAME] and classic rock influences, the band's narrative-based songs frequently address themes such as drug addiction, religion and redemption, and often feature recurring characters based within the city of Minneapolis.\n",
+      "Formed four years following the break-up of Finn and Kubler's former band, Lifter Puller, [BAND_NAME] released the debut album Almost Killed Me in [YEAR]. They came to prominence with the release of their third studio album, Boys and Girls in America, in [YEAR]. In [YEAR], keyboardist and multi-instrumentalist [PERSON_NAME_FULL_0_MALE] left the band prior to the recording of their fifth studio album, Heaven Is Whenever ([YEAR]). During the band's subsequent tour, the band became a five piece, once more, with the addition of guitarist [PERSON_NAME_FULL_1_MALE]. The band released their sixth LP, Teeth Dreams, on [MONTH] 25, [YEAR]. \n",
       "Nicolay re-joined the band on [MONTH] 4, [YEAR], and the band has since embarked on several concert residencies in the US and the UK. To coincide with each new event, [BAND_NAME] releases stand-alone singles, marking the first recorded material of the six-piece line-up. The band's seventh LP, Thrashing Thru the Passion, was released in [MONTH] [YEAR].\n"
    ]
 }

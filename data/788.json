@@ -32,6 +32,7 @@
          "Mikael Sehlin"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Gothenburg, Sweden. They are currently signed to Gain Records/Sony.\n",
       "[BAND_NAME] released their debut album Absolute Design through SPV GmbH/Steamhammer on [MONTH] 31, [YEAR]. The album was released in North America on [MONTH] 20, [YEAR].\n",

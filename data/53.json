@@ -56,6 +56,9 @@
          "Anne Dromeda"
       ]
    },
+   "albums": [
+      "The Visitation"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band founded in San Francisco in [YEAR] by musician Damon Edge and associated with the [YEAR]s post-punk movement. The group's raw sound blended elements of punk, psychedelia, and early industrial music, incorporating science-fiction themes, tape experimentation, distorted acid rock guitar, and  electronic noise. They have been cited as forerunners of the [YEAR]s industrial music boom.\n",
       "They found little commercial success as part of San Francisco's [YEAR]s music scene, but developed a cult following in the United Kingdom and Germany following the release of the LPs Alien Soundtracks ([YEAR]) and Half Machine Lip Moves ([YEAR]). Edge died in [YEAR]; subsequently, guitarist Helios Creed has revived the [BAND_NAME] name for recordings and performances.\n",

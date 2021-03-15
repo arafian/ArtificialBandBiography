@@ -56,9 +56,39 @@
          "Donny Baldwin"
       ]
    },
+   "albums": [
+      "Cats Under the Stars",
+      "Jerry Garcia Band",
+      "How Sweet It Is",
+      "Don't Let Go",
+      "Shining Star",
+      "Pure Jerry: Theatre 1839, San Francisco, July 29 & 30, 1977",
+      "After Midnight: Kean College, 2/28/80",
+      "Pure Jerry: Lunt-Fontanne, New York City, October 31, 1987",
+      "Pure Jerry: Lunt-Fontanne, New York City, The Best of the Rest, October 15–30, 1987",
+      "Pure Jerry: Merriweather Post Pavilion, September 1 & 2, 1989",
+      "Pure Jerry: Warner Theatre, March 18, 1978",
+      "Garcia Plays Dylan",
+      "Pure Jerry: Coliseum, Hampton, VA, November 9, 1991",
+      "Pure Jerry: Bay Area 1978",
+      "Let It Rock: The Jerry Garcia Collection, Vol. 2",
+      "Garcia Live Volume One",
+      "June 26, 1981, Warfield Theatre, San Francisco, CA",
+      "Garcia Live Volume Two",
+      "Fall 1989: The Long Island Sound",
+      "Garcia Live Volume Four",
+      "Garcia Live Volume Five",
+      "On Broadway: Act One – October 28th, 1987",
+      "Garcia Live Volume Seven",
+      "Garcia Live Volume Eight",
+      "Garcia Live Volume 10",
+      "Electric on the Eel",
+      "Garcia Live Volume 11",
+      "Garcia Live Volume 13"
+   ],
    "prunedData": [
       "The [BAND_NAME] was a [GENRE] band led by Jerry Garcia of the Grateful Dead. Garcia founded the band in [YEAR]; it remained the most important of his various side projects until his death in [YEAR].  The band regularly toured and recorded sporadically throughout its twenty-year existence, generally, but not always, during breaks in the Grateful Dead's schedule.\n",
       "Over the years, the lineup of the [BAND_NAME] changed many times. The one constant member besides Garcia himself was bassist John Kahn, who served as Garcia's principal musical collaborator outside of the Grateful Dead after [YEAR]. [PERSON_NAME_FULL_0_MALE] had the next longest tenure, serving as keyboardist from [YEAR] onward.\n",
-      "Jerry Garcia's musical interests were famously varied, and this was reflected in the diverse music played by his band. Like the Grateful Dead, the [BAND_NAME] played rock music that was influenced by blues, folk, country, and jazz in an [GENRE] a framework for Garcia's solos. However, the group eschewed the former band's avant-garde and world music influences in favor of a slower, groove-based \"bar band\" approach strongly oriented toward rhythm and blues (the band often featured female backing vocalists characteristic of the genre), gospel music and reggae. Rock versions of contemporary Americana were also prominent. The relatively languorous tempos were dictated by Garcia and Kahn, much to the chagrin of longtime drummer David Kemper: \"t bothered me from the very beginning. I’d say, ‘You know we need some uptempo material, it’s just putting me to sleep; the band is putting me to sleep.’ At first I’d say these things, and then I just decided to go with it. It is what it is, and who was I to say anything? This band preceded me; the whole concept of the band preceded me.\"\n"
+      "Jerry Garcia's musical interests were famously varied, and this was reflected in the diverse music played by his band. Like the Grateful Dead, the [BAND_NAME] played rock music that was influenced by blues, folk, country, and jazz in an [GENRE] a framework for Garcia's solos. However, the group eschewed the former band's avant-garde and world music influences in favor of a slower, groove-based [SONG_NAME]\n"
    ]
 }

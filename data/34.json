@@ -45,9 +45,17 @@
          "John Polle"
       ]
    },
+   "albums": [
+      "No Mouth Pipetting",
+      "Time Whore",
+      "Guilt Regret Embarrassment",
+      "Something Vicious for Tomorrow",
+      "Just Kidding",
+      "Actual Re-Enactment"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Boise, Idaho, although its members were officially based in Seattle, Washington. The band was originally composed of bassist Pat Brown (née Schmaljohn, Scott's older brother), drummer [PERSON_NAME_FULL_0_MALE], guitarist Doug [MONTH]tsch, and frontman Scott Schmaljohn. After six albums and various lineup changes, the band disbanded in [YEAR]. The band's original lineup would reform in [YEAR], sans Brown due to his death in [YEAR].\n",
       "Brown, Flower, and Schmaljohn were ex-members of the Boise punk band State of Confusion. The three would link up with [MONTH]tsch and form [BAND_NAME] in [YEAR]. The band gained local notoriety and success in the late [YEAR]s and early [YEAR]s in regional scenes. This lineup recorded the No Mouth Pipetting self-released album in [YEAR], and then shortly released the Time Whore EP the following year. The band's next album would be Guilt Regret Embarrassment in [YEAR], released through two small labels, Toxic Shock Records and K Records. Afterwards in [YEAR], Flower had left the band, and Tony Reed was recruited as the new drummer. This lineup would record the Something Vicious for Tomorrow EP; however, the band had more label backing on this release, as they had signed with the label C/Z Records, and would stay with them for the remainder of their career. The label wanted to make the release a [GENRE] an add-on. \n",
-      "Shortly before the recording of the next album, Brown had left the band. He was replaced by drummer-turned-bassist Reed, and [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_1] was added on for drums. This lineup would release its next album Just Kidding in [YEAR]. The following year in [YEAR], Schmaljohn would change the lineup yet again, with John Polle replacing [MONTH]tsch on guitars and [PERSON_NAME_FULL_0_MALE] replacing Reed on bass; however, drummer [PERSON_NAME_LAST_1] stayed on board. [MONTH]tsch would move on with the band Built to Spill. The band's final album would be Actual Re-Enactment. After losing members to family complications and other projects, the group disbanded later that year in [YEAR].\n"
+      "Shortly before the recording of the next album, Brown had left the band. He was replaced by drummer-turned-bassist Reed, and [PERSON_NAME_FULL_0_MALE] was added on for drums. This lineup would release its next album Just Kidding in [YEAR]. The following year in [YEAR], Schmaljohn would change the lineup yet again, with John Polle replacing [MONTH]tsch on guitars and [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_1] replacing Reed on bass; however, drummer [PERSON_NAME_LAST_0] stayed on board. [MONTH]tsch would move on with the band Built to Spill. The band's final album would be Actual Re-Enactment. After losing members to family complications and other projects, the group disbanded later that year in [YEAR].\n"
    ]
 }

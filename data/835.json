@@ -41,8 +41,9 @@
          "Tony Wright[1]"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Belfast, composed of guitarists Rory Friers and [PERSON_NAME_FULL_1_MALE], bassist Johnny Adger and drummer [PERSON_NAME_FULL_0_MALE].\n",
+      "[BAND_NAME] is a [GENRE] band from Belfast, composed of guitarists Rory Friers and [PERSON_NAME_FULL_0_MALE], bassist Johnny Adger and drummer [PERSON_NAME_FULL_1_MALE].\n",
       "The band released three albums and three EPs with former member Tony Wright, who was replaced by [PERSON_NAME_FULL_0_MALE] in [YEAR]. The band signed with Richter Collective, and in [MONTH] [YEAR] announced a [GENRE]",
       "They released their self-titled debut studio album on [MONTH] 13, [YEAR]. Their second studio album, Gangs ([YEAR]), was met with favorable reviews. The band released their third studio album, All Hail Bright Futures, on [MONTH] 15, [YEAR] on Sargent House. Their fourth studio album, Heirs ([YEAR]). Their fifth studio album, The Endless Shimmering, was released on [MONTH] 20, [YEAR].\n"
    ]

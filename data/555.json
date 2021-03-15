@@ -38,9 +38,13 @@
          "Graven X"
       ]
    },
+   "albums": [
+      "Fatidical Date",
+      "Black Wedding"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band formed in [YEAR] in Sion, Valais.\n",
       "The band formed in [YEAR] with the name Fourth Reich, playing death metal. The initial line-up was War D. on guitar, Zumof on vocals, Acronoise on drums, and Masmiseim (b. Christophe Mermod, Acronoise's brother) on bass. In [YEAR] Fourth Reich changed name to [BAND_NAME], a [GENRE] band issued their debut album, The Just Law, on Head Not Found. After several more line-up changes, they signed to Adipocere Records, who issued their second album, ...And Death Smiled, in [YEAR]. The same year, [BAND_NAME] toured with bands Anathema and Theatre of Tragedy in support of the album.\n",
-      "Much like their fellow countrymen Samael, gothic and industrial musical elements played an [GENRE] a raw black metal before signing to Century Media Records in [YEAR], who began distributing the group's output in the United States. The Other Side was released in [YEAR] and promoted with a gig at the Wacken Open Air heavy metal festival in Germany. The band released their fourth album, Revenge, in [YEAR]. The musician line-up at this stage was War D. on guitar/synthesizer/vocals, Acronoise on drums, [PERSON_NAME_FULL_0_MALE] on second guitar, and Raff on bass.\n"
+      "Much like their fellow countrymen Samael, gothic and industrial musical elements played an [GENRE] a raw black metal before signing to Century Media Records in [YEAR], who began distributing the group's output in the United States. The Other Side was released in [YEAR] and promoted with a gig at the Wacken Open Air heavy metal festival in Germany. The band released their fourth album, Revenge, in [YEAR]. The musician line-up at this stage was War D. on guitar/synthesizer/vocals, Acronoise on drums, [PERSON_NAME_FULL_1_MALE] on second guitar, and Raff on bass.\n"
    ]
 }

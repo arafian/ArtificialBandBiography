@@ -28,6 +28,11 @@
          "Charles Rumahlewang"
       ]
    },
+   "albums": [
+      "All Together Separate",
+      "Ardent Worship Live",
+      "Unusual"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band from Riverside, California, USA. They are frequently compared to Earth, Wind and Fire.\n",
       "The group was formed at California Baptist University in the late [YEAR]s, and first began playing for student conferences and retreats. Originally known as Praise House, they changed their name to [BAND_NAME] because of complications with a Christian techno group with the same name around at the same time. Signing to Ardent Records, their first album was released in [YEAR], and was nominated for a Dove Award for Best Rock Album in [YEAR]. In [YEAR], Ardent released a live album recorded at their home church, Harvest Christian Fellowship.\n",

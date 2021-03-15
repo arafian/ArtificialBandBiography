@@ -36,9 +36,10 @@
          "Jacob Graham"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band from New York City.\n",
-      "Founding members Jonathan (Jonny) Pierce and Jacob Graham became friends as children, having met at Bible camp at age 11 or 12. Some years later, they formed a short-lived electro-pop group initially named Goat Explosion, eventually renamed Elkland. They released one album, Golden, in [YEAR] and garnered interest with the single \"Apart\".\n",
+      "Founding members Jonathan (Jonny) Pierce and Jacob Graham became friends as children, having met at Bible camp at age 11 or 12. Some years later, they formed a short-lived electro-pop group initially named Goat Explosion, eventually renamed Elkland. They released one album, Golden, in [YEAR] and garnered interest with the single [SONG_NAME].\n",
       "In [YEAR], Pierce and Graham came up with the concept for [BAND_NAME], and Pierce moved to Kissimmee, Florida, where Graham resided at the time, so that they could more readily collaborate. They then moved to Brooklyn, in the spring of [YEAR], where drummer [PERSON_NAME_FULL_0_MALE] and former Elkland guitarist Adam Kessler joined the band to complete their live sound. The band had their first gig within a week of arriving in Brooklyn at Cake Shop NYC as part of the NYC Pop Fest. In [MONTH] [YEAR], the band released their first EP, Summertime!.\n"
    ]
 }

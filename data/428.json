@@ -41,8 +41,20 @@
          "Robin Callander"
       ]
    },
+   "albums": [
+      "Visions And Dreams",
+      "Big Silent World",
+      "The Whole Shebang!",
+      "The Electrics",
+      "Livin' It Up When I Die",
+      "HM Magazine",
+      "Danger Live",
+      "Reel, Folk'n'Rock'n'Roll",
+      "Old, New, Borrowed & Green",
+      "The Norway Sessions"
+   ],
    "prunedData": [
-      "[BAND_NAME] are a [GENRE] band from Dumbarton, Scotland. They formed in [YEAR] when former Infrapenny members [PERSON_NAME_FULL_2_MALE] (vocals and bass guitar) and Paul Baird (guitar) asked drummer [PERSON_NAME_FULL_1_MALE] and sax/keyboard player [PERSON_NAME_FULL_0_MALE] to play a gig at Glasgow's Impact Festival. The band released a self-financed cassette album, Views in Blues, in [YEAR]. Following this recording the band evolved a celtic rock sound, heavily influenced by The Waterboys and The Pogues. Subsequent recordings included Vision and Dreams ([YEAR]) which was distributed by Word Records, and Big Silent World ([YEAR]), on Germany's Pila Music label.\n",
+      "[BAND_NAME] are a [GENRE] band from Dumbarton, Scotland. They formed in [YEAR] when former Infrapenny members [PERSON_NAME_FULL_2_MALE] (vocals and bass guitar) and Paul Baird (guitar) asked drummer [PERSON_NAME_FULL_0_MALE] and sax/keyboard player [PERSON_NAME_FULL_1_MALE] to play a gig at Glasgow's Impact Festival. The band released a self-financed cassette album, Views in Blues, in [YEAR]. Following this recording the band evolved a celtic rock sound, heavily influenced by The Waterboys and The Pogues. Subsequent recordings included Vision and Dreams ([YEAR]) which was distributed by Word Records, and Big Silent World ([YEAR]), on Germany's Pila Music label.\n",
       "The band performed in the UK, Europe and the US. The band never officially disbanded. \n",
       "Sam Horner has returned to live in Ireland once again, and spends much of the year touring the world performing concerts with his wife, Kylie Horner, as The Sweet Sorrows.\n"
    ]

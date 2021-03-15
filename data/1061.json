@@ -40,9 +40,23 @@
          "Nimrod Nol"
       ]
    },
+   "albums": [
+      "The Things You Can't Afford",
+      "Days ",
+      "Lost Time ",
+      "Return Again",
+      "Live At B.B.King NYC",
+      "Malachim",
+      "The Best of Moshav Band: Higher and Higher ",
+      "Misplaced",
+      "Dancing in a Dangerous World",
+      "New Sun Rising",
+      "Shabbat Vol. 1",
+      "Shabbat Vol. 2"
+   ],
    "prunedData": [
       "[BAND_NAME], formerly known as [BAND_NAME] Band, is an [GENRE] band originating from [BAND_NAME] Mevo Modi'im. Founded in [YEAR] by Yehuda Solomon and Duvid Swirsky, the group moved to Los Angeles in [YEAR] and has released seven studio albums. They are often regarded as one of the first groups to combine Jewish music with a rock sound, as elements of alternative rock, folk, funk, and reggae appear in their songs.\n",
       "The Israel-born [BAND_NAME] Band members grew up on [BAND_NAME] Mevo Modi'im, a musical village located in the hills between Jerusalem and Tel Aviv.  Their village, founded by the late Rabbi Shlomo Carlebach, was and continues to be the birthplace of many Jewish songs enjoyed the world over. The members of the [BAND_NAME] Band were under the spiritual guidance of Rabbi Shlomo Carlebach while immersed in his musical world, often performing with him at his concerts. Co-founder Yehuda Solomon is the son of [PERSON_NAME_FULL_0_MALE], one of the original members of the Diaspora Yeshiva Band.\n",
-      "Although the members of the [BAND_NAME] Band grew up playing music together, the band had its first official show at Jerusalem's Mike's Place in [YEAR], performing for an audience consisting mainly of American students studying abroad in various yeshivas as well as Hebrew University. The organizer of the event, Sharon Goldman, was unsure how to bill the as-yet unnamed act and opted for the simple \"[BAND_NAME] Band.\"  The name stuck.\n"
+      "Although the members of the [BAND_NAME] Band grew up playing music together, the band had its first official show at Jerusalem's Mike's Place in [YEAR], performing for an audience consisting mainly of American students studying abroad in various yeshivas as well as Hebrew University. The organizer of the event, Sharon Goldman, was unsure how to bill the as-yet unnamed act and opted for the simple [SONG_NAME]  The name stuck.\n"
    ]
 }

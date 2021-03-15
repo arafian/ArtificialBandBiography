@@ -36,9 +36,13 @@
          "Danyel Morgan"
       ]
    },
+   "albums": [
+      "Live at the Wetlands",
+      "Live in Concert"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band led by pedal steel guitarist [PERSON_NAME_FIRST_0] Randolph ([PERSON_NAME_FULL_0_MALE], born [MONTH] 8, [YEAR], Irvington, New Jersey). NPR has described the band as one with an \"irresistible rock 'n' roll swagger\". Rolling Stone included Randolph upon their list of the 100 greatest guitarists of all time. The band has released six studio albums and has been Grammy nominated four times.\n\n",
-      "Frontman Robert Randolph was trained as a [GENRE] band's music. The instrument is referred to in many African-American Pentecostal churches as \"sacred steel\". Randolph was discovered while playing at a sacred steel convention in Florida.\n",
+      "[BAND_NAME] is an [GENRE] band led by pedal steel guitarist [PERSON_NAME_FIRST_0] Randolph ([PERSON_NAME_FULL_0_MALE], born [MONTH] 8, [YEAR], Irvington, New Jersey). NPR has described the band as one with an [SONG_NAME]. Rolling Stone included Randolph upon their list of the 100 greatest guitarists of all time. The band has released six studio albums and has been Grammy nominated four times.\n\n",
+      "Frontman Robert Randolph was trained as a [GENRE] band's music. The instrument is referred to in many African-American Pentecostal churches as [SONG_NAME]. Randolph was discovered while playing at a sacred steel convention in Florida.\n",
       "The group's sound is inspired by legendary funk bands such as Earth, Wind & Fire and Sly & the Family Stone. Randolph himself has explained that in his adolescent years before being discovered by the secular community, he was almost completely unaware of non-religious music. He went on exclaim in an [GENRE] a lot of older guys playing lap steels and pedal-steel guitars in my church. I had never heard of the Allman Brothers, or even Buddy Guy or Muddy Waters.”\n"
    ]
 }

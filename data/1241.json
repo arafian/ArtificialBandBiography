@@ -65,9 +65,17 @@
          "Phil Jordan"
       ]
    },
+   "albums": [
+      "No Doubt",
+      "The Beacon Street Collection",
+      "Tragic Kingdom",
+      "Return of Saturn",
+      "Rock Steady",
+      "Push and Shove"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Anaheim, California, formed in [YEAR]. The band consists of vocalist [PERSON_NAME_FULL_0_FEMALE], guitarist Tom Dumont, bassist [PERSON_NAME_FULL_1_MALE], and drummer Adrian Young. Since the mid-[YEAR]s, they have been supported by trombonist and keyboardist Gabrial McNair and trumpeter and keyboardist Stephen Bradley in live performances.\n",
-      "Though their [YEAR] eponymous debut album failed to make an impact, its ska punk-inspired follow-up The Beacon Street Collection sold over 100,000 copies in [YEAR], over triple that of its predecessor. The band's diamond-certified album Tragic Kingdom ([YEAR]) benefited from the resurgence of third-wave ska in the [YEAR]s, and \"Don't Speak\", the third single from the album, set a record when it spent 16 weeks at the number one spot on the Billboard Hot 100 Airplay chart. \"Just a Girl\", co-written by Stefani, was described as \"the most popular cut on the CD\".\n",
-      "The group's next album, Return of Saturn ([YEAR]), despite its Top 40 hit single \"Simple Kind of Life\", did not match the success of their previous album, but received critical praise and was nominated for Best Rock Album at the 43rd Grammy Awards. Fifteen months later, the band reappeared with the album Rock Steady ([YEAR]), which incorporated reggae and dancehall music into their work. The album was primarily recorded in Jamaica and featured collaborations with Jamaican artists Bounty Killer, Sly and Robbie, and Lady Saw. The album produced two Grammy-winning singles, \"Hey Baby\" and \"Underneath It All\". \"[PERSON_NAME_FULL_0_FEMALE]\" was also nominated for a Grammy award. On [MONTH] 22, [YEAR], [BAND_NAME] received the Key to the City of Anaheim, given by the [MONTH]or of Anaheim, [PERSON_NAME_FIRST_1] Daly, in Disneyland during the band's appearance on 'Breakfast with Kevin and Bean' (KROQ-FM) where they performed five songs. After a [YEAR] tour the band embarked on solo projects, with Stefani releasing two successful solo albums Love. Angel. Music. Baby. ([YEAR]) and The Sweet Escape ([YEAR]), while [PERSON_NAME_FULL_1_MALE] released his own solo music project, Invincible Overlord. In [YEAR], the band resumed working slowly on their sixth and latest effort, titled Push and Shove ([YEAR]), and released their single \"Settle Down\". They have sold over 33 million records worldwide.\n"
+      "[BAND_NAME] is an [GENRE] band from Anaheim, California, formed in [YEAR]. The band consists of vocalist [PERSON_NAME_FULL_1_FEMALE], guitarist Tom Dumont, bassist [PERSON_NAME_FULL_0_MALE], and drummer Adrian Young. Since the mid-[YEAR]s, they have been supported by trombonist and keyboardist Gabrial McNair and trumpeter and keyboardist Stephen Bradley in live performances.\n",
+      "Though their [YEAR] eponymous debut album failed to make an impact, its ska punk-inspired follow-up The Beacon Street Collection sold over 100,000 copies in [YEAR], over triple that of its predecessor. The band's diamond-certified album Tragic Kingdom ([YEAR]) benefited from the resurgence of third-wave ska in the [YEAR]s, and [SONG_NAME].\n",
+      "The group's next album, Return of Saturn ([YEAR]), despite its Top 40 hit single [SONG_NAME]. They have sold over 33 million records worldwide.\n"
    ]
 }

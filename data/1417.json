@@ -34,9 +34,10 @@
          "Dennis Kimack"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME]  is an [GENRE] band from New York City, New York, United States. After only a few months of formation they were signed by MCA/Universal Records. They've released three albums: [BAND_NAME] ([YEAR]),  Open To The Public ([YEAR]) and Subway To The Stars ([YEAR]).\n",
       "[BAND_NAME]'s bassist Rob De Luca is also a [GENRE] band UFO.\n",
-      "In the late [YEAR]s, founding members Paul DiBartolo, [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_1_MALE] were playing in the Boston-based hard rock band Bang. In [MONTH] [YEAR], Bang won the MTV Basement Tapes competition with the video for their song \"Summertime\".\n"
+      "In the late [YEAR]s, founding members Paul DiBartolo, [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_0_MALE] were playing in the Boston-based hard rock band Bang. In [MONTH] [YEAR], Bang won the MTV Basement Tapes competition with the video for their song [SONG_NAME].\n"
    ]
 }

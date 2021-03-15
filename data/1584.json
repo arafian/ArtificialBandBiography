@@ -29,9 +29,16 @@
          "Marc Barrachina"
       ]
    },
+   "albums": [
+      "Facto delafé y las flores azules vs. el monstruo de las ramblas",
+      "Facto delafé y las flores azules en la luz de la mañana",
+      "Delafé y las Flores Azules vs. las trompetas de la muerte",
+      "Delafé y las Flores Azules: \"De ti sin mí - De mí sin ti",
+      "Estonosepara"
+   ],
    "prunedData": [
-      "Delafé y las [PERSON_NAME_FULL_0_FEMALE] (Spanish for \"Delafé and the Blue Flowers\") is a [GENRE] band based in Barcelona (Spain), formerly known as [BAND_NAME].\n",
-      "The band was formed in [MONTH] [YEAR] by [MONTH]c Barrachina \"Facto\" (former member of band Songstore) and Oscar D'Aniello \"delafé\" (also a member of Mishima). In [MONTH] [YEAR], they started recording in a studio and in [MONTH] of that year they won the Joven Promesa (Young Promise) contest organized by El Masnou. In [MONTH] [YEAR], their song [MONTH] el poder del [MONTH] was chosen song of the month by RNE Radio 3 program Disco Grande. Helena Miquel \"las flores azules\", who made the chorus for the song, joined the band indefinitely. In [MONTH] [YEAR], their demo El Monstruo de las Ramblas was chosen Best [YEAR] Demo by the listeners of Disco Grande. In [MONTH] [YEAR], they released their first album, vs. El Monstruo de las Ramblas on the Music Bus label. By the end of [YEAR], they recorded several songs for Bigas Luna's Yo soy la Juani soundtrack. In [MONTH] [YEAR], they released their second album, La Luz de la Mañana.\n",
+      "Delafé y las [PERSON_NAME_FULL_0_FEMALE] (Spanish for [SONG_NAME]) is a [GENRE] band based in Barcelona (Spain), formerly known as [BAND_NAME].\n",
+      "The band was formed in [MONTH] [YEAR] by [MONTH]c Barrachina [SONG_NAME], who made the chorus for the song, joined the band indefinitely. In [MONTH] [YEAR], their demo El Monstruo de las Ramblas was chosen Best [YEAR] Demo by the listeners of Disco Grande. In [MONTH] [YEAR], they released their first album, vs. El Monstruo de las Ramblas on the Music Bus label. By the end of [YEAR], they recorded several songs for Bigas Luna's Yo soy la Juani soundtrack. In [MONTH] [YEAR], they released their second album, La Luz de la Mañana.\n",
       "The music of [BAND_NAME] is halfway between indie pop and hip hop, with melodies and structures more characteristic of rock, soul or electronic music. Although the lyrics contain a [GENRE]"
    ]
 }

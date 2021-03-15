@@ -6,9 +6,10 @@
       "The NYPD is regarded as one of the foremost American police department pipe and drum bands, the Pittsburgh Post-Gazette, described the 95-member band in 2005 as the band that, \"sets the standard nationwide.\"\n"
    ],
    "infobox": {},
+   "albums": [],
    "prunedData": [
       "The [BAND_NAME] is a [GENRE] band made up of active and retired police officers of the New York City Police Department (NYPD). It is associated with the Irish American Emerald Society and was formerly known as the Emerald Society's [GENRE] and Drum Band.\n",
       "Formed in [YEAR], the [BAND_NAME] was one of the first Police Pipe bands to form in the United States.  Sergeant Finbar Devine was drum major from [YEAR] - [YEAR]. It is an annual participant in the St. Patrick's day parade on Fifth Avenue in New York City and the Inaugural parade in Washington. It has historically played for Popes and Presidents, and city officials. In [YEAR], it performed at the United States presidential inauguration parade for President [PERSON_NAME_FULL_0_MALE]. In addition, the Band has appeared on numerous television shows and movies including The Rosie O'Donnell Show, the Today Show and Late Night With David Letterman. The band also maintains a color guard. The bandmaster of the pipes and drums is Detective Kevin McDonough.\n",
-      "The NYPD is regarded as one of the foremost American police department pipe and drum bands, the Pittsburgh Post-Gazette, described the 95-member band in [YEAR] as the band that, \"sets the standard nationwide.\"\n"
+      "The NYPD is regarded as one of the foremost American police department pipe and drum bands, the Pittsburgh Post-Gazette, described the 95-member band in [YEAR] as the band that, [SONG_NAME]\n"
    ]
 }

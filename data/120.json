@@ -37,8 +37,18 @@
          "David Gleza"
       ]
    },
+   "albums": [
+      "Voltage and Violets",
+      "Things I Hate to Admit",
+      "White Bread Blues",
+      "Things I Hate to Admit",
+      "The Germ",
+      "Headache Remedy",
+      "Four Great Thrash Songs",
+      "Apocalicious"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in [YEAR] in Santa Rosa, California, by the bass guitarist [PERSON_NAME_FULL_1_MALE] and the guitarist and vocalist [PERSON_NAME_FULL_0_MALE]. Devon VrMeer completed the trio as drummer. Their sound blended punk, heavy metal and jazz, making them difficult to categorize into a single genre. Allmusic says, \"Since its inception, the trio has refused to be pigeonholed to any single musical style — incorporating elements of [GENRE], jazz, funk, hard rock, and noise into its challenging sound\". They were known as one of the most musically diverse bands in the San Francisco underground music scene. Over the years, [BAND_NAME] went through four drummers and two break-ups. Their name was taken from a piece by the cartoonist B. Kliban.\n",
+      "[BAND_NAME] is a [GENRE] band formed in [YEAR] in Santa Rosa, California, by the bass guitarist [PERSON_NAME_FULL_1_MALE] and the guitarist and vocalist [PERSON_NAME_FULL_0_MALE]. Devon VrMeer completed the trio as drummer. Their sound blended punk, heavy metal and jazz, making them difficult to categorize into a single genre. Allmusic says, [SONG_NAME]. They were known as one of the most musically diverse bands in the San Francisco underground music scene. Over the years, [BAND_NAME] went through four drummers and two break-ups. Their name was taken from a piece by the cartoonist B. Kliban.\n",
       "In [YEAR], [BAND_NAME] played their first show at the Kennilworth Recreation Center in Petaluma, California, where they later opened for Faith No More and Suicidal Tendencies. In summer [YEAR], the band made their first U.S. tour, which they booked themselves by mailing out a [GENRE] a drinking contest in Dallas. Also that year, they opened  for the Dead Kennedys, Descendents and Social Unrest at the [MONTH]ato Theater, where they first caught the attention of Jello Biafra. In [YEAR], they opened  for the Butthole Surfers and Camper Van Beethoven at Mabuhay Gardens in San Francisco, and recorded their first album, Voltage and Violets, for Ruth Schwartz's Mordam Records, and regularly played The Farm and Club Foot in San Francisco. [YEAR] was also the year they played at a pizza parlor in Oakland with Nomeansno, beginning a long friendship between the two bands.\n",
       "In [YEAR], they barely completed a tour of the United States and missed their dates in Canada after being banned from that country for one year. Highlights included playing with Capitol Punishment in Fresno and Scratch Acid in Dallas. A second album, Things I Hate To Admit, was recorded in [YEAR] at Prairie Sun Studio in Cotati, California.\n"
    ]

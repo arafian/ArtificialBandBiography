@@ -6,9 +6,17 @@
       "Band members Matt Jalbert, Charlie Dolan, and A.C. Carter began playing together while growing up on Long Island as teenagers. Dolan, Jalbert, and Carter formed their first band in seventh grade. The group initially had a vocalist, Alessandro Zanelli, who left the group in 2011 and was not replaced; they have worked as an instrumental group since. Isaac Teel entered the band later when he met Dolan in college. The group won its first major attention opening on tour for Umphrey's McGee in 2014.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Ride",
+      "Brokedown King",
+      "Homunculus",
+      "Collisions",
+      "Sir Nebula",
+      "Shapeshifter II: Outbreak"
+   ],
    "prunedData": [
       "TAUK is an [GENRE] band from Oyster Bay, New York.\n",
-      "[BAND_NAME] (pronounced \"talk\", shortened from Montauk, NY) has toured with Umphrey's McGee, Disco Biscuits, Papadosio, STS9, The String Cheese Incident, and others. The group tours the United States regularly every year, averaging about 160 shows. In [YEAR], the group released Headroom, the band's first double-CD set culled from live performances. Much of their recording is done in collaboration with engineer [PERSON_NAME_FULL_0_MALE], who has produced three of their studio albums.\n",
-      "Band members Matt Jalbert, [PERSON_NAME_FULL_0_MALE], and A.C. Carter began playing together while growing up on Long Island as teenagers. [PERSON_NAME_LAST_0], Jalbert, and Carter formed their first band in seventh grade. The group initially had a vocalist, [PERSON_NAME_FULL_1_MALE], who left the group in [YEAR] and was not replaced; they have worked as an instrumental group since. Isaac Teel entered the band later when he met [PERSON_NAME_LAST_0] in college. The group won its first major attention opening on tour for Umphrey's McGee in [YEAR].\n"
+      "[BAND_NAME] (pronounced [SONG_NAME], shortened from Montauk, NY) has toured with Umphrey's McGee, Disco Biscuits, Papadosio, STS9, The String Cheese Incident, and others. The group tours the United States regularly every year, averaging about 160 shows. In [YEAR], the group released Headroom, the band's first double-CD set culled from live performances. Much of their recording is done in collaboration with engineer [PERSON_NAME_FULL_0_MALE], who has produced three of their studio albums.\n",
+      "Band members Matt Jalbert, [PERSON_NAME_FULL_1_MALE], and A.C. Carter began playing together while growing up on Long Island as teenagers. [PERSON_NAME_LAST_1], Jalbert, and Carter formed their first band in seventh grade. The group initially had a vocalist, [PERSON_NAME_FULL_0_MALE], who left the group in [YEAR] and was not replaced; they have worked as an instrumental group since. Isaac Teel entered the band later when he met [PERSON_NAME_LAST_1] in college. The group won its first major attention opening on tour for Umphrey's McGee in [YEAR].\n"
    ]
 }

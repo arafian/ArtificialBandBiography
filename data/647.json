@@ -34,9 +34,12 @@
          "Martina Axen – Drums/Backing vocals"
       ]
    },
+   "albums": [
+      "Serve The Shame"
+   ],
    "prunedData": [
       "[BAND_NAME] (STH for Stockholm) was a [GENRE] band from Sweden.\n",
       "Stockholm quartet [BAND_NAME] underwent many changes in both musical style and image. Guitarist Flavia Canel and drummer [MONTH]tina Axén had been together in many acts starting with punk band Livin' Sacrifice (not to be confused with the thrash metal band Living Sacrifice). As this act progressed the sound developed into more of a [GENRE]",
-      "Livin' Sacrifice evolved into Aphrodite with Axén, Canel, vocalist [PERSON_NAME_FULL_0_FEMALE], guitarist [MONTH]ia \"Mia\" Landberg, and bassist [MONTH]ianne Hall. Aphrodite folded upon [PERSON_NAME_LAST_0]'s departure in [YEAR].\n"
+      "Livin' Sacrifice evolved into Aphrodite with Axén, Canel, vocalist [PERSON_NAME_FULL_0_FEMALE], guitarist [MONTH]ia [SONG_NAME] Landberg, and bassist [MONTH]ianne Hall. Aphrodite folded upon [PERSON_NAME_LAST_0]'s departure in [YEAR].\n"
    ]
 }

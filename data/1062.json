@@ -37,6 +37,12 @@
          "Alan Kashan"
       ]
    },
+   "albums": [
+      "Daddy's Pockets",
+      "Out of the Reeds",
+      "Exile",
+      "Haran"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from New York City. Formed in [YEAR] by Basya Schechter, their music is a mix of American folk, Jewish klezmer, and Middle Eastern sounds.\n",
       "Schechter is currently a [GENRE]",

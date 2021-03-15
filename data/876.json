@@ -35,8 +35,9 @@
          "Matthew Lux"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME]° is a [GENRE] band composed mainly of members from Tortoise and the Chicago Underground Orchestra that was formed in [YEAR]. The New York Times described the band as \"..adept to varying degrees at rock and funk and jazz and electronics, turn those introspective moments into jams that are messier and warmer than Tortoise's.\"\n",
+      "[BAND_NAME]° is a [GENRE] band composed mainly of members from Tortoise and the Chicago Underground Orchestra that was formed in [YEAR]. The New York Times described the band as [SONG_NAME]\n",
       "This article on a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

@@ -35,9 +35,16 @@
          "Mike Mongrain"
       ]
    },
+   "albums": [
+      "God's Balls",
+      "Salt Lick",
+      "8-Way Santa",
+      "Inhaler",
+      "Infrared Riding Hood"
+   ],
    "prunedData": [
       "[BAND_NAME] (often styled as TAD) was an [GENRE] band from Seattle, Washington, formed in [YEAR] by [BAND_NAME] Doyle. They are often recognized as one of the first bands of the grunge era.\n",
-      "Led by [BAND_NAME] Doyle (born Thomas Andrew Doyle) on vocals and guitar, [BAND_NAME] was formed in early [YEAR] by Doyle, a drummer turned guitar player/singer, who asked bassist [PERSON_NAME_FULL_5_MALE] to play bass for the band. [PERSON_NAME_LAST_5]'s band Bundle of Hiss played with Doyle's previous band (in which he played drums) H-Hour. [BAND_NAME] recruited drummer [PERSON_NAME_FULL_0_MALE] (formerly of Skin Yard) and guitarist Gary Thorstensen to complete the original lineup. [BAND_NAME] was among the first bands to be signed to the independent label [PERSON_NAME_FULL_1_MALE]. In [YEAR], Doyle had released the \"Daisy/Ritual Device\" single on [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_1], produced by seminal Seattle producer [PERSON_NAME_FULL_4_MALE], for which Doyle wrote and performed all music. [BAND_NAME]'s debut album God's Balls appeared in early [YEAR] and was also produced by [PERSON_NAME_LAST_4]. In [MONTH] [YEAR] the band released the Salt Lick EP, recorded by [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_2]. It contained the song \"Wood Goblins\", for which a music video was produced. After a European tour with Nirvana, [BAND_NAME] returned to Seattle and recorded their second album 8-Way Santa ([YEAR]), named after a type of blotter acid. Produced by [PERSON_NAME_FULL_3_MALE], the album was far more pop-oriented than its predecessors, and featured the singles \"Jinx\" and \"[PERSON_NAME_FIRST_4] Pepsi\". \n",
-      "\"Jack Pepsi\" was released as a [GENRE] a lawsuit against the band due to the cover art on the single, which was the Pepsi logo with \"[BAND_NAME]\" in place of \"PEPSI.\" However, the so-called \"Pepsi logo\" was missing the left and right colorations in the actual Pepsi logo, one being of a light blue color; said light blue color never appeared on the [BAND_NAME] artwork, making this at best an attempt at \"folk art\", not even coming close to \"copyright infringement\". Another lawsuit was filed due to the cover of 8-Way Santa (which was a found picture of a man fondling a woman's breast). The couple in the photograph, one of whom had since become a born-again Christian and remarried, took exception and sued. [PERSON_NAME_FULL_0_FEMALE] subsequently changed the album cover to a shot of the band.\n"
+      "Led by [BAND_NAME] Doyle (born Thomas Andrew Doyle) on vocals and guitar, [BAND_NAME] was formed in early [YEAR] by Doyle, a drummer turned guitar player/singer, who asked bassist [PERSON_NAME_FULL_0_MALE] to play bass for the band. [PERSON_NAME_LAST_0]'s band Bundle of Hiss played with Doyle's previous band (in which he played drums) H-Hour. [BAND_NAME] recruited drummer [PERSON_NAME_FULL_2_MALE] (formerly of Skin Yard) and guitarist Gary Thorstensen to complete the original lineup. [BAND_NAME] was among the first bands to be signed to the independent label [PERSON_NAME_FULL_4_FEMALE]. In [YEAR], Doyle had released the [SONG_NAME]. \n",
+      "[SONG_NAME]. Another lawsuit was filed due to the cover of 8-Way Santa (which was a [GENRE] a man fondling a woman's breast). The couple in the photograph, one of whom had since become a born-again Christian and remarried, took exception and sued. [PERSON_NAME_FULL_0_MALE] subsequently changed the album cover to a shot of the band.\n"
    ]
 }

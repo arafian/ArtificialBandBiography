@@ -22,6 +22,25 @@
          "Christopher Sprague, Luis Hermosillo, James Lehner also with: Jimmy LaValle, Stephen Swesey, Alison Ables, Sean Ogilvie, Eric Hinojosa, Jimi Hey, Scott Mercado, Drew Andrews, Adrian Plott, Camaron Stephens, Chris Hash, Josh Lindenfelzer."
       ]
    },
+   "albums": [
+      "Foreshadow",
+      "Spine and Sensory",
+      "Macrame",
+      "In Sound Tour Support Series",
+      "Are We People",
+      "Tristeza Rules",
+      "Dream Signals in Full Circles",
+      "Mania Phase",
+      "Mixed Signals",
+      "Tristeza/Lemko Hall",
+      "Espuma",
+      "Bromas",
+      "March of the White Lies",
+      "A Colores",
+      "En Nuestro Desafio",
+      "Fate Unfolds",
+      "Paisajes"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band. The band is currently based in Oakland, California, and was established in San Diego in [YEAR]. The band has performed in 19 countries. \n",
       "The group formed in San Diego in [YEAR], and included Christopher Sprague, [PERSON_NAME_FULL_0_MALE], Jimmy LaValle (The Album Leaf), James Lehner, and [PERSON_NAME_FULL_1_MALE]. This line-up recorded all material that was released through [YEAR], including the albums Spine and Sensory ([YEAR]) and Dream Signals in Full Circles ([YEAR]).  \n",

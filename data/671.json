@@ -29,9 +29,14 @@
          " Amber Grimbergen[1]"
       ]
    },
+   "albums": [
+      "Leave Me Alone",
+      "I Don't Run",
+      "The Prettiest Curse"
+   ],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Madrid, formed in [YEAR], consisting of [PERSON_NAME_FULL_0_FEMALE] (vocals, guitar), Ana Perrote (vocals, guitar), Ade [MONTH]tin (bass, backing vocals) and Amber Grimbergen (drums). The original name of the band was Deers, but they changed it at the end of [YEAR] after a threat of legal action from the similarly named band The Dears. The group chose \"[BAND_NAME]\", a word that means \"female deers\", as the new name of the band and officially implemented the name change on 7 [MONTH] [YEAR].\n",
+      "[BAND_NAME] is a [GENRE] band from Madrid, formed in [YEAR], consisting of [PERSON_NAME_FULL_0_FEMALE] (vocals, guitar), Ana Perrote (vocals, guitar), Ade [MONTH]tin (bass, backing vocals) and Amber Grimbergen (drums). The original name of the band was Deers, but they changed it at the end of [YEAR] after a threat of legal action from the similarly named band The Dears. The group chose [SONG_NAME], as the new name of the band and officially implemented the name change on 7 [MONTH] [YEAR].\n",
       "They have released three albums, one compilation LP and four singles. Their first studio album, Leave Me Alone, was released on 8 [MONTH] [YEAR], and their second studio album, I Don't Run, was released on 6 [MONTH] [YEAR]. The band's third studio album, The Prettiest Curse was released on 5 [MONTH] [YEAR].\n",
-      "[BAND_NAME] started in [YEAR] as a duo called Deers, consisting of [PERSON_NAME_FULL_0_FEMALE] and Ana García Perrote. After a break of a year and a half, the duo reformed in [YEAR]. In [MONTH] [YEAR], still as a duo, they recorded the tracks \"Bamboo\" and \"Trippy Gum\" and released both songs in Bandcamp as \"Demo\". The single was praised by music magazines including NME and by Paul Lester of The Guardian who chose Deers as \"new band of the week\" in [MONTH] [YEAR], and by major musicians, such as [PERSON_NAME_FULL_1_MALE], The Pastels, and Bobby Gillespie.\n"
+      "[BAND_NAME] started in [YEAR] as a duo called Deers, consisting of [PERSON_NAME_FULL_1_FEMALE] and Ana García Perrote. After a break of a year and a half, the duo reformed in [YEAR]. In [MONTH] [YEAR], still as a duo, they recorded the tracks [SONG_NAME] in [MONTH] [YEAR], and by major musicians, such as [PERSON_NAME_FULL_0_MALE], The Pastels, and Bobby Gillespie.\n"
    ]
 }

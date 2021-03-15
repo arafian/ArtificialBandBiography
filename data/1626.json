@@ -6,9 +6,19 @@
       "According to José Colmeiro, their works present a postmodern, heterogeneous mix of “tradition and modernity”, “integrating the rural and the urban”.  They were the among the first bands to popularize the use of Galician in a rock song. Their most recognizable hit was \"Fai un Sol de Carallo\" (1986), a folk-inflected politic-danceable rock song that would become an anthem for the Movida viguesa.  Due to its success, it was also translated into English and Basque.  Other famous songs included \"Galicia Sitio Distinto\" and \"Galicia Express\", criticizing the state of Galicia with comical and irreverent lyrics. Their 1990 album Jei (the title song parodying the Julio Iglesias's singing style) was critically acclaimed and was declared the best national album of the year by Rockdelux magazine.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Vigo, Capital Lisboa",
+      "Fai un Sol de Carallo",
+      "Música Doméstica",
+      "Fracaso Tropical",
+      "Jei",
+      "Delikatessen",
+      "Xa Están Aquí",
+      "Made in Galicia"
+   ],
    "prunedData": [
-      "[BAND_NAME] (The Resentfuls) was a [GENRE] band from Vigo, Spain founded in [YEAR] by Antón Reixa, [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_2_MALE], and [PERSON_NAME_FULL_1_MALE]. In [YEAR], [PERSON_NAME_FIRST_1] later left the band, being replaced by Xabier Debesa.  The leader of the band, Antón Reixa, was the vocalist and lyricist while the other band members were instrumentalists. [BAND_NAME] disbanded in [YEAR] but got back together again in [YEAR] on their 30th anniversary.\n",
-      "The group almost exclusively sang in Galician—except for their hit \"Rockin' Chair\", in English. Their influences ranged from funk, Caribbean, African, and classic rock music to traditional Galician folk songs and period Hip hop, of which they were considered pioneers in Spain.  The singing technique of Reixa, a well-known Galician poet and filmmaker, was similar to that of Old school hip hop, perhaps because he never was taught to sing. The instrumentation ranged from traditional Galician bagpipes (gaitas) to synthesizers, saxophones, keyboard, electric guitars, and bass.\n",
-      "According to [PERSON_NAME_FULL_0_MALE], their works present a [GENRE] bands to popularize the use of Galician in a rock song. Their most recognizable hit was \"Fai un Sol de Carallo\" ([YEAR]), a folk-inflected politic-danceable rock song that would become an anthem for the Movida viguesa.  Due to its success, it was also translated into English and Basque.  Other famous songs included \"Galicia Sitio Distinto\" and \"Galicia Express\", criticizing the state of Galicia with comical and irreverent lyrics. Their [YEAR] album Jei (the title song parodying the [MONTH]io Iglesias's singing style) was critically acclaimed and was declared the best national album of the year by Rockdelux magazine.\n"
+      "[BAND_NAME] (The Resentfuls) was a [GENRE] band from Vigo, Spain founded in [YEAR] by Antón Reixa, [PERSON_NAME_FULL_1_MALE], [PERSON_NAME_FULL_2_MALE], and [PERSON_NAME_FULL_0_MALE]. In [YEAR], [PERSON_NAME_FIRST_0] later left the band, being replaced by Xabier Debesa.  The leader of the band, Antón Reixa, was the vocalist and lyricist while the other band members were instrumentalists. [BAND_NAME] disbanded in [YEAR] but got back together again in [YEAR] on their 30th anniversary.\n",
+      "The group almost exclusively sang in Galician—except for their hit [SONG_NAME], in English. Their influences ranged from funk, Caribbean, African, and classic rock music to traditional Galician folk songs and period Hip hop, of which they were considered pioneers in Spain.  The singing technique of Reixa, a well-known Galician poet and filmmaker, was similar to that of Old school hip hop, perhaps because he never was taught to sing. The instrumentation ranged from traditional Galician bagpipes (gaitas) to synthesizers, saxophones, keyboard, electric guitars, and bass.\n",
+      "According to [PERSON_NAME_FULL_0_MALE], their works present a [GENRE] bands to popularize the use of Galician in a rock song. Their most recognizable hit was [SONG_NAME], criticizing the state of Galicia with comical and irreverent lyrics. Their [YEAR] album Jei (the title song parodying the [MONTH]io Iglesias's singing style) was critically acclaimed and was declared the best national album of the year by Rockdelux magazine.\n"
    ]
 }

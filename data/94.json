@@ -42,9 +42,10 @@
          "George Gabriel"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from San Francisco currently composed of David Jenkins (guitar and vocals), [PERSON_NAME_FULL_1_MALE] (keyboards and vocals), Steve Price (drums) and [PERSON_NAME_FULL_0_MALE] (bass and vocals). Formed in [YEAR], the band released eight studio albums over the next decade, during which time five singles reached the top 25 of the Billboard Hot 100 chart. The group underwent several personnel changes and split up in [YEAR]. The original lineup—Jenkins, [PERSON_NAME_LAST_1], Price and Bud Cockrell—reunited briefly in [YEAR], and the group continue to tour today with three out of the original four members present.\n",
       "[BAND_NAME] began in San Francisco, in [YEAR], with former members of Stoneground (Cory Lerios on keyboards and vocals, David Jenkins as vocalist and on guitar and [PERSON_NAME_FULL_0_MALE] on drums) and It's a Beautiful Day (Bud Cockrell on bass and vocals). Lerios had formed a band while at Palo Alto High School. His classmate, [PERSON_NAME_FULL_0_MALE], signed on as a roadie (because he owned a van), then joined the group on drums when their drummer left. They were eventually to find their way into Stoneground, where they were joined by Jenkins (originally from Ypsilanti, Michigan).\n",
-      "Initially, many fans assumed that [BAND_NAME] was the name of one of the members of the band. When asked the question, the band, which is a quartet, would answer, \"He's the guy in the middle.\" When asked what [BAND_NAME] meant, the band would say that \"Pablo represents an honest, real, down- to-earth individual; and Cruise depicts his fun-loving and easygoing attitude towards life.\"\n"
+      "Initially, many fans assumed that [BAND_NAME] was the name of one of the members of the band. When asked the question, the band, which is a quartet, would answer, [SONG_NAME]\n"
    ]
 }

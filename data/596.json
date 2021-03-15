@@ -23,8 +23,9 @@
          "Sara Shelton Bellum"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] was an [GENRE] band, started in the early [YEAR]s in Eugene, Oregon, United States, by Kaia Wilson, [PERSON_NAME_FULL_0_FEMALE], and [PERSON_NAME_FULL_1_FEMALE]. They toured alongside other riot grrrl bands. Their first single \"All American Girl\" b/w \"Columbus\" was put out by Imp Records in [YEAR]. One of their opening acts was Beck at the Jabberjaw in Los Angeles. They recorded the song \"Hair\" on the Stars Kill Rock compilation for Kill Rock Stars. They also recorded a song for Yoyo Records. Their album, Dismantle, was put out on Imp and their own record label G Records in [YEAR]. Members went on to form The Butchies and Team Dresch. [BAND_NAME] broke up in [YEAR].\n",
+      "[BAND_NAME] was an [GENRE] band, started in the early [YEAR]s in Eugene, Oregon, United States, by Kaia Wilson, [PERSON_NAME_FULL_1_FEMALE], and [PERSON_NAME_FULL_0_FEMALE]. They toured alongside other riot grrrl bands. Their first single [SONG_NAME] on the Stars Kill Rock compilation for Kill Rock Stars. They also recorded a song for Yoyo Records. Their album, Dismantle, was put out on Imp and their own record label G Records in [YEAR]. Members went on to form The Butchies and Team Dresch. [BAND_NAME] broke up in [YEAR].\n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

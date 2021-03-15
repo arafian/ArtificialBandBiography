@@ -33,6 +33,14 @@
          "Laura Litter(lead vox)"
       ]
    },
+   "albums": [
+      "Pretty Killers",
+      "Put Out or Get Out",
+      "Panty Raid",
+      "Im a Mess",
+      "Awesome Fromage",
+      "Love at First Fight"
+   ],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band founded in [YEAR] in San Francisco, California.\n",
       "[BAND_NAME] formed in San Francisco in [YEAR] and released their debut album, Pretty Killers (Evil Eye Records, [YEAR]). In [YEAR], they signed to Fat Wreck Chords', Pink and Black imprint. They toured heavily to promote their second album, Put Out or Get Out. They released Panty Raid!, in [YEAR] and toured with bands such as NOFX, The Mad Caddies, The Briefs, The Real McKenzies, The Dickies and others. While on the Fat Wreck Tour of [YEAR], they won the SF Weekly Best Punk Band award. They released the EP, I'm a Mess, in [YEAR], featuring a new lineup. More touring followed. They released a few split EP's with Euro bands like OC Toons and Zinc. The band's fourth full-length album, Love At First Fight, was released in [MONTH] [YEAR]. In the latter part of [YEAR], the band split up.\n",

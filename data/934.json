@@ -31,9 +31,21 @@
          "Jeff Coffin"
       ]
    },
+   "albums": [
+      "Béla Fleck and the Flecktones",
+      "Flight of the Cosmic Hippo",
+      "UFO Tofu",
+      "Three Flew Over the Cuckoo's Nest",
+      "Left of Cool",
+      "Outbound",
+      "Little Worlds",
+      "The Hidden Land",
+      "Jingle All the Way",
+      "Rocket Science"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band that combines jazz and bluegrass music. The band's name is a play on [YEAR]s rock band Dick Dale and the Del-Tones.\n",
-      "The Flecktones formed in [YEAR] when Béla Fleck was invited to perform on the PBS TV series The Lonesome Pine Specials. The original members were Fleck on banjo, [PERSON_NAME_FULL_0_MALE] on bass guitar, his brother [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_0] on Drumitar, and Howard Levy on harmonica and keyboards. After Levy's departure in [YEAR] the group continued as a trio for several years until recruiting [PERSON_NAME_FULL_1_MALE] in [YEAR] on saxophones. [PERSON_NAME_LAST_1] quit the group in [YEAR], and Levy rejoined in [YEAR].\n",
+      "The Flecktones formed in [YEAR] when Béla Fleck was invited to perform on the PBS TV series The Lonesome Pine Specials. The original members were Fleck on banjo, [PERSON_NAME_FULL_1_MALE] on bass guitar, his brother [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_1] on Drumitar, and Howard Levy on harmonica and keyboards. After Levy's departure in [YEAR] the group continued as a trio for several years until recruiting [PERSON_NAME_FULL_0_MALE] in [YEAR] on saxophones. [PERSON_NAME_LAST_0] quit the group in [YEAR], and Levy rejoined in [YEAR].\n",
       "Near the end of his time with the New Grass Revival band, Fleck was invited to play for the Lonesome Pine Special on PBS in [YEAR], and he gathered a group of musicians to assist him. He had met Howard Levy the year before at the Winnipeg Folk Festival. [PERSON_NAME_FULL_0_MALE] auditioned over the phone and volunteered his brother Roy as a potential member.\n"
    ]
 }

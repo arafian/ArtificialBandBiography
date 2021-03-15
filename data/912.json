@@ -32,9 +32,22 @@
          "Jim Fuller"
       ]
    },
+   "albums": [
+      "Wipe Out",
+      "Play",
+      "Hit City '64",
+      "Fun City U.S.A.",
+      "Hit City '65",
+      "It Ain't Me, Babe",
+      "Surf Party! The Best of The Surfaris Live!",
+      "Basic Tracks",
+      "Wipe Out",
+      "Street Party",
+      "Hurley Sessions"
+   ],
    "prunedData": [
-      "[BAND_NAME] are an [GENRE] band formed in Glendora, California, United States, in [YEAR]. They are best known for two songs that hit the charts in the Los Angeles area, and nationally by [MONTH] [YEAR]: \"Surfer Joe\" and \"Wipe Out\", which were the A-side and B-side of the same 45 rpm single.\n",
-      "[BAND_NAME] were inducted into the Musicians Hall of Fame and Museum in [YEAR] for their hit instrumental song, \"Wipe Out\".\n",
-      "The original band members were Ron Wilson (drums, vocals), [PERSON_NAME_FULL_0_MALE] (lead guitar), Bob Berryhill (rhythm guitar), and [PERSON_NAME_FULL_1_FEMALE] (bass).\n"
+      "[BAND_NAME] are an [GENRE] band formed in Glendora, California, United States, in [YEAR]. They are best known for two songs that hit the charts in the Los Angeles area, and nationally by [MONTH] [YEAR]: [SONG_NAME], which were the A-side and B-side of the same 45 rpm single.\n",
+      "[BAND_NAME] were inducted into the Musicians Hall of Fame and Museum in [YEAR] for their hit instrumental song, [SONG_NAME].\n",
+      "The original band members were Ron Wilson (drums, vocals), [PERSON_NAME_FULL_1_MALE] (lead guitar), Bob Berryhill (rhythm guitar), and [PERSON_NAME_FULL_0_MALE] (bass).\n"
    ]
 }

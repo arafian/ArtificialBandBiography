@@ -37,8 +37,18 @@
          "Yoshiko"
       ]
    },
+   "albums": [
+      "OOIOO",
+      "Feather Float",
+      "Gold and Green",
+      "Kila Kila Kila",
+      "Taiga",
+      "Armonico Hewa",
+      "Gamel",
+      "Nijimusi"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band. It began as a fictitious band for a photo shoot for a magazine in [YEAR]. The four-piece ensemble was founded by Boredoms drummer and occasional trumpeter and vocalist Yoshimi P-We. When she was asked to do a photo shoot for a magazine she invited a few of her girlfriends to join her and created for the shoot a fake band called [BAND_NAME] which they later decided to make real. The band quickly gained attention by being the opening act for Sonic Youth in [YEAR] on their Japan tour.\n",
-      "According to AllMusic's Kieran McCarthy \"It's next to impossible to describe their sound, because — by design — it rarely follows consistent patterns\". Some of their music has been described as having \"a majestic ebb and flow that suggests natural wonders\" or a [GENRE]"
+      "According to AllMusic's Kieran McCarthy [SONG_NAME]. Either way, at any one time it may incorporate chanting and punchy drums, dancey polyrhythms atonal composition or psychedelia.\n"
    ]
 }

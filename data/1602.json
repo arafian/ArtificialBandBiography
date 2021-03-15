@@ -6,9 +6,34 @@
       "The band's 1999 release Usar y tirar went platinum, leading to the release of their 2001 Unplugged album Sin enchufe. The band released Sopa fría in 2004 under Warner Bros. and Eastwest Records.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Un buen momento",
+      "Un buen momento",
+      "Coliseum",
+      "Coliseum",
+      "Usar y tirar",
+      "Usar y tirar",
+      "Sin enchufe (Unplugged)",
+      "Sin enchufe",
+      "Defectos personales",
+      "Defectos personales",
+      "Sopa fría",
+      "Sopa fría",
+      "Retrovisión",
+      "Retrovisión",
+      "Memorias de un espantapájaros",
+      "Memorias de un espantapájaros",
+      "Para no ver el final",
+      "Para no ver el final",
+      "Arenas movedizas",
+      "Arenas movedizas",
+      "Dos noches en el Price",
+      "Dos noches en el Price",
+      "Delta"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band. The band, initially named Murciélagos Clan, was formed in Murcia, (Spain) in [YEAR] by [PERSON_NAME_FULL_0_MALE] and Ricardo Ruipérez. \n",
-      "In [MONTH] [YEAR] the band added Santiago Campillo, [PERSON_NAME_FULL_2_MALE], [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_5_MALE], under the name 'El clan de los murciélagos', (The Clan of Bats), which soon became 'M-Clan'. The band's sound was heavily influenced by Southern rock artists. The group currently consists of [PERSON_NAME_FIRST_4] Tarque (vocals), [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_1] [PERSON_NAME_LAST_0], Ricardo Ruipérez (guitar), [PERSON_NAME_FULL_4_MALE] (guitar), [PERSON_NAME_FULL_2_MALE], and [PERSON_NAME_FULL_3_MALE] 'Boli' (keyboard). \n",
+      "In [MONTH] [YEAR] the band added Santiago Campillo, [PERSON_NAME_FULL_5_MALE], [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_4_MALE], under the name 'El clan de los murciélagos', (The Clan of Bats), which soon became 'M-Clan'. The band's sound was heavily influenced by Southern rock artists. The group currently consists of [PERSON_NAME_FIRST_3] Tarque (vocals), [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_2] [PERSON_NAME_LAST_0], Ricardo Ruipérez (guitar), [PERSON_NAME_FULL_3_MALE] (guitar), [PERSON_NAME_FULL_5_MALE], and [PERSON_NAME_FULL_1_MALE] 'Boli' (keyboard). \n",
       "The band's [YEAR] release Usar y tirar went platinum, leading to the release of their [YEAR] Unplugged album Sin enchufe. The band released Sopa fría in [YEAR] under Warner Bros. and Eastwest Records.\n"
    ]
 }

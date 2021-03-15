@@ -6,8 +6,20 @@
       "They often play with various guests.\n"
    ],
    "infobox": {},
+   "albums": [
+      "The Craft Of Primitive Klezmer",
+      "Songs",
+      "Live in Karaganda",
+      "K&P / Vialka",
+      "K&P /IDM",
+      "The Craft Of Primitive Klezmer",
+      "Noize 2005",
+      "Hidden Album",
+      "Hidden Album Volume II",
+      "HYMNS"
+   ],
    "prunedData": [
-      "[BAND_NAME] (Russian: Крузенштерн и Пароход) is a [GENRE] band from Tel Aviv, created in [YEAR]. Its style is variously branded as \"experimental jazz\", \"klezmercore\" (a pun on \"hardcore\"), \"ethno jazz\", \"avant-garde\".\n",
+      "[BAND_NAME] (Russian: Крузенштерн и Пароход) is a [GENRE] band from Tel Aviv, created in [YEAR]. Its style is variously branded as [SONG_NAME].\n",
       "The core team is : \n",
       "They often play with various guests.\n"
    ]

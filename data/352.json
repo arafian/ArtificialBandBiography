@@ -25,9 +25,12 @@
          "Official The Tear Garden webpage"
       ]
    },
+   "albums": [
+      "Skinny Puppy fansite that also offers info on The Tear Garden"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band, formed by Edward Ka-Spel of The Legendary Pink Dots and cEvin Key of Skinny Puppy in [YEAR] after Key served as a sound engineer on tour in Canada for Ka-Spel. An EP, [BAND_NAME],  was released that same year. The pair have since released a number of records with the assistance of various guest musicians. Their most recent release, The Brown Acid Caveat, was released in [MONTH] [YEAR].\n",
-      "[BAND_NAME] released the album Tired Eyes Slowly Burning in [YEAR]. It featured contributions from Skinny Puppy members [PERSON_NAME_FULL_0_MALE], Nivek Ogre, and [PERSON_NAME_FULL_1_MALE]. The record featured a nearly 17 minute long track titled \"You and Me and Rainbows\", described by AllMusic's Sean Carruthers as \"monolithic... but worth every second\". A reissue of the album included the groups first EP, [BAND_NAME], with the rest of the album. Members of the Legendary Pink Dots would henceforth contribute to Tear Garden and in [YEAR] they released the full-length album The Last Man to Fly. Another EP, Sheila Liked the Rodeo, much of which was recorded during the same sessions as The Last Man to Fly, was released in [YEAR]. Only a few tracks feature Ka-Spel's vocals.\n",
+      "[BAND_NAME] released the album Tired Eyes Slowly Burning in [YEAR]. It featured contributions from Skinny Puppy members [PERSON_NAME_FULL_1_MALE], Nivek Ogre, and [PERSON_NAME_FULL_0_MALE]. The record featured a nearly 17 minute long track titled [SONG_NAME]. A reissue of the album included the groups first EP, [BAND_NAME], with the rest of the album. Members of the Legendary Pink Dots would henceforth contribute to Tear Garden and in [YEAR] they released the full-length album The Last Man to Fly. Another EP, Sheila Liked the Rodeo, much of which was recorded during the same sessions as The Last Man to Fly, was released in [YEAR]. Only a few tracks feature Ka-Spel's vocals.\n",
       "With the collapse of Skinny Puppy in [YEAR] and cEvin's primary commitment over, he and [BAND_NAME] released To Be an [PERSON_NAME_FULL_0_MALE], the Crippled Soul Divide in [YEAR], followed by Crystal Mass in [YEAR]. Crystal Mass marked a departure for the group, with more focus seemingly directed toward sound and production than the traditional staple, the lyrics. In [YEAR] a limited edition compilation of previously unreleased songs, Eye Spy with My Little Eye came out on Key's Subconscious Communications label. A best of, For Those Who Would Walk with the Gods is also available.\n"
    ]
 }

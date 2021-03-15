@@ -35,6 +35,7 @@
          "Tigg Ketler"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band. The band was formed in [YEAR] in Los Angeles, California and was signed to MCA Records the same year.\n",
       "Initially the band was founded by guitarist [MONTH]k Knight and bassist [PERSON_NAME_FULL_0_FEMALE] in [YEAR]. Knight wanted a second guitarist and recruited [PERSON_NAME_FIRST_0] Stevens. At the suggestion of Rough Cutt's Amir Derakh, vocalist [PERSON_NAME_FULL_1_MALE]' joined the band as its frontman which led to [PERSON_NAME_LAST_1]'s childhood friend, Tigg Ketler, completing the 5 piece line up as [BAND_NAME]'s drummer.\n",

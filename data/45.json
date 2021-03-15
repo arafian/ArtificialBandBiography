@@ -18,8 +18,12 @@
          "Michael Franti, Kevin Carnes, Rono Tse, Henry Flood, Andre Flores"
       ]
    },
+   "albums": [
+      "The Beatnigs",
+      "Television"
+   ],
    "prunedData": [
-      "[BAND_NAME] were an [GENRE] band, which combined hardcore punk, industrial and hip hop influences, described as \"a kind of avant-garde industrial jazz poets collective\".  The band was the initial collaboration of Michael Franti and Rono Tse, who would later form The Disposable Heroes of Hiphoprisy, and [PERSON_NAME_FULL_0_MALE] who would later form Broun Fellinis. The band's stage performance included the use of power tools such as a rotary saw on a metal bar to create industrial noise and pyrotechnics.  [BAND_NAME] released an LP  (virus065, [MONTH] [YEAR]) and 12\" EP of their most famous song, \"Television: The Drug of the Nation (virus071, remixed by [PERSON_NAME_FULL_1_MALE], Gary Clail, and [MONTH]k Stewart) on Alternative Tentacles in [YEAR].  That same year the played their NYC debut at the New Music Seminar, and recorded for the BBC's Peel Sessions.  The single was reissued by Alternative Tentacles in [YEAR], and the album was planned for a CD re-release while made available on iTunes and other digital retailers. One venue for the band was Barrington Hall.\n",
+      "[BAND_NAME] were an [GENRE] band, which combined hardcore punk, industrial and hip hop influences, described as [SONG_NAME]Television: The Drug of the Nation (virus071, remixed by [PERSON_NAME_FULL_1_MALE], Gary Clail, and [MONTH]k Stewart) on Alternative Tentacles in [YEAR].  That same year the played their NYC debut at the New Music Seminar, and recorded for the BBC's Peel Sessions.  The single was reissued by Alternative Tentacles in [YEAR], and the album was planned for a CD re-release while made available on iTunes and other digital retailers. One venue for the band was Barrington Hall.\n",
       "This article about a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

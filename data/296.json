@@ -37,9 +37,10 @@
          "Andrew Stricko"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Mission, British Columbia, formed in [YEAR]. The band consist of lead vocalist Dave Faber, lead guitarist [PERSON_NAME_FULL_0_MALE], bass guitarist Jeremy \"Krikit\" Liddle and drummer Seamus O'Neill.\n",
+      "[BAND_NAME] is a [GENRE] band from Mission, British Columbia, formed in [YEAR]. The band consist of lead vocalist Dave Faber, lead guitarist [PERSON_NAME_FULL_0_MALE], bass guitarist Jeremy [SONG_NAME] Liddle and drummer Seamus O'Neill.\n",
       "[BAND_NAME] is a four-piece [MONTH]o Award-nominated Canadian rock band from Mission, British Columbia. They have toured with bands such as Hedley, Stereos, [MONTH]ianas Trench, Simple Plan and Metro Station. They have gained a huge amount of popularity in many parts of Canada. Already well known for a local fan base, [BAND_NAME] released a limited-edition three-song EP under the band name Faber. Due to legal issues, the band changed their name to [BAND_NAME].\n",
-      "Discovered by Chad Kroeger of Nickelback and signed to his 604 Records label, [BAND_NAME] released their debut album Seven Second Surgery on [MONTH] 1, [YEAR], which was followed by the release of four singles. The band's biggest influences are U2, The Police, Def Leppard, Jimmy Eat World, Stryper and Winger. The band also featured in the American drama television series [PERSON_NAME_FULL_1_FEMALE]. Two of their songs, \"Killin' Me\" and \"Summer Fades to Fall\", had featured in the show. The band also made an appearance in episode 3.01, \"Psychic Friend\", which aired on [MONTH] 19, [YEAR]. The band's lead singer Dave [PERSON_NAME_LAST_0] is married to [PERSON_NAME_FULL_0_FEMALE] and has four kids—Faith, David Dayton, Patience and Isaiah (also known as Powfu).\n"
+      "Discovered by Chad Kroeger of Nickelback and signed to his 604 Records label, [BAND_NAME] released their debut album Seven Second Surgery on [MONTH] 1, [YEAR], which was followed by the release of four singles. The band's biggest influences are U2, The Police, Def Leppard, Jimmy Eat World, Stryper and Winger. The band also featured in the American drama television series [PERSON_NAME_FULL_0_FEMALE]. Two of their songs, [SONG_NAME], which aired on [MONTH] 19, [YEAR]. The band's lead singer Dave [PERSON_NAME_LAST_1] is married to [PERSON_NAME_FULL_1_FEMALE] and has four kids—Faith, David Dayton, Patience and Isaiah (also known as Powfu).\n"
    ]
 }

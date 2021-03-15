@@ -13,9 +13,28 @@
          "Sunny Day Real Estatecake"
       ]
    },
+   "albums": [
+      "Acorn",
+      "Coming Into Beauty",
+      "Flying Suit",
+      "Bingham's Hole",
+      "The Mommyheads",
+      "You're Not A Dream",
+      "Flying Suit",
+      "Finest Specimens",
+      "Delicate Friction",
+      "Vulnerable Boy",
+      "Soundtrack to the world’s End",
+      "Bingham’s Hole Remixed/Remastered",
+      "Future You",
+      "The Mommyheads",
+      "New Kings of Pop",
+      "Coming Into Beauty Remastered",
+      "Age of Isolation"
+   ],
    "prunedData": [
       "The [BAND_NAME] are an [GENRE] band who played from around [YEAR] through [YEAR], disbanded for a decade, and then reformed in [YEAR].  Starting in New York City as the brainchild of singer [PERSON_NAME_FIRST_0] Cohen (who later changed his name to [PERSON_NAME_FULL_0_MALE] to avoid confusion with Leonard Cohen's son, a musician also named [PERSON_NAME_FIRST_0]), the band produced a string of quirky and highly inventive releases on various independent labels, most notably Simple Machines.  Their music has been compared to XTC. They relocated to San Francisco in [YEAR].  The band signed to Geffen Records in [YEAR], producing a single album for the label before breaking up in [YEAR]. They reunited to record a new CD in [YEAR].\n",
       "[MONTH] Kotík, the original drummer for the [BAND_NAME], died on [MONTH] 13, [YEAR], after being ill with cancer for three years.\n",
-      "The first official [BAND_NAME] record, Magumbo Meatpie, was recorded in late [YEAR]. It was released in [YEAR] on the Sit and Spin label, which was run out of a [GENRE] an Ivy League drop-out. The 7\" vinyl EP featured 4 songs that were recorded by Sonic Youth's engineer Wharton Tiers and is now exceedingly rare. Three of the songs later appeared on the Fang records compilation LP Antipop: New York Underground Mix ([YEAR]). This [BAND_NAME] was a quartet, listed as \"Adam\" , \"[MONTH]\" , and \"Jude\"  and \"Tom\"  on guitar/dulcimer and bass, respectively.\n"
+      "The first official [BAND_NAME] record, Magumbo Meatpie, was recorded in late [YEAR]. It was released in [YEAR] on the Sit and Spin label, which was run out of a [GENRE] an Ivy League drop-out. The 7[SONG_NAME]  on guitar/dulcimer and bass, respectively.\n"
    ]
 }

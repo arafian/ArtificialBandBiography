@@ -24,9 +24,10 @@
          "Kwisp"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band that formed in San Francisco in the late [YEAR]s, and reformed in the [YEAR]s. They were one of the first bands to fuse rock and experimental music. Like a few other acts of the time (most notably the United States of America), they consciously tried to combine the contemporary sounds of rock with electronic instruments and avant-garde compositional ideas.\n",
-      "The original group comprised three core members: founder and bassist Louis \"Cork\" [MONTH]eschi, guitarist David [PERSON_NAME_LAST_1], and his wife, vocalist [PERSON_NAME_FULL_1_FEMALE], augmented by [PERSON_NAME_FULL_0_FEMALE] (drums) and Larry Evans (guitar).\n",
-      "Cork [MONTH]eschi (born [YEAR]) grew up in Burlingame, California. In his teens, he performed with the Ethix, who played R&B music in clubs around San Francisco and in Las Vegas, and released one experimental and wildly atonal single, \"Bad Trip\", in [YEAR], with the intention that the record could be played at any speed. Interested in the ideas of experimental composers like [PERSON_NAME_FULL_0_MALE], John Cage, [PERSON_NAME_FULL_1_MALE], and George Antheil, he constructed his own custom-made electronic instrument from a [GENRE] a cardboard tube, and a speaker from a World War II bomber.\n"
+      "The original group comprised three core members: founder and bassist Louis [SONG_NAME] [MONTH]eschi, guitarist David [PERSON_NAME_LAST_0], and his wife, vocalist [PERSON_NAME_FULL_0_FEMALE], augmented by [PERSON_NAME_FULL_1_FEMALE] (drums) and Larry Evans (guitar).\n",
+      "Cork [MONTH]eschi (born [YEAR]) grew up in Burlingame, California. In his teens, he performed with the Ethix, who played R&B music in clubs around San Francisco and in Las Vegas, and released one experimental and wildly atonal single, [SONG_NAME], in [YEAR], with the intention that the record could be played at any speed. Interested in the ideas of experimental composers like [PERSON_NAME_FULL_0_MALE], John Cage, [PERSON_NAME_FULL_1_MALE], and George Antheil, he constructed his own custom-made electronic instrument from a [GENRE] a cardboard tube, and a speaker from a World War II bomber.\n"
    ]
 }

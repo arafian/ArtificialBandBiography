@@ -30,9 +30,15 @@
          "Devon Williams"
       ]
    },
+   "albums": [
+      "Artifacts Of The Winged",
+      "Imagine Our Love",
+      "Incorruptible Heart",
+      "\"Now Is The Time\" "
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band, fronted by singer Becky Stark.\n",
-      "While living in Providence, Rhode Island, Stark began performing as [BAND_NAME] in a play that she and puppeteer Xander [MONTH]ro wrote, created and toured with called Birdsongs of the Bauharoque inspired by the work of artist [PERSON_NAME_FULL_1_MALE]. A self-produced CD of Stark's songs accompanied the tour in a hand-sewn, silkscreened sleeve. [BAND_NAME] became a duo and eventually a four-piece band after Stark relocated to Los Angeles. With the help of local patrons [PERSON_NAME_FULL_0_MALE] and Josh Scuteri, [BAND_NAME] self-released a four-song EP and performed at L.A.'s ArthurFest, at South by Southwest in Austin, Texas, and at the CMJ New Music Seminar in New York City. In [YEAR] [BAND_NAME] signed to Rough Trade Records in Europe, and Matador Records in the U.S., and toured and performed with The [MONTH]ists for three weeks.\n",
-      "In [YEAR] the band released its first full-length album, Imagine Our Love and appeared on the Madonna tribute/charity record, Through the Wilderness. In [YEAR] they covered \"Purple Rain\" for SPIN Magazine's tribute to Prince's \"Purple Rain\".\n"
+      "While living in Providence, Rhode Island, Stark began performing as [BAND_NAME] in a play that she and puppeteer Xander [MONTH]ro wrote, created and toured with called Birdsongs of the Bauharoque inspired by the work of artist [PERSON_NAME_FULL_0_MALE]. A self-produced CD of Stark's songs accompanied the tour in a hand-sewn, silkscreened sleeve. [BAND_NAME] became a duo and eventually a four-piece band after Stark relocated to Los Angeles. With the help of local patrons [PERSON_NAME_FULL_1_MALE] and Josh Scuteri, [BAND_NAME] self-released a four-song EP and performed at L.A.'s ArthurFest, at South by Southwest in Austin, Texas, and at the CMJ New Music Seminar in New York City. In [YEAR] [BAND_NAME] signed to Rough Trade Records in Europe, and Matador Records in the U.S., and toured and performed with The [MONTH]ists for three weeks.\n",
+      "In [YEAR] the band released its first full-length album, Imagine Our Love and appeared on the Madonna tribute/charity record, Through the Wilderness. In [YEAR] they covered [SONG_NAME].\n"
    ]
 }

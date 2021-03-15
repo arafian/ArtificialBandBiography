@@ -33,6 +33,11 @@
          "Willis Mathiasen"
       ]
    },
+   "albums": [
+      "Victims of Pop Culture",
+      "Lost at Sea",
+      "Dress to Kill"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Malibu, California. The band is known for their energetic live performances and extensive touring history.\n",
       "[BAND_NAME] was formed by brothers, Adam and Dave O’Rourke who shared a [GENRE] bands like Pantera and Slayer as well as Southern California punk bands such as Pennywise and Black Flag. The band released their first album Victims Of Pop Culture on Centsless Records in [YEAR].\n",

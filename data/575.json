@@ -40,9 +40,19 @@
          "Per Sjögren"
       ]
    },
+   "albums": [
+      "Contradictions Collapse",
+      "Destroy Erase Improve",
+      "Chaosphere",
+      "Nothing",
+      "Catch Thirtythree",
+      "obZen",
+      "Koloss",
+      "The Violent Sleep of Reason"
+   ],
    "prunedData": [
       "[BAND_NAME] (/məˈʃʊɡə/) Is a [GENRE] band formed in Umeå in [YEAR]. [BAND_NAME]'s current lineup consists of founding members lead vocalist Jens Kidman and lead guitarist [PERSON_NAME_FULL_2_MALE], drummer [PERSON_NAME_FULL_0_MALE] since [YEAR], rhythm guitarist [PERSON_NAME_FULL_1_MALE] since [YEAR] and bassist Dick Lövgren since [YEAR]. Since its formation, the band has released eight studio albums, six EPs and eight music videos. Their latest studio album, The Violent Sleep of Reason, was released on 7 [MONTH] [YEAR].\n",
       "[BAND_NAME] has become known for their innovative musical style and their complex, polymetered song structures and polyrhythms. They rose to fame as a [GENRE] an influence for modern metal bands, and gained a cult following. The band was labelled as one of the ten most important hard rock and heavy metal bands by Rolling Stone and as the most important band in metal by Alternative Press. In the late [YEAR]s, the band was an inspiration for the djent subgenre.\n",
-      "In [YEAR] and [YEAR], [BAND_NAME] was nominated for a Swedish Grammis Award for their albums Catch Thirtythree and obZen, respectively. In [YEAR], the band was nominated for a Grammy Award for their song \"Clockworks\" under the \"Best Metal Performance\" category. The band has performed in various international festivals, including Ozzfest and Download, and embarked on the obZen world tour from [YEAR] to [YEAR], and also the \"Ophidian Trek\".\n"
+      "In [YEAR] and [YEAR], [BAND_NAME] was nominated for a Swedish Grammis Award for their albums Catch Thirtythree and obZen, respectively. In [YEAR], the band was nominated for a Grammy Award for their song [SONG_NAME].\n"
    ]
 }

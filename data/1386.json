@@ -33,6 +33,10 @@
          "Timothy Cronin"
       ]
    },
+   "albums": [
+      "Weathervanes",
+      "Diluvia"
+   ],
    "prunedData": [
       "[BAND_NAME] was a [GENRE] band which formed in Queens, New York, United States, in [YEAR]. The band consists of frontman Judah Dadone and bandmates Chuck Criss, [PERSON_NAME_FULL_0_MALE] and Kevin Read.\n",
       "[BAND_NAME] was founded during [YEAR], after connecting through Craigslist and friends of friends. The band's debut album, Weathervanes, was largely composed by frontman Judah Dadone, the lyrics based on a [GENRE] band's name derives from that freelance atmosphere that the city has. Judah Dadone, once said: 'Everybody in New York is a freelancer of something, and we used to be too when we played in the subways'. Multi-instrumentalist [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] is the brother of actor and singer [PERSON_NAME_FULL_0_MALE].\n",

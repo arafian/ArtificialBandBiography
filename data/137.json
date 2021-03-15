@@ -45,9 +45,15 @@
          "Alex Baker"
       ]
    },
+   "albums": [
+      "Dance Hall Crashers",
+      "Lockjaw",
+      "Honey, I'm Homely!",
+      "Purr"
+   ],
    "prunedData": [
       "[BAND_NAME] (often abbreviated to DHC) is an [GENRE] band formed in [YEAR] in Berkeley, California.\n",
-      "The original incarnation of the [BAND_NAME] (named after the Alton Ellis song \"Dance Crasher\") was formed in [YEAR] by [PERSON_NAME_FULL_2_MALE] and Tim Armstrong, formerly of the seminal Bay Area ska-punk band Operation Ivy, after both musicians expressed an [GENRE] a band rooted in more traditional ska and rocksteady than what they had been playing with Operation Ivy. The first line-up featured Armstrong on vocals and [PERSON_NAME_LAST_2] on guitar, as well as drummer [PERSON_NAME_FULL_1_MALE] (whom they specifically lured away from a rocksteady band called \"The Liquidators\").  The band also featured keyboardist [PERSON_NAME_FULL_0_MALE], vocalists [PERSON_NAME_FULL_3_FEMALE] and Andrew Champion, guitarist [PERSON_NAME_FULL_4_MALE], and bassist Joel Wing.\n",
+      "The original incarnation of the [BAND_NAME] (named after the Alton Ellis song [SONG_NAME]).  The band also featured keyboardist [PERSON_NAME_FULL_3_MALE], vocalists [PERSON_NAME_FULL_2_FEMALE] and Andrew Champion, guitarist [PERSON_NAME_FULL_4_MALE], and bassist Joel Wing.\n",
       "The band experimented with various songs and styles until they played their first show at 924 Gilman Street in Berkeley in [YEAR]. Shortly after their debut, however, Freeman and Armstrong left to pursue other interests, mainly another punk-based ska project called Downfall.\n"
    ]
 }

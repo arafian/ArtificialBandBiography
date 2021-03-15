@@ -34,9 +34,18 @@
          "Mark White"
       ]
    },
+   "albums": [
+      "Whale",
+      "Slow Motion Conductor EP",
+      "The Heavy Pets",
+      "Swim Out Past The Sun",
+      "Two Horses",
+      "Rags and Aces",
+      "Stolen Smile"
+   ],
    "prunedData": [
-      "[BAND_NAME] are an [GENRE] band based in Fort Lauderdale, Florida, renowned for their funk, jazz and reggae-infused brand of rock and roll. Officially formed in [YEAR], the band tours nationwide and appears regularly on the summer music festival circuit. Currently, the group is composed of guitarists Jeff Lloyd and [PERSON_NAME_FULL_0_MALE], keyboardist [PERSON_NAME_FULL_1_MALE], bassist [PERSON_NAME_FULL_3_MALE], and drummer [PERSON_NAME_FULL_2_FEMALE]. In [YEAR] they released their second studio LP [BAND_NAME]. The album was dubbed a \"Top 10 Album of [YEAR]\" by The Huffington Post.\n",
-      "Original members Jeff Lloyd, [PERSON_NAME_FULL_0_MALE], Jesse [MONTH]giotta, and [PERSON_NAME_FULL_2_MALE] befriended each other at Goshen Central High School in upstate Goshen, New York. [PERSON_NAME_LAST_0] was in a [GENRE] band named Strep Nine when he met Lloyd. Together the quartet formed Anthem, the first iteration of their band loosely named after the [YEAR] Anthem Ayn Rand novella because they were still interested in Rush. The group practiced under several more names (such as My Friends Band) before sticking with [BAND_NAME], only to fizzle apart when members left for college. While at Syracuse University Lloyd befriended classmate and keyboardist [PERSON_NAME_FULL_1_MALE]. Lloyd and [PERSON_NAME_LAST_1] played regular gigs together with bassist Robert \"Chops\" Froehlich and Syracuse University drummer Kinyatta King under the name My Friends Band, but the group disbanded after [YEAR]. The high school crew partially regrouped after college, but remained a completely underground band.\n",
+      "[BAND_NAME] are an [GENRE] band based in Fort Lauderdale, Florida, renowned for their funk, jazz and reggae-infused brand of rock and roll. Officially formed in [YEAR], the band tours nationwide and appears regularly on the summer music festival circuit. Currently, the group is composed of guitarists Jeff Lloyd and [PERSON_NAME_FULL_1_MALE], keyboardist [PERSON_NAME_FULL_3_MALE], bassist [PERSON_NAME_FULL_2_MALE], and drummer [PERSON_NAME_FULL_0_FEMALE]. In [YEAR] they released their second studio LP [BAND_NAME]. The album was dubbed a [SONG_NAME] by The Huffington Post.\n",
+      "Original members Jeff Lloyd, [PERSON_NAME_FULL_0_MALE], Jesse [MONTH]giotta, and [PERSON_NAME_FULL_1_MALE] befriended each other at Goshen Central High School in upstate Goshen, New York. [PERSON_NAME_LAST_0] was in a [GENRE] band named Strep Nine when he met Lloyd. Together the quartet formed Anthem, the first iteration of their band loosely named after the [YEAR] Anthem Ayn Rand novella because they were still interested in Rush. The group practiced under several more names (such as My Friends Band) before sticking with [BAND_NAME], only to fizzle apart when members left for college. While at Syracuse University Lloyd befriended classmate and keyboardist [PERSON_NAME_FULL_2_MALE]. Lloyd and [PERSON_NAME_LAST_2] played regular gigs together with bassist Robert [SONG_NAME] Froehlich and Syracuse University drummer Kinyatta King under the name My Friends Band, but the group disbanded after [YEAR]. The high school crew partially regrouped after college, but remained a completely underground band.\n",
       "In [YEAR] Lloyd got a call from former Heavy Pets bassist [PERSON_NAME_FULL_0_MALE], who had moved to Fort Lauderdale, Florida to start an internet marketing company. [PERSON_NAME_LAST_0] invited him to visit, and Lloyd saw it as an opportunity to leave New York. Garulli followed, and [BAND_NAME] were officially formed. Wuest arrived soon after.\n"
    ]
 }

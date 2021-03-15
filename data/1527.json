@@ -37,9 +37,10 @@
          "Ryuichi Watanabe"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Tokyo, whose name stands for Dynamite Masters Blues Quartet.  They are influenced by British and American rock music of the early [YEAR]s, especially bands such as The Jimi Hendrix Experience, Deep Purple, and Led Zeppelin.\n",
       "Shinji Masuko is a [GENRE] a younger brother of Naozumi Masuko, who is a member of Dohatsuten.\n",
-      "Yuka Yoshimura belonged to OOIOO under the name \"Yoshico\" at the same time as [BAND_NAME] until [YEAR], and participated in Hatsuiku Status which was temporarily formed by Shiina Ringo, and now a [GENRE]"
+      "Yuka Yoshimura belonged to OOIOO under the name [SONG_NAME] at the same time as [BAND_NAME] until [YEAR], and participated in Hatsuiku Status which was temporarily formed by Shiina Ringo, and now a [GENRE]"
    ]
 }

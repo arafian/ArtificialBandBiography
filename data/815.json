@@ -6,9 +6,18 @@
       "West of Eden have toured abroad in Ireland, Belgium and the Netherlands.\n"
    ],
    "infobox": {},
+   "albums": [
+      "West of Eden",
+      "Rollercoaster",
+      "A Stupid Thing to Do",
+      "Four",
+      "The West of Eden Travelogue",
+      "Safe Crossing",
+      "Songs from Twisting River"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE]",
-      "\nThe band was formed in [YEAR] and has released seven studio albums to date. The main songwriters in the group are Jenny and [MONTH]tin Schaub. Jenny Schaub is the lead singer and accordionist. [MONTH]tin Schaub also sings and plays the guitar as well as keyboard instruments. [PERSON_NAME_FULL_0_MALE] plays the fiddle, Ola Karlevo the drums and percussion, [PERSON_NAME_FULL_1_MALE] electric and acoustic guitars and the mandolin, and [MONTH]tin Holmlund is on the bass.\n",
+      "\nThe band was formed in [YEAR] and has released seven studio albums to date. The main songwriters in the group are Jenny and [MONTH]tin Schaub. Jenny Schaub is the lead singer and accordionist. [MONTH]tin Schaub also sings and plays the guitar as well as keyboard instruments. [PERSON_NAME_FULL_1_MALE] plays the fiddle, Ola Karlevo the drums and percussion, [PERSON_NAME_FULL_0_MALE] electric and acoustic guitars and the mandolin, and [MONTH]tin Holmlund is on the bass.\n",
       "[BAND_NAME] have toured abroad in Ireland, Belgium and the Netherlands.\n"
    ]
 }

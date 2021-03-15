@@ -28,9 +28,10 @@
          "See members section"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band that formed in [YEAR] in Los Altos, California. The band went through several lineup changes during its existence. Combining psychedelic and garage rock components, their sound was marked by David Aguilar's lead vocals, songwriting,  as well as proto-punk musical arrangements. The band's rebellious musical posture made them one of the harder-edged groups of the period with many critics labeling them as America's answer to the Rolling Stones.\n",
-      "[BAND_NAME] was signed to Tower Records in [YEAR] and released their first single, \"Sweet Young Thing\", in [YEAR]. Later in the year, the band released their debut album, No Way Out. Though the album did not chart nationally, the band had a huge following in San Jose and the San Francisco Bay Area. In [YEAR], their second album, The Inner Mystique, was released and included the band's most popular song, a cover version of \"I'm Not Like Everybody Else\". By [YEAR], with [MONTH]k Loomis dropping out in the middle of the recording sessions, the band released a final album, One Step Beyond, however it did not include David Aguilar on vocals and was not as highly regarded or indicative of their past work.  [BAND_NAME] officially broke up in [YEAR] with no intent of ever reuniting again.\n",
+      "[BAND_NAME] was signed to Tower Records in [YEAR] and released their first single, [SONG_NAME]. By [YEAR], with [MONTH]k Loomis dropping out in the middle of the recording sessions, the band released a final album, One Step Beyond, however it did not include David Aguilar on vocals and was not as highly regarded or indicative of their past work.  [BAND_NAME] officially broke up in [YEAR] with no intent of ever reuniting again.\n",
       "This band should not be confused with The Chocolate Watch Band, a London-based UK group that issued two singles on [MONTH]ca Records in [YEAR].\n"
    ]
 }

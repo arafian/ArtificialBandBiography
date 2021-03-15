@@ -33,9 +33,13 @@
          "Barry Reeves"
       ]
    },
+   "albums": [
+      "We Are Ever So Clean",
+      "If Only for a Moment"
+   ],
    "prunedData": [
-      "[BAND_NAME] were a [GENRE] band active between [YEAR] and [YEAR]. Initially known as The Ingoes, they were renamed and signed to the [MONTH]malade record label of manager [PERSON_NAME_FULL_3_MALE]. The original line-up comprised [PERSON_NAME_FULL_1_MALE] (born 19 [MONTH] [YEAR], Monmouth, South Wales) (guitar, vocals, keyboards), [PERSON_NAME_FULL_4_MALE] (born James [PERSON_NAME_LAST_4], 9 [MONTH] [YEAR], Yeovil, Somerset) (guitar, vocals), [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_5] (born 25 [MONTH] [YEAR], Wigan, Lancashire) (bass, vocals), and [PERSON_NAME_FULL_0_MALE] (born [PERSON_NAME_FIRST_0] Patrick [PERSON_NAME_LAST_0], 5 [MONTH] [YEAR], [PERSON_NAME_LAST_2], [PERSON_NAME_FULL_2_MALE], Ireland (drums).\n",
-      "The band's debut album, We Are Ever So Clean is a classic example of quintessentially English psychedelia. On release, it was presented in the UK music magazine Melody Maker as \"[PERSON_NAME_FULL_0_MALE]'s Lonely Hearts Club Band\". Although not a major commercial success, tracks such as \"What On Earth\" or \"Look At Me, I'm You\" have helped give the album something of a cult period status as it is unearthed by successive generations of [YEAR]s retro fans. It was included in Record Collector's list of the \"100 Greatest Psychedelic Records\".\n",
-      "If Only For A Moment saw the band taking a [GENRE] a prominent role. At this point Westlake left, and was replaced by John \"Poli\" Palmer, and then Barry Reeves.\n"
+      "[BAND_NAME] were a [GENRE] band active between [YEAR] and [YEAR]. Initially known as The Ingoes, they were renamed and signed to the [MONTH]malade record label of manager [PERSON_NAME_FULL_4_MALE]. The original line-up comprised [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_5] (born 19 [MONTH] [YEAR], Monmouth, South Wales) (guitar, vocals, keyboards), [PERSON_NAME_FULL_0_MALE] (born James [PERSON_NAME_LAST_0], 9 [MONTH] [YEAR], Yeovil, Somerset) (guitar, vocals), [PERSON_NAME_FULL_2_MALE] (born 25 [MONTH] [YEAR], Wigan, Lancashire) (bass, vocals), and [PERSON_NAME_FULL_1_MALE] (born [PERSON_NAME_FIRST_1] Patrick [PERSON_NAME_LAST_1], 5 [MONTH] [YEAR], [PERSON_NAME_LAST_3], [PERSON_NAME_FULL_3_MALE], Ireland (drums).\n",
+      "The band's debut album, We Are Ever So Clean is a classic example of quintessentially English psychedelia. On release, it was presented in the UK music magazine Melody Maker as [SONG_NAME].\n",
+      "If Only For A Moment saw the band taking a [GENRE] a prominent role. At this point Westlake left, and was replaced by John [SONG_NAME] Palmer, and then Barry Reeves.\n"
    ]
 }

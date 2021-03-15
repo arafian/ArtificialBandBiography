@@ -37,9 +37,25 @@
          "Emilio Muñoz"
       ]
    },
+   "albums": [
+      "Noches como ésta",
+      "Vámonos",
+      "Cuando brille el Sol",
+      "Al otro lado",
+      "Contra reloj",
+      "Acento del sur",
+      "Canciones en el equipaje",
+      "Ahora (disco en directo)",
+      "Mil calles llevan hacia ti (1983-2005)",
+      "Sobre ruedas",
+      "25 años no es nada",
+      "Tumbado al borde de la luna",
+      "Buena gente]]",
+      "Por la cara"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band. They were especially famous in the late [YEAR]s and early [YEAR]s, although they are still active today (after a hiatus). They have sold more than 2 million records.\n",
-      "The group was founded in Granada in [YEAR] by [PERSON_NAME_FULL_0_MALE] (voice), [PERSON_NAME_FULL_1_MALE] \"Conejo\" (bass guitar) and Carlos Gilabert (keyboard), with the initial name of \"La guardia del Cardenal Richelieu\" (\"Cardinal Richelieu's Guard\"). They were only teenagers and they adopted this name because they used to rehearse in the afternoons after they watched Dogtanian and the Three Muskehounds on TV.\n",
-      "Under this name they released a [GENRE] band, and [PERSON_NAME_FULL_0_MALE] (guitar) and [PERSON_NAME_FULL_1_MALE] (drums) joined it, giving birth to the band's most famous line-up. They moved to Madrid, where the Movida was still ebullient, looking for broader success, and in [YEAR], they recorded an EP, now as [BAND_NAME], after winning the Villablanca pop-rock festival in the town of Fuengirola.\n"
+      "The group was founded in Granada in [YEAR] by [PERSON_NAME_FULL_1_MALE] (voice), [PERSON_NAME_FULL_0_MALE] [SONG_NAME]). They were only teenagers and they adopted this name because they used to rehearse in the afternoons after they watched Dogtanian and the Three Muskehounds on TV.\n",
+      "Under this name they released a [GENRE] band, and [PERSON_NAME_FULL_1_MALE] (guitar) and [PERSON_NAME_FULL_0_MALE] (drums) joined it, giving birth to the band's most famous line-up. They moved to Madrid, where the Movida was still ebullient, looking for broader success, and in [YEAR], they recorded an EP, now as [BAND_NAME], after winning the Villablanca pop-rock festival in the town of Fuengirola.\n"
    ]
 }

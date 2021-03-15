@@ -26,9 +26,10 @@
          "Conrad Uno, Jon Auer"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] is the debut single by Seattle-based rock band Love Battery, released in [YEAR]. In [YEAR] and [YEAR], the release was expanded and reissued as an [GENRE]",
-      "The single landed at #36 on Paste's list of the \"50 Best Grunge Songs\"; Paste called the LP \"a stripped-down, gut-churning collection of gritty guitars and vox.\" The Stranger wrote that the LP, and its follow-up, Dayglo, \"remain psychedelic twin towers\" in the catalog of Sub Pop.\n",
+      "The single landed at #36 on Paste's list of the [SONG_NAME] in the catalog of Sub Pop.\n",
       "All songs written by Love Battery (except where noted).\n"
    ]
 }

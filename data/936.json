@@ -23,6 +23,17 @@
          "Jeremy Salken (drums)"
       ]
    },
+   "albums": [
+      "Fire It Up",
+      "Wide Awake",
+      "A Place Behind the Moon",
+      "Nocturnal",
+      "The Night Is Young",
+      "Brighter Future",
+      "Brighter Future Remixed",
+      "Brighter Future Deluxe",
+      "Free Your Mind"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE]",
       "They have played at a wide range of music festivals, including Coachella Valley Music and Arts Festival, Lollapalooza, Ultra Music Festival, Hangout Music Festival, Austin City Limits, Governors Ball Music Festival, Electric Forest Festival, Outside Lands, and Bonnaroo, among others. Every [MONTH] since [YEAR] [BAND_NAME] has sold out their own headlining festival, Rowdytown at Red Rocks Amphitheatre in Morrison, Colorado.\n",

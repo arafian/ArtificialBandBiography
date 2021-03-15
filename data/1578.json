@@ -5,6 +5,19 @@
       "Dixebra was founded in 1987 in the Asturian city of Avilés with the idea of creating a rock band that would use the Asturian language in their lyrics with the aim of creating music that reflects the multiple realities of the country. The word dixebra is an Asturian word meaning division, isolation, independence... It has been traditionally used in the political rhetoric of Asturian nationalism. The band has a unique style, based on rock but mixing influences from a variety of modern genres (punk, reggae, ska, hip hop, funk...) and Asturian folk music.\n"
    ],
    "infobox": {},
+   "albums": [
+      "Grieska",
+      "¿Asturies o trabayes?",
+      "Apúntate a la llista",
+      "Dieron en duru",
+      "Glaya un país",
+      "Sube la marea",
+      "Cróniques d'un pueblu",
+      "Ensin novedá",
+      "N'acción",
+      "Amor incendiariu",
+      "Tiempos modernos"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Asturias, Spain. \n",
       "[BAND_NAME] was founded in [YEAR] in the Asturian city of Avilés with the idea of creating a [GENRE] band that would use the Asturian language in their lyrics with the aim of creating music that reflects the multiple realities of the country. The word dixebra is an Asturian word meaning division, isolation, independence... It has been traditionally used in the political rhetoric of Asturian nationalism. The band has a unique style, based on [GENRE] but mixing influences from a variety of modern genres (punk, reggae, ska, hip hop, funk...) and Asturian folk music.\n"

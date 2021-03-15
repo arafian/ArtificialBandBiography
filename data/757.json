@@ -28,9 +28,10 @@
          "Vixen, Jaded, Alejandro Sanz, Jason Derulo, Rachel Platten, Paradise Kitty"
       ]
    },
+   "albums": [],
    "prunedData": [
       "Brittany Denaro (born [MONTH] 2, [YEAR]), best known as [BAND_NAME], is the lead guitarist for the band Vixen.\n",
       "From [YEAR] to [YEAR], Lightning performed in Jaded, an [GENRE] band released two albums, the latter including tracks produced by legendary producer Gary Katz (Steely Dan). Jaded was a staple band in the Locobazooka, Rock 101 and WAAF festivals, and the New Jersey KISS Expos. In [YEAR], the band toured Europe in support of W.A.S.P.\n",
-      "In [YEAR], Lightning joined the New York-based rock musical Chix6 as the character and guitar player \"Lick,\" which ran at the Queens Theatre.\n"
+      "In [YEAR], Lightning joined the New York-based rock musical Chix6 as the character and guitar player [SONG_NAME] which ran at the Queens Theatre.\n"
    ]
 }

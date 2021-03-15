@@ -25,9 +25,12 @@
          "T-Bag Tone"
       ]
    },
+   "albums": [
+      "Ounce of Self"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in Los Angeles, California, gaining most of their fame from performances at The Knitting Factory in New York City, as well from featuring one of their songs, \"Drink Up\" in the Xbox 360 version of the music video game Guitar Hero II. The Guitar Hero II version of \"Drink Up\" was remade due to the content in the lyrics. On their home page, the band claims several influences as Black Sabbath, Pantera, Alice in Chains and Megadeth.\n",
-      "1. \"Nervous Wreck\"\n2. \"Patterns Of Ignorance\"\n3. \"Drink Up\"\n4. \"Letting It Go\"\n5. \"Song For A Broken Masque\"\n6. \"Ounce Of Self\"\n7. \"It Holds Nothing\"\n8. \"On Me\"\n9. \"Social Ill At Ease\"\n10. \"Spare\"\n11. \"Preachers Life\"\n12. \"Blind Eyes\"\n",
+      "[BAND_NAME] is an [GENRE] band formed in Los Angeles, California, gaining most of their fame from performances at The Knitting Factory in New York City, as well from featuring one of their songs, [SONG_NAME] was remade due to the content in the lyrics. On their home page, the band claims several influences as Black Sabbath, Pantera, Alice in Chains and Megadeth.\n",
+      "1. [SONG_NAME]\n2. [SONG_NAME]\n3. [SONG_NAME]\n4. [SONG_NAME]\n5. [SONG_NAME]\n6. [SONG_NAME]\n7. [SONG_NAME]\n8. [SONG_NAME]\n9. [SONG_NAME]\n10. [SONG_NAME]\n11. [SONG_NAME]\n12. [SONG_NAME]\n",
       "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

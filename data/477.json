@@ -32,9 +32,15 @@
          "Micah Labrosse"
       ]
    },
+   "albums": [
+      "Tension",
+      "The Covering",
+      "Oceans of Change",
+      "Carry Me, Bury Me"
+   ],
    "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in Denver, Colorado, United States. [BAND_NAME] is Aaron Watkins (Vocals), And Rob “Los” McDonough (Bass). Earning a #1 [PERSON_NAME_FULL_0_MALE] single, for eight weeks straight, with Tension, two Top 25 Billboard Mainstream [PERSON_NAME_LAST_0] singles, along with six Top 5 Billboard [PERSON_NAME_FIRST_0] rock singles. The band has worked with [PERSON_NAME_FULL_1_MALE] (Memphis [MONTH] Fire), Josiah Prince (Disciple), [PERSON_NAME_FULL_2_MALE] (Skillet), co-headlined two major European festivals; Loud & Proud & Christmas [PERSON_NAME_LAST_0] Night, featured on the \"Today In Nashville Show\",  MTV's “Made,” multiple stops on the Vans Warped Tour and [PERSON_NAME_FIRST_0] music’s top rock outing, the City [PERSON_NAME_LAST_0] Fest Tour. [BAND_NAME] continues to be a mainstay on national tours and festivals around the country and internationally.\n",
+      "[BAND_NAME] is an [GENRE] band formed in Denver, Colorado, United States. [BAND_NAME] is Aaron Watkins (Vocals), And Rob “Los” McDonough (Bass). Earning a #1 [PERSON_NAME_FULL_2_MALE] single, for eight weeks straight, with Tension, two Top 25 Billboard Mainstream [PERSON_NAME_LAST_2] singles, along with six Top 5 Billboard [PERSON_NAME_FIRST_2] rock singles. The band has worked with [PERSON_NAME_FULL_0_MALE] (Memphis [MONTH] Fire), Josiah Prince (Disciple), [PERSON_NAME_FULL_1_MALE] (Skillet), co-headlined two major European festivals; Loud & Proud & Christmas [PERSON_NAME_LAST_2] Night, featured on the [SONG_NAME],  MTV's “Made,” multiple stops on the Vans Warped Tour and [PERSON_NAME_FIRST_2] music’s top rock outing, the City [PERSON_NAME_LAST_2] Fest Tour. [BAND_NAME] continues to be a mainstay on national tours and festivals around the country and internationally.\n",
       "Discography includes The Breakdown EP, Carry Me, Bury Me, Oceans of Change and The Covering. Their latest release Tension (Rockfest Records) is the band’s largest release to date, providing a musical foundation squarely focused on elevating [BAND_NAME]’s urgent message of hope and healing.\n",
-      "[BAND_NAME] started in [YEAR]. With original members [PERSON_NAME_FIRST_1]ua [PERSON_NAME_LAST_1], [PERSON_NAME_FULL_2_MALE], Robert Higdon (Drums), [PERSON_NAME_FULL_0_MALE] (Keyboards) and Kat Barnes (Vocalist).  In the early years, the band was gaining a lot of recognition, being compared to Evanescence due to Kat Barnes' haunting vocals, alongside [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_1_MALE]'s orchestral- based powerhouse writing.\n"
+      "[BAND_NAME] started in [YEAR]. With original members [PERSON_NAME_FIRST_1]ua [PERSON_NAME_LAST_1], [PERSON_NAME_FULL_0_MALE], Robert Higdon (Drums), [PERSON_NAME_FULL_2_MALE] (Keyboards) and Kat Barnes (Vocalist).  In the early years, the band was gaining a lot of recognition, being compared to Evanescence due to Kat Barnes' haunting vocals, alongside [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_1_MALE]'s orchestral- based powerhouse writing.\n"
    ]
 }

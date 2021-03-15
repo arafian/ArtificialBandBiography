@@ -31,6 +31,11 @@
          "Kat Ouano"
       ]
    },
+   "albums": [
+      "One",
+      "Earthtones",
+      "The Day After Forever"
+   ],
    "prunedData": [
       "[BAND_NAME] is a [GENRE] band from Oakland, California, by way of Boston, Massachusetts and Pasadena. Formerly known as Mission, the name under which they released their first album, they play old school hip hop music with live instrumentation (similar to other hip hop groups like: Gym Class Heroes, The Roots, N.E.R.D, and Stetsasonic). They have been compared to groups such as: A Tribe Called Quest, The Roots, and De La Soul. In [YEAR], the group released their third album, The Day After Forever.\n"
    ]

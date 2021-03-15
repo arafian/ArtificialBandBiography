@@ -43,9 +43,18 @@
          "Dale Jennings"
       ]
    },
+   "albums": [
+      "Shot Forth Self Living",
+      "The Buried Life",
+      "Her Highness",
+      "The Mechanical Forces of Love",
+      "To the Happy Few",
+      "Home Everywhere",
+      "Scarred for Life"
+   ],
    "prunedData": [
       "[BAND_NAME] are an [GENRE] band, formed in Los Angeles, California in [YEAR] by guitarist/keyboardist Brad Laner.\n",
-      "They are perhaps best known for their cameo appearance in the [YEAR] film The Crow, in which they performed \"Time Baby II\", although the soundtrack album included a different version titled \"Time Baby III\" (featuring guest vocals from the Cocteau Twins' Elizabeth Fraser).\n",
-      "[BAND_NAME] was formed by ex-Savage Republic drummer Brad Laner, based on some 4-track recordings Laner was working on in [YEAR]. After playing the tapes for music industry representatives, he was told that if he formed a [GENRE] a record deal. Laner then assembled a band of musicians from the Los Angeles music scene. [BAND_NAME]'s early lineup included Laner, drummer [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_2] (Severed Head in a Bag, Jon Wayne, Lopez Beatles), guitarist [PERSON_NAME_FULL_1_MALE], bassist [PERSON_NAME_FULL_0_MALE] and singer [PERSON_NAME_FULL_4_FEMALE] (an original member of the Bangles). [PERSON_NAME_LAST_4] left before any official releases and was replaced by former Fourwaycross singer Beth Thompson. On the basis of the original demo, the band were signed to Creation Records, becoming the first American band to do so. In America, [BAND_NAME] signed to [PERSON_NAME_FULL_3_MALE]'s American Recordings label in [YEAR]. With a signature guitar tone, created by running Laner's guitar through a Yamaha 4-track recorder, [BAND_NAME]'s music managed to distinguish itself from some of the more ambiguous endeavors of the shoegaze movement.\n"
+      "They are perhaps best known for their cameo appearance in the [YEAR] film The Crow, in which they performed [SONG_NAME] (featuring guest vocals from the Cocteau Twins' Elizabeth Fraser).\n",
+      "[BAND_NAME] was formed by ex-Savage Republic drummer Brad Laner, based on some 4-track recordings Laner was working on in [YEAR]. After playing the tapes for music industry representatives, he was told that if he formed a [GENRE] a record deal. Laner then assembled a band of musicians from the Los Angeles music scene. [BAND_NAME]'s early lineup included Laner, drummer [PERSON_NAME_FULL_0_MALE] (Severed Head in a Bag, Jon Wayne, Lopez Beatles), guitarist [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_3], bassist [PERSON_NAME_FULL_4_MALE] and singer [PERSON_NAME_FULL_1_FEMALE] (an original member of the Bangles). [PERSON_NAME_LAST_1] left before any official releases and was replaced by former Fourwaycross singer Beth Thompson. On the basis of the original demo, the band were signed to Creation Records, becoming the first American band to do so. In America, [BAND_NAME] signed to [PERSON_NAME_FULL_2_MALE]'s American Recordings label in [YEAR]. With a signature guitar tone, created by running Laner's guitar through a Yamaha 4-track recorder, [BAND_NAME]'s music managed to distinguish itself from some of the more ambiguous endeavors of the shoegaze movement.\n"
    ]
 }

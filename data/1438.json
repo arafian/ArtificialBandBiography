@@ -25,9 +25,10 @@
          " Rehan Akhtar"
       ]
    },
+   "albums": [],
    "prunedData": [
-      "[BAND_NAME] (Urdu: ایسٹا لیویو‎) is a [GENRE] band from Lahore, Punjab. The band's name literally means \"It's alive\".\n",
-      "The band was created by lead singer [PERSON_NAME_FULL_2_MALE] in [YEAR] in the UK while bass guitarist [PERSON_NAME_FULL_1_MALE], lead guitarist [PERSON_NAME_FULL_0_MALE] and rhythm guitarist Sheraz Arif joined the band when [PERSON_NAME_FIRST_2] moved to Pakistan in [YEAR]. \nSince its inception, the band has been recording original music and has performed all over Lahore and on a [GENRE] band has also appeared numerous times on TV channels including PTV World, Dunya TV and A-Plus Entertainment.\n",
+      "[BAND_NAME] (Urdu: ایسٹا لیویو‎) is a [GENRE] band from Lahore, Punjab. The band's name literally means [SONG_NAME].\n",
+      "The band was created by lead singer [PERSON_NAME_FULL_0_MALE] in [YEAR] in the UK while bass guitarist [PERSON_NAME_FULL_2_MALE], lead guitarist [PERSON_NAME_FULL_1_MALE] and rhythm guitarist Sheraz Arif joined the band when [PERSON_NAME_FIRST_0] moved to Pakistan in [YEAR]. \nSince its inception, the band has been recording original music and has performed all over Lahore and on a [GENRE] band has also appeared numerous times on TV channels including PTV World, Dunya TV and A-Plus Entertainment.\n",
       "The band's first single 'Aakheya See' was launched with a video in [MONTH] [YEAR] and received heavy radio play while being broadcast on heavy rotation on major television channels in Pakistan. \nOther music from the band that has gained popularity due to live performances includes original tracks like Jogiya, Poocho, Wekh Tamasha, Akhiyaan and Kya Chahtey Ho while the band is also known for performing unique covers of mainstream artists like Lady Gaga and Britney Spears.\n"
    ]
 }

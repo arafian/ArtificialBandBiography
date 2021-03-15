@@ -25,9 +25,10 @@
          "Nathanael Keefer"
       ]
    },
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] were an [GENRE] band based in Los Angeles, California, United States. Until [YEAR], they were signed to V2 Records in North America (reportedly signed by former Black Flag and Circle Jerks frontman Keith Morris).\n They released a five-song EP in [YEAR], which featured guest vocals by [PERSON_NAME_FULL_0_MALE] of Buzzcocks on two songs; and their debut LP, A New Language, was released in [YEAR].\n",
-      "The band was made up of Ryan George (vocals), [PERSON_NAME_FULL_0_MALE] (drums), Drew Bayers (guitar) and [PERSON_NAME_FULL_1_MALE] (bass). George and [PERSON_NAME_LAST_0] originally met as Central Coast teenagers, through George'sstraight edge hardcore punk band Carry On, with whom [PERSON_NAME_LAST_0] later played drums. [PERSON_NAME_LAST_0] later left Carry On and moved to Los Angeles, and George followed suit shortly after the release of their LP A Life Less Plagued.\n",
-      "Their relationship with the Buzzcocks began when Pete Shelley met the band at their first New York City show in [YEAR]. The most obvious and frequently cited source of the band's name is The Stone Roses song \"I Wanna Be Adored.\"\n"
+      "The band was made up of Ryan George (vocals), [PERSON_NAME_FULL_1_MALE] (drums), Drew Bayers (guitar) and [PERSON_NAME_FULL_0_MALE] (bass). George and [PERSON_NAME_LAST_1] originally met as Central Coast teenagers, through George'sstraight edge hardcore punk band Carry On, with whom [PERSON_NAME_LAST_1] later played drums. [PERSON_NAME_LAST_1] later left Carry On and moved to Los Angeles, and George followed suit shortly after the release of their LP A Life Less Plagued.\n",
+      "Their relationship with the Buzzcocks began when Pete Shelley met the band at their first New York City show in [YEAR]. The most obvious and frequently cited source of the band's name is The Stone Roses song [SONG_NAME]\n"
    ]
 }

@@ -35,9 +35,13 @@
          "Ben Wallick"
       ]
    },
+   "albums": [
+      "Rise Above",
+      "The Passage"
+   ],
    "prunedData": [
       "[BAND_NAME] is an [GENRE] band from Long Island, New York. Formed in [YEAR], the group won Battle of the Bands competitions at Yeshiva University and Lander College before recording two studio albums, Rise Above ([YEAR]) and The Passage ([YEAR]). Their name is a quote from the Uva Letzion prayer in Shacharis.\n",
-      "[BAND_NAME] formed in the summer of [YEAR] with lead singer [PERSON_NAME_FULL_1_MALE], guitarist Michael Shapiro, bassist Dovi Salamon, and drummer Michael Moskowitz. They would often meet at [PERSON_NAME_LAST_1]'s house for rehearsals on Motza'ei Shabbat. After Salamon left to attend Yeshivat Sha'alvim in Israel, [PERSON_NAME_FULL_0_MALE] was chosen to replace him as bassist.\n",
+      "[BAND_NAME] formed in the summer of [YEAR] with lead singer [PERSON_NAME_FULL_0_MALE], guitarist Michael Shapiro, bassist Dovi Salamon, and drummer Michael Moskowitz. They would often meet at [PERSON_NAME_LAST_0]'s house for rehearsals on Motza'ei Shabbat. After Salamon left to attend Yeshivat Sha'alvim in Israel, [PERSON_NAME_FULL_1_MALE] was chosen to replace him as bassist.\n",
       "In [MONTH] [YEAR], the band co-headlined a [GENRE] band Heedoosh. That same year, they won Lander College and Yeshiva University's Battle of the Bands contests and gave an NCSY-sponsored Sukkot concert in Savannah, Georgia. Their debut album, Rise Above, was produced by [PERSON_NAME_FULL_0_MALE] and released on [MONTH] 11, [YEAR] by Sameach Music. The band performed at the [YEAR] Celebrate Israel Parade's Summer Stage in Central Park alongside the Piamenta Band, among others. Their second album, The Passage, co-produced by Kunstler and [PERSON_NAME_LAST_0], was released by Sameach on [MONTH] 30, [YEAR].\n"
    ]
 }

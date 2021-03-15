@@ -6,9 +6,10 @@
       "They were soon scouted by an A&R man from RCA, and subsequently signed to that label towards the end of 1966.\n"
    ],
    "infobox": {},
+   "albums": [],
    "prunedData": [
       "[BAND_NAME] was an [GENRE] band from San Jose, California.\n",
-      "The band was formed in [YEAR] by guitarist Roger Hedge, bass player [PERSON_NAME_FULL_1_MALE], guitarist Bob Rominger, and drummer [PERSON_NAME_FULL_0_MALE]. The band was initially named \"The Trolls.\" All four members were vocalists, and, for its time, the group had an [GENRE] a [PERSON_NAME_LAST_1] tune, \"Walkin' Shoes\" which sold out in a matter of weeks in San Jose.\n",
+      "The band was formed in [YEAR] by guitarist Roger Hedge, bass player [PERSON_NAME_FULL_0_MALE], guitarist Bob Rominger, and drummer [PERSON_NAME_FULL_1_MALE]. The band was initially named [SONG_NAME] which sold out in a [GENRE]",
       "They were soon scouted by an A&R man from RCA, and subsequently signed to that label towards the end of [YEAR].\n"
    ]
 }
