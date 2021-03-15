@@ -12,7 +12,6 @@ import nltk
 import pickle
 from nameparser.parser import HumanName
 from nltk.corpus import wordnet
-# import names
 import gender_guesser.detector as gender
 import calendar
 import names
@@ -218,51 +217,35 @@ def replace_genre(texts):
 def replace_songs(texts):
     return_texts = []
     for text in texts:
-        text = re.sub('\[SONG_NAME\]',  "\"" + random_song_name() + "\"", text)
-        return_texts.append(text)
+        try:
+            text = re.sub('\[SONG_NAME\]',  "\"" + random_song_name() + "\"", text)
+            return_texts.append(text)
+        except:
+           return_texts.append(text)
     return return_texts
 
 def replace_albums(texts):
     return_texts = []
     for text in texts:
-        text = re.sub('\[ALBUM_NAME\]', random_song_name(), text)
-        return_texts.append(text)
+        try:
+            text = re.sub('\[ALBUM_NAME\]', random_song_name(), text)
+            return_texts.append(text)
+        except:
+            return_texts.append(text)
     return return_texts
 
-# In[14]:
-
-
-with open('data/consolidatedData.json', 'r', encoding='utf-8') as inf:
-    paras = json.load(inf)
-
-#with open('data/0.json', 'r', encoding='utf-8') as inf:
-#    data = json.load(inf)
-para = paras['allPrunedParaComplete'][3]
-print(para)
-print("")
-new_name, para = replace_band_name(para)
-para = replace_years(para)
-para = replace_months(para)
-para = replace_genre(para)
-para = replace_albums(para)
-#para = replace_songs(para)
-para_new = []
-for p in para:
-    para_new.append(re.sub('\[|\]', '', p)) # need to get rid of brackets to be able to replace names using re.sub
-para = para_new
-para = replace_person_names(para)
-print(para)
 
 
 # In[ ]:
 
 def replace(texts):
+    texts = replace_albums(texts)
+    texts = replace_songs(texts)
     new_name, texts = replace_band_name(texts)
     texts = replace_years(texts)
     texts = replace_months(texts)
     texts = replace_genre(texts)
-    #texts = replace_albums(texts)
-    #texts = replace_songs(texts)
+
     texts_new = []
     for t in texts:
         texts_new.append(re.sub('\[|\]', '', t)) # need to get rid of brackets to be able to replace names using re.sub
