@@ -15,7 +15,7 @@ from nltk.corpus import wordnet
 # import names
 import gender_guesser.detector as gender
 import calendar
-
+import names
 
 # ## Replace Band Name
 
@@ -105,80 +105,57 @@ def replace_months(texts):
 
     return return_texts
 
-# ## Replace Names (doesn't work currently)
-# https://stackoverflow.com/questions/20290870/improving-the-extraction-of-human-names-with-nltk
-# Shivansh bhandari's answer
+# ## Replace Names 
 
-# In[8]:
+def replace_person_names(texts):
+    return_texts = []
+    for text in texts:
+        full_name_genders = {}
+        for k in re.findall('PERSON_NAME_FULL_._(?:MALE|FEMALE)', text):
+            if k[-6:] == 'FEMALE':
+                full_name_genders[k] = 'female'
+            else:
+                full_name_genders[k] = 'male'
 
+        full_name_replacements = {}
+        for k,v in full_name_genders.items():
+            full_name_replacements[k] = names.get_full_name(gender=v)
+            
+        # replace full names
+        for k,v in full_name_replacements.items():
+            text = re.sub(k, v, text) 
 
-# person_list = []
-# person_names=person_list
-# def get_human_names(text):
-#     tokens = nltk.tokenize.word_tokenize(text)
-#     pos = nltk.pos_tag(tokens)
-#     sentt = nltk.ne_chunk(pos, binary = False)
+        # replace last names
+        for k in re.findall('PERSON_NAME_LAST_.', text):
+            # get corresponding last name from full names by person number
+            last_name = None
+            for name_key in full_name_replacements.keys():
+                person_num = k[-1]
+                if person_num in name_key:
+                    last_name = full_name_replacements[name_key].split()[1]
+                    
+            if last_name:
+                text = re.sub(k, last_name, text)
+            else:
+                text = re.sub(k, random.choice(['Ngo', 'Movva', 'Rafian', 'Jain']), text) # easter egg
+                
+        # replace first names
+        for k in re.findall('PERSON_NAME_FIRST_.', text):
+            # get corresponding first name from full names by person number
+            first_name = None
+            for name_key in full_name_replacements.keys():
+                person_num = k[-1]
+                if person_num in name_key:
+                    first_name = full_name_replacements[name_key].split()[0]
+                    
+            if first_name:
+                text = re.sub(k, first_name, text)
+            else:
+                text = re.sub(k, random.choice(['James', 'Mani', 'Arman', 'Ishaan']), text) # easter egg
+            
+        return_texts.append(text)
 
-#     person = []
-#     name = ""
-#     for subtree in sentt.subtrees(filter=lambda t: t.label() == 'PERSON'):
-#         for leaf in subtree.leaves():
-#             person.append(leaf[0])
-#         if len(person) > 1: #avoid grabbing lone surnames
-#             for part in person:
-#                 name += part + ' '
-#             if name[:-1] not in person_list:
-#                 person_list.append(name[:-1])
-#             name = ''
-#         person = []
-# #     print (person_list)
-
-# names_ = get_human_names(text)
-# for person in person_list:
-#     person_split = person.split(" ")
-#     for name in person_split:
-#         if wordnet.synsets(name):
-#             if(name in person):
-#                 person_names.remove(person)
-#                 break
-
-# print(person_names)
-
-
-# TODO: function to replace names with autogen names
-# maybe create dict that matches old to new
-# also need to replace last names as well as first names (maybe first names too?)
-# i think can replace all full names, then can look for last or first because shouldn't be an issue that we already replaced some
-
-# In[24]:
-
-
-# name_genders = {}
-# d = gender.Detector()
-# for name in person_names:
-#     g = d.get_gender(name.split()[0])
-#     print(name, g)
-#     if g == 'male' or g == 'female':
-#         name_genders[name] = g
-# name_genders
-
-
-# # In[25]:
-
-
-# name_replacements = {}
-# for k,v in name_genders.items():
-#     name_replacements[k] = names.get_full_name(gender=v)
-# name_replacements
-
-
-# # In[26]:
-
-
-# for k,v in name_replacements.items():
-#     text = re.sub(k.split()[0], v.split()[0], text) # replace first name
-#     text = re.sub(k.split()[1], v.split()[1], text) # replace last name
-
+    return return_texts
 
 # ## Replace Genre
 
@@ -222,23 +199,34 @@ with open('data/consolidatedData.json', 'r', encoding='utf-8') as inf:
 #with open('data/0.json', 'r', encoding='utf-8') as inf:
 #    data = json.load(inf)
     
-para = paras['allPrunedParaComplete'][3]
-print(para)
-print("")
-new_name, para = replace_band_name(para)
-para = replace_years(para)
-para = replace_months(para)
-para = replace_genre(para)
-print(para)
+# para = paras['allPrunedParaComplete'][3]
+# print(para)
+# print("")
+# new_name, para = replace_band_name(para)
+# para = replace_years(para)
+# para = replace_months(para)
+# para = replace_genre(para)
+# para_new = []
+# for p in para:
+#     para_new.append(re.sub('\[|\]', '', p)) # need to get rid of brackets to be able to replace names using re.sub
+# para = para_new
+# para = replace_person_names(para)
+# print(para)
 
 
 # In[ ]:
 
 def replace(texts):
-   new_name, texts = replace_band_name(texts)
-   texts = replace_years(texts)
-   texts = replace_months(texts)
-   texts = replace_genre(texts)
-   return texts, new_name
+    new_name, texts = replace_band_name(texts)
+    texts = replace_years(texts)
+    texts = replace_months(texts)
+    texts = replace_genre(texts)
+    texts_new = []
+    for t in texts:
+        texts_new.append(re.sub('\[|\]', '', t)) # need to get rid of brackets to be able to replace names using re.sub
+
+    texts = texts_new
+    texts = replace_person_names(texts)
+    return texts, new_name
 
 
