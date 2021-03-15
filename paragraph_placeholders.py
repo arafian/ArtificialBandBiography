@@ -22,12 +22,12 @@ def band_placeholder(data, texts):
     band_name = data['Name']
     if '(' in band_name: # some bands have disambiguation in the title such as "Mother Earth (American band)"
         band_name = ' '.join(band_name.split(' (')[:-1])
-        
+
     return_texts = []
     for text in texts:
         text = re.sub(band_name, '[BAND_NAME]', text)
         return_texts.append(text)
-        
+
     return return_texts
 
 """## Year Placeholder"""
@@ -143,7 +143,7 @@ def person_name_placeholder(data, texts):
             return_texts.append(text)
         texts = return_texts
         i += 1
-        
+
     return texts
 
 """## Genre Placeholder
@@ -187,11 +187,13 @@ def get_paragraph_placeholders(data):
     texts = year_placeholder(texts)
     texts = month_placeholder(texts)
     texts = person_name_placeholder(data, texts)
+    texts = album_placeholders(data["albums"], texts)
+    texts = song_placeholders(texts)
     try:
         texts = genre_placeholder(texts)
     except:
         pass
-    return texts    
+    return texts
 
 
 # print(get_paragraph_placeholder('data/1599.json'))
@@ -203,13 +205,18 @@ def get_paragraph_placeholders(data):
 #         print(i)
 
 
-def album_placeholders(albums, text):
-    for i in range(len(albums)):
-        text = re.sub(rf'{re.escape(albums[i])}', "[ALBUM_NAME]", text)
-    return text
+def album_placeholders(albums, texts):
+    return_texts = []
+    for text in texts:
+        for i in range(len(albums)):
+            return_texts.append(re.sub(rf'{re.escape(albums[i])}', "[ALBUM_NAME]", text))
+    return return_texts
 
-def song_placeholders(text):
-     return re.sub(r'\"(.+)\"', "[SONG_NAME]", text)
+def song_placeholders(texts):
+    return_texts = []
+    for text in texts:
+        return_texts.append(re.sub(r'\"(.+)\"', "[SONG_NAME]", text))
+    return return_texts
 
 
 
