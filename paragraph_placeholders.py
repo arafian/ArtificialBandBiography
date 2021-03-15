@@ -18,26 +18,37 @@ import random
 
 """## Band Name Placeholder"""
 
-def band_placeholder(data, text):
+def band_placeholder(data, texts):
     band_name = data['Name']
     if '(' in band_name: # some bands have disambiguation in the title such as "Mother Earth (American band)"
         band_name = ' '.join(band_name.split(' (')[:-1])
-    text = re.sub(band_name, '[BAND_NAME]', text)
-    return text
+        
+    return_texts = []
+    for text in texts:
+        text = re.sub(band_name, '[BAND_NAME]', text)
+        return_texts.append(text)
+        
+    return return_texts
 
 """## Year Placeholder"""
 
-def year_placeholder(text):
-    return re.sub("[0-9]{4}", '[YEAR]', text)
+def year_placeholder(texts):
+    return_texts = []
+    for text in texts:
+        text = re.sub("[0-9]{4}", '[YEAR]', text)
+        return_texts.append(text)
+    return return_texts
 
 """## Month Placeholder"""
 
-def month_placeholder(text):
-    months = [calendar.month_name[i] for i in range(1,13)] + [calendar.month_abbr[i] for i in range(1,13)]
-    for month in months:
-        text = re.sub(month, '[MONTH]', text)
-        
-    return text
+def month_placeholder(texts):
+    return_texts = []
+    for text in texts:
+        months = [calendar.month_name[i] for i in range(1,13)] + [calendar.month_abbr[i] for i in range(1,13)]
+        for month in months:
+            text = re.sub(month, '[MONTH]', text)
+        return_texts.append(text)
+    return return_texts
 
 """## Name Placeholder
 https://stackoverflow.com/questions/20290870/improving-the-extraction-of-human-names-with-nltk
@@ -112,24 +123,28 @@ def get_name_genders(person_names):
             
     return name_genders
 
-def person_name_placeholder(data, text):
-    person_names = get_person_names(data, text)
+def person_name_placeholder(data, texts):
+    person_names = get_person_names(data, ''.join(texts))
     name_genders = get_name_genders(person_names)
     i = 0
     for name,gender in name_genders.items():
-        text = re.sub(name, '[PERSON_NAME_FULL_' + str(i) + '_' + gender + ']', text)
-        if len(name.split()) > 1: # some only have first names
-            first = name.split()[0]
-            last = name.split()[-1]
-            # don't want abbreviations to be subsituted
-            if len(first) > 2:
-                text = re.sub(first, '[PERSON_NAME_FIRST_' + str(i) + ']', text) # replace first name
-                
-            if len(last) > 2:
-                text = re.sub(last, '[PERSON_NAME_LAST_' + str(i) + ']', text) # replace last name
+        return_texts = []
+        for text in texts:
+            text = re.sub(name, '[PERSON_NAME_FULL_' + str(i) + '_' + gender + ']', text)
+            if len(name.split()) > 1: # some only have first names
+                first = name.split()[0]
+                last = name.split()[-1]
+                # don't want abbreviations to be subsituted
+                if len(first) > 2:
+                    text = re.sub(first, '[PERSON_NAME_FIRST_' + str(i) + ']', text) # replace first name
+
+                if len(last) > 2:
+                    text = re.sub(last, '[PERSON_NAME_LAST_' + str(i) + ']', text) # replace last name
+            return_texts.append(text)
+        texts = return_texts
         i += 1
         
-    return text
+    return texts
 
 """## Genre Placeholder
 
@@ -147,16 +162,19 @@ for genre in data['allGenres']:
         
 genres = list(genres) # need to convert to list to be able to take a random choice from it
 
-def genre_placeholder(text):
-    part2 = re.split(' a | an ', text)
-    genre = None
-    if len(part2) > 1:
-        genre = re.split(' band', part2[1])[0]
+def genre_placeholder(texts):
+    return_texts = []
+    for text in texts:
+        part2 = re.split(' a | an ', text)
+        genre = None
+        if len(part2) > 1:
+            genre = re.split(' band', part2[1])[0]
+        if genre:
+            text = re.sub(genre, '[GENRE]', text)
 
-    if genre:
-        text = re.sub(genre, '[GENRE]', text)
-    
-    return text
+        return_texts.append(text)
+
+    return return_texts
 
 """## Paragraph Placeholder"""
 
@@ -164,28 +182,17 @@ def get_paragraph_placeholders(data):
     #  with open(json_file, 'r', encoding='utf-8') as f:
     #      data = json.load(f)
 
-    text = ''.join(data['rawData'])
-    text = band_placeholder(data, text)
-    text = year_placeholder(text)
-    text = month_placeholder(text)
-    text = person_name_placeholder(data, text)
+    texts = data['rawData']
+    texts = band_placeholder(data, texts)
+    texts = year_placeholder(texts)
+    texts = month_placeholder(texts)
+    texts = person_name_placeholder(data, texts)
     try:
-        text = genre_placeholder(text)
+        texts = genre_placeholder(texts)
     except:
         pass
-    return text    
-    #prunedData = []
-    #for para in data['rawData']:
-    #    prunedPara = band_placeholder(data, para)
-    #    prunedPara = year_placeholder(prunedPara)
-    #    prunedPara = month_placeholder(prunedPara)
-    #    prunedPara = person_name_placeholder(data, prunedPara)
-    #    try:
-    #        prunedPara = genre_placeholder(prunedPara)
-    #    except:
-    #        pass
-    #    prunedData.append(prunedPara)
-    #return prunedData
+    return texts    
+
 
 # print(get_paragraph_placeholder('data/1599.json'))
 
@@ -198,6 +205,7 @@ def get_paragraph_placeholders(data):
     
 complete_paras = []    
 for i in range(1657):
+    print(i)
     with open('data/' + str(i) + '.json', 'r', encoding='utf-8') as inf:
         data = json.load(inf)
         #try:

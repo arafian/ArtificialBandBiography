@@ -1,5 +1,6 @@
 import json
 import random
+from Paragraph_Replacer import replace
 from flask import Flask, request
 from flask_cors import CORS, cross_origin
 
@@ -18,8 +19,16 @@ def main():
             consolidatedData = json.load(f)
 
         p = random.choice(consolidatedData['allPrunedParaComplete'])
+        p, band_name = replace(p)
+        keys = ['p1','p2','p3']
+
+        paras = dict(zip(keys, p))
         return json.dumps({"msg": "success", 
-                           "paras": {"p": p}})
+                           "band_name": band_name,
+                           "paras": paras})
+      #   return json.dumps({"msg": "success", 
+      #                      "band_name": band_name,
+      #                      "paras": {"p": p}})
         #p1 = random.choice(consolidatedData['allPrunedPara_0'])
         #p2 = random.choice(consolidatedData['allPrunedPara_1'])
         #p3 = random.choice(consolidatedData['allPrunedPara_2'])
