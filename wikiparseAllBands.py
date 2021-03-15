@@ -46,7 +46,7 @@ def createJSONData(url):
   extractRawData(soup)
   bandData["infobox"] = parse_infobox(soup)
   bandData["albums"] = parse_albums(soup)
-  bandData["prunedData"] = get_paragraph_placeholders(bandData)
+#   bandData["prunedData"] = get_paragraph_placeholders(bandData)
 
 def appendToConsolidatedData():
    for key in bandData:

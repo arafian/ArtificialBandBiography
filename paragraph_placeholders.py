@@ -41,14 +41,6 @@ def year_placeholder(texts):
 
 """## Month Placeholder"""
 
-<<<<<<< HEAD
-def month_placeholder(text):
-    months = [calendar.month_name[i] for i in range(1,13)] + [calendar.month_abbr[i] for i in range(1,13)]
-    for month in months:
-        text = re.sub(month, '[MONTH]', text)
-
-    return text
-=======
 def month_placeholder(texts):
     return_texts = []
     for text in texts:
@@ -57,7 +49,6 @@ def month_placeholder(texts):
             text = re.sub(month, '[MONTH]', text)
         return_texts.append(text)
     return return_texts
->>>>>>> paragraphSplit
 
 """## Name Placeholder
 https://stackoverflow.com/questions/20290870/improving-the-extraction-of-human-names-with-nltk
