@@ -43,7 +43,7 @@ function App() {
          {loading && (<Spinner className="spinner" />)}
          {resp && (
             <>
-            <h2>[BAND_NAME]</h2>
+            <h2>{resp.band_name}</h2>
             {/* <p>The server returned</p> */}
             {resp.paras && getParaItems(resp.paras)}
             <p className="srvmsg">{resp.msg}</p>
