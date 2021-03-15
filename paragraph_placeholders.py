@@ -41,14 +41,6 @@ def year_placeholder(texts):
 
 """## Month Placeholder"""
 
-<<<<<<< HEAD
-def month_placeholder(text):
-    months = [calendar.month_name[i] for i in range(1,13)] + [calendar.month_abbr[i] for i in range(1,13)]
-    for month in months:
-        text = re.sub(month, '[MONTH]', text)
-
-    return text
-=======
 def month_placeholder(texts):
     return_texts = []
     for text in texts:
@@ -57,7 +49,6 @@ def month_placeholder(texts):
             text = re.sub(month, '[MONTH]', text)
         return_texts.append(text)
     return return_texts
->>>>>>> paragraphSplit
 
 """## Name Placeholder
 https://stackoverflow.com/questions/20290870/improving-the-extraction-of-human-names-with-nltk
@@ -137,21 +128,6 @@ def person_name_placeholder(data, texts):
     name_genders = get_name_genders(person_names)
     i = 0
     for name,gender in name_genders.items():
-<<<<<<< HEAD
-        text = re.sub(name, '[PERSON_NAME_FULL_' + str(i) + '_' + gender + ']', text)
-        if len(name.split()) > 1: # some only have first names
-            first = name.split()[0]
-            last = name.split()[-1]
-            # don't want abbreviations to be subsituted
-            if len(first) > 2:
-                text = re.sub(first, '[PERSON_NAME_FIRST_' + str(i) + ']', text) # replace first name
-
-            if len(last) > 2:
-                text = re.sub(last, '[PERSON_NAME_LAST_' + str(i) + ']', text) # replace last name
-        i += 1
-
-    return text
-=======
         return_texts = []
         for text in texts:
             text = re.sub(name, '[PERSON_NAME_FULL_' + str(i) + '_' + gender + ']', text)
@@ -169,7 +145,6 @@ def person_name_placeholder(data, texts):
         i += 1
         
     return texts
->>>>>>> paragraphSplit
 
 """## Genre Placeholder
 
