@@ -16,6 +16,7 @@ from nltk.corpus import wordnet
 import gender_guesser.detector as gender
 import calendar
 import names
+from random_word import RandomWords
 
 # ## Replace Band Name
 
@@ -24,7 +25,7 @@ import names
 
 with open('titles', 'rb') as inf:
     titles = pickle.load(inf)
-    
+
 determiners = []
 nouns = []
 adjectives = []
@@ -43,6 +44,30 @@ for title in titles:
 
 # In[5]:
 
+def random_song_name():
+    r = RandomWords()
+    i = random.randint(0, 9)
+    if i == 0:
+        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="verb") + " the " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+    if i == 1:
+        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+    if i == 2:
+        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective")).title()
+    if i == 3:
+        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+    if i == 4:
+        return ("The " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+    if i == 5:
+        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+    if i == 6:
+        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun") + " and " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+    if i == 7:
+        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun") + " or " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+    if i == 8:
+        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="verb") + " " + random.choice(["me", "you", "her", "him"]))
+    if i == 9:
+        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="verb") + "ing in the " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun"))
+
 
 def replace_band_name(texts):
     def getRandName():
@@ -57,7 +82,7 @@ def replace_band_name(texts):
             return determiner + ' ' + adjective1 + ' ' + adjective2 + ' ' + noun1
         elif title_format == 2:
             return determiner + ' ' + noun1 + ' and ' + determiner + ' ' + noun2
-        
+
     new_name = getRandName()
     return_texts = []
     for text in texts:
@@ -77,7 +102,7 @@ def replace_years(texts):
     years = [first_year]
     for i in range(1, num_years):
         years.append(years[i-1] + random.randint(0, 5))
-        
+
     j = -1
     def get_year(matchobj):
         nonlocal j
@@ -99,7 +124,7 @@ def replace_years(texts):
 def replace_months(texts):
     months = [calendar.month_name[i] for i in range(1,13)] + [calendar.month_abbr[i] for i in range(1,13)]
     return_texts = []
-    for text in texts: 
+    for text in texts:
        text = re.sub('\[MONTH\]', lambda x: random.choice(months), text)
        return_texts.append(text)
 
@@ -166,13 +191,13 @@ def replace_person_names(texts):
 
 with open('data/consolidatedData.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
-    
+
 genres = set()
 for genre in data['allGenres']:
     if isinstance(genre, str):
         g = re.split(',|\[', genre)[0]
         genres.add(g)
-        
+
 genres = list(genres) # need to convert to list to be able to take a random choice from it
 
 
@@ -190,6 +215,20 @@ def replace_genre(texts):
 
 # ## Replace All Placeholders
 
+def replace_songs(texts):
+    return_texts = []
+    for text in texts:
+        text = re.sub('\[SONG_NAME\]',  "\"" + random_song_name() + "\"", text)
+        return_texts.append(text)
+    return return_texts
+
+def replace_albums(texts):
+    return_texts = []
+    for text in texts:
+        text = re.sub('\[ALBUM_NAME\]', random_song_name(), text)
+        return_texts.append(text)
+    return return_texts
+
 # In[14]:
 
 
@@ -198,20 +237,21 @@ with open('data/consolidatedData.json', 'r', encoding='utf-8') as inf:
 
 #with open('data/0.json', 'r', encoding='utf-8') as inf:
 #    data = json.load(inf)
-    
-# para = paras['allPrunedParaComplete'][3]
-# print(para)
-# print("")
-# new_name, para = replace_band_name(para)
-# para = replace_years(para)
-# para = replace_months(para)
-# para = replace_genre(para)
-# para_new = []
-# for p in para:
-#     para_new.append(re.sub('\[|\]', '', p)) # need to get rid of brackets to be able to replace names using re.sub
-# para = para_new
-# para = replace_person_names(para)
-# print(para)
+para = paras['allPrunedParaComplete'][3]
+print(para)
+print("")
+new_name, para = replace_band_name(para)
+para = replace_years(para)
+para = replace_months(para)
+para = replace_genre(para)
+para = replace_albums(para)
+#para = replace_songs(para)
+para_new = []
+for p in para:
+    para_new.append(re.sub('\[|\]', '', p)) # need to get rid of brackets to be able to replace names using re.sub
+para = para_new
+para = replace_person_names(para)
+print(para)
 
 
 # In[ ]:
@@ -221,6 +261,8 @@ def replace(texts):
     texts = replace_years(texts)
     texts = replace_months(texts)
     texts = replace_genre(texts)
+    #texts = replace_albums(texts)
+    #texts = replace_songs(texts)
     texts_new = []
     for t in texts:
         texts_new.append(re.sub('\[|\]', '', t)) # need to get rid of brackets to be able to replace names using re.sub
@@ -228,5 +270,3 @@ def replace(texts):
     texts = texts_new
     texts = replace_person_names(texts)
     return texts, new_name
-
-
