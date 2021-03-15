@@ -137,21 +137,6 @@ def person_name_placeholder(data, texts):
     name_genders = get_name_genders(person_names)
     i = 0
     for name,gender in name_genders.items():
-<<<<<<< HEAD
-        text = re.sub(name, '[PERSON_NAME_FULL_' + str(i) + '_' + gender + ']', text)
-        if len(name.split()) > 1: # some only have first names
-            first = name.split()[0]
-            last = name.split()[-1]
-            # don't want abbreviations to be subsituted
-            if len(first) > 2:
-                text = re.sub(first, '[PERSON_NAME_FIRST_' + str(i) + ']', text) # replace first name
-
-            if len(last) > 2:
-                text = re.sub(last, '[PERSON_NAME_LAST_' + str(i) + ']', text) # replace last name
-        i += 1
-
-    return text
-=======
         return_texts = []
         for text in texts:
             text = re.sub(name, '[PERSON_NAME_FULL_' + str(i) + '_' + gender + ']', text)
@@ -169,7 +154,6 @@ def person_name_placeholder(data, texts):
         i += 1
         
     return texts
->>>>>>> paragraphSplit
 
 """## Genre Placeholder
 
