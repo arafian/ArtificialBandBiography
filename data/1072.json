@@ -36,10 +36,5 @@
       "Better Get Ready",
       "This World Is Nothing",
       "Rock Rabeinu"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Long Beach, New York. Formed in [YEAR] by lead singer Yishai Romanoff and guitarist [PERSON_NAME_FULL_0_MALE], they released their debut album, Better Get Ready ([YEAR]), on Shemspeed Records, followed in [YEAR] by This World is Nothing. They were prominently featured in the [YEAR] documentary Punk Jews.\n",
-      "[BAND_NAME] was started in [YEAR] by singer/guitarist Yishai Romanoff, who had sought to reconcile his then-recently renewed Jewish faith with the punk rock music he had loved as a [GENRE] a solo act, Romanoff eventually brought in his friend [PERSON_NAME_FULL_0_MALE], as well as bassist Mitchell [SONG_NAME] Alpert, to complete the band. The band's name is derived from a combination Moshiach, the Jewish name for the Messiah; oy vey, a Yiddish expression conveying exasperation and dismay; and Oi!, a British working-class genre of punk music.\n",
-      "The group's debut album, Better Get Ready, produced by Wagner and mastered by veteran punk producer [PERSON_NAME_FULL_0_MALE], was released by Shemspeed Records and the band's own Shabasa Records label on [MONTH] 25, [YEAR]. A second album, This World is Nothing, was released two years later just on Shabasa, accompanied by the single and music video [SONG_NAME]. The band was prominently featured in the [YEAR] documentary Punk Jews.\n"
    ]
 }

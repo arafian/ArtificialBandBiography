@@ -39,10 +39,5 @@
       "On a Search in America",
       "Tension",
       "Dizmas"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Lancaster, California.\n",
-      "Nick Aranda, Clayton Hunt and brothers Zach and [PERSON_NAME_FULL_0_MALE] began playing together as teenagers in [YEAR] while attending Desert Christian High School in Lancaster, California. They were later joined by [PERSON_NAME_FULL_1_MALE], who is from Mechanicsburg, Pennsylvania.\n",
-      "Their debut album [SONG_NAME] piece.\n"
    ]
 }

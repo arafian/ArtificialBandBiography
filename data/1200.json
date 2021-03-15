@@ -27,10 +27,5 @@
    },
    "albums": [
       "Possession Park"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Los Angeles, California, formed in [YEAR]. Fronted by B-movie actor Dukey Flyswatter, the band is known for their campy science fiction and horror movie-inspired songs and elaborately bloody and prop-filled stage shows.\n",
-      "The original incarnation of [BAND_NAME] lasted from [YEAR] to [YEAR], with several one-off reunions featuring varying line-ups occurring afterwards. As of [YEAR], a [GENRE] band is currently active with Flyswatter as the only remaining original member.\n",
-      "[BAND_NAME] was formed in [YEAR] by vocalist Dukey Flyswatter (stage name of [PERSON_NAME_FULL_0_MALE]), bassist Ace McCoomba and guitarist Nyck Varoom. Initially, the band started out in a psychedelic/rockabilly style, playing covers of theme songs from vintage B movies ([SONG_NAME].\n"
    ]
 }

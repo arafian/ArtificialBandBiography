@@ -1,8 +1,7 @@
 {
    "Name": "Cry Wolf (band)",
    "rawData": [
-      "Cry Wolf is a hair metal band formed in the San Francisco Bay Area in the mid-1980s. Originally named Heroes, the original band consisted of Tim Hall (vocals), Steve McKnight (guitar), Phil Deckard (bass), John Freixas (drums) and JC Crampton (Keyboards).\n",
-      "This article on a United States metal band is a stub. You can help Wikipedia by expanding it."
+      "Cry Wolf is a hair metal band formed in the San Francisco Bay Area in the mid-1980s. Originally named Heroes, the original band consisted of Tim Hall (vocals), Steve McKnight (guitar), Phil Deckard (bass), John Freixas (drums) and JC Crampton (Keyboards).\n"
    ],
    "infobox": {
       "Origin": [
@@ -39,9 +38,5 @@
       "Cry Wolf",
       "Crunch",
       "Twenty Ten"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in the San Francisco Bay Area in the mid-[YEAR]s. Originally named Heroes, the original band consisted of Tim Hall (vocals), [PERSON_NAME_FULL_0_MALE] (guitar), Phil [MONTH]kard (bass), John Freixas (drums) and JC Crampton (Keyboards).\n",
-      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

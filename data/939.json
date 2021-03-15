@@ -32,10 +32,5 @@
          " Tara Nevins"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] were an [GENRE] band led by Grateful Dead drummer [PERSON_NAME_FULL_0_MALE]. [PERSON_NAME_LAST_0] formed the band in [YEAR] with Max Creek guitarist [PERSON_NAME_FULL_1_MALE] and Allman Brothers Band bassist Oteil Burbridge.\n",
-      "Bill Kreutzmann and Scott Murawski were introduced to each other in early [YEAR] by [PERSON_NAME_FULL_0_MALE] and the three performed together as a [GENRE] a benefit in Costa Rica. Kreutzmann and Murawski then decided to form a full-time band and they offered [PERSON_NAME_LAST_0] the bassist position but he had to decline due to his other projects. Kreutzmann then offered the position up to Allman Brothers Band bassist Oteil Burbridge and he accepted.\n",
-      "They dubbed themselves the Bill Kreutzmann Trio and successfully toured the northeast during the summer of [YEAR] including a stop at the Gathering of the Vibes. The group played many Grateful Dead songs, [PERSON_NAME_FULL_0_MALE] songs and covers as well as new songs written by Robert Hunter.\n"
-   ]
+   "albums": []
 }

@@ -47,10 +47,5 @@
    "albums": [
       "Cat Farm Faboo",
       "Faster, Frightwig, Kill! Kill!"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from San Francisco, California, formed in [YEAR] by [PERSON_NAME_FULL_2_FEMALE] and [PERSON_NAME_FULL_0_FEMALE]. After many line-up changes, [BAND_NAME] retired in [YEAR] to raise children and focus on other career paths.\n",
-      "[BAND_NAME] reformed in [YEAR] with Rebecca Sevrin and [PERSON_NAME_FULL_0_FEMALE]. [BAND_NAME]'s current line-up is Deanna Mitchell, Mia d'Bruzzi, and [PERSON_NAME_FULL_1_MALE]. In [MONTH], [YEAR], the band did a US east coast tour with [MONTH]e Lee Hooker.\n",
-      "Ashley was raised by a [SONG_NAME]\n"
    ]
 }

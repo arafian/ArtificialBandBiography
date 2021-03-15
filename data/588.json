@@ -35,10 +35,5 @@
    },
    "albums": [
       "The Temple of Sagal"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Finland. During its career the band released five studio albums and one demo, the latter being released while the band was still called Flegeton.\n",
-      "[BAND_NAME] was formed in [YEAR] under the name [SONG_NAME], but it was never widely distributed.\n",
-      "In [MONTH] [YEAR], Flegeton, with a new bass player, Mr. Woodland (aka [PERSON_NAME_FULL_0_MALE]), went into MDM studios to record their demo [SONG_NAME]. The demo received praise from enthusiasts of melancholy music. It also got the attention of the French record company Holy Records, which Flegeton contracted with for two full-length studio albums.\n"
    ]
 }

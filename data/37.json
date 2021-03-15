@@ -42,10 +42,5 @@
       "Seattle Music Scene Volume 2",
       "ABV Sessions",
       "Underground"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Seattle, Washington, formed around [YEAR].  Though they sought to challenge the grunge image\" of Seattle, they are acknowledged as a part of the grunge music scene of the late [YEAR]s and early [YEAR]s.\n",
-      "Jeff Gilbert and Tad Doyle were instrumental in [BAND_NAME]'s record deal, which resulted in the Endino-produced Steel Mill in [YEAR]. Gilbert called [BAND_NAME] the [SONG_NAME]. The music of [BAND_NAME] was sonically similar to another Seattle band, Melvins. Otis was an early member of Napalm Beach, Clint and Peters played in H-Hour, while Wied was the original drummer for [PERSON_NAME_FULL_1_FEMALE] artist  Tad.\n",
-      "They disbanded after recording eleven songs in [MONTH] [YEAR]. These songs were transferred from 2\" tape to digital by Stuart Hallerman at Avast!. [MONTH]k Spiders and [PERSON_NAME_FULL_0_MALE] mixed the songs, and Black Guitar Records published the album, Underground, in [YEAR].\n"
    ]
 }

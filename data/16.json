@@ -28,10 +28,5 @@
    "albums": [
       "Toreador of Love",
       "Are You Going to Eat That"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band based in Portland, Oregon. The band was a quartet, consisting of Jody Bleyle (drums and vocals), Pete Krebs (guitar and vocals), [PERSON_NAME_FULL_1_MALE] (bass), and [PERSON_NAME_FULL_0_MALE] (dancer). It lasted from [YEAR] to [YEAR].\n",
-      "The group was formed on [MONTH] 14, [YEAR]. Although based in the Pacific Northwest and active during the grunge movement in rock music, [BAND_NAME]'s music was different from most grunge in that it featured both male and female vocals as well as a more melodic sound that could be described as noise pop. [BAND_NAME]'s music was not particularly intricate musically, relying on a few chords, sheer energy (many songs being played at breakneck speed), and vocal intensity. Rather than singing together in harmony, Krebs and Bleyle often sang completely different parts that answered or intertwined with one another. The majority of lyrics dealt with problems regarding relationships, including the regret and resentment following a breakup ([SONG_NAME]).\n",
-      "The group was also notable for featuring the dancer [PERSON_NAME_FULL_0_MALE] as a full member. Often dressed in fanciful costumes, [PERSON_NAME_LAST_0], a tall, bearded man, cavorted crazily about the stage, climbing atop speaker cabinets and swinging heavy objects through the air.\n"
    ]
 }

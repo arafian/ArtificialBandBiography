@@ -26,10 +26,5 @@
          "Claudia Sinesi"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band formed in [YEAR] in Buenos Aires. It was part of the renewal movement of Argentine rock (Spanish: rock nacional; [SONG_NAME] and upbeat acts such as Los Twist, Los Abuelos de la Nada, Virus and Soda Stereo\n",
-      "Claudia Sinesi and [MONTH]ia [PERSON_NAME_FULL_0_FEMALE] met in [YEAR], and played together in a [GENRE] band. [PERSON_NAME_LAST_0] joined the cover band Rouge in [YEAR], and proposed that Sinesi joined it as well. The band broke up when the military junta forbade music in English language, as their set list was composed completely of covers of English-speaking bands. Sinesi and [PERSON_NAME_LAST_0] stayed together, and Mavi Diaz proposed them to start an all-girls band. Their first long play was released in [YEAR], with songs such as [SONG_NAME].\n",
-      "The third album had lower sales, and the records label went into bankruptcy, leading to the break up of the band. The band reunited for concerts along the years.\n"
-   ]
+   "albums": []
 }

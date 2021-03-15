@@ -45,10 +45,5 @@
       "Test of Submission",
       "The Veil of Control",
       "Terminal Threshold"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in Philadelphia, Pennsylvania, United States, in [YEAR].  The band's music combines avant-garde elements of progressive rock and jazz with heavy metal.  They are currently located in Brooklyn, New York.\n",
-      "Their most recent release, The Veil of Control, was released in [MONTH] [YEAR] via Profound Lore Records.\n",
-      "The band was formed in [MONTH] [YEAR] by guitarist [PERSON_NAME_FULL_0_MALE] and bassist [PERSON_NAME_FULL_2_MALE], who were joined six months later by drummer [PERSON_NAME_FULL_1_MALE]. The band entered the studio in early [YEAR] to record their debut album, Contradiction, which was recorded, like every other [BAND_NAME] album to follow, completely live with minimal overdubs.  Shortly thereafter, the band reentered the studio in [YEAR] to record the No Interference record.  The new album helped to define and expand the band's sound, and was followed by extensive touring.  In [YEAR], the band released two split albums, a 10[SONG_NAME] split with Technician.\n"
    ]
 }

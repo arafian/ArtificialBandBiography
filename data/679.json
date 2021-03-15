@@ -31,10 +31,5 @@
       "Ivy Benson And Her Orchestra",
       "Ivy Benson And Her All Girl Band",
       "You Danced to These Bands"
-   ],
-   "prunedData": [
-      "[BAND_NAME] (11 [MONTH] [YEAR] – 6 [MONTH] [YEAR]) was an [GENRE] bandleader, who led an all-female swing band. Benson and her band rose to fame in the [YEAR]s, headlining variety theatres and topping the bill at the London Palladium, and became the BBC's resident house band.\n",
-      "Benson was born on 11 [MONTH] [YEAR] in Holbeck, Leeds, the daughter of Douglas Rolland [SONG_NAME] Benson and his wife [MONTH]y [MONTH]e Mead. Her father, a [GENRE]",
-      "Ivy's father had ambitions for her to become a [GENRE] a jazz musician after hearing a Benny Goodman record and learned to play clarinet and alto saxophone. She left school at 14 and took a job at the Montague Burton factory in Leeds, putting aside half a crown from her wages each week to save up for her first saxophone. She supplemented her income by playing in dance bands in the evenings.\n"
    ]
 }

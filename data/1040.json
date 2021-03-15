@@ -44,10 +44,5 @@
       "Radio Tragedy",
       "In The Wake",
       "Destination Bound"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from the San Francisco Bay Area, composed of Josh Clark (guitar and vocals), [PERSON_NAME_FULL_1_MALE] (keyboards, vocals, guitar, and harmonica), Scott Rager (drums), and [PERSON_NAME_FULL_0_MALE] (bass).\n",
-      "[BAND_NAME] began in the fall of [YEAR], when Scott Rager met [PERSON_NAME_FULL_0_MALE] on the campus of San Francisco State University. [PERSON_NAME_LAST_0] was the group's original bass player but left in [YEAR]; he is featured on the band's first four albums. Rager and [PERSON_NAME_LAST_0] began playing together, practicing in [PERSON_NAME_LAST_0]'s bedroom in a back house off Church Street in the Castro District. In early [YEAR], Clark, a childhood friend of Rager, moved from Los Angeles to San Francisco and became the third member of the band. Garrod, also a SFSU student, joined soon after.\n",
-      "In the late-[YEAR]s, [BAND_NAME] began performing throughout [PERSON_NAME_FULL_0_MALE], becoming the de facto house band at the Elbo Room for a period in [YEAR]. The band's first album, eponymously titled, was produced by Jimmy [PERSON_NAME_LAST_1] and engineered by Jimmy and [PERSON_NAME_FULL_1_FEMALE]. It was released on Bongo Boy Records and featured twelve original compositions, including songs such as [SONG_NAME], all of which remained part of the band's live repertoire for years.\n"
    ]
 }

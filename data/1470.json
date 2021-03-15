@@ -34,10 +34,5 @@
    "albums": [
       "Denny & Dunipace Pipe Band",
       "Scottish Rant"
-   ],
-   "prunedData": [
-      "The [BAND_NAME] is a [GENRE] band located in Washington, D.C.\n",
-      "The band was formed in [YEAR] as the Denny & Dunipace Pipe Band, by members of the U.S. Air Force Pipe Band. Unable to compete due to Air Force regulations, members of that band joined with local players to form a [GENRE] band in the District of Columbia. Pipe Major Sandy Jones of the Air Force band took over in [YEAR].  \n",
-      "In [YEAR], the band changed its name to The Scottish & Irish Imports Pipe Band due to a sponsorship change, and was upgraded to Grade One.  In [YEAR] Mike Green was named Pipe Major, and after competing under the Denny & Dunipace name during the [YEAR] season, the band was renamed to the [BAND_NAME] to avoid confusion with a new Pipe Band of the same name. In [YEAR] [PERSON_NAME_FULL_0_MALE] was named Pipe Major, and continues the band's tradition of excellent playing on the east coast.\n"
    ]
 }

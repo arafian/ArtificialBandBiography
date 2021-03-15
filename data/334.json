@@ -48,10 +48,5 @@
       "Songwriter of the Year",
       "Group of the Year",
       "Best Video (Someone Who's Cool)"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are a [GENRE] band based in Vancouver, British Columbia. They perform music with a power pop style. They were nominated for six [MONTH]o Awards in the [YEAR]s, winning zero. As of [YEAR], they are on their fifth record label.\n",
-      "The band was formed in [YEAR] in Vancouver, British Columbia, consisting of vocalist-guitarists [PERSON_NAME_FULL_2_MALE] and Steven Drake (both of whom had led different bands appearing on a Vancouver music compilation album, Spotlight '86), bassist [PERSON_NAME_FULL_1_MALE] and drummer Paul Brennan. [PERSON_NAME_FULL_0_MALE] was originally asked to be the band's drummer, but he declined. The band members claim the name came when Brennan asked Drake, in a town somewhere on the BC coast, [SONG_NAME]\n",
-      "In the late [YEAR]s, the band played up to four nights a [GENRE] a [YEAR]s and [YEAR]s cover band called Dawn Patrol at the Roxy nightclub in Vancouver, while playing as [BAND_NAME] on weekends and funding their own demo recordings at Crosstown Studios in North Vancouver, hoping for a break. They travelled to Los Angeles doing showcases and eventually signed to Zoo Entertainment.\n"
    ]
 }

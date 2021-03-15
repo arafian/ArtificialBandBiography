@@ -29,10 +29,5 @@
          "Tony Marsico"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "The   [BAND_NAME]  were a [YEAR]s rock band from Los Angeles, California.\n",
-      "The [BAND_NAME] were formed in [YEAR] by the third incarnation of The Plugz, featuring members Tito Larriva, [PERSON_NAME_FULL_0_MALE], Chalo Quintana and Tony [MONTH]sico. They were picked as [SONG_NAME] by both their musical peers and music critics, and they received praise from the likes of Bob Dylan, [PERSON_NAME_FULL_1_MALE], David Byrne, [PERSON_NAME_FULL_2_MALE], and Billy Joel. The [BAND_NAME] would record three albums for Arista Records but only two would be released.\n",
-      "The band's self-titled album, [BAND_NAME], was released in [YEAR].\n"
-   ]
+   "albums": []
 }

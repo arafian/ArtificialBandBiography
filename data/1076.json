@@ -31,10 +31,5 @@
    "albums": [
       "The Whale That Ate Jonah",
       "Queers On Rye"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Brooklyn, NY, known for their humor. They have been compared to Pansy Division, Tribe 8, [PERSON_NAME_FULL_0_MALE], Mel Brooks and [PERSON_NAME_FULL_1_MALE]. Eddy Portnoy  of The Forward cited [BAND_NAME] as an example of the cultural movement [SONG_NAME]\n",
-      "Following the group's disbandment, member Itai Gal aka [PERSON_NAME_FULL_0_MALE] formed a [GENRE] a debut album, Arise, in [YEAR].\n",
-      "In the final Tales of the City novel, the character Jake reports his love interest, Amos, flirting with the lead singer of [BAND_NAME].\n"
    ]
 }

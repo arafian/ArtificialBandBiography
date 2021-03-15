@@ -46,8 +46,5 @@
       "Phase",
       "Phoenix Rising",
       "XI"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band founded in [YEAR] in Tokyo by former Boredoms guitarist Seiichi Yamamoto, Bondage Fruit electric violinist [PERSON_NAME_FULL_0_MALE], and synthesizer/effects technician [PERSON_NAME_FULL_2_MALE], and featuring [PERSON_NAME_FULL_1_MALE] on drums and percussion, [PERSON_NAME_FULL_5_MALE] on drums and percussion, and [PERSON_NAME_FULL_4_FEMALE] on bass guitar.  [BAND_NAME] defines their music as [SONG_NAME]. \n"
    ]
 }

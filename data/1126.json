@@ -37,10 +37,5 @@
          "Phil Sandoval"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band, formed in [YEAR] in Los Angeles, California. Since [YEAR], the band has consisted of John Bush on lead vocals, [PERSON_NAME_FULL_0_MALE] on bass, Jeff Duncan on rhythm guitar and the Sandoval brothers, Gonzo and Phil, on drums and lead guitar, respectively. Of the current lineup, Bush and [PERSON_NAME_LAST_0] are the two constant members. To date, they have released eight studio albums, one EP, two live albums and one compilation album.\n",
-      "As one of the leaders of the Los Angeles heavy metal scene, [BAND_NAME] achieved moderate success during the [YEAR]s with their [YEAR] self-titled EP and first three studio albums: [MONTH] of the Saint ([YEAR]), Delirious Nomad ([YEAR]) and Raising Fear ([YEAR]). Prior to the release of their fourth studio album Symbol of Salvation ([YEAR]), the band was plagued by extended inactivity, due to record company issues and the death of their original guitarist [PERSON_NAME_FULL_0_MALE], who died of leukemia in [YEAR]. [BAND_NAME] eventually broke up when Bush joined Anthrax in [YEAR] to replace Joey Belladonna, but reunited in [YEAR], and has continued to tour and record since then.\n",
-      "[BAND_NAME] was formed in [YEAR] by brothers Felipe [SONG_NAME] on the compilation album Metal Massacre II. Three of these demo songs were then used for the band's self-titled EP on Metal Blade Records in [YEAR]. The group then signed with Chrysalis Records in [YEAR].\n"
-   ]
+   "albums": []
 }

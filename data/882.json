@@ -38,10 +38,5 @@
       "Laika Sex Machine",
       "Local Warming",
       "Cosmopolis"
-   ],
-   "prunedData": [
-      "[BAND_NAME] were a [GENRE] band.  They had the same lineup from the time they formed in [YEAR] until they stopped recording in [YEAR]. The band was named after Laika, a Soviet space dog that died on board Sputnik 2 in [YEAR].\n",
-      "Their sound is usually described as surf rock, but a [GENRE] band's sound is [SONG_NAME]\n",
-      "In addition to their touring, the band appeared several times on European television.\n"
    ]
 }

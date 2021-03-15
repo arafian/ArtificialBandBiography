@@ -44,10 +44,5 @@
       "Scotland's Best, Vol. 1",
       "Scotland's Best, Vol. 3",
       "Glasgow Police March Past"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Glasgow, Scotland. Founded in [YEAR] as the Burgh of Govan Police Pipe Band, the band enjoyed its greatest competitive success as the Strathclyde Police Pipe Band.\n",
-      "The band was one of the first civilian bands in Britain when it formed in [YEAR] as the Burgh of Govan Police Pipe Band. The first pipe major was [PERSON_NAME_FULL_1_MALE], who was succeeded by Walter Drysdale in [YEAR], who was in turn succeeded by [PERSON_NAME_FULL_0_MALE] in [YEAR]. The band enjoyed a [GENRE] a tartan designed by the Chief Constable, and played two concerts annually to raise funds.\n",
-      "Govan was annexed into Glasgow along with Partick in [YEAR], and the band became the City of [BAND_NAME]. In [YEAR] William Gray, a [GENRE] band won its first World Championship in [YEAR], but due to Gray's focus on events other than competition the next time the band won the Worlds was [YEAR].\n"
    ]
 }

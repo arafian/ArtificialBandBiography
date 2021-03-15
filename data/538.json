@@ -1,8 +1,7 @@
 {
    "Name": "Alquin",
    "rawData": [
-      "Alquin was a Dutch progressive rock band which released four studio albums in the 1970s. The band split in 1977. They made a comeback in 2003 and in September 2005 they released a new album.\n",
-      "This article about a Dutch band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+      "Alquin was a Dutch progressive rock band which released four studio albums in the 1970s. The band split in 1977. They made a comeback in 2003 and in September 2005 they released a new album.\n"
    ],
    "infobox": {
       "Origin": [
@@ -40,9 +39,5 @@
          "Dick Schulte-Nordholt"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band which released four studio albums in the [YEAR]s. The band split in [YEAR]. They made a comeback in [YEAR] and in [MONTH] [YEAR] they released a new album.\n",
-      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
-   ]
+   "albums": []
 }

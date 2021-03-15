@@ -44,10 +44,5 @@
       "Small Fires",
       "Twelve Spells",
       "Visalia"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in San Francisco, California, United States.\n",
-      "[BAND_NAME] originated in the sleepy foothills of California’s Central Valley where founding members Aaron Mort and brothers Spence Koehler (guitar) and Shannon Koehler (drums, vocals) grew up. After high school, they went to college at San Francisco State University.\n",
-      "A couple of years later, after living with the three founding members and discovering their similar musical tastes, [PERSON_NAME_FULL_0_MALE] (guitar, bass) joined the band.\n"
    ]
 }

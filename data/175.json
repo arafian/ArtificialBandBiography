@@ -37,10 +37,9 @@
          "Dave Yoha"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from San Francisco, California, formed in [YEAR]. Their band name is derived from the CIV album of the same name.\n",
-      "The band consists of vocalists Jordan Brown and [PERSON_NAME_FULL_0_MALE], drummer Mike Ambrose, guitarists Audelio Flores Jr and Daniel Coddaire and bassist [PERSON_NAME_FULL_1_MALE].\n",
-      "Forming in [YEAR], [BAND_NAME] released their first self-titled EP through Straight on Records in [MONTH] [YEAR]. The band embarked on some of their first tours with The Warriors and Make Move, as the word circulated about the EP they were approached by a number of labels. After [SONG_NAME], they signed with Eulogy Recordings and re-released the EP under the name Reset in [MONTH] [YEAR]. Audelio Flores joined the band on [MONTH] [YEAR], after playing in a band called Amity from Los Angeles. Their second release on Eulogy was their debut studio album, entitled Mutiny!, which was released in [MONTH] [YEAR]. During winter of [YEAR] [PERSON_NAME_FULL_0_MALE] amicably left the band due to tour exhaust. Daniel Coddaire returned for touring before he rejoined the band officially in [YEAR]; Coddaire was [BAND_NAME]' original lead guitarist.\n"
+   "albums": [
+      "Mutiny!",
+      "This Will Be the Death of Us",
+      "Burning at Both Ends"
    ]
 }

@@ -32,10 +32,5 @@
          " Dan Rodkewich (drums)[2]"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in San Francisco, California, in [YEAR]. An early and leading member of the Bay Area post-rock scene, [BAND_NAME] is also the founding band of San Francisco independent music label, Tricycle Records. Since its inception, the band's line-up has included Nate Munger (lead vocals, bass), [PERSON_NAME_FULL_0_MALE] (guitar), and Eric Salk (vocals, guitar, keys). The founding drummer was [PERSON_NAME_FULL_2_MALE]. The band's current drummer, [PERSON_NAME_FULL_1_MALE], has been with the band since [YEAR].\n",
-      "[BAND_NAME]'s first live performance was an unpublicized show on [MONTH] 19, [YEAR], played before a small group of friends and family in the upstairs back room of Edinburgh Castle, a San Francisco pub and music venue. Prior to [BAND_NAME], [PERSON_NAME_FULL_0_MALE] and Nate Munger were in an instrumental band together called The Andrea Doria. In an interview with the San Francisco Chronicle, [PERSON_NAME_LAST_0] described the first six months of the Union Trade as [SONG_NAME]  The first official live performance of the band was at another SF venue, Hotel Utah, on [MONTH] 26, [YEAR]. The band has since shared the stage with notable national and international acts like The Appleseed Cast, The Morning Benders, Neon Trees, Film School, Vetiver, Pela, Figurines, The Pack A.D., Starlight Mints, Dappled Cities, Polysics, Loquat, and LoveLikeFire.\n",
-      "[BAND_NAME] made their recording debut in [MONTH] [YEAR] with the release of their first EP, Now the Swell, on Tricycle Records. This EP was also the first release on the label which guitarist Don Joslin co-founded with [PERSON_NAME_FULL_0_MALE] music photographer, [MONTH]ie Schucard.  The follow up full-length album, Everyday Including, also released on Tricycle, came out in [MONTH] [YEAR].  Smother Magazine called it [SONG_NAME] Their most recent release is a [GENRE]"
-   ]
+   "albums": []
 }

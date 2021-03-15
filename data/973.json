@@ -30,10 +30,5 @@
          "Al Bates"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a five-piece American bluegrass/rock \nband founded in Kalamazoo, Michigan in mid-[YEAR]. The band has evolved over the years, growing from 3 to 5 members, adding electric effects, and touring with a full light show. Partly because of their name, many articles written about the band addresses the fact that what Greensky does is [SONG_NAME].\n",
-      "The band was formed in the fall of [YEAR] by [PERSON_NAME_FIRST_2] Arlen Bont (banjo), [PERSON_NAME_FULL_1_MALE] (guitar), and Paul Hoffman (mandolin), who initially played together at an [GENRE] an array of influences and varied musical backgrounds, reflected in their [MONTH] [YEAR] release of Less than Supper, recorded with bassist [PERSON_NAME_FULL_0_MALE] and dobro player Al Bates. Both Bates and [PERSON_NAME_LAST_0] left the band shortly thereafter. Classical cellist [PERSON_NAME_FULL_2_MALE] had approached Greensky with an offer to assist in management, but ended up joining the group as bassist in the fall of [YEAR].  The group describes their commendatory as more of a brotherhood than a band.\n",
-      "In the summer of [YEAR] the band were winners of the Telluride Bluegrass Festival Band Competition, earning them a spot on the main stage of the [YEAR] festival. Soon thereafter they released their second studio album, Tuesday Letter, produced by [PERSON_NAME_FULL_0_MALE] of Railroad Earth.  They rounded out their line-up in [YEAR] when they added Dobroist Anders Beck.\n"
-   ]
+   "albums": []
 }

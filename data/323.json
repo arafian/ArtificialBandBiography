@@ -49,10 +49,5 @@
       "The Kings Are Here/Amazon Beach",
       "Because Of You",
       "Anthology One"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are a [GENRE] band formed in [YEAR] in Oakville, Ontario.  They are best known for their [YEAR] song [SONG_NAME], which was a hit in the United States and Canada.\n",
-      "[BAND_NAME] were formed in Vancouver, British Columbia, and Oakville, Ontario in the late [YEAR]s.  The original lineup included David Diamond, bass, lead vocals; Mister [PERSON_NAME_LAST_1] (aka John Picard, listed as [PERSON_NAME_FULL_1_MALE] in the original [SONG_NAME] LP liner notes), guitar; Sonny Keyes, keyboards and vocals; and [PERSON_NAME_FULL_0_MALE] (drums), with [PERSON_NAME_LAST_1] and Diamond serving as the main songwriters with contributions from Keyes.  [BAND_NAME] were originally known as WhistleKing and rehearsed, performed club gigs, and wrote a [GENRE]",
-      "In early [YEAR], the band went into Nimbus 9 Studio in Toronto to record their first album.  While recording, renowned producer Bob Ezrin visited the studio, listened to the band, and liked what he heard. Together they created the album [BAND_NAME] Are Here with the songs [SONG_NAME], The double-A side single spent 23 weeks on the U.S. charts, peaking at #43 on the Billboard Hot 100.  On superstation WLS-AM in Chicago, the song peaked at number nine during [MONTH] [YEAR].  It reached #59 in Canada. \nTwo other singles followed, including [SONG_NAME] which only reached #109 on Billboard, and the band began touring extensively with Bob Seger, [PERSON_NAME_FULL_1_MALE], The Beach Boys and [PERSON_NAME_FULL_0_MALE]. During [YEAR], their rising commercial fortunes culminated in an appearance on Dick Clark's American Bandstand, and the closing spot at the major Heatwave festival in [MONTH].\n"
    ]
 }

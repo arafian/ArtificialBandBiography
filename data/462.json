@@ -34,10 +34,5 @@
          "Ray Rose"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Southern California. The band originally consisted of brothers Roger [PERSON_NAME_LAST_1] and [PERSON_NAME_FULL_1_MALE] and their friend Mike Pendleton, later joined by [PERSON_NAME_FULL_2_MALE]. Pendleton and [PERSON_NAME_LAST_2] left the band in [YEAR] and were replaced by Mike Link and [PERSON_NAME_FULL_0_MALE]. The band produced seven studio albums, one compilation package and two double reissues of previous albums.\n",
-      "Roger Rose was a [GENRE] band in [YEAR]. The job gave him a chance to work out songs in his head, writing ideas down when he got back to his Jeep. He also already owned a lot of synthesizers, drum machines and recording equipment. One day while on his route, he stuck a tape in a Frontline Records executive's mailbox.\n",
-      "When asked to explain the name of the band, Roger cites 1 John 2:16, [SONG_NAME]\n"
-   ]
+   "albums": []
 }

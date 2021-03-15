@@ -2,8 +2,7 @@
    "Name": "Bohren & der Club of Gore",
    "rawData": [
       "Bohren & der Club of Gore is a German ambient/jazz band from Nordrhein-Westfalen, Germany.\n",
-      "The band was founded in 1992 in Mülheim an der Ruhr, Germany by Thorsten Benning, Morten Gass, Robin Rodenberg and Reiner Henseleit. Originally, group members started out playing in various hardcore bands such as 7 Inch Boots and Chronical Diarrhoea. In 1992 they produced a crossover of jazz and ambient, which they self-described as an \"unholy ambient mixture of slow jazz ballads, Black Sabbath doom and down-tuned Autopsy sounds\". Henseleit left the band in 1996 and was replaced by Christoph Clöser in 1997, replacing the guitar with a saxophone at the same time.\n",
-      "This article about a German band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+      "The band was founded in 1992 in Mülheim an der Ruhr, Germany by Thorsten Benning, Morten Gass, Robin Rodenberg and Reiner Henseleit. Originally, group members started out playing in various hardcore bands such as 7 Inch Boots and Chronical Diarrhoea. In 1992 they produced a crossover of jazz and ambient, which they self-described as an \"unholy ambient mixture of slow jazz ballads, Black Sabbath doom and down-tuned Autopsy sounds\". Henseleit left the band in 1996 and was replaced by Christoph Clöser in 1997, replacing the guitar with a saxophone at the same time.\n"
    ],
    "infobox": {
       "Origin": [
@@ -41,10 +40,5 @@
       "Beileid",
       "Piano Nights",
       "Patchouli Blue"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Nordrhein-Westfalen, Germany.\n",
-      "The band was founded in [YEAR] in Mülheim an der Ruhr, Germany by [PERSON_NAME_FULL_3_MALE], Morten Gass, [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_2_MALE]. Originally, group members started out playing in various hardcore bands such as 7 Inch Boots and Chronical Diarrhoea. In [YEAR] they produced a crossover of jazz and ambient, which they self-described as an [SONG_NAME]. [PERSON_NAME_LAST_2] left the band in [YEAR] and was replaced by [PERSON_NAME_FULL_1_MALE] in [YEAR], replacing the guitar with a saxophone at the same time.\n",
-      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

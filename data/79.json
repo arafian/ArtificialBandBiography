@@ -26,10 +26,5 @@
       "Neapolitan",
       "Soaked",
       "Mood Ring EP"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band originally from Davis, California, now based in the Excelsior District of San Francisco, California. Their sound has been described as [SONG_NAME].\n",
-      "The members of [BAND_NAME] all grew up in Davis, California, and first met in high school. The members came up with the name [BAND_NAME] due to a period of hot weather in San Francisco. In [YEAR], [BAND_NAME] released their first full-length album, Neapolitan. In [MONTH] [YEAR], the band released their first song since their debut full-length album, titled [SONG_NAME]. In [MONTH] [YEAR], [BAND_NAME] announced their second full-length album, released by OIM Records. The album, titled Soaked, was released on [MONTH] 2, [YEAR]. The album was produced by [PERSON_NAME_FULL_0_MALE].\n",
-      "In [MONTH] [YEAR], [BAND_NAME] released a song titled [SONG_NAME].\n"
    ]
 }

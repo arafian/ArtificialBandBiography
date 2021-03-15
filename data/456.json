@@ -25,10 +25,5 @@
    "albums": [
       "Legend",
       "Blind Faith"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band formed in the early [YEAR]s (formerly with the name Legend) by three former members of Ruscha, another Christian band from the [YEAR]s.\n",
-      "The band made its debut in [YEAR] under the name [SONG_NAME] The song was re-released on the band's self-titled debut album, Legend, in [YEAR] on Word Records.  Shortly after, the band was forced to change its name to [BAND_NAME] upon learning that another band was already using the name Legend.  They released Blind Faith in [YEAR].\n",
-      "Both albums were produced by Grammy Award-winning producer Bubba Smith and garnered several hits on Christian radio ([SONG_NAME], No. 15, [YEAR]). The band disbanded in [YEAR].\n"
    ]
 }

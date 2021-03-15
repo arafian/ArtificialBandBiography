@@ -85,10 +85,5 @@
       "Electric on the Eel",
       "Garcia Live Volume 11",
       "Garcia Live Volume 13"
-   ],
-   "prunedData": [
-      "The [BAND_NAME] was a [GENRE] band led by Jerry Garcia of the Grateful Dead. Garcia founded the band in [YEAR]; it remained the most important of his various side projects until his death in [YEAR].  The band regularly toured and recorded sporadically throughout its twenty-year existence, generally, but not always, during breaks in the Grateful Dead's schedule.\n",
-      "Over the years, the lineup of the [BAND_NAME] changed many times. The one constant member besides Garcia himself was bassist John Kahn, who served as Garcia's principal musical collaborator outside of the Grateful Dead after [YEAR]. [PERSON_NAME_FULL_0_MALE] had the next longest tenure, serving as keyboardist from [YEAR] onward.\n",
-      "Jerry Garcia's musical interests were famously varied, and this was reflected in the diverse music played by his band. Like the Grateful Dead, the [BAND_NAME] played rock music that was influenced by blues, folk, country, and jazz in an [GENRE] a framework for Garcia's solos. However, the group eschewed the former band's avant-garde and world music influences in favor of a slower, groove-based [SONG_NAME]\n"
    ]
 }

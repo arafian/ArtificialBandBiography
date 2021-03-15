@@ -32,10 +32,5 @@
          "Jeff Anderson"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a primarily [YEAR]s Contemporary Christian music band that wrote and performed many genres including new wave and pop.\n",
-      "[BAND_NAME] formed in the early '90s with Barry Blaze and [PERSON_NAME_FULL_0_MALE]. The duo released Visual Paradox as a self-published project, which was later picked up by indie label R.E.X. Records in [YEAR]. In the early [YEAR]s, the band's music was quite unique in that they were one of the few Christian music artists performing a Europop style. With their early sound being largely reminiscent of New Order, their later works became simultaneously more progressive and more tame in nature. Many fans believe their mid-[YEAR]s pop-leanings were forced by their involvement with major label ForeFront Records, as evidenced by the underground release of an industrial-leaning mix of the [SONG_NAME] project which was obscured by the mainstream release of the same recording in tamed-down form.\n",
-      "With a [GENRE] band. Rick Brainer, [PERSON_NAME_FIRST_0]t [SONG_NAME]. [PERSON_NAME_LAST_0] left by the end of the year. Later, [PERSON_NAME_FULL_1_MALE] would join for [YEAR]'s Arms Around the World, an album that would not only give Code two more No. 1's, but also let [BAND_NAME] receive its first Gospel Music Awards nomination in [YEAR].\n"
-   ]
+   "albums": []
 }

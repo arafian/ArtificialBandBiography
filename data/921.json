@@ -40,10 +40,5 @@
       "En Nuestro Desafio",
       "Fate Unfolds",
       "Paisajes"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band. The band is currently based in Oakland, California, and was established in San Diego in [YEAR]. The band has performed in 19 countries. \n",
-      "The group formed in San Diego in [YEAR], and included Christopher Sprague, [PERSON_NAME_FULL_0_MALE], Jimmy LaValle (The Album Leaf), James Lehner, and [PERSON_NAME_FULL_1_MALE]. This line-up recorded all material that was released through [YEAR], including the albums Spine and Sensory ([YEAR]) and Dream Signals in Full Circles ([YEAR]).  \n",
-      "In [MONTH] [YEAR], [BAND_NAME] played its last concert with Jimmy LaValle as a [GENRE] band occasionally since.\n"
    ]
 }

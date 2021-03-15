@@ -45,10 +45,5 @@
          "Neal Evans"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band that originated in Boston, Massachusetts in [YEAR]. Its members are guitarist [PERSON_NAME_FIRST_0] [SONG_NAME] Bloom.\n",
-      "[BAND_NAME] began in the summer of [YEAR], when all of its members attended a [GENRE] bands including Herbie Hancock, Earth, Wind and Fire, and Tower of Power, the band jammed throughout that summer before going their separate ways.\n",
-      "In the fall of [YEAR], the band reconvened as undergrads at Berklee and attempted to play at various Boston jazz clubs, walking in and asking the club owners and other musicians if they would [SONG_NAME], giving birth to the name [BAND_NAME]. Matt Butler played keyboards with the band early on and then [PERSON_NAME_FULL_0_MALE] took on the role. When he left, Neal Evans joined.\n"
-   ]
+   "albums": []
 }

@@ -44,10 +44,5 @@
       "studio only",
       "studio only since 2015",
       "studio only"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in [YEAR] and based in Morehead City, North Carolina, United States. Until [YEAR] – the year that Christopher Clonts joined the band – they went by the moniker Allysonhymn (pronounced All-eyes-on-Him). [BAND_NAME] is well known in Christian music, but the band is also known for their mainstream success, having toured with bands like Puddle of Mudd and Breaking Benjamin.\n",
-      "[BAND_NAME] was originally formed in [YEAR] as Allysonhymn by guitarist Brandon Mills and drummer [PERSON_NAME_FULL_0_MALE], who met in high school. Formerly an [GENRE] a more rock-oriented sound after [PERSON_NAME_FIRST_0]'s brother, Caleb, joined the band. Caleb [PERSON_NAME_LAST_0] started out doing percussion with [PERSON_NAME_FIRST_0], up until their bassist left the band. Caleb stated [SONG_NAME].\n",
-      "The band was first signed by SRE Recordings in mid-[YEAR]. In an interview, Brandon Mills claimed that [SONG_NAME]. Hence, they changed their name to [BAND_NAME].\n"
    ]
 }

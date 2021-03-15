@@ -38,10 +38,5 @@
          "Christian Martinius"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band formed by Ebbot Lundberg (vocals), [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_1_MALE], Per Helm and [PERSON_NAME_FULL_2_MALE] in [YEAR].\n",
-      "Their music can be described as a [GENRE] a bit angrier than The Soundtrack of Our Lives (the band that emerged from the ashes of [BAND_NAME]).\n",
-      "Though never really commercially successful, the band has received praise from artists like [PERSON_NAME_FULL_0_MALE], R.E.M. and Sonic Youth. After the success of The Soundtrack of Our Lives, a compilation CD was released in [YEAR].\n"
-   ]
+   "albums": []
 }

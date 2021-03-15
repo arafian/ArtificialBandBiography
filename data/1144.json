@@ -36,10 +36,5 @@
          "Jason Klein"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Los Angeles, California, consisting of frontwomen Heidi Shepherd and [PERSON_NAME_FULL_1_FEMALE], guitarist Henry Flury (Amen), bassist [PERSON_NAME_FULL_0_MALE], and drummer Chase Brickenden. Their debut album, Goliath, was released on [MONTH] 9, [YEAR] via Century Media Records. It sold 3,300 copies in the US during its first week of release and charted at No. 3 on the Billboard Heatseeker chart and No. 112 on the Billboard 200.\n",
-      "The [BAND_NAME] formed by vocalists Heidi Shepherd and [PERSON_NAME_FULL_0_FEMALE] in [YEAR]. The band self-released their first EP in [YEAR]. In [MONTH] [YEAR], they released a comic book at the Comic-Con in San Diego on [MONTH] 23 and 24. The comic book was written by [PERSON_NAME_LAST_0] and illustrated by Anthony Winn. Rock journalist [PERSON_NAME_FULL_1_MALE] stated in his review of one of the band's shows: [SONG_NAME] by Pantera.\n",
-      "On [MONTH] 6, [YEAR], the [BAND_NAME] premiered a new song, [SONG_NAME], which was produced by Mudrock (Avenged Sevenfold, Godsmack), which is from the band's self-released EP.\n"
-   ]
+   "albums": []
 }

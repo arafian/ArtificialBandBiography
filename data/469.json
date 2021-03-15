@@ -9,10 +9,5 @@
    "albums": [
       "Time Will Tell",
       "Electra Glide"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band best known for their song [SONG_NAME] in [YEAR].\n",
-      "Michael Sweet (from Stryper) produced their album Electra Glide and also performed on the album.  \n",
-      "In [YEAR] at Kingdom Bound Festival in Darien Lake, New York, they were in the [SONG_NAME] in [YEAR].\n"
    ]
 }

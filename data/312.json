@@ -6,10 +6,5 @@
       "Initially, the band spelled its name as the symbol ©, pronounced as \"Circle C\". Under that name, they released a self-titled debut album via Geffen Records in 1991. That album sold poorly, and the band was dropped from Geffen. \n"
    ],
    "infobox": {},
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME], originally spelled ©, was a [GENRE] band, active in the [YEAR]s and early [YEAR]s.\n",
-      "The band was launched by vocalist Thomas Anselmi and guitarist [PERSON_NAME_FULL_0_MALE], former members of the short-lived and controversial punk rock band Slow, with new bassist Eric [MONTH]xsen and drummer Pete Bourne.\nThe band was formed in [YEAR], when Anselmi and [PERSON_NAME_LAST_0] settled on that name after having collaborated under the short-lived band names Mo and [PERSON_NAME_FULL_0_MALE]'s Freeze-Dried Dog since the demise of Slow.\n",
-      "Initially, the band spelled its name as the symbol ©, pronounced as [SONG_NAME]. Under that name, they released a self-titled debut album via Geffen Records in [YEAR]. That album sold poorly, and the band was dropped from Geffen. \n"
-   ]
+   "albums": []
 }

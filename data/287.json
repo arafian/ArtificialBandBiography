@@ -56,10 +56,5 @@
       "Small Fame",
       "Animals",
       "Foolish Games"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in [YEAR] now based in Vancouver, British Columbia, Canada. The band takes its name from a novel by Vladimir Nabokov.\n",
-      "The band formed in [YEAR] and began playing as many bar shows as they possibly could in their home town of Kelowna, British Columbia. After their move to Vancouver BC, selling out a [GENRE] a new drummer and guitarist, the band sought out local producer [PERSON_NAME_FULL_0_MALE] to put together what is now their first full-length album Through the Broken City. The band did three consecutive nationwide tours in support of the album.\n",
-      "After gaining experience from the road, [BAND_NAME] returned to the studio to record a few new songs. These songs included the single [SONG_NAME], which moved the band into uncharted territory and captured the attention of Distort Entertainment president, [PERSON_NAME_FULL_0_MALE].\n"
    ]
 }

@@ -29,10 +29,5 @@
    "albums": [
       "Let's Not Forget the Story",
       "Even Now"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band previously signed with Inpop Records.\n",
-      "The band took their name from 1 Corinthians 1:27–29 [SONG_NAME].\n",
-      "The band won the coveted Music in the Rockies competition for unknown Christian artists in [YEAR].\n"
    ]
 }

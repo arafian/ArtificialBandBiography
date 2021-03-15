@@ -22,10 +22,5 @@
          "Raymond Herrera"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band formed in [YEAR] by rapper B-Real, Deftones guitarist Stephen Carpenter, and former Fear Factory members [PERSON_NAME_FULL_0_MALE] and Christian Olde Wolbers.\n",
-      "The project was first announced in [YEAR]. [SONG_NAME] In [MONTH] [YEAR], it was reported that [BAND_NAME] had completed its debut album, but that it would be difficult to release because all of the band members were signed to different labels. In [MONTH] [YEAR], it was reported that the album was not completed, but that it was getting close to completion. To date, no material from the band has been released officially, but demos have been leaked on various file sharing sites.\n",
-      "In [YEAR], during a Reddit AMA, B-Real indicated the project was stalled by [SONG_NAME].\n"
-   ]
+   "albums": []
 }

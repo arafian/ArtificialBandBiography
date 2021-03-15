@@ -6,10 +6,5 @@
       "Two other albums came out in 2005. The band's second release was made up solely from covers of the background music themes from the video game Ninja Gaiden II. This was followed by the completely original Heart of Sawdust album which consisted of six untitled tracks.\n"
    ],
    "infobox": {},
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from Philadelphia, Pennsylvania. They are known for their live shows (which have been described as [SONG_NAME]) as well as their unique instrumental sound. Their music is achieved by utilizing a combination of synthesizers and traditional instruments from guitars to accordions. Additionally, the band's body of work consists both of original songs and instrumental rock covers of video game music.\n",
-      "The band was formed by eight friends from high school in [YEAR]. The following year, their first full-length album was released, In the Year 20XX, which opens with a cover of [SONG_NAME] spans 13+ minutes.\n",
-      "Two other albums came out in [YEAR]. The band's second release was made up solely from covers of the background music themes from the video game Ninja Gaiden II. This was followed by the completely original Heart of Sawdust album which consisted of six untitled tracks.\n"
-   ]
+   "albums": []
 }

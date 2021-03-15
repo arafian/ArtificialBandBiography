@@ -36,10 +36,5 @@
       "I Stole Your Animal",
       "Get Over It!",
       "Girls Like It Loud"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band that consists of [PERSON_NAME_FIRST_0] (vocals and guitar) and Izzy (drums).  The group originally formed in [YEAR] with the Care Bears—singer-guitarist [PERSON_NAME_FULL_0_FEMALE], 11, bassist-singer [PERSON_NAME_FULL_1_MALE], 11, guitarist Michael (Lyle) Kokiko, 11, singer-keyboardist [MONTH] Rosenthal, 10, and drummer-singer Isadora “Izzy” Schappell-Spillman, 10, all classmates at Park Slope's Berkeley Carroll School. Lead guitarist Michael (Lyle) Kokiko and singer-keyboardist [MONTH] Rosenthal left the band in [YEAR] due to creative differences. After their bass player, [PERSON_NAME_FIRST_1], departed from the band he was replaced with LuLu and lastly, [PERSON_NAME_FULL_3_FEMALE] (who left in [YEAR]). The band labels itself as a pop punk group, mixing in alternative and garage rock elements. The band released their first, full-length LP, I Stole Your Animal on 28 [MONTH] [YEAR], at a release party in Brooklyn. Their second album, Get Over It, was released in [MONTH] [YEAR] on S-Curve Records.\n",
-      "[BAND_NAME] formed in [YEAR] when [PERSON_NAME_FULL_2_FEMALE], [PERSON_NAME_FULL_0_MALE] and Izzy were in 5th grade. They went through a variety of names before settling on the name [BAND_NAME] [SONG_NAME].\n",
-      "The band got their break when New York Magazine did a profile on the three in the summer of [YEAR]. After this article was published, [BAND_NAME] shot into the limelight with sources such as Spin Magazine calling Care Bears [SONG_NAME] They released their first EP, Confuse Me on Beautiful Records at a show in [YEAR].\n"
    ]
 }

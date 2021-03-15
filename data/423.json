@@ -22,10 +22,5 @@
          "Justin Stevens, Sam Hernandez, Masaki Liu, Phil Meads, Joel Metzler"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band which was active during the mid- to late-[YEAR]s.\n",
-      "Singer/Songwriter Justin Stevens and Engineer/Producer/Songwriter [PERSON_NAME_FULL_1_MALE] originally formed the band  Radiation Ranch, a [SONG_NAME] (the lyric was changed before [BAND_NAME] recorded the song on the first edition of their first cd).\n",
-      "[BAND_NAME] often opened for secular acts such as [PERSON_NAME_FULL_0_FEMALE], Mudhoney, and Better Than Ezra.\n"
-   ]
+   "albums": []
 }

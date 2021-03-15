@@ -35,10 +35,5 @@
    },
    "albums": [
       "Dancing in the Dark Lakes of Evil"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Athens, Greece, named after the goddess [BAND_NAME].\n",
-      "[BAND_NAME] first formed under the name Lloth in [MONTH] [YEAR] at Athens, Attica. The original line-up included [MONTH]ia [SONG_NAME].\n",
-      "On [MONTH] 30, [YEAR], [MONTH]ia Kolokouri's husband Nick Maiis released a statement revealing that she had leukemia and was critically ill. On [MONTH] 9, [YEAR], Maiis posted another statement on behalf of his wife, saying that, while [MONTH]ia had beaten the leukemia, the complications from the disease had caused her to take a turn for the worse and she was not expected to survive the day. Shortly afterwards another post was made to Tristessa's official Facebook page saying that she had just died.\n"
    ]
 }

@@ -1,8 +1,7 @@
 {
    "Name": "Heart and Lungs",
    "rawData": [
-      "Heart and Lungs is an EP by the American rock band Truly.  \"Heart and Lungs\" was featured in the 1992 film Singles.\n",
-      "This 1990s alternative rock album–related article is a stub. You can help Wikipedia by expanding it."
+      "Heart and Lungs is an EP by the American rock band Truly.  \"Heart and Lungs\" was featured in the 1992 film Singles.\n"
    ],
    "infobox": {
       "Released": [
@@ -24,9 +23,5 @@
          "Robert Roth, Truly, Jonathan Aver"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band Truly.  [SONG_NAME] was featured in the [YEAR] film Singles.\n",
-      "This [YEAR]s alternative rock album–related article is a [GENRE]"
-   ]
+   "albums": []
 }

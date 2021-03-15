@@ -34,10 +34,5 @@
       "Clenched",
       "EPic",
       "Synergi"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Gothenburg, Sweden.\n",
-      "The band was formed in [YEAR]. Their debut indie album, In Your [BAND_NAME] was released in Sweden in [MONTH] [YEAR]. The album contains a [GENRE] a renowned Swedish singer and member of the popular comedy group Galenskaparna och After Shave. In [MONTH] [YEAR], the band released their second indie album titled Clenched. This time the record producer [PERSON_NAME_FULL_0_MALE] helped them out on the track [SONG_NAME].\n",
-      "In [MONTH] [YEAR], bassist Mathias Dagerhed decided to quit, and a replacement was found in [PERSON_NAME_FULL_2_MALE]. At the same time [BAND_NAME] decided to add a third guitarist to the line-up, and [PERSON_NAME_FULL_1_MALE] was recruited. In [YEAR], they released the single [SONG_NAME].\n"
    ]
 }

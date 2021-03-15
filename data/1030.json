@@ -14,10 +14,5 @@
       "Soulhat ",
       "Experiment on a Flat Plane",
       "Live at the Black Cat Lounge"
-   ],
-   "prunedData": [
-      "[BAND_NAM[PERSON_NAME_LAST_1] is an [GENRE] band from Texas. The group formed in [Y[PERSON_NAME_LAST_1]R] around the nucleus of [PERSON_NAME_FULL_2_MALE], Bill Cassis, and [PERSON_NAME_FULL_3_MALE]; [P[PERSON_NAME_LAST_1]SON_NAM[PERSON_NAME_LAST_1]FULL_1_MAL[PERSON_NAME_LAST_1] [SONG_NAME] peaked at #25 on the Billboard Mainstream Rock charts. A follow-up studio album appeared in [Y[PERSON_NAME_LAST_1]R], and a third in [Y[PERSON_NAME_LAST_1]R].\n",
-      "In early [YEAR], [BAND_NAME] won the Austin Regional Poll in The 2nd Annual Independent Music Awards for their song [SONG_NAME]\n",
-      "Barry [SONG_NAME] Smith (born [MONTH] 20, [YEAR] in Bellingham, Washington) died after a long illness on [MONTH] 12, [YEAR], at the age of 71.\n"
    ]
 }

@@ -29,10 +29,5 @@
          " Rami Fortis"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band associated with the post-punk and indie rock movement of the [YEAR]s.\n",
-      "Between its foundation in [YEAR] and its dissolution seven years later, [BAND_NAME]  played an important role in the European rock scene. [PERSON_NAME_FULL_0_FEMALE] (bass, vocals), [PERSON_NAME_FULL_1_MALE] (vocals, lyrics) and Berry Sakharof (guitars, keyboards, vocals) left their native Tel Aviv in [YEAR] for Amsterdam in search of an escape from the provincial attitudes of their own city. Of the trio, only Berry was a [SONG_NAME], while [PERSON_NAME_FIRST_1] was better known as a DJ (Morpheus) and a music fan who dabbled in poetry. They recorded a 2-song demo at home, and became one of the first artists signed to the Belgian Crammed label.\n",
-      "During the recording for a speculative 7[SONG_NAME] style of vocalisation. In this way they both prefigured alternative dance and later fascinations with so called world music.\nThis mini-album (now re-released on CD along with its successor [SONG_NAME], based on a text by the beat poet Bob Kaufman.\n"
-   ]
+   "albums": []
 }

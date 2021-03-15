@@ -42,10 +42,5 @@
          "Russ Randolf"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "The [BAND_NAME] is an [GENRE] band formed by Keith and Donna Jean Godchaux in [YEAR] following their departure from the Grateful Dead. The band took its name from a line in the Dead song [SONG_NAME].\n",
-      "The [BAND_NAME] was formed in early [YEAR], shortly after [PERSON_NAME_FIRST_3] and Donna [PERSON_NAME_LAST_3] had left the Grateful Dead in [YEAR]. Other founding members of the group were guitarist [PERSON_NAME_FULL_2_MALE], drummer [PERSON_NAME_FULL_1_MALE], bassist Dexter LaBlanc, and vocalist [PERSON_NAME_FULL_0_FEMALE]. [PERSON_NAME_FULL_3_MALE] was killed in a car accident on [MONTH] 23, [YEAR], just a few days after the band's first gig. The band continued on for another year, adding keyboardist [MONTH]k Adler and replacing Dexter LaBlanc with Donna [PERSON_NAME_LAST_3]'s future husband, David MacKay, before disbanding.\n",
-      "A self-titled CD was released in [YEAR], containing 13 tracks recorded by the original band, 11 of them prior to [PERSON_NAME_FULL_0_MALE]'s death.\n"
-   ]
+   "albums": []
 }

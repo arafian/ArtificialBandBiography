@@ -26,10 +26,5 @@
          "Jean Williams"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] were an [GENRE] band in the [YEAR]s. The band formed while the girls were attending Maplewood High School (Tennessee) in Nashville. They released only one album, Livin' Love, in [YEAR]. The album has been reissued twice and has since developed a minor cult following.\n",
-      "[BAND_NAME] consisted of Mindy Dalton on guitar and vocals, [PERSON_NAME_FULL_0_FEMALE] on tambourine and vocals, Lana Napier on drums, Pame Stephens on keyboards and Jean Williams on bass. Napier and Williams decided to form an [GENRE] band in the fall of [YEAR], eventually asking Dalton and [PERSON_NAME_LAST_0] to join. All four were members of the Maplewood High School girls' basketball team, giving themselves the name of The Pivots, which was also their team's name. By the summer of [YEAR] they added Stephens, a friend of Williams', and changed their name to [BAND_NAME]. According to Napier, \n",
-      "Everybody was just throwing out stuff...And somebody threw out a [GENRE]"
-   ]
+   "albums": []
 }

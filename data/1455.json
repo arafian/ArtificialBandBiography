@@ -25,10 +25,5 @@
          "Carnegie of Fife"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "The [BAND_NAME] is a [GENRE] band from Fife in Scotland, established in [MONTH] [YEAR].\n",
-      "The band was established in [MONTH] [YEAR] as the Fife Constabulary Pipe Band, and was placed in the senior grade by the Royal Scottish Pipe Band Association in [MONTH] the following year. Their first competition, at the Dunbar Highland Games in [MONTH] [YEAR], saw them awarded first prize. In [MONTH] of the same year they made their first appearance at the World Pipe Band Championships and gained entry into the grade one final, having achieved second place among fourteen bands in the morning qualifying round.\n",
-      "The first Pipe Major was James Murray, with [PERSON_NAME_FULL_0_MALE] starting as Pipe Sergeant, both having left Grade 1 band Shotts and Dykehead. When James Murray announced he was to emigrate to Australia, [PERSON_NAME_LAST_0] took over as Pipe Major. Douglas Murray became Pipe Major in [MONTH] [YEAR] after [PERSON_NAME_FULL_0_MALE] stepped down, citing time constraints as a [GENRE] band.\n"
-   ]
+   "albums": []
 }

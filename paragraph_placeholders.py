@@ -183,12 +183,13 @@ def get_paragraph_placeholders(data):
     #      data = json.load(f)
 
     texts = data['rawData']
+    texts = album_placeholders(data["albums"], texts)
+    texts = song_placeholders(texts)
     texts = band_placeholder(data, texts)
     texts = year_placeholder(texts)
     texts = month_placeholder(texts)
     texts = person_name_placeholder(data, texts)
-    texts = album_placeholders(data["albums"], texts)
-    texts = song_placeholders(texts)
+
     try:
         texts = genre_placeholder(texts)
     except:
@@ -209,7 +210,8 @@ def album_placeholders(albums, texts):
     return_texts = []
     for text in texts:
         for i in range(len(albums)):
-            return_texts.append(re.sub(rf'{re.escape(albums[i])}', "[ALBUM_NAME]", text))
+            text = re.sub(rf'{re.escape(albums[i])}', "[ALBUM_NAME]", text)
+        return_texts.append(text)
     return return_texts
 
 def song_placeholders(texts):
@@ -219,21 +221,27 @@ def song_placeholders(texts):
     return return_texts
 
 
-
 complete_paras = []
+allPrunedPara_1 = []
+allPrunedPara_2 = []
+allPrunedPara_3 = []
+ind_pruned_paras = [allPrunedPara_1, allPrunedPara_2, allPrunedPara_3]
 for i in range(1657):
     print(i)
     with open('data/' + str(i) + '.json', 'r', encoding='utf-8') as inf:
         data = json.load(inf)
-        #try:
-        complete_paras.append(get_paragraph_placeholders(data))
-        #except:
-        #    print(i)
-#print(complete_paras)
+        placeholders = get_paragraph_placeholders(data)
+        complete_paras.append(placeholders)
+        for j in range(len(placeholders)):
+            ind_pruned_paras[j].append(placeholders[j])
+
 
 with open('data/consolidatedData.json', 'r', encoding='utf-8') as inf:
     consol_data = json.load(inf)
     consol_data.update({'allPrunedParaComplete': complete_paras})
+    consol_data.update({'allPrunedPara_1': allPrunedPara_1})
+    consol_data.update({'allPrunedPara_2': allPrunedPara_2})
+    consol_data.update({'allPrunedPara_3': allPrunedPara_3})
 
 with open('data/consolidatedData.json', 'w', encoding='utf-8') as inf:
     json.dump(consol_data, inf, indent=3)

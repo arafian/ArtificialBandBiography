@@ -31,10 +31,5 @@
    "albums": [
       "Immediate Action",
       "Immediate Action"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band of the early [YEAR]s. It was started by [PERSON_NAME_FULL_1_MALE] (vocals, guitar) after the demise of The Rabbits. The principal musicians, besides [PERSON_NAME_LAST_1], were his brother Chris (guitar), Pierre Kezdy (bass), and [PERSON_NAME_FULL_0_MALE] (drums).\n",
-      "[BAND_NAME] was founded in [YEAR] or [YEAR]. Although American punk is generally considered to have started four or five years earlier, punk and new wave music arrived in Chicago far later than on either coast, so that [BAND_NAME] is correctly still considered an [SONG_NAME] of Chicago punk, as it turned toward a more hardcore scene and sound, and as an archetype of Chicago hardcore.\n",
-      "In [YEAR], [BAND_NAME] released a 5-song 12[SONG_NAME].\n"
    ]
 }

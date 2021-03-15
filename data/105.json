@@ -23,10 +23,5 @@
          "Nick Buck"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from the late [YEAR]s and early [YEAR]s.  They are perhaps best remembered for their bassist Jack Casady, who had played in both [PERSON_NAME_FULL_0_MALE] and Hot Tuna.  Other members were singer Brian [MONTH]nell, drummer [PERSON_NAME_FULL_2_MALE] (later of Huey Lewis and the News, replaced by [PERSON_NAME_FULL_1_MALE]), and Nick Buck, also a Hot Tuna veteran, on keyboards .\n",
-      "The group is said to have taken its name from the medical condition known as supraventricular tachycardia. A more plausible explanation is that the name was taken from a [GENRE]",
-      "[BAND_NAME] recorded two singles in [YEAR], one EP in [YEAR], and one album, No Regrets, in [YEAR].  They were one of the first bands ever to record on [PERSON_NAME_FULL_1_MALE]'s 415 Records, who released their single, Heart of Stone, in [YEAR]. The group disbanded after both Zahl and Casady left to form Yanks with Jack Johnson and [PERSON_NAME_FULL_0_MALE]. Casady later quit Yanks and was replaced by bassist Steve Aliment.  Brian [MONTH]nell died in [YEAR].  Casady's former [PERSON_NAME_FULL_2_MALE] bandmate [MONTH]ty Balin covered the song Heart of Stone on his album, Lucky in [YEAR].\n"
-   ]
+   "albums": []
 }

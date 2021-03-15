@@ -38,10 +38,5 @@
       "Rock and roll",
       "Viva! Tequila!",
       "Confidencial"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band, active between [YEAR] and [YEAR]. The group consisted of Ariel Rot (guitar), [PERSON_NAME_FULL_1_MALE] (voice), [MONTH]ián Infante (guitar), [PERSON_NAME_FULL_0_MALE] (bass) and Manolo Iglesias (drums). [BAND_NAME] was one of the most popular bands in the early years of democracy in Spain.\n",
-      "[BAND_NAME] emerged after the fall of the Franco regime, years before la Movida Madrileña days. Their music has influences from artists such as Chuck Berry and The Rolling Stones, a sound very different from the symphonic rock and urban rock groups predominant on the Spanish scene at the time. Songs like Salta!! (which was played for the first time in the well-known television show Un, dos, tres... responda otra vez), Quiero besarte, [PERSON_NAME_FULL_0_FEMALE], and Rock and Roll en la plaza del pueblo, catapulted the five [BAND_NAME] members to stardom.\n",
-      "[BAND_NAME] release four studio albums, and were working in a fifth before their first breakup. The song [SONG_NAME], intended for the further, would finally appear in the Los Rodriguez album Sin documentos.\n"
    ]
 }

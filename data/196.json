@@ -34,10 +34,5 @@
          " Ned Torney"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "The [BAND_NAME] was an [GENRE] band formed in San Jose, California that was first active between [YEAR] and [YEAR]. Through their national hit [SONG_NAME], the band developed a raw sound, and became forerunners in the psychedelic rock genre. The group managed to produce two other charting singles and, after their initial breakup in [YEAR], have since reformed with a new lineup.\n",
-      "The line-up formed in [YEAR], when Don Baskin ([MONTH] 9, [YEAR]–[MONTH] 22, [YEAR]; vocalist, guitar) and [PERSON_NAME_FULL_0_MALE] (bass guitar), both originally from the outfit Lenny Lee and the Nightmen, united with a [GENRE] band, the [BAND_NAME], which, along with Baskin and [PERSON_NAME_LAST_0], included [PERSON_NAME_FULL_1_MALE] (keyboards), Larry Ray (lead guitar), and [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_2] (drums). Several other stand-ins performed with the band, most notably Dr. Kelly E. Hejtmancik Sr. (bass guitar) of Galveston TX during the band's Galveston filming of [SONG_NAME].\nIn the beginning stages of the band's existence, the group was influenced by R&B music, specifically the early musical styles of The Rolling Stones and The Beatles. After the group won a Bay Area [SONG_NAME], which received local airplay, but ultimately failed to make an impact. Though the record was unsuccessful, it established the band's sound, combining striking vocal harmonies and innovative psychedelic instrumentals.\n",
-      "Baskin, Gonzalez and Sharkey continued to write new material and came up with [SONG_NAME] also hit the Hot 100 and peaked at #55 on 1 [MONTH] [YEAR].\n"
-   ]
+   "albums": []
 }

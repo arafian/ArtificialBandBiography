@@ -22,10 +22,5 @@
          "Daniel Saks, Kevin Snider, Andrew Oom, Amy Crawford, Justin Riddle"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from New York that plays [MONTH]hardic folk songs in a modern context. The band is named for 12th century Kabalistic philosopher Moses de León and the great-grandfather of front man [PERSON_NAME_FULL_0_MALE], Giorgio [BAND_NAME].\n",
-      "[BAND_NAME] was formed in [YEAR], and first played live in [MONTH] [YEAR] at the Bowery Ballroom, alongside Balkan Beat Box.  [BAND_NAME] has toured with Os Mutantes, Gogol Bordello, Ozomatli, [PERSON_NAME_FULL_2_MALE] and Balkan Beat Box. Saks is also a member of The LeeVees and The Macaroons.  [BAND_NAME]'s self-titled album was released [MONTH] 12, [YEAR] on JDub Records. Saks (vocals, guitar, banjo), along with band mates Kevin Snider (bass), [PERSON_NAME_FULL_0_MALE] (drums), Amy Crawford (keyboard, melodica, glockenspiel) and [PERSON_NAME_FULL_1_MALE] (trumpet, synth), wrote the songs that combine ancient [MONTH]hardic melodies sung in Ladino, Hebrew and English with modern rock, using guitars, horns and drums.\n",
-      "In [YEAR], [PERSON_NAME_LAST_2] moved to Mexico City, where he recorded [BAND_NAME]'s third LP, Tremor Fantasma.  They released album independently because their former label JDub Records had dissolved.  A second version of the band was assembled in Mexico City consisting of [PERSON_NAME_FULL_2_MALE] and as Mexico City natives [MONTH]ina de Ita and Cynthia [MONTH]tinez of Polka Madre, [PERSON_NAME_FULL_1_MALE] of Paté de Fuá and Los Dorados, [PERSON_NAME_FULL_0_MALE] of Petra and Strictly Personal and [PERSON_NAME_FIRST_2]te [PERSON_NAME_LAST_3] .\n"
-   ]
+   "albums": []
 }

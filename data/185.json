@@ -33,10 +33,5 @@
    },
    "albums": [
       "Psychotic Reaction"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band, formed in San Jose, California in [YEAR], best known for their hit single [SONG_NAME].\n",
-      "The band was founded in [YEAR] by John [SONG_NAME] Atkinson ([YEAR]–[YEAR], born [PERSON_NAME_FULL_0_FEMALE], California) played drums. The [BAND_NAME] were recognizable for their habit of wearing Count Dracula-style capes when playing live.\n",
-      "[SONG_NAME] shortly later went on to join up with Billy Nix and the Ideals as their Bass player.  \n"
    ]
 }

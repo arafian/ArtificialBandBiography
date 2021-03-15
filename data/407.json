@@ -27,10 +27,5 @@
    },
    "albums": [
       "Never Go Unheard"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from Rainsville, Alabama, where the group started making music in [YEAR]. Their first release, [BAND_NAME], an extended play, was released in [YEAR]. They have also released a studio album, Never Go Unheard, in [YEAR].\n",
-      "The group started in [YEAR], in Rainsville, Alabama, where they are vocalist, Ben Honeycutt, guitarist, [PERSON_NAME_FULL_2_MALE], bassist, [PERSON_NAME_FULL_1_MALE], and drummer, [PERSON_NAME_FULL_0_MALE]. Their name comes from the bible verses, Matthew 5:14 and Psalm 133:1, in order to portray and reflect a [GENRE] a darkened world.\n",
-      "They released an independently-made extended play, [BAND_NAME], in [YEAR]. Their first studio album, Never Go Unheard, was released on [MONTH] 17, [YEAR], from Infinity Records.\n"
    ]
 }

@@ -29,10 +29,5 @@
          "Chris Lockwood"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band with country music influences from Franklin, Tennessee.\n",
-      "The band began playing in Nashville and signed to INO Records, who released the band's debut album, [BAND_NAME], in [YEAR]. The album peaked at No. 8 on Billboard's Top Heatseekers albums chart and No. 16 on its Top [PERSON_NAME_FIRST_0]tian Albums chart. In [YEAR], their next album, One Life charted at No. 161 the Billboard 200 and No. 4 on Billboard Top [PERSON_NAME_FIRST_0]tian Albums chart. In [YEAR], they released their [PERSON_NAME_FIRST_0]tmas album, Believe. Their [YEAR] song, [SONG_NAME]. You Tube. Retrieved [MONTH] 2, [YEAR]. Pianist Collin Stoddard left the group in [YEAR] to become a pastor. In [YEAR], Barton and [PERSON_NAME_LAST_0] continued on and released Today. In [YEAR], [PERSON_NAME_FULL_0_MALE] left [BAND_NAME].\n",
-      "Current\n"
-   ]
+   "albums": []
 }

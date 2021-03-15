@@ -32,10 +32,5 @@
    "albums": [
       "Lars Frederiksen and the Bastards",
       "Viking"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band formed to release the songs that [PERSON_NAME_FIRST_0] had written. Their songs include subject matter consisting of drinking, fighting, drugs, sex, prostitutes, gangs, and street life. They were the side project band of [PERSON_NAME_FULL_0_MALE] from Rancid.\n",
-      "The band members were [PERSON_NAME_FULL_2_MALE] (vocals and lead guitar), [PERSON_NAME_FULL_1_MALE] (also credited as [SONG_NAME]) (drums). While Craig did not appear on the first album, he was always been a [GENRE] band.\n",
-      "The band was formed after Lars' friend and bandmate in Rancid, Tim Armstrong suggested writing songs about Lars and his friend Ben growing up in Campbell, California. The band was then put together as an outlet to release these songs, as well as covers of [PERSON_NAME_FULL_0_MALE]'s [SONG_NAME] (which was also covered by Motörhead). This first album was named [BAND_NAME].\n"
    ]
 }

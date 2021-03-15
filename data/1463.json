@@ -19,10 +19,5 @@
          "www.hppb.ca/about.html"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "The [BAND_NAME] is a [GENRE] band based in Hamilton, Ontario, Canada.  Currently, the [BAND_NAME] consists of a competing grade 4 band, a developing grade 5 band, and a teaching program. The [BAND_NAME] has had many successful seasons under its most recent leadership of drum sergeant Sandy McKail and pipe major [PERSON_NAME_FULL_0_FEMALE]. Over the last 15 years the two have led HPPB to many local and North American prizes and titles such as North American champions, Canadian champions, Transatlantic champions, [MONTH]a Scotia champions, and 1st placings in many PPBSO Highland games across Ontario.\n",
-      "Pipe major [PERSON_NAME_FULL_0_FEMALE] is the current pipe major and over the last 15+ years has had major success taking a [GENRE] band up to grade 2. [PERSON_NAME_LAST_0] passed the band to John Elliot after the [YEAR] World Pipe Band Championship, stepping down to pipe sergeant while still being part of the management team. Under the direction of Elliot, the band competed in grade 2 until its folding in [YEAR]. [PERSON_NAME_LAST_0] resumed the pipe major position after the folding of the grade 2 band in [YEAR], now competing in grade 4.\n",
-      "Sandy Mckail was a [GENRE] band's second grade two band folded almost 15 years ago. McKail had been the leading drummer and drumming instruction for all levels, up to grade 2, building winning drum scores for snare and midsection, McKail would tie the band together, providing a complementary ensemble perspective that seemed to always elevate the musical feeling and expression of the band.  His drum score arrangements dominated the junior grades for almost a decade.\n"
-   ]
+   "albums": []
 }

@@ -29,9 +29,9 @@ def main():
       #   return json.dumps({"msg": "success", 
       #                      "band_name": band_name,
       #                      "paras": {"p": p}})
-        #p1 = random.choice(consolidatedData['allPrunedPara_0'])
-        #p2 = random.choice(consolidatedData['allPrunedPara_1'])
-        #p3 = random.choice(consolidatedData['allPrunedPara_2'])
+        #p1 = random.choice(consolidatedData['allPrunedPara_1'])
+        #p2 = random.choice(consolidatedData['allPrunedPara_2'])
+        #p3 = random.choice(consolidatedData['allPrunedPara_3'])
         #
         #return json.dumps({"msg": "success", 
         #                   "paras": {"p1": p1, "p2": p2, "p3": p3}})

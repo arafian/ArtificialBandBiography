@@ -26,10 +26,5 @@
          "Juan Luis Suárez (electric guitar)"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (English: Morpheus' Dream) was a [GENRE] band from Asturias. Their musical style is pop rock fused with Celtic, folk rock and indie pop elements. \nThey represented Spain at Eurovision Song Contest [YEAR] with the song [SONG_NAME].\n",
-      "The band was originally formed in [YEAR] under the name Xemá, with a clear influence of Asturian folk music. Their debut album, Del interior, was released that same year, but failed to generate commercial success. This album was recorded while David Feito, from Asturias himself, and Raquel del Rosario, from the Canary Islands, were at the Colegio Internacional Meres in Siero, Asturias, together with teachers [PERSON_NAME_FULL_0_MALE] (keyboard and accordion) and Antón Fernández (bass guitar and guitar). After the launch of this first album, the band had to decide if they would go on as Xemá or create a new project, opting for the latter.\n",
-      "After [PERSON_NAME_FULL_0_MALE] joined David and Raquel in [YEAR], they decided to find a [GENRE] band. They considered names like [SONG_NAME] (The Daughter of Chaos), and eventually chose [BAND_NAME].\n"
-   ]
+   "albums": []
 }

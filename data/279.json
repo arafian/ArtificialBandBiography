@@ -47,10 +47,5 @@
       "Let Sleeping Gods Lie",
       "The Shadow Out of Tim",
       "The Dukes of Alhazred"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Chilliwack, British Columbia, Canada. Their music largely consists of often tongue-in-cheek homages to the works of H. P. Lovecraft, specifically the Cthulhu Mythos.\n",
-      "[BAND_NAME] formed in [MONTH] [YEAR] after meeting at Fraser Valley College in Abbotsford, British Columbia. Lead singer Toren Atkinson and lead guitarist Warren Banks formed the band so they could open for local group Mystery Machine. Even though they [SONG_NAME] they were able to create a [GENRE]",
-      "The band's name is drawn from a phrase in Lovecraft's story The Tomb: [SONG_NAME]. \n"
    ]
 }

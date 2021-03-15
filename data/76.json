@@ -32,10 +32,5 @@
          "Jean Piersol"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (also known as The Great!! Society!!) was a [YEAR]s [PERSON_NAME_FULL_0_MALE] rock band that existed from [YEAR] to [YEAR], and was closely associated with the burgeoning Bay Area acid rock scene. Best known as the original group of model-turned-singer [PERSON_NAME_FULL_1_FEMALE], the initial line-up of the band also featured her then-husband Jerry [PERSON_NAME_LAST_1] on drums, his brother [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_1] on guitar, David Miner on vocals and guitar, Bard DuPont on bass, and Peter van Gelder on flute, bass, and saxophone.  Miner and DuPont did not remain with the band for the duration of its existence.\n",
-      "In the late summer of [YEAR], Grace, Darby, and Jerry were inspired by The Beatles to start their own group. Grace has said that seeing Jefferson Airplane perform for the first time was an [GENRE] band made its debut at the Coffee Gallery in San Francisco's North Beach neighborhood on [MONTH] 15, [YEAR] and continued to perform throughout [YEAR].\n",
-      "The band released only one single during its lifetime, the Darby Slick-penned [SONG_NAME] that was suitable for release.\n"
-   ]
+   "albums": []
 }

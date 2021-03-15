@@ -46,10 +46,5 @@
       "Zonkey",
       "It's Not Us",
       "It's You"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band originally from South Bend, Indiana. The band experiments with many musical styles, including rock, metal, funk, jazz, blues, reggae, electronic, bluegrass, and folk. They have toured regularly and released several albums.\n",
-      "Formed by students at the University of Notre Dame in [MONTH] [YEAR], members were guitarist/vocalist [PERSON_NAME_FULL_0_MALE], bassist [PERSON_NAME_FULL_1_MALE], keyboardist Joel Cummins, and drummer [PERSON_NAME_FULL_3_MALE]. [BAND_NAME] combined members of Tashi Station and Stomper Bob, two Notre Dame rock bands. Early concerts consisted of both originals and cover songs, including Guns N' Roses' [SONG_NAME] as well as songs by Phish, moe., and Grateful Dead.\n",
-      "According to Cummins, [SONG_NAME]\n"
    ]
 }

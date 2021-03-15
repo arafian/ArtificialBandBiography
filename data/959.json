@@ -59,10 +59,5 @@
       "Silverlined",
       "Tonight, Tomorrow and Yesterday",
       "Dance in the Street"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE]",
-      "A musician friend suggested [SONG_NAME] of people who found each other at the group's live events.\n",
-      "[BAND_NAME] is one of the founding and host bands of the annual Finger Lakes GrassRoots Festival of Music and Dance, and of the Shakori Hills Grassroots Festival; and is among the headliners at The Great Blue Heron Music Festival in Sherman, New York. [BAND_NAME] was featured in On The Bus, a documentary co-directed by [PERSON_NAME_FULL_0_MALE].\n"
    ]
 }

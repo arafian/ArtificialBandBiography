@@ -44,10 +44,5 @@
       "Palais Schaumburg",
       "Lupa",
       "Parlez-Vous Schaumburg?"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from Hamburg, Germany. The style was classified as Neue Deutsche Welle, and strongly characterized by their avant garde music and dadaistic attitude.\n",
-      "The band was originally formed in [YEAR], featuring [PERSON_NAME_FULL_1_MALE], [PERSON_NAME_FULL_0_MALE], Thomas Fehlmann, and percussionist F.M. Einheit. The group's name stands for Das [BAND_NAME] in Bonn, the Cold War era residence of the German chancellor.\n",
-      "Einheit left the group, eventually to join Einstürzende Neubauten and was replaced by [PERSON_NAME_FULL_1_MALE] prior to [BAND_NAME]'s first full-length album [BAND_NAME] which was produced by David Cunningham and released in [YEAR]. Shortly after it was released, Hiller left the band and started his solo career. He was replaced with Moritz von Oswald and vocalist [PERSON_NAME_FULL_0_MALE].\n"
    ]
 }

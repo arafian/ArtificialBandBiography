@@ -43,10 +43,5 @@
          " Kai Marcus"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in [YEAR] by Tommy Lee, who had temporarily quit his position as Mötley Crüe's drummer.\n",
-      "Lee formed [BAND_NAME] on the eve of his divorce from Pamela Anderson. Their first self-titled album was released in late [YEAR] and went on to be certified gold. The album featured appearances by [PERSON_NAME_FULL_1_MALE], Crystal Method, U-God, Kid Rock, Snoop Dogg, Lil' Kim, George Clinton and Mix Master Mike. [SONG_NAME] The band disbanded in [MONTH] [YEAR].\n",
-      "Lee announced that he is reforming [BAND_NAME], and would start recording in [MONTH] [YEAR]. Rumors of new members such as drummer Will Hunt, guitarist J3, guitarist [PERSON_NAME_FULL_0_MALE] (who contributed to the first album), and the return of touring bassist [MONTH]ty O'Brien circulated. While an official touring line-up has yet to be confirmed, it is known that each of these members have contributed to the latest album. A live performance on The Tonight Show with Jay Leno saw [PERSON_NAME_FULL_1_MALE] (of Sevendust) playing drums, DJ Aero on turntables, J3 on guitar and vocals, and Lee on vocals and guitar. There was no bass player. [BAND_NAME] recently have been signed to Loud & Proud/Roadrunner Records.\n"
-   ]
+   "albums": []
 }

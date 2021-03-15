@@ -27,10 +27,5 @@
          "Tomoka Nishimura"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] were all-female rock band started in Sapporo, Japan in [YEAR]. Although it initially started as a [GENRE] an all-female band. [BAND_NAME] has been categorized in a new genre called [SONG_NAME], under the major record label Sony Records, on [MONTH] 7, [YEAR].  The group has officially ended on [MONTH] 2, [YEAR].\n",
-      "Their most famous song is [SONG_NAME], released on [MONTH] 8, [YEAR]. The single sold about 744,000 copies on Japanese Oricon charts.\n",
-      "[BAND_NAME] started off with eight members in [YEAR], then reduced to six and finally to four – [PERSON_NAME_FULL_0_FEMALE], [PERSON_NAME_FULL_3_FEMALE], [PERSON_NAME_FULL_1_FEMALE], and [PERSON_NAME_FULL_2_FEMALE] – by the time they released their first indie disc in [YEAR].\n"
-   ]
+   "albums": []
 }

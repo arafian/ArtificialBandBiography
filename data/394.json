@@ -32,10 +32,5 @@
    },
    "albums": [
       "A Christmas Wish List"
-   ],
-   "prunedData": [
-      "[BAND_NAME] (pronounced [SONG_NAME]) is an [GENRE] band. Their debut album, Alive in You, was released on [MONTH] 13, [YEAR] ([YEAR]-09-13).\n",
-      "The band is from Mount Vernon, Kentucky. They have released five full-length albums and two Christmas EPs. Their biggest radio single is [SONG_NAME] which stayed at No. 1 for five weeks.\n",
-      "[MONTH]iah Secrest said [SONG_NAME]\n"
    ]
 }

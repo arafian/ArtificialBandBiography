@@ -42,10 +42,5 @@
          "Val Haller"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (originally named Africa Corps) is an [GENRE] band, formed in the early [YEAR]s. The group reformed in [YEAR] and remains active with a different lineup.\n",
-      "They are known for lengthy songs with an [GENRE]",
-      "The band was originally named Africa Corps, and was formed by UCLA students [PERSON_NAME_FULL_1_MALE] (guitar) and [MONTH]k Erskine (drums/percussion). They were joined by Philip Drucker (aka [PERSON_NAME_FULL_0_MALE]), Robert Loveless, and [PERSON_NAME_FULL_2_MALE]. Shortly before the release of debut album Tragic Figures in [YEAR] (on [PERSON_NAME_LAST_1]'s own Independent Project label) they changed their name to [BAND_NAME]. [PERSON_NAME_LAST_1] was also responsible for the group's sleeve designs, which were hand-letterpressed and numbered by him.\n"
-   ]
+   "albums": []
 }

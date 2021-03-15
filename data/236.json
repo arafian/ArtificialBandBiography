@@ -38,10 +38,5 @@
       "Live at the Troubadour Vol. 1",
       "Live at the Troubadour Vol. 2",
       "Southern Inn And Out"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in Lexington, Virginia who also play New Grass and Jazz music.\n",
-      "Gary [PERSON_NAME_LAST_0] was born into a musical family in Lexington, Virginia, and first performed publicly at ten. He has performed with his father, Pat [PERSON_NAME_LAST_0], his brother, Ronald [SONG_NAME]\n",
-      "He grew up performing with diverse musicians for functions at Washington and Lee University, Virginia Military Institute, The University of Virginia, and various weddings and socials.\n"
    ]
 }

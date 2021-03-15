@@ -35,10 +35,5 @@
    "albums": [
       "The Apocalypse Now Sessions: The Rhythm Devils Play River Music",
       "The Rhythm Devils Concert Experience"
-   ],
-   "prunedData": [
-      "The [BAND_NAME] are a band led by founding Grateful Dead drummer [PERSON_NAME_FULL_0_MALE] and drummer Mickey Hart who was a Grateful Dead member for most of the band's existence.\n",
-      "The [BAND_NAME] had their origins as an informal but frequent fixture in the Grateful Dead concert repertoire starting in the mid-to-late [YEAR]s, and continuing until the Grateful Dead's last concert in [YEAR]. Most Grateful Dead concerts featured an extended segment during the 2nd set of improvisational drumming and percussion by Hart and Kreutzmann who took over the stage as a duo (with occasional guests).  This segment was variously known to fans as [SONG_NAME] segment.\n",
-      "The [BAND_NAME] duo were formally recruited by director Francis Ford Coppola to record the soundtrack to the film Apocalypse Now. During [YEAR] and [YEAR], Hart and Kreutzmann, along with other musicians (mostly percussionists), Airto Moreira, Mike Hinton, [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_2_MALE], Jordan Amarantha, [PERSON_NAME_FULL_1_MALE] and Flora Purim, recorded sessions at the Grateful Dead's [MONTH]in County studios and [SONG_NAME], Hart's studio in [MONTH]ato. The process included improvising jungle sounds as they watched the film. The sounds were later edited into the movie. An LP record titled The Apocalypse Now Sessions: The [BAND_NAME] Play River Music was issued from those sessions, (Passport Records PB [YEAR]).  In [MONTH] [YEAR], Rykodisc re-released the original [YEAR] LP.\n"
    ]
 }

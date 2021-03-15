@@ -36,10 +36,5 @@
       "Acoustic Sessions",
       "La Carotte Bleue",
       "Midnight Sun"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in [YEAR] by Sean Lennon and [PERSON_NAME_FULL_0_FEMALE]. The couple have stated that they started the band as a way to spend more time together, and while they released a number of recordings and went on tours as a duo, they consider Midnight Sun, released in [MONTH] [YEAR], their first real record. Their tour to support the release of the album in [MONTH] and [MONTH] [YEAR] included opening for Beck as he started the East Coast leg of his tour that year.\n",
-      "[BAND_NAME] was formed in [YEAR] by musician Sean Lennon and his girlfriend, musician/model Charlotte Kemp Muhl. The name of the band is from a short story written by Muhl. Kemp and Lennon met in [YEAR] at the Coachella Music Festival. In an interview with the UK publication The Daily Telegraph, Lennon commented on their relationship: [SONG_NAME]\n",
-      "Both Lennon and Muhl are multi-instrumentalists. Among the instruments the band uses, are the guitar, drums, and also the bayan. Muhl, also a successful model, has been featured in [MONTH]belline campaigns, as well as  [PERSON_NAME_FULL_0_FEMALE]'s clothing brand J Lo. She uses funds from her modeling work to fund her musical endeavours.\n"
    ]
 }

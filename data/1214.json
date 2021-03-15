@@ -40,10 +40,5 @@
          "Tony Palamucci"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band founded in [YEAR] in Los Angeles, California. They are known for their rock anthem [SONG_NAME] The band was active until [YEAR], with a brief reunion in [YEAR]. [BAND_NAME] reunited again in [YEAR] and toured in [YEAR] for their 25th anniversary. Although the band is still active to this day, they have not released any new material since [YEAR].\n",
-      "[BAND_NAME] was formed by former Steeler vocalist Ron [BAND_NAME]. The original members were Ron [BAND_NAME] on vocals, former Icon / Schoolboys member David Michael Phillips on guitar, [MONTH]c Ferrari on lead & rhythm guitars, Bobby [MONTH]ks on drums and [PERSON_NAME_FULL_1_MALE] on bass guitar. Within months, Phillips left to join King Kobra and was replaced by ex-Cheetah guitarist Bryan Jay. This was the lineup for their [YEAR] debut album Lay Down the Law. After the album's release, [MONTH]ks left and was replaced by Steven Riley, who subsequently left early in the recording of the band's second album to join W.A.S.P., and was in turn replaced by [PERSON_NAME_FULL_0_MALE], forming a lineup which would remain stable for almost four years. Their debut album caught the eye of KISS' Gene Simmons, resulting in his production of their second album, The Right To Rock, released on [MONTH] 26, [YEAR]. Their next and also Simmons-produced third album The Final Frontier was released on [MONTH] 30, [YEAR]. It included the single [SONG_NAME], a song that was co-written by [PERSON_NAME_FULL_2_FEMALE] and Bruce Springsteen and had been a hit for [PERSON_NAME_LAST_2] in [YEAR].\n",
-      "In [YEAR], [BAND_NAME] won the Best Band of the Year award in the second annual Metal Edge magazine reader's poll, beating such noted bands as Iron Maiden and Judas Priest.\n"
-   ]
+   "albums": []
 }

@@ -26,9 +26,5 @@
       "Cheaper Than The Beer",
       "Cheaper Than The Beer",
       "Mike Montano"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band formed in [YEAR] in Berkeley, California, United States. [BAND_NAME] came out of the 924 Gilman Street Project scene during the late [YEAR]s, and early [YEAR]s along with bands like Operation Ivy, Filth, and Green Day.\n",
-      "[BAND_NAME] was an early [YEAR]s East Bay punk band.\n"
    ]
 }

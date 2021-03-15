@@ -2,8 +2,7 @@
    "Name": "Jupiters",
    "rawData": [
       "The Jupiters (Urdu: جوپیٹرز‎) were a Pakistani music band who are considered as one of the pioneers of pop music in Pakistan. Although the band released only a few albums, it became a breeding ground for many notable future singers. The hit song \"Yaaro Yehi Dosti Hai\" sung by one of the vocalists Ali Azmat topped the charts in the early 1990s, and is still a famous number.\n",
-      "The band disbanded in the late 1990s and is remembered as a party band in the city of Lahore. The band's drummer Sahir Ali Bagga later became a solo television and film music composer and a film playback singer. The drummer-cum-composer developed an A. R. Rahman type persona and became the driving force behind several hits by Rahat Fateh Ali Khan.\n",
-      "This article about the music of Pakistan is a stub. You can help Wikipedia by expanding it."
+      "The band disbanded in the late 1990s and is remembered as a party band in the city of Lahore. The band's drummer Sahir Ali Bagga later became a solo television and film music composer and a film playback singer. The drummer-cum-composer developed an A. R. Rahman type persona and became the driving force behind several hits by Rahat Fateh Ali Khan.\n"
    ],
    "infobox": {
       "Years active": [
@@ -23,10 +22,5 @@
          "Ajay"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "The [BAND_NAME] (Urdu: جوپیٹرز‎) were a [GENRE] band who are considered as one of the pioneers of pop music in Pakistan. Although the band released only a few albums, it became a breeding ground for many notable future singers. The hit song [SONG_NAME] sung by one of the vocalists Ali Azmat topped the charts in the early [YEAR]s, and is still a famous number.\n",
-      "The band disbanded in the late [YEAR]s and is remembered as a [GENRE] band in the city of Lahore. The band's drummer Sahir Ali Bagga later became a solo television and film music composer and a film playback singer. The drummer-cum-composer developed an A. R. Rahman type persona and became the driving force behind several hits by Rahat Fateh Ali Khan.\n",
-      "This article about the music of Pakistan is a [GENRE]"
-   ]
+   "albums": []
 }

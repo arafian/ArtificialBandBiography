@@ -38,10 +38,5 @@
    "albums": [
       "Live at the US Festival, 1983",
       "One Night in Milan"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band founded in [YEAR] by guitarist Randy Rhoads and bassist [PERSON_NAME_FULL_0_FEMALE]. The band is ranked at No. 100 on VH1's 100 Greatest Artists of Hard Rock.\n",
-      "The original line-up featured Rhoads and Garni with lead vocalist [PERSON_NAME_FULL_2_MALE] and drummer Drew Forsyth, though that version of the band was mired by turmoil that would eventually see Garni fired for threatening to kill [PERSON_NAME_LAST_2]. Their most commercially successful lineup consisted of [PERSON_NAME_LAST_2] alongside guitarist [PERSON_NAME_FULL_3_MALE], bassist [PERSON_NAME_FULL_1_MALE] and drummer [PERSON_NAME_FULL_0_MALE], and in [YEAR] released their breakthrough album Metal Health, which is known for being the first heavy metal album to top the Billboard album chart. Their hit songs include [SONG_NAME].\n",
-      "Despite several lineup changes and brief breakups, [BAND_NAME] continued to record and tour until DuBrow's death from a cocaine overdose in [YEAR]. Although there are no original members left in the band, Banali (who had been a member on and off since [YEAR]) reformed [BAND_NAME] in [YEAR], and by [YEAR], it had consisted of himself on drums, lead vocalist Jizzy Pearl, bassist [PERSON_NAME_FULL_0_MALE] and guitarist [PERSON_NAME_FULL_1_MALE]. The band has continued to record as well as tour following DuBrow's death, and in [YEAR], they released their first album in eight years titled [BAND_NAME] 10, which was followed by Road Rage in [YEAR] and Hollywood Cowboys in [YEAR]. Banali died on [MONTH] 20, [YEAR], following a sixteen-month battle with pancreatic cancer. About three weeks after his death, the surviving members of the band announced that they would move forward without Banali, who wished that they continue by keeping the [BAND_NAME] name alive; he was replaced by Johnny Kelly.\n"
    ]
 }

@@ -28,10 +28,5 @@
          "Dave Mello"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Berkeley, California, United States, formed in [MONTH] [YEAR]. The band was stylistically important as one of the first bands to mix the elements of hardcore punk and ska into a new amalgam called ska punk and was critical to the emergence of Lookout Records and the so-called [SONG_NAME]\n",
-      "The band's name was derived from the [BAND_NAME] series of nuclear tests in [YEAR]. Although the band released just one full-length album before breaking up in [MONTH] [YEAR], [BAND_NAME] is well remembered as the direct antecedent of \npopular band Rancid and for wielding a [GENRE] bands in what became the 3rd wave ska movement.\n",
-      "[BAND_NAME] was formed in [MONTH] [YEAR] and was named after the code name of a [YEAR] American nuclear weapons testing program. The name had previously been the original name of the contemporary Berkeley punk band Isocracy.\n"
-   ]
+   "albums": []
 }

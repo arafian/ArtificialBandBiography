@@ -36,10 +36,5 @@
       "The Shape of Colour",
       "The Way Forward",
       "Circadian"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band. Formed in Toronto, Ontario, the band has toured throughout Canada and the United States with bands such as Animals as Leaders, Protest the Hero, Between the Buried and Me and The Contortionist.\n",
-      "[BAND_NAME] released two EPs, The Space Between ([YEAR]) and In Time ([YEAR]), and their debut full-length album A Voice Within on [MONTH] 4, [YEAR], featuring vocals by Mike Semesky. After the exit of every band member except for guitarist Aaron [MONTH]shall, follow-up albums The Shape of Colour ([YEAR]), The Way Forward ([YEAR]), and Circadian ([YEAR]) were released.\n",
-      "[BAND_NAME] was formed in Toronto, Ontario in [YEAR] as a creative outlet for guitarist Aaron [MONTH]shall after quitting his previous band, [SONG_NAME] Getgood of Periphery, and released independently on [MONTH] 20, [YEAR]. [MONTH]shall attempted to form a full band including a vocalist, with the intention of turning [BAND_NAME] into a touring act, but failed to do so.\n"
    ]
 }

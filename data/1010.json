@@ -25,10 +25,5 @@
          "Joe Stickney, Brett Hinton, John Hruby"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (or PGroove) is an [GENRE] band that originated in [YEAR] in Savannah, Georgia. PGroove incorporated a mix of traditional Southern rock, funk, jazzy improvisation, indie rock and synth loops. The members continue to work on solo and side projects.\n",
-      "The band's founding members include Brock Butler on guitar and lead vocals, [PERSON_NAME_FULL_2_MALE] on bass, [PERSON_NAME_FULL_0_MALE] on drums and [PERSON_NAME_FULL_3_MALE] on keyboards.  The four met at Savannah College of Art and Design during their first year. After graduation, [PERSON_NAME_LAST_0] and [PERSON_NAME_LAST_3] both left the band.  In [YEAR], drummer Albert Suttle and keyboardist [PERSON_NAME_FULL_1_MALE], both then active-duty members of the US Army, met Butler and [PERSON_NAME_LAST_2] at a Savannah open-mic night and soon joined [BAND_NAME]. After moving out of Savannah, they settled in the musically dominated college-town of Athens, GA - home of R.E.M., Widespread Panic, B52's and many more musical acts over the years.\n",
-      "The band first attracted attention at Jake's Roadhouse in Atlanta and JJ Cagney's on Savannah's Bay Street, which eventually relocated to River Street and later became The Live Wire Music Hall. They played a [GENRE] a private party for the cast and crew of Midnight in the Garden of Good and Evil with several other local bands, including The [PERSON_NAME_FIRST_0] Culberson Trio and a group called [SONG_NAME]. Actors Paul Hipp and [PERSON_NAME_FULL_1_MALE] also performed with the bands.\n"
-   ]
+   "albums": []
 }

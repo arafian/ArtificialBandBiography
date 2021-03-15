@@ -51,10 +51,5 @@
       "Astronomy",
       "Under the Grey Banner",
       "TBD"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Sweden. The group is most notable for basing their first two and the fifth album upon the self-produced The [BAND_NAME] Chronicles fantasy saga and for the original symphonic/electronic parts by Elias Holmlid.\n",
-      "The band was founded in autumn [YEAR] by guitarist [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_3_MALE]. Soon after Daniel Kvist, [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_0_MALE] joined in. Their first demo was recorded in [MONTH] [YEAR]. Only 3 months before the recording of their debut album started, The Battle of the Ivory Plains, Kvist decided to leave the band and was soon replaced by [PERSON_NAME_FULL_4_MALE]. The album was released on 30 [MONTH] [YEAR], and the second album, Holy War, was released on 8 [MONTH] [YEAR]. Both featured singer [PERSON_NAME_FULL_3_MALE] on drums.\n",
-      "In [YEAR], [BAND_NAME] invited Japanese power metal band Galneryus to play with throughout the Japan tour. Their third album, Starfall, was released on 27 [MONTH] [YEAR], featuring [PERSON_NAME_FULL_0_MALE] on drums. Tom S. Englund and [PERSON_NAME_FULL_1_MALE] (of Evergrey) and [PERSON_NAME_FULL_2_FEMALE] provided guest performances on the album, including vocals and guitar solos.\n"
    ]
 }

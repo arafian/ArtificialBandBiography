@@ -26,10 +26,5 @@
          " Dan Africano"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in [YEAR] by Tom Hamilton, [PERSON_NAME_FULL_1_FEMALE], Holly Bowling, [PERSON_NAME_FULL_0_MALE] and [PERSON_NAME_FULL_2_MALE]. \n[BAND_NAME]'s debut album, [SONG_NAME] was named one of Glide's top 20 albums of [YEAR]. [BAND_NAME] has performed on major festival stages and in historic venues including Lockn' Festival, Jam Cruise, Electric Forest Festival, Mission Ballroom, Brooklyn Bowl, The Peach Music Festival and Terrapin Crossroads. [BAND_NAME] toured as an opening act for Greensky Bluegrass in the winter of [YEAR].\n",
-      "[BAND_NAME] was formed at the end of [YEAR] with two established mainstays in the jam band music scene, Tom Hamilton & [PERSON_NAME_FULL_0_FEMALE]. The original assembly of the band occurred in a [GENRE] band to bond and grow through the music writing process.  Unlike most Jam Bands, [BAND_NAME] decided to start by recording an album before ever playing a live show. The band launched their first tour with a sold-out show in San Diego, CA and performed in over 25 venues across the United States throughout [YEAR].  \nOn [MONTH] 22, [YEAR], [BAND_NAME] released their debut album Best Kept Secrets.  At their show that night in Minneapolis, MN they performed the album in its entirety. [BAND_NAME] played 59 shows in [YEAR] and has 20 scheduled performances for [YEAR].\n",
-      "Andy J. Gordon described [BAND_NAME]'s improvisational live show at the Teragram Ballroom as having [SONG_NAME]\n"
-   ]
+   "albums": []
 }

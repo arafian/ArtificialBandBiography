@@ -52,10 +52,5 @@
       "Hollywood Trash",
       "King Kobra",
       "King Kobra II"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band, founded by drummer Carmine Appice after his tenure with [PERSON_NAME_FULL_1_MALE] from [YEAR] to [YEAR]. During the time of their first two albums, the band consisted of four relatively unknown musicians that included vocalist [MONTH]cie Free, guitarist David Michael-Philips, guitarist [PERSON_NAME_FULL_2_MALE], and bassist [PERSON_NAME_FIRST_0]ny Rod. After two albums on Capitol records—Ready to Strike ([MONTH] 9, [YEAR]) and Thrill of a Lifetime ([YEAR])—and an independent release entitled [BAND_NAME] III in [YEAR], Appice decided to dissolve the band and join guitarist [PERSON_NAME_FULL_0_MALE] on his Blue Murder project in [YEAR].\n",
-      "In [YEAR], a new [BAND_NAME] emerged, with Carmine Appice on drums, [PERSON_NAME_FULL_0_MALE] taking over vocal duties, Mick Sweda on guitar, [PERSON_NAME_FULL_1_MALE] (a.k.a. [PERSON_NAME_FIRST_1] Michael-Philips) on guitar, and Johnny Rod on bass. This lineup released an eponymous album, [BAND_NAME], in [YEAR] on Frontiers Records, and another album in [YEAR] entitled [BAND_NAME] II.\n",
-      "The band went on hiatus following the release of their [YEAR] album, largely due to the other commitments of the individual band members. They did, however, play live gigs in [YEAR] sans Mick Sweda.\n"
    ]
 }

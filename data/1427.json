@@ -41,10 +41,5 @@
    "albums": [
       "Blank Generation",
       "Destiny Street"
-   ],
-   "prunedData": [
-      "[BAND_NAME] were an [GENRE] band, formed in New York City in [YEAR] and fronted by Richard Hell, a former member of the Neon Boys, Television and the Heartbreakers.\n",
-      "Kentucky-born [PERSON_NAME_FULL_1_MALE] moved to New York City after dropping out of high school in [YEAR], aspiring to become a [GENRE] band the Neon Boys which became Television in [YEAR]. The pair adopted stage names; Miller called himself [PERSON_NAME_LAST_0] after [PERSON_NAME_FULL_0_MALE], a French poet he admired, and [PERSON_NAME_LAST_1] became [PERSON_NAME_FIRST_1] Hell because, as he has said, it described his condition.\n",
-      "The group was the first rock band to play the club CBGB, which soon became a [GENRE] an energetic stage presence and wore torn clothing held together with safety pins and his hair spiked, which was to be influential in punk fashion - in [YEAR], after a failed management deal with the New York Dolls, impresario [PERSON_NAME_FULL_0_MALE] claimed to have brought these ideas back with him to England and eventually incorporated them into the Sex Pistols' image, a claim which Sex Pistols' front man John Lydon/Johnny Rotten disputes, citing his own existing use of safety pins and spiked hair (dyed green) prior to joining the Pistols.\n"
    ]
 }

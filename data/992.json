@@ -29,10 +29,5 @@
          "Ron Tutt"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band, formed by Jerry Garcia of the Grateful Dead and his friend and musical collaborator [PERSON_NAME_FULL_1_MALE].  The band existed from [MONTH] [YEAR] to [MONTH] [YEAR], and played about 60 live shows.  Its members were Garcia (guitar and vocals), [PERSON_NAME_LAST_1] (keyboards), John Kahn (bass guitar), [MONTH]tin Fierro (saxophone and flute) and [PERSON_NAME_FULL_0_MALE] (drums).  The previous lineup of the band, with Paul Humphrey on drums, is sometimes also referred to as [BAND_NAME], but later research has shown that they did not use the [BAND_NAME] name.\n",
-      "In their concerts, [BAND_NAME] played rock music that had an [GENRE]",
-      "[BAND_NAME]: The Jerry Garcia Collection, Vol. 1 is a two-CD album recorded live at various shows from [MONTH] [YEAR] to [MONTH] [YEAR].  It was released by Rhino Records on [MONTH] 23, [YEAR].\n"
-   ]
+   "albums": []
 }

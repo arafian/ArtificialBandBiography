@@ -37,10 +37,5 @@
       "Live and On the Road",
       "\"Live\" in Myrtle Beach",
       "Appalachian Memories"
-   ],
-   "prunedData": [
-      "The [BAND_NAME] is an [GENRE] band from Southwest Virginia.\n",
-      "Brothers [PERSON_NAME_FIRST_3] and Victor [PERSON_NAME_LAST_3] formed the band in [YEAR] after both had been members of the family group The Bluegrass Playboys. The group became well known outside of Southwest Virginia after they recorded [SONG_NAME] getting national radio airplay. Since the end of [YEAR], there has been a [GENRE] band members with [PERSON_NAME_FULL_6_MALE] taking over on mandolin and [PERSON_NAME_FULL_0_MALE] taking over on guitar.\n",
-      "The band is known for its hard driving playing and high lonesome family harmonies. Some of the band's biggest influences are Jimmy [MONTH]tin, Flatt & Scruggs, The Stanley Brothers, The Osbourne Brothers, The McPeak Brothers, The Country Gentlemen, and The Seldom Scene. The style of music they play makes them a [GENRE]"
    ]
 }

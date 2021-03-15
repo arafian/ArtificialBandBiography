@@ -26,10 +26,5 @@
          "Jason Martin"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from Riverside, California consisting of brothers Ronnie [MONTH]tin and Jason [MONTH]tin. Musically, they incorporate elements of both Joy Electric and Starflyer 59 (Ronnie and Jason's primary music projects, respectively): electropop and shoegazing, while modern rock and [YEAR]s new wave are also a central influence.\n",
-      "As of [MONTH] [YEAR], the band was dropped from the [SONG_NAME] section of the Tooth & Nail website. While there has never been any word from the [MONTH]tin brothers, it is assumed that [BAND_NAME] was a [GENRE]",
-      "Official\n"
-   ]
+   "albums": []
 }

@@ -2,8 +2,7 @@
    "Name": "Red Aunts",
    "rawData": [
       "The Red Aunts were an American all-female punk band that formed in 1991 in Long Beach, California, United States, when Terri Wahl (a.k.a. Angel, or Louise Lee Outlaw) recruited friends Kerry Davis (a.k.a. Sapphire, or Taffy Davis) and Debi Martini (a.k.a. E.Z. Wider, a.k.a. Connie Champagne, or Debbi Dip). Wahl would become the guitarist, sharing vocal duties with Davis who also played rhythm guitar and Martini as bassist. Wahl's ex-husband, Jon Wahl of the band Claw Hammer, stood in as drummer under the alias Joan Whale until he was replaced full-time by Lesley Ishino (a.k.a. Lesley Noelle, Ishino Destroyer, or Cougar).\n",
-      "None of the women had formal musical training or previous experience in bands. They received slight help from both Scott Drake of fellow Long Beach band the Humpers, and Jon Wahl. Dip put out the punk fanzine, Real Life in a Big City.  The Red Aunts rapidly developed their own sound, going from raw simple punk to more complicated garage-punk-blues within the space of their seven years and five full-length albums. They disbanded in 1998. Singer Terri Wahl opened a catering company and 5 years later her own restaurant/bakery in Los Angeles. Other members have gone on to work with other bands like The Screws, Beehive and the Barracudas and others. Singer and guitarist Kerry Davis currently records under the name Two Tears.\n",
-      "This article on a United States punk rock band is a stub. You can help Wikipedia by expanding it."
+      "None of the women had formal musical training or previous experience in bands. They received slight help from both Scott Drake of fellow Long Beach band the Humpers, and Jon Wahl. Dip put out the punk fanzine, Real Life in a Big City.  The Red Aunts rapidly developed their own sound, going from raw simple punk to more complicated garage-punk-blues within the space of their seven years and five full-length albums. They disbanded in 1998. Singer Terri Wahl opened a catering company and 5 years later her own restaurant/bakery in Los Angeles. Other members have gone on to work with other bands like The Screws, Beehive and the Barracudas and others. Singer and guitarist Kerry Davis currently records under the name Two Tears.\n"
    ],
    "infobox": {
       "Origin": [
@@ -38,10 +37,5 @@
       "#1 Chicken",
       "Saltbox",
       "Ghetto Blaster"
-   ],
-   "prunedData": [
-      "The [BAND_NAME] were an [GENRE] band that formed in [YEAR] in Long Beach, California, United States, when [PERSON_NAME_FULL_4_FEMALE] (a.k.a. Angel, or Louise Lee Outlaw) recruited friends [PERSON_NAME_FULL_5_FEMALE] (a.k.a. Sapphire, or Taffy [PERSON_NAME_LAST_5]) and Debi [MONTH]tini (a.k.a. E.Z. Wider, a.k.a. [PERSON_NAME_FULL_1_FEMALE], or Debbi Dip). [PERSON_NAME_LAST_4] would become the guitarist, sharing vocal duties with [PERSON_NAME_LAST_5] who also played rhythm guitar and [MONTH]tini as bassist. [PERSON_NAME_LAST_4]'s ex-husband, [PERSON_NAME_FIRST_6] [PERSON_NAME_LAST_4] of the band Claw Hammer, stood in as drummer under the alias [PERSON_NAME_FULL_2_FEMALE] until he was replaced full-time by [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_3] (a.k.a. [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_LAST_3] Destroyer, or Cougar).\n",
-      "None of the women had formal musical training or previous experience in bands. They received slight help from both Scott Drake of fellow Long Beach band the Humpers, and [PERSON_NAME_FULL_1_MALE]. Dip put out the punk fanzine, Real Life in a Big City.  The [BAND_NAME] rapidly developed their own sound, going from raw simple punk to more complicated garage-punk-blues within the space of their seven years and five full-length albums. They disbanded in [YEAR]. Singer Terri [PERSON_NAME_LAST_1] opened a catering company and 5 years later her own restaurant/bakery in Los Angeles. Other members have gone on to work with other bands like The Screws, Beehive and the Barracudas and others. Singer and guitarist [PERSON_NAME_FULL_0_FEMALE] currently records under the name Two Tears.\n",
-      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

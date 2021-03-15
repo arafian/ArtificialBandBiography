@@ -34,10 +34,5 @@
       "EP 2",
       "2006 Demo",
       "Tale of Two Cities"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are a [GENRE] band formed in Philadelphia, Pennsylvania, United States in [YEAR].  The original five members were [PERSON_NAME_FULL_2_MALE], Matt Kass, [PERSON_NAME_FULL_0_MALE], Josh Sack, and [PERSON_NAME_FULL_3_MALE].  In [YEAR], they performed at SXSW Showcase, as well as many festivals such as All Good, High Sierra and Wakarusa.  Their national touring has also enabled them to share the stage with artists such as [PERSON_NAME_FULL_4_MALE], O.A.R., Willie Nelson, [PERSON_NAME_FULL_1_MALE], Live, and Widespread Panic.\n",
-      "The band has had multiple EP releases, regular rotation on station WXPN in Philadelphia, and near capacity headliners at TLA.  In [YEAR], [BAND_NAME] set the record for highest ticket sales at The Point in Bryn Mawr, Pennsylvania.\n",
-      "In early [YEAR], [BAND_NAME] joined forces with H&R Block and became the face of the company's [SONG_NAME]'s print campaign graced the back covers of Entertainment Weekly, Rolling Stone, and Us Weekly.\n"
    ]
 }

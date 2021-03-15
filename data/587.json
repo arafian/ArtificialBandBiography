@@ -42,10 +42,5 @@
       "The Perpetual Motion",
       "The Water Fields",
       "The End"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from the city of Paris, France active between [YEAR] and [YEAR].\n",
-      "Their musical style is a [GENRE] a melodic tenor voice.\n",
-      "Their first major album release in [YEAR] was entitled The Nameless Disease and was inspired by and centered around the suicide of the band's first drummer, Frédéric Guillemot.\n"
    ]
 }

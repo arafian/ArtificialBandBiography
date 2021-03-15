@@ -28,10 +28,5 @@
       "Into the Diamond Sun",
       "Not Real",
       "Big Wows"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Liverpool, England, who formed in [YEAR]. The three members are Rebecca Hawley (vocals and keys), [PERSON_NAME_FULL_0_FEMALE] (vocals, guitar, bass guitar) and Luciana Mercer (vocals and drum kit).\n",
-      "The band released The Mountain Dogs and I Am the Rain both in [YEAR]. Those were collected on Noah and the Paper Moon in [YEAR]. The debut studio album Into the Diamond Sun was released in [YEAR] by Heavenly Recordings.\n",
-      "The band's second album, Not Real, was released on 13 [MONTH] [YEAR] and their third, Big Wows, followed on 19 [MONTH] [YEAR].\n"
    ]
 }

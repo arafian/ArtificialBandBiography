@@ -28,10 +28,5 @@
          "Tokyo Jihen"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[SONG_NAME]) is a [GENRE] band Tokyo Jihen. It was released on [MONTH] 16, [YEAR], as a promotional track from their vinyl extended play Variety Zōkangō and music video clips DVD [BAND_NAME], and was later added to their [YEAR] album Sports.\n",
-      "The song was released directly after Variety ([YEAR]), an [GENRE] band members other than [PERSON_NAME_FULL_0_MALE] served as the songwriters. The cover work is in the same style as Variety and its singles [SONG_NAME] from Variety.\n",
-      "The song featured lyrics written by [PERSON_NAME_FULL_1_MALE], and music by [PERSON_NAME_FULL_2_MALE]. It was recorded during sessions for Variety, and was performed during their Spa & Treatment tour in [MONTH] and [MONTH] [YEAR]. It was originally titled [SONG_NAME] an English version with lyrics written by [PERSON_NAME_FULL_0_MALE] That version was later featured on the Variety Zōkangō vinyl, as well as on the [BAND_NAME] DVD credits. It was eventually released to CD in [YEAR], on Tokyo Jihen's Hard Disk box set.\n"
-   ]
+   "albums": []
 }

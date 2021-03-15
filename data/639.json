@@ -33,9 +33,5 @@
          "Darla Perlozzi"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band signed to Curb Records' Asylum/Curb division. The group is composed of Trenna Barnes (lead vocals), Debbie Johnson (bass guitar, vocals), [PERSON_NAME_FULL_0_FEMALE] (keyboards, vocals), and Renaé Truex (fiddle, mandolin). Until [YEAR], [PERSON_NAME_FULL_1_FEMALE] (drums) was also a member of the group. [PERSON_NAME_LAST_1] co-wrote Big & Rich's [YEAR] single [SONG_NAME].\n",
-      "All five founding members of [BAND_NAME] had previously worked throughout Nashville, Tennessee before meeting at Belmont University. They held their first practice together in a garage on [MONTH] 18, [YEAR]. [BAND_NAME] is also known for its high-energy concerts and backstage antics. The group's debut single, [SONG_NAME], was previously recorded by Trick Pony. [BAND_NAME]'s debut album was released to digital retailers on [MONTH] 14, [YEAR].\n"
-   ]
+   "albums": []
 }

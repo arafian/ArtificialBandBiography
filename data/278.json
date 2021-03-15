@@ -30,10 +30,5 @@
    },
    "albums": [
       "The Skulls Demo"
-   ],
-   "prunedData": [
-      "[BAND_NAME] were an [GENRE] band, whose members would later found two of the area's bands: D.O.A. and The Subhumans. They toured heavily and issued a demo, but never released any albums.\n",
-      "The band started in Burnaby, a suburb of Vancouver, during the summer of [YEAR], when the members of rock band Stone Crazy, who played Led Zeppelin covers among others, became interested in punk rock after seeing The Ramones live.\n",
-      "[PERSON_NAME_FULL_0_MALE], a.k.a. [PERSON_NAME_FIRST_0] Shithead, was the singer, [PERSON_NAME_FULL_1_MALE], a.k.a. Wimpy [PERSON_NAME_LAST_1], the bass player, [PERSON_NAME_FULL_2_MALE] the guitar player and Ken Montgomery, a.k.a. Dimwit, the drummer. All of them were former members of [PERSON_NAME_FULL_3_MALE] except [PERSON_NAME_LAST_2], who replaced [PERSON_NAME_FULL_3_MALE] guitar player Brad Kent. (Kent, however, still played with the Skulls on several occasions).\n"
    ]
 }

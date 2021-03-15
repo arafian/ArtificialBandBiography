@@ -31,10 +31,5 @@
    "albums": [
       "Heaven Is for Easy Girls",
       "Slimming Mirrors, Flattering Lights"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Vancouver and fronted by singer-songwriter [PERSON_NAME_FULL_0_MALE]. The band's supporting lineup consists of Tygh Runyan on lead guitar, [PERSON_NAME_FULL_1_MALE] on drums and Chris Mitchell on trumpet and keyboards.\n",
-      "Nelken, who works as a [GENRE] a longtime side career as a musician, supporting a number of artists  including A. C. Newman, New Pornographers and Sparrow. He put together a backup band, [BAND_NAME], which included drummer Kurt Dahl, and released a debut album, Heaven Is for Easy Girls, on Mint Records in [YEAR]. Nelkin performed much of the music himself, with some help from violinist Kim Koch and trumpeter [PERSON_NAME_FULL_0_MALE]. The album charted on Canadian campus radio and CBC Radio 3, which named the band's song [SONG_NAME] one of its Top 94 songs of [YEAR].\n",
-      "With Tygh Runyan, [PERSON_NAME_FULL_0_MALE] and Chris Mitchell, [BAND_NAME] released a second album, Slimming Mirrors, Flattering Lights, in [YEAR].  The songs were written and arranged by Nelkin.\n"
    ]
 }

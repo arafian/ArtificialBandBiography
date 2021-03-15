@@ -30,10 +30,5 @@
          "Stephen Till"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band formed in Denver, Colorado. The band consisted of Reese [BAND_NAME] (lead singer of Five Iron Frenzy) on lead vocals, [PERSON_NAME_FULL_0_MALE] on lead guitar, [PERSON_NAME_FIRST_0] Till on bass, [PERSON_NAME_FULL_1_MALE] on rhythm guitar, and Nick White on drums.\n",
-      "Guerilla Rodeo\nGuerilla Rodeo was a short-lived project founded by Reese [BAND_NAME], meant to follow his prior band [PERSON_NAME_FULL_1_MALE]. In addition to vocalist Reese [BAND_NAME], the band was formed by fellow [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_1] member Sonnie Johnston (guitar), [PERSON_NAME_FULL_2_MALE] (guitar), John Warne (bass, background vocals), and [PERSON_NAME_FULL_0_MALE] (drums). The project yielded only a three-track EP, Ride, Rope and Destroy, released in [YEAR]. It has been confirmed by both [PERSON_NAME_FULL_2_MALE] and Reese [BAND_NAME] that there never was a fourth, unreleased song recorded for the EP. Reese [BAND_NAME] often compared the sound of the band to Letters to Cleo. Their name was a play on the Rage Against the Machine single [SONG_NAME].\n",
-      "When the Guerilla Rodeo project came to an [GENRE] band under his own name, [BAND_NAME]. [BAND_NAME]'s full-length album, Brace Yourself for the Mediocre, was produced before the band was officially together and released on [PERSON_NAME_FIRST_3] Minute Walk Records. All songs on the album with the exception of [SONG_NAME] were written by Reese [BAND_NAME], [PERSON_NAME_FULL_2_MALE], and Ethan Luck. Because of the incomplete state of the band at the time of the album's release, the only official member appearing on the CD is Reese [BAND_NAME]. As a result, the album features many additional musicians such as [PERSON_NAME_FULL_0_MALE] (drums), Elijah Thomson (bass), [PERSON_NAME_FULL_1_MALE] (organ), Bob Schiveley (guitar), [PERSON_NAME_FULL_2_MALE] (guitar), [PERSON_NAME_FULL_4_MALE] (additional drums), Ethan Luck (guitar), and many additional vocalists. Some of the songs on the album were originally written for Guerilla Rodeo.  One of the online forums spawned by this group is the [BAND_NAME] Board in which many fans of both [BAND_NAME] and Reese's previous band [PERSON_NAME_FULL_3_MALE] congregate.\n"
-   ]
+   "albums": []
 }

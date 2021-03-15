@@ -42,10 +42,5 @@
    "albums": [
       "Wake the Dead",
       "Black Sermons"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band who formed in [YEAR] under the name [SONG_NAME], changed their name to [BAND_NAME] in [YEAR] and disbanded in [YEAR]. During their short career they released three demos, one EP and two albums. Their influence is greater than their short lifespan suggests: several of the band members would later create or join metal bands that would gain fame and fortune on the future metal scene, such as In Flames, an influential band to the melodic death metal genre; and HammerFall, a band who would greatly influence the awakened interest in power metal and traditional heavy metal.\n",
-      "[BAND_NAME] reunited for an appearance at the inaugural edition of The Gothenburg Sound festival on [MONTH] 5–6, [YEAR] at Trädgår'n in Gothenburg, Sweden, and also made appearances on a few other festivals later the same year. In addition to that, a remixed and remastered version of the [YEAR] album The Book of Truth was re-released in the beginning of [YEAR]. Other than reuniting for a string of shows, [BAND_NAME] has no plans to record a new album.\n",
-      "Current members\n"
    ]
 }

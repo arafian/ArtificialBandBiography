@@ -1,8 +1,7 @@
 {
    "Name": "Sambassadeur",
    "rawData": [
-      "Sambassadeur are a Swedish pop band formed in 2003 in Gothenburg. They are named after the Serge Gainsbourg song \"Les Sambassadeurs.\" The band are signed to the Labrador label, and to date, they have released four studio albums and a handful of EPs and singles. Their third album, European, was released in February 2010.\n",
-      "This article about a Swedish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+      "Sambassadeur are a Swedish pop band formed in 2003 in Gothenburg. They are named after the Serge Gainsbourg song \"Les Sambassadeurs.\" The band are signed to the Labrador label, and to date, they have released four studio albums and a handful of EPs and singles. Their third album, European, was released in February 2010.\n"
    ],
    "infobox": {
       "Origin": [
@@ -32,9 +31,5 @@
       "Between the Lines",
       "New Moon",
       "Coastal Affairs"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are a [GENRE] band formed in [YEAR] in Gothenburg. They are named after the Serge Gainsbourg song [SONG_NAME] The band are signed to the Labrador label, and to date, they have released four studio albums and a handful of EPs and singles. Their third album, European, was released in [MONTH] [YEAR].\n",
-      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

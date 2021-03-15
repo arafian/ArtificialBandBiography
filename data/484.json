@@ -31,10 +31,5 @@
          "Ryan Weaver"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Birmingham, Alabama. They are known  for their [YEAR] hit single [SONG_NAME] was the seventh most played song of [YEAR]. The band's name was taken from the Biblical passage, 1 Corinthians 1:26-31.\n",
-      "The band's second album, Wonder of the World, was released on [MONTH] 16, [YEAR]. It features their hit song [SONG_NAME].\n",
-      "For their third album, the band changed to the record label eOne Christian Music. The album is titled We Once Were and was released on [MONTH] 27, [YEAR]. The lead single, [SONG_NAME] was released on [MONTH] 24, [YEAR].\n"
-   ]
+   "albums": []
 }

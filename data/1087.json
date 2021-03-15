@@ -40,10 +40,5 @@
       "Consensus",
       "Postcards",
       "Ruckus"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band. Their style is rooted in klezmer,  Balkan and Romanian music but heavily accented with contemporary and North American styles including bluegrass, jazz, reggae, funk and classical chamber music. They are known for unique songcraft, virtuosic musicianship, meticulous dynamics, and exuberant live performances. They are widely regarded as one of Canada's most accomplished and innovative acoustic ensembles. Some have described their sound as being in the same spirit as [SONG_NAME] music, but tinged more heavily with an east European accent. The name of the band is a reference to the Eastern-European Jewish Pale of Settlement, from where their music is partially inspired.\n",
-      "[BAND_NAME] was formed in [YEAR]. Original members included mandolinist Eric Stein, bassist [PERSON_NAME_FULL_1_MALE] and guitarist Joshua Engel. They were joined by violinist [PERSON_NAME_FULL_2_FEMALE] the following year. Dutch Clarinetist [MONTH]tin van de Ven joined the group in [YEAR] while Engel left the same year. Serbian-born violinist [PERSON_NAME_FULL_0_MALE] gradually replaced [PERSON_NAME_LAST_2] over [YEAR]-[YEAR].\n",
-      "The band released its first CD, Routes, in [YEAR] through Borealis Records; the recording was nominated for a [GENRE]"
    ]
 }

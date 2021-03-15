@@ -51,10 +51,5 @@
          "Mike Rubio"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from New York City, United States. The band's original line-up is made up of Miss Guy, Sean Pierce, Electric Eddie, Rocket, and Adam Vomit. [BAND_NAME] have toured world-wide supporting musical acts such as Red Hot Chili Peppers, Nashville Pussy, Orgy, The Damned, [PERSON_NAME_FULL_0_FEMALE] & Deborah Harry. They were known for a highly energetic stage show that included spark-showers, smoke, lasers, strobes, synchronized flame-columns, cheerleaders, confetti cannons, burning guitars and fire breathing performed by lead guitarist Sean during the finale. \n",
-      "An album of unreleased material, demos, and remixes titled Sex Music was released in [YEAR].\n",
-      "[BAND_NAME] reunited and played on [MONTH] 14, [YEAR] at Le Poisson Rouge in New York City. Most of the band is back including Miss Guy, Sean, Eddie and Adam with the addition of Shane on guitar. They played the Azkena Rock festival in Spain in [MONTH] [YEAR].\n"
-   ]
+   "albums": []
 }

@@ -9,10 +9,5 @@
    "albums": [
       "The Loading Zone",
       " One for All"
-   ],
-   "prunedData": [
-      "\n[BAND_NAME] was an [GENRE] band of the late [YEAR]s and early [YEAR]s.  They issued two albums worth of material, with differing band lineups, before disbanding in [YEAR].\n",
-      "They were formed in Berkeley, California in [YEAR] by singer-keyboardist Paul Fauerso, following the dissolution of his jazz group The Tom Paul Trio. The original lineup was Fauerso, bassist [PERSON_NAME_FULL_0_MALE], drummer Ted Kozlowski (replaced by [PERSON_NAME_FULL_1_MALE]), and guitarists Peter Shapiro and [PERSON_NAME_FULL_2_MALE], both formerly of Berkeley psychedelic rock band The [MONTH]bles, who had supported Jefferson Airplane at the historic [SONG_NAME], the inaugural Family Dog promotion concert held at San Francisco's Longshoreman's Hall in [MONTH] [YEAR].\n",
-      "[BAND_NAME]'s first major concert was the Trips Festival at the Longshoreman's Hall in [MONTH] [YEAR]. Although primarily an [GENRE] band, [BAND_NAME] added contemporary psychedelic influences and soon became a popular attraction on the burgeoning Bay Area music scene. [BAND_NAME] was based at the Berkeley venue The New Orleans House, but performed numerous times at major venues including the Fillmore West.\n"
    ]
 }

@@ -2,8 +2,7 @@
    "Name": "Pharaoh's Daughter",
    "rawData": [
       "Pharaoh's Daughter is an American Jewish world music band from New York City. Formed in 1995 by Basya Schechter, their music is a mix of American folk, Jewish klezmer, and Middle Eastern sounds.\n",
-      "Schechter is currently a member of the alternative hip hop group Darshan, together with Rabbi Shir Yaakov Feit and Jewish rapper Eprhyme.\n",
-      "This article on a United States band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+      "Schechter is currently a member of the alternative hip hop group Darshan, together with Rabbi Shir Yaakov Feit and Jewish rapper Eprhyme.\n"
    ],
    "infobox": {
       "Origin": [
@@ -42,10 +41,5 @@
       "Out of the Reeds",
       "Exile",
       "Haran"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from New York City. Formed in [YEAR] by Basya Schechter, their music is a mix of American folk, Jewish klezmer, and Middle Eastern sounds.\n",
-      "Schechter is currently a [GENRE]",
-      "This article on a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

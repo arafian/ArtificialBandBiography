@@ -31,10 +31,5 @@
          "Bryce Martin"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band, based in La Habra, California, United States. They formed in [YEAR] in Hollywood, with Swedish singer and guitarist [PERSON_NAME_FULL_1_MALE], drummer Bobby Amaro, and original bassist [PERSON_NAME_FULL_0_MALE]. They are at the moment unsigned, having previously released 3 full length albums and 1 extended play record.  Their most recent studio album, Fearless Generation, was released in [MONTH] [YEAR].\n\n",
-      "[BAND_NAME] formed in the Los Angeles County city Hollywood in [YEAR]. They met at the Musicians Institute in Hollywood.\n",
-      "They started writing their latest album [SONG_NAME] was released [MONTH] 10, [YEAR].\n"
-   ]
+   "albums": []
 }

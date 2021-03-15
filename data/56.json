@@ -54,10 +54,5 @@
       "San Francisco's Still Doomed",
       "Exalted Masters",
       "Murder by Guitar"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from San Francisco, California, United States. The band was formed in [YEAR] by Johnny Strike (vocals, guitar), [PERSON_NAME_FULL_0_FEMALE] (vocals, guitar), Ron [SONG_NAME], appeared at the end of [YEAR], and is the first single released by a U.S. punk act from the West Coast.\n",
-      "The band's sound was characterized by simple rock-and-roll arrangements played at intensely high volumes. Michael Goldberg, critic for New York Rocker magazine, wrote in [YEAR]: [SONG_NAME]\n",
-      "In Issue #13 of Ugly Things Magazine, critic [PERSON_NAME_FULL_0_MALE] wrote: [SONG_NAME]\n"
    ]
 }

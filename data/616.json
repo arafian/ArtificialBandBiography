@@ -31,10 +31,7 @@
          "Erin Belle"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an American all-female [SONG_NAME] rock band found by Jack White and signed to his label Third Man Records.\n",
-      "[BAND_NAME] formed in [YEAR] originally with Erin Belle. Bassist Ruby Rogers said [SONG_NAME]\n",
-      "In [YEAR], they released their debut self-titled album which had two singles: [SONG_NAME] It received mildly positive reviews, achieving a [GENRE]"
+   "albums": [
+      "The Black Belles"
    ]
 }

@@ -34,10 +34,5 @@
          " Stixx Galore"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band, originally from Skövde, Sweden formed by guitarist Harry Cody, bassist [PERSON_NAME_FULL_0_MALE], and drummer Stixx Galore. Cody and [PERSON_NAME_LAST_0] were the mainstays of the band, and along with various personnel released three albums—[BAND_NAME], Second Coming and Violent New Breed.\n",
-      "[BAND_NAME] disbanded in [YEAR]. \n",
-      "In [YEAR], the band formed in Skövde, Sweden as Kingpin with the lineup of local musicians [PERSON_NAME_FIRST_0] Skold (going by [SONG_NAME] In the US, the song rose to the top 100 of the Billboard Album Chart.\nDuring the recording of Welcome To Bop City, Knox was replaced by Easy Action singer Zinny J. Zan (vocals), after the latter auditioned.\n"
-   ]
+   "albums": []
 }

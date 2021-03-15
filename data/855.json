@@ -51,10 +51,5 @@
       "Reflections From the Firepool",
       "The Ritual Continues",
       "No Commercial Potential...And Still Getting The Ladies"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in Topanga, California.  The band was founded in [YEAR] by guitarists [PERSON_NAME_FULL_0_FEMALE] and Mike Henderson, bassist [PERSON_NAME_FULL_1_MALE], and drummer Chuck Oken, [PERSON_NAME_LAST_1]..  The band's name is an old spelling of an Indonesian word (pronounced by English speakers as 'jum car-RAT) that translates loosely as [SONG_NAME].\n",
-      "[BAND_NAME] was founded at Pitzer College in [YEAR] by guitarists [PERSON_NAME_FULL_0_FEMALE] and Mike Henderson, bassist [PERSON_NAME_FULL_1_MALE], and drummer Chuck Oken, [PERSON_NAME_LAST_1]. They've created 18 instrumental albums so far, and have played on an [GENRE] band's name an Indonesian word (pronounced 'jam Kah-ret) that translates loosely as [SONG_NAME].\n",
-      "In [YEAR], the band released two separate CDs at the same time: Burning The Hard City and Suspension & Displacement which [SONG_NAME] (EXPOSE'). Three years later in [YEAR], [BAND_NAME] released the CD Collaborator, with guests musicians: [PERSON_NAME_FULL_0_MALE], Kit Watkins, [MONTH]c Anderson, [PERSON_NAME_FULL_2_MALE], [PERSON_NAME_FULL_1_MALE], and many others.\n"
    ]
 }

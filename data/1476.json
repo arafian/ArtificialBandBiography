@@ -28,10 +28,5 @@
          "www.blacktownpipeband.com"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "The [BAND_NAME] is a [GENRE] band based in Blacktown, New South Wales, Australia.\n",
-      "The [BAND_NAME] was formed in [YEAR] under the direction of Pipe Major Don McLeish originally as the St John Ambulance Brigade Pipes & Drums and rose quickly to prominence in the competition arena and in [YEAR], placed 3rd in the Grade 2 Australian Pipe Band Championships. Two years later at the next Australian Championships the band came 2nd, with a [GENRE]",
-      "In [YEAR], the band aligned itself with the Blacktwon RSL and changed its name from St Johns Ambulance Brigade Pipe Band to Blacktown RSL Pipe Band.\n"
-   ]
+   "albums": []
 }

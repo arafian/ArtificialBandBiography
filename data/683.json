@@ -29,10 +29,5 @@
          "Meegan Closner"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Portland, Oregon made up of three sisters: [PERSON_NAME_FULL_1_FEMALE], and twins [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_1] and Meegan [PERSON_NAME_LAST_1]. Their first album, Native Dreamer Kin, was self-released in early [YEAR]. Their second album I'm Alone, No You're Not was produced by [PERSON_NAME_FULL_0_MALE] and was released on [MONTH] 26, [YEAR] by ATO Records. Their third album Stay Awake was released on [MONTH] 15, [YEAR] by ATO Records.\n",
-      "[BAND_NAME] was formed when [PERSON_NAME_FULL_0_FEMALE], who had been pursuing a [GENRE] a new project. They chose their name as a tribute to the town of [BAND_NAME], Oregon and their grandfather Jo. Originally performing under a different name, a label representative said the name did not match the gravitas of their songwriting; they had just been camping in [BAND_NAME], a regular activity for them, and decided on the name. They self-released their debut album Native Dreamer Kin in [YEAR], and built a following playing intimate house shows as a trio accompanied by acoustic guitar and foot drum.\n",
-      "[BAND_NAME] were signed to ATO Records in [YEAR], releasing an acoustic two-song digital ATO Sessions EP and accompanying video series. In [YEAR], they recorded I'm Alone, No You're Not with producer Mike Mogis. The album was released on [MONTH] 26, [YEAR]. It debuted at #1 on Billboard's Heatseekers chart and remained at the top of the chart for two weeks. They released their first single, [SONG_NAME] reached No. 1 on the Adult Alternative Songs chart in [MONTH] [YEAR], and charted on Spotify's US Viral Top Ten days after its release. In Fall [YEAR], [BAND_NAME] launched an a cappella covers contest, which included submissions from fans, amateur musicians, and college a cappella groups.\n"
-   ]
+   "albums": []
 }

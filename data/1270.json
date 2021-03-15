@@ -32,10 +32,5 @@
          "Danny David Flores"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band composed of [PERSON_NAME_FULL_0_MALE], Kenny [MONTH]quez and Tony De La Rosa. Although all the band members hail from the United States, the band were among the most successful Hispanic or [SONG_NAME] acts founded in the United States during the [YEAR]s. Throughout Latin America, the band is known as Los Renegados.\n",
-      "[BAND_NAME] was formed by drummer [PERSON_NAME_FULL_0_MALE] and the band's manager/producer Kim Richards. Deney Terrio, host of Dance Fever, introduced [BAND_NAME] in what is believed to be their first national television appearance as being from [SONG_NAME] would bring in spray cans and knives. He told Performance magazine:\n",
-      "[SONG_NAME]They  SRO business  every Wednesday night ... Suddenly, that big club owner who'd turned me down contacted me about booking the band. I decided if [BAND_NAME] was to play a [GENRE]"
-   ]
+   "albums": []
 }

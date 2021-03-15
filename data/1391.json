@@ -46,10 +46,5 @@
       "Veckatimest",
       "Shields",
       "Painted Ruins"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Brooklyn, New York, formed in [YEAR]. The band consists of Edward Droste (vocals, guitar, keyboards, omnichord), [PERSON_NAME_FULL_0_MALE] (vocals, guitar, banjo, keyboards), Chris Taylor (bass, backing vocals, woodwinds, producer), and [PERSON_NAME_FULL_1_MALE] (drums, backing vocals). The band employs traditional and electronic instruments. Their sound has been categorized as psychedelic pop, folk rock, and experimental, and is dominated by the use of vocal harmonies.\n",
-      "[BAND_NAME] began as a moniker for songwriter Ed Droste's music in the early [YEAR]s. Regarding the band's origins as a solo project, Droste noted, [SONG_NAME]\n",
-      "In [YEAR], Droste released [BAND_NAME]'s debut album, Horn of Plenty. Predominately a solo album, the album featured contributions from future drummer Christopher Bear. Rolling Stone magazine wrote of the first album, [SONG_NAME]\n"
    ]
 }

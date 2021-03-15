@@ -38,10 +38,5 @@
       "Here Comes Trouble",
       "Sealed with a Kiss",
       "No Apologies"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from Albuquerque, New Mexico, United States.\n",
-      "The band formed in [YEAR] under the name Psychodrama by three sisters, guitarist Gel, bassist Lisa, and singer [PERSON_NAME_FULL_0_FEMALE]. The three auditioned both male and female drummers, but couldn’t find one suitable for their planned style of music. [PERSON_NAME_FIRST_0] began experimenting with the drum set they had been using for auditions, and soon picked up the drumbeat despite never having played the instrument. About halfway through the rendition of the song, she started to sing along. The sisters stopped auditioning and  [PERSON_NAME_FIRST_0] became both lead vocalist and drummer.\n",
-      "The band played their first show under the name Psychodrama and released a single, [SONG_NAME].  In [YEAR] the sisters changed their band name to [BAND_NAME] while touring the west coast, as more appropriate for their musical style.\n"
    ]
 }

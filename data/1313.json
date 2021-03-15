@@ -43,10 +43,5 @@
    "albums": [
       "Condor",
       "Live on Radio"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from Los Angeles, California. They formed in [YEAR], split-up in [YEAR], re-grouped in [YEAR] and have remained semi-active ever since. Critic [MONTH]k Deming calls them [SONG_NAME]\n",
-      "The band was formed in [YEAR] by singer John [PERSON_NAME_LAST_0] and his guitarist brother Dix (sons of Hollywood actress [PERSON_NAME_FULL_0_FEMALE]), initially using the band names the Barbies and the Luxurious Adults. [BAND_NAME] were originally a [YEAR]s-inspired hard rock and roll band that, like the Ramones in New York City, predated the UK punk scene. While initially trying to distance themselves from the genre name [SONG_NAME]\n",
-      "In a [YEAR] Flipside interview, John Denney listed the Ramones, New York Dolls and Iggy Pop as fundamental musical inspirations, adding:\n"
    ]
 }

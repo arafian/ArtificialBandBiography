@@ -32,10 +32,5 @@
       "Guilty",
       "Winter Enclosure",
       "Grace Submerged"
-   ],
-   "prunedData": [
-      "[BAND_NAME], formerly known as [MONTH]avia, is a [GENRE] band from Bergen, Norway.\n",
-      "The group released their debut album Winter Enclosure in [YEAR]. Their second album, [PERSON_NAME_FULL_0_FEMALE], was released in [MONTH] [YEAR]. Both albums were released by Candlelight Records, and both releases were followed by a [GENRE] band is currently all female except for the drummer, [PERSON_NAME_FULL_1_MALE].\n",
-      "On 20 [MONTH] [YEAR], [BAND_NAME] announced  that they would be [SONG_NAME]\n"
    ]
 }

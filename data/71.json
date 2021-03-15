@@ -33,10 +33,5 @@
       "Silence Is Betrayal",
       "Rules",
       "Billboard"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from San Francisco, California, formed in [YEAR]. \n",
-      "[BAND_NAME] released their debut record, an eponymously titled EP, in [YEAR]. Then, the following year, they released a split EP with Blacklisted titled The Dead Man's Hand. Finally, in [YEAR], the band released their debut full-length album, Killafornia, on Trustkill Records. [BAND_NAME] also went on tour that year with Ignite, Comeback Kid, The Red Chord, Sick of It All, Stretch Arm Strong, and others, and appeared at the New England Metal Fest on [MONTH] 29. The band then toured extensively in [YEAR] with the likes of Full Blown Chaos, Since the Flood and Death Before Dishonor.\n",
-      "In [YEAR] they released their second album, Silence Is Betrayal, on Bullet Tooth Records.\n"
    ]
 }

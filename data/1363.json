@@ -40,10 +40,5 @@
    },
    "albums": [
       "Dork Me Bangladesh"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from New York City formed in [YEAR]. The band released six albums before splitting up in [YEAR]. They reformed in [YEAR].\n",
-      "[BAND_NAME] formed in [YEAR] after the demise of the Sea Beasts, a band at Columbia University, the name soon trimmed from the initial [BAND_NAME] Liver Henry Moore, a play on [SONG_NAME]. [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_1_MALE], [PERSON_NAME_FULL_3_MALE] and Tom Meltzer recruited drummer [PERSON_NAME_FULL_2_MALE] and quickly found a substantial audience at CBGB. Guitarist Michael [MONTH]g soon replaced Meltzer. The band's first commercial release was the Donut Comes Alive album, released in [YEAR] on Jello Biafra's Alternative Tentacles label, followed in [YEAR] with Bucketfulls of Sickness and Horror in an Otherwise Meaningless Life.\n",
-      "In [MONTH] [YEAR], the band's debut single, a cover version of [SONG_NAME]. Austrian born Bassist Sissi Schulmeister joined the band before the end of the year, with Richard [MONTH]shall also joining on guitar.\n"
    ]
 }

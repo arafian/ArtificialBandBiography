@@ -37,10 +37,5 @@
    "albums": [
       "Philes and Smiles",
       "The Complete Raped Collection"
-   ],
-   "prunedData": [
-      "[BAND_NAME] were a [GENRE] band from London that grew out of the glam rock-influenced punk rock band Raped.\n",
-      "The punk band Raped formed in [YEAR] with a line-up of Sean Purcell (vocals), Faebhean Kwest (guitar), [PERSON_NAME_FULL_0_MALE] (bass), and Paddy Phield (drums). They released the Pretty Paedophiles EP and the [SONG_NAME] single in [YEAR] on Parole Records. Their last gig as 'Raped' was in Belfast with the punk band Rudi at Christmas [YEAR]. In [MONTH] [YEAR] they changed their name to '[BAND_NAME]'.\n",
-      "On the first recording sessions as [BAND_NAME] (that later were to appear on the album [SONG_NAME].  The band continued with various personnel changels through until [YEAR]. \n"
    ]
 }

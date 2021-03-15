@@ -51,10 +51,5 @@
       "23 Red",
       "Whiskey & Wine, Vol. 1",
       "Whiskey & Wine, Vol. 2"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band. The band's current line up is [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] lead guitar, [PERSON_NAME_FULL_0_FEMALE] bass guitar and drums, and Nini Camps lead vocals and rhythm guitar.\n",
-      "In their early years [BAND_NAME] toured widely, and have shared stages with The Bangles, [PERSON_NAME_FULL_0_FEMALE], The Rolling Stones, moe., Rob Thomas, Aerosmith, and The Allman Brothers. They performed at Lilith Fair in [YEAR] and at SXSW in [YEAR].\n",
-      "Kristen Ellis Henderson wrote a memoir about her same-sex marriage Times Two, Two Women in Love and the Happy Family They Made (Simon & Schuster) published on [MONTH] 5, [YEAR]. The book chronicles the journey she and her wife, [PERSON_NAME_FULL_0_FEMALE], took to start a family - eventually getting pregnant on exactly the same day and giving birth to their son and daughter. The book's success led to them being tapped by GLAAD as media spokeswomen advocating marriage equality, and the couple were featured on the cover of [MONTH] 8, [YEAR] issue of Time Magazine - [SONG_NAME] \n"
    ]
 }

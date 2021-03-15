@@ -39,10 +39,5 @@
       "Under the New Sun (EP)",
       "Christmas Time Again",
       "Say Hello"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in [YEAR]. It was formed in Tifton, Georgia by high school friends Michael Johnston (guitars/vocals), [PERSON_NAME_FULL_1_MALE] (keyboards), and Byron Goggin (drums), along with (then) Nashville musicians [PERSON_NAME_FULL_2_MALE] (guitar), and [PERSON_NAME_FULL_0_MALE] (bass). The band has had 10 singles in the top 10.\n",
-      "The band started under the name Villanelle.\n",
-      "[BAND_NAME] achieved recognition with their eponymous first album, released on Ardent Records in [YEAR].  This release earned the band the first of its two Grammy nominations (Best Gospel Rock Album) and numerous Dove Award nominations. In [YEAR] they released their second album, Listen Closely.  The song [SONG_NAME] from that album became their biggest hit. Their third album, Third Verse was released in [YEAR].  In [YEAR] they released their fourth studio album, It's Later Than It's Ever Been on BEC Recordings.\n"
    ]
 }

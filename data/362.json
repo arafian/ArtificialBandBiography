@@ -46,10 +46,5 @@
       "Ulysses",
       "When to Talk and When to Listen",
       "Buffalo"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Victoria, British Columbia, Canada. To date, the band has released a total of seven albums; So I Say, Trust Us Now, Protect Your Own, Long Time Ago, Ulysses, When to Talk and When to Listen and Buffalo.\n",
-      "[BAND_NAME]'s roots lie on the west coast of Canada in Victoria, British Columbia, on Vancouver Island. The band's members consist of Scott Stanton, [PERSON_NAME_FULL_1_MALE], Louis Sadava and [PERSON_NAME_FULL_0_MALE]. Originally a [GENRE] band began performing in backyards and on beaches, and has gained popularity through the likes of its online presence and dedicated Internet fan base. The band has been noted for its authenticity and for remaining true to its upbeat folk roots.\n",
-      "[BAND_NAME] sold out the very first show they played as a [GENRE] band had released a short, five song ep on the internet that teenagers enrolled in a high school up island got a hold of. The band had booked a show at a local coffee shop in hopes of playing in front of two, or three people but ended up playing in front of a packed audience.\n"
    ]
 }

@@ -36,10 +36,5 @@
          "Óscar"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (English: The Blue House) is a [GENRE] band that combines many of the qualities of [YEAR]s American pop bands like the Beach Boys and [YEAR]s European disco-pop acts like ABBA with clean, clear production reminiscent of Shibuya-kei. This distinctive sound was created by singer and producer Guille Milkyway, who also writes the band's songs. [BAND_NAME] release their records on the indie-pop label Elefant.\n",
-      "The band virtually consists of five members ([PERSON_NAME_FULL_0_MALE], [PERSON_NAME_FULL_1_FEMALE], Oscar, [PERSON_NAME_FULL_4_FEMALE] and [PERSON_NAME_FULL_3_MALE]) who appear in the band's distinctive, retro music videos, though notably do not perform live; instead, Milkyway sings and plays the songs solo at concerts. Milkyway is in fact the sole performer on the records and uses the band [SONG_NAME] was released, it was announced that the five members (sometimes called androids) were going to be relegated to some dancing sequences while Milkyway took lead of the band.\n",
-      "In [YEAR], [BAND_NAME] bid to represent Spain in the Eurovision Song Contest [YEAR] with the song [SONG_NAME] placed second. [BAND_NAME] finished third overall in the final.\n"
-   ]
+   "albums": []
 }

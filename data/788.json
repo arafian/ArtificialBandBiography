@@ -32,10 +32,5 @@
          "Mikael Sehlin"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Gothenburg, Sweden. They are currently signed to Gain Records/Sony.\n",
-      "[BAND_NAME] released their debut album Absolute Design through SPV GmbH/Steamhammer on [MONTH] 31, [YEAR]. The album was released in North America on [MONTH] 20, [YEAR].\n",
-      "Their second album, Threnody, was finished by the end of [YEAR], but due to issues with their former label, SPV GmbH, the release was delayed. On [MONTH] 7, [YEAR], Threnody was released in Japan through Trooper Entertainment. The album was released on the music streaming service Spotify on [MONTH] 8, [YEAR], and in Europe on the same date, through Season of Mist. Threnody was released in North America on [MONTH] 11, [YEAR], also through Season of Mist.\n"
-   ]
+   "albums": []
 }

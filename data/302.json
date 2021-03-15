@@ -31,10 +31,5 @@
    "albums": [
       "XO",
       "Badu"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia. They released their first album XO on Last Gang Records in [MONTH] [YEAR]. [BAND_NAME] have toured as direct support for Bloc Party, Cut Copy, Hot Chip, MS MR and have played major festivals including Lollapalooza, The Governor's Ball, Sasquatch! Music Festival, Osheaga and [PERSON_NAME_FULL_0_MALE].\n",
-      "After a successful showcase at SXSW [YEAR], Billboard wrote that [SONG_NAME]\n",
-      "The group was originally formed as a solo project by [PERSON_NAME_FULL_0_MALE] of the band Top Less Gay Love Tekno Party. After playing several shows solo as [BAND_NAME], [PERSON_NAME_LAST_0] invited fellow University of Victoria student [PERSON_NAME_FULL_1_FEMALE] to join the band. The pair wrote and recorded their debut album XO in their home studio, and self-released the EP in [MONTH] [YEAR]. Initial reception for the EP was positive, with taste-maker blogs The Fader and Consequence of Sound praising the sound.\n"
    ]
 }

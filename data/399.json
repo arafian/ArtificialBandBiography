@@ -40,10 +40,5 @@
       "The Light Years",
       "Allies",
       "Virtues"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band. They released six albums during the [YEAR]s and early [YEAR]s.\n",
-      "The most notable band members were guitarist Randy Thomas, formerly of the Jesus music group Sweet Comfort Band and vocalist Bob Carlisle. Carlisle went on to pursue a solo career and recorded the hit song [SONG_NAME], which was co-written with Randy.\n",
-      "Sam Scott and Jimmy Erickson were both formerly of Psalm 150.\n"
    ]
 }

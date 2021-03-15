@@ -6,10 +6,5 @@
       "The band's name is a reference to Stanisław Lem's philosophical Sci-Fi novel, Solaris. Their first album's title is a reference to The Martian Chronicles. The members have said that they were influenced by these, and other Sci-Fi books.\n"
    ],
    "infobox": {},
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] are a [GENRE] band formed in [YEAR].\n",
-      "Their music has a [GENRE] a great deal of interplay among the lead instruments of flute, guitar and keyboard which is used regularly to develop their themes. The emphasis is not on providing solo spots for the various instruments, but rather in employing those instruments within the context of the development of the individual piece.\n",
-      "The band's name is a reference to Stanisław Lem's philosophical Sci-Fi novel, [BAND_NAME]. Their first album's title is a reference to The [MONTH]tian Chronicles. The members have said that they were influenced by these, and other Sci-Fi books.\n"
-   ]
+   "albums": []
 }

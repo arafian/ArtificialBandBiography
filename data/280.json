@@ -13,10 +13,5 @@
       "10 Speed",
       "Headfirst Into Everything",
       "Western Magnetics"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in [YEAR] in Vancouver.  The core of the band consisted of Jordan Pratt, Luke Rogalsky, Bean ([PERSON_NAME_FULL_0_MALE]) and Shane Ward.\n",
-      "The band started in [YEAR] in Chilliwack, BC. The young band quickly grew a [GENRE] band was signed to Nettwerk Records. The band released their first album, Glazed, in [YEAR] and toured extensively in support of the album. Before working on a new record, Bean left the band and was replaced by Norm Thody from the band Captain Gravity.\n",
-      "In [YEAR], [BAND_NAME] headed back into the studio to record their second album. Entitled 10 Speed, it was a [GENRE] bands love for English shoe-gazers like My Bloody Valentine, Swervedriver and Ride was becoming more apparent. The album was as commercially successful as [BAND_NAME] ever got. The single [SONG_NAME] was nominated for a Much Music Video Award. After releasing the record, Bean returned and the band hit the road again.\n"
    ]
 }

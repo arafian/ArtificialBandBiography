@@ -31,10 +31,5 @@
    },
    "albums": [
       "Emotion/Sound/Motion"
-   ],
-   "prunedData": [
-      "[BAND_NAME] were an [GENRE] band from Sheffield, England, active from [YEAR] to [YEAR]. They were part of the Sheffield scene in England, alongside such bands as Clock DVA, Comsat Angels, Artery, The Human League and Vice Versa.\n",
-      "The band's line-up was: [MONTH]e Wilson (vocals, keyboards), Rod Leigh (vocals, guitar), Gary [MONTH]sden (bass), and [PERSON_NAME_FULL_0_MALE] (drums).\n",
-      "[BAND_NAME] played their first gig opening for Clock DVA in Sheffield's Penthouse Club. Their highest profile gig was at the Leeds Futurama Festival on the 13th [MONTH] [YEAR]. They performed the song [SONG_NAME] in Eve Wood's documentary film Made in Sheffield ([YEAR]).\n"
    ]
 }

@@ -41,10 +41,5 @@
    "albums": [
       "Liliput",
       "Some Songs"
-   ],
-   "prunedData": [
-      "[BAND_NAME], initially known as Kleenex, were a [GENRE] band formed in Zürich in [YEAR]. The band experienced numerous line-up changes throughout their existence, with bassist Klaudia Schiff being the only constant member of the band over their entire history. Guitarist [MONTH]lene [MONTH]der joined the group shortly after their formation, and remained a member until their [YEAR] split. [BAND_NAME]'s final line-up consisted of Schiff, [MONTH]der, and lead vocalist Astrid Spirit, and it was in this incarnation that the band recorded their only full-length studio albums, Liliput ([YEAR]) and Some Songs ([YEAR]).\n",
-      "According to AllMusic, [BAND_NAME] [SONG_NAME] of the punk rock era.\n",
-      "Under the name Kleenex, the band formed in Zürich in [YEAR], with an initial line-up that included Lislot Ha (Lieselotte Hafner) on drums, [PERSON_NAME_FULL_1_FEMALE] ([PERSON_NAME_FULL_1_FEMALE]erle) on bass and vocals, and Regula Sing on lead vocals. [MONTH]lene [MONTH]der ([MONTH]lene [MONTH]ti), an acquaintance of the band, filled in on guitar during the encore portion of their first live performance, and thereafter remained in the band as their full-time guitarist.\n"
    ]
 }

@@ -35,10 +35,5 @@
          "Trevor Taylor"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Los Angeles, California. Formed in [YEAR], the group was originally signed to the independent label Hopeless Records, the band then released the two albums Nocturne ([YEAR]) and Midheaven ([YEAR]) before signing to eOne Music and releasing Digital Veil ([YEAR]). [BAND_NAME] has gone through several lineup changes over the years, with the current consisting of founding members Dean Herrera, A.J. Minette and [PERSON_NAME_FULL_0_MALE], in addition to Henry Selva and [PERSON_NAME_FULL_1_MALE].\n",
-      "[BAND_NAME] formed in Los Angeles, California in [YEAR] with guitarists Dean Herrera and A.J. Minette, drummer [PERSON_NAME_FULL_0_MALE], bassist [PERSON_NAME_FULL_2_MALE], and vocalist Nick Olaerts. The group's name was derived from the title of a [PERSON_NAME_FULL_1_MALE] poem published in Songs of Experience in [YEAR]. The band soon released a two-track demo to sell at live performances. They would later record additional demos with Jonny Santos of Spineshank and Silent Civilian, and Logan Mader formerly of Machine Head, Soulfly and Medication. [BAND_NAME] signed to the independent record label Hopeless Records in [YEAR].\n",
-      "In late [YEAR], Nick Olaerts was replaced by [PERSON_NAME_FULL_0_MALE] before heading into the studio to record the band's first full-length release, Nocturne. They released their debut album on Hopeless Records on [MONTH] 22, [YEAR].\n"
-   ]
+   "albums": []
 }

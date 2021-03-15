@@ -27,10 +27,5 @@
          " Joey Stann"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band. Their only hit, [SONG_NAME], peaked at #28 on the Billboard Hot 100 chart in [MONTH] [YEAR]. \n",
-      "According to vocalist [PERSON_NAME_FULL_2_MALE], he was asked to provide a lead vocal for the Lanny Lambert and Bobby Flax song, [SONG_NAME]\n",
-      "Although the group toured for two years and recorded three more singles, only [SONG_NAME] another Lambert and Flax song, broke into the Billboard Top 100. [BAND_NAME] disbanded some time before [YEAR]. Pontbriand later played trombone for K.C. and the Sunshine Band and trumpet for Wild Cherry, and is now Director of the Popular Music in the Music Department of Palm Beach Atlantic University in West Palm Beach, FL. Micara went on to record and tour with Gary U.S. Bonds and play drums on film soundtracks before changing careers to public-school teaching. He died in [YEAR]. Granato and Sorrentino are both musically active in South Florida. Stann performs in Edison, NJ with the artist Southside Johnny.\n"
-   ]
+   "albums": []
 }

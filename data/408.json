@@ -33,10 +33,5 @@
          "Peter Koski"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in Oskarshamn, Sweden. It was founded in [YEAR] by the three brothers Bo, [MONTH]  and [PERSON_NAME_FULL_1_MALE]. In [YEAR] the band added two members, [PERSON_NAME_FULL_0_MALE] and Thomas Karlsson. In [MONTH] [YEAR] the band went on an indefinite hiatus. \n",
-      "Starting out as a hard rock trio in the early [YEAR]'s, at the end of the [YEAR]'s [BAND_NAME] turned into a radio-friendly rock band focusing on melodies and strong vocal elements.\n",
-      "The band is primarily known for its songs [SONG_NAME] ([YEAR]) was a [GENRE]"
-   ]
+   "albums": []
 }

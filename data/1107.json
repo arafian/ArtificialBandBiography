@@ -35,10 +35,5 @@
       "Eagle*Seagull",
       "I Hate EP's",
       "The Year of the How-To Book"
-   ],
-   "prunedData": [
-      "[BAND_NAME] (sometimes stylized as Eagle*Seagull) was an [GENRE] band from Lincoln, Nebraska, United States that singer/songwriter Eli [MONTH]dock formed in [YEAR].\n",
-      "They released their debut album, Eagle*Seagull, in [YEAR] and released an EP, called I Hate EP's in [MONTH] [YEAR].\n",
-      "In [YEAR], they did a Take-Away Show video session shot by Vincent Moon. In [MONTH] [YEAR], [BAND_NAME] contributed their track [SONG_NAME] to the indie compilation, Indiecater Vol. 2.\n"
    ]
 }

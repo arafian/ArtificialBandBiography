@@ -30,10 +30,5 @@
    "albums": [
       "Come Into My House",
       "Judy At The Grove EP"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia.\n",
-      "The band was formed by [PERSON_NAME_FULL_0_MALE], [MONTH]ia Chirka and Nick Krgovich following the departure of [PERSON_NAME_FULL_1_FEMALE] from their earlier band P:ano.\n",
-      "The band's debut album, Come Into My House, was released [MONTH] 19, [YEAR] on Tomlab. They toured Canada and the United States through the spring and summer of [YEAR] in support of the record. The album was given a [GENRE]"
    ]
 }

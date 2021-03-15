@@ -35,10 +35,5 @@
       "All Shall Align",
       "The Lucid Collective",
       "Relentless Mutation"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia. They are currently signed to Season of Mist. The group has released three studio albums.\n",
-      "The band was formed in [YEAR] as Defenestrated, but changed their name to [BAND_NAME] in [YEAR].\n",
-      "In [MONTH] [YEAR], Trendkill Recordings released All Shall Align, the band's first album. It was recorded between [MONTH] and [MONTH] [YEAR] working with producer [PERSON_NAME_FULL_0_MALE] at The Hive studios\n"
    ]
 }

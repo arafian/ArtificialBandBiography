@@ -19,10 +19,5 @@
       "America's Music - California's Band",
       "Soundtrack 40+6",
       "Greenifornia"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a band from Cupertino, California, United States, that specializes in covers of songs from the heyday of surf music in the [YEAR]s.\n",
-      "[BAND_NAME] (PDRR) was founded in [YEAR], as The Zu, then changed their name to Goodie Two Shoes, and is made up of current and former members of the Beach Boys, [MONTH] & Dean's, [PERSON_NAME_FULL_0_MALE]'s and Brian Wilson's bands.\n",
-      "The founding members of the group were Don Zirilli (Hammond B3 Organ/keyboards), [PERSON_NAME_FULL_0_MALE] (bass), [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_2] (drums) and [PERSON_NAME_FULL_1_MALE] (guitar, primary vocals and front man) who adopted the moniker of Stevie Surf.  For years they went by the name Papa Do Run Da Run before shortening it to the name they are known by now.\n"
    ]
 }

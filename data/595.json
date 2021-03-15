@@ -28,10 +28,5 @@
          "Cristal Ramirez"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (formerly The Blue Aces) are an [GENRE] band from Provo, Utah. The band has four members: guitarist [PERSON_NAME_FULL_1_FEMALE], bassist McKenna Petty, and sisters [PERSON_NAME_FULL_0_FEMALE] (drums) and Cristal [PERSON_NAME_LAST_0] (lead vocals and guitars).\n",
-      "Their first single as [BAND_NAME], [SONG_NAME], was released in [YEAR] in advance of their debut EP I Don’t Like Being Honest. The band is signed to [PERSON_NAME_FULL_1_MALE]. The band's debut album When My Heart Felt Volcanic was released on [MONTH] 6, [YEAR]. [BAND_NAME] worked with six producers on the records, but [PERSON_NAME_FULL_0_MALE] and Simon Oscroft were particularly influential, being involved in half of the material.\n",
-      "[BAND_NAME] joined 5 Seconds of Summer for their Meet You There Tour, in support of their third album, Youngblood ([YEAR]). Following this tour, they embarked on their own North American headlining tour in support of When My Heart Felt Volcanic, the Waiting For You Tour.\n"
-   ]
+   "albums": []
 }

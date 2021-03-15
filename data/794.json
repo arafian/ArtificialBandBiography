@@ -2,8 +2,7 @@
    "Name": "Headplate",
    "rawData": [
       "Headplate is a Swedish nu metal band from the city of Gothenburg. The band was formed back in 1993, by drummer Niklas Österlund and guitarist Daniel (Schou) Granstedt. Almost all of their songs are free to download at their own website.\n",
-      "In 1999 the band signed with Gain Productions / Gain Recordings, also from Gothenburg, Sweden. Headplate performed at several Scandinavian festivals during 2001 and 2002, for instance Hultsfredsfestivalen 2001 and Tuska Open Air Metal Festival in 2001. During these years they also did a couple of shows as the supported act for Hardcore Superstar, LOK and Machine Head. The band has released four studio albums: \"Bullsized\" (2000), \"Delicate\" (2002), \"Pieces\" (2003) and \"12-12-12\" (2012).\n",
-      "This article about a Swedish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+      "In 1999 the band signed with Gain Productions / Gain Recordings, also from Gothenburg, Sweden. Headplate performed at several Scandinavian festivals during 2001 and 2002, for instance Hultsfredsfestivalen 2001 and Tuska Open Air Metal Festival in 2001. During these years they also did a couple of shows as the supported act for Hardcore Superstar, LOK and Machine Head. The band has released four studio albums: \"Bullsized\" (2000), \"Delicate\" (2002), \"Pieces\" (2003) and \"12-12-12\" (2012).\n"
    ],
    "infobox": {
       "Origin": [
@@ -31,10 +30,5 @@
       "Delicate",
       "Pieces",
       "12-12-12"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from the city of Gothenburg. The band was formed back in [YEAR], by drummer Niklas Österlund and guitarist Daniel (Schou) Granstedt. Almost all of their songs are free to download at their own website.\n",
-      "In [YEAR] the band signed with Gain Productions / Gain Recordings, also from Gothenburg, Sweden. [BAND_NAME] performed at several Scandinavian festivals during [YEAR] and [YEAR], for instance Hultsfredsfestivalen [YEAR] and Tuska Open Air Metal Festival in [YEAR]. During these years they also did a [GENRE] band has released four studio albums: [SONG_NAME] ([YEAR]).\n",
-      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

@@ -34,10 +34,5 @@
          "Lolly Lewis"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "Ace of Cups is an [GENRE] band formed in San Francisco in [YEAR] during the Summer of Love era. It has been described as one of the first all-female rock bands.\n",
-      "The members of Ace of Cups were [MONTH]y Gannon (bass), [MONTH]la Hunt (organ, piano), Denise Kaufman (guitar, harmonica), [MONTH]y [PERSON_NAME_FULL_0_FEMALE] (lead guitar), and [PERSON_NAME_FULL_1_FEMALE] (drums). Lead vocals were sung by all members of the band except [PERSON_NAME_LAST_1], and all five sang backup. The songwriting, too, was divided among the band members.\n",
-      "Gannon was born in New York and moved to San Francisco in the early [YEAR]s. She played bass for a [GENRE] a band called Daemon Lover. Hunt, who had grown up in Los Angeles, had been playing the piano since she was three. Like Gannon, she also moved to San Francisco in the early [YEAR]s. Hunt was introduced to Gannon through a mutual friend, and Gannon suggested that they form an all-female rock band.\n"
-   ]
+   "albums": []
 }

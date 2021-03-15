@@ -40,10 +40,5 @@
          "Bruce Michael Miller (guitar 1980s)"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from Los Angeles, California, formed in the [YEAR]s, who have been referred to as a [SONG_NAME], now the anthem of several Boston sports teams and is played following every Boston Red Sox and Boston Bruins home win.\n",
-      "The original Standells band was formed in [YEAR] by lead vocalist and keyboard player [PERSON_NAME_FULL_2_MALE] (born Lawrence A. [PERSON_NAME_LAST_2], [MONTH] 5, [YEAR], in Los Angeles), and guitarist [PERSON_NAME_FULL_3_MALE] (born [MONTH] 24, [YEAR], aka [PERSON_NAME_FULL_4_MALE]), bass guitarist Jody Rich,  and drummer [PERSON_NAME_FULL_0_MALE] (aka Hernandez). [PERSON_NAME_LAST_2] had previously been a solo performer, recording several 45 singles in the late [YEAR]s and early [YEAR]s including [SONG_NAME] for Faro and [PERSON_NAME_FULL_1_FEMALE]. He is the brother of actor Russ [PERSON_NAME_LAST_2] and the uncle of actor Amber [PERSON_NAME_LAST_2].\n",
-      "[BAND_NAME] band name was created by [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_3_MALE],  derived from standing around booking agents' offices trying to get work.  In early [YEAR], drummer Benny King joined the group, and as [SONG_NAME], and eventually became the singer who sang lead on all of the Standells hit songs.\n"
-   ]
+   "albums": []
 }

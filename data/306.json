@@ -26,10 +26,9 @@
          "Elmar Spanier"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] were a [MONTH]o Award-nominated Canadian alt-country band that existed between [YEAR] and [YEAR], releasing two albums in Canada on Sony Music.\n",
-      "The origins of the group are referenced to Billy Cowsill and [PERSON_NAME_FULL_0_MALE], who had been performing as The Billy Cowsill Band, playing traditional country songs.\n",
-      "The settled initial group formation was [PERSON_NAME_FULL_0_MALE] and Billy Cowsill as guitarists and principal songwriters, plus bassist Elmer Spanier and drummer J.B. [SONG_NAME] by Sons of the Pioneers.\n"
+   "albums": [
+      "On the Floor of Heaven",
+      "Lucky to Me",
+      "On the Floor of Heaven"
    ]
 }

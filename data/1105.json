@@ -1,17 +1,12 @@
 {
    "Name": "Lullaby for the Working Class",
    "rawData": [
-      "\nLullaby for the Working Class was an indie folk rock band from Lincoln, Nebraska, active from the mid-to-late 1990s. Fronted by Omaha, Nebraska singer-songwriter Ted Stevens (of the bands Mayday and Cursive), the group also featured multi-instrumentalist and producer Mike Mogis of Bright Eyes, his brother, producer A.J. Mogis, and drummer Shane Aspegren of Berg Sans Nipple.\n",
-      "This article on a United States folk music band is a stub. You can help Wikipedia by expanding it."
+      "\nLullaby for the Working Class was an indie folk rock band from Lincoln, Nebraska, active from the mid-to-late 1990s. Fronted by Omaha, Nebraska singer-songwriter Ted Stevens (of the bands Mayday and Cursive), the group also featured multi-instrumentalist and producer Mike Mogis of Bright Eyes, his brother, producer A.J. Mogis, and drummer Shane Aspegren of Berg Sans Nipple.\n"
    ],
    "infobox": {},
    "albums": [
       "Blanket Warm",
       "I Never Even Asked for Light",
       "Song"
-   ],
-   "prunedData": [
-      "\n[BAND_NAME] was an [GENRE] band from Lincoln, Nebraska, active from the mid-to-late [YEAR]s. Fronted by Omaha, Nebraska singer-songwriter Ted Stevens (of the bands [MONTH]day and Cursive), the group also featured multi-instrumentalist and producer [PERSON_NAME_FULL_0_MALE] of Bright Eyes, his brother, producer A.J. [PERSON_NAME_LAST_0], and drummer [PERSON_NAME_FULL_1_MALE] of Berg Sans Nipple.\n",
-      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

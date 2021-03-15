@@ -45,10 +45,5 @@
       "Party Music",
       "Pick a Bigger Weapon",
       "Sorry to Bother You"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Oakland, California. Their music is an amalgamation of influences, including funk, punk, hip hop, and soul. Frontman Boots Riley's revolutionarily-charged lyrics rank [BAND_NAME] as a renowned political hip hop band aligned to radical music groups such as Crass, Dead Prez and Rage Against the Machine.\n",
-      "[BAND_NAME]'s music is driven by assertive and danceable bass-driven backbeats overlaid by critical, hopeful, and witty lyrics, often with a bent towards the literary. [BAND_NAME]'s songs critique, observe, and lampoon capitalism, American politics, white patriarchal exploitation, police brutality, marijuana addiction, romance, and disparities among races and social classes.\n",
-      "[BAND_NAME]'s debut album was [YEAR]s The EP and almost all of the songs on it (except [SONG_NAME].\n"
    ]
 }

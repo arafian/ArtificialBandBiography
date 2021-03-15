@@ -32,10 +32,5 @@
    "albums": [
       "The Whoreshoes",
       "Get Lucky"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band based in the [PERSON_NAME_FULL_0_FEMALE] Bay area.  The group's name is primarily a pun based on horseshoes. They have played internationally in countries such as Belgium and The Netherlands.  In addition they performed at the [YEAR] Hardly Strictly Bluegrass Festival is [PERSON_NAME_FULL_0_FEMALE]'s Golden Gate Park. On [MONTH] 12, [YEAR], they gave their final show and have since gone their separate ways.\n",
-      "They like whiskey, particularly Jameson or American Bourbon.  Insiders tip: the more whiskey they are given, the longer they play.\n",
-      "[BAND_NAME] main influences include country legends [PERSON_NAME_FULL_2_FEMALE], Dolly Parton, The [PERSON_NAME_FULL_1_MALE], Stanley Brothers, Louvin Brothers, Doc Boggs, and alternative country acts such as [PERSON_NAME_FULL_0_MALE], Meat Purveyors, Old Crow Medicine Show, and [PERSON_NAME_FULL_3_FEMALE].\n"
    ]
 }

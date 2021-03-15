@@ -31,10 +31,5 @@
    },
    "albums": [
       "See the Whirl"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Leeds, West Yorkshire, England.\n",
-      "The original members of [BAND_NAME], [MONTH]z Sale (vocals/guitar), Ros Allen (bass) and [PERSON_NAME_FULL_0_FEMALE] (bass), formed the band [SONG_NAME]. This song was later covered by Chicks on Speed, Le Shok, R. [PERSON_NAME_FULL_2_MALE], Pigface and Dum Dum Girls. [PERSON_NAME_FULL_0_FEMALE] went on to play on Fun Boy Three's second album, Waiting. \n",
-      "The members of [BAND_NAME] were also important figures in the Rock Against Racism movement, and were the subject of a [GENRE] a right-wing group affiliated with rival movement Rock Against Communism.\n"
    ]
 }

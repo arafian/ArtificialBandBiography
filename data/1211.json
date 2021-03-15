@@ -41,10 +41,5 @@
       "Ima Robot",
       "Monument to the Masses",
       "Another Man's Treasure"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in Los Angeles, California, United States, that formed in the late [YEAR]s. They have released several albums, EPs, and singles, most notably [BAND_NAME] in [YEAR], Search and Destroy and Monument to the Masses in [YEAR], and Another Man's Treasure in [YEAR]. The band's song, [SONG_NAME], a B-Side to Another Man's Treasure, is the main theme song of the USA Network legal drama series Suits.\n",
-      "In the [YEAR]'s, singer/rapper [PERSON_NAME_FULL_0_MALE] and guitarist Tim [SONG_NAME] [PERSON_NAME_LAST_2] was let go the day after the band was signed, and was replaced by studio drummer [PERSON_NAME_FULL_1_MALE].\n",
-      "On [MONTH] 16, [YEAR], [BAND_NAME] released their first full-length album, the self-titled [BAND_NAME]. The album featured the singles [SONG_NAME] (released in the UK only).\n"
    ]
 }

@@ -2,8 +2,7 @@
    "Name": "Idle Cure",
    "rawData": [
       "Idle Cure was an arena rock band from Long Beach, California. The Encyclopedia of Contemporary Christian Music calls their sound \"the best example of cloning a sound for Christian markets\", likening it to that of Def Leppard's Pyromania. They targeted a youthful audience, distinguished by overtly evangelical religious lyrics.\n",
-      "CCM magazine reported that all original members of the band had been in mainstream bands prior to the formation of Idle Cure. Their first four albums have been reissued as compilations by KMG Records.\n",
-      "This Christian music-related article is a stub. You can help Wikipedia by expanding it."
+      "CCM magazine reported that all original members of the band had been in mainstream bands prior to the formation of Idle Cure. Their first four albums have been reissued as compilations by KMG Records.\n"
    ],
    "infobox": {},
    "albums": [
@@ -19,10 +18,5 @@
       "Idle Cure/2nd Avenue",
       "Cross Rhythms",
       "Tough Love/Inside Out"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Long Beach, California. The Encyclopedia of Contemporary Christian Music calls their sound [SONG_NAME], likening it to that of Def Leppard's Pyromania. They targeted a youthful audience, distinguished by overtly evangelical religious lyrics.\n",
-      "CCM magazine reported that all original members of the band had been in mainstream bands prior to the formation of [BAND_NAME]. Their first four albums have been reissued as compilations by KMG Records.\n",
-      "This Christian music-related article is a [GENRE]"
    ]
 }
