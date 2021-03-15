@@ -16,7 +16,6 @@ from urllib.request import urlopen
 import json
 import pandas
 from parse_infobox import parse_infobox
-from paragraph_placeholders import get_paragraph_placeholders
 from parse_albums import parse_albums
 
 def extractRawData(soup):
@@ -33,7 +32,7 @@ def extractRawData(soup):
   for c in children:
     if c.name == 'p':
       if numParagraphs > 0:
-        if (c.getText() != "\n"):
+        if (c.getText() != "\n" and "is a stub" not in c.getText()):
           rawData.append(re.sub("[\[].*?[\]]", "", c.getText()))
           numParagraphs-=1
   bandData["rawData"] = rawData
@@ -67,15 +66,22 @@ def appendToConsolidatedData():
             currData = consolidatedData[allKey]
             currData.extend(bandData[key]["Genres"])
           else:
-            consolidatedData[allKey] = [bandData[key]["Genres"]]
+            consolidatedData[allKey] = bandData[key]["Genres"]
 
       else:
         allKey = "all"+key
+        dataToAdd = bandData[key]
         if allKey in consolidatedData:
           currData = consolidatedData[allKey]
-          currData.append(bandData[key])
+          if isinstance(dataToAdd, list):
+              currData.extend(dataToAdd)
+          else:
+              currData.append(dataToAdd)
         else:
-          consolidatedData[allKey] = [bandData[key]]
+          if isinstance(dataToAdd, list):
+              consolidatedData[allKey] = dataToAdd
+          else:
+              consolidatedData[allKey] = [dataToAdd]
 
 ##########################################################################
 
