@@ -63,9 +63,9 @@ def random_song_name():
     if i == 7:
         return (r.word(include_parts_of_speech=["nouns"]) + " or " + r.word(include_parts_of_speech=["nouns"])).title()
     if i == 8:
-        return (r.word(include_parts_of_speech=["verbs"]) + " " + random.choice(["me", "you", "her", "him"]))
+        return (r.word(include_parts_of_speech=["verbs"]) + " " + random.choice(["me", "you", "her", "him"])).title()
     if i == 9:
-        return (r.word(include_parts_of_speech=["verbs"]) + "ing in the " + r.word(include_parts_of_speech=["nouns"]))
+        return (r.word(include_parts_of_speech=["verbs"]) + "ing in the " + r.word(include_parts_of_speech=["nouns"])).title()
 
 
 def replace_band_name(texts):
