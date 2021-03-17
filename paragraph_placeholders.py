@@ -183,12 +183,12 @@ def get_paragraph_placeholders(data):
     #      data = json.load(f)
 
     texts = data['rawData']
-    texts = album_placeholders(data["albums"], texts)
-    texts = song_placeholders(texts)
     texts = band_placeholder(data, texts)
     texts = year_placeholder(texts)
     texts = month_placeholder(texts)
     texts = person_name_placeholder(data, texts)
+    texts = album_placeholders(data["albums"], texts)
+    texts = song_placeholders(texts)
 
     try:
         texts = genre_placeholder(texts)
