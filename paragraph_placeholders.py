@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1sV4qrIAlYw2qT2zEzwccI0GNW1AwHcHE
 """
 
-# pip install gender-guesser
 import json
 import re
 import nltk
@@ -15,8 +14,6 @@ from nltk.corpus import wordnet
 import calendar
 import gender_guesser.detector as gender
 import random
-
-"""## Band Name Placeholder"""
 
 def band_placeholder(data, texts):
     band_name = data['Name']
@@ -30,16 +27,12 @@ def band_placeholder(data, texts):
 
     return return_texts
 
-"""## Year Placeholder"""
-
 def year_placeholder(texts):
     return_texts = []
     for text in texts:
         text = re.sub("[0-9]{4}", '[YEAR]', text)
         return_texts.append(text)
     return return_texts
-
-"""## Month Placeholder"""
 
 def month_placeholder(texts):
     return_texts = []
@@ -50,11 +43,9 @@ def month_placeholder(texts):
         return_texts.append(text)
     return return_texts
 
-"""## Name Placeholder
-https://stackoverflow.com/questions/20290870/improving-the-extraction-of-human-names-with-nltk
-Shivansh bhandari's answer
-"""
 
+# https://stackoverflow.com/questions/20290870/improving-the-extraction-of-human-names-with-nltk
+# Shivansh bhandari's answer
 def get_person_names(data, text):
     person_list = []
     person_names=person_list
@@ -146,10 +137,7 @@ def person_name_placeholder(data, texts):
 
     return texts
 
-"""## Genre Placeholder
-
-### Get all genres
-"""
+"""## Genre Placeholder"""
 
 with open('data/consolidatedData.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
@@ -195,16 +183,6 @@ def get_paragraph_placeholders(data):
     except:
         pass
     return texts
-
-
-# print(get_paragraph_placeholder('data/1599.json'))
-
-# for i in range(1657):
-#     try:
-#         get_paragraph_placeholder('data/' + str(i) + '.json')
-#     except:
-#         print(i)
-
 
 def album_placeholders(albums, texts):
     return_texts = []
