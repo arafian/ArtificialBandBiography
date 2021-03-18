@@ -1,0 +1,37 @@
+Packages Required:
+
+re
+sys
+json
+random
+flask
+flask_cors
+nltk
+calendar
+gender_guesser
+datetime
+pickle
+nameparser
+wonderwords
+names
+bs4
+pprint
+urllib
+pandas
+time
+requests
+
+# TO RUN WEBSITE
+## 1. YOU MUST RUN THE BACKEND
+
+In root dir >>
+- `export FLASK_APP=generate_bio.py`
+- `python -m flask run`
+
+
+## 2. YOU MUST RUN THE FRONTEND
+
+In `frontend/`>>
+- Must install npm.
+- `npm install`
+- `npm start`
