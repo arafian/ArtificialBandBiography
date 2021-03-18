@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 import json
 import re
 from datetime import datetime
@@ -12,16 +6,10 @@ import nltk
 import pickle
 from nameparser.parser import HumanName
 from nltk.corpus import wordnet
-# import names
 import gender_guesser.detector as gender
 import calendar
 import names
 from random_word import RandomWords
-
-# ## Replace Band Name
-
-# In[4]:
-
 
 with open('titles', 'rb') as inf:
     titles = pickle.load(inf)
@@ -40,9 +28,6 @@ for title in titles:
             nouns.append(word.capitalize())
         elif pos == 'JJ':
             adjectives.append(word.capitalize())
-
-
-# In[5]:
 
 def random_song_name():
     r = RandomWords()
@@ -90,12 +75,6 @@ def replace_band_name(texts):
       return_texts.append(text)
     return new_name, return_texts
 
-
-# ## Replace Years
-
-# In[6]:
-
-
 def replace_years(texts):
     num_years = ''.join(texts).count('[YEAR]')
     first_year = datetime.now().year - (5 * num_years)
@@ -115,12 +94,6 @@ def replace_years(texts):
        return_texts.append(text)
     return return_texts
 
-
-# ## Replace Months
-
-# In[7]:
-
-
 def replace_months(texts):
     months = [calendar.month_name[i] for i in range(1,13)] + [calendar.month_abbr[i] for i in range(1,13)]
     return_texts = []
@@ -129,8 +102,6 @@ def replace_months(texts):
        return_texts.append(text)
 
     return return_texts
-
-# ## Replace Names 
 
 def replace_person_names(texts):
     return_texts = []
@@ -182,13 +153,6 @@ def replace_person_names(texts):
 
     return return_texts
 
-# ## Replace Genre
-
-# ### Get all Genres
-
-# In[9]:
-
-
 with open('data/consolidatedData.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
@@ -200,10 +164,6 @@ for genre in data['allGenres']:
 
 genres = list(genres) # need to convert to list to be able to take a random choice from it
 
-
-# In[10]:
-
-
 def replace_genre(texts):
     new_genre = random.choice(genres)
     return_texts = []
@@ -211,9 +171,6 @@ def replace_genre(texts):
       text = re.sub('\[GENRE\]', new_genre, text)
       return_texts.append(text)
     return return_texts
-
-
-# ## Replace All Placeholders
 
 def replace_songs(texts):
     return_texts = []
@@ -229,14 +186,9 @@ def replace_albums(texts):
         return_texts.append(text)
     return return_texts
 
-# In[14]:
-
-
 with open('data/consolidatedData.json', 'r', encoding='utf-8') as inf:
     paras = json.load(inf)
 
-#with open('data/0.json', 'r', encoding='utf-8') as inf:
-#    data = json.load(inf)
 para = paras['allPrunedParaComplete'][3]
 print(para)
 print("")
@@ -252,9 +204,6 @@ for p in para:
 para = para_new
 para = replace_person_names(para)
 print(para)
-
-
-# In[ ]:
 
 def replace(texts):
     new_name, texts = replace_band_name(texts)
