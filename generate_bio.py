@@ -27,7 +27,6 @@ def main():
                 random.choice(consolidatedData['allPrunedPara_2']),
                 random.choice(consolidatedData['allPrunedPara_3'])]
 
-      
         p, band_name = replace(p)
         keys = ['p1','p2','p3']
 
@@ -36,15 +35,6 @@ def main():
                            "gen": genMethod,
                            "band_name": band_name,
                            "paras": paras})
-      #   return json.dumps({"msg": "success", 
-      #                      "band_name": band_name,
-      #                      "paras": {"p": p}})
-        #p1 = random.choice(consolidatedData['allPrunedPara_1'])
-        #p2 = random.choice(consolidatedData['allPrunedPara_2'])
-        #p3 = random.choice(consolidatedData['allPrunedPara_3'])
-        #
-        #return json.dumps({"msg": "success", 
-        #                   "paras": {"p1": p1, "p2": p2, "p3": p3}})
 
     except Exception as e:
         return json.dumps({"msg": f"server encountered an error: {e}", "paras": None})
@@ -52,3 +42,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
