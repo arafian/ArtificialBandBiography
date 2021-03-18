@@ -48,10 +48,5 @@
       "We Want Mohr",
       "Ich bin der Boss",
       "Widerstand ist zwecklos"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Berlin that combines heavy metal with comical elements. They proclaim themselves to be [SONG_NAME]). The band was founded in [YEAR], but only played in the Berlin/Brandenburg area until [YEAR].\n",
-      "[BAND_NAME] gained further fame (and some notoriety) in [YEAR] with their performance of Ick wer zun Schwein (sic; literally, in Berlin dialect, [SONG_NAME]).\n",
-      "[BAND_NAME] announced the end of the band in a MySpace bulletin on [MONTH] 14, [YEAR], the last concert was played on [MONTH] 5 that year in Berlin. The official reason given for the band's breakup was that [PERSON_NAME_FULL_0_MALE] wanted to leave Germany to start a new life in Thailand. In autumn [YEAR] a bulletin by Stumpen announced the bands' reunion. A first [SONG_NAME]) has been released in [MONTH] [YEAR], followed by a big tour with concerts of regular length. \n"
    ]
 }

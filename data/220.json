@@ -34,10 +34,5 @@
    },
    "albums": [
       "All Things Considered"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in [YEAR] and based in Tennessee. The band's albums include Wondrous Love ([YEAR]), [MONTH]bletown ([YEAR]), and Original Traditional ([YEAR]).\n",
-      "After helping found the band Dusty Miller, which was the [YEAR] SPBGMA International Bluegrass Band champion, and being a member ([YEAR]–92) of [PERSON_NAME_FULL_4_FEMALE] & Union Station, Kingsport, Tennessee native [PERSON_NAME_FULL_3_MALE] helped organize [BAND_NAME] with Wayne Taylor in [YEAR]. The group's first project, It's a Long, Long Road, [SONG_NAME] in the bands of [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_1_MALE]. Lane's songs have also been recorded by [PERSON_NAME_FULL_2_MALE], Ronnie Bowman, Mountain Heart, Blue Ridge, and other groups. Lead singer Wayne Taylor, who plays bass, hails from Southwest Virginia and is also a founding member of the group.\n",
-      "Grammy nominations\n"
    ]
 }

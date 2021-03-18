@@ -9,10 +9,5 @@
    "albums": [
       "The Way",
       "Can It Be?"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band who were active from [YEAR] to [YEAR]. They released two albums on [MONTH]anatha! Records and contributed four non-LP tracks to their label's compilation series and one LP track was pulled for the first label retrospective.\n",
-      "The first recordings by [BAND_NAME] appeared on the [MONTH]anatha! compilation albums, The Everlastin' Living Jesus Music Concert with the song [SONG_NAME].\n",
-      "Their self-titled debut album was recorded at Buddy King Studios in Huntington Beach. It was self-produced and had a [GENRE]"
    ]
 }

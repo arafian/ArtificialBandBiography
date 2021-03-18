@@ -31,10 +31,5 @@
    "albums": [
       "Are You Thinking What I'm Thinking?",
       "Release Me"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Los Angeles, California. Its final lineup consisted of Z Berg (vocals and guitar), Tennessee Thomas (drums), Laena Geronimo (bass), and Annie Monroe (organ). The band released three extended plays (EPs) and two studio albums.\n",
-      "[BAND_NAME] were formed in [MONTH] [YEAR] by Z [PERSON_NAME_LAST_0] (vocals/guitar), [PERSON_NAME_FULL_1_FEMALE] (bass/vocals) and Tennessee Thomas (drums) at the ages of 15, 15 and 16, respectively. All three are daughters of music industry veterans; [PERSON_NAME_LAST_0]'s father is former Geffen Records A&R exec/record producer [PERSON_NAME_FULL_0_MALE], [PERSON_NAME_LAST_1]'s father is producer Mitchell [PERSON_NAME_LAST_1] and Thomas' father is Pete Thomas, longtime drummer for [PERSON_NAME_FULL_2_MALE]. From childhood, [PERSON_NAME_LAST_1], [PERSON_NAME_LAST_0] and Thomas were immersed in classic rock, and all three took piano lessons before teaching themselves their current instruments.\n",
-      "They formed when the parents of childhood friends Thomas and Froom learned that Berg had been writing songs and showed interest in forming a band. Froom learned bass two weeks before joining, and the three began working together, getting fast results. Thomas's mother came up with the name in recognition of how often the girls used the word [SONG_NAME].\n"
    ]
 }

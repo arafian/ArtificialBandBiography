@@ -28,10 +28,9 @@
          "See members section"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Los Angeles, California. They have released three albums. Their first album, Allegiance, was released on [MONTH] 6, [YEAR]. Their second album, Instinct, was released on [MONTH] 15, [YEAR]. Instinct reached number 1 on the Billboard Heatseakers Albums chart and number 111 on the Billboard 200 for the week of [MONTH] 2, [YEAR]. On [MONTH] 30, [YEAR], [BAND_NAME] announced that they will be self-releasing their newest album, Ground Zero, with the help of crowdfunding via IndieGoGo; this was successful and the album was released on [MONTH] 27, [YEAR].\n",
-      "[BAND_NAME] was created in [YEAR] in Los Angeles from an [GENRE] band known as Broken Stems by co-vocalists [PERSON_NAME_FULL_2_MALE] and Enrique [SONG_NAME].\n",
-      "In [YEAR], the band was preparing to enter the studio to record their debut album. However, Ruvalcaba, [MONTH]tin, Reyes, Roybal and Hasenstaab all departed from the band, leaving De Santiago as the only member. De Santiago recruited [PERSON_NAME_FULL_0_MALE] as the new bassist, [PERSON_NAME_FULL_1_MALE] as the new guitarist, and, in place of the two former vocalists, the band brought in Chris Blair as the sole vocalist. [BAND_NAME] got back to the studio and recorded their debut album, Allegiance, which was released on [MONTH] 6, [YEAR]. Shortly after the release of the album, [PERSON_NAME_FULL_2_MALE] was recruited as the band's second guitarist. For the next two years, [BAND_NAME] toured in support of Allegiance, including as part of the [YEAR] Summer Slaughter tour.\n"
+   "albums": [
+      "Allegiance",
+      "Instinct",
+      "Ground Zero"
    ]
 }

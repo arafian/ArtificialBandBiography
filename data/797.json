@@ -31,10 +31,5 @@
       "Sunk 500",
       "Ut ur diskot och in i verkligheten",
       "Blästrad levande"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are a [GENRE] band formed in [YEAR], disbanded in [YEAR] and reunited in [YEAR].\n",
-      "The band was created in Partille, a suburb to Göteborg in [YEAR], as a fusion of the two rock bands [SONG_NAME]).\n",
-      "Their first rehearsal was held in [MONTH] [YEAR], with [MONTH]tin singing in English for about ten minutes before fooling around and starting to sing in Swedish. It sounded strange, and they decided to continue with Swedish lyrics. The name of the band, which is an [GENRE] a reference to their music style; [SONG_NAME]!\n"
    ]
 }

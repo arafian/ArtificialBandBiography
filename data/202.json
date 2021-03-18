@@ -36,9 +36,5 @@
       "Dispersion",
       "Disallow",
       "Desperado"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from Tokyo, Japan formed in [YEAR]. The core of the band has consisted of bassist Asahito Nanjo and guitarist Munehiro Narita. The group named themselves after the [YEAR] novel [BAND_NAME] by J. G. Ballard. Their music draws from psychedelic music, free jazz, and improvisational music.\n",
-      "[BAND_NAME] were originally performing under the name Psychedelic Speed Freaks and contained members [PERSON_NAME_FULL_0_MALE], Asahito Nanjo, Munehiro Narita, and Ikuro Takahashi. They decided to change their name at the advice of P.S.F. Records, who claimed Psychedelic Speed Freaks sounded [SONG_NAME].\n"
    ]
 }

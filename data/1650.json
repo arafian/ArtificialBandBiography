@@ -44,10 +44,5 @@
       "Still the New Wave Flow",
       "Asteroid 1976",
       "Manic Pixie Dream Girl"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in the summer of [YEAR]. The band has published several albums and performed at festivals such as Formoz Festival, Spring Scream, and [PERSON_NAME_FULL_0_MALE].\n",
-      "[BAND_NAME] the band was formed in [YEAR], named [SONG_NAME] because the original members were born mostly in [BAND_NAME]: Zac Chang, Raykai Chen, U-Zen Wang, Shi-Chon Tsai. They were students at that time. The members of [BAND_NAME] now are Zac Chang (guitar, 張崇偉, nickname 大麻), Raykai Chen (vocal & acoustic guitar, 陳瑞凱, nickname 阿凱), Warren Lin (drums, 林雨霖, nickname 大師兄), and Chouc Lin (bass, 林子喬, nickname 子喬).\n",
-      "The first album of [BAND_NAME] [SONG_NAME] was published by themselves in [YEAR]. Then their second album ”Sense of direction”([YEAR]) and third album “Encourage with love” ([YEAR]) received awards from The Association of Music Workers in Taiwan. The albums were released on Taiwanese indie label Crystal Records.\n"
    ]
 }

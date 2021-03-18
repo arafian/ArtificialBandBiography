@@ -44,10 +44,5 @@
       "Riverside",
       "The Road Ahead is Golden",
       "Here"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Victoria, British Columbia.\n",
-      "Singer-songwriter and guitarist Jon Middleton and percussionist Roy Vizer met at University of Victoria. They formed [BAND_NAME], and began performing around Victoria and Vancouver in [YEAR]. They added multi-instrumentalist [PERSON_NAME_FULL_0_MALE] in [YEAR] and recorded their first album, Sittin' Back, in [YEAR] with recording engineer & producer Stephen Franke.\n",
-      "After traveling together in Australia, [BAND_NAME] went on hiatus from [YEAR] to [YEAR], during which Middleton recorded the solo album, After A Trip, while McLean and Vizer relocated to Vancouver. In [YEAR], [BAND_NAME] reformed and the duo recorded the album Another Noon, once again with Stephen Franke, at Blue Heron Studios. The album's title track was featured in a Volkswagen TV commercial that ran for nine months across the United States, giving the group considerable profile in that country. The success of the album also spawned the YouTube hit [SONG_NAME].\n"
    ]
 }

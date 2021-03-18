@@ -35,10 +35,5 @@
    },
    "albums": [
       "The Great Barrier Reefer"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Chicago, Illinois, United States.\n",
-      "[BAND_NAME] began in [YEAR] with the self-release of their first album titled The Great Barrier Reefer, which is composed of a single 79-minute piece created with the intention of being longer than Sleep's Dopesmoker. In [YEAR], the band self-released their second studio album titled Hippie Killer and their third studio album titled Heroin. In [YEAR], the band self-released its fourth studio album titled Hate Ashbury and a collaborative EP with Winters in Osaka.  This was followed by the band self releasing their album Satan Worshipping Doom in [YEAR].\n",
-      "In [YEAR], [BAND_NAME] released two split EPs via Great Barrier Records; one with Hate and another one with Conan.\n"
    ]
 }

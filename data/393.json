@@ -46,10 +46,5 @@
       "Mourning Into Dancing",
       "Sacrifice",
       "Broken Reunion"
-   ],
-   "prunedData": [
-      "[BAND_NAME] (also written as [SONG_NAME]) are an [GENRE] band who played primarily in the [YEAR]s.  [BAND_NAME] consisted of lead singer/guitarist John McNamara, drummer [PERSON_NAME_FULL_1_MALE], lead guitarist John [PERSON_NAME_LAST_1] and bassist/keyboardist [PERSON_NAME_FULL_0_MALE].\n",
-      "Formed in [YEAR], [BAND_NAME] discovered their blend of catchy beats and melodies capped with insightful lyrics in Glenn's parents’ garage in Arcadia, California, the hometown of all four members.\n",
-      "The band recorded their first demo tape of four songs (Judgment Game, Love's Irony, Mom & Dad and Break Out) in the garage and sent it to youth pastors around southern California.  [PERSON_NAME_FULL_0_MALE], who ran the very popular concert series at Calvary Chapel Costa Mesa, responded with enthusiasm and immediately met with the band and set in motion high-profile concerts as well as discussions with record labels.\n"
    ]
 }

@@ -14,10 +14,5 @@
       "Banyan",
       "Anytime at All",
       "Live at Perkins' Palace"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band with heavy jazz, and funk influence, based in Los Angeles, California.\n",
-      "The leader and co-founder is Stephen Perkins, who first played drums for [MONTH]e's Addiction ([YEAR]–[YEAR], plus later regroupings), and then for Porno for Pyros. He co-founded the group with Emit Bloch. The core members of the band are Nels Cline on guitar,  [PERSON_NAME_FULL_4_MALE] on trumpet and Mike Watt (Minutemen) on bass. Mike Watt also sings on some [BAND_NAME] songs. Both Mike Watt and Nels Cline generally play only West Coast dates and at various times the band has had [PERSON_NAME_FULL_2_MALE] and Daniel Shulman who played with Garbage on bass and [PERSON_NAME_FULL_5_MALE] on guitar fill in when they are unavailable. Saxophone players [PERSON_NAME_FULL_3_MALE] and Herman Green, guitar player [PERSON_NAME_FULL_1_MALE], [PERSON_NAME_FULL_0_MALE] on clarinet, and bass player J. D. Westmoreland have also joined the band during select live shows.\n",
-      "Los Angeles artist Norton Wisdom paints on a [GENRE] band plays, and the imagery he creates interprets the music much in the same way that lyrics might. To see the band in more than one performance, you will see some images that recur and some that are new, since the songs are compositions whose structure remains the same while there is also a large amount of improvisation, in the jazz tradition.\n"
    ]
 }

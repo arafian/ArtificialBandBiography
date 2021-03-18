@@ -2,8 +2,7 @@
    "Name": "Pond (American band)",
    "rawData": [
       "Pond was a band from Portland, Oregon. They formed in 1991 and broke up in 1998.  They were signed to Sub Pop (first two albums) and the Work Group records sub-label of Sony Records (last album).\n",
-      "On October 23, 2010, Pond reunited for a show to commemorate the closing of Portland club Satyricon.\n",
-      "This article about a United States alternative rock band is a stub. You can help Wikipedia by expanding it."
+      "On October 23, 2010, Pond reunited for a show to commemorate the closing of Portland club Satyricon.\n"
    ],
    "infobox": {
       "Origin": [
@@ -34,10 +33,5 @@
       "Pond",
       "The Practice of Joy Before Death",
       "Rock Collection"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a band from Portland, Oregon. They formed in [YEAR] and broke up in [YEAR].  They were signed to Sub Pop (first two albums) and the Work Group records sub-label of Sony Records (last album).\n",
-      "On [MONTH] 23, [YEAR], [BAND_NAME] reunited for a [GENRE]",
-      "This article about a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

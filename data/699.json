@@ -33,10 +33,5 @@
    "albums": [
       "The Constant Lover (EP)",
       "Witchrock"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in [YEAR] in Toronto.\n",
-      "The all-female line-up consists of two sisters, Lexi Valentine (vocals and guitar) and [PERSON_NAME_FULL_0_FEMALE] (drums), and their friend French (bass). The group formed after Valentine and [PERSON_NAME_LAST_0], then teenagers, attended a [GENRE] band backstage, deciding that watching a concert was not satisfying enough. The trio came together in the fall of [YEAR] and spent the next year playing shows in and around their native Toronto and teaching themselves how to play their instruments.\n",
-      "The band released its debut EP, The Constant Lover (EP), in [YEAR] on Paper Bag [PERSON_NAME_LAST_0]. The full-length album Dancing with Daggers followed in [YEAR], and then the band moved to Last [PERSON_NAME_FULL_0_MALE] for [YEAR]'s Gambling with God. Following Gambling with God, however, the band ran into label and management changes, and took some time off before reemerging in [YEAR] with the EP Witchrock. That album was released on the band's own new Splendor House label, with distribution by eOne Music. The band also appeared in k-os' video for [SONG_NAME].\n"
    ]
 }

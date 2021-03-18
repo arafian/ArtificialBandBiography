@@ -43,10 +43,5 @@
       "The Meadow",
       "Music",
       "The Moon's House"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed by brothers Andy [PERSON_NAME_LAST_0] and [PERSON_NAME_FULL_0_MALE], and Adam Young (of Owl City fame). The band, to date, has released six studio albums, eight extended plays, one live album, and multiple singles.\n",
-      "[SONG_NAME] - [BAND_NAME]",
-      "In fall of [YEAR], [BAND_NAME] was formed in Owatonna, Minnesota as a [GENRE] band. On [MONTH] 25, [YEAR], they released The Basement EP, as well as played their very first show. Between the release of The Basement EP and mid-[YEAR], they played at several shows including Sunshine Festival, Bethel Church, and Ironwood Springs.\n"
    ]
 }

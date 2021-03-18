@@ -25,10 +25,5 @@
          "Rich Credo"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Seattle, Washington.\n",
-      "\nOriginally known as S.G.M., the majority of [BAND_NAME]'s members met while students at The Bush School. SGM had garnered acclaim as second generation punk pioneers in the Seattle scene, playing with Nirvana, the Accused, The Rejectors, The Melvins and more. Bruce Pavitt called the original SGM demo [SONG_NAME]  ",
-      "SGM evolved into [BAND_NAME] as the band lineup changed in [YEAR]. The original [BAND_NAME] included Adam Czeisler, vocals, [PERSON_NAME_FULL_3_MALE], rhythm guitar, Cole Peterson, bass guitar, [PERSON_NAME_FULL_0_MALE], lead guitar and Paul Uhlir, Drums. Garnering acclaim for their debut on New Rage Records, [BAND_NAME], the band was subsequently signed in [YEAR] by [PERSON_NAME_FULL_2_MALE] of Atlantic Records and released its second self-titled album, [BAND_NAME] produced by Don Gilmore (Linkin Park, Dashboard Confessional, Lit, [PERSON_NAME_FULL_5_FEMALE]) and mixed by Tim Palmer (Mother Love Bone, [PERSON_NAME_FULL_5_FEMALE], Tin Machine, [PERSON_NAME_FULL_4_MALE]).   The band were then signed to Elektra Records subsidiary East-West, and they recorded a follow-up record Superfriends with [PERSON_NAME_FULL_1_MALE] (Alice in Chains, [MONTH]e's Addiction) producing. Guitarist [PERSON_NAME_LAST_0] was fired during the recording of Superfriends and a new [BAND_NAME] sound took shape with [PERSON_NAME_FULL_3_MALE] as sole guitarist. Producer [PERSON_NAME_FULL_1_MALE] called the band [SONG_NAME] reaching #40 on the modern rock charts.   \n"
-   ]
+   "albums": []
 }

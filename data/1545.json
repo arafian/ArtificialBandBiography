@@ -23,10 +23,5 @@
          "Uni Inoue, Tokyo Jihen"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (カラーバー) is an [GENRE] band Tokyo Jihen, released on [MONTH] 18, [YEAR] in Japan through EMI Music Japan and Virgin Music. The album was produced by the band and Japanese recording engineer Uni Inoue.\n",
-      "The first press edition is a [GENRE]",
-      "The album's cover art is a combination of many [SONG_NAME], which is a representation of SMPTE color bars. They suggested the end of the band by it, since color bars fill the telescreen after all the TV programs for the day finish in Japan.\n"
-   ]
+   "albums": []
 }

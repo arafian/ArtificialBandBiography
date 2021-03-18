@@ -38,10 +38,5 @@
       "Behind Bars",
       "Back On the Streets",
       "Thank You for Being a Friend"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Chicago, Illinois, United States, which was formed in [YEAR].\nAfter disbanding in [YEAR], guitarist [PERSON_NAME_FULL_0_MALE] and bassist Joe Principe formed the well-known punk rock band Rise Against. The band reunited in [YEAR], and has continued playing shows in Chicago, Canada, Belgium, Las Vegas, and Asbury Park. The band held a 20th anniversary show in [YEAR]. The name comes from a Flintstones gangster who sells dodgy pianos.\n",
-      "[BAND_NAME] was formed in [YEAR] in Chicago, Illinois by vocalist [PERSON_NAME_FULL_1_MALE], guitarist Mr. Precision ([PERSON_NAME_FULL_0_MALE]), bassist Joe Principe and drummer Dom Vallone. The same year the band released their first 7[SONG_NAME].\nAfter appearing on several split and compilation albums in [YEAR], the band released their next 10[SONG_NAME] on Hopeless Records on [MONTH] 12, [YEAR], which was well received.\n",
-      "The band started touring more and tension between band members started building up. After appearing on the [SONG_NAME].\n"
    ]
 }

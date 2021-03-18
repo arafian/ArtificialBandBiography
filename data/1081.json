@@ -36,10 +36,5 @@
    "albums": [
       "Next of Kin",
       "Here & Now"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Los Angeles, California. Formed in [YEAR], the band is composed of [PERSON_NAME_FULL_0_MALE], Duvid Swirsky, and [PERSON_NAME_FULL_1_FEMALE]. [PERSON_NAME_LAST_0] and Swirsky are members of the influential Jewish rock bands Blue Fringe and Moshav. They released their debut self-titled EP on [MONTH] 16, [YEAR], followed by a second self-titled EP in [YEAR]. Several of their songs have been featured in film, television, and commercials.\n",
-      "Prior to forming [BAND_NAME], [PERSON_NAME_FULL_0_MALE] was the lead singer of the Jewish rock band Blue Fringe, while Duvid Swirsky was a [GENRE] band Moshav. Swirsky, [PERSON_NAME_LAST_0], and Kozak met in Los Angeles in [YEAR] while their respective bands were playing a show together. Upon hearing a song Swirsky and [PERSON_NAME_LAST_0] had written, [SONG_NAME], Kozak offered to produce it, and the three subsequently began playing together. The name [BAND_NAME], a reference to the members' longtime familiarity with each other, was first used when writing a song for the [YEAR] film Coffee Town.\n",
-      "Their debut EP, the self-titled [BAND_NAME] EP, was released on [MONTH] 16, [YEAR].\n"
    ]
 }

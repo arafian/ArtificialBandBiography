@@ -34,10 +34,5 @@
          "David DiDonato"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from San Francisco, California, formed by the guitarist and vocalist Lance Hahn and bassist Gardner Maxam in [YEAR], after the demise of their former band Cringer.  The group continued through numerous line-up changes and released a number of vinyl records and CDs before Hahn's death in [YEAR].\n",
-      "Hahn and Maxam had played together in Cringer from the band's inception in [YEAR] to its demise in [YEAR]. This group, whose additional members changed frequently in its short career, was initially based in Hahn and Maxam's native Hawaii before relocating to Los Angeles where Maxam was attending college.\n",
-      "After Cringer disbanded, the pair's new three-piece group, [BAND_NAME], began. The band was named for the San Francisco Muni Metro [BAND_NAME] line that Hahn took down Church Street to band practice and to work every day. They went through a [GENRE] a noteworthy early player was the former Jawbreaker drummer [PERSON_NAME_FULL_0_MALE]. From its inception, [BAND_NAME] embarked upon writing and recording what became an extensive discography including numerous singles and splits with fellow punk rock bands including Discount and Less Than Jake. The group has released an estimated 150 records.\n"
-   ]
+   "albums": []
 }

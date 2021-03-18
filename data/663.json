@@ -30,10 +30,5 @@
       "Before the World Was Big",
       "Powerplant",
       "What Chaos Is Imaginary"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Los Angeles, California, formed by friends Avery Tucker and [PERSON_NAME_FULL_0_FEMALE]. Their self-titled debut EP was posted on their Bandcamp account in [MONTH] [YEAR], and re-released on Wichita Recordings later that year. The band released its debut album, Before the World Was Big, in [MONTH] [YEAR], also on Wichita Recordings. Their second album, Powerplant, was released in [MONTH] [YEAR], via Anti-.\n",
-      "[BAND_NAME]'s eponymous EP received generally favorable reviews from critics, with a weighted average score of 79 on Metacritic. In his review of this EP, [PERSON_NAME_FULL_0_MALE] compared their sound to [SONG_NAME]\n",
-      "Before the World Was Big also received generally favorable reviews from critics, with a 79 out of 100 score on Metacritic. For example, Pitchfork Media's [PERSON_NAME_FULL_0_MALE] gave it a score of 7.8 out of 10 and described it as [SONG_NAME]\n"
    ]
 }

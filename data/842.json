@@ -39,10 +39,5 @@
       "As Seen Through Windows",
       "Who Designs Nature's How",
       "House Music"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Montreal, Quebec, Canada. In late [YEAR], they recorded their first album, at the same time and in the same studio that Arcade Fire recorded Funeral. However, Arcade Fire's popularity was just beginning to break when they asked [BAND_NAME] to tour with them in the fall of [YEAR], delaying the release of their album. Regarding finishing the album, [BAND_NAME] said: [SONG_NAME]\n",
-      "Recording a Tape the Colour of the Light was finally released in [YEAR].  In [MONTH] [YEAR], [BAND_NAME] launched a tour of Europe and the US to promote the album.\n",
-      "The band released a [GENRE] a Tape the Colour of the Light, entitled As Seen Through Windows with Arts & Crafts Records on [MONTH] 10, [YEAR]. It was recorded in Soma Electric Studios in Chicago, Illinois.  The album since won a [MONTH]o Award for best instrumental album.\n"
    ]
 }

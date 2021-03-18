@@ -30,10 +30,5 @@
          "Mando"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Chicago, Illinois active from [YEAR] to [YEAR] and from [YEAR] onward. Comprising all Latino members, the band paved the way for later Spanish-speaking punk bands in the United States and helped to increase the presence of Latinos in the country's predominantly white punk subculture.\n",
-      "[BAND_NAME] express a Left-wing political critique of issues affecting Latin America and the Latino community, such as U.S. imperialism, racism, xenophobia, and economic inequality. They have been described as [SONG_NAME]\n",
-      "The band formed in the early [YEAR]s by singer [MONTH]tin Sorrondeguy and guitarist [PERSON_NAME_FULL_0_MALE], who remained the group's consistent members through changing rhythm sections. Their lyrics were almost always sung in Spanish; the song [SONG_NAME]) have both been described as their most well-known songs.\n"
-   ]
+   "albums": []
 }

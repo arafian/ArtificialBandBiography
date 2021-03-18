@@ -37,10 +37,5 @@
          "Tomi"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (オレスカバンド, Oresukabando, stylized as ORESKABAND) is an [GENRE] band from Sakai, Japan. As well as performing regularly within Japan, they have toured in North and South America, as well as Europe.\n",
-      "The band name, [SONG_NAME] is also one of gender play, as the band would typically appear wearing boys' school uniform in their early videos and concerts.\n",
-      "[BAND_NAME] began in [YEAR] when the members were still in middle school.  Ikasu saw [PERSON_NAME_FULL_1_MALE] playing in a [GENRE] band and asked her to form a new one with her and some of their other friends.  They self-produced their first album, Penpal, in [YEAR] and were signed by Sony Music in [YEAR] while they were still in high school.\n"
-   ]
+   "albums": []
 }

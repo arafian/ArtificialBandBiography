@@ -2,16 +2,10 @@
    "Name": "Beckett (band)",
    "rawData": [
       "Beckett was an English hard rock band formed in Newcastle upon Tyne in 1970. The band released one self-titled album in 1974 and disbanded shortly thereafter. Original singer Rob Turner was killed in a car crash and replaced by Terry Wilson-Slesser, who would later go on to perform with Back Street Crawler and then Geordie whose previous front man Brian Johnson left to join AC/DC in 1980.\n",
-      "In 2017, Beckett songwriter Brian Ingham sued Iron Maiden for copyright infringement over two popular songs, \"Hallowed Be Thy Name\" and \"The Nomad\", which lifted musical sections and lyrics from the song \"Life's Shadow\". Iron Maiden manager Rod Smallwood was the agent for Beckett and a teenage Steve Harris saw the band play this song live. Harris and Dave Murray settled with one of the credited songwriters, Robert Barton. Ingham was unaware of the matter until 2011 and Barton claimed to be the sole songwriter during the original settlement. Iron Maiden stopped performing Hallowed Be Thy Name on their 2017 tour as a result. The issue was settled out of court in March 2018.\n",
-      "This article on a United Kingdom rock music band is a stub. You can help Wikipedia by expanding it."
+      "In 2017, Beckett songwriter Brian Ingham sued Iron Maiden for copyright infringement over two popular songs, \"Hallowed Be Thy Name\" and \"The Nomad\", which lifted musical sections and lyrics from the song \"Life's Shadow\". Iron Maiden manager Rod Smallwood was the agent for Beckett and a teenage Steve Harris saw the band play this song live. Harris and Dave Murray settled with one of the credited songwriters, Robert Barton. Ingham was unaware of the matter until 2011 and Barton claimed to be the sole songwriter during the original settlement. Iron Maiden stopped performing Hallowed Be Thy Name on their 2017 tour as a result. The issue was settled out of court in March 2018.\n"
    ],
    "infobox": {},
    "albums": [
       "Beckett"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band formed in Newcastle upon Tyne in [YEAR]. The band released one self-titled album in [YEAR] and disbanded shortly thereafter. Original singer Rob Turner was killed in a car crash and replaced by [PERSON_NAME_FULL_1_MALE], who would later go on to perform with Back Street Crawler and then Geordie whose previous front man [PERSON_NAME_FULL_0_MALE] left to join AC/DC in [YEAR].\n",
-      "In [YEAR], [BAND_NAME] songwriter [PERSON_NAME_FULL_0_MALE] sued Iron Maiden for copyright infringement over two popular songs, [SONG_NAME]. Iron Maiden manager Rod Smallwood was the agent for [BAND_NAME] and a teenage [PERSON_NAME_FULL_1_MALE] saw the band play this song live. [PERSON_NAME_LAST_1] and Dave Murray settled with one of the credited songwriters, [PERSON_NAME_FULL_2_MALE]. [PERSON_NAME_LAST_0] was unaware of the matter until [YEAR] and [PERSON_NAME_LAST_2] claimed to be the sole songwriter during the original settlement. Iron Maiden stopped performing Hallowed [PERSON_NAME_FULL_3_FEMALE] on their [YEAR] tour as a result. The issue was settled out of court in [MONTH] [YEAR].\n",
-      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

@@ -1,8 +1,7 @@
 {
    "Name": "Orquesta Mondragón",
    "rawData": [
-      "Orquesta Mondragón is a Spanish pop rock band from San Sebastián (Basque Country), very popular in the 1980s, led by Javier Gurruchaga. The group was founded in 1976 and continues today.\n",
-      "This article about a Spanish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+      "Orquesta Mondragón is a Spanish pop rock band from San Sebastián (Basque Country), very popular in the 1980s, led by Javier Gurruchaga. The group was founded in 1976 and continues today.\n"
    ],
    "infobox": {
       "Origin": [
@@ -36,9 +35,5 @@
       "El maquinista de la general",
       "Liverpool Suite",
       "Anda suelto Satanás"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from San Sebastián (Basque Country), very popular in the [YEAR]s, led by [PERSON_NAME_FULL_0_MALE]. The group was founded in [YEAR] and continues today.\n",
-      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

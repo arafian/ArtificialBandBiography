@@ -16,10 +16,5 @@
          "Official website"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band, which combines elements of rock, jam band, country, blues, jazz, folk and bluegrass music. Critics have described the band using terms such as [SONG_NAME]. [BAND_NAME], or its members have won or been nominated for multiple Grammys, ACM, CMA, and IBMA Awards.  They have appeared on the revered stage of the Grand Ole Opry over 130 times and have shared the stage with acts ranging from Lynyrd Skynyrd, Levon Helm, Punch Brothers, George Jones, [PERSON_NAME_FULL_0_MALE], and Brad Paisley, to [PERSON_NAME_FULL_2_FEMALE], Tony Rice, [PERSON_NAME_FULL_3_MALE], Yonder Mountain Stringband, [PERSON_NAME_FULL_1_FEMALE] and Patty Loveless.  \n",
-      "The band plays large outdoor folk/roots/country music festivals, to sold-out arena shows opening for Lynyrd Skynyrd, to headlining concerts with  Tony Rice.\n",
-      "Members of the band as of [YEAR] are:\n"
-   ]
+   "albums": []
 }

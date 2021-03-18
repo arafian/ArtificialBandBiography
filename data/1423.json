@@ -25,10 +25,5 @@
       "Vintage Slide Collections from Seattle, Vol I",
       "Adventures in Middle America, Vol. 2",
       "Lost and Found"
-   ],
-   "prunedData": [
-      "The [BAND_NAME] were an [GENRE] band. It consisted of main vocalist Jason Trachtenburg, his wife Tina, and their only child, Rachel.\n",
-      "The band's members consisted of father, Jason Trachtenburg, who played guitar and piano and sang; mother, [PERSON_NAME_FULL_0_FEMALE], who ran the slide projector and was a backup vocalist; and daughter, Rachel, who played the drums and sang backup. Born on [MONTH] 10, [YEAR], Rachel was only six years old when she began performing publicly.\n",
-      "Their trademark was the slideshow itself: slides collected from [SONG_NAME].\n"
    ]
 }

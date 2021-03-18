@@ -1,13 +1,8 @@
 {
    "Name": "Danza Invisible",
    "rawData": [
-      "Danza Invisible are a Spanish band founded in 1981.\n",
-      "This article about a Spanish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+      "Danza Invisible are a Spanish band founded in 1981.\n"
    ],
    "infobox": {},
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] are a [GENRE] band founded in [YEAR].\n",
-      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
-   ]
+   "albums": []
 }

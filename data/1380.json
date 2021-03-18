@@ -51,10 +51,5 @@
       "Oshin",
       "Is the Is Are",
       "Deceiver"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Brooklyn, New York City, formed in [YEAR]. The band consists of Zachary Cole Smith (vocals, guitar), [PERSON_NAME_FULL_1_MALE] (guitar), [PERSON_NAME_FULL_0_MALE] (bass, keyboards, guitar, vocals) and Ben Newman (drums).\n",
-      "Initially called Dive, the band started as Smith's solo recording project. After releasing three singles—[SONG_NAME]—on Captured Tracks, [BAND_NAME] released its debut studio album, Oshin, on [MONTH] 26, [YEAR].\n",
-      "In [YEAR], the band released its second studio album, Is the Is Are, after a lengthy and troubled gestation period. On [MONTH] 4, [YEAR], [BAND_NAME]'s third album, [MONTH]eiver, was released on Captured Tracks.\n"
    ]
 }

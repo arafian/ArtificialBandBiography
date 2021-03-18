@@ -32,10 +32,5 @@
          "Andy Hess"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (pronounced Government Mule) is an [GENRE] band, formed in [YEAR] as a side project of The Allman Brothers Band by guitarist Warren Haynes and bassist Allen Woody.  Fans often refer to [BAND_NAME] simply as Mule.\n",
-      "The band released their debut album, [BAND_NAME], in [YEAR], and have since released an additional nine studio albums, plus numerous EPs and live releases. [BAND_NAME] has become a staple act at music festivals across North America, with both its members and frequent guests boasting members from other notable bands, adding various funk and blues rock elements to the band's sound.\n",
-      "When The Allman Brothers Band reformed in [YEAR], partially in response to the popularity of their Dreams box set, Warren Haynes was added as a permanent lead guitarist and vocalist, and [PERSON_NAME_FULL_0_MALE] was recruited as bass guitarist. The two shared a love for [YEAR]s power trios like Cream, The Jimi Hendrix Experience, the James Gang, and Mountain. Haynes, [PERSON_NAME_LAST_0], and drummer [PERSON_NAME_FULL_1_MALE], who played with Haynes in Dickey Betts' band, came together as [BAND_NAME] during Allman Brothers breaks. They released their debut album [BAND_NAME], produced by Michael Barbiero, in [YEAR].  Live at Roseland Ballroom was released in [YEAR], consisting of their [YEAR] New Year's Eve set opening for Blues Traveler.\n"
-   ]
+   "albums": []
 }

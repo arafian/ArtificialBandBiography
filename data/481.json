@@ -36,10 +36,5 @@
          "Jason Parker (drums, 1993-1994)"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band formed in Covington, Georgia, in [YEAR]. Commonly categorized simply as Christian rock, [BAND_NAME]'s musical style was heavily influenced by a hodge-podge of mainstream artists such as Nirvana, Pearl Jam, R.E.M., [PERSON_NAME_FULL_0_MALE] and Vigilantes of Love.\n",
-      "The band initially performed under the name [SONG_NAME] was formally adopted.\n",
-      "[BAND_NAME] was an [GENRE] band Steel Water, which included a line-up of several local musicians who performed together mainly at churches and private events. After the group dissolved, the three remaining members — [PERSON_NAME_FULL_0_MALE], Slade Curtis and [PERSON_NAME_FULL_1_MALE] — regrouped to form Cain's Pain.\n"
-   ]
+   "albums": []
 }

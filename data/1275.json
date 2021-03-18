@@ -36,10 +36,5 @@
          "Danny Shamoun"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (previously known as just Scars on Broadway) is an [GENRE] band founded by [PERSON_NAME_FULL_0_MALE] of the metal band System of a Down. The band's eponymous debut album was released on [MONTH] 29, [YEAR].\n",
-      "In late [YEAR], the band entered a [GENRE] a lack of enthusiasm and [SONG_NAME], as the primary reasons for the band's cessation. Despite reforming with various line-up changes in [YEAR] and [YEAR], and announcing a second album, the band ceased any further announcements by [YEAR]. In [MONTH] [YEAR] Malakian announced that the band would be releasing their second album titled Dictator on [MONTH] 20, [YEAR].\n",
-      "In [MONTH] [YEAR], Malakian stated in an interview that he [SONG_NAME]\n"
-   ]
+   "albums": []
 }

@@ -2,8 +2,7 @@
    "Name": "Iron Horse (band)",
    "rawData": [
       "Iron Horse is a bluegrass band from Killen, Alabama, US. They are known for performing and recording bluegrass cover versions of rock songs, particularly their bluegrass treatments of heavy metal songs popularized by Metallica. The band has two tracks on the tribute album Strummin' with the Devil: The Southern Side of Van Halen, which also features David Lee Roth, among other artists. They have recently been working on self-produced material and in October 2009 released an all-original Christmas project called \"Small Town Christmas\".\n",
-      "Bibliography\n",
-      "This article on a United States band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+      "Bibliography\n"
    ],
    "infobox": {
       "Origin": [
@@ -28,10 +27,5 @@
    "albums": [
       "TimesDaily",
       "TimesDaily"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Killen, Alabama, US. They are known for performing and recording [GENRE] cover versions of rock songs, particularly their [GENRE] treatments of heavy metal songs popularized by Metallica. The band has two tracks on the tribute album Strummin' with the Devil: The Southern Side of Van Halen, which also features [PERSON_NAME_FULL_0_MALE], among other artists. They have recently been working on self-produced material and in [MONTH] [YEAR] released an all-original Christmas project called [SONG_NAME].\n",
-      "Bibliography\n",
-      "This article on a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
    ]
 }

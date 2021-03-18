@@ -63,10 +63,5 @@
       "Beat Street",
       "Jericho",
       "Big Black Sky"
-   ],
-   "prunedData": [
-      "[BAND_NAME] (often styled as PRiSM) is a [GENRE] band formed in Vancouver in [YEAR]. They were originally active from [YEAR] to [YEAR] and have been active again from [YEAR] to present. Their classic line-up consisted of lead singer Ron Tabak, guitarist [PERSON_NAME_FULL_1_FEMALE], keyboardist John Hall, bass guitarist [PERSON_NAME_FULL_0_MALE] and drummer Rocket Norton.\n",
-      "The band's sound is a mix of Album-oriented rock (AOR) and pop rock and they have released a total of eight studio albums, three compilation albums and one live album.\n",
-      "[BAND_NAME]'s success has been primarily in Canada where they won the Canadian music industry [MONTH]o Award for Group of the Year in [YEAR], although they also reached the US top 40 charts with [YEAR]'s [SONG_NAME]. [BAND_NAME] is also noteworthy for launching the careers of several former group members, including international record producer [PERSON_NAME_FULL_1_MALE], songwriter [PERSON_NAME_FULL_0_MALE], Powder Blues Band frontman [PERSON_NAME_FULL_2_MALE] and Headpins and Chilliwack musician Ab Bryant. A pre-fame Bryan Adams also contributed as a songwriter to several early [BAND_NAME] releases.\n"
    ]
 }

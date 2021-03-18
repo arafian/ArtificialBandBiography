@@ -10,10 +10,5 @@
       "Hubba",
       "Submarine",
       "Our Frisco"
-   ],
-   "prunedData": [
-      "[BAND_NAME] were an [GENRE] band from San Francisco. The band formed in [YEAR] with a later line-up recording as The (ex) Cat Heads.\n",
-      "The original line-up of the band was former Love Circus and Leaches singer [MONTH]k Zanandrea (vocals, guitar), former Ophelias guitarist Sam Babbitt, former X-tal bassist [PERSON_NAME_FULL_0_MALE], and Donner Party drummer [PERSON_NAME_FULL_3_FEMALE]. They signed to Enigma/Restless, and released their debut album, Hubba (produced by Matt Piucci of Rain Parade), in [YEAR], described as a mix of [SONG_NAME]) on their [YEAR] album Our Frisco. [PERSON_NAME_LAST_3] and Zanandrea, meanwhile had joined It Thing. Zanandrea and Babbitt later worked together in The Androgynauts. Babbitt and [PERSON_NAME_LAST_0] re-emerged in The Mudsills.\n",
-      "The band have reunited a few times since, including opening for Camper Van Beethoven at the latter's 25th anniversary reunion gig at The Fillmore in [YEAR].\n"
    ]
 }

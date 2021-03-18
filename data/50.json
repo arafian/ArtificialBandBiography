@@ -28,10 +28,7 @@
          "Barry Lewis"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "\nNot to be confused with Styx (band)\n",
-      "[BAND_NAME] was an [GENRE] band formed in [YEAR] in Mill Valley, California. Originally named The Showmen, the members were [PERSON_NAME_FULL_1_MALE] (vocals), Bob Zamora (lead guitar), [PERSON_NAME_FULL_0_MALE] (organ), Harry [SONG_NAME] Smith (bass), and Rich Morrison (drums). The band released three singles before breaking up in [YEAR]. A compilation album featuring all of the band's recordings, No Matter What You Say: The Best of [BAND_NAME], was released in [YEAR].\n",
-      "Butch Engle formed The Showmen—not to be confused with the [YEAR]s pop group of the same name— in [YEAR] after he took over and renamed an [GENRE] band, whose roster had included Bill Champlin. \nThe group consisted of Engle, guitarist [PERSON_NAME_FULL_2_MALE], organist Mike Pardee, bassist Harry [SONG_NAME] Smith, and drummer [PERSON_NAME_FULL_3_MALE]. \nIn [YEAR] the Showmen released the British Invasion-influenced single [SONG_NAME]. \nThe band changed their name in [YEAR] to [BAND_NAME]. \nWith the exception of their debut single, all material recorded by the band was written or co-written by Ron Elliott of The Beau Brummels. \nAccording to Engle, [SONG_NAME]. \n[BAND_NAME] released a single, [SONG_NAME], in [YEAR] on the Warner Bros. Records subsidiary, Loma Records. \nThe band shortened their name to The Styx and released another single, [SONG_NAME], in [YEAR], \nbefore breaking up the following year. \nIn [YEAR], Sundazed Records released No Matter What You Say: The Best of [BAND_NAME], a compilation album which contained the band's three singles—including B-sides—along with 11 previously unreleased recordings. \n[SONG_NAME] appeared on the [YEAR] Love Is the Song We Sing: [PERSON_NAME_FULL_1_FEMALE] [YEAR]–[YEAR] box set.\n"
+   "albums": [
+      "No Matter What You Say: The Best of Butch Engle & the Styx"
    ]
 }

@@ -50,10 +50,5 @@
       "Eat the Light",
       "Frames Per Second",
       "Free Swim"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in Indiana in [YEAR] now based in Philadelphia, PA and Denver, CO.\n",
-      "Luke Miller formed [BAND_NAME] at Goshen College in [YEAR]  Indiana and the band's more permanent lineup coalesced in [YEAR]. After a few years of playing what they describe as [SONG_NAME].\n",
-      "The album, Hammerstrike was released on SCI Fidelity in [YEAR] to positive reviews. The band followed the album's release with a forty seven-date North American tour.  On [MONTH]. 6, [YEAR] [BAND_NAME] released a set of 2 EPs titled Oil on Glass/Feather on Wood featuring music recorded during the Hammerstrike sessions and 3 remixes of tracks from Hammerstrike. Before the band's [YEAR] fall tour, original drummer Steve Clemens left the band and was replaced by current drummer [PERSON_NAME_FULL_0_MALE]. The loss of Clemens triggered a gradual departure from the band's improvisational roots and a stylistic shift from organic electronica and jazz/funk fusion to electro-pop, indie rock and hip-hop.\n"
    ]
 }

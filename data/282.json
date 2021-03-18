@@ -6,10 +6,5 @@
       "Later many of the original members left, and the band changed its name temporarily to the Six Million Dollar Band.\nIn 2002 the Clumsy Lovers toured Canada and the US. with Devon Wells, and  have performed in various rock clubs.\nFiddler Jode and songwriter Chris Jonat are a former members of the band, as is Andrea Lewis.\n"
    ],
    "infobox": {},
-   "albums": [],
-   "prunedData": [
-      "The [BAND_NAME] are a [GENRE] band formed in Vancouver, British Columbia with more than [YEAR] performances in the United States and Canada. The [YEAR] line-up consists of Jason Homey on banjo and mandolin, [PERSON_NAME_FULL_0_MALE] on bass guitar and vocals, Chandra Johnson on fiddle and vocals, [PERSON_NAME_FULL_1_MALE] on drums, and Trevor Rogers on vocals and guitar.\n",
-      "All of the band's original members were previously members of The Paperboys, reforming as The [BAND_NAME] in [YEAR] after the Paperboys' original lineup broke up due to creative differences.\n",
-      "Later many of the original members left, and the band changed its name temporarily to the Six Million Dollar Band.\nIn [YEAR] the [BAND_NAME] toured Canada and the US. with Devon Wells, and  have performed in various rock clubs.\nFiddler Jode and songwriter [PERSON_NAME_FULL_0_MALE] are a [GENRE] band, as is Andrea Lewis.\n"
-   ]
+   "albums": []
 }

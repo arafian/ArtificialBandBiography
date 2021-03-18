@@ -26,9 +26,5 @@
    },
    "albums": [
       "Speak Louder"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from New York City, United States.\n",
-      "After the breakup of Tanzak Rush, [PERSON_NAME_FULL_0_MALE] (vocals, guitar, piano), Sophia Dent (bass guitar, backvocals) and [PERSON_NAME_FULL_1_FEMALE] (drums), formed The [BAND_NAME], and debuted in [YEAR] with Speak Louder. They are currently signed to the New York-based indie label What's Your Rupture?. They also have been featured on the renowned BBC radiocast Peel Sessions [YEAR].  Their profile was raised significantly after a string of well-received US tourdates in [MONTH] [YEAR], culminating in a sold-out headlining spot in New York, and  they supported British band Gizmo Clan on their UK tour in [MONTH] [YEAR]. \nFans of indie rock have latched onto [BAND_NAME]'s songs, which alternate between lo-fi and a jumbled jangle pop augmented with throbbing basslines and skronky piano jams, which makes for a classy yet song-driven sound powered by inspired vocals and a strong rhythmic sensibility.\n"
    ]
 }

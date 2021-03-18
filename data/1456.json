@@ -28,10 +28,5 @@
          "www.spiritofscotlandpipeband.com"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "The [BAND_NAME] is a [GENRE] band formed from top-class solo players.\n",
-      "The idea of forming the band came about in [YEAR] at the Glenfiddich Piping Championships, one of the world's premier solo piping events. The name comes from the Glenfiddich Spirit of Scotland Awards.\n",
-      "It was formed over the winter of [YEAR]-[YEAR] under the leadership of Roddy MacLeod, and assigned immediately by the RSPBA to Grade 1. The leading drummer was [PERSON_NAME_FULL_0_MALE]. The pipers had won between them 17 Highland Society of London gold medals.\n"
-   ]
+   "albums": []
 }

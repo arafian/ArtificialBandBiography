@@ -31,10 +31,5 @@
          "Luke Ehrlich"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band ([YEAR]–[YEAR]) based in [MONTH]in County, California, United States, which played at various Bay Area venues, including [PERSON_NAME_FULL_0_MALE]'s Fillmore West from [MONTH] 22–25 in [YEAR]. [BAND_NAME] performed frequently at San Anselmo's 'The Lion's Share', a club often cited as one of the most historic in the history of the [MONTH]in County music scene. The group was most noted for playing [SONG_NAME]  but played other syles like blues and jazz.\n",
-      "In [YEAR] [BAND_NAME] was included by Paul Liberatore, of the [MONTH]in Independent Journal, on a [GENRE] a proposed '[MONTH]in Music Museum'.\n",
-      "Members included later solo recording artist and film composer [MONTH]k Isham on trumpet and soprano saxophone, and [PERSON_NAME_FULL_0_MALE] on electric guitar and some lead vocals, who was later a performing/recording artist with Miles Davis, the Crusaders and the Brecker Brothers among many others. [PERSON_NAME_LAST_0], as the group's arranger, also wrote horn charts for the band.\n"
-   ]
+   "albums": []
 }

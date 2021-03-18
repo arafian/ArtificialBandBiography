@@ -31,10 +31,5 @@
          "Lisa Marr"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in [YEAR] in Vancouver, British Columbia. Nardwuar, its founding member, is also known for interviewing musicians and celebrities. As of [YEAR], the band consists of vocalist/keyboardist Nardwuar the Human Serviette, guitarist David Carswell, bassist [PERSON_NAME_FULL_0_MALE], and drummer Scott Livingstone.\n",
-      "As well as recording and performing as a separate group, [BAND_NAME] often collaborate with other musicians, including Rodney Graham and Andrew W.K.  [PERSON_NAME_FULL_0_MALE] is a member of the band The New Pornographers and David Carswell is in The Smugglers.\n",
-      "The band members also perform as Thee Goblins and sometimes under other names. Lisa [MONTH]r, formerly of Cub, was also formerly a member of [BAND_NAME].\n"
-   ]
+   "albums": []
 }

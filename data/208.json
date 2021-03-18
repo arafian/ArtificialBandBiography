@@ -53,10 +53,5 @@
       "Earthshaker",
       "Overdose&Overdrive",
       "The Metallist"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band formed in [YEAR] in Ostrava.\n",
-      "[BAND_NAME] was formed in Ostrava, Czech Republic, in the fall of [YEAR], by [MONTH]tin [SONG_NAME] Bílek and [PERSON_NAME_FULL_0_MALE], at the ages of fifteen and fourteen, respectively.\nDuring the first few years of the band the members would constantly changed instrument, and became labelled as noisecore.\n",
-      "When drummer [PERSON_NAME_FULL_1_MALE] entered the band in [YEAR], their style changed to be more influenced by the work of the British grindcore band Carcass. In this line-up they recorded their early demo tapes Cadaveric Incubator of Endo-Parasites (in [YEAR]), Symphonies for Pathologist (in [YEAR]) and Analyse of Pathological Conceptions (in [YEAR]). In late [YEAR], [PERSON_NAME_LAST_1] was replaced by Michal [SONG_NAME] Cichý, leading to Restel departing from the band, being replaced by [PERSON_NAME_FULL_0_MALE] and the band releasing a split EP with [MONTH]omposed titled Malignus Morbus with [MONTH]omposed and then three the next year with Immured, Mastic Scum and In Growning called Forensic Clinicism – The Sanguine Article, Sick Sinus Syndrome and Swarming of Virulency.\n"
    ]
 }

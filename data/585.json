@@ -32,10 +32,5 @@
          "Ilkka Järvenpää"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band consisting of [PERSON_NAME_FULL_2_MALE], \nSami Kukkohovi, [PERSON_NAME_FULL_1_MALE], and [PERSON_NAME_FULL_0_MALE].\n",
-      "In [YEAR], Petri, [PERSON_NAME_FULL_0_MALE] and Tarmo started writing some songs, using the name Confusion Red. They recorded a demo CD in [MONTH], inviting Sami Kukkohovi (bass player of Sentenced) to play bass as a session musician.  He became a full member of the band shortly afterward.\n",
-      "In [YEAR], the band changed their name to [BAND_NAME] and recorded a second demo. The German magazine Rock Hard used the track [SONG_NAME] from this demo on a free compilation CD. \n"
-   ]
+   "albums": []
 }

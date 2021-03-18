@@ -32,10 +32,5 @@
    },
    "albums": [
       "Lovetap!"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in [YEAR]. The band consists of Sean Scanlon (vocals), Mike Kamerman (guitar), and [PERSON_NAME_FULL_0_MALE] (drums).\n",
-      "After their debut single [SONG_NAME] charted at number one on The Hype Machine, [BAND_NAME]' self-titled debut EP was released via RCA Records on [MONTH] 16, [YEAR].\n",
-      "Mike Kamerman, from [MONTH]lboro, New Jersey and [PERSON_NAME_FULL_0_MALE], from Verplanck, New York, had been playing in various bands since [YEAR]. After relocating to Los Angeles to further their musical careers, they met Oregon natives [PERSON_NAME_FULL_1_MALE] and Beau Kuther. Working with producer trio Captain Cuts, the band released their debut single [SONG_NAME] online on [MONTH] 16, [YEAR], quickly reaching the #1 position on the Hype Machine, #1 on Sirius XM Alt Nation (Alt 18 Countdown), as well as reaching #23 on Billboard's Alternative Songs chart. The song was released as the first single off their debut self-titled EP.\n[SONG_NAME] was featured on the FIFA 14 soundtrack. \n"
    ]
 }

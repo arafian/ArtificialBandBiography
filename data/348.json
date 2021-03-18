@@ -29,10 +29,5 @@
          "Ziggy Sigmund"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band that started in the mid-[YEAR]s. Based in Vancouver, British Columbia, the band consisted of vocalist Thomas Anselmi, guitarists [PERSON_NAME_FULL_0_MALE] and Ziggy Sigmund, bassist Stephen Hamm and drummer [PERSON_NAME_FULL_1_MALE].\n",
-      "Hamm and Russell had previously been in a [GENRE] band called Chuck & the Fucks, playing an infamous concert at Queen [MONTH]y Elementary in the spring of [YEAR] where many of the teachers forced the children to leave.\n",
-      "They recorded and released their debut single, [SONG_NAME] in [YEAR] on Zulu Records, and followed up with the EP Against The Glass in [YEAR].\n"
-   ]
+   "albums": []
 }

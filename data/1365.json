@@ -36,10 +36,5 @@
    },
    "albums": [
       "In London"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in Brooklyn, New York. The band's songs are written and sung by Peter Silberman. Their music is performed by Silberman, [PERSON_NAME_FULL_0_MALE] (trumpet, upright/electric bass, keyboards, synths, vocals) and Michael Lerner (drums). The band's instrumentation typically consists of vocals, electric guitar, keyboards/synths, drums and an array of other instruments including piano, horns, strings, and electronic elements. Silberman has said that the band's name is taken from The Microphones' song [SONG_NAME].\n",
-      "Initially, [BAND_NAME] was a solo project created by vocalist and guitarist Peter Silberman immediately after he had moved to Brooklyn, New York City. Peter released three EPs under the name 'Peter Sam' from around [YEAR] to [YEAR] before changing the project's name to [BAND_NAME] in mid-[YEAR]. Silberman's first album, Uprooted, contained nine songs which he wrote and recorded himself. It was self-released in [MONTH] [YEAR]. The follow-up album In the Attic of the Universe was also written and recorded by Silberman. It was released for free online in [MONTH] [YEAR] and also received a CD release in [MONTH] [YEAR] on Fall Records.\n",
-      "After the release of In the Attic of the Universe, Silberman recorded two EP's entitled Cold War and New York Hospitals, the latter featuring Michael Lerner and [PERSON_NAME_FULL_0_FEMALE] as guests. Shortly thereafter, Michael Lerner and [PERSON_NAME_FULL_1_MALE] came on board transforming [BAND_NAME] into a [GENRE]"
    ]
 }

@@ -44,10 +44,5 @@
       "Neck of the Woods",
       "Better Nature",
       "Widow's Weeds"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Los Angeles that was formed in [YEAR]. The band is composed of Brian Aubert, [PERSON_NAME_FULL_0_FEMALE], Christopher Guanlao, and [PERSON_NAME_FULL_1_MALE].\n",
-      "The band released their debut EP, Pikul, in [MONTH] [YEAR], and their debut album, Carnavas, on [MONTH] 26, [YEAR]. Their second album, Swoon, was released on [MONTH] 14, [YEAR].  Neck of the Woods, the band's third album, came out on [MONTH] 8, [YEAR]. They issued their fourth album, Better Nature, on [MONTH] 25, [YEAR]. Their fifth album, Widow's Weeds, came out on [MONTH] 7, [YEAR].\n",
-      "The members of [BAND_NAME] are friends who had played together previously. They began their career in Los Angeles clubs, most often at Silverlake Lounge or nearby Spaceland, and began to draw a [GENRE] band originated in L.A.'s Silver Lake music scene, home of Rilo Kiley and others.\n"
    ]
 }

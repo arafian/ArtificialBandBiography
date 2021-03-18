@@ -2,8 +2,7 @@
    "Name": "Cadallaca",
    "rawData": [
       "Cadallaca is an indie rock band formed at a party in Portland, Oregon in 1997. The group consists of Corin Tucker of Sleater-Kinney (vocals and guitar), Sarah Dougher of The Lookers (vocals and Farfisa organ), and sts, also of the Lookers (drums). The three women in the band have adopted the nicknames Kissy, Dusty, and Junior. The band is often described as being an old-fashioned girl group, in the tradition of such acts as the Shangri-Las, with a feminist rhetoric.\n",
-      "Cadallaca has released two releases (one album and one EP) as of 2012. The first, Introducing Cadallaca, was released by K Records in 1998. Their second release, an EP titled Out West, was released in 1999 by Kill Rock Stars. Songs from these albums have also been featured on two Kill Rock Stars compilations.\n",
-      "This article on a United States indie rock band is a stub. You can help Wikipedia by expanding it."
+      "Cadallaca has released two releases (one album and one EP) as of 2012. The first, Introducing Cadallaca, was released by K Records in 1998. Their second release, an EP titled Out West, was released in 1999 by Kill Rock Stars. Songs from these albums have also been featured on two Kill Rock Stars compilations.\n"
    ],
    "infobox": {
       "Years active": [
@@ -23,10 +22,5 @@
          "Sarah Dougher"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed at a party in Portland, Oregon in [YEAR]. The group consists of Corin Tucker of Sleater-Kinney (vocals and guitar), [PERSON_NAME_FULL_0_FEMALE] of The Lookers (vocals and Farfisa organ), and sts, also of the Lookers (drums). The three women in the band have adopted the nicknames Kissy, Dusty, and [MONTH]ior. The band is often described as being an old-fashioned girl group, in the tradition of such acts as the Shangri-Las, with a feminist rhetoric.\n",
-      "[BAND_NAME] has released two releases (one album and one EP) as of [YEAR]. The first, Introducing [BAND_NAME], was released by K Records in [YEAR]. Their second release, an EP titled Out West, was released in [YEAR] by Kill Rock Stars. Songs from these albums have also been featured on two Kill Rock Stars compilations.\n",
-      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
-   ]
+   "albums": []
 }

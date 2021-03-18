@@ -54,10 +54,5 @@
       "Electric Sheep",
       "Escape Velocity",
       "I'm with Neil"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are a [GENRE] band from Oakland, California that combine several styles of music with a futuristic science fiction theme. Their sound uses elements from rock and roll, punk, glam, garage rock and new wave styles of music. They call their style [SONG_NAME].\n",
-      "The band is known for throwing sudden, unexpected shows at places where they are not invited. They often play in front of existing concerts where crowds have already gathered. They gained notoriety in [YEAR] for sneaking into the Warped Tour, following the tour in their own vehicle and performing at each stop for several weeks.\n",
-      "[BAND_NAME] perform under a [GENRE] band member uses a stage name and dress in uniform. Most of the band's songs revolve around science, space, robots, and the future. The band has even decorated their vehicles to match their theme. Their live shows often feature special effects like clouds of smoke or lasers, and they are known to shoot toilet paper into the crowd and set their drum cymbals on fire.\n"
    ]
 }

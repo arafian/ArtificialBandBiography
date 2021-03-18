@@ -36,10 +36,5 @@
          "Andy Andersson"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] were a [GENRE] band formed in [YEAR]. After a short lifespan, vocalist [PERSON_NAME_FULL_3_MALE] [SONG_NAME] Fortuna reformed the band from time to time with various differing members, however [BAND_NAME] were re-established full-time with [PERSON_NAME_FIRST_1] 'Hardslug' [PERSON_NAME_LAST_1] in [YEAR] until [YEAR]. In recent years the band plays a casual show here and there with the '[YEAR]-[YEAR]' lineup of Billy Bones, [PERSON_NAME_FULL_1_MALE], [PERSON_NAME_FULL_2_MALE] and [PERSON_NAME_FULL_0_MALE] - full history below.\n",
-      "[BAND_NAME] formed in late [YEAR] and are widely considered to have been one of Los Angeles's first punk rock bands. Their influences consisted of American 50s surf and punk bands such as the Ventures, Dick Dale and the del tones, Iggy and the Stooges, and the Ramones, British punk bands such as the Sex Pistols and The Vibrators. As well as pre-punk artists such as MC5 and [PERSON_NAME_FULL_0_FEMALE]. They were at the forefront of the early Los Angeles punk scene alongside infamous acts like The Screamers and The Weirdos and were a [GENRE] band at the venue The Masque, where Bruce Moreland (brother of the Skulls' then-guitarist [MONTH]c Moreland, who went on to form Wall of Voodoo) was the emcee.\n",
-      "[PERSON_NAME_LAST_0]e original line up of [BAND_NAME] formed in late [YEAR] and consisted of Danny Death on guitar, Framin'J on bass, [PERSON_NAME_FULL_1_MALE] on Drums, and Mick [SONG_NAME] Wallace. [PERSON_NAME_LAST_0]is line up became the most recognizable due to their inclusion on the What? Records ep in [YEAR] and the Live From [PERSON_NAME_LAST_0]e Masque cd in [YEAR]. [PERSON_NAME_LAST_0]e band did not tour extensively nor make many official releases. Bootlegs can be found of original recordings, but the band's studio albums were all recorded and released years later. [PERSON_NAME_LAST_0]ey broke up with no apparent plans to reunite.\n"
-   ]
+   "albums": []
 }

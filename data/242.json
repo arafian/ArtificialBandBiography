@@ -53,10 +53,5 @@
    "albums": [
       "No Sleep Till Liverpool",
       "A Hot Piece of Grass"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in Nashville, Tennessee in [YEAR]. Their first album was A Hillbilly Tribute to AC/DC. The band performs bluegrass cover versions of hard rock songs and also original songs of a mostly satirical or absurdist nature in a self-created musical genre which the band calls [SONG_NAME] The band's name is a linguistic play on the name of the band AC/DC.\n",
-      "[BAND_NAME] plays hard rock and bluegrass music on electrified acoustic bluegrass instruments. The band has released 16 studio albums and played over 1,400 live dates in 31 different countries since its inception in [YEAR].\n",
-      "Upon the release of the debut album, A Hillbilly Tribute to AC/DC, on [MONTH] 17, [YEAR], which consisted of acoustic hillbilly-styled reworkings of AC/DC songs, [BAND_NAME] received considerable morning-show radio airplay in the US, selling over 250,000 albums in the US from [YEAR] to [YEAR]. The band toured the US club and festival circuit extensively during that time. In [MONTH] [YEAR], the band had three different albums in the Top 15 in the bluegrass category of the US Billboard charts at the same time. Western Europe, however, has shown the group the most enduring appreciation.\n"
    ]
 }

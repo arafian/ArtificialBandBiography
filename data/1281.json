@@ -38,10 +38,5 @@
    "albums": [
       "The Nightmare Before Christmas Soundtrack",
       "Timbaland Presents: Shock Value"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band, based in San Fernando Valley, California and formed in [YEAR]. The group's debut album [BAND_NAME] was released in early [YEAR], with three singles to follow ([SONG_NAME] for which the video was directed by Joaquin Phoenix). The band has sold more than 300,000 records in the US. The band's second album, This Is Forever, was released in [YEAR]. The group's third album, entitled Valleyheart, was released in [YEAR].\n",
-      "The band toured extensively through [YEAR] with Depeche Mode and Placebo.\n",
-      "In [YEAR], the group was featured on the track [SONG_NAME] tour in the US. \nThey were released from their contract with the label Geffen/Interscope, according to a [GENRE] an imprint, in [YEAR].\n"
    ]
 }

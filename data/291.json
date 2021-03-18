@@ -36,10 +36,5 @@
          "Craig Langerud - Drums"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band formed in [YEAR], \n[BAND_NAME] started in Kelowna, British Columbia, Canada, with four members: [PERSON_NAME_FULL_0_MALE] (vocals), Jordan Chase (bass, vocals), [PERSON_NAME_FULL_3_MALE] (guitar, vocals), and [PERSON_NAME_FULL_2_MALE] (drums). In [YEAR], Jason Ciolli (guitar) joined the band, and the next year [PERSON_NAME_FULL_1_MALE] took over on drums. [YEAR] saw Stickney leave the band and after recruiting vocalist Charles Furney the band decided to form Secret and Whisper rather than carry on under the [BAND_NAME] banner.\n",
-      "[BAND_NAME] was well established at MP3.com and was a popular download. With the help of Los Angeles-based Freeze Management, [BAND_NAME] made a deal with Madonna's Maverick Records in the summer of [YEAR], and later toured with fellow labelmates Story of the Year.\n",
-      "[BAND_NAME]'s second full-length album “And We Are Bled of Color” was released in [YEAR] (to later be re-released on the bands' own label, The Elysien Project), music videos were produced for the songs [SONG_NAME]. “And We Are Bled of Color” was a [GENRE] band being dropped from their label.\n"
-   ]
+   "albums": []
 }

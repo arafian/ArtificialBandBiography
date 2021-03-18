@@ -98,10 +98,5 @@
       "Purgatory",
       "Leblos",
       "Lifeless"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band which formed in [YEAR]. The members are from Tambach-Dietharz, a village in Thuringia.\n",
-      "In English, [BAND_NAME] translates to [SONG_NAME]. By using morbid German lyrics unlike those of other bands of this genre, they got the attention of German authorities, causing the indexing of three of their albums.\n",
-      "[BAND_NAME] originally planned to disband after releasing a final album called  [SONG_NAME] humans), but announced that they will continue to work together.\n"
    ]
 }

@@ -37,10 +37,5 @@
          "Dayvid Swart"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Vancouver, British Columbia, formed in [YEAR]. They have released five studio albums and are known for their charting singles such as [SONG_NAME]. They achieved platinum status with the [YEAR] album The Devil You Know and also received two [MONTH]o nominations, in [YEAR] and [YEAR].\n",
-      "[BAND_NAME] was formed in [YEAR] when singer [PERSON_NAME_FULL_3_MALE] moved to Vancouver from Seattle after he answered an [GENRE] a vocalist in the local Seattle newspaper, The Rocket, placed by [PERSON_NAME_FULL_4_MALE]. Tom Ferris (previously known for the band Moev) and [PERSON_NAME_LAST_4] had been advertising and searching for a vocalist before [PERSON_NAME_LAST_3] contacted [PERSON_NAME_LAST_4] from Seattle. The trio began writing demos alongside guitarist [PERSON_NAME_FULL_2_MALE] and bassist [PERSON_NAME_FULL_1_MALE]. The band released a demo EP in [YEAR]. Shortly after, drummer [PERSON_NAME_FULL_0_MALE] joined the band to bring live drums into the fold and guitarist Hack had joined as well. At the end of the year, Ferris (who had songwriting credits on the next two releases) and [PERSON_NAME_LAST_4] had left the band, and [BAND_NAME] signed a record deal with EMI Music Canada, after playing only 26 shows total.\n",
-      "In [YEAR], the band released their first EP called Purge, with producer Dale Penner (later famous for Nickelback) and keyboardist/programmer [PERSON_NAME_FULL_0_MALE]. [SONG_NAME] was the only song to be released as a single, and its music video aired sporadically on the television program MuchOnDemand. In [YEAR], the band gained their first nomination for a [MONTH]o Award in Canada due to Purge.\n"
-   ]
+   "albums": []
 }

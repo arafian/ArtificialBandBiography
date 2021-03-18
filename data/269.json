@@ -32,10 +32,5 @@
       "Sweet Lillies",
       "A Lighter Hue",
       "Common Ground"
-   ],
-   "prunedData": [
-      "The [BAND_NAME] are an [GENRE] band from Boulder, Colorado\n",
-      "The [BAND_NAME] formed in [YEAR] when classically-trained vocalist [MONTH]ie Gussaroff met classically-trained violist Becca Bisque at a [GENRE] a band that Gussaroff said would be [SONG_NAME] They added Danjo Lynn Birnberng in [YEAR] and Melly Frances Sponselee in [YEAR] to complete the lineup and released their debut, self-titled album in [YEAR].\n",
-      "Birnberg left the band in [YEAR], and the [BAND_NAME] continued on as trio. They recorded their second album, A Lighter Hue, produced by Leftover Salmon's [PERSON_NAME_FULL_1_MALE] the following year. Following the release of A Lighter Hue, the band added guitarist [PERSON_NAME_FULL_0_MALE]. [PERSON_NAME_LAST_0] had first met the [BAND_NAME] in [YEAR] at the Hangtown Festival when they crossed paths at a campground jam. [SONG_NAME] Sponselee left the band the following year in [YEAR].\n"
    ]
 }

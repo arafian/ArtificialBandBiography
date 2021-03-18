@@ -2,8 +2,7 @@
    "Name": "Mukala",
    "rawData": [
       "Mukala was a Christian rock band formed in the late 1990s. The group consists of singer, songwriter and keyboardist Dan Muckala, guitarist Alex Nifong, and drummer Jason Collum. They released one album, Fiction, in 1998.\n",
-      "Dan Muckala was a musical composition student at Belmont University in Tennessee. \nIn 1996, he became a professional songwriter and penned a number of Top Ten songs on contemporary hit radio. Prior to forming the band, Muckala had also toured with other artists and led worship for a youth group. \nAccording to Muckala, \"the band got started out of a desire that God gave me to put together a group that . . . really was focused on reaching kids and not just playing music either. I've always felt that Christian music should be a medium that reaches into the mainstream.\" \nSigned in early 1998 to Essential Records, \nMukala released their debut album, Fiction, in September. \nThe band's musical style drew comparisons to Silage, Smash Mouth, and Beck. \nTheir first single, \"Soap\", received airplay on Christian rock and Top 40 radio stations. \nIn an industry first, the single \"Regret\" was released as an Internet download. \n\"Regret\" was also featured on the soundtrack of the 1999 movie Drive Me Crazy, starring Melissa Joan Hart and Adrian Grenier. Since the album's release, Dan Muckala became a record producer.\n",
-      "This Christian music-related article is a stub. You can help Wikipedia by expanding it."
+      "Dan Muckala was a musical composition student at Belmont University in Tennessee. \nIn 1996, he became a professional songwriter and penned a number of Top Ten songs on contemporary hit radio. Prior to forming the band, Muckala had also toured with other artists and led worship for a youth group. \nAccording to Muckala, \"the band got started out of a desire that God gave me to put together a group that . . . really was focused on reaching kids and not just playing music either. I've always felt that Christian music should be a medium that reaches into the mainstream.\" \nSigned in early 1998 to Essential Records, \nMukala released their debut album, Fiction, in September. \nThe band's musical style drew comparisons to Silage, Smash Mouth, and Beck. \nTheir first single, \"Soap\", received airplay on Christian rock and Top 40 radio stations. \nIn an industry first, the single \"Regret\" was released as an Internet download. \n\"Regret\" was also featured on the soundtrack of the 1999 movie Drive Me Crazy, starring Melissa Joan Hart and Adrian Grenier. Since the album's release, Dan Muckala became a record producer.\n"
    ],
    "infobox": {
       "Also known as": [
@@ -29,10 +28,5 @@
    },
    "albums": [
       "Fiction"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band formed in the late [YEAR]s. The group consists of singer, songwriter and keyboardist [PERSON_NAME_FULL_1_MALE], guitarist [PERSON_NAME_FULL_0_MALE], and drummer Jason Collum. They released one album, Fiction, in [YEAR].\n",
-      "[PERSON_NAME_FULL_1_MALE] was a musical composition student at Belmont University in Tennessee. \nIn [YEAR], he became a professional songwriter and penned a number of Top Ten songs on contemporary hit radio. Prior to forming the band, [PERSON_NAME_LAST_1] had also toured with other artists and led worship for a youth group. \nAccording to [PERSON_NAME_LAST_1], [SONG_NAME] \nSigned in early [YEAR] to Essential Records, \n[BAND_NAME] released their debut album, Fiction, in [MONTH]. \nThe band's musical style drew comparisons to Silage, Smash Mouth, and Beck. \nTheir first single, [SONG_NAME], received airplay on Christian rock and Top 40 radio stations. \nIn an industry first, the single [SONG_NAME] was released as an Internet download. \n[SONG_NAME] was also featured on the soundtrack of the [YEAR] movie Drive Me Crazy, starring [PERSON_NAME_FULL_0_FEMALE] and Adrian Grenier. Since the album's release, [PERSON_NAME_FULL_1_MALE] became a record producer.\n",
-      "This Christian music-related article is a [GENRE]"
    ]
 }

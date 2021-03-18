@@ -40,10 +40,5 @@
          "Jeremy Velardi"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] are a [GENRE] band from Long Island, New York. They released their second full length, Lowcountry, in [MONTH] [YEAR].\n",
-      "The members of [BAND_NAME] began playing together in [YEAR], though not under that name. Initially, Ryan Hunter replaced [PERSON_NAME_FULL_0_MALE] after [PERSON_NAME_FIRST_0] left New York to study at Berklee College of Music. In [YEAR], the band recruited drummer [PERSON_NAME_FULL_1_MALE], and played their first official show in [MONTH] [YEAR].\n",
-      "The band caught the ear of producer Bryan Russell, who recorded a five-song, self-titled EP with [BAND_NAME], which was officially released on [MONTH] 19, [YEAR], on Photo Finish Records.\n"
-   ]
+   "albums": []
 }

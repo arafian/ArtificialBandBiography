@@ -62,3 +62,9 @@ body {
   font-family: monospace;
   margin-top: 2em;
 }
+
+.topcorner {
+   position:absolute;
+   top:60px;
+   right: 25%;
+}

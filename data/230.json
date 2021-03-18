@@ -22,10 +22,5 @@
          "dixieflyers.ca"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "The [BAND_NAME] were a [GENRE] band based in London, Ontario, Canada.  The band first came together in [YEAR], and became one of Canada's best known bluegrass bands.\n",
-      "Original members of the band were guitarist [[PERSON_NAME_LAST_2]RSON_NAME_FULL_0_MALE], mandolinist Ken [PERSON_NAME_LAST_2]lmer, harmonica player [[PERSON_NAME_LAST_2]RSON_NAME_FULL_2_MALE], bassist Brian Abbey and [[PERSON_NAME_LAST_2]RSON_NAME_FULL_1_MALE] on the banjo.  Although lead vocalists [[PERSON_NAME_LAST_2]RSON_NAME_LAST_0] and [PERSON_NAME_LAST_2]lmer have been continuous members, over the years the band has seen a [GENRE] band members have included:\n",
-      "The [BAND_NAME] played at the Carlisle Bluegrass Festival in [YEAR], where they met Bill Monroe, and were subsequently invited to play at Monroe's Bean Blossom Festival in Indiana, USA. The band also played at the Cambridge Millrace Festival and the Blueberry Bluegrass Festival in Stony Plain, Alberta. They also played several times at the Canterbury Folk Festival in Ingersoll, Ontario. The band performed regularly at the Flint Folk and Bluegrass Festival in Michigan.\n"
-   ]
+   "albums": []
 }

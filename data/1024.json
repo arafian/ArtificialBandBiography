@@ -46,9 +46,5 @@
       "Welcome to My Party",
       "Stereo Rodeo",
       "The Movement"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in [YEAR] in Pittsburgh, Pennsylvania, by singer-guitarist Michael Glabicki (born [MONTH] 21, [YEAR]), bassist [PERSON_NAME_FULL_0_MALE] and percussionist Liz Berlin. The band got its start as the house band playing a weekly gig in Jack's Back Room on Pittsburgh's South Side. The band achieved fame in [YEAR] with its platinum-selling album When I Woke, which included the hit single [SONG_NAME]. The song has been featured prominently in many films and commercials. [BAND_NAME] has sold more than three million albums, and is currently on hiatus.\n",
-      "The band is known for its fusion of acoustic, rock, world and other styles of music, with a strong percussion section that draws from African, Latin American, Indian and Native American influences. [PERSON_NAME_FULL_0_MALE] has acknowledged the popular success of Peter Gabriel's [YEAR] album So as an influence on his decision to incorporate worldbeat into his own music. The band's lyrical content varies but often talks about Christianity and Judaism. The group's [YEAR] album, The Movement, was fan-funded.\n"
    ]
 }

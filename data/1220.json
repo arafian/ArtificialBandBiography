@@ -35,10 +35,5 @@
       "The El Dorado LP",
       "Face Your Fun",
       "Through and Through"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Southern California. Their style has been described as [SONG_NAME] They disbanded in [YEAR] after having released three albums as well as several EPs, but have reunited and are working on a new full-length album.\n",
-      "Formed in [YEAR], [BAND_NAME] released their first EP, California. California defined the group’s sound, a mix of the smooth [YEAR]s and early [YEAR]s West Coast pop music and the sonic power of British shoegaze music. Lassie followed up its EP with their first full-length album, Pacifico. Pacifico caught British attention by being featured in the [SONG_NAME]. Singles in the U.S. and Australia followed, and the band continued its regimen of performing in Southern California clubs with bands like Phantom Planet, At the Drive-In, Mates of State, Creeper Lagoon, and Imperial Teen.\n",
-      "[YEAR] saw a [GENRE] band’s musical direction with its split soundtrack for the independent film I Duel Sioux and the Ale of Saturn, followed soon thereafter by The El Dorado LP, their second full-length album. Both albums abandoned their traditional shoegaze elements for a cleaner pop sound. It also marked the end of the band.\n"
    ]
 }

@@ -43,10 +43,5 @@
       "Hammer on a Drum",
       "Here's the World for Ya",
       "Under the Volcano"
-   ],
-   "prunedData": [
-      "[BAND_NAME] (or Payola$) were a [GENRE] band, most prominent in the [YEAR]s. Evolving from a new wave sound toward mainstream pop-rock, they released several albums and singles that were Canadian chart hits.\n",
-      "The band's name is a reference to the payola scandal in the United States in the early [YEAR]s. The group was based in Vancouver, British Columbia, and recorded mostly at Vancouver's Little Mountain Sound Studios. Through several lineup changes and name changes (the band also played as The Payola$, Paul Hyde and the [BAND_NAME], and [PERSON_NAME_LAST_0] and Hyde), the [BAND_NAME] core members remained Paul Hyde and [PERSON_NAME_FULL_0_MALE], who together wrote virtually all of the band's songs, occasionally with co-writers.  As well, [PERSON_NAME_LAST_0] engineered and mixed virtually every [BAND_NAME] recording.\n",
-      "They disbanded in [YEAR], but reformed again from [YEAR] to [YEAR], issuing a new EP in [YEAR].\n"
    ]
 }

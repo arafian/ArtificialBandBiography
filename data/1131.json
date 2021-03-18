@@ -27,10 +27,5 @@
          "John West"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band founded by former Ozzy Osbourne guitarist Jake E. Lee, former Black Sabbath members [PERSON_NAME_FULL_1_MALE] (vocals), Eric Singer (drums), as well as former Surgical Steel bass player [PERSON_NAME_FULL_0_MALE]. After the first [BAND_NAME] album, Eric Singer was replaced by Jeff [MONTH]tin. The group lasted from [YEAR] to [YEAR] and released three albums. [BAND_NAME] ([YEAR]) and Voodoo Highway ([YEAR]) were released before [PERSON_NAME_LAST_1] left and was replaced by singer [PERSON_NAME_FULL_2_MALE] from New York. [PERSON_NAME_LAST_1]'s death in [YEAR] effectively ended any hopes of re-uniting the project.  The album Dusk (a demo recorded in [YEAR]-93) was released in [YEAR] with the then deceased [PERSON_NAME_LAST_1] on vocals.\n",
-      "After touring with [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_0] in support of the Ultimate Sin album, Jake E. Lee was fired by [PERSON_NAME_FULL_0_FEMALE]. Lee first learned of his dismissal from the band through his roommate and guitar tech. Ultimately, Lee's firing was confirmed when he called [PERSON_NAME_FULL_0_FEMALE] and asked her about it directly. Lee set about looking for a [GENRE] a new band. He met Ray Gillen, a vocalist who had recently worked briefly with Black Sabbath. Within weeks, the duo had enlisted bassist [PERSON_NAME_FULL_1_MALE], whom Lee had met during an [PERSON_NAME_FIRST_2] audition. Gillen recruited his former Black Sabbath bandmate Eric Singer to be the band's drummer.  With melodic sensibilities and solid instrumental skill, the new band worked together to present energetic live shows.\n",
-      "The band released [BAND_NAME] in [MONTH] [YEAR] to good reviews.  The band released videos for the songs [SONG_NAME] both of which received airplay on MTV. This boosted the album to its peak of no. 57 on Billboard's album charts.\n"
-   ]
+   "albums": []
 }

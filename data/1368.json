@@ -44,10 +44,5 @@
          "Phil Cimino"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band formed in [YEAR] in New York City by [PERSON_NAME_FULL_0_MALE] (vocals, guitar), [PERSON_NAME_FULL_1_MALE] (bass, vocals), Ed Rupprecht (guitar, vocals) and [PERSON_NAME_FULL_2_MALE] (drums, vocals).\n",
-      "[BAND_NAME] achieved commercial success in the United States in [YEAR] with the release of their first album, Honor Among Thieves and the single [SONG_NAME] They have also established a strong fan base in Europe, where they have done promotion and extensive touring since the late [YEAR]s. They have occasionally made it high on the record charts in countries such as the Netherlands.\n",
-      "In [YEAR] the recordings from the [YEAR] Irish Tour were mixed and the live album David [PERSON_NAME_LAST_0] and [BAND_NAME] - Live in Europe was released on [MONTH]. 1, [YEAR] and distributed in Europe by Blue Rose. The only current member of [BAND_NAME] is singer, guitarist and songwriter [PERSON_NAME_FULL_0_MALE].\n"
-   ]
+   "albums": []
 }

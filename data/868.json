@@ -34,10 +34,13 @@
          "Tim Skirven"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "Gifts From Enola was a [GENRE] band from Harrisonburg, Virginia.  Their music is characterized with a strong riff-orientated guitar sound along with the soft-loud approach prevalent in some post-rock. They have released three full-length albums and a split album. In [MONTH] [YEAR], the band released their self-titled third full-length album. The name supposedly references the Enola Gay, the first aircraft to drop a nuclear bomb.\n",
-      "Gifts From Enola was formed by friends Andrew Barnes and Nate Dominy while they were in their freshman year of college in late [YEAR].  After starting to perform and record in [YEAR], they added CJ DeLuca and Jordan Endahl to the lineup and recorded their first album [PERSON_NAME_FULL_0_MALE] the Mind which they self-released later that year. [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_0] was commercially well received, and led to them being named 'pick of the month' for [MONTH] [YEAR] by the prominent music website TheSilentBallet.com. In [YEAR] they went on their first U.S. tour, which increased national awareness of the band.\n",
-      "Gifts From Enola were one of the first bands to be signed by the influential indie record label The Mylene Sheath. In [MONTH] [YEAR] Gifts From Enola released a [GENRE] band You.[MONTH].Die.In.The.Desert, which was titled Harmonic Motion Vol. 1 and was released nationwide through Differential Records. This was followed by a vinyl re-release of [PERSON_NAME_FULL_0_MALE] the Mind by The Mylene Sheath on 3 [MONTH] [YEAR]. The re-release was a vinyl exclusive limited to 500 copies: 100 on clear vinyl with black and blue splatter available exclusively from the band at concerts, 150 on clear vinyl with gray haze and clear with white haze available exclusively from The Mylene Sheath webstore, and 250 on gray vinyl. Both of the exclusive versions sold out very quickly and the re-release cemented the band as a stalwart of the emerging post-rock genre. The release of both these albums increased both national and international appreciation of the band.\n"
+   "albums": [
+      "Loyal Eyes Betrayed the Mind",
+      "Harmonic Motion Vol.1",
+      "Loyal Eyes Betrayed the Mind",
+      "From Fathoms",
+      "Gifts from Enola",
+      "A Healthy Fear",
+      "From Fathoms(remastered)"
    ]
 }

@@ -46,10 +46,5 @@
       "Blood Meridian",
       "Language of Silence",
       "Mortal Geometry"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band that is based in Vancouver, British Columbia, Canada.\n",
-      "[BAND_NAME] was founded by Don Gordon, [PERSON_NAME_FULL_0_MALE] and Sean Stubbs in [YEAR]. The band issued their self-titled debut studio album [BAND_NAME] in [YEAR] on Edge and World Records. Their second album Christmeister was released by Lively Art in [YEAR].\n",
-      "The band's third album Death on the Installment Plan, released in [YEAR], featured weird electronic tape-loops overlaid with heavily distorted vocals. The [YEAR] album Wasted Sky used some of the same techniques, but with a [GENRE]"
    ]
 }

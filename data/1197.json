@@ -42,10 +42,5 @@
          "Lorne Black"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band, formed in Los Angeles in [YEAR]. They gained their name from the shark of the same name the great white shark. They got their popularity during the [YEAR]s and early [YEAR]s. The band released several albums in the late [YEAR]s and gained airplay on MTV with music videos for songs like [SONG_NAME]. The band reached their peak popularity with the album ...Twice Shy in [YEAR]. The band continued to release new material into the [YEAR]s, although none of their material charted in the United States. \n",
-      "The band broke up in [YEAR]. Soon thereafter, lead singer Jack Russell started to tour with [PERSON_NAME_FULL_1_MALE], [PERSON_NAME_FULL_2_MALE] (Halford), [PERSON_NAME_FULL_0_MALE] (Montrose) and Dicki Fliszar (Skin (British band)/ (Bruce Dickinson) as [SONG_NAME].\n",
-      "As of [MONTH] [YEAR], [BAND_NAME] estimated they had sold around eight million records worldwide.\n"
-   ]
+   "albums": []
 }

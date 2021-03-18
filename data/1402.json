@@ -33,10 +33,5 @@
          "Mike Murphy"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band based in New York City, consisting of lead singer Mandy Lee (Amanda Lee Duffy), percussionist [PERSON_NAME_FULL_1_MALE], bass guitarist  [PERSON_NAME_FULL_0_MALE], guitarist [MONTH]c Campbell, multi-instrumentalist [PERSON_NAME_FULL_2_MALE], and saxophonist Mike Murphy. [BAND_NAME] have opened for acts such as Panic! at the Disco, Twenty One Pilots, Half Moon Run, Bleachers, The Mowgli's, Walk the Moon, Foster the People, Paramore, American Authors, and X Ambassadors. The band is currently signed to Fueled By Ramen. The band's debut album Our Own House was released in [MONTH] [YEAR], and subsequently met with critical acclaim.\n",
-      "The band was formed in late [YEAR] when lead singer Mandy Lee wanted an [GENRE] band for her birthday party. She partnered with fellow musicians [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_0_MALE]. Lee met [PERSON_NAME_LAST_0] through a mutual friend, and was introduced to [PERSON_NAME_LAST_1] a short time later. At the time, the two had been working at restaurants just a block apart in Manhattan. Eventually the band would expand to its current set-up of five members by bringing [PERSON_NAME_LAST_1]'s friends Blum and Campbell (not including the band's saxophonist Mike Murphy), and play its first show as '[BAND_NAME]' (a gender-flipped play on the term for the practice of polygamy, sister wives) on [MONTH] 1, [YEAR] at the Canal Room in New York City.\n",
-      "The day after playing the Canal Room, the band was signed to Photo Finish Records. The band would spend the better part of that year touring and working on their first EP. The group began touring with Half Moon Run in [MONTH] [YEAR] that ended with a performance at the [YEAR] CMJ Music [MONTH]athon. This would be shortly followed by a six-week tour with American Authors and The Royal Concept. All the while, the group had been preparing songs for their debut EP, Reflections.\n"
-   ]
+   "albums": []
 }

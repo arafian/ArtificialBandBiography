@@ -36,10 +36,5 @@
          "Happy Kreter"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Langley, British Columbia, formed in [YEAR]. The band consists of Tom Thacker, Theo Goutzinakis, [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_0_MALE]. [MONTH]o nominated for best new group in [YEAR], and another [MONTH]o nomination for best video in [YEAR]. [BAND_NAME]'s most successful album is World According to [BAND_NAME]. Their best-selling songs to date are [SONG_NAME]. The band has appeared at several music festivals, the most well-known being the Vans Warped Tour. Thacker is also a lead guitarist for fellow Canadian rock band Sum 41.\n",
-      "[BAND_NAME] formed in [YEAR] consisting of Tom Thacker as lead guitarist and vocalist, Theo Goutzinakis as rhythm/co-lead guitarist and vocalist, Patrick [SONG_NAME], so the band replaced him with Gabe Mantle, former member of a [GENRE] band [PERSON_NAME_FULL_0_MALE]. With a newly formed band, [BAND_NAME] released How Far Shallow Takes You. It was home to a heavier sound with a better production value, mature lyrics focusing on personal and political issues and a growth in musicianship. It was released on Fearless records in [YEAR] but re-released in [YEAR] on Landspeed because of conflicts with Fearless. In [YEAR], [BAND_NAME] signed with Nettwerk records, who re-released the How Far Shallow Takes You album in [MONTH] of the same year.\n",
-      "[BAND_NAME] released World According to [BAND_NAME], in [YEAR]. This album was [BAND_NAME]'s most successful album to date; featuring one of their biggest hits [SONG_NAME]. The album was certified Gold by the CRIA in [MONTH] [YEAR].\n"
-   ]
+   "albums": []
 }

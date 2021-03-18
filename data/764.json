@@ -26,10 +26,5 @@
          "Wanda Vick"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band founded in [YEAR] by five women: [PERSON_NAME_FULL_2_FEMALE] (lead and background vocals, banjo), Kathy Mac (bass guitar, vocals), [PERSON_NAME_FULL_3_FEMALE] (lead and harmony vocals, guitar, mandolin), Nancy Given (drums, vocals), and [PERSON_NAME_FULL_0_FEMALE] (guitar, mandolin, fiddle, Dobro, steel guitar). Between [YEAR] and [YEAR], they recorded three studio albums, including two on Liberty Records. In that same time span, they charted three singles on the Billboard Hot Country Singles & Tracks (now Hot Country Songs) charts. Since their disbanding in [YEAR], [PERSON_NAME_FULL_0_FEMALE] has worked as a session musician.  [PERSON_NAME_LAST_2] has continued to write and perform in the music industry, and was featured as part of country music legend [PERSON_NAME_FULL_1_MALE]'s band until his death in [YEAR].  [PERSON_NAME_LAST_2] and [PERSON_NAME_LAST_1] recorded an album of duets together.\n",
-      "[BAND_NAME] was founded in [YEAR] by [PERSON_NAME_FULL_2_FEMALE], who had previously been a [GENRE] a member of [PERSON_NAME_FULL_4_MALE]'s road band Right Combination. The group's co-founder, drummer [PERSON_NAME_FULL_0_FEMALE], was also a former member of Right Combination. (Her then-husband was [PERSON_NAME_FULL_1_MALE] of Diamond Rio.) [PERSON_NAME_LAST_1] was followed by vocalist/banjo player [PERSON_NAME_FULL_5_FEMALE] and vocalist/guitarist Pam Perry, both formerly members of the bluegrass band New Coon Creek Girls. Completing the band's lineup was bass guitarist [PERSON_NAME_FULL_3_FEMALE].\n",
-      "Initially, the five women performed under the name Miss Behavin'. However, they changed to the name [BAND_NAME] shortly before signing to [PERSON_NAME_FULL_0_MALE]'s Universal. Under the production of James Stroud, [BAND_NAME]'s debut album (titled Breakin' New Ground) was released in [YEAR]. The album produced one hit single in its title track, which peaked at number 15 on the Billboard country charts. Universal closed its doors not long afterwards.\n"
-   ]
+   "albums": []
 }

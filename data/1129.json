@@ -38,10 +38,5 @@
       "Future Perfect",
       "Transit Transit",
       "Pussy's Dead"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band consisting of Eugene Goreshter (vocals, bass), [PERSON_NAME_FULL_1_MALE] (vocals, guitar, piano) and [PERSON_NAME_FULL_0_FEMALE] (drums, vocals). The trio formed in [YEAR] and have released three full-length albums, Future Perfect ([YEAR]), Transit Transit ([YEAR])  and Pussy's Dead ([YEAR]). Their eclectic sound draws from post-punk, electronic music and krautrock.\n",
-      "[BAND_NAME] was formed in [YEAR] in Los Angeles, California. Goreshter and Azar met while writing the score for Nobel Prize-winner Dario Fo's play Accidental Death of an [GENRE] band, Failure. In [MONTH] [YEAR], [BAND_NAME] made their live debut, playing two shows at The Fold in Silverlake Lounge. In [MONTH] [YEAR], the band released a self-released EP, Demonstration. It contained five songs recorded on an 8-track in their rehearsal space.\n",
-      "T-Bone Burnett signed [BAND_NAME] to DMZ, a small label created by Burnett and the Coen Brothers, and [SONG_NAME] the band.\n"
    ]
 }

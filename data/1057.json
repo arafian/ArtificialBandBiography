@@ -40,10 +40,5 @@
       "On Track",
       "After All These Years",
       "In Spite Of It All"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Boston, Massachusetts. Singer-songwriters Dan Funk, [PERSON_NAME_FULL_1_MALE], Robbie Solomon, and [PERSON_NAME_FULL_0_MALE] formed the band in [YEAR].\n",
-      "They have recorded over fifteen albums. These include eleven studio albums, two greatest hits albums, and a [GENRE]",
-      "[BAND_NAME] was formed in [YEAR] in Boston, Massachusetts. Dan Funk, [PERSON_NAME_FULL_1_MALE], and Alan Nelson were members of the Zamir Chorale of Boston, but wanted to try performing outside a choral setting. They met [PERSON_NAME_FULL_0_MALE] when he moved to Boston from Baltimore to attend the Berklee College of Music. They named the group [BAND_NAME], Hebrew for [SONG_NAME], in reference to the facial hair they all had at the time.\n"
    ]
 }

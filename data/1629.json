@@ -27,9 +27,5 @@
          "Andrés de la Cruz"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band that emerged from the TV show Los Serrano. It was formed by several of the actors in the series: Victor Elias, [PERSON_NAME_FULL_1_FEMALE], [PERSON_NAME_FULL_0_MALE] and Andrés de la Cruz. The target audience was children who had sent in letters referring to the sometimes troubling situations which occur in school between boys and girls. In the series, the leader of the group is Guille (Victor Elias). From their first album they released two singles: [SONG_NAME]. \n",
-      "In [YEAR] they released their second studio album, [SONG_NAME]. Currently, the group is disbanded.\n"
-   ]
+   "albums": []
 }

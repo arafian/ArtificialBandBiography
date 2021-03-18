@@ -31,10 +31,5 @@
          "Joe Preston"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Oakland, California, that was formed in [YEAR]. Matt Pike, the band's frontman and founder, also plays guitar for doom metal band Sleep. [BAND_NAME] won the [YEAR] Grammy Award for Best Metal Performance with their song [SONG_NAME].\n",
-      "[BAND_NAME] was founded in [YEAR] by Sleep guitarist Matt Pike, drummer Des Kensel, and bassist [PERSON_NAME_FULL_0_MALE] (from Dear [MONTH]eased, who originally auditioned to be the band's vocalist). The band's first full-length album The Art of Self Defense was released on 12th Records, and released later on Man's Ruin Records. (The album would later be re-released by Tee Pee Records, with two bonus tracks, as Man's Ruin Records had become defunct.)\n",
-      "In [YEAR], [BAND_NAME] signed a record deal with Relapse Records and recorded the album Surrounded by Thieves. The album was released on [MONTH] 28, [YEAR]. After the tours promoting Surrounded by Thieves, bassist [PERSON_NAME_FULL_1_MALE] left the band and was replaced by ex-Melvins/Thrones bassist [PERSON_NAME_FULL_0_MALE].\n"
-   ]
+   "albums": []
 }

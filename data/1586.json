@@ -34,10 +34,5 @@
       "Resurrection",
       "Alice's Inferno",
       "Tales for Bad Girls"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band, founded by Servalath ([PERSON_NAME_FULL_0_MALE]) and vocalist Lady Angellyca in [YEAR].\n",
-      "They recorded two demos, [SONG_NAME].\n",
-      "In [MONTH] [YEAR] they released their first full-length album, Alice's Inferno, produced by [PERSON_NAME_FULL_0_MALE] and released by Armageddon Music. The group released a second album, Tales for Bad Girls, in [MONTH] [YEAR]. They are currently working on a follow up\n"
    ]
 }

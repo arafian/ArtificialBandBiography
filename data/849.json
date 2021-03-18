@@ -23,10 +23,5 @@
          "Dave Burgess"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] were an [GENRE] band, most famous for their Latin-tinged instrumental [SONG_NAME] went to No. 1 in just three weeks, and the band became the first group to go to the top spot with an instrumental that was their first release. The song was recorded at Gold Star Studios in fall [YEAR], and in [YEAR] won the Grammy Award for Best R&B Performance. It sold over one million copies, and was awarded a gold disc by the RIAA.\n",
-      "[SONG_NAME] are the hallmarks of the song. [PERSON_NAME_LAST_0] signed away the US rights to the song but retained worldwide rights until his death.\n",
-      "There are many cover versions of the tune, including a jazz version by guitarist Wes Montgomery in [YEAR]. It has also been recorded by rappers A.L.T. and XL Singleton. [BAND_NAME] also had success with instrumentals such as [SONG_NAME] featured prominently in the film Pee Wee's Big Adventure.\n"
-   ]
+   "albums": []
 }

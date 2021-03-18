@@ -1,8 +1,7 @@
 {
    "Name": "Polar Bear (American band)",
    "rawData": [
-      "Polar Bear was a Los Angeles-based band led by former Jane's Addiction bassist, Eric Avery, who formed the band with Biff Sanders, formerly of Ethyl Meatplow, as a side project. They recorded most of their music in downtown Los Angeles, at Motiv studios. It was re-released in 2004.\n",
-      "This article on a United States rock music band is a stub. You can help Wikipedia by expanding it."
+      "Polar Bear was a Los Angeles-based band led by former Jane's Addiction bassist, Eric Avery, who formed the band with Biff Sanders, formerly of Ethyl Meatplow, as a side project. They recorded most of their music in downtown Los Angeles, at Motiv studios. It was re-released in 2004.\n"
    ],
    "infobox": {
       "Origin": [
@@ -25,9 +24,5 @@
       "Polar Bear",
       "Chewing Gum EP",
       "Why Something Instead of Nothing?"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band led by former [MONTH]e's Addiction bassist, [PERSON_NAME_FULL_0_MALE], who formed the band with Biff Sanders, formerly of Ethyl Meatplow, as a side project. They recorded most of their music in downtown Los Angeles, at Motiv studios. It was re-released in [YEAR].\n",
-      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

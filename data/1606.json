@@ -18,10 +18,5 @@
       "This Must Be Love (Esto debe Ser Amor)",
       "Modesty Aside and Friends – Disco Tribute (Modestia Aparte Y Amigos – Disco Homenaje)",
       "Twenty (Veinte)"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band that recorded albums from [YEAR] to [YEAR].\n",
-      "[BAND_NAME] began recording Spanish-language pop albums in [YEAR]. Their biggest hit was [SONG_NAME] (from their first album, The Shape (Por Amor al Arte)), where they mimicked voices from the cartoons Pixie & Dixie, Tweety, and Roadrunner. The band broke up in [YEAR].\n",
-      "In [YEAR], two members performed a live concert, from which the live album, Modesty Aside Live 17 Greatest Hits ([BAND_NAME] Vivo 17 Grandes Exitos) was recorded. Two years later, they released an album with new songs entitled, This must be love (Esto debe Ser Amor). In [YEAR], they organised a compilation tribute album, recording with other well-known pop groups.\n"
    ]
 }

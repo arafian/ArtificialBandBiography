@@ -35,10 +35,5 @@
    },
    "albums": [
       "In the Grass"
-   ],
-   "prunedData": [
-      "[BAND_NAME] were an [GENRE] band from New York City. Formed in [YEAR] by [MONTH]et [PERSON_NAME_LAST_1] (lead vocals, guitar), [PERSON_NAME_FULL_1_FEMALE] (lead vocals, bass), Delissa Santos (drums), [PERSON_NAME_FULL_0_FEMALE] (cello), and Jennifer Richardson (violin), the band released one studio album, [YEAR]'s In the Grass, before disbanding in [YEAR].\n",
-      "The band is best known for performing [SONG_NAME] for the Daria television films Is It Fall Yet? and Is It College Yet?, respectively.\n",
-      "After the break up of her power pop band The [PERSON_NAME_LAST_1]s, [MONTH]et [PERSON_NAME_LAST_1] began recreationally composing music with her sister [PERSON_NAME_FULL_1_FEMALE]. By [YEAR], these music sessions expanded to include friends of the two sisters, namely Delissa Santos, [PERSON_NAME_FULL_0_FEMALE], and Jennifer Richardson. In an interview with Billboard, [PERSON_NAME_FULL_1_FEMALE] described the formation of the band to be a [SONG_NAME].\n"
    ]
 }

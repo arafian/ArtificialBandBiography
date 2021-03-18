@@ -31,10 +31,5 @@
       "Sub Pop 200",
       "Primal Rock Therapy",
       "Unreleased Ünd Live"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from Seattle, Washington formed in [YEAR] that has been described as sludge metal or grunge. Rock journalist [PERSON_NAME_FULL_0_MALE] writing in Allmusic describes the band's music as [SONG_NAME].\n",
-      "The band's first release was a single, [YEAR]'s [SONG_NAME], on Sub Pop. Both Mudhoney and Nirvana performed their first shows in Seattle opening for [BAND_NAME] at the Vogue in [YEAR].\n",
-      "In [YEAR] Sub Pop released the band's first and only album, a [GENRE] a milestone record of that time and place, was at the time panned by the critics and ignored by the public. This contributed to the split of the band in [YEAR] after a North American tour with the French band Les Thugs.  Both bands played in San Francisco in [MONTH] [YEAR].\n"
    ]
 }

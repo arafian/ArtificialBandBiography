@@ -21,9 +21,5 @@
          "Bill Price"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band The Nymphs. It was produced by Bill Price and released in [YEAR] on DGC Records. The EP consists of demos of [SONG_NAME]. The EP was released after the band broke up.\n",
-      "All songs by The Nymphs except for [SONG_NAME], written by Paul McCartney\n"
-   ]
+   "albums": []
 }

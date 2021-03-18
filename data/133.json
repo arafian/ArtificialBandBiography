@@ -77,10 +77,5 @@
       "The Collection",
       "No Way Back",
       "Terrorize"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from the San Francisco Bay Area. Their debut album, American Paranoia, is considered to be an early [SONG_NAME] between hardcore and thrash metal.\n",
-      "The band was formed by [PERSON_NAME_FULL_0_MALE], Eric Smith and [PERSON_NAME_FULL_2_MALE] in early [YEAR], with Nick Koljian briefly on vocals. The lineup was changed with the addition of [PERSON_NAME_FULL_4_MALE] on vocals. This lineup played a number of initial shows at Ruthie's Inn, the New Method, the Mabuhay Gardens and other Bay Area venues. Several months later, [PERSON_NAME_FULL_4_MALE] was replaced by Andy Andersen on vocals and [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_1] joined as a second guitarist. They shortly went into the studio to record the [SONG_NAME] in [YEAR]. The demo was recorded by [PERSON_NAME_FULL_3_MALE] at the Turk Street Practice Pad.\n",
-      "In [YEAR] and [YEAR], [BAND_NAME] played frequent gigs throughout California. They played alongside bands such as Forbidden (Known as Forbidden Evil at that time), Vio-lence, Sacrilege, Possessed, Hirax, Death Angel, R.K.L., Dr. Know, Suicidal Tendencies, Corrosion of Conformity, D.R.I., Discharge, UK Subs, Neurosis, The Exploited and Operation Ivy, among others. The band finally released their debut album, American Paranoia, released by Pusmort Records, is considered to be an early [SONG_NAME] between hardcore punk and thrash metal.\n"
    ]
 }

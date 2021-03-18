@@ -39,10 +39,5 @@
       "Hexakosioihexekontahexaphobia",
       "Bethlehem",
       "Lebe Dich Leer"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Grevenbroich, formed in [YEAR] by [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_0_MALE]. Before starting [BAND_NAME], [PERSON_NAME_LAST_1] and [PERSON_NAME_LAST_0] used to play in a German thrash metal band Morbid Vision. Many of their lyrics revolve around sickness, morbidity, suicide, death and madness, and may to some extent be personal to the band.\n",
-      "[BAND_NAME] was formed by [PERSON_NAME_FULL_3_MALE] in [YEAR]. They recorded a few demos in the early 90s before releasing their debut album [SONG_NAME].\n",
-      "\n"
    ]
 }

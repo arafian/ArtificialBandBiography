@@ -40,10 +40,5 @@
       "I Will Be",
       "Only in Dreams",
       "Too True"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band, formed in [YEAR]. It began as the bedroom recording project of singer and songwriter [PERSON_NAME_FULL_1_FEMALE] (née [PERSON_NAME_FULL_2_FEMALE]). She is currently based in Los Angeles. The name is a double homage to the Vaselines' album Dum Dum and the Iggy Pop song [SONG_NAME].\n",
-      "The first release under the [BAND_NAME] moniker was a five-song CDR on her own label, Zoo Music, in late [YEAR]. It was followed by an EP on Captured Tracks and a 7\" on HoZac Records She quickly gained attention with these releases and signed to [PERSON_NAME_FULL_0_FEMALE] in [MONTH] [YEAR].\n",
-      "[BAND_NAME]' debut album, I Will Be, was released in [MONTH] [YEAR] and was well received by critics. Pitchfork described the songs as [SONG_NAME]; and [PERSON_NAME_FULL_2_MALE] on multiple tracks. The cover of the album featured a college snapshot of [PERSON_NAME_FULL_5_FEMALE]'s mother, who died from cancer in [YEAR]. After its release, [PERSON_NAME_FULL_5_FEMALE] assembled a touring band, and their first shows were in support of Girls.\n"
    ]
 }

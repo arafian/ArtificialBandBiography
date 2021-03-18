@@ -26,9 +26,5 @@
          "Hideaki Hotta"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (あっぱ) is a [GENRE] band formed in [YEAR] by Keitaro Izawa, [PERSON_NAME_FULL_0_MALE], and [PERSON_NAME_FULL_1_MALE].\nSince Izawa is well grounded in jazz and classical music, [BAND_NAME]'s music is influenced by them.  The biggest feature of the playing style of [BAND_NAME] is Izawa's piano playing. Izawa, who is the leader of [BAND_NAME], is one of the members of Tokyo Jihen (from [YEAR]).\n",
-      "In [YEAR], Izawa, who had quit his band NAM, formed a band named [SONG_NAME] with Satō and Hotta.  They often held live performances, but not so many people came to like them.  After Izawa joined Tokyo Jihen, however, [BAND_NAME] got a lot of fans, most of whom were fans of Tokyo Jihen.  They have released two CDs up to now.\n"
-   ]
+   "albums": []
 }

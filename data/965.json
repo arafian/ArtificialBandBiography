@@ -30,10 +30,5 @@
          "Jeff Pehrson"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band founded in [YEAR] by former Grateful Dead members Bob Weir and [PERSON_NAME_FULL_2_MALE]. The original lineup also included John Kadlecik of the Dark Star Orchestra on lead guitar, RatDog's [PERSON_NAME_FULL_0_MALE] on keyboards and Jay Lane on percussion, and [PERSON_NAME_FULL_1_MALE] of the Benevento/[PERSON_NAME_LAST_1] Duo on drums. Named after the famous touring bus used by Ken Kesey and the Merry Pranksters in the [YEAR]s, [BAND_NAME] was an improvisational jam band that performed music primarily from the extensive Grateful Dead songbook, as well as their own original music and that of several other well-known artists. In addition to the original members (with the exception of Jay Lane, who left the band in [MONTH] [YEAR] to rejoin his previous band, Primus), the band's lineup included backup vocalists Sunshine Becker of the a cappella ensemble SoVoSó and [PERSON_NAME_FIRST_0] [PERSON_NAME_LAST_3] of the folk [GENRE] bands Box Set and the Fall Risk.\n",
-      "Four months after Jerry Garcia's death in [MONTH] [YEAR], the Grateful Dead officially disbanded. However, band members continued to perform over the subsequent years in other bands such as RatDog, [PERSON_NAME_FULL_0_MALE] and Friends, the Rhythm Devils, the Other Ones, and the Dead. After a four-year hiatus following their [SONG_NAME], as well at one of the Obama inaugural balls in [YEAR], ultimately giving rise to a [YEAR] spring tour. During this reunion, Weir and [PERSON_NAME_LAST_0], who admitted having great fun playing together again, decided to form a new band. In [MONTH] [YEAR], the musicians announced that they had formed a new band, [BAND_NAME], with Kadlecik, Chimenti, Lane, and Russo.\n",
-      "The band was named after the [YEAR] International Harvester psychedelic multicolored bus used by novelist Ken Kesey and his Merry Pranksters to tour America in [YEAR] when they attended the New York World's Fair for the debut of Kesey's second novel, Sometimes A Great Notion. [SONG_NAME]. The Grateful Dead performed as the house band for many of the Acid Tests, which ran from [YEAR] to [YEAR].\n"
-   ]
+   "albums": []
 }

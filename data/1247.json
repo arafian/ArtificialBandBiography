@@ -62,10 +62,5 @@
          "Ryan Browne"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in [YEAR], from Los Angeles, California. [BAND_NAME] described their industrial rock music as [SONG_NAME], both from their [YEAR] album Candyass.\n",
-      "[BAND_NAME] was formed in [YEAR] by vocalist Jay Gordon and guitarists [PERSON_NAME_FULL_0_MALE] and Ryan Shuck. Bassist Paige Haley, and drummer Bobby Hewitt soon completed the line-up. [PERSON_NAME_LAST_0] had previously gained some fame in the [YEAR]s metal band Rough Cutt, and Hewitt was a former member of Electric Love Hogs. Gordon and [PERSON_NAME_LAST_0] were also experienced producers, having produced Coal Chamber's self-titled CD.\n",
-      "Within six months Jonathan Davis, who performed with Shuck in Sexart, signed [BAND_NAME] to Korn's label Elementree Records.\n"
-   ]
+   "albums": []
 }

@@ -15,10 +15,5 @@
       "Sneak Peek: The Obscurity Series",
       "Before Obscurity: The Bushflow Tapes",
       "New Stuff: Obscurity Deluxe"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Akron, Ohio, United States, that formed in the mid/late [YEAR]s.\n",
-      "The band was originally known as Rags and started out with three members: [MONTH]k Price, Michael Aylward, and [PERSON_NAME_FULL_0_MALE]. Later, the band decided to rename themselves after Aylward's younger brother. When the trio were Rags, Price (then known as Wesley the Stash) played guitar, Aylward played bass, and [PERSON_NAME_LAST_0] (then known as Napoleon Lemens) played drums. [PERSON_NAME_FULL_1_MALE] became the fourth member to join on organ.\n",
-      "When Price left the band, the remaining members switched to acoustic music before hiring electric guitarist Arthur Baranoff and bassist [PERSON_NAME_FULL_0_MALE].\n"
    ]
 }

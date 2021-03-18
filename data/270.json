@@ -35,10 +35,5 @@
          "T. Ryan Fisher"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Chicago, Illinois. They have five full-length CDs, and were included on the [SONG_NAME] is featured in episode eight of the [YEAR] Roadtrip Nation series on PBS.\n",
-      "The group performs approximately 75 dates a [GENRE]",
-      "In [YEAR], the group recorded their first full-length CD, [SONG_NAME], with noted engineer Bob Weston. The record was made as a [GENRE] an empty Chicago two flat, capturing the band live to two-track analog tape, using vintage recording equipment. In stark contrast to most modern recordings, the CD was made without edits or overdubs. The album's tunes drew from old-time country (Train 45, [PERSON_NAME_FULL_2_FEMALE]), Blues (Spoonful), Bluegrass (Orange Blossom Special), and Jazz (Duke Ellington's C Jam Blues).The record received rave reviews from the music press in publications such as Sing Out!, Bluegrass Unlimited, and the Chicago Reader. Chicago Reader music critic [PERSON_NAME_FULL_0_FEMALE] also drew attention to the CD's humorous liner notes, written by Jazz critic Alexander Gelfand and mandolinist [PERSON_NAME_FULL_1_MALE].\n"
-   ]
+   "albums": []
 }

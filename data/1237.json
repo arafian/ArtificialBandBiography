@@ -76,10 +76,5 @@
       "Apocalypso",
       "If Not Now Then When",
       "The Last Few Beautiful Days"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from Berkeley, California that is best known for the singles [SONG_NAME] reached No. 15 on the French chart.\n",
-      "[MONTH]tha Davis, the lead singer, reformed a [GENRE] band called [SONG_NAME] in [YEAR] and toured under that name with various line-ups of musicians.\n",
-      "In [YEAR], the band was re-christened with a permanent name, [MONTH]tha Davis and [BAND_NAME]. That band is touring the world with a line-up of musicians that have been playing with Davis for over 10 years, longer than the original Motels.\n"
    ]
 }

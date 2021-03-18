@@ -30,10 +30,5 @@
          "Josh \"Gypsy\" McDaniel"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band, formed in [YEAR] in Chilliwack, British Columbia, Canada. They were [SONG_NAME] debuted at No. 60 on the Canadian Hot 100. They re-issued their EP on [MONTH] 31, [YEAR].\n",
-      "In Fall [YEAR], [BAND_NAME] returned to the studio to record their full-length album, entitled Jumpstart, which was released on [MONTH] 1, [YEAR].  One of the singles released was a cover of the Whitney Houston song [SONG_NAME] featuring Mexican actress and singer, Eiza González.\n",
-      "Alex and Alan knew each other from high school, where they wrote songs together. Following a [GENRE] a rapper and Alan continued to hone his producing skills, they recorded a short EP as Goodnight Moon, but it was never released.   Shortly after completing that CD, Alex and Alan formed Goodnight Medic along with Matt Vink, [PERSON_NAME_FULL_1_MALE] and [MONTH]k Sawatzky. Goodnight Medic placed in the top 10 of the [YEAR] Fox Seeds contest, but broke up in [MONTH] [YEAR] via a Facebook announcement, stating [SONG_NAME] McDaniel.\n"
-   ]
+   "albums": []
 }

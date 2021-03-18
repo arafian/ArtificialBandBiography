@@ -37,10 +37,5 @@
       "The Errant Charm",
       "Complete Strangers",
       "Up on High"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band headed by songwriter [PERSON_NAME_FULL_0_MALE].\n",
-      "[BAND_NAME] was formed in San Francisco in [YEAR].  The band released their self-titled debut album in [YEAR] on the small indie folk label DiCristina. Since the album's release, [BAND_NAME] has toured extensively, opening for and collaborating with [PERSON_NAME_FULL_1_FEMALE] and [PERSON_NAME_FULL_2_FEMALE]. [BAND_NAME] released another album, To Find Me Gone, on DiCristina in [YEAR]. [PERSON_NAME_LAST_1] and Cabic also launched their own label, Gnomonsong Recordings, releasing [MONTH]a Hunter's Blank Unstaring Heirs of Doom in [YEAR] and There's No Home in [YEAR]. The label also released in [YEAR] [BAND_NAME]'s Thing of the Past, a collection of cover songs that have influenced Cabic's aesthetic. Sub Pop Records (US) and [PERSON_NAME_FULL_0_FEMALE] (UK) released [BAND_NAME]'s Tight Knit ([YEAR]) The Errant Charm ([YEAR]), and Complete Strangers ([YEAR]).\n",
-      "The band shared the bill with Vashti Bunyan on her US tour in early [YEAR]. Over the years, the band has toured with artists like Fleet Foxes, The Shins, Fruit Bats and Wilco.\n"
    ]
 }

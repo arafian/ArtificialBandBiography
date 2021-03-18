@@ -32,10 +32,5 @@
       "Stand Tall",
       "Dig Down Deep",
       "Grandview, U.S.A."
-   ],
-   "prunedData": [
-      "[BAND_NAME] were an [GENRE] band started by Steve [SONG_NAME].\n",
-      "[BAND_NAME] (originally named [SONG_NAME] in [YEAR] which went on to be the biggest selling indie release to date in California.\n",
-      "In [YEAR], they independently released their first full-length album I Do It For You, with the track [SONG_NAME] around this time. Eventually, they withdrew from the music scene and moved on with their personal lives.\n"
    ]
 }

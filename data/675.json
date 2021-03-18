@@ -27,10 +27,5 @@
    },
    "albums": [
       "Calculated"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band formed in Olympia, Washington in [YEAR]. It was part of the DIY riot grrrl movement in the punk rock underground in the early [YEAR]s, and the first band of Sleater-Kinney vocalist/guitarist Corin Tucker.\n",
-      "The members were fellow Evergreen State College students Tracy Sawyer on drums and occasionally bass guitar, and [PERSON_NAME_FULL_1_MALE] on guitar and vocals. Their first appearance was at the International Pop Underground Convention organized by independent record label K Records in [MONTH] [YEAR]. For one night an all-female bill, dubbed [SONG_NAME], commanded the stage with [BAND_NAME], Bratmobile, [PERSON_NAME_FULL_0_MALE] of Mecca Normal and 7 Year Bitch appearing, an event that is widely considered one of the pivotal events in the inception of the riot grrrl movement.\n",
-      "Their first record was a [GENRE] an essential riot grrrl recording. The band recorded three singles, produced one LP/CD, Calculated, and contributed to many compilations while they were together. These recordings are now sought after by collectors. One of these compilations, Free to Fight, also included a song contributed by the band Excuse 17, of which [PERSON_NAME_FULL_0_FEMALE] was a member. Tucker and [PERSON_NAME_LAST_0] began to play together, and when [BAND_NAME] disbanded in the mid-[YEAR]s, the two women founded Sleater-Kinney. Several of the band's songs were featured in the [YEAR] video game Gone Home, including the song [SONG_NAME], which was used in the game's end credits.\n"
    ]
 }

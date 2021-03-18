@@ -36,10 +36,5 @@
       "World's Only Female Tribute to Iron Maiden",
       "Route 666",
       "The Root of All Evil"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band from Los Angeles, California, formed in [YEAR] as an all-female tribute act to English heavy metal band Iron Maiden. The band currently consists of vocalist [PERSON_NAME_FULL_0_FEMALE], bassist [PERSON_NAME_FULL_3_FEMALE], drummer [PERSON_NAME_FULL_2_FEMALE], guitarist Courtney Cox, and guitarist [PERSON_NAME_FULL_1_FEMALE].\n",
-      "[BAND_NAME] were originally formed in [MONTH] [YEAR] by vocalist Jenny Warren and bassist [PERSON_NAME_FULL_3_FEMALE], formerly of the Iron Maiden tribute band Wrathchild. [PERSON_NAME_FULL_2_FEMALE] (drums) and [PERSON_NAME_FULL_1_FEMALE] (guitar), both formerly of Phantom Blue, and Sara [MONTH]sh (guitar), joined Warren and [PERSON_NAME_LAST_3] shortly afterward to form the band's first lineup. [PERSON_NAME_LAST_3] left the band in [YEAR] to pursue other interests and was replaced by [PERSON_NAME_FULL_0_FEMALE].\n",
-      "In [YEAR], the band started work on their debut album. The project was delayed when Warren gave notice of her departure from the band to focus more on her personal and child's needs. After Warren's departure, new vocalist [PERSON_NAME_FULL_0_FEMALE] made her debut in the band and helped complete the album (World's Only Female Tribute to Iron Maiden), which was released in [MONTH] [YEAR].\n"
    ]
 }

@@ -2,8 +2,7 @@
    "Name": "98 Mute",
    "rawData": [
       "98 Mute was an American hardcore punk band from Hermosa Beach, California, United States. They were formed in 1993, and signed to Theologian Records in 1995. Their first, self-titled album was released in 1996, and the band was featured on several skate videos and compilations of Californian punk. The group had toured with bands like The Offspring, Blink-182 and Pennywise. A second album on Theologian followed in 1998 before the group was picked up by Epitaph Records. They released two albums on Epitaph before breaking up in September 2002, shortly after the release of their fourth full-length, After the Fall.\n",
-      "98 Mute reunited in 2016.\n",
-      "This article on a United States punk rock band is a stub. You can help Wikipedia by expanding it."
+      "98 Mute reunited in 2016.\n"
    ],
    "infobox": {
       "Origin": [
@@ -25,10 +24,5 @@
       "Class of 98",
       "Slow Motion Riot",
       "After the Fall"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Hermosa Beach, California, United States. They were formed in [YEAR], and signed to Theologian Records in [YEAR]. Their first, self-titled album was released in [YEAR], and the band was featured on several skate videos and compilations of Californian punk. The group had toured with bands like The Offspring, Blink-182 and Pennywise. A second album on Theologian followed in [YEAR] before the group was picked up by Epitaph Records. They released two albums on Epitaph before breaking up in [MONTH] [YEAR], shortly after the release of their fourth full-length, After the Fall.\n",
-      "[BAND_NAME] reunited in [YEAR].\n",
-      "This article on a [GENRE] band is a stub. You can help Wikipedia by expanding it."
    ]
 }

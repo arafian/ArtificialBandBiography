@@ -25,10 +25,5 @@
          "Ringo Sheena"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[SONG_NAME], is a [GENRE] band Tokyo Jihen, led by musician Ringo Sheena. It was a promotional song for the band's final original release, the extended play Color Bars, released on [MONTH] 18, [YEAR].\n",
-      "In [YEAR], the band performed their Discovery tour for their fifth album [PERSON_NAME_FULL_2_FEMALE]. The extended play Color Bars was first announced on [MONTH] 15, [YEAR], as a [GENRE] a different member of the band. [SONG_NAME].\n",
-      "The song features lyrics and music by Sheena. The other Color Bars songs were songs that had existed before the release that were suggested but did not appear on other releases. [SONG_NAME] was the final song, which Sheena struggled over on the best way to express. She wrote the lyrics in the image of Tokyo, and wrote the melody in the most natural way she composes songs, without deviating.\n"
-   ]
+   "albums": []
 }

@@ -37,10 +37,5 @@
    },
    "albums": [
       "It's a Girl!"
-   ],
-   "prunedData": [
-      "[BAND_NAME] (originally known as [BAND_NAME] Jesus) was a [GENRE] band that originated from Berkeley, California, and was part of the 924 Gilman Street scene.  They were signed to [PERSON_NAME_FULL_0_FEMALE].\n",
-      "Formed in [YEAR] by singer Dallas Denery and singer/guitarist [PERSON_NAME_FULL_1_MALE] with Crispy Jim (later of The Saddlebacks) on bass and Dr. Frank (the frontman of The Mr. T Experience) on drums. Frank and Crispy Jim did not appear on any [BAND_NAME] recordings, having been already replaced by Sergie Loobkoff (Samiam, Knapsack) and [PERSON_NAME_FULL_3_MALE] (Jüke, [PERSON_NAME_FULL_0_FEMALE]), respectively. [PERSON_NAME_FIRST_2] Elliott aka [PERSON_NAME_FULL_2_MALE] also played drums for them on their [YEAR] US tour. They had two songs on the Maximum Rock and Roll compilation Turn it Around ([YEAR]), [SONG_NAME] containing unreleased studio and live tracks in [YEAR].\n",
-      "In [MONTH] [YEAR], their song, [SONG_NAME] was featured on Bravo in an [GENRE]"
    ]
 }

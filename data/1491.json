@@ -22,10 +22,5 @@
          "Rich Tea"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band formed in [YEAR] by saxophonist Lora Logic after leaving X-Ray Spex. The band initially consisted of Lora on vocals, [PERSON_NAME_FULL_0_MALE] on guitar and vocals, William Bennett (later of Whitehouse) on guitar, [MONTH]k Turner on bass guitar, [PERSON_NAME_FULL_2_MALE] ([PERSON_NAME_FIRST_2]ard Thompson) on drums and [PERSON_NAME_FULL_1_MALE] on saxophone. Turner was later replaced by Jon Oliver on bass. The band split in [YEAR] and reformed in [YEAR].\n",
-      "They formed in [YEAR] with Logic fresh out of art school. Their first 7[SONG_NAME]s before the band split in [YEAR].\n",
-      "In [YEAR]–[YEAR] Logic also performed as a [GENRE]"
-   ]
+   "albums": []
 }

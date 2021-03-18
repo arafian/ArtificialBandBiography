@@ -37,10 +37,5 @@
          "Andy Bailey"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Campbell, California, United States, formed in [YEAR], when guitarist [PERSON_NAME_FULL_1_MALE] and singer [PERSON_NAME_FULL_3_MALE] met and left their previous bands. Bassist Hrag Chanchanian and drummer [PERSON_NAME_FULL_0_MALE] completed the line-up under the band's original name, Downside. The band released an EP entitled [SONG_NAME] and an album called Sleep in [YEAR]. Garnering major label attention early on, Downside signed a development deal with Capitol Records, during which time they replaced drummer [PERSON_NAME_FULL_0_MALE] with [PERSON_NAME_FULL_2_MALE] and recorded a collection of songs called, The Industry Is Outnumbered... Their Factories Are Burning Down, much of which would become their major label debut, under the name [BAND_NAME], on Wind-Up Records in [YEAR]. The band toured the United States and Canada extensively, supporting Team Sleep, Sonny (Skrillex), Chevelle, Helmet, Dredg, Smile Empty Soul, Trapt, Alien Ant Farm, S.T.U.N., Codeseven, FingerEleven, Steriogram, Sick Puppies and more.\n",
-      "[BAND_NAME] filmed a music video for the single [SONG_NAME] in Northern Sweden. [BAND_NAME] toured in support of SPTEOTW until [MONTH] [YEAR], when [PERSON_NAME_LAST_0] abruptly quit the band, giving no explanation as to why.\n",
-      "In [YEAR], [BAND_NAME] returned to the stage with a [GENRE] a couple of times, then seemingly went back into hiding. Posting an occasional clip or photo from their rehearsal studio, but never releasing new music. In [YEAR], Victorino's cousin, pianist/keyboardist [PERSON_NAME_FULL_0_MALE] joined the band on stage in San Jose and is now officially listed on the band's social media accounts as a full fledged member. [BAND_NAME] released a downtempo, slightly electronic sounding single entitled [SONG_NAME] In the summer of [YEAR], drummer [PERSON_NAME_FULL_1_MALE] completed the line-up and the band began recording their next album.\n"
-   ]
+   "albums": []
 }

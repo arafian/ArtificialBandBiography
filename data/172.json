@@ -46,10 +46,5 @@
          " Billy Bouchard (bass)"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (pronounced [SONG_NAME]) is an [GENRE] band from Berkeley, California, active since [YEAR].\n",
-      "[BAND_NAME] was formed in late [YEAR] after the breakup of the Gilman club mainstay Isocracy. Their first show was in [MONTH] [YEAR] with Christ on Parade. They released records through New Red Archives and Hopeless Records in the US and Burning Heart Records in Europe. In the mid-'90s, the band had two releases on major labels, Atlantic Records in [YEAR] and Ignition/Tommy Boy in [YEAR]. This path achieved modest mainstream success; a video for [SONG_NAME] garnered considerable radio play in [YEAR].\n",
-      "Over the years, [BAND_NAME] has toured extensively throughout Europe, North America and Japan, and performed with bands like Bad Religion, Green Day, The Offspring, NOFX, No Doubt, Toadies, Sense Field, Blink-182, Deftones, 311, Millencolin, and Fishbone.\n"
-   ]
+   "albums": []
 }

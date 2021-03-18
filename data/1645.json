@@ -39,10 +39,5 @@
          "Xavi Casas"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a Spanish (Catalan) band formed in Barcelona in [YEAR]. Their members are musicians from the Catalan counties of Ripollès, Osona and Garrotxa. Nowadays, the band is composed of Alguer Miquel (voice), [MONTH]cel Lázara, a.k.a. Tito (voice, guitar), [PERSON_NAME_FULL_3_MALE], a.k.a. Hipi (keyboard), Joaquim Canals (drums), Àlex Pujols (bass guitar), [PERSON_NAME_FULL_1_MALE] (percussion), [PERSON_NAME_FULL_2_MALE] (saxophone) and [PERSON_NAME_FULL_0_MALE] (trumpet). They propose a musical fusion, taking Reggae as the mainstay, influenced by Dubstep, Latin music or Pop, and mixing Jamaican music, Rock and Latin sonorities. The band introduces itself in an imaginary connected to the circus clowns.\n",
-      "[BAND_NAME]'s seed was planted in [YEAR]. It started in the Gothic Quarter, Barcelona, in the student flat of the singer Alguer Miquel, the guitarist [MONTH]cel Lázara a.k.a. Tito and the keyboardist [PERSON_NAME_FULL_0_MALE] a.k.a. Hipi. Near Plaça George Orwell, also known colloquially as Tripi square, they started giving impromptu concerts on the streets with musicians from all around the world. It was there where different experiences and sounds were shared. [MONTH]cel [SONG_NAME].\n",
-      "The band started in [YEAR], playing all around Catalonia. Together with [PERSON_NAME_FULL_1_MALE], Gambeat, Radio Bemba and [PERSON_NAME_FULL_0_MALE], they took part in La Pegatina's debut album, Al Carrer (Self-publishing, [YEAR]), featuring in La Pegatina's first single Penjat. They ended that year on 2 [MONTH] in Sala KGB Barcelona, with a [GENRE] a sold-out concert.\n"
-   ]
+   "albums": []
 }

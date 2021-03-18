@@ -30,10 +30,5 @@
       "So Close to Life",
       "Colors in Stereo",
       "We Come From Exploding Stars"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band from Borås, Sweden, formed in [YEAR]. The group consists of [PERSON_NAME_FULL_1_MALE] (keyboards/guitar), Oscar Gulbrandsen (guitar), [PERSON_NAME_FULL_0_MALE] (drums/guitar/piano), and [MONTH]kus Rundlöf (bass).\n",
-      "In [YEAR] the band released their debut EP A Footprint of Feelings through the independent record label Deep Elm Records. The following year they released a full-length album, So Close to Life, and in [YEAR] they embarked on a small European tour that included stops in Germany, Austria, the United Kingdom, and Finland. The band released a second album in [YEAR], Colors in Stereo, also through Deep Elm Records.\n",
-      "On [MONTH] 8, [YEAR], Adam Törnblad who was one of the founding members died at the age of 27.\n"
    ]
 }

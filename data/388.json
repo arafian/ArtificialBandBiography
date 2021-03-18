@@ -38,10 +38,5 @@
       "Jackson",
       "Toast",
       "Over and Out"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band, formed in [YEAR] in Chicago, Illinois. Throughout their career they released four studio albums, two extended plays, and a number of singles before breaking up in [YEAR]. They were known for their dry sense of humor.\n",
-      "The precursor to [BAND_NAME] was a hardcore punk outfit called Blatant Dissent, which formed in DeKalb, Illinois where singer/guitarist John Mohr and drummer [PERSON_NAME_FULL_0_MALE] were attending Northern Illinois University.  Joining Mohr and [PERSON_NAME_LAST_0] in [BAND_NAME] were original bassist [PERSON_NAME_FULL_2_MALE] (only until [YEAR] and who also played for Snailboy), bassist Tom Zaluckyj and guitarist [MONTH]k Zablocki. Zaluckyj and Mohr played unique instruments, crafted of aluminum, designed by [PERSON_NAME_FULL_1_MALE] of Specimen Products.\n",
-      "The band released albums on the Amphetamine Reptile and Touch and Go Records labels before disbanding in [YEAR]. During its career, the band released a [GENRE] band toured nationally and internationally with bands such as Jawbox, Arcwelder, and the Jesus Lizard. In [YEAR] the band made the decision to call it quits after releasing one final album. Over and Out was written and recorded over a period of a year and a half, produced by the band and engineered by [PERSON_NAME_FULL_0_MALE] and Bob Weston, and released in [YEAR].\n"
    ]
 }

@@ -32,10 +32,5 @@
       "Please Wait To Be Seated",
       "Bloodline",
       "Almost Home"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band, formed in Traverse City, Michigan in [YEAR] by Sav Buist and [PERSON_NAME_FULL_0_FEMALE]. The group features an eclectic blend of indie folk, pop, bluegrass, rock, classical, and other genres. They have released three full-length albums, one EP, and two live albums.\n",
-      "Larson and Buist met as young musicians in [YEAR] at their public high school in Traverse City, Michigan. Larson, then 15, was a [GENRE] a sophomore who played violin, and they teamed up for a class orchestra project. In [YEAR], they auditioned for and won a spot in the first-ever singer-songwriter major at the renowned Interlochen Center for the Arts high school, where they formally created [BAND_NAME].\n",
-      "In an [GENRE] band:\n"
    ]
 }

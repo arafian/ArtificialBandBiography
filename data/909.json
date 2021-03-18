@@ -43,10 +43,5 @@
       "American Graffiti",
       "Italian Ghosts",
       "Tasmanian Glow"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Salinas, California, formed in [YEAR]. The band is currently composed of guitarist Zac Garren, drummer Ben Rosett, and bassist [PERSON_NAME_FULL_0_MALE]. All three members are multi-instrumentalists and record producers.\n",
-      "[BAND_NAME] formed shortly after guitarist Zachary Garren departed from post-hardcore band Dance [PERSON_NAME_FIRST_0] Dance in [MONTH] [YEAR]. Garren then became acquainted with drummer [PERSON_NAME_FULL_1_MALE] (formerly of The Trees) and subsequently began writing and recording music as [BAND_NAME]. Soon after their first show as a duo, bassist [PERSON_NAME_FULL_3_MALE] (also from The Trees) was added to complete the lineup. Garren spoke about the meaning behind the name [BAND_NAME] in an interview with their label Tragic Hero Records. The name originally derives from a verse in the [YEAR] song [SONG_NAME] on [MONTH] 2, [YEAR]. The band recorded their debut studio album, French Ghetto, at Spirit Vision Studios in Carmel, California and was later released on [MONTH] 20, [YEAR] to Bandcamp. The album was later re-released through Tragic Hero Records on [MONTH] 20, [YEAR]. French Ghetto features guest appearances from [PERSON_NAME_FULL_6_MALE] of A Lot Like Birds (formerly of Dance [PERSON_NAME_FIRST_0] Dance), Shane Smit of Overtone, [PERSON_NAME_FULL_2_MALE] of Gatsby's American Dream, [PERSON_NAME_FULL_0_MALE], and [PERSON_NAME_FULL_4_FEMALE]. Garren spoke about the guest vocalists and musicians on French Ghetto, stating:\n",
-      "[SONG_NAME]"
    ]
 }

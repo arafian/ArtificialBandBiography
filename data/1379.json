@@ -54,10 +54,5 @@
       "...And You?",
       "D.F.F.D.",
       "Everyday is Saturday"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band formed in New York City in [YEAR]. Critic John Dougan said that they were [SONG_NAME]\n",
-      "The band was formed in [YEAR] by [PERSON_NAME_FIRST_0] [SONG_NAME] \n",
-      "Frustrated by the lack of sales, the band broke up for a few months in late [YEAR], but reconvened in early [YEAR], with bassist [MONTH]k [SONG_NAME] Mendoza replacing Shernoff and Ritchie Teeter replacing King. After a few months Shernoff was persuaded to return to the group as the group's keyboardist. This line-up soon secured a contract with Asylum Records (at least partly due to the notoriety the group had developed following a well-publicized brawl between Manitoba and Wayne County) and released their second album, Manifest Destiny, in [YEAR]. The album was produced by Pearlman and Krugman with songs written by Shernoff.\n"
    ]
 }

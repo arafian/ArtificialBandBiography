@@ -22,10 +22,5 @@
          "Meaningful Records"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band, based in New York City, that reached its zenith in the early [YEAR]s.  The band was made up of the three Miller brothers Dan, C.B. [SONG_NAME] and Mike, plus and their childhood friend, Blake Sloan. The band opened for The Clash, as well as [PERSON_NAME_FULL_0_MALE] and Chaka Khan, playing prominent venues such as The Ritz and CBGB's.\n",
-      "The band was the subject of the documentary film, [BAND_NAME]: We Don't Wanna Make You Dance, by director Lucy Kostelanetz. The movie inspired a [GENRE] band which links to their many music videos and other band information.\n",
-      "Miller, Miller, Miller & Sloan appear (as Miller, Miller, Miller & Sloane) in the Jonathan Lethem novel, [SONG_NAME].\n"
-   ]
+   "albums": []
 }

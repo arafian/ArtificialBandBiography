@@ -53,10 +53,5 @@
       "Hillside Album Hour 2016: Birdsongs ",
       "Hillside Album Hour 2017: With A Lotta Help From Our Friends (2018)",
       "Hillside Album Hour 2018: Full On The Hill"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are an [GENRE] band based in the San Francisco Bay area of California. Their style has been alternately described as Americana, Progressive bluegrass, rock-n-roll, folk, and acoustic mayhem.  They described themselves as a [SONG_NAME] in an interview with NPR.\n",
-      "The group's most notable performances to date have included sets at large festivals such as MerleFest in Wilkesboro, North Carolina, the Riverbend Festival in Chattanooga, Tennessee,  and Hardly Strictly Bluegrass Festival in San Francisco's Golden Gate Park. They have also headlined the Great American Music Hall and Yoshi's in their home city of San Francisco. They have a tradition of covering entire classic rock albums such as Led Zeppelin's II, the Rolling Stones' Sticky Fingers, and the Beatles' [PERSON_NAME_FULL_1_FEMALE] at the Hillside Album Hour at Merlefest. They have performed with a wide array of artists, including Bob Weir, Emmylou Harris, Elvis Costello, [PERSON_NAME_FULL_4_FEMALE], [PERSON_NAME_FULL_3_FEMALE], Sam Bush, [PERSON_NAME_FULL_2_MALE], Gillian Welch, and [PERSON_NAME_FULL_0_MALE].\n",
-      "The band's second album, Burger After Church, was described by David Royko of the Chicago Tribune as the [SONG_NAME] produced by [PERSON_NAME_FULL_1_MALE].  Their [YEAR] Compass release Loaded, produced by Byron House, made it to number 4 on Billboard's Top Bluegrass Albums list, and featured a guest appearance by [PERSON_NAME_FULL_0_MALE] on mandolin.\n"
    ]
 }

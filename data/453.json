@@ -32,10 +32,5 @@
       "Jonah33",
       "The Strangest Day",
       "The Heart of War"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from Arkansas, US. They released three full-length albums before disbanding in late [YEAR].\n",
-      "[BAND_NAME] was founded by [PERSON_NAME_FULL_0_MALE], who grew up in Seattle, Washington. After moving to Arkansas and starting up a [GENRE] a musical ensemble which attracted the interest of Ardent Records. Ardent released the band's first, self-titled album in [YEAR]. A second album, The Strangest Day, followed in [YEAR], which peaked at No. 49 on Billboard's Top Christian Albums chart in [YEAR]. Switching to independent Ares Records, their third LP, The Heart of War, was released in [MONTH] [YEAR].\n",
-      "[BAND_NAME] disbanded in late [YEAR]. Lichlyter posted a blog on [BAND_NAME]'s Myspace saying that the band felt like it was time to disband. He said that [SONG_NAME].\n"
    ]
 }

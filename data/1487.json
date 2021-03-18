@@ -34,10 +34,5 @@
    },
    "albums": [
       "Time Will Be Kind"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band of the early [YEAR]s, known for their songs [SONG_NAME].  Their sound was influenced by artists such as the Cure, Gang of Four, Bauhaus and Siouxsie and the Banshees.\n",
-      "[BAND_NAME] was formed in [YEAR] by a 17-year-old singer and bass guitarist, [PERSON_NAME_FULL_1_FEMALE], along with the guitarist and keyboard player Evelyn [MONTH]quis and the drummer Dawn Fisher. This line-up performed only once, and the guitarist [PERSON_NAME_FULL_0_FEMALE] (who had previously played with the all-girl punk band [PERSON_NAME_FULL_2_FEMALE]) was added in late [YEAR].\n",
-      "By early [YEAR], [BAND_NAME] had replaced [MONTH]quis with the guitarist David Thomas (who had previously played in St. Louis punk bands, The Singapores and Cool Jerk). By that summer, the band had become a [GENRE]"
    ]
 }

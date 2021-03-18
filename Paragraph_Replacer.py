@@ -9,7 +9,7 @@ from nltk.corpus import wordnet
 import gender_guesser.detector as gender
 import calendar
 import names
-from random_word import RandomWords
+from wonderwords import RandomWord
 
 with open('titles', 'rb') as inf:
     titles = pickle.load(inf)
@@ -30,28 +30,28 @@ for title in titles:
             adjectives.append(word.capitalize())
 
 def random_song_name():
-    r = RandomWords()
+    r = RandomWord()
     i = random.randint(0, 9)
     if i == 0:
-        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="verb") + " the " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+        return (r.word(include_parts_of_speech=["verbs"]) + " the " + r.word(include_parts_of_speech=["adjectives"]) + " " + r.word(include_parts_of_speech=["nouns"])).title()
     if i == 1:
-        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+        return (r.word(include_parts_of_speech=["adjectives"]) + " " + r.word(include_parts_of_speech=["nouns"])).title()
     if i == 2:
-        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective")).title()
+        return (r.word(include_parts_of_speech=["adjectives"]) + " " + r.word(include_parts_of_speech=["adjectives"])).title()
     if i == 3:
-        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+        return (r.word(include_parts_of_speech=["adjectives"]) + " " + r.word(include_parts_of_speech=["adjectives"]) + " " + r.word(include_parts_of_speech=["nouns"])).title()
     if i == 4:
-        return ("The " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="adjective") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+        return ("The " + r.word(include_parts_of_speech=["adjectives"]) + " " + r.word(include_parts_of_speech=["nouns"])).title()
     if i == 5:
-        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun") + " " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+        return (r.word(include_parts_of_speech=["nouns"]) + " " + r.word(include_parts_of_speech=["nouns"])).title()
     if i == 6:
-        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun") + " and " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+        return (r.word(include_parts_of_speech=["nouns"]) + " and " + r.word(include_parts_of_speech=["nouns"])).title()
     if i == 7:
-        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun") + " or " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun")).title()
+        return (r.word(include_parts_of_speech=["nouns"]) + " or " + r.word(include_parts_of_speech=["nouns"])).title()
     if i == 8:
-        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="verb") + " " + random.choice(["me", "you", "her", "him"]))
+        return (r.word(include_parts_of_speech=["verbs"]) + " " + random.choice(["me", "you", "her", "him"])).title()
     if i == 9:
-        return (r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="verb") + "ing in the " + r.get_random_word(hasDictionaryDef="true", includePartOfSpeech="noun"))
+        return (r.word(include_parts_of_speech=["verbs"]) + "ing in the " + r.word(include_parts_of_speech=["nouns"])).title()
 
 
 def replace_band_name(texts):
@@ -116,10 +116,10 @@ def replace_person_names(texts):
         full_name_replacements = {}
         for k,v in full_name_genders.items():
             full_name_replacements[k] = names.get_full_name(gender=v)
-            
+
         # replace full names
         for k,v in full_name_replacements.items():
-            text = re.sub(k, v, text) 
+            text = re.sub(k, v, text)
 
         # replace last names
         for k in re.findall('PERSON_NAME_LAST_.', text):
@@ -129,12 +129,12 @@ def replace_person_names(texts):
                 person_num = k[-1]
                 if person_num in name_key:
                     last_name = full_name_replacements[name_key].split()[1]
-                    
+
             if last_name:
                 text = re.sub(k, last_name, text)
             else:
                 text = re.sub(k, random.choice(['Ngo', 'Movva', 'Rafian', 'Jain']), text) # easter egg
-                
+
         # replace first names
         for k in re.findall('PERSON_NAME_FIRST_.', text):
             # get corresponding first name from full names by person number
@@ -143,12 +143,12 @@ def replace_person_names(texts):
                 person_num = k[-1]
                 if person_num in name_key:
                     first_name = full_name_replacements[name_key].split()[0]
-                    
+
             if first_name:
                 text = re.sub(k, first_name, text)
             else:
                 text = re.sub(k, random.choice(['James', 'Mani', 'Arman', 'Ishaan']), text) # easter egg
-            
+
         return_texts.append(text)
 
     return return_texts
@@ -175,43 +175,31 @@ def replace_genre(texts):
 def replace_songs(texts):
     return_texts = []
     for text in texts:
-        text = re.sub('\[SONG_NAME\]',  "\"" + random_song_name() + "\"", text)
-        return_texts.append(text)
+        try:
+            text = re.sub('\[SONG_NAME\]',  "\"" + random_song_name() + "\"", text)
+            return_texts.append(text)
+        except:
+           return_texts.append(text)
     return return_texts
 
 def replace_albums(texts):
     return_texts = []
     for text in texts:
-        text = re.sub('\[ALBUM_NAME\]', random_song_name(), text)
-        return_texts.append(text)
+        try:
+            text = re.sub('\[ALBUM_NAME\]', random_song_name(), text)
+            return_texts.append(text)
+        except:
+            return_texts.append(text)
     return return_texts
 
-with open('data/consolidatedData.json', 'r', encoding='utf-8') as inf:
-    paras = json.load(inf)
-
-para = paras['allPrunedParaComplete'][3]
-print(para)
-print("")
-new_name, para = replace_band_name(para)
-para = replace_years(para)
-para = replace_months(para)
-para = replace_genre(para)
-para = replace_albums(para)
-#para = replace_songs(para)
-para_new = []
-for p in para:
-    para_new.append(re.sub('\[|\]', '', p)) # need to get rid of brackets to be able to replace names using re.sub
-para = para_new
-para = replace_person_names(para)
-print(para)
-
 def replace(texts):
+    texts = replace_albums(texts)
+    texts = replace_songs(texts)
     new_name, texts = replace_band_name(texts)
     texts = replace_years(texts)
     texts = replace_months(texts)
     texts = replace_genre(texts)
-    #texts = replace_albums(texts)
-    #texts = replace_songs(texts)
+
     texts_new = []
     for t in texts:
         texts_new.append(re.sub('\[|\]', '', t)) # need to get rid of brackets to be able to replace names using re.sub

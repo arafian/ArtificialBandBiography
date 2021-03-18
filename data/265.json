@@ -43,10 +43,5 @@
          "Rickie Simpkins"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band that formed in [YEAR] in Bethesda, [MONTH]yland.\n",
-      "[BAND_NAME] was established in [YEAR], and they would practice in Ben Eldridge's basement. These practice sessions included [PERSON_NAME_FIRST_1] Starling on guitar and lead vocals, [PERSON_NAME_FULL_0_MALE] on Dobro and baritone vocals, and former Country Gentlemen member Tom Gray on bass. The mandolinist [PERSON_NAME_FULL_1_MALE], who had also performed with the Country Gentlemen, was invited to jam sessions at the time when [PERSON_NAME_FULL_0_MALE] arranged for the group to play as a [GENRE] band. \nAnother member of the Country Gentlemen, Charlie Waller, is responsible for the band's name. Expressing his doubt that this new band could succeed, Waller reportedly asked [PERSON_NAME_LAST_1], “What are you going to call yourselves, the seldom seen?” The band had weekly performances at clubs and performed regularly at the Red Fox Inn, a music club in Bethesda [MONTH]yland. The band switched over to the Birchmere music hall in Alexandria, Virginia which resulted in a residency.\n",
-      "Each of the band members had a [GENRE] a mathematician, Starling a physician, Auldridge a graphic artist, and Gray a cartographer with National Geographic. They agreed to play one night a week at local clubs, perform occasionally at concerts and festivals on weekends, and make records. After playing for six weeks at a small Washington, D.C., club called the Rabbit's Foot, the group found a home at the Red Fox Inn in Bethesda, [MONTH]yland. They performed at that venue Friday nights from [MONTH] [YEAR] through [MONTH] [YEAR] before starting weekly performances at The Birchmere Music Hall in Alexandria, Virginia.\n"
-   ]
+   "albums": []
 }

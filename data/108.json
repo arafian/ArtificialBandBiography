@@ -43,10 +43,5 @@
          "Mona Gnader"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is a [GENRE] band, known for its [YEAR] hit [SONG_NAME] \n",
-      "Tommy Heath and Jim Keller founded the band in [YEAR], with Heath acting as the lead vocalist and rhythm guitarist, also playing keyboards on occasion; Keller playing lead guitar and supporting vocals.  Heath and Keller were the only constant members of [BAND_NAME] during the band's heyday, and the lineup featured a rotating membership of bassists and drummers. Bassist Jon Lyons (original name Jonathan Lyons Terlep), who performed on [SONG_NAME] From [YEAR]-[YEAR], the band has consisted of Heath, James, [PERSON_NAME_FIRST_2] [PERSON_NAME_LAST_6] (guitar), [PERSON_NAME_FULL_3_MALE] (drums). Tommy Heath became a computer analyst and software engineer and moved to Portland, Oregon. In [YEAR], the band signed a recording contract with Spectra Records. \n",
-      "In [YEAR] with the addition of [PERSON_NAME_FULL_1_MALE] (Steppenwolf, Lita Ford) on guitar, [PERSON_NAME_FULL_0_MALE] switched to drums and the band released the single [SONG_NAME].\n"
-   ]
+   "albums": []
 }

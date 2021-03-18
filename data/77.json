@@ -31,10 +31,5 @@
    "albums": [
       "Hickey",
       "Various States of Disrepair: Complete Works 1994–1996"
-   ],
-   "prunedData": [
-      "[BAND_NAME] (also known as [SONG_NAME]) was an [GENRE] band from San Francisco's Mission District, California, United States.  The band often recorded, released and distributed their own music. Elaborate and very personal artwork was the style used for the band's records, and they were well known for their raucous and sometimes antagonizing live performances.\n",
-      "[BAND_NAME] was started in [YEAR] by guitarist/singer [PERSON_NAME_FULL_0_FEMALE] and drummer Aesop Dekker following the demise of their previous band, FuckBoyz, who had moved from south Florida to San Francisco's Mission District earlier in the year.  The trio was rounded out by bassist Chubby, formerly of Schleprok.\n",
-      "[BAND_NAME] recorded their first 7[SONG_NAME] records with bands such as All You Can Eat, Fuckface and V.B.F.\n"
    ]
 }

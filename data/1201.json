@@ -46,10 +46,5 @@
    "albums": [
       "Health/Elphaba",
       "Crystal Castles//Health"
-   ],
-   "prunedData": [
-      "[BAND_NAME] (often stylized as HEALTH) is an [GENRE] band from Los Angeles, California.\n",
-      "[BAND_NAME] was created after its members agreed the name should be an [SONG_NAME] was the only one not taken.\n",
-      "[BAND_NAME] first gained reputation through a remix of their song [SONG_NAME]\n"
    ]
 }

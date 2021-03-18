@@ -2,8 +2,7 @@
    "Name": "Barricada",
    "rawData": [
       "Barricada (from Spanish: Barricade) were a Navarrese hard rock band created in 1982 in the Txantrea neighbourhood of Pamplona/Iruñea.\n",
-      "The band members were Enrique Villareal (El Drogas) as bassist and vocalist, Javier Hernandez (Boni) guitarist and vocalist, Alfredo Piedrafita as guitarist and Ibon Sagarra (Ibi) on drums. Together they have written over 100 songs and sold over a million discs.\n",
-      "This article about a Spanish band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
+      "The band members were Enrique Villareal (El Drogas) as bassist and vocalist, Javier Hernandez (Boni) guitarist and vocalist, Alfredo Piedrafita as guitarist and Ibon Sagarra (Ibi) on drums. Together they have written over 100 songs and sold over a million discs.\n"
    ],
    "infobox": {
       "Origin": [
@@ -33,10 +32,5 @@
          "Ibon Sagarra, Ibi"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] (from Spanish: Barricade) were a [GENRE] band created in [YEAR] in the Txantrea neighbourhood of Pamplona/Iruñea.\n",
-      "The band members were [PERSON_NAME_FULL_0_MALE] (El Drogas) as bassist and vocalist, [PERSON_NAME_FULL_1_MALE] (Boni) guitarist and vocalist, [PERSON_NAME_FULL_2_MALE] as guitarist and [PERSON_NAME_FULL_3_MALE] (Ibi) on drums. Together they have written over 100 songs and sold over a [GENRE]",
-      "This article about a [GENRE] band or other musical ensemble is a stub. You can help Wikipedia by expanding it."
-   ]
+   "albums": []
 }

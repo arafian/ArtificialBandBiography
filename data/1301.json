@@ -44,10 +44,5 @@
       "Man of Straw",
       "Metallic Overdrive",
       "No Child Left Behind"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band in Los Angeles, California, which had existed for four years, between [YEAR] and [YEAR]. However, they reformed in [YEAR]. To date, [BAND_NAME] has released three studio albums, Do or Die ([YEAR]), Man of Straw ([YEAR]) and No Child Left Behind ([YEAR]).\n",
-      "[BAND_NAME] was formed in Los Angeles in the spring of [YEAR] and held the same personnel until they broke up in [YEAR]. The band signed a [GENRE] bands like Dark Angel, Megadeth, Forbidden, and Sacred Reich as well as headlining many other shows.\n",
-      "In [YEAR], they released their debut album called Do or Die. Although the brutality of the songs was appreciated by thrash metal fans, the frenetic tempos and bad production were not well received by the critics.\n"
    ]
 }

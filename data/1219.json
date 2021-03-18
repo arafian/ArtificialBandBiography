@@ -35,10 +35,5 @@
       "Lady Danville EP",
       "Lady Danville Tour EP",
       "Operating EP"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band that officially formed in [YEAR] and disbanded in [YEAR].\n",
-      "Michael Garner (keys, vocals), Matt Frankel (percussion, vocals) and [PERSON_NAME_FULL_0_MALE] (guitar, vocals) met at UCLA in [YEAR] while singing together in the premiere collegiate music group Awaken A Cappella.\n",
-      "In [YEAR], under the name of Mikey G and Dan from Danville, Michael and Dan took part as a duo in UCLA's Spring Sing talent competition, the school's oldest music tradition, where they won with their song “Cast Away” for Best Duet and Best Overall Entry. Past winners have included [PERSON_NAME_FULL_1_FEMALE] and Tyrone Wells.  In the beginning of [YEAR], the duo sought out [PERSON_NAME_FULL_0_MALE], ultimately leading to the inception of [BAND_NAME]. \n"
    ]
 }

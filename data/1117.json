@@ -72,10 +72,5 @@
          "Robert Cardenas"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Los Angeles, California, United States, formed in [YEAR] by vocalist John Cyriis with drummer [PERSON_NAME_FULL_0_MALE]. The band released two full-length albums, and one EP before disbanding in [YEAR]. They were most notable for Cyriis' high-pitched vocals, catchy songs, melodic riffs, and fast tempos mixed in with interest in UFOs. [BAND_NAME] reformed in [YEAR] (without Cyriis, although he would return to the band in [YEAR], only to leave again in [YEAR]) and released three more full-length albums before going on hiatus in [YEAR]. The band reformed again in [YEAR], this time with Cyriis returning as the vocalist and without the previous members, and they will release their first studio album in 14 year (and their first in 34 years to feature original vocalist and founder), No Other Godz Before Me, in [YEAR].\n",
-      "\n",
-      "[BAND_NAME] was formed by John Cyriis shortly after his firing from Megadeth in [YEAR], as guitarist and now lead vocalist [PERSON_NAME_FULL_0_MALE] was against the idea of playing the “Aliens Card.” In all actuality, however, [BAND_NAME] does not exclusively touch upon subjective matter relating to the possibility of life existing on other galaxies — but instead the philosophical format of the band was presented in a [GENRE] a polemic.\n"
-   ]
+   "albums": []
 }

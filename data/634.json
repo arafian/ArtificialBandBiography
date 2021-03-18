@@ -33,10 +33,5 @@
          "Cat Scandal"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band from Long Beach, California, United States. They are signed to Hellcat Records and have recorded six releases, with the latest being Love & War ([YEAR]).\n",
-      "The self-described [SONG_NAME] band made a [GENRE]",
-      "In an [GENRE]"
-   ]
+   "albums": []
 }

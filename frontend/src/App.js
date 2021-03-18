@@ -5,12 +5,23 @@ import "./App.css";
 function App() {
    const [resp, setResp] = useState(null);
    const [loading, setLoading] = useState(false);
+   const [gen, setGen] = useState("standard");
    
+   const handleGenSwitch = async () => {
+      if (gen === "standard"){
+         setGen("random")
+      }
+      else {
+         setGen("standard")
+      }
+   }
+
+
    const handleClick = async () => {
       setResp(null);
       setLoading(true);
       try {
-         const response = await fetch(`http://127.0.0.1:5000/`);
+         const response = await fetch(`http://127.0.0.1:5000/?gen=${gen}`);
          const respJSON = await response.json();
          setLoading(false);
          setResp(respJSON);
@@ -39,7 +50,10 @@ function App() {
       <div className="App">
          <h1 className="title">Artificial Band Biography Generator</h1>
          <p className="subtitle">Ishaan, James, Arman, Mani</p>
-         
+         <div className="topcorner" >
+            <Button appearance="secondary" height={40} onClick={handleGenSwitch}>{gen === "standard" ? "Mix N' Match" : "Standard"}</Button>
+         </div>
+
          {loading && (<Spinner className="spinner" />)}
          {resp && (
             <>

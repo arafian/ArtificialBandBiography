@@ -24,10 +24,5 @@
       "Hammerbox",
       "Numb",
       "Live EMP Skychurch, Seattle, WA"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Seattle, Washington, United States. The band formed around [YEAR] and disbanded in [YEAR] when lead singer [PERSON_NAME_FULL_0_FEMALE] left the band to form Goodness.\n",
-      "[BAND_NAME] formed around [YEAR] in Seattle and released their first LP, [BAND_NAME] on independent label C/Z Records.  This album earned them the opportunity to sign to a [GENRE] band's appearance at rock festival Endfest in Bremerton, Washington to support their album, it did not sell well and the band was dropped by the label.  James Atkins left the band in early [YEAR], and the rest of the members followed suit shortly thereafter.  [PERSON_NAME_FULL_0_FEMALE] formed Goodness, while Harris Thurmond went on to form Anodyne (later renamed to [MONTH]fa Lights) with That Petrol Emotion singer Steve Mack.  Thurmond formed Orbiter in [YEAR], and later Kingsley in [YEAR].\n",
-      "Live EMP Skychurch, Seattle, WA, an [GENRE] band's reunion show, was released in [YEAR].\n"
    ]
 }

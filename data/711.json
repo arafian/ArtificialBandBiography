@@ -30,10 +30,5 @@
    "albums": [
       "No Fun",
       "Are You Sure?"
-   ],
-   "prunedData": [
-      "[BAND_NAME] are a band from Chester, UK formed in [YEAR]. Their line-up is Balla (guitar and vocals), Jess (bass and vocals) and Rach (drums). Their sound has been described as [SONG_NAME]\n",
-      "The band met at University and formed in [YEAR]. Their name was chosen as a [GENRE] a joke name when we started off, and it just stuck because we couldn’t think of anything better or worse. For us it’s just funny, but for others it’s not, which makes it even funnier.”\n",
-      "Their first release, in [YEAR], was a [GENRE] a positive review,\nBearded Magazine said, [SONG_NAME] on the Canadian label Kingfisher Bluez.\n"
    ]
 }

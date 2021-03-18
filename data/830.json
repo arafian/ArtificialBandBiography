@@ -47,10 +47,5 @@
       "Warm Girl",
       "The Gordon Street Haunting",
       "The Road South"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from Moncton, New Brunswick. [BAND_NAME] achieved prominence as the first Canadian band to be signed to Seattle's flagship grunge label Sub Pop in the early [YEAR]s. The band had a minor hit in alternative circles with the single [SONG_NAME], from the [YEAR] album Forever Again.\n",
-      "[BAND_NAME] formed in [YEAR] when musicians Rick White and [PERSON_NAME_FULL_1_MALE] joined [MONTH]ie Doiron and Ed Vaughan (who was later replaced by [MONTH]k Gaudet). They took their name from a [GENRE] a unique sound which fused elements of the distorted guitar of Dinosaur Jr., the folk leanings of [PERSON_NAME_FULL_0_MALE], and the lo-fi aesthetic of Sebadoh. White described their sound as [SONG_NAME].\n",
-      "The band released their first album, Love Tara, in [YEAR].\n"
    ]
 }

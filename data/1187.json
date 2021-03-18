@@ -42,10 +42,5 @@
       "Float",
       "Speed of Darkness",
       "Life Is Good"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band formed in Los Angeles in [YEAR]. Led by Irish vocalist Dave King, formerly of the hard rock band Fastway.  They are signed to their own record label, Borstal Beat Records.\n",
-      "Prior to forming [BAND_NAME], Dublin-born Dave King was the lead singer for heavy metal band Fastway featuring guitarist [SONG_NAME] [PERSON_NAME_FULL_1_MALE] of Motörhead and bassist Pete Way of UFO in the early to mid '80s. He later fronted a [GENRE] band called Katmandu ([YEAR]), featuring [PERSON_NAME_FULL_0_FEMALE] of Krokus on guitars. Afterwards, Dave King retained a record deal with Epic Records and began to work on a solo album, but began to reconsider his record deal when the label opposed his idea of bringing in traditional Irish instruments. King negotiated out of his record deal to go his own way musically soon after.\n",
-      "In [YEAR], King met guitarist Ted Hutt, bassist [PERSON_NAME_FULL_0_MALE], drummer Paul Crowder and violin player [PERSON_NAME_FULL_1_FEMALE] and put together a [GENRE] band with a Celtic feel.  They began to play a mix of Irish traditional and [GENRE].  Putting Dave's poetic lyrics to [GENRE]ing melodies, they played at a Los Angeles pub called Molly Malone's weekly, building a small but loyal following. Together, they wrote songs such as [SONG_NAME], which was the beginning of [BAND_NAME]'s sound. Ted and [PERSON_NAME_FIRST_0] then left [BAND_NAME] because an earlier band of theirs, Reacharound, received a record deal.  Dave and [PERSON_NAME_FIRST_1] began to find new members and the current band was formed.\n"
    ]
 }

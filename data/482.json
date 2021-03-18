@@ -46,10 +46,5 @@
       "Remixes y Más",
       "Apasionado Por Tí",
       "Rojo 10 Años"
-   ],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band from Mexico. The band was formed in [YEAR] by bassist [PERSON_NAME_FULL_0_MALE], with their eponymous debut album released in [YEAR].\n",
-      "Since their youth in the early [YEAR]s, [PERSON_NAME_FULL_1_MALE] and [PERSON_NAME_FULL_3_MALE] thought about starting their own band. By the end of the century, they recruited guitarist [PERSON_NAME_FULL_2_MALE] as they started to shape up a band. Finally, joined by [PERSON_NAME_FULL_0_FEMALE], the band [BAND_NAME] was officially formed in [YEAR]. [BAND_NAME] debuted in Los Angeles, California during a Youth Congress led by [PERSON_NAME_FIRST_4] [PERSON_NAME_LAST_4] [PERSON_NAME_LAST_1], brother of [PERSON_NAME_FIRST_1].\n",
-      "In [YEAR], they released their eponymous debut album and started touring through Latin America, United States, Spain, and Japan. During this time, lead singer [PERSON_NAME_FULL_0_FEMALE], decided to start a [GENRE] band. She was replaced with Emmanuel's wife, Linda. After almost two years of touring, the band released their second album, titled 24/7 in [YEAR], which featured songwriting collaborations by Juan Salinas and [PERSON_NAME_FULL_1_MALE]. \n"
    ]
 }

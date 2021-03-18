@@ -33,10 +33,5 @@
          "Larry Knechtel"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was an [GENRE] band from Los Angeles, California. They had 13 songs chart on the Billboard Hot 100 between [YEAR] and [YEAR].\n",
-      "The band was fronted by David Gates (vocals, bass guitar, guitar, keyboards, violin, viola, percussion), with [PERSON_NAME_FULL_0_MALE] (vocals, guitar, keyboards, percussion) and [PERSON_NAME_FULL_2_MALE] (bass guitar, guitar, flute, keyboards, percussion, recorder, backing vocals). On their first album session musicians Ron Edgar played drums and [PERSON_NAME_FULL_3_MALE] played drums, percussion, and piano. Mike Botts became their permanent drummer when he joined in the summer of [YEAR], and [PERSON_NAME_FULL_1_MALE] replaced [PERSON_NAME_LAST_2] in [YEAR], playing keyboards, bass guitar, guitar, and harmonica.\n",
-      "David Gates was from Tulsa, Oklahoma. He released a song in the late [YEAR]s entitled  [SONG_NAME], was released in [MONTH] [YEAR] but did not chart. Their debut album, [BAND_NAME], was released in [MONTH] [YEAR] and peaked at No. 127 on the Billboard 200. Songwriting on the album was split evenly between Gates and the team of Griffin-Royer. Session musicians [PERSON_NAME_FULL_0_MALE] and Ron Edgar accompanied the band on drums for the album.\n"
-   ]
+   "albums": []
 }

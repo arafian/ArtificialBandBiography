@@ -29,10 +29,5 @@
          "Ringo Sheena"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[SONG_NAME], and a [GENRE]",
-      "Tokyo Jihen was first formed in [YEAR], after [PERSON_NAME_FULL_0_MALE] decided on members for her backing band for her Sugoroku Ecstasy tour. The band was officially announced as [PERSON_NAME_LAST_0]'s main musical unit on [MONTH] 31, [YEAR], and first performed at a series of summer music festivals: Meet the World Beat [YEAR] on [MONTH] 25, [YEAR] at the Expo Commemoration Park in Osaka, [MONTH] 30, [YEAR] at the Fuji Rock Festival in Niigata, and [MONTH] 3, [YEAR] at the Fukuoka Sunset Live festival. The group released their debut single [SONG_NAME] in [MONTH] [YEAR], to commercial success: it reached number two on Oricon's single chart, and was certified gold by the RIAJ.\n",
-      "All 17 of the songs for the Kyōiku era were recorded over a period of four days. [SONG_NAME] in English.\n"
-   ]
+   "albums": []
 }

@@ -39,10 +39,5 @@
       "Radium",
       "Amortem",
       "Rabies"
-   ],
-   "prunedData": [
-      "[BAND_NAME] (In Finnish [SONG_NAME]) is a [GENRE] band from the Juva municipality. \n",
-      "[BAND_NAME] was formed in [YEAR] with some of the same members from the comedy rock band Natsipaska. They released their debut album Kuori the same year. \n",
-      "In [YEAR], Radium was released. \n"
    ]
 }

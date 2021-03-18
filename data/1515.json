@@ -27,10 +27,5 @@
          "Mike White"
       ]
    },
-   "albums": [],
-   "prunedData": [
-      "[BAND_NAME] was a [GENRE] band, formed in [YEAR].  They were one of the earliest punk bands in San Francisco, and later took on a darker, moodier post-punk sound before breaking up in [YEAR].\n",
-      "The band was made up of vocalist/lyricist Ricky Williams, guitarist [PERSON_NAME_FULL_1_MALE], bassist Paul Draper, and drummer [PERSON_NAME_FULL_0_MALE].\n",
-      "The band formed in Palo Alto, California, in [YEAR].  Michael Belfer had been trying to form a band with his friend, [PERSON_NAME_FULL_0_MALE], and Belfer had decided he wanted former Crime drummer Ricky Williams for vocals, as [SONG_NAME].\n"
-   ]
+   "albums": []
 }

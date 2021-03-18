@@ -24,10 +24,5 @@
       "The Bridge",
       "Blind Man's Hill",
       "National Bohemian"
-   ],
-   "prunedData": [
-      "[BAND_NAME] is an [GENRE] band.  They are based in Baltimore, [MONTH]yland and formed between [YEAR] and [YEAR].  The band is known for their live performances, blending various elements of blues, folk, funk and bluegrass.\n",
-      "[BAND_NAME] consists of Cris Jacobs on guitar and vocals, [PERSON_NAME_FULL_0_MALE] on mandolin and vocals, Dave [MONTH]kowitz on bass guitar and vocals, Patrick Rainey on the saxophone, [PERSON_NAME_FULL_1_MALE] on drums, and [MONTH]k Brown on keyboards.  The band has developed a strong following in the [MONTH]yland/Washington D.C. area, and as of Fall [YEAR] have toured much of the United States and parts of western Europe.  They were awarded Baltimore's 'Best Band' and 'Best Album' by the Baltimore City Paper reader's poll in [YEAR].  In [YEAR], they won the Jam Cruise 6 'vote to the boat' contest, earning a spot to play on the annual jam band cruise.\n",
-      "In [YEAR], they were briefly featured on the television show The Wire which is set in their hometown of Baltimore, [MONTH]yland.\n"
    ]
 }

@@ -34,10 +34,5 @@
    },
    "albums": [
       "Philosophy of the World"
-   ],
-   "prunedData": [
-      "[BAND_NAME] were an [GENRE] band formed in Fremont, New Hampshire, in [YEAR]. The band was composed of sisters Dorothy [SONG_NAME] [PERSON_NAME_LAST_0] (vocals/lead guitar), [PERSON_NAME_FULL_0_FEMALE] (vocals/rhythm guitar), Helen [PERSON_NAME_LAST_0] (drums) and, later, [PERSON_NAME_FIRST_1] [PERSON_NAME_LAST_0] (bass).\n",
-      "[BAND_NAME] were formed by Dot, Betty and Helen in [YEAR], on the insistence of their father, Austin Wiggin, who believed that his mother had predicted the band's rise to stardom. The band's only studio album, Philosophy of the World, was released in [YEAR]. The album failed to garner attention, though the band continued to exist as a locally popular live act. [BAND_NAME] disbanded in [YEAR] after the death of Austin.\n",
-      "The band is primarily notable today for their perceived ineptitude at playing conventional rock music; the band was described in one Rolling Stone article as [SONG_NAME] [PERSON_NAME_FULL_0_MALE] of NRBQ compared the group's melodic lines and structures to the free jazz compositions of Ornette Coleman.\n"
    ]
 }
