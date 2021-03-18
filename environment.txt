@@ -24,14 +24,14 @@ requests
 # TO RUN WEBSITE
 ## 1. YOU MUST RUN THE BACKEND
 
-In root dir >>
+In `code/` >>
 - `export FLASK_APP=generate_bio.py`
 - `python -m flask run`
 
 
 ## 2. YOU MUST RUN THE FRONTEND
 
-In `frontend/`>>
+In `code/frontend/`>>
 - Must install npm.
 - `npm install`
 - `npm start`
